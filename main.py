@@ -3,7 +3,7 @@ import pandas as pd
 PATH_TO_DATA_FOLDER = "../Data/"
 PATH_TO_RATINGS = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
-COLUMNS_SIMILARITY = ['User:Rating', 'All', 'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
+COLUMNS_SIMILARITY = ['Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Title:LDA', 'Image:EMB', 'Image:BR', 'Image:SH', 'Image:CO',
                       'Image:COL', 'Image:EN', 'Plot:LDA', 'Plot:cos', 'Genre:LDA',
                       'Genre:Jacc', 'Stars:Jacc', 'Directors:Jacc', 'Date:MD', 'Tag:Genome',
@@ -37,12 +37,12 @@ def get_name_of_film(film: str):
 
 
 def get_mean_similarity(similarity_row: pd.Series):
-    similarity_measures = COLUMNS_SIMILARITY.copy()
-    similarity_measures.remove("All")  # contains all similarity rows except the "All" similarity
     film_paths: list[str, str] = get_film_paths(similarity_row)
     print("First movie: \n\t"+get_name_of_film(film_paths[0]))
     print("Second movie: \n\t"+get_name_of_film(film_paths[1]))
-    # print(silimarity_row[silimarity_measures])
+
+    similarity_values = similarity_row[COLUMNS_SIMILARITY]
+    print("Similarity value: \n\t" + str(sum(similarity_values)/len(similarity_values)))
     exit()
 
 
