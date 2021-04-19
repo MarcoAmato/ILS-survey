@@ -1,24 +1,32 @@
+import pandas
 import pandas as pd
 
 PATH_TO_DATA_FOLDER = "../Data/"
 PATH_TO_RATINGS = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
-COLUMNS_SIMILARITY = ['Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
+COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Title:LDA', 'Image:EMB', 'Image:BR', 'Image:SH', 'Image:CO',
                       'Image:COL', 'Image:EN', 'Plot:LDA', 'Plot:cos', 'Genre:LDA',
                       'Genre:Jacc', 'Stars:Jacc', 'Directors:Jacc', 'Date:MD', 'Tag:Genome',
-                      'SVD']
+                      'SVD'}
 
 
 def get_database_clean(num_rows: int):
     #  returns a pandas dataframe containing the columns [validation$r1, validation$r2] hence, the film ids, and the
     #  similarity measurements of the two
-    interested_columns = ["validation$r1", "validation$r2"] + COLUMNS_SIMILARITY
+    interested_columns = {"validation$r1", "validation$r2"}.union(COLUMNS_SIMILARITY)
     return pd.read_csv(PATH_TO_RATINGS, nrows=num_rows, sep="\t", usecols=interested_columns)
 
 
 def get_columns_of_dataframe(dataframe: pd.DataFrame):
     return dataframe.columns
+
+
+def get_similarity_rows_of_movie(dataframe: pd.DataFrame, movie_id: int):
+    sim_df_of_movie = pandas.DataFrame(columns=dataframe.columns)
+    for sim_row in dataframe:
+        if sim_row["validation$r1"] == movie_id | sim_row["validation$r2"] == movie_id:
+            sim_df_of_movie.append(sim_row)
 
 
 def get_film_paths(similarity_row: pd.Series):
@@ -44,12 +52,12 @@ def get_mean_similarity(similarity_row: pd.Series):
 if __name__ == '__main__':
     similarity_dataframe = get_database_clean(3)
     mean_similarities = list()
-    index = 0
-    for similarity_row in similarity_dataframe.iterrows():
+    for index in range(len(similarity_dataframe.index)):
         mean_similarities.append(get_mean_similarity(similarity_dataframe.iloc[index]))
-        index += 1
     similarity_dataframe['mean_similarity'] = mean_similarities
-    print(similarity_dataframe)
+
+    print(similarity_dataframe.iloc[1]["validation$r2"])
+
     # print(get_columns_of_dataframe(df))
     # test_validation1 = df.iloc[1]["validation$r1"]
     # print(test_validation1)
