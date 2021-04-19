@@ -22,11 +22,12 @@ def get_columns_of_dataframe(dataframe: pd.DataFrame):
     return dataframe.columns
 
 
-def get_similarity_rows_of_movie(dataframe: pd.DataFrame, movie_id: int):
+def get_similarity_rows_of_movie(dataframe: pd.DataFrame, movie_id: str):
     sim_df_of_movie = pandas.DataFrame(columns=dataframe.columns)
-    for sim_row in dataframe:
-        if sim_row["validation$r1"] == movie_id | sim_row["validation$r2"] == movie_id:
-            sim_df_of_movie.append(sim_row)
+    for i, sim_row in dataframe.iterrows():
+        if sim_row["validation$r1"] == movie_id or sim_row["validation$r2"] == movie_id:
+            sim_df_of_movie = sim_df_of_movie.append(sim_row, ignore_index=True)
+    return sim_df_of_movie
 
 
 def get_film_paths(similarity_row: pd.Series):
@@ -56,7 +57,8 @@ if __name__ == '__main__':
         mean_similarities.append(get_mean_similarity(similarity_dataframe.iloc[index]))
     similarity_dataframe['mean_similarity'] = mean_similarities
 
-    print(similarity_dataframe.iloc[1]["validation$r2"])
+    movie_id = (similarity_dataframe.iloc[1]["validation$r2"])
+    print(get_similarity_rows_of_movie(similarity_dataframe, movie_id))
 
     # print(get_columns_of_dataframe(df))
     # test_validation1 = df.iloc[1]["validation$r1"]
