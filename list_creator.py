@@ -37,18 +37,19 @@ def get_name_of_film(film: str):
 
 
 def get_mean_similarity(similarity_row: pd.Series):
-    film_paths: list[str, str] = get_film_paths(similarity_row)
-    print("First movie: \n\t"+get_name_of_film(film_paths[0]))
-    print("Second movie: \n\t"+get_name_of_film(film_paths[1]))
-
     similarity_values = similarity_row[COLUMNS_SIMILARITY]
-    print("Similarity value: \n\t" + str(sum(similarity_values)/len(similarity_values)))
-    exit()
+    return sum(similarity_values) / len(similarity_values)
 
 
 if __name__ == '__main__':
-    df = get_database_clean(100)
-    mean_similarity: float = get_mean_similarity(df.iloc[1])
+    similarity_dataframe = get_database_clean(3)
+    mean_similarities = list()
+    index = 0
+    for similarity_row in similarity_dataframe.iterrows():
+        mean_similarities.append(get_mean_similarity(similarity_dataframe.iloc[index]))
+        index += 1
+    similarity_dataframe['mean_similarity'] = mean_similarities
+    print(similarity_dataframe)
     # print(get_columns_of_dataframe(df))
     # test_validation1 = df.iloc[1]["validation$r1"]
     # print(test_validation1)
