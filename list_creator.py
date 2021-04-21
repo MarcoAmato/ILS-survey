@@ -1,4 +1,4 @@
-import pandas
+from random import sample
 import pandas as pd
 
 PATH_TO_DATA_FOLDER = "../Data/"
@@ -14,7 +14,7 @@ MOVIES_LIST_LENGTH = 10
 
 # returns the dataset where the columns are only: the two movies id and the similarity measurements.
 # 'num_rows' is the number of similarities we are putting into the dataframe
-def get_database_clean(num_rows: int):
+def get_database_clean(num_rows: int) -> pd.DataFrame:
     #  returns a pandas dataframe containing the columns [validation$r1, validation$r2] hence, the film ids, and the
     #  similarity measurements of the two
     interested_columns = {"validation$r1", "validation$r2"}.union(COLUMNS_SIMILARITY)
@@ -30,6 +30,17 @@ def get_similarity_rows_of_movie(dataframe: pd.DataFrame, movie: str):
         if sim_row["validation$r1"] == movie or sim_row["validation$r2"] == movie:
             sim_df_of_movie = sim_df_of_movie.append(sim_row, ignore_index=True)
     return sim_df_of_movie
+
+
+# returns list of all the movies in 'df'
+def get_all_movies(df: pd.DataFrame):
+    movies = []
+    for row in df.iterrows():
+        if row.loc["validation$r1"] not in movies:
+            movies.add(row.loc["validation$r1"])
+        elif row.loc["validation$r2"] not in movies:
+            movies.add(row.loc["validation$r2"])
+    return movies
 
 
 def get_film_paths(similarity_row: pd.Series):
@@ -52,12 +63,29 @@ def get_mean_similarity(similarity_row: pd.Series):
     return sum(similarity_values) / len(similarity_values)
 
 
+def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: list[int]) -> float:
+    ils: float = 0
+    for movie1 in list_of_movies:
+        for movie2 in list_of_movies:
+            if movie1 != movie2:
+                ils += get_similarity(similarity_measures, movie1, movie2)  # ###### do this
+    return ils
+
+
+def get_similarity(similarity_df, movie1, movie2):
+    return 1
+
+
 if __name__ == '__main__':
     similarity_dataframe = get_database_clean(50)
 
-    list_of_movies = similarity_dataframe.sample(MOVIES_LIST_LENGTH)
+    all_movies = get_all_movies(similarity_dataframe)
 
-    print(list_of_movies)
+    test_list_of_movies = sample(all_movies, MOVIES_LIST_LENGTH)  # get random list of MOVIES_LIST_LENGTH movies
+
+    test_get_ILS: float = get_ILS(similarity_dataframe, test_list_of_movies)
+
+    print(test_get_ILS)
 
     """mean_similarities = list()
     for index in range(len(similarity_dataframe.index)):
