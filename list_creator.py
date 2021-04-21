@@ -81,10 +81,6 @@ if __name__ == '__main__':
 
     all_movies = get_all_movies(similarity_dataframe)
 
-    print(all_movies)
-
-    exit()
-
     test_list_of_movies = sample(all_movies, MOVIES_LIST_LENGTH)  # get random list of MOVIES_LIST_LENGTH movies
 
     test_get_ILS: float = get_ILS(similarity_dataframe, test_list_of_movies)
