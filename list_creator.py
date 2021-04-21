@@ -35,11 +35,11 @@ def get_similarity_rows_of_movie(dataframe: pd.DataFrame, movie: str):
 # returns list of all the movies in 'df'
 def get_all_movies(df: pd.DataFrame):
     movies = []
-    for row in df.iterrows():
+    for index, row in df.iterrows():
         if row.loc["validation$r1"] not in movies:
-            movies.add(row.loc["validation$r1"])
+            movies.append(row.loc["validation$r1"])
         elif row.loc["validation$r2"] not in movies:
-            movies.add(row.loc["validation$r2"])
+            movies.append(row.loc["validation$r2"])
     return movies
 
 
@@ -80,6 +80,10 @@ if __name__ == '__main__':
     similarity_dataframe = get_database_clean(50)
 
     all_movies = get_all_movies(similarity_dataframe)
+
+    print(all_movies)
+
+    exit()
 
     test_list_of_movies = sample(all_movies, MOVIES_LIST_LENGTH)  # get random list of MOVIES_LIST_LENGTH movies
 
