@@ -3,22 +3,26 @@ import pandas as pd
 
 PATH_TO_DATA_FOLDER = "../Data/"
 PATH_TO_RATINGS = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
+PATH_TO_TEST_SIMILARITY = PATH_TO_DATA_FOLDER + "similarity_test.csv"
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
 COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Title:LDA', 'Image:EMB', 'Image:BR', 'Image:SH', 'Image:CO',
                       'Image:COL', 'Image:EN', 'Plot:LDA', 'Plot:cos', 'Genre:LDA',
                       'Genre:Jacc', 'Stars:Jacc', 'Directors:Jacc', 'Date:MD', 'Tag:Genome',
                       'SVD'}
-MOVIES_LIST_LENGTH = 10
+MOVIES_LIST_LENGTH = 3
 
 
 # returns the dataset where the columns are only: the two movies id and the similarity measurements.
 # 'num_rows' is the number of similarities we are putting into the dataframe
-def get_database_clean(num_rows: int) -> pd.DataFrame:
+def get_database_clean(num_rows: int = None) -> pd.DataFrame:
     #  returns a pandas dataframe containing the columns [validation$r1, validation$r2] hence, the film ids, and the
     #  similarity measurements of the two
     interested_columns = {"validation$r1", "validation$r2"}.union(COLUMNS_SIMILARITY)
-    return pd.read_csv(PATH_TO_RATINGS, nrows=num_rows, sep="\t", usecols=interested_columns)
+    if num_rows is not None and num_rows >= 1:
+        return pd.read_csv(PATH_TO_TEST_SIMILARITY, nrows=num_rows, sep="\t", usecols=interested_columns)
+    else:
+        return pd.read_csv(PATH_TO_TEST_SIMILARITY, sep="\t", usecols=interested_columns)
 
 
 # returns all the rows of the 'dataframe' where 'movie' is compared to another movie
@@ -68,16 +72,27 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: list[int]) -> flo
     for movie1 in list_of_movies:
         for movie2 in list_of_movies:
             if movie1 != movie2:
-                ils += get_similarity(similarity_measures, movie1, movie2)  # ###### do this
+                print(movie1)
+                print(movie2)
+                sim_movies = get_similarity(similarity_measures, movie1, movie2)
+                print(sim_movies)
+                ils += sim_movies
     return ils
 
 
 def get_similarity(similarity_df, movie1, movie2):
-    return 1
+    for index, similarity_row in similarity_df.iterrows():
+        if (similarity_row.loc["validation$r1"] == movie1
+            and similarity_row.loc["validation$r2"] == movie2) \
+                or (similarity_row.loc["validation$r2"] == movie1
+                    and similarity_row.loc["validation$r1"] == movie2):
+            return get_mean_similarity(similarity_row)
+    print("error")
+    return 0
 
 
 if __name__ == '__main__':
-    similarity_dataframe = get_database_clean(50)
+    similarity_dataframe = get_database_clean()
 
     all_movies = get_all_movies(similarity_dataframe)
 
