@@ -14,7 +14,8 @@ MOVIES_LIST_LENGTH = 3
 
 
 # returns the dataset where the columns are only: the two movies id and the similarity measurements.
-# 'num_rows' is the number of similarities we are putting into the dataframe
+# if 'num_rows' is specified, it is the number of similarities we are putting into the dataframe, otherwise we take
+# them all
 def get_database_clean(num_rows: int = None) -> pd.DataFrame:
     #  returns a pandas dataframe containing the columns [validation$r1, validation$r2] hence, the film ids, and the
     #  similarity measurements of the two
