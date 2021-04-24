@@ -92,12 +92,13 @@ def get_similarity(similarity_df, movie1, movie2):
     return 0
 
 
-similarity_dataframe = get_database_clean()
+if __name__ == "__main__":
+    similarity_dataframe = get_database_clean()
 
-all_movies = get_all_movies(similarity_dataframe)
+    all_movies = get_all_movies(similarity_dataframe)
 
-test_list_of_movies = sample(all_movies, MOVIES_LIST_LENGTH)  # get random list of MOVIES_LIST_LENGTH movies
+    test_list_of_movies = sample(all_movies, MOVIES_LIST_LENGTH)  # get random list of MOVIES_LIST_LENGTH movies
 
-test_get_ILS: float = get_ILS(similarity_dataframe, test_list_of_movies)
+    test_get_ILS: float = get_ILS(similarity_dataframe, test_list_of_movies)
 
-print(test_get_ILS)
+    print(test_get_ILS)
