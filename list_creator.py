@@ -21,15 +21,15 @@ def get_database_clean(num_rows: int = None) -> pd.DataFrame:
     #  similarity measurements of the two
     interested_columns = {"validation$r1", "validation$r2"}.union(COLUMNS_SIMILARITY)
     if num_rows is not None and num_rows >= 1:
-        return pd.read_csv(PATH_TO_TEST_SIMILARITY, nrows=num_rows, sep="\t", usecols=interested_columns)
+        return pd.read_csv(PATH_TO_RATINGS, nrows=num_rows, sep="\t", usecols=interested_columns)
     else:
-        return pd.read_csv(PATH_TO_TEST_SIMILARITY, sep="\t", usecols=interested_columns)
+        return pd.read_csv(PATH_TO_RATINGS, sep="\t", usecols=interested_columns)
 
 
 # returns all the rows of the 'dataframe' where 'movie' is compared to another movie
 def get_similarity_rows_of_movie(dataframe: pd.DataFrame, movie: str):
     # create empty dataframe with same structure as 'dataframe'
-    sim_df_of_movie = pandas.DataFrame(columns=dataframe.columns)
+    sim_df_of_movie = pd.DataFrame(columns=dataframe.columns)
     for i, sim_row in dataframe.iterrows():
         # if 'movie' is in the row this is a similarity measure for 'movie'
         if sim_row["validation$r1"] == movie or sim_row["validation$r2"] == movie:
@@ -97,21 +97,11 @@ if __name__ == '__main__':
 
     all_movies = get_all_movies(similarity_dataframe)
 
+    print(len(all_movies))
+    exit()
+
     test_list_of_movies = sample(all_movies, MOVIES_LIST_LENGTH)  # get random list of MOVIES_LIST_LENGTH movies
 
     test_get_ILS: float = get_ILS(similarity_dataframe, test_list_of_movies)
 
     print(test_get_ILS)
-
-    """mean_similarities = list()
-    for index in range(len(similarity_dataframe.index)):
-        mean_similarities.append(get_mean_similarity(similarity_dataframe.iloc[index]))
-    similarity_dataframe['mean_similarity'] = mean_similarities
-
-    movie_id = (similarity_dataframe.iloc[1]["validation$r2"])
-    print(get_similarity_rows_of_movie(similarity_dataframe, movie_id))"""
-
-    # print(get_columns_of_dataframe(df))
-    # test_validation1 = df.iloc[1]["validation$r1"]
-    # print(test_validation1)
-    # print(get_film(test_validation1))
