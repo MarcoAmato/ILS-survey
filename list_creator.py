@@ -92,6 +92,7 @@ def get_similarity(similarity_df, movie1, movie2):
     return 0
 
 
+exit()
 similarity_dataframe = get_database_clean()
 
 all_movies = get_all_movies(similarity_dataframe)
