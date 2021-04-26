@@ -9,7 +9,7 @@ COLUMNS_USED: set[str] = {"similarity", "validation$r1", "validation$r2"}
 def get_light_dataframe(path_to_new_dataframe) -> None:
     """
     Starting from the dataset in PATH_TO_RATINGS, creates a new dataframe containing only
-        ['movie1', movie2, similarity]. validation$1 and validation$2 become movie1 and movie2, where the suffix
+        ['movie1', movie2, 'similarity']. validation$1 and validation$2 become movie1 and movie2, where the suffix
         ".json" is removed.
         Similarity is the mean of the various similarities
 
