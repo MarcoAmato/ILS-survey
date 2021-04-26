@@ -2,7 +2,8 @@ from random import sample
 import pandas as pd
 
 PATH_TO_DATA_FOLDER = "../Data/"
-PATH_TO_RATINGS = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
+PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
+PATH_TO_NEW_SIMILARITY: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
 COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Title:LDA', 'Image:EMB', 'Image:BR', 'Image:SH', 'Image:CO',
@@ -20,9 +21,9 @@ def get_database_clean(num_rows: int = None) -> pd.DataFrame:
     #  similarity measurements of the two
     interested_columns = {"validation$r1", "validation$r2"}.union(COLUMNS_SIMILARITY)
     if num_rows is not None and num_rows >= 1:
-        return pd.read_csv(PATH_TO_RATINGS, nrows=num_rows, sep="\t", usecols=interested_columns)
+        return pd.read_csv(PATH_TO_RAW_SIMILARITY, nrows=num_rows, sep="\t", usecols=interested_columns)
     else:
-        return pd.read_csv(PATH_TO_RATINGS, sep="\t", usecols=interested_columns)
+        return pd.read_csv(PATH_TO_RAW_SIMILARITY, sep="\t", usecols=interested_columns)
 
 
 # returns all the rows of the 'dataframe' where 'movie' is compared to another movie
@@ -40,10 +41,10 @@ def get_similarity_rows_of_movie(dataframe: pd.DataFrame, movie: str):
 def get_all_movies(df: pd.DataFrame):
     movies = []
     for index, row in df.iterrows():
-        if row.loc["validation$r1"] not in movies:
-            movies.append(row.loc["validation$r1"])
-        elif row.loc["validation$r2"] not in movies:
-            movies.append(row.loc["validation$r2"])
+        if row.loc["movie1"] not in movies:
+            movies.append(row.loc["movie1"])
+        elif row.loc["movie2"] not in movies:
+            movies.append(row.loc["movie2"])
     return movies
 
 
