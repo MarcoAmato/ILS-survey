@@ -3,7 +3,6 @@ import pandas as pd
 
 PATH_TO_DATA_FOLDER = "../Data/"
 PATH_TO_RATINGS = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
-PATH_TO_TEST_SIMILARITY = PATH_TO_DATA_FOLDER + "similarity_test.csv"
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
 COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Title:LDA', 'Image:EMB', 'Image:BR', 'Image:SH', 'Image:CO',
