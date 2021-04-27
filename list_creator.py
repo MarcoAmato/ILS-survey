@@ -6,6 +6,9 @@ from typing import List
 PATH_TO_DATA_FOLDER = "../Data/"
 PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
 PATH_TO_NEW_SIMILARITY: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
+PATH_TO_LITTLE_SIMILARITY: str = PATH_TO_DATA_FOLDER + "little_similarity.csv"
+PATH_TO_ALL_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "all_movies_ids.csv"
+
 NEW_SIMILARITY_DATAFRAME_COLUMNS = ["movie1", "movie2", "similarity"]
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
 COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
@@ -77,11 +80,11 @@ def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
     """
     movies: List[DataFrame] = []
     for movie_id in list_of_movies:
-        movies.append(get_film(movie_id))
+        movies.append(get_movie(movie_id))
     return movies
 
 
-def get_film(movie_id: int) -> DataFrame:
+def get_movie(movie_id: int) -> DataFrame:
     """
     Return dataframe of movie reading the path
     :param movie_id: id of movie

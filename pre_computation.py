@@ -3,12 +3,13 @@ from pandas import DataFrame
 from typing import Dict, Set, List
 
 from list_creator import get_database_clean, get_mean_similarity, get_all_movies_ids, \
-    COLUMNS_SIMILARITY, PATH_TO_NEW_SIMILARITY
+    COLUMNS_SIMILARITY, PATH_TO_NEW_SIMILARITY, get_movie, get_light_dataframe, PATH_TO_LITTLE_SIMILARITY, \
+    PATH_TO_ALL_MOVIES_ID
 
 COLUMNS_USED: set[str] = {"similarity", "validation$r1", "validation$r2"}
 
 
-def write_light_dataframe(path_to_new_dataframe) -> None:
+def write_light_dataframe(path_to_new_dataframe: str) -> None:
     """
     Starting from the dataset in PATH_TO_RATINGS, creates a new dataframe containing only
         ['movie1', movie2, 'similarity']. validation$1 and validation$2 become movie1 and movie2, where the suffix
@@ -36,23 +37,45 @@ def write_light_dataframe(path_to_new_dataframe) -> None:
     df_columns_renamed.to_csv(path_to_new_dataframe, index=False)  # save dataframe to path_to_new_dataframe
 
 
-# def save_top_n_movies_by_popularity(similarities_df: DataFrame, n: int, path_to_save: str) -> None:
-#     """
-#     The similarity measurements of the top n movies of similarities_df are saved to the path_to_save
-#     :param similarities_df: dataframe of movie similarity measurements, it should be the new dataframe with columns
-#         ['movie1', 'movie2', 'similarity']
-#     :param n: number of movies to select
-#     :param path_to_save: path where the similarities will be saved
-#     """
-#     print(f"saving top {n} movies by popularity")
-#
-#     movies: List[int] = get_all_movies_ids(similarities_df)  # get movies of similarities_df
-#
-#     popularity: dict[int, float] = []
-#
-#     for index, row in similarities_df:
+def write_all_movies_ids(path_to_movie_ids: str) -> None:
+    """
+    Writes all movie ids of similarity dataframe to path_to_movie_ids
+    :param path_to_movie_ids: path to write ids
+    """
+    print("write_all_movies_ids starts...")
+    print("reading similarities...")
+    similarities: DataFrame = get_light_dataframe()
+    print("getting movie ids...")
+    movie_ids = get_all_movies_ids(similarities)
+    dataframe_ids: DataFrame = DataFrame(columns=["id"])
+    dataframe_ids["id"] = movie_ids
+    dataframe_ids.sort_values(by="id")
+    print(dataframe_ids)
+    dataframe_ids.to_csv(path_to_movie_ids, index=False)  # save dataframe to path_to_movie_ids
+
+
+def save_top_n_movies_by_popularity(similarities_df: DataFrame, n: int, path_to_save: str) -> None:
+    """
+    The similarity measurements of the top n movies of similarities_df are saved to the path_to_save
+    :param similarities_df: dataframe of movie similarity measurements, it should be the new dataframe with columns
+        ['movie1', 'movie2', 'similarity']
+    :param n: number of movies to select
+    :param path_to_save: path where the similarities will be saved
+    """
+    print(f"saving top {n} movies by popularity")
+    movie_ids: List[int] = get_all_movies_ids(similarities_df)  # get movies of similarities_df
+    popularity_dict: Dict[int, float] = {}
+
+    for movie_id in movie_ids:
+        movie: DataFrame = get_movie(movie_id)
+        popularity: float = movie['tmdb']['popularity']
+        popularity_dict[movie_id] = popularity
+        print(movie_id)
+        print(popularity)
+        exit()
 
 
 if __name__ == "__main__":
-    print("write_light_dataframe: ")
-    write_light_dataframe(PATH_TO_NEW_SIMILARITY)  # saves lighter dataframe in PATH_TO_NEW_DATAFRAME
+    write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
+    # similarity_df: DataFrame = get_light_dataframe()
+    # save_top_n_movies_by_popularity(similarity_df, 10, PATH_TO_LITTLE_SIMILARITY)
