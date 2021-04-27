@@ -62,10 +62,10 @@ def get_all_movies_ids(df_similarities: DataFrame) -> List[int]:
     """
     movies: List[int] = []
     for index, row in df_similarities.iterrows():
-        if row.loc["movie1"] not in movies:
-            movies.append(row.loc["movie1"])
-        elif row.loc["movie2"] not in movies:
-            movies.append(row.loc["movie2"])
+        if row.movie1 not in movies:
+            movies.append(row.movie1)
+        elif row.movie2 not in movies:
+            movies.append(row.movie2)
     return movies
 
 
@@ -137,12 +137,9 @@ def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
 
 if __name__ == "__main__":
     similarities_df: DataFrame = get_light_dataframe()  # columns = ["movie1", "movie2", "similarity"]
-    similarities_df.set_index(["movie1", "movie2"], inplace=True)
-    print(similarities_df)
-    print(similarities_df.iloc[0])
-    exit()
     all_movies: List[int] = get_all_movies_ids(similarities_df)  # list of all movies ids
-    print(all_movies)
+
+    print(len(all_movies))
     exit()
 
     # get random list of MOVIES_LIST_LENGTH movies
