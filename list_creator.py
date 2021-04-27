@@ -1,9 +1,12 @@
 from random import sample
 import pandas as pd
+from pandas import DataFrame
+from typing import List
 
 PATH_TO_DATA_FOLDER = "../Data/"
 PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
-PATH_TO_NEW_SIMILARITY: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"  # ['movie1', movie2, 'similarity']
+PATH_TO_NEW_SIMILARITY: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
+NEW_SIMILARITY_DATAFRAME_COLUMNS = ["movie1", "movie2", "similarity"]
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
 COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Title:LDA', 'Image:EMB', 'Image:BR', 'Image:SH', 'Image:CO',
@@ -13,7 +16,7 @@ COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
 MOVIES_LIST_LENGTH = 3
 
 
-def get_database_clean(num_rows: int = None) -> pd.DataFrame:
+def get_database_clean(num_rows: int = None) -> DataFrame:
     """
     Returns the dataset where the columns are only: the two movies id and the similarity measurements.
     if 'num_rows' is specified, it is the number of similarities we are putting into the dataframe, otherwise we take
@@ -28,7 +31,7 @@ def get_database_clean(num_rows: int = None) -> pd.DataFrame:
         return pd.read_csv(PATH_TO_RAW_SIMILARITY, sep="\t", usecols=interested_columns)
 
 
-def get_light_dataframe(num_rows: int = None) -> pd.DataFrame:
+def get_light_dataframe(num_rows: int = None) -> DataFrame:
     """
     Returns dataframe with columns ['movie1', movie2, 'similarity'], if num_rows is inserted returns first num_rows rows
     :param num_rows: number of rows to be read, if null read all the csv
@@ -51,10 +54,14 @@ def get_similarity_rows_of_movie(dataframe: pd.DataFrame, movie: str):
     return sim_df_of_movie
 
 
-# returns list of all the movies in 'df'
-def get_all_movies(df: pd.DataFrame):
-    movies = []
-    for index, row in df.iterrows():
+def get_all_movies_ids(df_similarities: DataFrame) -> List[int]:
+    """
+    Returns list of all the movies in 'df'
+    :param df_similarities: dataframe of similarities
+    :return: list of movies ids
+    """
+    movies: List[int] = []
+    for index, row in df_similarities.iterrows():
         if row.loc["movie1"] not in movies:
             movies.append(row.loc["movie1"])
         elif row.loc["movie2"] not in movies:
@@ -62,14 +69,11 @@ def get_all_movies(df: pd.DataFrame):
     return movies
 
 
-def get_film_paths(similarity_row: pd.Series):
-    film1 = (similarity_row["validation$r1"])
-    film2 = (similarity_row["validation$r2"])
-    return [film1, film2]
+def get_movies_by_id(list_of_movies: List[int]) -> DataFrame:
 
 
 def get_film(path: str):
-    return pd.read_json(PATH_TO_JSON + path)
+    return pd.read_json(PATH_TO_JSON + path + ".json")
 
 
 def get_name_of_film(film: str):
@@ -83,6 +87,12 @@ def get_mean_similarity(similarity_row: pd.Series):
 
 
 def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: list[int]) -> float:
+    """
+    Returns ILS value for the list_of_movies using the similarity_measures
+    :param similarity_measures: dataframe of similarity measurements
+    :param list_of_movies: list of movies ids
+    :return: ILS value for list_of_movies using similarity_measures
+    """
     ils: float = 0
     for movie1 in list_of_movies:
         for movie2 in list_of_movies:
@@ -95,26 +105,35 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: list[int]) -> flo
     return ils
 
 
-def get_similarity(similarity_df, movie1, movie2):
+def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
+    """
+    Returns the similarity of movie1 and movie2 based on similarity_df
+    :param similarity_df: dataframe of similarities
+    :param movie1: id of movie1
+    :param movie2: id of movie2
+    :return: similarity of movie1 and movie2 based on similarity_df
+    """
     for index, similarity_row in similarity_df.iterrows():
-        if (similarity_row.loc["validation$r1"] == movie1
-            and similarity_row.loc["validation$r2"] == movie2) \
-                or (similarity_row.loc["validation$r2"] == movie1
-                    and similarity_row.loc["validation$r1"] == movie2):
-            return get_mean_similarity(similarity_row)
+        if (similarity_row.movie1 == movie1 and similarity_row.movie2 == movie2) \
+                or (similarity_row.movie2 == movie1 and similarity_row.movie1 == movie2):  # the 2 movies are in the row
+            return similarity_row.similarity  # get similarity of the row
     print("error")
     return 0
 
 
 if __name__ == "__main__":
-    light_df: pd.DataFrame = get_light_dataframe()
-    print(light_df)
+    similarities_df: DataFrame = get_light_dataframe()  # columns = ["movie1", "movie2", "similarity"]
+    similarities_df.set_index(["movie1", "movie2"], inplace=True)
+    print(similarities_df)
+    print(similarities_df.iloc[0])
+    exit()
+    all_movies: List[int] = get_all_movies_ids(similarities_df)  # list of all movies ids
+    print(all_movies)
     exit()
 
-    all_movies = get_all_movies(get_light_dataframe)
+    # get random list of MOVIES_LIST_LENGTH movies
+    test_list_of_movies: List[int] = sample(all_movies, MOVIES_LIST_LENGTH)
 
-    test_list_of_movies = sample(all_movies, MOVIES_LIST_LENGTH)  # get random list of MOVIES_LIST_LENGTH movies
-
-    test_get_ILS: float = get_ILS(similarity_dataframe, test_list_of_movies)
+    test_get_ILS: float = get_ILS(similarities_df, test_list_of_movies)
 
     print(test_get_ILS)
