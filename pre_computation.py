@@ -9,6 +9,3 @@ def save_top_n_movies_by_popularity(similarities_df: pd.DataFrame, n: int, path_
     :param path_to_save: path where the similarities will be saved
     """
     print(f"saving top {n} movies by popularity")
-
-
-
