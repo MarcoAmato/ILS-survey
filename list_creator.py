@@ -70,10 +70,23 @@ def get_all_movies_ids(df_similarities: DataFrame) -> List[int]:
 
 
 def get_movies_by_id(list_of_movies: List[int]) -> DataFrame:
+    """
+    Return dataframe of movies whose ids were passed by list_of_movies
+    :param list_of_movies: list of movie ids
+    :returns list of dataframe of movies
+    """
+    movies: List[DataFrame] = []
+    for movie_id in list_of_movies:
+        movies.append(get_film(movie_id))
 
 
-def get_film(path: str):
-    return pd.read_json(PATH_TO_JSON + path + ".json")
+def get_film(movie_id: int) -> DataFrame:
+    """
+    Return dataframe of movie reading the path
+    :param movie_id: id of movie
+    :return: dataframe of movie
+    """
+    return pd.read_json(PATH_TO_JSON + str(movie_id) + ".json")
 
 
 def get_name_of_film(film: str):
