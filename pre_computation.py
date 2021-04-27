@@ -4,7 +4,7 @@ from typing import Dict, Set, List
 
 from list_creator import get_database_clean, get_mean_similarity, get_movies_from_df, \
     COLUMNS_SIMILARITY, PATH_TO_NEW_SIMILARITY, get_movie, get_light_dataframe, PATH_TO_LITTLE_SIMILARITY, \
-    PATH_TO_ALL_MOVIES_ID
+    PATH_TO_ALL_MOVIES_ID, read_movie_ids_from_csv
 
 COLUMNS_USED: set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -61,17 +61,18 @@ def save_top_n_movies_by_popularity(n: int) -> None:
     :param n: number of movies to select
     """
     print(f"saving top {n} movies by popularity")
-    similarity_df: DataFrame = get_light_dataframe()
-    movie_ids: List[int] = get_movies_from_df(similarity_df)  # get movies of similarities_df
+    movie_ids: Series = read_movie_ids_from_csv()  # get movies of similarities_df
+
     popularity_dict: Dict[int, float] = {}  # dictionary of movie id as key, popularity as value
 
-    for movie_id in movie_ids:
+    for index, movie_id in movie_ids.items():
         movie: DataFrame = get_movie(movie_id)
         popularity: float = movie['tmdb']['popularity']
         popularity_dict[movie_id] = popularity
-        print(movie_id)
-        print(popularity)
-        exit()
+
+    print(popularity_dict)
+
+    ########## FINISH HERE
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 from random import sample
 import pandas as pd
-from pandas import DataFrame
+from pandas import DataFrame, Series
 from typing import List
 
 PATH_TO_DATA_FOLDER = "../Data/"
@@ -39,7 +39,6 @@ def get_light_dataframe(num_rows: int = None) -> DataFrame:
     Returns dataframe with columns ['movie1', movie2, 'similarity'], if num_rows is inserted returns first num_rows rows
     :param num_rows: number of rows to be read, if null read all the csv
     """
-
     if num_rows is not None and num_rows >= 1:
         return pd.read_csv(PATH_TO_NEW_SIMILARITY, nrows=num_rows)
     else:
@@ -57,7 +56,7 @@ def get_similarity_rows_of_movie(dataframe: pd.DataFrame, movie: str):
     return sim_df_of_movie
 
 
-def get_all_movies_ids(df_similarities: DataFrame) -> List[int]:
+def get_movies_from_df(df_similarities: DataFrame) -> List[int]:
     """
     Returns list of all the movies in 'df'
     :param df_similarities: dataframe of similarities
@@ -70,6 +69,16 @@ def get_all_movies_ids(df_similarities: DataFrame) -> List[int]:
         elif row.movie2 not in movies:
             movies.append(row.movie2)
     return movies
+
+
+def read_movie_ids_from_csv() -> Series:
+    """
+    Returns ids of all movies from PATH_TO_ALL_MOVIES_ID
+    """
+
+    df: DataFrame = pd.read_csv(PATH_TO_ALL_MOVIES_ID, index_col=False, header=0)
+    series: Series = df.iloc[:, 0]
+    return series
 
 
 def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
@@ -90,7 +99,8 @@ def get_movie(movie_id: int) -> DataFrame:
     :param movie_id: id of movie
     :return: dataframe of movie
     """
-    return pd.read_json(PATH_TO_JSON + str(movie_id) + ".json")
+    path: str = PATH_TO_JSON + str(movie_id) + ".json"
+    return pd.read_json(path)
 
 
 # def get_name_of_film(film: str):
@@ -140,7 +150,7 @@ def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
 
 if __name__ == "__main__":
     similarities_df: DataFrame = get_light_dataframe()  # columns = ["movie1", "movie2", "similarity"]
-    all_movies: List[int] = get_all_movies_ids(similarities_df)  # list of all movies ids
+    all_movies: List[int] = get_movies_from_df(similarities_df)  # list of all movies ids
 
     print(len(all_movies))
     exit()
