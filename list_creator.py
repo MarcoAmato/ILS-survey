@@ -69,7 +69,7 @@ def get_all_movies_ids(df_similarities: DataFrame) -> List[int]:
     return movies
 
 
-def get_movies_by_id(list_of_movies: List[int]) -> DataFrame:
+def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
     """
     Return dataframe of movies whose ids were passed by list_of_movies
     :param list_of_movies: list of movie ids
@@ -78,6 +78,7 @@ def get_movies_by_id(list_of_movies: List[int]) -> DataFrame:
     movies: List[DataFrame] = []
     for movie_id in list_of_movies:
         movies.append(get_film(movie_id))
+    return movies
 
 
 def get_film(movie_id: int) -> DataFrame:
@@ -89,9 +90,9 @@ def get_film(movie_id: int) -> DataFrame:
     return pd.read_json(PATH_TO_JSON + str(movie_id) + ".json")
 
 
-def get_name_of_film(film: str):
-    film = get_film(film)
-    return film["tmdb"]["title"]
+# def get_name_of_film(film: str):
+#     film = get_film(film)
+#     return film["tmdb"]["title"]
 
 
 def get_mean_similarity(similarity_row: pd.Series):
