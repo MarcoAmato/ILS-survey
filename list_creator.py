@@ -4,9 +4,13 @@ from pandas import DataFrame, Series
 from typing import List
 
 PATH_TO_DATA_FOLDER = "../Data/"
+
+# similarity csv
 PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
 PATH_TO_NEW_SIMILARITY: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
 PATH_TO_LITTLE_SIMILARITY: str = PATH_TO_DATA_FOLDER + "little_similarity.csv"
+
+# movie ids csv
 PATH_TO_ALL_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "all_movies_ids.csv"
 PATH_TO_TOP_10_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "top_10_movies_ids.csv"
 
@@ -72,14 +76,26 @@ def get_movies_from_df(df_similarities: DataFrame) -> List[int]:
     return movies
 
 
-def read_movie_ids_from_csv() -> Series:
+def read_movie_ids_from_csv(path: str) -> Series:
     """
-    Returns ids of all movies from PATH_TO_ALL_MOVIES_ID
+    Returns ids of all movies read from path
+    :param path: path were movie csv is
+    :return: corresponding series of movie ids
     """
 
-    df: DataFrame = pd.read_csv(PATH_TO_ALL_MOVIES_ID, index_col=False, header=0)
+    df: DataFrame = pd.read_csv(path, index_col=False, header=0)
     series: Series = df.iloc[:, 0]
     return series
+
+
+def read_movies_from_csv(path: str) -> List[DataFrame]:
+    """
+    Returns dataframe movies whose ids are in path
+    :param path: path where movie ids are
+    :return: Dataframe of movies
+    """
+    movie_ids: List[int] = read_movie_ids_from_csv(path)
+    return get_movies_by_id(movie_ids)
 
 
 def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
@@ -149,11 +165,14 @@ def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
     return 0
 
 
-if __name__ == "__main__":
+def test_top_10_movies():
+    print("test_top_10_movies")
     similarities_df: DataFrame = get_light_dataframe()  # columns = ["movie1", "movie2", "similarity"]
-    all_movies: List[int] = get_movies_from_df(similarities_df)  # list of all movies ids
+    top_10_movies_ids: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
 
-    print(len(all_movies))
+    for movie in top_10_movies_ids:
+        print(movie)
+
     exit()
 
     # get random list of MOVIES_LIST_LENGTH movies
@@ -162,3 +181,7 @@ if __name__ == "__main__":
     test_get_ILS: float = get_ILS(similarities_df, test_list_of_movies)
 
     print(test_get_ILS)
+
+
+if __name__ == "__main__":
+    test_top_10_movies()
