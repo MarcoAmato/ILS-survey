@@ -1,10 +1,9 @@
-import pandas as pd
+from typing import Dict, List
+
 from pandas import DataFrame, Series
-from typing import Dict, Set, List
 
 from list_creator import get_database_clean, get_mean_similarity, get_movies_from_df, \
-    COLUMNS_SIMILARITY, PATH_TO_NEW_SIMILARITY, get_movie, get_light_dataframe, PATH_TO_LITTLE_SIMILARITY, \
-    PATH_TO_ALL_MOVIES_ID, read_movie_ids_from_csv
+    COLUMNS_SIMILARITY, get_movie, get_light_dataframe, read_movie_ids_from_csv, PATH_TO_TOP_10_MOVIES_ID
 
 COLUMNS_USED: set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -37,6 +36,20 @@ def write_light_dataframe(path_to_new_dataframe: str) -> None:
     df_columns_renamed.to_csv(path_to_new_dataframe, index=False)  # save dataframe to path_to_new_dataframe
 
 
+def write_movie_ids_to_csv(movie_ids: List[int], path: str) -> None:
+    """
+    Writes the movie_ids to a csv specified as path
+    :param movie_ids: list of movie ids to write
+    :param path: path where to write movie ids
+    """
+    movie_ids = list(map(int, movie_ids))  # remove decimal .0 from ids
+    movie_ids.sort()  # sort movies
+
+    series_ids: Series = Series(movie_ids)
+    print(series_ids)
+    series_ids.to_csv(path, index=False)  # save series to path_to_movie_ids
+
+
 def write_all_movies_ids(path_to_movie_ids: str) -> None:
     """
     Writes all movie ids of similarity dataframe to path_to_movie_ids
@@ -47,12 +60,7 @@ def write_all_movies_ids(path_to_movie_ids: str) -> None:
     similarities: DataFrame = get_light_dataframe()
     print("getting movie ids...")
     movie_ids: List[int] = get_movies_from_df(similarities)
-    movie_ids = list(map(int, movie_ids))
-    movie_ids.sort()  # sort movies
-
-    dataframe_ids: Series = Series(movie_ids)
-    print(dataframe_ids)
-    dataframe_ids.to_csv(path_to_movie_ids, index=False)  # save series to path_to_movie_ids
+    write_movie_ids_to_csv(movie_ids, path_to_movie_ids)
 
 
 def get_popularity_dict() -> Dict[int, float]:
@@ -75,9 +83,10 @@ def get_popularity_dict() -> Dict[int, float]:
     return popularity_dict
 
 
-def save_top_n_movies_by_popularity(n: int) -> None:
+def save_top_n_movies_by_popularity(n: int, path: str) -> None:
     """
-    The similarity measurements of the top n movies of similarities_df are saved to the PATH_TO_LITTLE_SIMILARITY
+    The similarity measurements of the top n movies of similarities_df are saved to path
+    :param path: path to write top_n movie_ids
     :param n: number of movies to select
     """
     print(f"saving top {n} movies by popularity")
@@ -88,9 +97,8 @@ def save_top_n_movies_by_popularity(n: int) -> None:
     # get movie_ids of top_n popular movies
     top_n_movies_ids: List[int] = movie_ids_sorted_by_popularity[:n]
 
-    for movie_id in top_n_movies_ids:
-        print(movie_id)
+    write_movie_ids_to_csv(top_n_movies_ids, path)
 
 
 if __name__ == "__main__":
-    save_top_n_movies_by_popularity(10)
+    save_top_n_movies_by_popularity(10, PATH_TO_TOP_10_MOVIES_ID)
