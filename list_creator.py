@@ -8,6 +8,7 @@ PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
 PATH_TO_NEW_SIMILARITY: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
 PATH_TO_LITTLE_SIMILARITY: str = PATH_TO_DATA_FOLDER + "little_similarity.csv"
 PATH_TO_ALL_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "all_movies_ids.csv"
+PATH_TO_TOP_10_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "top_10_movies_ids.csv"
 
 NEW_SIMILARITY_DATAFRAME_COLUMNS = ["movie1", "movie2", "similarity"]
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"

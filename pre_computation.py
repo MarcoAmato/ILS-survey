@@ -55,24 +55,41 @@ def write_all_movies_ids(path_to_movie_ids: str) -> None:
     dataframe_ids.to_csv(path_to_movie_ids, index=False)  # save series to path_to_movie_ids
 
 
+def get_popularity_dict() -> Dict[int, float]:
+    """
+    Returns a dictionary of movie ids as keys and popularity as value, sorted by reverse popularity
+    :return A dictionary of movie ids as keys and popularity as value, sorted by reverse popularity
+    """
+    movie_ids: Series = read_movie_ids_from_csv()  # get movies of similarities_df
+
+    popularity_dict: Dict[int, float] = {}  # dictionary of movie id as key, popularity as value
+
+    for index, movie_id in movie_ids.items():
+        movie: DataFrame = get_movie(movie_id)  # get movie as Dataframe
+        popularity: float = movie['tmdb']['popularity']  # get popularity value
+        popularity_dict[movie_id] = popularity  # add entry to dictionary
+
+    # sort dict by popularity
+    popularity_dict = {k: v for k, v in sorted(popularity_dict.items(), key=lambda item: item[1], reverse=True)}
+
+    return popularity_dict
+
+
 def save_top_n_movies_by_popularity(n: int) -> None:
     """
     The similarity measurements of the top n movies of similarities_df are saved to the PATH_TO_LITTLE_SIMILARITY
     :param n: number of movies to select
     """
     print(f"saving top {n} movies by popularity")
-    movie_ids: Series = read_movie_ids_from_csv()  # get movies of similarities_df
+    # get dictionary of [movie_id, popularity] sorted by popularity
+    popularity_dict: Dict[int, float] = get_popularity_dict()
+    # get movie_ids sorted by popularity
+    movie_ids_sorted_by_popularity: List[int] = list(popularity_dict.keys())
+    # get movie_ids of top_n popular movies
+    top_n_movies_ids: List[int] = movie_ids_sorted_by_popularity[:n]
 
-    popularity_dict: Dict[int, float] = {}  # dictionary of movie id as key, popularity as value
-
-    for index, movie_id in movie_ids.items():
-        movie: DataFrame = get_movie(movie_id)
-        popularity: float = movie['tmdb']['popularity']
-        popularity_dict[movie_id] = popularity
-
-    print(popularity_dict)
-
-    ########## FINISH HERE
+    for movie_id in top_n_movies_ids:
+        print(movie_id)
 
 
 if __name__ == "__main__":
