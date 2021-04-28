@@ -50,15 +50,21 @@ def get_light_dataframe(num_rows: int = None) -> DataFrame:
         return pd.read_csv(PATH_TO_NEW_SIMILARITY)
 
 
-# returns all the rows of the 'dataframe' where 'movie' is compared to another movie
-def get_similarity_rows_of_movie(dataframe: pd.DataFrame, movie: str):
-    # create empty dataframe with same structure as 'dataframe'
-    sim_df_of_movie = pd.DataFrame(columns=dataframe.columns)
-    for i, sim_row in dataframe.iterrows():
-        # if 'movie' is in the row this is a similarity measure for 'movie'
-        if sim_row["validation$r1"] == movie or sim_row["validation$r2"] == movie:
-            sim_df_of_movie = sim_df_of_movie.append(sim_row, ignore_index=True)
-    return sim_df_of_movie
+def get_similarities_of_movies(similarities: DataFrame, list_of_movies: List[int]) -> DataFrame:
+    """
+    Returns a dataframe containing all the similarities between the movies in list_of_movies
+    :param similarities: Dataframe containing all the similarities
+    :param list_of_movies: list of movie ids whose similarities we want to retrieve
+    """
+    # create dataframe for similarities of list_of_movies
+    movies_similarities = DataFrame(columns=NEW_SIMILARITY_DATAFRAME_COLUMNS)
+
+    for index, similarity_row in similarities.iterrows():
+        if similarity_row.movie1 in list_of_movies and similarity_row.movie2 in list_of_movies:
+            # similarity of 2 movies in list_of_movies
+            movies_similarities = movies_similarities.append(similarity_row)
+
+    return movies_similarities
 
 
 def get_movies_from_df(df_similarities: DataFrame) -> List[int]:
@@ -168,10 +174,12 @@ def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
 def test_top_10_movies():
     print("test_top_10_movies")
     similarities_df: DataFrame = get_light_dataframe()  # columns = ["movie1", "movie2", "similarity"]
-    top_10_movies_ids: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
+    top_10_movie_ids = read_movie_ids_from_csv(PATH_TO_TOP_10_MOVIES_ID)
+    #  top_10_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
 
-    for movie in top_10_movies_ids:
-        print(movie)
+    similarities_top_10 = get_similarities_of_movies(similarities_df, top_10_movie_ids)
+
+    print(similarities_df)
 
     exit()
 
