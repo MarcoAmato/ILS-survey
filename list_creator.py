@@ -174,7 +174,13 @@ def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
 def test_top_10_movies():
     print("test_top_10_movies")
     similarities_df: DataFrame = get_light_dataframe()  # columns = ["movie1", "movie2", "similarity"]
-    top_10_movie_ids = read_movie_ids_from_csv(PATH_TO_TOP_10_MOVIES_ID)
+    series: Series = read_movie_ids_from_csv(PATH_TO_TOP_10_MOVIES_ID)
+
+    top_10_movie_ids: List[int] = series.tolist()
+    print(top_10_movie_ids)
+    print(type(top_10_movie_ids))
+    exit()
+
     #  top_10_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
 
     similarities_top_10 = get_similarities_of_movies(similarities_df, top_10_movie_ids)
