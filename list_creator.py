@@ -44,10 +44,14 @@ def get_light_dataframe(num_rows: int = None) -> DataFrame:
     Returns dataframe with columns ['movie1', movie2, 'similarity'], if num_rows is inserted returns first num_rows rows
     :param num_rows: number of rows to be read, if null read all the csv
     """
+    similarities: DataFrame
     if num_rows is not None and num_rows >= 1:
-        return pd.read_csv(PATH_TO_NEW_SIMILARITY, nrows=num_rows)
+        similarities = pd.read_csv(PATH_TO_NEW_SIMILARITY, nrows=num_rows)
     else:
-        return pd.read_csv(PATH_TO_NEW_SIMILARITY)
+        similarities = pd.read_csv(PATH_TO_NEW_SIMILARITY)
+    similarities.movie1 = similarities.movie1.astype(int)  # remove .0 suffix
+    similarities.movie2 = similarities.movie2.astype(int)  # remove .0 suffix
+    return similarities
 
 
 def get_similarities_of_movies(similarities: DataFrame, list_of_movies: List[int]) -> DataFrame:
@@ -141,18 +145,11 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: list[int]) -> flo
     Returns ILS value for the list_of_movies using the similarity_measures
     :param similarity_measures: dataframe of similarity measurements
     :param list_of_movies: list of movies ids
-    :return: ILS value for list_of_movies using similarity_measures
+    :return: ILS value for list_of_movies using the similarities in similarity_measures
     """
-    ils: float = 0
-    for movie1 in list_of_movies:
-        for movie2 in list_of_movies:
-            if movie1 != movie2:
-                print(movie1)
-                print(movie2)
-                sim_movies = get_similarity(similarity_measures, movie1, movie2)
-                print(sim_movies)
-                ils += sim_movies
-    return ils
+    # get similarity Dataframe for the movies in list_of_movies
+    similarities_of_movies: DataFrame = get_similarities_of_movies(similarity_measures, list_of_movies)
+    return similarities_of_movies['similarity'].sum()
 
 
 def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
@@ -176,16 +173,12 @@ def test_top_10_movies():
     similarities_df: DataFrame = get_light_dataframe()  # columns = ["movie1", "movie2", "similarity"]
     top_10_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_10_MOVIES_ID)
 
-    top_10_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
+    # top_10_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
 
-    similarities_top_10 = get_similarities_of_movies(similarities_df, top_10_movie_ids)
-
-    print(similarities_df)
-
-    exit()
+    # similarities_top_10 = get_similarities_of_movies(similarities_df, top_10_movie_ids)
 
     # get random list of MOVIES_LIST_LENGTH movies
-    test_list_of_movies: List[int] = sample(all_movies, MOVIES_LIST_LENGTH)
+    test_list_of_movies: List[int] = sample(top_10_movie_ids, MOVIES_LIST_LENGTH)
 
     test_get_ILS: float = get_ILS(similarities_df, test_list_of_movies)
 

@@ -3,7 +3,8 @@ from typing import Dict, List
 from pandas import DataFrame, Series
 
 from list_creator import get_database_clean, get_mean_similarity, get_movies_from_df, \
-    COLUMNS_SIMILARITY, get_movie, get_light_dataframe, read_movie_ids_from_csv, PATH_TO_TOP_10_MOVIES_ID
+    COLUMNS_SIMILARITY, get_movie, get_light_dataframe, read_movie_ids_from_csv, PATH_TO_TOP_10_MOVIES_ID, \
+    PATH_TO_ALL_MOVIES_ID
 
 COLUMNS_USED: set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -68,11 +69,11 @@ def get_popularity_dict() -> Dict[int, float]:
     Returns a dictionary of movie ids as keys and popularity as value, sorted by reverse popularity
     :return A dictionary of movie ids as keys and popularity as value, sorted by reverse popularity
     """
-    movie_ids: Series = read_movie_ids_from_csv()  # get movies of similarities_df
+    movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_ALL_MOVIES_ID)  # get movies of similarities_df
 
     popularity_dict: Dict[int, float] = {}  # dictionary of movie id as key, popularity as value
 
-    for index, movie_id in movie_ids.items():
+    for movie_id in movie_ids:
         movie: DataFrame = get_movie(movie_id)  # get movie as Dataframe
         popularity: float = movie['tmdb']['popularity']  # get popularity value
         popularity_dict[movie_id] = popularity  # add entry to dictionary
@@ -83,7 +84,7 @@ def get_popularity_dict() -> Dict[int, float]:
     return popularity_dict
 
 
-def save_top_n_movies_by_popularity(n: int, path: str) -> None:
+def write_top_n_movies_by_popularity(n: int, path: str) -> None:
     """
     The similarity measurements of the top n movies of similarities_df are saved to path
     :param path: path to write top_n movie_ids
@@ -104,4 +105,15 @@ def save_top_n_movies_by_popularity(n: int, path: str) -> None:
 
 
 if __name__ == "__main__":
-    save_top_n_movies_by_popularity(10, PATH_TO_TOP_10_MOVIES_ID)
+    print("pre computation starts")
+    # Set PATH_TO_NEW_SIMILARITY in list_creator.py. It should contain the desired path for the optimised csv Set
+    # PATH_TO_ALL_MOVIES_ID in list_creator.py. It should contain the desired path for a csv that will contain the ids
+    #   of all the movies in the dataframe
+    # PATH_TO_TOP_10_MOVIES_ID in list_creator.py. It should contain the desired path for a csv that will contain the
+    #   id of top 10 movies
+
+    #  ##### uncomment below to start
+
+    # write_light_dataframe(PATH_TO_NEW_SIMILARITY)
+    # write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
+    # write_top_n_movies_by_popularity(10, PATH_TO_TOP_10_MOVIES_ID)
