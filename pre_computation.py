@@ -92,8 +92,11 @@ def save_top_n_movies_by_popularity(n: int, path: str) -> None:
     print(f"saving top {n} movies by popularity")
     # get dictionary of [movie_id, popularity] sorted by popularity
     popularity_dict: Dict[int, float] = get_popularity_dict()
+
+    print(popularity_dict)
     # get movie_ids sorted by popularity
     movie_ids_sorted_by_popularity: List[int] = list(popularity_dict.keys())
+
     # get movie_ids of top_n popular movies
     top_n_movies_ids: List[int] = movie_ids_sorted_by_popularity[:n]
 
