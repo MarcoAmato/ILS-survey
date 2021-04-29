@@ -3,7 +3,7 @@ import pandas as pd
 from pandas import DataFrame, Series
 from typing import List
 
-PATH_TO_DATA_FOLDER = "../Data/"
+PATH_TO_DATA_FOLDER = "./Data/"
 
 # similarity csv
 PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
@@ -182,6 +182,7 @@ def test_top_10_movies():
 
     test_get_ILS: float = get_ILS(similarities_df, test_list_of_movies)
 
+    print(test_list_of_movies)
     print(test_get_ILS)
 
 

@@ -3,7 +3,8 @@ from typing import Dict, List
 from pandas import DataFrame, Series
 
 from list_creator import get_database_clean, get_mean_similarity, get_movies_from_df, \
-    COLUMNS_SIMILARITY, get_movie, get_light_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID
+    COLUMNS_SIMILARITY, get_movie, get_light_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID, \
+    PATH_TO_NEW_SIMILARITY, PATH_TO_TOP_10_MOVIES_ID
 
 COLUMNS_USED: set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -11,7 +12,7 @@ COLUMNS_USED: set[str] = {"similarity", "validation$r1", "validation$r2"}
 def write_light_dataframe(path_to_new_dataframe: str) -> None:
     """
     Starting from the dataset in PATH_TO_RATINGS, creates a new dataframe containing only
-        ['movie1', movie2, 'similarity']. validation$1 and validation$2 become movie1 and movie2, where the suffix
+        ['movie1', 'movie2', 'similarity']. validation$1 and validation$2 become movie1 and movie2, where the suffix
         ".json" is removed.
         Similarity is the mean of the various similarities
 
@@ -105,15 +106,7 @@ def write_top_n_movies_by_popularity(n: int, path: str) -> None:
 
 if __name__ == "__main__":
     print("pre computation starts")
-    # Set PATH_TO_RAW_SIMILARITY in list_creator.py. It should contain the path to the normal dataset of similarities
-    # Set PATH_TO_NEW_SIMILARITY in list_creator.py. It should contain the desired path for the optimised csv Set
-    # PATH_TO_ALL_MOVIES_ID in list_creator.py. It should contain the desired path for a csv that will contain the ids
-    #   of all the movies in the dataframe
-    # PATH_TO_TOP_10_MOVIES_ID in list_creator.py. It should contain the desired path for a csv that will contain the
-    #   id of top 10 movies
 
-    #  ##### uncomment below to start
-
-    # write_light_dataframe(PATH_TO_NEW_SIMILARITY)
-    # write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
-    # write_top_n_movies_by_popularity(10, PATH_TO_TOP_10_MOVIES_ID)
+    write_light_dataframe(PATH_TO_NEW_SIMILARITY)
+    write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
+    write_top_n_movies_by_popularity(10, PATH_TO_TOP_10_MOVIES_ID)
