@@ -1,12 +1,12 @@
-from typing import Dict, List
+from typing import Dict, List, Set
 
 from pandas import DataFrame, Series
 
-from list_creator import get_database_clean, get_mean_similarity, get_movies_from_df, \
-    COLUMNS_SIMILARITY, get_movie, get_light_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID, \
-    PATH_TO_NEW_SIMILARITY, PATH_TO_TOP_10_MOVIES_ID
+from list_creator import get_dataframe_movie_ids_and_similarities, get_mean_similarity, get_movies_from_df, \
+    COLUMNS_SIMILARITY, get_movie, get_mean_similarity_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID, \
+    PATH_TO_SIMILARITY_MEAN, PATH_TO_TOP_10_MOVIES_ID, PATH_TO_SIMILARITY_MPG
 
-COLUMNS_USED: set[str] = {"similarity", "validation$r1", "validation$r2"}
+COLUMNS_USED: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
 
 def write_mean_similarity_dataframe(path_to_new_dataframe: str) -> None:
@@ -20,7 +20,7 @@ def write_mean_similarity_dataframe(path_to_new_dataframe: str) -> None:
     """
     renamed_columns: Dict[str, str] = {"validation$r1": "movie1", "validation$r2": "movie2"}
 
-    df_raw: DataFrame = get_database_clean()  # old dataframe
+    df_raw: DataFrame = get_dataframe_movie_ids_and_similarities()  # old dataframe
     similarity_column: List[str] = []  # column that contains the mean similarity of each row
     for index, row in df_raw.iterrows():
         similarity_column.append(get_mean_similarity(row))  # append mean similarity to similarity_column
@@ -29,6 +29,36 @@ def write_mean_similarity_dataframe(path_to_new_dataframe: str) -> None:
     df_raw["similarity"] = similarity_column  # add similarity in dataframe
 
     df_columns_dropped: DataFrame = df_raw.drop(COLUMNS_SIMILARITY, axis=1)  # drop similarity columns
+
+    df_columns_renamed: DataFrame = df_columns_dropped.rename(columns=renamed_columns)  # rename columns
+
+    df_columns_renamed.sort_values(by=['movie1', 'movie2'], inplace=True)  # sort df by movie1 and movie2
+
+    df_columns_renamed.to_csv(path_to_new_dataframe, index=False)  # save dataframe to path_to_new_dataframe
+
+
+def write_mean_similarity_MPG(path_to_new_dataframe: str) -> None:
+    """
+    Starting from the dataset in PATH_TO_RATINGS, creates a new dataframe containing only
+        ['movie1', 'movie2', 'similarity', 'Plot:LDA', 'Genre:Jacc']. validation$1 and validation$2 become movie1 and
+        movie2, where the suffix ".json" is removed.
+        Similarity is the mean of the various similarities
+
+    :param path_to_new_dataframe: path where the new dataframe will be saved
+    """
+    renamed_columns: Dict[str, str] = {"validation$r1": "movie1", "validation$r2": "movie2"}
+
+    df_raw: DataFrame = get_dataframe_movie_ids_and_similarities()  # old dataframe
+    similarity_column: List[str] = []  # column that contains the mean similarity of each row
+    for index, row in df_raw.iterrows():
+        similarity_column.append(get_mean_similarity(row))  # append mean similarity to similarity_column
+        df_raw.at[index, "validation$r1"] = row["validation$r1"].split(".")[0]  # remove suffix ".json"
+        df_raw.at[index, "validation$r2"] = row["validation$r2"].split(".")[0]  # remove suffix ".json"
+    df_raw["similarity"] = similarity_column  # add similarity in dataframe
+
+    plot_genre_similarities: Set[str] = {'Plot:LDA', 'Genre:Jacc'}
+    # drop unneeded columns
+    df_columns_dropped: DataFrame = df_raw.drop(COLUMNS_SIMILARITY.remove(plot_genre_similarities), axis=1)
 
     df_columns_renamed: DataFrame = df_columns_dropped.rename(columns=renamed_columns)  # rename columns
 
@@ -58,7 +88,7 @@ def write_all_movies_ids(path_to_movie_ids: str) -> None:
     """
     print("write_all_movies_ids starts...")
     print("reading similarities...")
-    similarities: DataFrame = get_light_dataframe()
+    similarities: DataFrame = get_mean_similarity_dataframe()
     print("getting movie ids...")
     movie_ids: List[int] = get_movies_from_df(similarities)
     write_movie_ids_to_csv(movie_ids, path_to_movie_ids)
@@ -107,6 +137,8 @@ def write_top_n_movies_by_popularity(n: int, path: str) -> None:
 if __name__ == "__main__":
     print("pre computation starts")
 
-    write_mean_similarity_dataframe(PATH_TO_NEW_SIMILARITY)
-    write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
-    write_top_n_movies_by_popularity(10, PATH_TO_TOP_10_MOVIES_ID)
+    write_mean_similarity_MPG(PATH_TO_SIMILARITY_MPG)  # write dataframe of similarities: mean, Plot:LDA, Genre:Jacc
+
+    # write_mean_similarity_dataframe(PATH_TO_NEW_SIMILARITY)
+    # write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
+    # write_top_n_movies_by_popularity(10, PATH_TO_TOP_10_MOVIES_ID)

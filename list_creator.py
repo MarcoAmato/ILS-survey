@@ -3,16 +3,20 @@ import pandas as pd
 from pandas import DataFrame, Series
 from typing import List
 
+# folders
 PATH_TO_DATA_FOLDER = "./data/"
+PATH_TO_TOP_100 = PATH_TO_DATA_FOLDER + "top100/"
 
 # similarity csv
 PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "all_similarities.csv"
-PATH_TO_NEW_SIMILARITY: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
+PATH_TO_SIMILARITY_MEAN: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
+PATH_TO_SIMILARITY_MPG: str = PATH_TO_DATA_FOLDER + "similarity_mpg.csv"
 PATH_TO_LITTLE_SIMILARITY: str = PATH_TO_DATA_FOLDER + "little_similarity.csv"
 
 # movie ids csv
 PATH_TO_ALL_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "all_movies_ids.csv"
 PATH_TO_TOP_10_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "top_10_movies_ids.csv"
+PATH_TO_TOP_100_MOVIES_ID: str = PATH_TO_TOP_100 + "top_100_movies_ids.csv"
 
 NEW_SIMILARITY_DATAFRAME_COLUMNS = ["movie1", "movie2", "similarity"]
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
@@ -24,13 +28,13 @@ COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
 MOVIES_LIST_LENGTH = 3
 
 
-def get_database_clean(num_rows: int = None) -> DataFrame:
+def get_dataframe_movie_ids_and_similarities(num_rows: int = None) -> DataFrame:
     """
     Returns the dataset where the columns are only: the two movies id and the similarity measurements.
     if 'num_rows' is specified, it is the number of similarities we are putting into the dataframe, otherwise we take
     them all
     :param num_rows: number of rows to be read
-    :return: the clean dataframe
+    :return: the dataframe with movie ids and similarities
     """
     interested_columns = {"validation$r1", "validation$r2"}.union(COLUMNS_SIMILARITY)
     if num_rows is not None and num_rows >= 1:
@@ -39,16 +43,16 @@ def get_database_clean(num_rows: int = None) -> DataFrame:
         return pd.read_csv(PATH_TO_RAW_SIMILARITY, sep="\t", usecols=interested_columns)
 
 
-def get_light_dataframe(num_rows: int = None) -> DataFrame:
+def get_mean_similarity_dataframe(num_rows: int = None) -> DataFrame:
     """
     Returns dataframe with columns ['movie1', movie2, 'similarity'], if num_rows is inserted returns first num_rows rows
     :param num_rows: number of rows to be read, if null read all the csv
     """
     similarities: DataFrame
     if num_rows is not None and num_rows >= 1:
-        similarities = pd.read_csv(PATH_TO_NEW_SIMILARITY, nrows=num_rows)
+        similarities = pd.read_csv(PATH_TO_SIMILARITY_MEAN, nrows=num_rows)
     else:
-        similarities = pd.read_csv(PATH_TO_NEW_SIMILARITY)
+        similarities = pd.read_csv(PATH_TO_SIMILARITY_MEAN)
     similarities.movie1 = similarities.movie1.astype(int)  # remove .0 suffix
     similarities.movie2 = similarities.movie2.astype(int)  # remove .0 suffix
     return similarities
@@ -170,7 +174,7 @@ def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
 
 def test_top_10_movies():
     print("test_top_10_movies")
-    similarities_df: DataFrame = get_light_dataframe()  # columns = ["movie1", "movie2", "similarity"]
+    similarities_df: DataFrame = get_mean_similarity_dataframe()  # columns = ["movie1", "movie2", "similarity"]
     top_10_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_10_MOVIES_ID)
 
     # top_10_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
