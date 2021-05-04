@@ -1,11 +1,13 @@
-Before starting
+Abstract
 =======
-It is necessary to prepare a folder for the datasets. In order to run the files the folder should be organised as follows:
-1. Inside the project root it should be created a folder called 'Data'.
-2. Inside the Data folder it should be the first version of the dataset of similarity measurements, and it should be called **pred2-incl-all_all.csv**
-3. Inside the Data folder it should be a folder containing the JSON files of movies.
-    - The folder should be called **extracted_content_ml-latest**
-    - The movies JSONs should be called **\<movieId\>.json**
+Given a dataset of movies information and another dataset of similarity measurements between each movie, the goal of this project is creating lists from the 100 most popular  movies with relative ILD measurements.
+
+Project setup
+=======
+The folder 'data' should be filled with the following:
+- **movies_jsons** A folder containing a set of jsons with movies information. Each file should be called **\<movieId\>.json**
+- **all_similarities.csv** A csv containing a dataset with similarity measurements for each pair of movie.
+    The similarity measures are: *Title:LV, Title:JW, Title:LCS, Title:BI, Title:LDA, Image:EMB, Image:BR, Image:SH, Image:CO, Image:COL, Image:EN, Plot:TFIDF, Plot:LDA, Genre:LDA, Dir:Jacc, Date:MD, Stars:JACC, Tag, SVD*
     
 Files purpose
 =======
