@@ -3,10 +3,10 @@ import pandas as pd
 from pandas import DataFrame, Series
 from typing import List
 
-PATH_TO_DATA_FOLDER = "./Data/"
+PATH_TO_DATA_FOLDER = "./data/"
 
 # similarity csv
-PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "pred2-incl-all_all.csv"
+PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "all_similarities.csv"
 PATH_TO_NEW_SIMILARITY: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
 PATH_TO_LITTLE_SIMILARITY: str = PATH_TO_DATA_FOLDER + "little_similarity.csv"
 

@@ -9,7 +9,7 @@ from list_creator import get_database_clean, get_mean_similarity, get_movies_fro
 COLUMNS_USED: set[str] = {"similarity", "validation$r1", "validation$r2"}
 
 
-def write_light_dataframe(path_to_new_dataframe: str) -> None:
+def write_mean_similarity_dataframe(path_to_new_dataframe: str) -> None:
     """
     Starting from the dataset in PATH_TO_RATINGS, creates a new dataframe containing only
         ['movie1', 'movie2', 'similarity']. validation$1 and validation$2 become movie1 and movie2, where the suffix
@@ -107,6 +107,6 @@ def write_top_n_movies_by_popularity(n: int, path: str) -> None:
 if __name__ == "__main__":
     print("pre computation starts")
 
-    write_light_dataframe(PATH_TO_NEW_SIMILARITY)
+    write_mean_similarity_dataframe(PATH_TO_NEW_SIMILARITY)
     write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
     write_top_n_movies_by_popularity(10, PATH_TO_TOP_10_MOVIES_ID)
