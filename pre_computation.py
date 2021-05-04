@@ -168,8 +168,8 @@ def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str,
 if __name__ == "__main__":
     print("pre computation starts")
 
-    # write_mean_similarity_MPG(PATH_TO_SIMILARITY_MPG)  # write dataframe of similarities: mean, Plot:LDA, Genre:Jacc
-    # write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
-    # write_top_n_movies_by_popularity(100, PATH_TO_TOP_100_MOVIES_ID)
+    write_mean_similarity_MPG(PATH_TO_SIMILARITY_MPG)  # write dataframe of similarities: mean, Plot:LDA, Genre:Jacc
+    write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
+    write_top_n_movies_by_popularity(100, PATH_TO_TOP_100_MOVIES_ID)
     write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_MOVIES_ID, path_to_write=PATH_TO_SIM_100_MPG,
                                  path_to_similarities=PATH_TO_SIMILARITY_MPG)
