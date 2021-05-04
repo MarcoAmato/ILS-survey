@@ -26,7 +26,7 @@ COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Image:COL', 'Image:EN', 'Plot:LDA', 'Plot:cos', 'Genre:LDA',
                       'Genre:Jacc', 'Stars:Jacc', 'Directors:Jacc', 'Date:MD', 'Tag:Genome',
                       'SVD'}
-MOVIES_LIST_LENGTH = 3
+MOVIES_LIST_LENGTH = 10
 
 
 def get_dataframe_movie_ids_and_similarities(num_rows: int = None) -> DataFrame:
@@ -146,16 +146,25 @@ def get_mean_similarity(similarity_row: pd.Series):
     return sum(similarity_values) / len(similarity_values)
 
 
-def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: list[int]) -> float:
+def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: list[int], method: str) -> float:
     """
     Returns ILS value for the list_of_movies using the similarity_measures
     :param similarity_measures: dataframe of similarity measurements
     :param list_of_movies: list of movies ids
+    :param method: method to compute ILS
     :return: ILS value for list_of_movies using the similarities in similarity_measures
     """
     # get similarity Dataframe for the movies in list_of_movies
     similarities_of_movies: DataFrame = get_similarities_of_movies(similarity_measures, list_of_movies)
-    return similarities_of_movies['similarity'].sum()
+    ILS: float = 0
+    if method == "mean":
+        ILS = similarities_of_movies['similarity'].sum()
+    elif method == "plot":
+        ILS = similarities_of_movies['Plot:LDA'].sum()
+    elif method == "genre":
+        ILS = similarities_of_movies['Genre:Jacc'].sum()
+
+    return ILS
 
 
 def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
@@ -176,7 +185,7 @@ def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
 
 def test_top_10_movies():
     print("test_top_10_movies")
-    similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MPG)  # columns = ["movie1", "movie2", "similarity"]
+    similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MPG)
     top_10_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_10_MOVIES_ID)
 
     # top_10_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
@@ -186,14 +195,34 @@ def test_top_10_movies():
     # get random list of MOVIES_LIST_LENGTH movies
     test_list_of_movies: List[int] = sample(top_10_movie_ids, MOVIES_LIST_LENGTH)
 
-    test_get_ILS: float = get_ILS(similarities_df, test_list_of_movies)
+    ILS_m: float = get_ILS(similarities_df, test_list_of_movies, "mean")
+    ILS_p: float = get_ILS(similarities_df, test_list_of_movies, "plot")
+    ILS_g: float = get_ILS(similarities_df, test_list_of_movies, "genre")
 
     print(test_list_of_movies)
-    print(test_get_ILS)
+    print(ILS_m)
+    print(ILS_p)
+    print(ILS_g)
 
 
 def test_top_100_movies():
     print("test_top_100_movies")
+    similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG)
+    top_100_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
+    test_list_of_movies: List[int] = sample(top_100_movie_ids, MOVIES_LIST_LENGTH)
+
+    ILS_m: float = get_ILS(similarities_df, test_list_of_movies, "mean")
+    ILS_p: float = get_ILS(similarities_df, test_list_of_movies, "plot")
+    ILS_g: float = get_ILS(similarities_df, test_list_of_movies, "genre")
+
+    print("movies: ")
+    print(test_list_of_movies)
+    print("ILD_m: ")
+    print(ILS_m)
+    print("ILD_p: ")
+    print(ILS_p)
+    print("ILD_g: ")
+    print(ILS_g)
 
 
 if __name__ == "__main__":
