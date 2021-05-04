@@ -3,8 +3,8 @@ from typing import Dict, List, Set
 from pandas import DataFrame, Series
 
 from list_creator import get_dataframe_movie_ids_and_similarities, get_mean_similarity, get_movies_from_df, \
-    COLUMNS_SIMILARITY, get_movie, get_mean_similarity_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID, \
-    PATH_TO_SIMILARITY_MEAN, PATH_TO_TOP_10_MOVIES_ID, PATH_TO_SIMILARITY_MPG
+    COLUMNS_SIMILARITY, get_movie, get_similarity_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID, \
+    PATH_TO_SIMILARITY_MEAN, PATH_TO_TOP_10_MOVIES_ID, PATH_TO_SIMILARITY_MPG, PATH_TO_TOP_100_MOVIES_ID
 
 COLUMNS_USED: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -88,7 +88,7 @@ def write_all_movies_ids(path_to_movie_ids: str) -> None:
     """
     print("write_all_movies_ids starts...")
     print("reading similarities...")
-    similarities: DataFrame = get_mean_similarity_dataframe()
+    similarities: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MPG)
     print("getting movie ids...")
     movie_ids: List[int] = get_movies_from_df(similarities)
     write_movie_ids_to_csv(movie_ids, path_to_movie_ids)
@@ -138,7 +138,5 @@ if __name__ == "__main__":
     print("pre computation starts")
 
     write_mean_similarity_MPG(PATH_TO_SIMILARITY_MPG)  # write dataframe of similarities: mean, Plot:LDA, Genre:Jacc
-
-    # write_mean_similarity_dataframe(PATH_TO_NEW_SIMILARITY)
-    # write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
-    # write_top_n_movies_by_popularity(10, PATH_TO_TOP_10_MOVIES_ID)
+    write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
+    write_top_n_movies_by_popularity(100, PATH_TO_TOP_100_MOVIES_ID)

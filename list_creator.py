@@ -43,16 +43,17 @@ def get_dataframe_movie_ids_and_similarities(num_rows: int = None) -> DataFrame:
         return pd.read_csv(PATH_TO_RAW_SIMILARITY, sep="\t", usecols=interested_columns)
 
 
-def get_mean_similarity_dataframe(num_rows: int = None) -> DataFrame:
+def get_similarity_dataframe(path: str, num_rows: int = None) -> DataFrame:
     """
-    Returns dataframe with columns ['movie1', movie2, 'similarity'], if num_rows is inserted returns first num_rows rows
+    Returns dataframe of similarities, if num_rows is inserted returns first num_rows rows
     :param num_rows: number of rows to be read, if null read all the csv
+    :param path: path to dataframe
     """
     similarities: DataFrame
     if num_rows is not None and num_rows >= 1:
-        similarities = pd.read_csv(PATH_TO_SIMILARITY_MEAN, nrows=num_rows)
+        similarities = pd.read_csv(path, nrows=num_rows)
     else:
-        similarities = pd.read_csv(PATH_TO_SIMILARITY_MEAN)
+        similarities = pd.read_csv(path)
     similarities.movie1 = similarities.movie1.astype(int)  # remove .0 suffix
     similarities.movie2 = similarities.movie2.astype(int)  # remove .0 suffix
     return similarities
@@ -174,7 +175,7 @@ def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
 
 def test_top_10_movies():
     print("test_top_10_movies")
-    similarities_df: DataFrame = get_mean_similarity_dataframe()  # columns = ["movie1", "movie2", "similarity"]
+    similarities_df: DataFrame = get_similarity_dataframe()  # columns = ["movie1", "movie2", "similarity"]
     top_10_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_10_MOVIES_ID)
 
     # top_10_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
