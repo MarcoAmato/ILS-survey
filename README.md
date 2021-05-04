@@ -16,10 +16,10 @@ Run pre_computation.py
 This file writes optimized files in the data directory.
 
 The main calls:
-- **write_light_dataframe(PATH_TO_NEW_SIMILARITY)**: The data in the first dataset **pred2-incl-all_all.csv** is processed, and a file called clean_similarity.csv is created in the Data folder. This csv contains a dataframe of columns ['movie1', 'movie2', 'similarity'], where movie1 is the id of the first movie, movie2 is the id of the second movie and similarity is the mean of the similarity measurements for the two movies. 
+- **write_mean_similarity_MPG(PATH_TO_SIMILARITY_MPG)**: The data in the first dataset **all_similarities.csv** is processed, and a file called similarity_mpg.csv is created in the data folder. This csv contains a dataframe of columns ['movie1', 'movie2', 'similarity', 'Plot:LDA', 'Genre:Jacc'], where movie1 is the id of the first movie, movie2 is the id of the second movie, similarity is the mean of the similarity measurements, and 'Plot:LDA' and 'Genre:Jacc' are additional similarity measurements. 
 - write_all_movies_ids(PATH_TO_ALL_MOVIES_ID): A file called all_movies_ids.csv is created in the Data folder. It contains the list of ids of all the movies in the dataset.
-- write_top_n_movies_by_popularity(10, PATH_TO_TOP_10_MOVIES_ID): A file called top_10_movies_ids.csv is created in the Data folder. It contains the ids of the top 10 movies by similarity.
-
+- write_top_n_movies_by_popularity(100, PATH_TO_TOP_100_MOVIES_ID): A file called top_100_movies_ids.csv is created in the data folder. It contains the ids of the top 100 movies by similarity.
+-  write_similarities_of_movies: A file called similarities_mpg.csv is created inside data/top100. It contains the similarities for the top 100 popoularity movies
 
 You can start
 ======
