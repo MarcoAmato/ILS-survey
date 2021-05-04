@@ -11,6 +11,7 @@ PATH_TO_TOP_100 = PATH_TO_DATA_FOLDER + "top100/"
 PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "all_similarities.csv"
 PATH_TO_SIMILARITY_MEAN: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
 PATH_TO_SIMILARITY_MPG: str = PATH_TO_DATA_FOLDER + "similarity_mpg.csv"
+PATH_TO_SIM_100_MPG: str = PATH_TO_TOP_100 + "similarities_mpg.csv"  # similarities mpg for top 100 movies
 PATH_TO_LITTLE_SIMILARITY: str = PATH_TO_DATA_FOLDER + "little_similarity.csv"
 
 # movie ids csv
@@ -175,7 +176,7 @@ def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:
 
 def test_top_10_movies():
     print("test_top_10_movies")
-    similarities_df: DataFrame = get_similarity_dataframe()  # columns = ["movie1", "movie2", "similarity"]
+    similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MPG)  # columns = ["movie1", "movie2", "similarity"]
     top_10_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_10_MOVIES_ID)
 
     # top_10_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
@@ -191,5 +192,9 @@ def test_top_10_movies():
     print(test_get_ILS)
 
 
+def test_top_100_movies():
+    print("test_top_100_movies")
+
+
 if __name__ == "__main__":
-    test_top_10_movies()
+    test_top_100_movies()
