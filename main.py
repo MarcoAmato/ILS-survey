@@ -19,14 +19,17 @@ PATH_TO_ALL_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "all_movies_ids.csv"
 PATH_TO_TOP_10_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "top_10_movies_ids.csv"
 PATH_TO_TOP_100_MOVIES_ID: str = PATH_TO_TOP_100 + "top_100_movies_ids.csv"
 
-NEW_SIMILARITY_DATAFRAME_COLUMNS = ["movie1", "movie2", "similarity"]
+# path to movie JSON
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
+PATH_TO_TOP_100_MOVIES_JSON = PATH_TO_TOP_100 + "movies/"
+
+NEW_SIMILARITY_DATAFRAME_COLUMNS = ["movie1", "movie2", "similarity"]
 COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Title:LDA', 'Image:EMB', 'Image:BR', 'Image:SH', 'Image:CO',
                       'Image:COL', 'Image:EN', 'Plot:LDA', 'Plot:cos', 'Genre:LDA',
                       'Genre:Jacc', 'Stars:Jacc', 'Directors:Jacc', 'Date:MD', 'Tag:Genome',
                       'SVD'}
-MOVIES_LIST_LENGTH = 10
+MOVIES_LIST_LENGTH = 5
 
 
 def get_dataframe_movie_ids_and_similarities(num_rows: int = None) -> DataFrame:
@@ -136,9 +139,8 @@ def get_movie(movie_id: int) -> DataFrame:
     return pd.read_json(path)
 
 
-# def get_name_of_film(film: str):
-#     film = get_film(film)
-#     return film["tmdb"]["title"]
+def get_name_of_movie(movie: DataFrame) -> str:
+    return movie["tmdb"]["title"]
 
 
 def get_mean_similarity(similarity_row: pd.Series):
@@ -163,6 +165,9 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: list[int], method
         ILS = similarities_of_movies['Plot:LDA'].sum()
     elif method == "genre":
         ILS = similarities_of_movies['Genre:Jacc'].sum()
+    elif method == "plot-genre":
+        # mean of plot and genre
+        ILS = (similarities_of_movies['Plot:LDA'].sum() + similarities_of_movies['Genre:Jacc'].sum()) / 2
 
     return ILS
 
@@ -205,6 +210,17 @@ def test_top_10_movies():
     print(ILS_g)
 
 
+def print_names_of_movies(movie_ids: List[int]) -> None:
+    """
+    Prints names of movies whose ids are in movie_ids
+    @param movie_ids: ids of movies
+    """
+    movies_dataframes: List[DataFrame] = get_movies_by_id(movie_ids)
+    for movie in movies_dataframes:
+        movie_name: str = get_name_of_movie(movie)
+        print("\t" + movie_name)
+
+
 def print_ils_top_100_MPG() -> None:
     """
     Finds MOVIES_LIST_LENGTH movies from the top 100 popularity movies and computes mean with:
@@ -213,20 +229,24 @@ def print_ils_top_100_MPG() -> None:
     print("test_top_100_movies")
     similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG)
     top_100_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
-    test_list_of_movies: List[int] = sample(top_100_movie_ids, MOVIES_LIST_LENGTH)
+    sample_list_of_movies: List[int] = sample(top_100_movie_ids, MOVIES_LIST_LENGTH)
 
-    ILS_m: float = get_ILS(similarities_df, test_list_of_movies, "mean")
-    ILS_p: float = get_ILS(similarities_df, test_list_of_movies, "plot")
-    ILS_g: float = get_ILS(similarities_df, test_list_of_movies, "genre")
+    ILS_m: float = get_ILS(similarities_df, sample_list_of_movies, "mean")
+    ILS_p: float = get_ILS(similarities_df, sample_list_of_movies, "plot")
+    ILS_g: float = get_ILS(similarities_df, sample_list_of_movies, "genre")
+    ILS_pg: float = get_ILS(similarities_df, sample_list_of_movies, "plot-genre")
 
     print("movies: ")
-    print(test_list_of_movies)
-    print("ILD_m: ")
+    print_names_of_movies(sample_list_of_movies)
+    # print(sample_list_of_movies)
+    print("ILD using mean of similarities: ")
     print(ILS_m)
-    print("ILD_p: ")
+    print("ILD using mean of Plot:LDA: ")
     print(ILS_p)
-    print("ILD_g: ")
+    print("ILD using mean of Genre:JACC: ")
     print(ILS_g)
+    print("ILD using mean of Plot and Genre: ")
+    print(ILS_pg)
 
 
 if __name__ == "__main__":
