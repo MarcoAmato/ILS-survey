@@ -20,6 +20,7 @@ What it does:
 - A file called all_movies_ids.csv is created and put into data/. It contains the list of ids of all the movies in the dataset.
 - A file called top_100_movies_ids.csv is created and put into data/top100. It contains the ids of the top 100 movies by popularity.
 - A file called similarities_mpg.csv is created and put into data/top100. It contains the similarities for the top 100 moviesby popularity.
+- A folder called movies containing the JSON files of the top 100 movies by popularity is created and put into data/top100
 
 Setup completed
 ------
