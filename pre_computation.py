@@ -173,9 +173,20 @@ def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str,
     :param path_to_similarities: path to similarity measurements
     """
     print("write_similarities_of_movies starts...")
+    # list of movie ids whose similarity we have to look for
     top_n_movies: List[int] = read_movie_ids_from_csv(path_to_movies)
-    similarities: DataFrame = pd.read_csv(path_to_similarities)
+
+    print("reading similarities dataframe...")
+    similarities: DataFrame = get_similarity_dataframe(path_to_similarities)
+    print("reading similarities dataframe done")
+    # pd.read_csv(path_to_similarities)
+
+    print("finding similarities...")
     similarities_of_movies: DataFrame = get_similarities_of_movies(similarities, top_n_movies)
+    print("finding similarities done")
+
+    print(similarities_of_movies)
+    exit()
     similarities_of_movies.to_csv(path_to_write, index=False)
     print("write_similarities_of_movies done")
 
@@ -184,9 +195,9 @@ if __name__ == "__main__":
 
     print("pre computation starts")
 
-    write_mean_similarity_MPG(PATH_TO_SIMILARITY_MPG)  # write dataframe of similarities: mean, Plot:LDA, Genre:Jacc
-    write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
-    write_top_n_movies_by_popularity(100, PATH_TO_TOP_100_MOVIES_ID)
+    # write_mean_similarity_MPG(PATH_TO_SIMILARITY_MPG)  # write dataframe of similarities: mean, Plot:LDA, Genre:Jacc
+    # write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
+    # write_top_n_movies_by_popularity(100, PATH_TO_TOP_100_MOVIES_ID)
     write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_MOVIES_ID, path_to_write=PATH_TO_SIM_100_MPG,
                                  path_to_similarities=PATH_TO_SIMILARITY_MPG)
     # copies json of top n movies

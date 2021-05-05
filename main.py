@@ -72,11 +72,18 @@ def get_similarities_of_movies(similarities: DataFrame, list_of_movies: List[int
     # create dataframe for similarities of list_of_movies
     movies_similarities = DataFrame(columns=NEW_SIMILARITY_DATAFRAME_COLUMNS)
 
+    rows_read: int = 0
     for index, similarity_row in similarities.iterrows():
+        if rows_read % 100000 == 0:
+            print(f"{rows_read} rows read")
+        rows_read += 1
         if similarity_row.movie1 in list_of_movies and similarity_row.movie2 in list_of_movies:
             # similarity of 2 movies in list_of_movies
             movies_similarities = movies_similarities.append(similarity_row)
 
+    movies_similarities.movie1 = movies_similarities.movie1.astype(int)  # movie1 treated as int
+    movies_similarities.movie2 = movies_similarities.movie2.astype(int)  # movie2 treated as int
+    print(movies_similarities)
     return movies_similarities
 
 
