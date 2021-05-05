@@ -125,11 +125,21 @@ def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
     """
     movies: List[DataFrame] = []
     for movie_id in list_of_movies:
-        movies.append(get_movie(movie_id))
+        movies.append(get_movie_from_top100(movie_id))
     return movies
 
 
 def get_movie(movie_id: int) -> DataFrame:
+    """
+    Return dataframe of movie
+    :param movie_id: id of movie
+    :return: dataframe of movie
+    """
+    path: str = PATH_TO_JSON + str(movie_id) + ".json"
+    return pd.read_json(path)
+
+
+def get_movie_from_top100(movie_id: int) -> DataFrame:
     """
     Return dataframe of movie reading the path
     :param movie_id: id of movie
@@ -192,8 +202,6 @@ def test_top_10_movies():
     print("test_top_10_movies")
     similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MPG)
     top_10_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_10_MOVIES_ID)
-
-    # top_10_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_10_MOVIES_ID)  # list of dataframes of movies
 
     # similarities_top_10 = get_similarities_of_movies(similarities_df, top_10_movie_ids)
 
