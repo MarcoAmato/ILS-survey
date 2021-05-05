@@ -7,7 +7,7 @@ from pandas import DataFrame, Series
 from main import get_dataframe_movie_ids_and_similarities, get_mean_similarity, get_movies_from_df, \
     COLUMNS_SIMILARITY, get_movie, get_similarity_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID, \
     PATH_TO_SIMILARITY_MEAN, PATH_TO_TOP_10_MOVIES_ID, PATH_TO_SIMILARITY_MPG, PATH_TO_TOP_100_MOVIES_ID, \
-    get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_JSON, PATH_TO_TOP_100_MOVIES_JSON
+    get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_MOVIES_JSON, PATH_TO_TOP_100_MOVIES_JSON
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -190,4 +190,4 @@ if __name__ == "__main__":
     write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_MOVIES_ID, path_to_write=PATH_TO_SIM_100_MPG,
                                  path_to_similarities=PATH_TO_SIMILARITY_MPG)
     # copies json of top n movies
-    copy_movies(read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID), PATH_TO_JSON, PATH_TO_TOP_100_MOVIES_JSON)
+    copy_movies(read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID), PATH_TO_TOP_100_MOVIES_JSON, PATH_TO_TOP_100_MOVIES_JSON)

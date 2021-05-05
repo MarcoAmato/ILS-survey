@@ -135,7 +135,7 @@ def get_movie(movie_id: int) -> DataFrame:
     :param movie_id: id of movie
     :return: dataframe of movie
     """
-    path: str = PATH_TO_JSON + str(movie_id) + ".json"
+    path: str = PATH_TO_TOP_100_MOVIES_JSON + str(movie_id) + ".json"
     return pd.read_json(path)
 
 
