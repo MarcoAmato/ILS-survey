@@ -205,7 +205,11 @@ def test_top_10_movies():
     print(ILS_g)
 
 
-def test_top_100_movies():
+def print_ils_top_100_MPG() -> None:
+    """
+    Finds MOVIES_LIST_LENGTH movies from the top 100 popularity movies and computes mean with:
+        mean similarity, Plot and Genre
+    """
     print("test_top_100_movies")
     similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG)
     top_100_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
@@ -226,4 +230,4 @@ def test_top_100_movies():
 
 
 if __name__ == "__main__":
-    test_top_100_movies()
+    print_ils_top_100_MPG()

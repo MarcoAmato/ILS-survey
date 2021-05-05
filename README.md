@@ -27,5 +27,5 @@ Once set up the correct dataset you can run the file **list_creator.py**
 
 This file allows getting lists of movies with the related ILS.
 
-The main calls **test_top_100_movies()**.
+The main calls **print_ils_top_100_MPG()**.
 From the top 100 movies by popularity, it samples a list of length: MOVIES_LIST_LENGTH and prints it alongside the ILS computed via mean similarity, Plot:LDA, Genre:JACC
