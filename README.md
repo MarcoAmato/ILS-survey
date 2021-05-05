@@ -29,7 +29,7 @@ Generate lists with ILS
 Once set up the correct dataset you can run the file **main.py**
 
 - A list of 10 movies, called**sample_list_of_movies**, is generated taking random elements from the top 100 movies by popularity.
-- the ILD of **sample_list_of_movies** is computed and printed in the following ways:
+- the ILS of **sample_list_of_movies** is computed and printed in the following ways:
     - mean of similarity measurements
     - Plot:LDA
     - Genre:JACC
