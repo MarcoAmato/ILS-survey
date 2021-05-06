@@ -1,0 +1,1748 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "flying",
+            "id": 334
+         },
+         {
+            "name": "sibling relationship",
+            "id": 380
+         },
+         {
+            "name": "fire",
+            "id": 657
+         },
+         {
+            "name": "marriage proposal",
+            "id": 1459
+         },
+         {
+            "name": "radiation",
+            "id": 1618
+         },
+         {
+            "name": "dna",
+            "id": 1718
+         },
+         {
+            "name": "missile",
+            "id": 2534
+         },
+         {
+            "name": "mask",
+            "id": 2546
+         },
+         {
+            "name": "transformation",
+            "id": 4375
+         },
+         {
+            "name": "supernatural powers",
+            "id": 4769
+         },
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "playboy",
+            "id": 9639
+         },
+         {
+            "name": "superhero",
+            "id": 9715
+         },
+         {
+            "name": "based on comic",
+            "id": 9717
+         },
+         {
+            "name": "laboratory",
+            "id": 10124
+         },
+         {
+            "name": "outer space",
+            "id": 12405
+         },
+         {
+            "name": "explosion",
+            "id": 14601
+         },
+         {
+            "name": "scientist",
+            "id": 14760
+         },
+         {
+            "name": "space station",
+            "id": 156039
+         },
+         {
+            "name": "brooklyn bridge",
+            "id": 158967
+         },
+         {
+            "name": "superhuman strength",
+            "id": 179102
+         },
+         {
+            "name": "invisibility",
+            "id": 189115
+         },
+         {
+            "name": "elasticity",
+            "id": 227591
+         }
+      ],
+      "imdb_id": "tt0120667",
+      "video": false,
+      "title": "Fantastic Four",
+      "recommendations": [
+         1979,
+         559,
+         1927,
+         1250,
+         9480,
+         1734,
+         564,
+         608,
+         36658,
+         558,
+         1724,
+         809,
+         1593,
+         44912,
+         36668,
+         1452,
+         2059,
+         8960,
+         810,
+         1735
+      ],
+      "backdrop_path": "/2yBWCL0RPJ6Av8LWxcrhuMRlZyG.jpg",
+      "revenue": 330579719,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Reed Richards / Mr. Fantastic",
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bed7d",
+               "name": "Ioan Gruffudd",
+               "profile_path": "/iGJI8szrwaRBd484sGO8OOm1HOH.jpg",
+               "id": 65524,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Sue Storm / Invisible Woman",
+               "gender": 1,
+               "credit_id": "52fe4524c3a36847f80bed81",
+               "name": "Jessica Alba",
+               "profile_path": "/yMiHrSyrv5u8qwfi3T8EuI4VPFk.jpg",
+               "id": 56731,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Johnny Storm / Human Torch",
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bed85",
+               "name": "Chris Evans",
+               "profile_path": "/8CgFKCZJVwZxa1F88n8drEux0vT.jpg",
+               "id": 16828,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Ben Grimm / The Thing",
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bed89",
+               "name": "Michael Chiklis",
+               "profile_path": "/fkJnjCERaqOky0gJrSHmwjQ9oOZ.jpg",
+               "id": 19654,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Victor von Doom / Doctor Doom",
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bed8d",
+               "name": "Julian McMahon",
+               "profile_path": "/jg3SSavvKPMVqUy4vKPaQWNFRIc.jpg",
+               "id": 20402,
+               "order": 4
+            },
+            {
+               "cast_id": 23,
+               "character": "Alicia Masters",
+               "gender": 1,
+               "credit_id": "52fe4524c3a36847f80bedf1",
+               "name": "Kerry Washington",
+               "profile_path": "/yufNCkn9YuYei9ThzSgApczUe4K.jpg",
+               "id": 11703,
+               "order": 5
+            },
+            {
+               "cast_id": 24,
+               "character": "Leonard",
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bedf5",
+               "name": "Hamish Linklater",
+               "profile_path": "/l6nAyT4ZqNq7fOAfB0I9Qi4xpzH.jpg",
+               "id": 184581,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "Debbie McIlvane",
+               "gender": 1,
+               "credit_id": "52fe4524c3a36847f80bedf9",
+               "name": "Laurie Holden",
+               "profile_path": "/wGXQYDu0xkWDYUDM9d9UmfUGNOm.jpg",
+               "id": 8332,
+               "order": 7
+            },
+            {
+               "cast_id": 26,
+               "character": "Ernie",
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bedfd",
+               "name": "David Parker",
+               "profile_path": "/5jWveoI0K8j2sCeRCC4zrEOegeM.jpg",
+               "id": 77036,
+               "order": 8
+            },
+            {
+               "cast_id": 27,
+               "character": "Jimmy O'Hoolihan",
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bee01",
+               "name": "Kevin McNulty",
+               "profile_path": "/bsobqFkP1Oe7CQzs3pAy0FZT3yg.jpg",
+               "id": 27111,
+               "order": 9
+            },
+            {
+               "cast_id": 28,
+               "character": "Sexy Nurse",
+               "gender": 1,
+               "credit_id": "52fe4524c3a36847f80bee05",
+               "name": "Maria Menounos",
+               "profile_path": "/dkaPcN5586IIDo9P6jGkfDqkzrj.jpg",
+               "id": 74353,
+               "order": 10
+            },
+            {
+               "cast_id": 39,
+               "character": "Ned Cecil",
+               "gender": 2,
+               "credit_id": "578b8af99251417aca0085b7",
+               "name": "Michael Kopsa",
+               "profile_path": "/A29sJzf8T6vKzhL0wqxhz7jPSvH.jpg",
+               "id": 583061,
+               "order": 11
+            },
+            {
+               "cast_id": 40,
+               "character": "Compound Doctor",
+               "gender": 2,
+               "credit_id": "578b8b26c3a3682bb20088fa",
+               "name": "Andrew Airlie",
+               "profile_path": "/6jMXxjzfPattR8Di0t47uTqvsDD.jpg",
+               "id": 41436,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Nightclub Girlfriend",
+               "gender": 1,
+               "credit_id": "52fe4524c3a36847f80bee0d",
+               "name": "Pascale Hutton",
+               "profile_path": "/x82VhhzUtkvSTPjfijFH8D4R8A0.jpg",
+               "id": 64917,
+               "order": 13
+            },
+            {
+               "cast_id": 38,
+               "character": "Victor's Doctor",
+               "gender": 2,
+               "credit_id": "571a0ebac3a368526e001c13",
+               "name": "Douglas Weston",
+               "profile_path": "/k1C2QqHRMbb09fsgaAshayuO2F1.jpg",
+               "id": 1060194,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Willie Lumpkin",
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bee09",
+               "name": "Stan Lee",
+               "profile_path": "/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg",
+               "id": 7624,
+               "order": 15
+            },
+            {
+               "cast_id": 37,
+               "character": "Reporter - KTLA",
+               "gender": 2,
+               "credit_id": "56e48a759251413269001962",
+               "name": "Sam Rubin",
+               "profile_path": "/mnxkQjkoimnbuHpXtdt49uX27vE.jpg",
+               "id": 92568,
+               "order": 16
+            },
+            {
+               "cast_id": 41,
+               "character": "Nightclub Boyfriend",
+               "gender": 2,
+               "credit_id": "578b8b4c9251410e4f001a3f",
+               "name": "G. Michael Gray",
+               "profile_path": "/oaf5yrORfkGFqvkTRRsPAq9Splu.jpg",
+               "id": 119811,
+               "order": 17
+            },
+            {
+               "cast_id": 52,
+               "character": "WHYY-TV Philadelphia",
+               "gender": 2,
+               "credit_id": "57a0ec3ec3a36847a50001d4",
+               "name": "Patrick Stoner",
+               "profile_path": "/fgDvCJjGlJkWiZr9MIjDx6X35IE.jpg",
+               "id": 1660396,
+               "order": 18
+            },
+            {
+               "cast_id": 162,
+               "character": "Hotel Guest",
+               "gender": 2,
+               "credit_id": "5a91aff4925141418600e0fb",
+               "name": "Ron Chartier",
+               "profile_path": "/ya4jPHgxNqHuTVvLSOPrOBHCsgW.jpg",
+               "id": 1235667,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bedab",
+               "name": "Avi Arad",
+               "profile_path": "/kIG4HF5LSywU0ZdDheDaEsxxohu.jpg",
+               "id": 7626,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bedb1",
+               "name": "Michael Barnathan",
+               "profile_path": null,
+               "id": 17828,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bedb7",
+               "name": "Chris Columbus",
+               "profile_path": "/2fHN78oumrJRM84UydgfVzj0YEl.jpg",
+               "id": 10965,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bedbd",
+               "name": "Bernd Eichinger",
+               "profile_path": "/oBQqBzLhwGhcIV3iYnjfyl7jMR9.jpg",
+               "id": 673,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bedc3",
+               "name": "Kevin Feige",
+               "profile_path": "/AewbqQQT0FbcE358rcbopZ3zgDV.jpg",
+               "id": 10850,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bedc9",
+               "name": "Stan Lee",
+               "profile_path": "/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg",
+               "id": 7624,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bedcf",
+               "name": "Mark Radcliffe",
+               "profile_path": "/1jXjMIPGdcyTzGtVgGmlMIYMDnD.jpg",
+               "id": 11222,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4524c3a36847f80bedd5",
+               "name": "Ralph Winter",
+               "profile_path": "/gNkcdQLpzV8C27bAc2vlLAiaeKx.jpg",
+               "id": 2095,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80beddb",
+               "name": "John Ottman",
+               "profile_path": "/AlYg0cVHpwlTR4wY1iIy9gAsPKx.jpg",
+               "id": 9039,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bede1",
+               "name": "Oliver Wood",
+               "profile_path": null,
+               "id": 11409,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80bede7",
+               "name": "William Hoy",
+               "profile_path": null,
+               "id": 2122,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4524c3a36847f80beded",
+               "name": "Tim Story",
+               "profile_path": "/30HZn70vyclGRRn5AU3szpKyfgC.jpg",
+               "id": 20400,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578b94449251413f74000a99",
+               "name": "Jack Kirby",
+               "profile_path": "/xLVSa7mX1BCyVoKD2wyRGEQXj8M.jpg",
+               "id": 18866,
+               "department": "Writing",
+               "job": "Comic Book"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578b9497c3a3685acb000b3d",
+               "name": "Bill Boes",
+               "profile_path": null,
+               "id": 1128347,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "557d8dd192514153a1003e03",
+               "name": "Lee Cleary",
+               "profile_path": null,
+               "id": 1477146,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "557d8ddb9251411e7c001e02",
+               "name": "Ross Fanger",
+               "profile_path": null,
+               "id": 11014,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "557d8de5c3a368765a00222a",
+               "name": "David Gorder",
+               "profile_path": null,
+               "id": 1477147,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "557d8df0925141539b0049e8",
+               "name": "Kurt Williams",
+               "profile_path": null,
+               "id": 1432021,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "557d8e09c3a368765a002232",
+               "name": "Nancy Klopper",
+               "profile_path": null,
+               "id": 14096,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578b8e749251413f74000844",
+               "name": "Mark Frost",
+               "profile_path": "/paBsASDx2Qap4i51HIm9tycpgBW.jpg",
+               "id": 58837,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578b8e8a9251417aca008720",
+               "name": "Michael France",
+               "profile_path": "/lqs0fo8k1EaAjcaizkNJH6j9xyx.jpg",
+               "id": 10703,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578b9427c3a3685a60000aa5",
+               "name": "Stan Lee",
+               "profile_path": "/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg",
+               "id": 7624,
+               "department": "Writing",
+               "job": "Comic Book"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578b94b5c3a3685a60000ae7",
+               "name": "Shepherd Frankel",
+               "profile_path": "/baixwjPAPDxdvpr1FLxOTsRVgtt.jpg",
+               "id": 7234,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578b94d29251417c07008a83",
+               "name": "Don MacAulay",
+               "profile_path": null,
+               "id": 961544,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "578b94fa9251417b680085f9",
+               "name": "Elizabeth Wilcox",
+               "profile_path": null,
+               "id": 11021,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578b9571c3a3685acb000b97",
+               "name": "Jose Fernandez",
+               "profile_path": null,
+               "id": 1652264,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "579e5721c3a3681db800307b",
+               "name": "Rikki Gagne",
+               "profile_path": "/10cqATXRi8sfQI1ukAFcDBxI572.jpg",
+               "id": 203227,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58218cbe9251413bae005b2c",
+               "name": "Mark N. Tompkins",
+               "profile_path": "/p7a7MPqqXrdvFL9pgL0qP0I7lUH.jpg",
+               "id": 1546584,
+               "department": "Art",
+               "job": "Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746ac9c3a3685dd8013465",
+               "name": "Lee Anne Elaschuk",
+               "profile_path": null,
+               "id": 1856553,
+               "department": "Art",
+               "job": "Art Department Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746ad592514157ec012395",
+               "name": "Lisa Leung",
+               "profile_path": null,
+               "id": 1856554,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746ae3c3a3685dd8013497",
+               "name": "Mira Caveno",
+               "profile_path": null,
+               "id": 1431018,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746af9c3a3685d7f011877",
+               "name": "Constantine Sekeris",
+               "profile_path": null,
+               "id": 1404357,
+               "department": "Art",
+               "job": "Conceptual Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746b10c3a3685ded011fb5",
+               "name": "Jonas Kirk",
+               "profile_path": null,
+               "id": 1386906,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746b28c3a3685d5e011265",
+               "name": "Dave Emmonds",
+               "profile_path": null,
+               "id": 1410353,
+               "department": "Art",
+               "job": "Greensman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746b399251415836012383",
+               "name": "Lynn Chaulk",
+               "profile_path": null,
+               "id": 1378689,
+               "department": "Art",
+               "job": "Lead Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746b63c3a36842c200a2a2",
+               "name": "Margareth Lynch",
+               "profile_path": null,
+               "id": 1856557,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746b9c92514106e2009863",
+               "name": "Brent Boates",
+               "profile_path": null,
+               "id": 1423864,
+               "department": "Art",
+               "job": "Production Illustrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746bb2c3a3685da4011dcf",
+               "name": "Chet Zar",
+               "profile_path": null,
+               "id": 1267653,
+               "department": "Art",
+               "job": "Sculptor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746bcec3a3685da4011df3",
+               "name": "Zoe Jirik",
+               "profile_path": null,
+               "id": 1519404,
+               "department": "Art",
+               "job": "Set Decoration Buyer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59746be292514158430123d5",
+               "name": "Nancy Anna Brown",
+               "profile_path": null,
+               "id": 1378677,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5974f860c3a3685e0101b392",
+               "name": "Mark Chow",
+               "profile_path": null,
+               "id": 1404734,
+               "department": "Camera",
+               "job": "Additional Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f875c3a3685e0101b3a1",
+               "name": "Paul Mitchnick",
+               "profile_path": null,
+               "id": 1319634,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f88a925141580601b3cb",
+               "name": "Steven J. Winslow",
+               "profile_path": null,
+               "id": 1399899,
+               "department": "Camera",
+               "job": "Camera Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f8aac3a3685d5e01a367",
+               "name": "Aristidi Georgiopoulos",
+               "profile_path": null,
+               "id": 1771259,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f8cd92514106e20124ff",
+               "name": "Steve Smith",
+               "profile_path": null,
+               "id": 1644462,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f8f8c3a3685e0101b445",
+               "name": "Mike West",
+               "profile_path": null,
+               "id": 1856756,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5974f90792514106e201254e",
+               "name": "Richard Roles",
+               "profile_path": null,
+               "id": 1494209,
+               "department": "Camera",
+               "job": "Aerial Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f927925141584301b981",
+               "name": "Jim Van Dijk",
+               "profile_path": null,
+               "id": 1408787,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f93bc3a3685ded01b9e1",
+               "name": "Kerry Hayes",
+               "profile_path": null,
+               "id": 1183452,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f95392514157f701bf06",
+               "name": "Ann Foley",
+               "profile_path": null,
+               "id": 1526465,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5974f96992514106a8013609",
+               "name": "James W. Tyson",
+               "profile_path": null,
+               "id": 1206905,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f97ec3a36842c20141b9",
+               "name": "Elke Gordon",
+               "profile_path": null,
+               "id": 1856757,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f98a92514157ec01beb0",
+               "name": "Anji Bemben",
+               "profile_path": null,
+               "id": 1182909,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f9a192514157fb01b995",
+               "name": "Kathryn Bihr",
+               "profile_path": null,
+               "id": 1521518,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f9c0c3a3685d7f01b22b",
+               "name": "Patti Bishop",
+               "profile_path": null,
+               "id": 1559005,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f9d992514157f701bfa0",
+               "name": "Keith Burk",
+               "profile_path": null,
+               "id": 1856766,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f9e6925141583601bb73",
+               "name": "Stacey Butterworth",
+               "profile_path": null,
+               "id": 1401604,
+               "department": "Costume & Make-Up",
+               "job": "Wigmaker"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974f9ff925141580601b551",
+               "name": "Derek Del Puppo",
+               "profile_path": null,
+               "id": 1387539,
+               "department": "Crew",
+               "job": "Carpenter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fa11925141583601bbb0",
+               "name": "Mike Hardison",
+               "profile_path": null,
+               "id": 1416157,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fa24c3a3685ded01bae6",
+               "name": "Bob Bedard",
+               "profile_path": null,
+               "id": 1391706,
+               "department": "Crew",
+               "job": "Chef"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fa35c3a3685dd801ddab",
+               "name": "Steven Wargo",
+               "profile_path": null,
+               "id": 1856771,
+               "department": "Crew",
+               "job": "Craft Service"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5974fa45c3a3685e0101b5ad",
+               "name": "Susan Hegarty",
+               "profile_path": null,
+               "id": 76003,
+               "department": "Crew",
+               "job": "Dialect Coach"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fa5c92514157f701c046",
+               "name": "Andre Bustanoby",
+               "profile_path": null,
+               "id": 1856773,
+               "department": "Crew",
+               "job": "Digital Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fa78c3a3685d5e01a555",
+               "name": "Dave Miller",
+               "profile_path": null,
+               "id": 1559017,
+               "department": "Crew",
+               "job": "Driver"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fa89c3a36842c2014320",
+               "name": "Audrey Dennison",
+               "profile_path": null,
+               "id": 1856774,
+               "department": "Crew",
+               "job": "Loader"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fa9ec3a3685da401b507",
+               "name": "Jamie Clarke",
+               "profile_path": null,
+               "id": 92759,
+               "department": "Crew",
+               "job": "Post Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fab0925141580601b61b",
+               "name": "Patrick Esposito",
+               "profile_path": null,
+               "id": 60934,
+               "department": "Crew",
+               "job": "Post-Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fac392514106a801376e",
+               "name": "Charlie Davis",
+               "profile_path": null,
+               "id": 1562239,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fad892514157f701c0af",
+               "name": "Sid Nicholson",
+               "profile_path": null,
+               "id": 1856777,
+               "department": "Crew",
+               "job": "Propmaker"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fae492514157ec01c02b",
+               "name": "James H. Chow",
+               "profile_path": null,
+               "id": 1446196,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fb0ac3a3685dd801dec6",
+               "name": "John B. Keys",
+               "profile_path": null,
+               "id": 1401391,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fb2d92514157fb01bb24",
+               "name": "Catherine Kretz",
+               "profile_path": null,
+               "id": 1740495,
+               "department": "Crew",
+               "job": "Second Unit Cinematographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fb44c3a3685dd801df22",
+               "name": "Martineau David",
+               "profile_path": null,
+               "id": 1856781,
+               "department": "Crew",
+               "job": "Security"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fb55c3a3685e0101b6c7",
+               "name": "Stefan Herz",
+               "profile_path": null,
+               "id": 1856782,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fb6592514106a8013822",
+               "name": "Tim Gomillion",
+               "profile_path": null,
+               "id": 113048,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fb7cc3a3685dba018c7f",
+               "name": "Steven Kirshoff",
+               "profile_path": null,
+               "id": 15528,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5974fb8dc3a3685d7f01b3fd",
+               "name": "Zack Abramowitz",
+               "profile_path": null,
+               "id": 1523334,
+               "department": "Crew",
+               "job": "Stand In"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fba792514106a8013870",
+               "name": "John Branagan",
+               "profile_path": null,
+               "id": 1424176,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fbc0c3a3685d5e01a6b3",
+               "name": "Dave Alexander",
+               "profile_path": null,
+               "id": 1537033,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fbd3c3a3685ded01bc94",
+               "name": "Bill Haller",
+               "profile_path": null,
+               "id": 1455604,
+               "department": "Crew",
+               "job": "Supervising Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fbe7c3a3685d5e01a6e2",
+               "name": "Devin Bunje",
+               "profile_path": null,
+               "id": 1709358,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fbfe92514157ec01c170",
+               "name": "David Holm",
+               "profile_path": null,
+               "id": 1401598,
+               "department": "Crew",
+               "job": "Transportation Captain"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fc12925141584301bca1",
+               "name": "Scott Irvine",
+               "profile_path": null,
+               "id": 1431104,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5974fc3192514157f701c265",
+               "name": "Ross Fanger",
+               "profile_path": null,
+               "id": 11014,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fc47c3a3685da401b6e9",
+               "name": "Joe Everett",
+               "profile_path": null,
+               "id": 1418489,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5974fc5d925141584301bcec",
+               "name": "Leslie McMichael",
+               "profile_path": "/xWYiOe8HYkMbzLbsKitNLtHC7Sf.jpg",
+               "id": 1814839,
+               "department": "Crew",
+               "job": "Utility Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fc79c3a36842c201456e",
+               "name": "Rob Graham",
+               "profile_path": null,
+               "id": 1856784,
+               "department": "Crew",
+               "job": "Video Assist Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5974fc8892514157f701c2c8",
+               "name": "Peter S. Elliot",
+               "profile_path": null,
+               "id": 57769,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fca0925141584301bd2a",
+               "name": "Lee Cleary",
+               "profile_path": null,
+               "id": 1477146,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fcb2c3a3685ded01bd7d",
+               "name": "Jigesh Gajjar",
+               "profile_path": null,
+               "id": 1856785,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fcc3c3a3685d7f01b54c",
+               "name": "Jim Passon",
+               "profile_path": null,
+               "id": 13223,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fcdb92514157fb01bcfa",
+               "name": "Susan Dawes",
+               "profile_path": null,
+               "id": 1384367,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fcf292514106a80139d5",
+               "name": "Ron Barr",
+               "profile_path": null,
+               "id": 1402036,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fd06c3a3685dd801e15d",
+               "name": "Breanne Larrett",
+               "profile_path": null,
+               "id": 1730089,
+               "department": "Editing",
+               "job": "Editorial Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fd18925141583601bf06",
+               "name": "Danny Rafic",
+               "profile_path": null,
+               "id": 1401897,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fd34925141580601b8e2",
+               "name": "Doug Dalisera",
+               "profile_path": null,
+               "id": 1550733,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fd51c3a3685d7f01b5e7",
+               "name": "Peter Ronan",
+               "profile_path": null,
+               "id": 1856786,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fd6292514157ec01c2e1",
+               "name": "Dennis Brock",
+               "profile_path": null,
+               "id": 1537032,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fd8092514157f701c3d3",
+               "name": "Jonathan Germain",
+               "profile_path": null,
+               "id": 1821423,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5974fd93925141580601b944",
+               "name": "James S. Harvey",
+               "profile_path": null,
+               "id": 1856788,
+               "department": "Lighting",
+               "job": "Lighting Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fd9ec3a3685d5e01a88f",
+               "name": "Jarrod Tiffin",
+               "profile_path": null,
+               "id": 1418404,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fdcb92514157ec01c35e",
+               "name": "Mike Carpenter",
+               "profile_path": null,
+               "id": 1856789,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fde2c3a3685dba018ec7",
+               "name": "Errin Clutton",
+               "profile_path": null,
+               "id": 1559145,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5974fdf6c3a3685da401b8b8",
+               "name": "Damon Michael Gordon",
+               "profile_path": "/lvefVJ1Q4xSmlcUs0o9g9Pf2v23.jpg",
+               "id": 1400510,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fe0f925141583601c007",
+               "name": "Maryjane Layani",
+               "profile_path": null,
+               "id": 1580636,
+               "department": "Production",
+               "job": "Production Accountant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fe2792514157ec01c3cb",
+               "name": "Rebecca Adams",
+               "profile_path": null,
+               "id": 1704380,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fe3992514106e2012ab2",
+               "name": "Stewart Bethune",
+               "profile_path": null,
+               "id": 1537036,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5974fe4e925141580601ba0e",
+               "name": "Brian Walsh",
+               "profile_path": null,
+               "id": 1597443,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5975068bc3a36842c20150e3",
+               "name": "Jim Brookshire",
+               "profile_path": null,
+               "id": 1399057,
+               "department": "Sound",
+               "job": "ADR Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597506b2c3a3685ded01c87d",
+               "name": "Chris Glyn-Jones",
+               "profile_path": null,
+               "id": 1564732,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597506cc925141583601c93b",
+               "name": "Skip Longfellow",
+               "profile_path": null,
+               "id": 1445874,
+               "department": "Sound",
+               "job": "First Assistant Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597506de92514157ec01ccfc",
+               "name": "James Ashwill",
+               "profile_path": null,
+               "id": 1564250,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597506f392514157f701cdd9",
+               "name": "Amanda Goodpaster",
+               "profile_path": null,
+               "id": 1384393,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5975070792514157fb01c7c4",
+               "name": "Dave Jordan",
+               "profile_path": null,
+               "id": 24192,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5975073fc3a3685e0101c398",
+               "name": "Eric Batut",
+               "profile_path": null,
+               "id": 21026,
+               "department": "Sound",
+               "job": "Production Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59750758c3a3685d7f01c084",
+               "name": "Casey Stone",
+               "profile_path": null,
+               "id": 1511063,
+               "department": "Sound",
+               "job": "Scoring Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5975077192514157ec01cd94",
+               "name": "Charles Maynes",
+               "profile_path": null,
+               "id": 554888,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59750787c3a3685dd801edb3",
+               "name": "Phil Jeffers",
+               "profile_path": null,
+               "id": 1856794,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59750793c3a3685da401c31b",
+               "name": "Erik Aadahl",
+               "profile_path": null,
+               "id": 1378695,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597507b6c3a3685dba019818",
+               "name": "John A. Larsen",
+               "profile_path": null,
+               "id": 1398946,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597507d8c3a3685ded01c99e",
+               "name": "Paul Griffin",
+               "profile_path": null,
+               "id": 1415488,
+               "department": "Crew",
+               "job": "Animatronics Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597507ffc3a3685d7f01c12c",
+               "name": "David Zbriger",
+               "profile_path": null,
+               "id": 1673810,
+               "department": "Visual Effects",
+               "job": "I/O Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59750812c3a3685dba019862",
+               "name": "Tommy Frazier ",
+               "profile_path": null,
+               "id": 1460587,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5975082a92514106e2013486",
+               "name": "Alp Altiner",
+               "profile_path": null,
+               "id": 1699155,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59750846925141580601c442",
+               "name": "Dean Gula",
+               "profile_path": null,
+               "id": 1856795,
+               "department": "Visual Effects",
+               "job": "Visual Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5975087ac3a3685ded01ca54",
+               "name": "Melissa Brockman",
+               "profile_path": null,
+               "id": 1436181,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5975088fc3a3685e0101c4ca",
+               "name": "Berj Bannayan",
+               "profile_path": null,
+               "id": 1078710,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597508b1925141580601c4a9",
+               "name": "Trevor Goring",
+               "profile_path": null,
+               "id": 1728325,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597508c9c3a36842c20152f5",
+               "name": "Eric Clement",
+               "profile_path": null,
+               "id": 1494205,
+               "department": "Crew",
+               "job": "Sequence Leads"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597508e2925141584301ca18",
+               "name": "Amy Beresford",
+               "profile_path": null,
+               "id": 1410186,
+               "department": "Crew",
+               "job": "Digital Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "597508fdc3a3685d5e01b3c7",
+               "name": "Kent Beyda",
+               "profile_path": null,
+               "id": 13584,
+               "department": "Editing",
+               "job": "Additional Editing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5975091e92514106a8014676",
+               "name": "Yvonne Melville",
+               "profile_path": null,
+               "id": 1548639,
+               "department": "Production",
+               "job": "Unit Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5975092fc3a3685dd801ef59",
+               "name": "James Start",
+               "profile_path": null,
+               "id": 1856796,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a2561f2c3a3680b960dac92",
+               "name": "Matthew Adams",
+               "profile_path": null,
+               "id": 1798492,
+               "department": "Visual Effects",
+               "job": "Digital Compositors"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab6e0289251413955012497",
+               "name": "Diego Garzon",
+               "profile_path": null,
+               "id": 2005424,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 45.898371,
+      "production_countries": [
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 9738,
+      "vote_count": 3904,
+      "budget": 100000000,
+      "overview": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong \u2026 thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
+      "similar": [
+         1979,
+         1724,
+         558,
+         283995,
+         246655,
+         1927,
+         10138,
+         10195,
+         1771,
+         24428,
+         36648,
+         557,
+         559,
+         1726,
+         9806,
+         9480,
+         1924,
+         1452,
+         49521,
+         118340
+      ],
+      "original_title": "Fantastic Four",
+      "runtime": 106,
+      "poster_path": "/aJwUBmUA11lkNVSJ3if3h3xHSFd.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 3 KG",
+            "id": 26149,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "1492 Pictures",
+            "id": 436,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/53JWq1rzbAXzbh1rnFo3XdqsAUh.png",
+            "name": "Constantin Film Produktion",
+            "id": 5755,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
+            "name": "Marvel Enterprises",
+            "id": 19551,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2005-06-29",
+      "vote_average": 5.6,
+      "belongs_to_collection": {
+         "backdrop_path": "/3JFe9AWoKuQWox7HO8HKgYRMOF7.jpg",
+         "name": "Fantastic Four Collection",
+         "id": 9744,
+         "poster_path": "/prObnUSCHIBC8ZjkGo2KHgjkWOo.jpg"
+      },
+      "tagline": "4 times the action. 4 times the adventure. 4 times the fantastic.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Tim Story"],
+      "runtime": 106,
+      "synopsis": null,
+      "writers": [
+         "Mark Frost",
+         "Michael France"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120667/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM1NTIwNjM4M15BMl5BanBnXkFtZTcwNDc2NjgyMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "actors": ["Stars: Ioan Gruffudd, Michael Chiklis, Chris Evans | See full cast and crew »"],
+      "reviews": [
+         "In that there are Four of them. But Fantastic? More like \"Mediocre\", or \"Barely Adequate\", or \"Contractually Sufficient\". For once, the reviewers were right. This film is a big, rambling, poorly conceived, sloppily scripted, shoddily acted pile of orange rubble. Avoid it, or suffer the consequences. It's hard to know where to begin, there's so much wrong with it. For a start, the acting \"talent\" is AWOL. TV performers don't inevitably get lost on the big screen, but this cadre evited it. Alba turns in the exact same performance that she always does, going through her entire range, from \"pouty and petulant\" to \"petulant and pouty\". Evans is either a strutting superannuated fratboy poseur, or for some reason is deliberately playing one so well that it's hard to tell the difference - either way, his character is thoroughly irritating and utterly unsympathetic. Chiklis is adequate, but is let down by the plain fact that he's a round little man in a big rubber muscle suit. This was a role for Ron Perlman, not Wimpy. Gruffudd is a huge disappointment; he has no screen presence, and his slightly out-of-his-depth portrayal of Hornblower is apparently the man, not the character. It would have been better if he had been invisible, as he manages to fade into the background with ease in every scene. McMahon is the only actor who appears to be enjoying himself, but as he's barely in the film, he can't rescue it. The script was apparently in development for ten years. I can't see why, as it's one scene, repeated ten times. If this is the refined version, I shudder to imagine what the raw cut would have been like. I find it hard to believe that the lines were written by, or for, adults. There's no real plot to the film, or even a story beyond \"Nasty self absorbed un-credible astronauts become nasty self absorbed un-credible 'super' heroes, then argue with each other for a while, take their clothes off for no reason, then beat up some poor disfigured guy apparently because he didn't join their little gang, roll credits.\" Direction and cinematography was Filmschool #101, the score was instantly forgettable, and the editing was appalling, with the pacing in particular being random and rushed. The effects were only what we've come to expect from a hundred million dollar movie, which brings me to the big question: what on earth did they spend all that money on? It wasn't on the \"talent\", either on-screen or off, it certainly wasn't on the rubber suit, and the effects couldn't have cost that much - or if they did, they were seriously over-charged. I have an idea where at least some of the budget went. From IMDb's Trivia section: \"Contains over 25 cameos from real life employees of Fox television affiliates.\" And I strongly suspect that the IMDb records for this movie contain about 2,5000 comments and ratings and mutual approvals from about five of those real life employees. Reading the top recommended comments, most of which have 10 ratings, reveals a depressing pattern of almost identically styled raves from the likes of \"top10dude\" and \"BigTenPower\" with embarrassingly obvious track records of enthusing about, you guessed it, other shoddy Fox movies. When someone rates Elektra a 10, you have to just snort in disbelief at the audacity of it. I guess it's a pretty good investment for Fox, but this kind of astroturfing drastically reduces the usefulness of IMDb as an early review source. With time, this awful, foul mess of a movie will no doubt settle to its rightful place near the bottom of the ratings pile, but it's likely that the shill reviews will stay stubbornly at the top of the recommended pile for a long time to come. Beware; consider the source. [2013 update] To this day, the top 'recommended' comment is an early 10 rating from a member who signed up to IMDb just to rave about this one film using the minimum allowed size of review, and then never contributed again. What dedication!",
+         "This film was well put together, fun, and didn't take itself at all seriously. I am not sure where the negative hype comes from, but I find when a good film gets bad reviews, that means most people just didn't get it. In this case, perhaps from the last few comic book films that attempted to \"mean something,\" I think people forgot how to enjoy themselves. Laden with kitsch and tongue-in-cheek humor, this movie embraces that it comes from a comic book and allows itself to be big and a little silly. Yes, Jessica Alba wears an impossibly tight jumpsuit. Yes, the Human Torch is so slick and charming that, if you met him in real life, he'd get a solid smack for his arrogance. But this isn't real life, people, in case you forgot-this is the Marvel Universe, where clothes are tight and the dialog...isn't. Who cares? This movie is so fun that you wish these people did exist and would take some media focus off the jerks that are in the public eye.",
+         "During a failed experiment in space, Reed Richards (Ioan Gruffudd), Sue and Johnny Storm (Jessica Alba and Chris Evans), Ben Grimm (Michael Chiklis) and Dr. Victor Von Doom are bombarded by cosmic rays, changing their molecular systems and giving them superpowers. Four of them become the superhero team, the Fantastic Four, while Doom becomes their new enemy. The Fantastic Four is far from fantastic but it does make for decent entertainment. The movie is very light-hearted and it isn't complex at all. This is good news and bad news. The good part is that the film doesn't take itself so seriously and the movie ends up being mildly enjoyable. On the other hand, it becomes silly and cheesy with laughable acting and events. Also, the movie is actually kind of dull. There are some fun spots (like the bridge scene) but there is really no spark to the film. The blame should go to Tim Story and his lack of imagination. He keeps the film bland and dull but he shouldn't get all the blame. He is working with a cheesy and weak script courtesy of Michael France and Mark Frost. If the writing had been a little better and the direction a little sharper then the film could have been better but it stands as a mediocre one. The acting is a mix bag with some good performances and a couple of bad ones. Chris Evans gives the best performance as Johnny Storm. He seems to be having a blast and his performance is contagious. It's also nice to see something different. Usually in super hero movies, the superheroes are moody and they just want a normal life, which isn't a bad thing. However Johnny Storm actually wants to show off and he considers his new powers to be a blessing and not a curse. On the opposite side of Johnny Storm, you have Ben Grimm played by Michael Chiklis. He is the exact opposite and he wants to give rid of his powers. His situation is pretty sad since his fiancé leaves him and it's hard for him to really live a normal life. Chiklis gives a good performance and it was a little heartwarming. Jessica Alba gives a bad performance as Sue Storm. She is unconvincing as a scientist and her emotions feel fake. Ioan Gruffudd is actually somehow worse and he can't really act. His chemistry with Jessica Alba is almost non existent. The only other person worth mentioning is Julian McMahon and he plays Dr. Victor Von Doom. I think he makes a good bad guy and he gives a decent performance. Despite the lack of quality in the film, Fantastic Four is pretty harmless. There is nothing here that should really offend anyone and it works better with kids than with adults or teenagers. The film has some things going for it though. The special effects are at least above average and the movie provides decent eye candy. As previously noted, there are some performances that stood out so the whole experience isn't a complete waste of time. However, The Fantastic Four is still a disappointment. In the end, the movie is worth a rental at the most, in my opinion. Rating 5/10",
+         "I don't understand the reason behind the bad reviews & comments given to this movie, I mean this movie was pretty good, i think one of the main reasons behind it is that Fantastic Four was never popular as some of the other Marvel comics, so people didn't really care to see this as much as Spiderman or X-men, personally Ben Grimm was one of the more outstanding characters, Jessica Alba as Sue Storm was one of the main reasons for me watching the movie for obvious reasons. Chris Evans as Johnny Storm was pretty funny throughout the whole movie. I really enjoyed the movie from start to finish. It was very much an entertaining movie, but maybe fell to short in time, it could've been a little longer but it seemed to finish a little to quickly. My main point to this review is to inform people just to watch this movie with an open mind.",
+         "FANTASTIC FOUR Now honestly, I knew I couldn't expect much when I rented this movie, but all I wanted was stupid entertainment. But this movie was so terrible and simple that it was confusing. This has to be one of the most god-awful screenplays that Hollywood has ever produced. Being completely honest... I could have written a better screenplay and directed a better film. The Fantastic Four as a comic-book has enormous cinematic potential because it takes a group of super-heroes who are reluctantly thrust into their roles as super-humans... however, their stories are even stronger b/c of the honest and deep family dynamic they hold as a team. Every piece of that is lost in this translation to film. In order to set up a good franchise, they should have taken the time to explore who these people are before and during their mission to space. Reed's mission isn't described to the audience as anything deeper than \"if we head into space and get a testing from a space cloud, we can help people live longer\". That's honestly the most detailed description of his mission. And the dynamic between Reed and Sue Storm is never actually apparent between the actors... there are only random moments of dialogue that spoon feed the audience the most elementary tension between them. Basicall the film is a giant waste of a source material that could have made a great film. It's filled with implausibilities and unexplained errors... for example: - Why could Reed's every-day, cotton shirts stretch to unbelievable lengths along with his body? However, in order for Jessica Alba to become invisible she must strip off her clothes... yeah, very subtle... hot chick gets naked... - What was the point of The Thing (Michael Chiklis) saving the one suicidal man on the bridge? B/C in the process of doing so he destroys about 10 cars and probably kills numerous people on the highway. - How did The Thing manage to change himself back into his deformed self without anyone to push the button? - What was with all the BLATANT, BLATANT, BLATANT product placements? Pathetic. - If they were in quarantine, how did Chris Evans managed to take that awful actress from ACCESS Hollywood not only out of the building... but in a ****ing helicopter on a huge mountain? Aside from all of this, the performances are awful. The only actor who comes out slightly unscathed is Chris Evans as Johnny Storm/\"Human Torch\"... he obviously got to ad-lib some lines which gave him the best dialogue in the film. Jessica Alba is not only completely wrong for the role of Sue Storm (with a good screenplay this is the kind of role that should be played by Naomi Watts or Charlize Theron... she's supposed to be maternal and wise). Whoever played Mr. Fantastic should never work again. Micheal Chikless as The Thing offers one of the worst performances ever given while wearing such a ridiculous costume (The Teenage Mutant Ninja Turtles were played better). And Julian McMahon as Dr. Doom wasn't scary for a single frame. I can't tell if it's all to blame on Tim Story, the director *cough cough. I can tell you this is about one of the least talented young directors working today... TAXI and FANTASTIC FOUR, greeeeat resume buddy. Honestly, I knew I couldn't expect much... but the universal awfulness of this movie was just ridiculous. Not once was it exciting, funny, or tense. It just wasted two hours of life. And it's extra disappointing b/c I can picture in my head how great of a film could have been made from the source material. Awww well... Hollywood blew a good opportunity and everyone involved made a fool of themselves doing so. Too bad. ... F ...",
+         "This movie was all over the place, the story was stupid, the character development was crap, the action scenes doesn't make sense, the editing of the movie is horrible. The movie failed to make you feel sympathy with the characters, you can't identify with any of them, it felt as if you started watching from the middle of the movie. The action scene on the bridge was amazingly stupid and pointless, the thing causes terrible car wreck on the bridge trying to save someone from killing himself and then the fantastic four all use their powers to save people, that action scene felt all wrong and ridiculous. The scene with the motocross and the human torch was also pointless. The movie suffers this tough criticism because it disappointed so many people so much.",
+         "The Fantastic Four was a pretty good superhero movie but it lacked something. I do not think it truly lived up to it's endless hype from early this year. Aside from a few scenes that stick out, most are in the trailer, there is not much there other than some slick special effects sprinkled about. It is understandable, however, due to the fact that this film is about the origin of 5 different individuals and how they gained their super powers. I imagine the next one (of course, if there is a next one) will be more action packed. As for a quick rundown of the story, 5 people are sent into a space ship to gather information that would be helpful in curing diseases and other good stuff. The crew consists of Ben Grimm (Michael Chiklis), Reed Richards, (Ioan Gruffudd), Johnny Storm (Chris Evans), Sue Storm (Jessica Alba) & Victor Von Doom (Julian McMahon). While in the space station, the super cosmic storm hits hours earlier than expected and all 5 are caught in the storm, forever altering their DNA (or something like that). The one that got it the worst was Grimm. The standouts from this movie are The Thing/Ben Grimm, Johnny Storm/Human Torch & Sue Storm/Invisible Girl. The Thing & Torch stand out because of both their characters and personalities & Jessica Alba stands out pretty much just because she is Jessica Alba. I feel that Reed Richards was more of an annoyance in the movie and not as likable a character as, say, the Human Torch. Also, I fear that Dr. Doom will probably forever be compared to the Green Goblin from Spider-Man, due to the hokey masks and all. Also, the voice for Doom did not quite fit for me. I am not sure if his voice is supposed to be that docile or not, but I always pictured a deeper, more menacing voice for him. I do hope this movie is not as criticized as movies such as Hulk or Daredevil. This movie was not that bad, probably not even as bad as I have made it seem. I would rate it somewhere in between X-Men and Daredevil. 7.5/10",
+         "This movie was really,really,really a great disappointment. First off when i went to see this movie i was expected something action-packed and a little funny. It was a major disappointment to see that there was barely any action/violence whatsoever it was mostly the 4 trying to figure out their powers and them arguing! The plot of this movie states \"Five friends get special powers after being exposed to harmful space ray things, then they have to save the from Dr. Doom\", but really they are barely any fight scenes at all with Dr. Doom and when there is it's not that spectacular! And, they don't even use their powers that much like I said it's basically them just arguing with each other! Anyways, this movie was a great disopointmeant i give it 3 out of 10.",
+         "Wow! Just WOW! Let me start by saying I'm not a regular Fantastic Four reader, but I am a huge superhero fan and I've been reading comic books and watching superhero movies since the mid seventies. Spider-Man's my favorite, so I'm familiar with the FF characters from team-ups, crossovers etc. A few days ago I was visiting a friend in NYC and he treated me to a special advance showing of the Fantastic Four. Now I've been watching superhero movies since the original Superman, and year after year, film after film, they've gotten close, but there always seems to be something missing. With Spider-Man, for example, I liked it, but I thought the Goblin could have been much better and Toby M. made a great Peter Parker, but mediocre Spider-man. But the Fantastic Four . . . this one seemed to finally put it all together. The good guys were good (without being goody-goody) the bad guy was bad (without being a caricature) the setting was grounded and realistic (not an altered reality like the early Batman films) allowing just enough suspension of disbelief where it was really needed. Sure there were moments that could be questioned: \"Would that really happen? Would he really say that?\", but it's just about impossible to make an ambitious film like this without a few moments like that. What I really loved is they had POWERS, and they used them. You didn't get the feeling (as you did with X-Men for example) that they were being held back. They looked like they were coming right off the comic page. Here's a little breakdown: Chris Evans/Human Torch - Amazing. I think a lot of credit has to be given to whoever did the casting on this one. No offense to Mr. Evans, but I got the feeling that playing an over-the-top superstar thrill seeker wasn't much of a stretch for him - if it was I really owe him a tip of the hat, but he seemed completely natural in the role. If Sam Raimi had thought to put Chris E. in the Spider-Man suit and let Toby M. play Peter P., we might have had a very interesting film. And kudos to the special effects department on this one, when the Torch \"Flames On\" you can practically feel the heat coming off the screen. Michael Chiklis/Thing - Again, the casting was perfect on this. Michael C. WAS the Thing. He made you feel his pain, but he didn't wallow in it. While I thought they might do this with CGI, I'm glad they didn't. MC brought a depth and realness to the character that no computer could hope to match. There were a few moments when the suit didn't look quite right, but it was never enough to destroy the moment. Ioan Gruffuld/Mr. Fantastic - Ioan G. did a good job, but he didn't have as much to work with as the other characters. He was believable and likable, but not a standout with everything else that was going on. The special effects were well done, but since your brain knows people can't actually stretch, it never quite looked \"real\". Still, to the filmmakers credit, they didn't hold back, and there were scenes (such as a fight with the Thing) that had me sitting slack jawed and amazed. Jessica Alba/Invisible Woman - Jessica A. is simply breathtaking to look at. Now that I've said that, I feel a little less guilty saying her acting, while not bad, was a little flat. Still, she brought a special quality to the character, and many, many men and boys will walk out of the theater in love with her. The invisibility/force field effects were generally well done, but not quite what I expected, and at times I found myself wishing they had done them a bit differently. Julian McMahon/Dr. Doom - Like many fans, I had been hoping for Doctor Doom - RULER OF LATVERIA, but in the context of this film, you can see that it wouldn't really have worked. This is an origin piece. The Fantastic Four aren't really the Fantastic Four yet. They're just a bunch of confused geeks trying to figure out who and what they are. Doctor Doom - RULER OF LATVERIA would have dispatched with them before breakfast. The ending, however, perfectly sets up a sequel (and I'm almost certain there WILL be a sequel - this film is too good not to get one) in which the a mature Fantastic Four can face a mature Dr. Doom. For this film, Julian M. was subtle yet powerful. He wasn't a cartoon bad guy, but a real bad guy. The kind you've met before who will shake your hand and look you in the eye while he's sticking a knife in your back. His relationship with Sue is creepy and it really defines his character. Everyone in the audience can see that he doesn't even understand what love is. To him, love is possession. Toward the end, he becomes truly frightening, but it's not a jump like some villains. You could see the evil smoldering below the surface from his first on-screen moment. Overall, the film was well balanced and a LOT of fun. It was very funny at points, it was very heart rending at other points. Dramatic, intense and exciting. Remember that moment in Star Wars when Han Solo came back to help Luke blow up the Death Star. Remember how you just cheered an celebrated with the heroes? That's how this film made me feel. I'm afraid I'm not eloquent enough to describe just how much I loved this movie. While not perfect, the sum total of the parts created a great, memorable experience.",
+         "Well, you weren't expecting greatness, were you? Regardless of what the wider public might be expecting from Fantastic Four, in internet circles it's been earmarked as the potential stinker amidst a promising summer since the first details leaked online. Unlike successful superhero franchises like X-Men and Spider-man, there's no respected director and no attempt to give the film a thematic depth or real world resonance. Where they had acting heavyweights, Fantastic Four has a couple of notable talents from successful TV series and a couple of almost-stars, with broad appeal but little charisma to bring to the mix. So the first question you might want answered is, \"Is it awful?\" Thankfully, no. Fantastic Four is simple, rather hollow, occasionally boring and then it's over. But it's hard to deny that, in places, it's also fairly entertaining. The story, changed from the source, sees five ludicrously-named scientists venturing into space to investigate a large cloud of special effects that has something to do with DNA. The team manage to get all their character back-stories, exposition-based conversations and marriage proposals out of the way in good time, before turning their attention to some rather vital defence shields. Too late, guys. Now you've been hit by the marauding cloud and you're back on earth (there wasn't much budget, it seems, for showing the there-and-back trips... space is but a quick cut away). The characters quickly discover their powers - team leader Reed Richards can stretch his limbs at will, Sue Storm can disappear and fire force fields, Johnny Storm can burn himself alive and whizz about the skies, and Ben Grimm turns to stone and breaks stuff. Cool? Nearly. There's an rather archaic nature to these superpowers - childhood dreams from a long gone era - but the film neatly modernises them by distracting us with some extreme sports. The kids might love it, but they're really only notable as the one place director Tim Story uses slow motion in the entire film. Rather proud, were we, of what looks like the only real stunt in the film not juiced up with CGI? And then there's the bad guy. Victor Von Doom was probably never born to do good, but now he's lost his money and his wife and turned into metal. So he's mightily annoyed, and while the world welcomes the Fantastic Four with open arms, he sets about doing some violence to people and eventually tries to take down the Four. Pretty slim on plot there, and the only gaps are taken up by scenes of the guys coming to terms with their new powers. Strangely, their initial response to them makes you wonder if they've seen the trailer - there's no sense of surprise. They barely seem to care until they leave the lab and return to New York. Johnny, with the flashiest abilities, is the only one to really embrace them, showing off and being rather endearing with it. The others are oh so desperate to get back to normal, which in the case of Reed and Sue seems rather stupid - they can do some cool stuff, but otherwise, pretty much live as normal Lucky them (although Reed, as the stretchy Mr Fantastic, could really do with the power to look convincingly attached to the rest of his body whenever he's stretching). The only character with real issues is Michael Chiklis' Grimm, clad in stone and called The Thing. Daily life becomes a problem for this rocky beast, but the film clamps him with a ludicrous subplot where his wife turns up at the scene of the gang's first act of heroism, and having seen her hubby save the lives of a fire engine full of FDNY guys, decides to hand back her wedding ring before even asking what's happened to the man she promised to love for ever. It's ludicrous, and makes The Thing's constant grump hard to connect with - sure, it might not be great to look like that, but met with her reaction, you'd expect him to develop a screw you attitude to the world and embrace his power for kicking holes in walls. A shame, really, because Chiklis' is the best performance in the movie by far, even as the film occasionally demeans the man who played Vic Mackey with bird crap jokes and suchlike. The proceedings have a rather slapped together feel (characters appear in the right places by coincidence and fill in plot holes for themselves) until the action kicks in, and almost all of it is crammed into the closing ten minutes. Between the FDNY-saving bridge set-piece (in glorious daytime, showing the limitations of some rather dreadful FX work) and the nighttime city-streets showdown, there's little to get you particularly excited - just super-heroic shoe-gazing. That said, the finale is rather satisfying, with Johnny's flaming acrobatics delivering some of the highs of Spider-man's web-slinging antics across Manhattan. The team join forces to defeat the bad guy and it's home time. Like X-Men, Fantastic Four feels rather like the setup for a sequel, now that the characters are in place. Sadly, where X-Men had a heart and a brain, Fantastic Four has some good-looking young actors showing plenty of flesh (although my highlight was Chiklis' wild forest of a bare chest, not Chris Evans' constantly-on-display gym-toned torso) and a bit of product placement where the emotional attachment should have been (Whopper, anyone?). At least X-Men's build up of characters made me want to know what happened to the mutants next. As for the Fantastic Four, pleasantly though they passed the time, I couldn't give care less about what the future holds for them."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Twentieth Century Fox Film Corporation",
+         "Constantin Film Produktion",
+         "Marvel Enterprises"
+      ],
+      "summaries": [
+         "Reed Richards, a brilliant but timid and bankrupt scientist, is convinced that evolution can be triggered by clouds of cosmic energy, and has calculated that Earth is going to pass one of these clouds soon. Together with his friend and partner, the gruff yet gentle astronaut muscle-man Ben Grimm, Reed convinces his conceited MIT classmate Dr. Victor Von Doom, now CEO of his own enterprise, to allow him access to his privately-owned space station. Von Doom agrees in exchange for control over the experiment and a majority of the profits from whatever benefits it brings. He thus brings aboard Susan Storm, his shy, though assertive chief genetics researcher and a former lover of Reed's with whom she had an acrimonious break-up, and her diametrically opposed brother Johnny, the maverick and hot-headed playboy pilot. The astronauts make it home intact; however, before long they begin to mutate, developing strange and amazing powers as a result of their exposure to the cloud! Reed is able to stretch like rubber; Sue can turn invisible and create force fields, especially when angered; Johnny can produce fire at supernova temperatures, and is able to fly; and Ben is transformed into \"The Thing\", a large, rock-like creature with super strength. After Ben, brooding about his situation on the Brooklyn Bridge, inadvertently causes a major traffic pile-up whilst attempting to stop a man about to commit suicide, the four manage to use their powers to prevent any loss of life and to rescue a fire truck and its crew from falling off the bridge in a resulting explosion. The media dubs the team the 'Fantastic Four', and whilst Johnny eagerly embraces his powers and new life, Ben - the most heavily disfigured - particularly suffers from his transformation; his disfigurement has caused his fiancée to abandon him and has seen him shunned and feared by much of New York. Blaming himself, Reed vows to return Ben to his human form, and he, Sue and Ben work on a cure, constructing a healing chamber in Reed's high tech Baxter Building loft-turned-laboratory. During this time, Reed and Susan begin to grow close once again, and Susan admits that she is not interested in Victor, but ended their relationship because Reed feared to commit, thinking only in terms of variables. Unknown to the others, however, Victor's body is also mutating; he is turning into organic metal capable of absorbing and manipulating electrical energy known as Doctor Doom. As a result of the disastrous expedition, his company is going bankrupt and he is losing public stature; blaming Reed for his misfortunes, Victor swears revenge. And Reed, Ben, Susan, and Johnny must defeat Victor Von Doom and foil his evil plans once and for all.",
+         "Four astronauts have their lives changed forever, when they end up being hit by a cloud of cosmic radiation. Reed Richards now has the ability to stretch his body like elastic. Sue Storm (Alba) is now the invisible woman. Johnny Storm becomes the human touch and Ben Grimm becomes the 'Thing', a man made out of rock. But there is one problem. The journey's sponsor, Victor Von Doom has also been affected and with full power, is a dangerous force which needs to be stopped, before it's too late.",
+         "When an experimental space voyage goes awry, four people are changed by cosmic rays. Reed Richards, inventor and leader of the group gains the ability to stretch his body, and takes the name Mr. Fantastic. His girlfriend, Sue Storm, gains the ability to turn invisible and create force fields, calling herself the Invisible Woman. Her younger brother Johnny Storm gains the ability to control fire, including covering his own body with flame, becoming the Human Torch. Pilot Ben Grimm is turned into a super-strong rock creature calling himself Thing. Together, they use their unique powers to explore the strange aspects of the world, and to foil the evil plans of Doctor Doom.",
+         "Reed Richards is a very talented scientist seeking the funding for a space experiment. Along with his friend and partner Ben Grimm, he goes to businessman Victor Von Doom and manages to get his support. So, Reed and Ben, along with Von Doom, his partner Sue Storm and her brother Johnny, find themselves aboard Von Doom's private space station. However an accident will flood the station with cosmic rays and Reed, Ben, Sue and Johnny will gain amazing powers thus becoming the Fantastic Four. But, the four of them aren't the only ones affected by the cosmic rays...",
+         "Reed Richards is a brilliant scientist who along with friend, muscle-man Ben Grimm seeks funding for a experimental space mission to study cosmic radiation, from rich and powerful businessman Victor Von Doom. Agreeing, Victor sets up a space station in orbit around Earth for Richards to begin his experiment. Joined by cocky Johnny Storm and his sexy sister, Reed's ex girlfriend Susan who is Victor's girlfriend, Reed and Ben arrive on the space station to begin the experimental space mission, which goes wrong, when they exposed to a cosmic radiation which alters their D.N.A. Returning to Earth, they find the cosmic radiation has given them superhuman powers. But the disaster of the space mission has caused Victor to go bankrupt and he vows vengeance on Reed, where he bids for world domination and sets out to get unleash hell by using his powers by controlling electricity that are slowly turning his skin into metal. With Victor out for vengeance and world domination, Reed, Ben, Susan and Johnny combine their super-powers and become a team of super heroes known as \"The Fantastic Four\" and are the only ones who can defeat Victor Von Doom and foil his evil plans.",
+         "A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom."
+      ],
+      "budget": 100000000
+   },
+   "movielensId": 34150,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2005-06-29",
+      "dvdReleaseDate": "2005-12-06",
+      "directors": ["Tim Story"],
+      "runtime": 106,
+      "movieId": 34150,
+      "title": "Fantastic Four",
+      "mpaa": "PG-13",
+      "actors": [
+         "Ioan Gruffudd",
+         "Jessica Alba",
+         "Chris Evans",
+         "Michael Chiklis",
+         "Julian McMahon",
+         "Kerry Washington",
+         "Hamish Linklater",
+         "Laurie Holden",
+         "David Parker",
+         "Kevin McNulty",
+         "Maria Menounos",
+         "Michael Kopsa",
+         "Andrew Airlie",
+         "Pascale Hutton",
+         "Douglas Weston",
+         "Stan Lee",
+         "Sam Rubin",
+         "G. Michael Gray",
+         "Patrick Stoner"
+      ],
+      "imdbMovieId": "0120667",
+      "originalTitle": "Fantastic Four",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Fantasy",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["27dZ5mJBnBY"],
+      "plotSummary": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong \u2026 thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
+      "tmdbMovieId": 9738,
+      "avgRating": 2.74951,
+      "releaseYear": "2005",
+      "numRatings": 6619,
+      "posterPath": "/aJwUBmUA11lkNVSJ3if3h3xHSFd.jpg"
+   }
+}
