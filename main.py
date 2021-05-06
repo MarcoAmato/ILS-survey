@@ -242,6 +242,7 @@ def print_ils_top_100_MPG() -> None:
         mean similarity, Plot and Genre
     """
     print("test_top_100_movies")
+    # MPG stands for Mean (similarity), Plot, Genre
     similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG)
     top_100_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     sample_list_of_movies: List[int] = sample(top_100_movie_ids, MOVIES_LIST_LENGTH)
