@@ -1,10 +1,11 @@
 from random import sample
 import pandas as pd
+import os
 from pandas import DataFrame, Series
 from typing import List
 
 # folders
-PATH_TO_DATA_FOLDER = "./data/"
+PATH_TO_DATA_FOLDER = os.path.dirname(os.path.realpath(__file__)) + "/data/"  # folder where script is/data folder
 PATH_TO_TOP_100 = PATH_TO_DATA_FOLDER + "top100/"
 
 # similarity csv
