@@ -2,6 +2,10 @@ Abstract
 =======
 Given a dataset of movies information and another dataset of similarity measurements between each movie, the goal of this project is creating lists from the 100 most popular  movies with relative ILD measurements.
 
+N.B.
+We will refer to a dataframe called similarity_mpg.
+What MPG stands for is Mean (similarity), Plot (similarity), Genre (similarity.), which are the 3 different similarity measures for this dataframe. 
+
 Project setup
 =======
 Fill data folder
