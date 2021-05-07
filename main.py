@@ -166,7 +166,7 @@ def get_mean_similarity(similarity_row: pd.Series):
     return sum(similarity_values) / len(similarity_values)
 
 
-def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: list[int], method: str) -> float:
+def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method: str) -> float:
     """
     Returns ILS value for the list_of_movies using the similarity_measures
     :param similarity_measures: dataframe of similarity measurements
