@@ -2,7 +2,7 @@ from typing import List, Dict, Tuple
 
 from pandas import DataFrame
 
-import __main__
+import similarities_util
 
 
 def get_similarities_containing_values(similarities_df: DataFrame, values_to_look_for: List[int]) -> \
@@ -16,7 +16,7 @@ def get_similarities_containing_values(similarities_df: DataFrame, values_to_loo
 
     for index, row in similarities_df.iterrows():
         list_of_column_with_values: List[str] = []
-        for sim_column in __main__.COLUMNS_SIMILARITY:  # iterate similarity columns
+        for sim_column in similarities_util.COLUMNS_SIMILARITY:  # iterate similarity columns
             if row[sim_column] in values_to_look_for:  # row contains value
                 # add column to list_of_column_with_values
                 list_of_column_with_values.append(sim_column + " = " + str(int(row[sim_column])))
@@ -29,7 +29,7 @@ def get_similarities_containing_values(similarities_df: DataFrame, values_to_loo
 
 
 if __name__ == "__main__":
-    similarities: DataFrame = __main__.get_dataframe_movie_ids_and_similarities(500)
+    similarities: DataFrame = similarities_util.get_dataframe_movie_ids_and_similarities(500)
     similarities_value_suspect: Dict[Tuple[int, int], List[str]] = \
         get_similarities_containing_values(similarities, [1, 0, -1])
     # pd.set_option('display.max_columns', None)
@@ -37,10 +37,10 @@ if __name__ == "__main__":
 
     for key in similarities_value_suspect:
         movie1: str = f"Movie {key[0]} name: \n\t" + \
-                      __main__.get_name_of_movie(__main__.get_movie(key[0]))
+                      similarities_util.get_name_of_movie(similarities_util.get_movie(key[0]))
         print(movie1)
         movie2: str = f"Movie {key[1]} name: \n\t" + \
-                      __main__.get_name_of_movie(__main__.get_movie(key[1]))
+                      similarities_util.get_name_of_movie(similarities_util.get_movie(key[1]))
         print(movie2)
         print("Columns with suspicious values")
         print(similarities_value_suspect[key])
