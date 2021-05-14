@@ -264,7 +264,3 @@ def print_ils_top_100_MPG() -> None:
     print(ILS_g)
     print("ILD using mean of Plot and Genre: ")
     print(ILS_pg)
-
-
-if __name__ == "__main__":
-    print_ils_top_100_MPG()
