@@ -3,10 +3,11 @@ from typing import Dict, List, Set
 
 from pandas import DataFrame, Series
 
-from similarities_util import get_dataframe_movie_ids_and_similarities, get_mean_similarity, get_movies_from_df, \
+from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_mean_similarity, get_movies_from_df, \
     COLUMNS_SIMILARITY, get_movie, get_similarity_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID, \
     PATH_TO_SIMILARITY_MPG, PATH_TO_TOP_100_MOVIES_ID, \
-    get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_MOVIES_JSON
+    get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_MOVIES_JSON, read_movies_from_csv, \
+    read_top_100_movies
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -190,15 +191,24 @@ def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str,
     print("write_similarities_of_movies done")
 
 
-if __name__ == "__main__":
-
-    print("pre computation starts")
-
-    # write_mean_similarity_MPG(PATH_TO_SIMILARITY_MPG)  # write dataframe of similarities: mean, Plot:LDA, Genre:Jacc
-    # write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
-    # write_top_n_movies_by_popularity(100, PATH_TO_TOP_100_MOVIES_ID)
+def write_top_100_mpg() -> None:
+    write_mean_similarity_MPG(PATH_TO_SIMILARITY_MPG)  # write dataframe of similarities: mean, Plot:LDA, Genre:Jacc
+    write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
+    write_top_n_movies_by_popularity(100, PATH_TO_TOP_100_MOVIES_ID)
     write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_MOVIES_ID, path_to_write=PATH_TO_SIM_100_MPG,
                                  path_to_similarities=PATH_TO_SIMILARITY_MPG)
     # copies json of top n movies
     copy_movies(read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID),
                 PATH_TO_TOP_100_MOVIES_JSON, PATH_TO_TOP_100_MOVIES_JSON)
+
+
+def write_top_100_mpg_plus_similarities() -> None:
+    print("top 100 mpg plus similarities starts...")
+    top_100_movies: List[DataFrame] = read_top_100_movies()
+    print(top_100_movies)
+
+
+if __name__ == "__main__":
+    print("pre computation starts")
+
+    write_top_100_mpg_plus_similarities()
