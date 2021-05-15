@@ -222,6 +222,7 @@ def write_top_100_mpg_plus_similarities() -> None:
 
     # write movie ids
     write_movie_ids_to_csv(top_100_plus_similarities_movieId, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID)
+    # TODO this does not work, look for errors
 
     # write similarities
     write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID,

@@ -230,6 +230,7 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method
         ILS = similarities_of_movies['similarity'].sum()
     elif method == "plot":
         for movie in list_of_movies:
+            # TODO print the correct column of plot
             print_movie_with_info(movie, list(""))
         ILS = similarities_of_movies['Plot:LDA'].sum()
     elif method == "genre":
