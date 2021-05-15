@@ -1,4 +1,3 @@
-from os.path import dirname
 from random import sample
 import pandas as pd
 from os.path import dirname, realpath
@@ -9,7 +8,7 @@ from typing import List
 # folders
 # folder where script is/data folder
 PATH_TO_DATA_FOLDER = dirname(dirname(realpath(__file__))) + "/data/"
-PATH_TO_TOP_100 = PATH_TO_DATA_FOLDER + "/top100/"
+PATH_TO_TOP_100 = PATH_TO_DATA_FOLDER + "top100/"
 
 # similarity csv
 PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "all_similarities.csv"
@@ -125,14 +124,9 @@ def read_movies_from_csv(path: str) -> List[DataFrame]:
     :return: Dataframe of movies
     """
     print(path)
+    exit()
     movie_ids: List[int] = read_movie_ids_from_csv(path)
     return get_movies_by_id(movie_ids)
-
-
-def read_top_100_movies() -> List[DataFrame]:
-    print(PATH_TO_TOP_100_MOVIES_ID)
-    exit()
-    return read_movies_from_csv(PATH_TO_TOP_100_MOVIES_ID)
 
 
 def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
