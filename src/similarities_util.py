@@ -8,6 +8,7 @@ from typing import List, Set
 # folder where script is/data folder
 PATH_TO_DATA_FOLDER = dirname(dirname(realpath(__file__))) + "/data/"
 PATH_TO_TOP_100 = PATH_TO_DATA_FOLDER + "top100/"
+PATH_TO_TOP_100_SIMILARITIES = PATH_TO_DATA_FOLDER + "top100_similarities/"
 
 # similarity csv
 PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "all_similarities.csv"
@@ -20,6 +21,10 @@ PATH_TO_LITTLE_SIMILARITY: str = PATH_TO_DATA_FOLDER + "little_similarity.csv"
 PATH_TO_ALL_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "all_movies_ids.csv"
 PATH_TO_TOP_10_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "top_10_movies_ids.csv"
 PATH_TO_TOP_100_MOVIES_ID: str = PATH_TO_TOP_100 + "top_100_movies_ids.csv"
+PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID: str = PATH_TO_TOP_100_SIMILARITIES + "movies_ids.csv"
+
+# movie ids conversion
+PATH_TO_LINK: str = PATH_TO_DATA_FOLDER + "links.csv"
 
 # path to movie JSON
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
@@ -126,18 +131,31 @@ def read_movies_from_csv(path: str) -> List[DataFrame]:
     return get_movies_by_id(movie_ids)
 
 
-def get_recommended_movies(movies_dataframes: List[DataFrame]) -> List[int]:
+def get_similar_movies(movies_dataframes: List[DataFrame]) -> List[int]:
     """
     Returns list of movie ids who are inserted in the column "recommendations" for the movies
     passed as movies_ids
     @param movies_dataframes: List of movie Dataframe to check for recommendations
     """
-    recommendations_for_list: Set[int] = set()
+    similarities_for_list: Set[int] = set()
     for movie_df in movies_dataframes:
-        recommendations_for_movie: Set[int] = movie_df['tmdb']['recommendations']
-        recommendations_for_list = recommendations_for_list.union(recommendations_for_movie)
-    list_of_recommendations: List[int] = list(recommendations_for_list)
-    return list_of_recommendations
+        similarities_for_movie: Set[int] = movie_df['tmdb']['similar']
+        similarities_for_list = similarities_for_list.union(similarities_for_movie)
+    list_of_similarities: List[int] = list(similarities_for_list)
+    return list_of_similarities
+
+
+def convert_tbdb_to_movieId(movie_ids_tmbd: List[int]) -> List[int]:
+    """
+    Returns the ids in movie_ids_tmdb to the list of the same movies with corresponding in movieId.
+    @param movie_ids_tmbd: List of movie ids to tmbd format.
+    """
+    links_csv: DataFrame = pd.read_csv(PATH_TO_LINK)
+    rows_of_movies: DataFrame = links_csv.loc[links_csv['tmdbId'].isin(movie_ids_tmbd)]
+    print(rows_of_movies)
+    movie_ids_movieId: List[int] = rows_of_movies['movieId']
+    return movie_ids_movieId
+
 
 
 def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
