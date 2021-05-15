@@ -123,10 +123,17 @@ def read_movies_from_csv(path: str) -> List[DataFrame]:
     :param path: path where movie ids are
     :return: Dataframe of movies
     """
-    print(path)
-    exit()
     movie_ids: List[int] = read_movie_ids_from_csv(path)
     return get_movies_by_id(movie_ids)
+
+def get_similar_movies(movies_ids: List[DataFrame]) -> List[int]:
+    """
+    Returns list of movie ids who are inserted in the column "recommendations" for the movies
+    passed as movies_ids
+    @param movies_ids: List of movie Dataframe to check for similarities
+    """
+
+
 
 
 def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
