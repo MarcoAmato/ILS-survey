@@ -15,7 +15,7 @@ PATH_TO_RAW_SIMILARITY = PATH_TO_DATA_FOLDER + "all_similarities.csv"
 PATH_TO_SIMILARITY_MEAN: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
 PATH_TO_SIMILARITY_MPG: str = PATH_TO_DATA_FOLDER + "similarity_mpg.csv"
 PATH_TO_SIM_100_MPG: str = PATH_TO_TOP_100 + "similarities_mpg.csv"  # similarities mpg for top 100 movies
-PATH_TO_LITTLE_SIMILARITY: str = PATH_TO_DATA_FOLDER + "little_similarity.csv"
+PATH_TO_SIM_100_SIMILARITIES: str = PATH_TO_TOP_100_SIMILARITIES + "similarities_mpg.csv"
 
 # movie ids csv
 PATH_TO_ALL_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "all_movies_ids.csv"
@@ -29,6 +29,7 @@ PATH_TO_LINK: str = PATH_TO_DATA_FOLDER + "links.csv"
 # path to movie JSON
 PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
 PATH_TO_TOP_100_MOVIES_JSON = PATH_TO_TOP_100 + "movies/"
+PATH_TO_TOP_100_SIMILARITIES_JSON = PATH_TO_TOP_100_SIMILARITIES + "movies/"
 
 NEW_SIMILARITY_DATAFRAME_COLUMNS = ["movie1", "movie2", "similarity"]
 COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
@@ -199,6 +200,21 @@ def get_mean_similarity(similarity_row: pd.Series):
     return sum(similarity_values) / len(similarity_values)
 
 
+def print_movie_with_info(movie_id: int, columns_to_print: List[str]) -> None:
+    """
+    Prints the columns_to_print columns of movie_id
+    @param movie_id: Id of movie to print
+    @param columns_to_print: List of columns to print
+    """
+    movie_df: DataFrame = get_movie(movie_id)
+    print("++++++++++")
+    print("Movie: " + get_name_of_movie(movie_df))
+    for column in columns_to_print:
+        print("\t" + column)
+        print(movie_df[column])
+    print("----------")
+
+
 def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method: str) -> float:
     """
     Returns ILS value for the list_of_movies using the similarity_measures
@@ -213,6 +229,8 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method
     if method == "mean":
         ILS = similarities_of_movies['similarity'].sum()
     elif method == "plot":
+        for movie in list_of_movies:
+            print_movie_with_info(movie, list(""))
         ILS = similarities_of_movies['Plot:LDA'].sum()
     elif method == "genre":
         ILS = similarities_of_movies['Genre:Jacc'].sum()
@@ -220,6 +238,8 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method
         # mean of plot and genre
         ILS = (similarities_of_movies['Plot:LDA'].sum() + similarities_of_movies['Genre:Jacc'].sum()) / 2
 
+    # we normalize using the number of similarities
+    ILS_normalized: float = ILS / similarities_of_movies.shape[0]
     return ILS
 
 

@@ -7,7 +7,7 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     COLUMNS_SIMILARITY, get_movie, get_similarity_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID, \
     PATH_TO_SIMILARITY_MPG, PATH_TO_TOP_100_MOVIES_ID, \
     get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_MOVIES_JSON, read_movies_from_csv, \
-    get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId
+    get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId, PATH_TO_SIM_100_SIMILARITIES
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -139,7 +139,7 @@ def copy_movies(movie_ids: List[int], src: str, dst: str):
     @param dst: destination of movie files
     """
     for movie in movie_ids:
-        movie_filename: str = str(movie)+".json"
+        movie_filename: str = str(movie) + ".json"
         movie_src: str = src + movie_filename
         movie_dst: str = dst + movie_filename
         copyfile(movie_src, movie_dst)
@@ -167,7 +167,7 @@ def write_top_n_movies_by_popularity(n: int, path: str) -> None:
 
 def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str, path_to_write: str) -> None:
     """
-    Writes similarities of top n movies to path
+    Writes similarities of movies in path_to_movies to path_to_write
     :param path_to_movies: path to movie ids
     :param path_to_write: path to write the similarities
     :param path_to_similarities: path to similarity measurements
@@ -199,7 +199,7 @@ def write_top_100_mpg() -> None:
                                  path_to_similarities=PATH_TO_SIMILARITY_MPG)
     # copies json of top n movies
     copy_movies(read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID),
-                PATH_TO_TOP_100_MOVIES_JSON, PATH_TO_TOP_100_MOVIES_JSON)
+                PATH_TO_ALL_MOVIES_ID, PATH_TO_TOP_100_MOVIES_JSON)
 
 
 def write_top_100_mpg_plus_similarities() -> None:
@@ -220,7 +220,17 @@ def write_top_100_mpg_plus_similarities() -> None:
     print(len(top_100_plus_similarities_tmdb))
     top_100_plus_similarities_movieId: List[int] = convert_tbdb_to_movieId(top_100_plus_similarities_tmdb)
 
+    # write movie ids
     write_movie_ids_to_csv(top_100_plus_similarities_movieId, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID)
+
+    # write similarities
+    write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID,
+                                 path_to_write=PATH_TO_SIM_100_SIMILARITIES,
+                                 path_to_similarities=PATH_TO_SIMILARITY_MPG)
+
+    # copies json of movies
+    copy_movies(top_100_plus_similarities_movieId,
+                PATH_TO_ALL_MOVIES_ID, PATH_TO_TOP_100_MOVIES_JSON)
 
 
 if __name__ == "__main__":
