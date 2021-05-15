@@ -2,8 +2,7 @@ from random import sample
 import pandas as pd
 from os.path import dirname, realpath
 from pandas import DataFrame, Series
-from typing import List
-
+from typing import List, Set
 
 # folders
 # folder where script is/data folder
@@ -126,14 +125,19 @@ def read_movies_from_csv(path: str) -> List[DataFrame]:
     movie_ids: List[int] = read_movie_ids_from_csv(path)
     return get_movies_by_id(movie_ids)
 
-def get_similar_movies(movies_ids: List[DataFrame]) -> List[int]:
+
+def get_recommended_movies(movies_dataframes: List[DataFrame]) -> List[int]:
     """
     Returns list of movie ids who are inserted in the column "recommendations" for the movies
     passed as movies_ids
-    @param movies_ids: List of movie Dataframe to check for similarities
+    @param movies_dataframes: List of movie Dataframe to check for recommendations
     """
-
-
+    recommendations_for_list: Set[int] = set()
+    for movie_df in movies_dataframes:
+        recommendations_for_movie: Set[int] = movie_df['tmdb']['recommendations']
+        recommendations_for_list = recommendations_for_list.union(recommendations_for_movie)
+    list_of_recommendations: List[int] = list(recommendations_for_list)
+    return list_of_recommendations
 
 
 def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:

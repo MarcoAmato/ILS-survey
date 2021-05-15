@@ -7,7 +7,7 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     COLUMNS_SIMILARITY, get_movie, get_similarity_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID, \
     PATH_TO_SIMILARITY_MPG, PATH_TO_TOP_100_MOVIES_ID, \
     get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_MOVIES_JSON, read_movies_from_csv, \
-    get_similar_movies
+    get_recommended_movies
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -205,7 +205,9 @@ def write_top_100_mpg() -> None:
 def write_top_100_mpg_plus_similarities() -> None:
     print("top 100 mpg plus similarities starts...")
     top_100_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_100_MOVIES_ID)
-    ids_similar_movies_to_top100: List[int] = get_similar_movies(top_100_movies)
+    ids_similar_movies_to_top100: List[int] = get_recommended_movies(top_100_movies)
+    print(len(ids_similar_movies_to_top100))
+    print(ids_similar_movies_to_top100)
 
 
 if __name__ == "__main__":
