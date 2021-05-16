@@ -320,3 +320,23 @@ def print_ils_top_100_MPG() -> None:
     print(ILS_g)
     print("ILD using mean of Plot and Genre: ")
     print(ILS_pg)
+
+
+def get_ILS_from_ids():
+    done: bool = False
+    list_of_movies: List[int] = []
+    available_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_SIMILARITIES_JSON)
+    while not done:
+        print("enter movie ids to get the ILS, enter -1 to stop")
+        try:
+            value_inserted = input()  # get input of user
+            id_inserted: int = int(value_inserted)
+            if id_inserted == -1:
+                done = True
+            elif id_inserted in available_movie_ids:
+                list_of_movies.append(id_inserted)
+                print("Movie entered correctly")
+            else:
+                print(f"The id {id_inserted} is not a valid id. Try again")
+        except ValueError:
+            print("Please enter an integer")
