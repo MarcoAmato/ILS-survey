@@ -1,0 +1,785 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "bank",
+            "id": 974
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "time",
+            "id": 3667
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "race against time",
+            "id": 4776
+         },
+         {
+            "name": "immortality",
+            "id": 4978
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "thriller",
+            "id": 9950
+         },
+         {
+            "name": "on the run",
+            "id": 10562
+         },
+         {
+            "name": "class differences",
+            "id": 14514
+         },
+         {
+            "name": "cops and robbers ",
+            "id": 41616
+         },
+         {
+            "name": "rich vs poor",
+            "id": 220487
+         }
+      ],
+      "imdb_id": "tt1637688",
+      "video": false,
+      "title": "In Time",
+      "recommendations": [
+         51876,
+         8960,
+         64635,
+         44912,
+         20526,
+         46529,
+         8247,
+         2048,
+         9543,
+         27576,
+         39254,
+         9738,
+         1979,
+         45612,
+         1635,
+         787,
+         58574,
+         44833,
+         37834,
+         7551
+      ],
+      "backdrop_path": "/cnGPiAd7D50YFcpt6HK7CwTUCew.jpg",
+      "revenue": 173930596,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 11,
+               "character": "Will Salas",
+               "gender": 2,
+               "credit_id": "52fe479ac3a36847f813eb8b",
+               "name": "Justin Timberlake",
+               "profile_path": "/lB3pku743f3N82AVXz10fGGBAgL.jpg",
+               "id": 12111,
+               "order": 0
+            },
+            {
+               "cast_id": 8,
+               "character": "Sylvia Weis",
+               "gender": 1,
+               "credit_id": "52fe479ac3a36847f813eb7f",
+               "name": "Amanda Seyfried",
+               "profile_path": "/rkMBMJyRekUnZf59ipVRrtw74xk.jpg",
+               "id": 71070,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Timekeeper Raymond Leon",
+               "gender": 2,
+               "credit_id": "52fe479ac3a36847f813eb87",
+               "name": "Cillian Murphy",
+               "profile_path": "/gybXt7gjFCeV67l3jgJtp6Pxm77.jpg",
+               "id": 2037,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Rachel Salas",
+               "gender": 1,
+               "credit_id": "52fe479ac3a36847f813eb77",
+               "name": "Olivia Wilde",
+               "profile_path": "/kyzJblLaOPK89QkRJlh6w0tbvFI.jpg",
+               "id": 59315,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Fortis",
+               "gender": 2,
+               "credit_id": "52fe479ac3a36847f813eb7b",
+               "name": "Alex Pettyfer",
+               "profile_path": "/vvjtt3bfbmd8FCaY6ZolRldYbNV.jpg",
+               "id": 61363,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Borel",
+               "gender": 2,
+               "credit_id": "52fe479ac3a36847f813eb83",
+               "name": "Johnny Galecki",
+               "profile_path": "/iY3e0Zw5lygRO4BXbhcSxMcPEb9.jpg",
+               "id": 16478,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Henry Hamilton",
+               "gender": 2,
+               "credit_id": "52fe479ac3a36847f813eb8f",
+               "name": "Matt Bomer",
+               "profile_path": "/jvYzsP08M9H76eHu0k1ALdmNnoM.jpg",
+               "id": 66743,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Philippe Weis",
+               "gender": 2,
+               "credit_id": "52fe479ac3a36847f813eb93",
+               "name": "Vincent Kartheiser",
+               "profile_path": "/y2i2epgCOwfMyC5FclcF3IU8Iy3.jpg",
+               "id": 52646,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Greta",
+               "gender": 1,
+               "credit_id": "52fe479ac3a36847f813eb97",
+               "name": "Yaya DaCosta",
+               "profile_path": "/4wsDc5bNsU7CNolFraPGTRdJfQR.jpg",
+               "id": 60033,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Timekeeper Kors",
+               "gender": 2,
+               "credit_id": "52fe479ac3a36847f813eb9b",
+               "name": "Toby Hemingway",
+               "profile_path": "/h4q4JcxfO3kXUFrqLdNfOLOJYaI.jpg",
+               "id": 60901,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Michele Weis",
+               "gender": 1,
+               "credit_id": "52fe479ac3a36847f813eba7",
+               "name": "Bella Heathcote",
+               "profile_path": "/uhNri9He6qWKrXeC68DXz5IlrGA.jpg",
+               "id": 234982,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Maya",
+               "gender": 1,
+               "credit_id": "52fe479ac3a36847f813ebb5",
+               "name": "Shyloh Oostwald",
+               "profile_path": "/Am2bhaE5GxyEo6Lw7xqcGY7h84U.jpg",
+               "id": 1011100,
+               "order": 14
+            },
+            {
+               "cast_id": 64,
+               "character": "Kara",
+               "gender": 1,
+               "credit_id": "566286d89251412ac6002862",
+               "name": "Emma Fitzpatrick",
+               "profile_path": "/asFbw5k1nk3IZYYDxq0qkBtOYSJ.jpg",
+               "id": 1011107,
+               "order": 15
+            },
+            {
+               "cast_id": 66,
+               "character": "Ulysse",
+               "gender": 2,
+               "credit_id": "56b2526cc3a36845c9000832",
+               "name": "Will Harris",
+               "profile_path": "/fEywxsDW3BhPFBooWGbpUNQL8xe.jpg",
+               "id": 135786,
+               "order": 16
+            },
+            {
+               "cast_id": 67,
+               "character": "Nardin",
+               "gender": 0,
+               "credit_id": "56b25381925141033600088b",
+               "name": "Michael William Freeman",
+               "profile_path": "/1D5bEINnSL4D96xmeY7xZMp4aL2.jpg",
+               "id": 1416557,
+               "order": 17
+            },
+            {
+               "cast_id": 68,
+               "character": "Webb",
+               "gender": 2,
+               "credit_id": "56b25415c3a36845b70008bc",
+               "name": "Jesse Lee Soffer",
+               "profile_path": "/tQur9W9Jxj7CZF0NEd9dVnZZfsQ.jpg",
+               "id": 1011102,
+               "order": 18
+            },
+            {
+               "cast_id": 69,
+               "character": "Bell",
+               "gender": 2,
+               "credit_id": "56b2543592514103380008a4",
+               "name": "Aaron Perilo",
+               "profile_path": "/l20pfQvTJDNKFtEjLGI3Ly1D7Z1.jpg",
+               "id": 205114,
+               "order": 19
+            },
+            {
+               "cast_id": 70,
+               "character": "Pasha",
+               "gender": 1,
+               "credit_id": "56b2546892514103360008c3",
+               "name": "Zuleyka Silver",
+               "profile_path": "/E693ZsF4Go2g7x9w1lQITRCbNX.jpg",
+               "id": 1011104,
+               "order": 20
+            },
+            {
+               "cast_id": 71,
+               "character": "Citizen",
+               "gender": 0,
+               "credit_id": "56b25502c3a36845d500095a",
+               "name": "Colin McGurk",
+               "profile_path": "/8cFhrQ8feHOMMKGeuPqEAKPQeoU.jpg",
+               "id": 1572100,
+               "order": 21
+            },
+            {
+               "cast_id": 72,
+               "character": "Sagita",
+               "gender": 0,
+               "credit_id": "56b2559092514103380008e5",
+               "name": "Laura Ashley Samuels",
+               "profile_path": "/yRxyvM4pmuTbHZllWzVxCEjvZar.jpg",
+               "id": 1011105,
+               "order": 22
+            },
+            {
+               "cast_id": 73,
+               "character": "Victa",
+               "gender": 2,
+               "credit_id": "56b2561d92514103450008b9",
+               "name": "Ray Santiago",
+               "profile_path": "/3a5pbiX0owhDPVWCyg1Snb63Clz.jpg",
+               "id": 52957,
+               "order": 23
+            },
+            {
+               "cast_id": 74,
+               "character": "Pierre",
+               "gender": 2,
+               "credit_id": "56b2565892514103420008c2",
+               "name": "William Peltz",
+               "profile_path": "/6gtqvA5yif2S1a68AfokQU57BSo.jpg",
+               "id": 1011103,
+               "order": 24
+            },
+            {
+               "cast_id": 79,
+               "character": "Jasmine",
+               "gender": 1,
+               "credit_id": "57741c3792514103f0001a5e",
+               "name": "Christiann Castellanos",
+               "profile_path": "/yqDFHbNph8gt8lQCdx3mQI1qKKR.jpg",
+               "id": 936308,
+               "order": 25
+            },
+            {
+               "cast_id": 80,
+               "character": "Ross",
+               "gender": 2,
+               "credit_id": "57741c62c3a3686f7c001b13",
+               "name": "Abhi Sinha",
+               "profile_path": "/fEw3JFbkxBLOi0hDjk8Zpgs2Ceo.jpg",
+               "id": 1324452,
+               "order": 26
+            },
+            {
+               "cast_id": 81,
+               "character": "Louis",
+               "gender": 2,
+               "credit_id": "577424e992514104bf001e0e",
+               "name": "Maximilian Osinski",
+               "profile_path": "/qvICXW2qYGdcrBlUIb1Kcz4Yiz9.jpg",
+               "id": 1011106,
+               "order": 27
+            },
+            {
+               "cast_id": 82,
+               "character": "Timekeeper Dent",
+               "gender": 2,
+               "credit_id": "588efd9992514101a6004c29",
+               "name": "Kristopher Higgins",
+               "profile_path": "/yCbvGCdtbNI0iITuw6l6aqH0ou8.jpg",
+               "id": 1448885,
+               "order": 28
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe479ac3a36847f813eb73",
+               "name": "Andrew Niccol",
+               "profile_path": "/ufWm8st5GYkWjTFEATiNKidtwy0.jpg",
+               "id": 8685,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe479ac3a36847f813ebad",
+               "name": "Andrew Niccol",
+               "profile_path": "/ufWm8st5GYkWjTFEATiNKidtwy0.jpg",
+               "id": 8685,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe479ac3a36847f813ebef",
+               "name": "Craig Armstrong",
+               "profile_path": "/90XGcKr5ROu2EEu2zn8JDj4xxHn.jpg",
+               "id": 7045,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe479bc3a36847f813ebf9",
+               "name": "Marc Abraham",
+               "profile_path": "/cpj3Rg8jmHPfqZxRaW2B36R5D91.jpg",
+               "id": 15219,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe479bc3a36847f813ec05",
+               "name": "Eric Newman",
+               "profile_path": null,
+               "id": 15220,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe479bc3a36847f813ec0b",
+               "name": "Andrew Niccol",
+               "profile_path": "/ufWm8st5GYkWjTFEATiNKidtwy0.jpg",
+               "id": 8685,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe479bc3a36847f813ec11",
+               "name": "Andrew Z. Davis",
+               "profile_path": null,
+               "id": 57864,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe479bc3a36847f813ec17",
+               "name": "Amy Israel",
+               "profile_path": null,
+               "id": 951548,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe479bc3a36847f813ec1d",
+               "name": "Kristel Laiblin",
+               "profile_path": null,
+               "id": 973271,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe479bc3a36847f813ec29",
+               "name": "Zach Staenberg",
+               "profile_path": null,
+               "id": 4671,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe479bc3a36847f813ec2f",
+               "name": "Denise Chamian",
+               "profile_path": "/mEn7U8Dt5zqnNMO0Y1YtXO7evS.jpg",
+               "id": 2215,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe479bc3a36847f813ec35",
+               "name": "Alex McDowell",
+               "profile_path": null,
+               "id": 1303,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe479bc3a36847f813ec3b",
+               "name": "Colleen Atwood",
+               "profile_path": "/4hbAdhvoCkENdoFDLKdXck1ESIl.jpg",
+               "id": 557,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56cee52c9251413e68001ff0",
+               "name": "Debra James",
+               "profile_path": null,
+               "id": 8288,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558bcf24c3a3687e5f003297",
+               "name": "Vlad Bina",
+               "profile_path": null,
+               "id": 1182906,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558bcf39c3a368238000141b",
+               "name": "Todd Cherniawsky",
+               "profile_path": null,
+               "id": 959555,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558bcf4d9251415888000259",
+               "name": "Chris Farmer",
+               "profile_path": null,
+               "id": 60222,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558bcf60c3a3687e56003464",
+               "name": "Karen O'Hara",
+               "profile_path": null,
+               "id": 20585,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558bcf7bc3a3687e56003469",
+               "name": "Terry Baliel",
+               "profile_path": null,
+               "id": 589942,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558bcf90c3a3687e5600346e",
+               "name": "Katrina Chevalier",
+               "profile_path": null,
+               "id": 1445822,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558bcfacc3a3682380001425",
+               "name": "Michelle Vittone",
+               "profile_path": null,
+               "id": 1333900,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558bcfc2c3a3687e5f0032a5",
+               "name": "Tracy Manzo",
+               "profile_path": null,
+               "id": 1428234,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558bcfe59251415073001388",
+               "name": "Andrea Carter",
+               "profile_path": null,
+               "id": 1481282,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558bd016925141588800026a",
+               "name": "Cheryl Beasley Blackwell",
+               "profile_path": null,
+               "id": 1325235,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558bd036c3a3687e6b003354",
+               "name": "Wilma Garscadden-Gahret",
+               "profile_path": null,
+               "id": 1377239,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "570b93aa9251417da7003a28",
+               "name": "Priscilla Elliott",
+               "profile_path": null,
+               "id": 963843,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5682637492514132db0119c5",
+               "name": "Roger Deakins",
+               "profile_path": "/pSCN7CfILlfQrxX43Kgqrx5mBYQ.jpg",
+               "id": 151,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56cee51bc3a3681e3e00227d",
+               "name": "Debra James",
+               "profile_path": null,
+               "id": 8288,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5740bbf7925141289b001106",
+               "name": "Dottie Starling",
+               "profile_path": null,
+               "id": 1336716,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 14.168557,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 49530,
+      "vote_count": 4466,
+      "budget": 40000000,
+      "overview": "In the not-too-distant future the aging gene has been switched off. To avoid overpopulation, time has become the currency and the way people pay for luxuries and necessities. The rich can live forever, while the rest try to negotiate for their immortality. A poor young man who comes into a fortune of time, though too late to help his mother from dying. He ends up on the run from a corrupt police force known as 'time keepers'.",
+      "similar": [
+         18,
+         76341,
+         263115,
+         157336,
+         2048,
+         2666,
+         597,
+         27576,
+         180,
+         605,
+         604,
+         9693,
+         19,
+         281,
+         1903,
+         17431,
+         19959,
+         83542,
+         262543,
+         152601
+      ],
+      "original_title": "In Time",
+      "runtime": 109,
+      "poster_path": "/lnYuAr3QOPzvuEFlzpsRUq41IEy.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Strike Entertainment",
+            "id": 655,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+            "name": "Regency Enterprises",
+            "id": 508,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/hNuGhsKVlmhnwSRcmOejDBDjh6w.png",
+            "name": "New Regency Pictures",
+            "id": 10104,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2011-10-27",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "Time Is Power",
+      "adult": false,
+      "homepage": "http://www.intimemovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Andrew Niccol"],
+      "runtime": 109,
+      "synopsis": "A voiceover describes the state of the world. A place where time has become currency. Thanks to scientific advances people can stop aging at 25, but it comes with a catch: after reaching 25 a person is genetically-engineered to live only one more year. The time is used as currency, you can earn more at work but you sell it for goods and other services. Once your time runs out, you die. Will Salas (Justin Timberlake) is a young man living in Dayton, a poor ghetto in the southwest USA. He lives day by day, making just enough to pass each day sharing time currency with his perpetually youthful mother, Rachel Salas (Olivia Wilde). She is 50 today, but has two days work in the garment district, she gives Will 30 mins for lunch. They will celebrate when she gets back. Everyone has a luminous green digital clock on their arms, counting down. Will is generous and easily gives 5 mins to a young beggar girl, Maya. On the way to work he buys a coffee, the price has just gone up. Walking to work they see dead bodies in the streets. Will works in a metal stamping plant, making shiny cassettes. After his shift he notices he is paid less, quotas have gone up. Will meets his friend Borel (Johnny Galecki) at a bar. There they see a man treating everyone to drinks and drawing attention to his arm, which lists him as having over 116 years. Will knows that the man did not belong to the ghetto and was likely to draw attention to himself. Sure enough the Minutemen, a criminal gang, shows up, armed and ready to forcibly take the man's time. The gang leader, Fortis (Alex Pettyfer) is actually age 75. Borel and the rest of the bar scatter but Will interferes and helps the man escape. The two flee from the Minutemen and eventually find an old building to hide in. The man introduces himself as Henry Hamilton (Matt Bomer) and tells Will of the time-is-currency system. It had been established as a means of population control after the advances made in anti-aging processes, but as people were still surviving. Inflation and lower 'wages' were designed to keep the population in control. This currency system also meant that the rich could live much longer then normal and essentially become immortal, while the poor died. Henry however is tired of living for so long, an indignant Will tells him that the rich basically did not deserve their time. He tells Henry he doesn't want his time. Unwilling to abandon the depressed man, Will offers to stay with the man until the morning. At dawn, Henry passes his time to a sleeping Will. Will wakes alone, with the 116 years of time and a message telling him not to waste it. Through a window, Will sees Henry seated on the edge of the bridge and realizes the man plans to commit suicide. He runs out to stop him, but just misses him as Henry's time runs out and he falls into the storm water channel. Will sees street cameras recording him and runs back home. Will meets Borel with his family, and shows him his new time. To thank Borel for being his friend for so long, Will gives him a decade. Borel warns him that staying in Dayton with that much time was going to get him killed. Will wants to take his mom to New Greenwich. Rachel pays off a 2 day loan at a Weis ATM machine. Sh tries to board a bus to get home but the fare has gone up to 2 hours and she has only 90 mins left. In a panic she has to run. Will is waiting at the bus stop, realizes something is wrong and runs toward Rachel. They meet somewhere in between, but too late, the mother dying in the son's arms. Later Will calls a private stretch Lincoln limo to pick him up and take him to a richer Time Zone. He passes through 4 toll booths with progressive fares into a gleaming modern but sparsely populated City center, New Greewich. He has cleaned himself up to dine at a nice restaurant, a young lady across the room takes notice. The waitress tells him to slow down, to blend in with the rich, and suggests a casino nearby. Meanwhile, Henry's body is discovered by the Timekeepers, a body of authority much like the police. Raymond Leon (Cillian Murphy) notices the street cameras and examines the footage. When he expresses surprise at seeing Will's photo, his colleagues ask him if he knew the suspect and whether or not he had a criminal record. Raymond corrects them, telling them he did not know the current Will Salas but he did know the senior Will Salas. Timekeepers are mobilized to locate Will Salas. At the casino, a tuxedoed Will meets Phillipe Weis (Vincent Kartheiser), arguably the richest man in the world. At a high stakes poker game, Will goes all in and comes out as victor, now with over 1000 years. Phillipe is impressed, as is Sylvia (Amanda Seyfried), his beautiful but sheltered daughter, the girl from the restaurant. Phillipe invites Will to his mansion for another party, and partially to see Sylvia again, Will agrees. Knowing to be prepared, he purchases a Jaguar E type and drives to the Weis mansion on the coast. There Phillipe reintroduces him to Sylvia, as well as his wife Michele (Bella Heathcote) and mother-in-law, all three of whom look the same age due to their wealthy background. The women are followed by guards all the time, but Will convinces Sylvia to let loose and have fun. Feeling oppressed by her father and his men, Sylvia agrees and the two go skinny dipping in the ocean. Sylvia admits wishing that she could often do something wild and crazy. Phillipe had always restricted his family members though, and sure enough he soon comes looking for her. Sylvia and Will manage to dress and make themselves presentable again when the Timekeepers appear and confront Will. Raymond arbitrarily takes back the 1000 years as they don't believe Will's story. Raymond hints he knew Will's father and leaves. Will fights off the other Timekeepers and takes Sylvia hostage, escaping out the mansion. Raymond commits himself to chasing them, even taking personal risks that other Timekeepers avoided. After a car chase, Will manages to throw Raymond off their trail and escapes back to the country with Sylvia, who pleads to be let go. As soon as they return to Dayton the car is wrecked in a trap set by the Minutemen. While Will and Sylvia remain unconscious, the Minutemen discover that Will only has a little time left and was thus worth nothing, Sylvia however had about a decade and so they take hers instead. The men are forced to run before they could take all her time, Sylvia panics because she has never been reduced to having so little time. Will tells her that she should not be worried, as regular people live day by day. Instead, he brings her to find Borel, hoping that he could give them some time. To his grief, he learns that Borel had drunk himself to death with his riches leaving his wife and newborn alone. Will manages to buy them more time by pawning off Sylvia's diamond earrings, but knows it isn't enough. He calls Phillipe and demands a 1000 year ransom for Sylvia's return, to be sent to the time welfare office. Raymond listens to the call and warns Will not to follow his father's path. Will learns that his father's crime was not stealing time but \"something much more serious\". Raymond, deduces where Will was hiding and assures Weis he would bring his daughter back safely. At Will's apartment he explains his father was an arm \"fighter\" with a trick to win time contests, he demonstrates that you let the other win at first, they get overconfident and distracted just as the last few seconds run down, then the arm can be flipped and the flow reversed. The next day the ransom is unpaid, Will says to Sylvia that it was likely because her father was prevented by the Timekeepers but Sylvia saw it as proof that her father didn't care about her. Nevertheless, Will decides to let her go and tells her to make a call to her family. Since they were in the ghetto after all, he also gives her a gun to protect herself. They kiss and just as they split so that Sylvia can make her call, Raymond appears and nearly shoots an unsuspecting Will. A panicked Sylvia shoots Raymond instead, and Will corners Raymond and attempts to take his time. Raymond however has very little, for it is Timekeeper practice to carry only a little time to avoid being targets. Since Will was planning to take Raymond's car he graciously transfers 4 hours of his own time to him before hijacking the black Challenger car and leaves him alone in the ghetto. Sylvia realizes that using a police car was essentially asking for attention. They end up robbing another limo and passenger, a blond woman dressed like a hooker. They learn that they had both been placed on a wanted poster with a reward of ten years to anyone who could bring about their arrest. Phillipe studies a large map of the world with colored lights and numbers, he assures his business partners that his daughter would not crash the current economic system. An injured Raymond manages to escape the ghetto, verbally harassed the whole time, and meets with Phillipe. Weis attempts to bribe Raymond into 'rescuing' his daughter but Raymond tells him that due to Sylvia's actions, an arrest warrant will be placed for her as well. If Phillipe interferred and tried to save his daughter, Raymond will see him arrested as well. Will trains Sylvia how to use a handgun, she offers to help him get time. Will and Sylvia drive an armoured car through a Weis bank window and scoop up many time cassettes. They invite the onlookers to grab what they can also. The large status board shows the imbalance. This endears them to most people in the ghetto. Weis watches the news report of the robbery as his wife chides him for suffocating them. In a motel the two get closer, then sense something is up and just manage to escape Ray and his squad. Ray alone takes after them over rooftops in a running gun battle, refusing to let them go. They manage to bribe a bus driver and escape. At a seedy hotel they rent the whole building for privacy. Fortis and his gang roust civilians until one admits where he saw the two runaways. In the hotel room the young couple describe how each went through the change at age 25 when the green numbers begin counting down. Fortis arrives and explains it is not just the rich and the Timekeepers oppressing the normal citizens, the Minutemen are being allowed to do so as long as they did not start preying on the rich as well. Fortis challenges Will to an arm fight to the death, as the two men lock arms together Will's time runs down fast. Will uses his trick to reverse the flow, then manages to pull a gun from his boot, kills the henchmen and times out Fortis. Will is dismayed and figures it will take a million years to change the system. Sylvia knows where they could find that time. Sylvia returns home, pretending to turn herself in, distracting her father and his multiple guards, so that Will could sneak up on him. Under gunpoint, they take Weis to his office and open a large vault where they find a single cassette with 1 million years. Phillipe tries to say it is always in an individual's interest to live forever even at the cost of another's, but the two runaways are unconvinced. After locking Phillipe in the office the two again return to Dayton. While keeping the Timekeepers distracted, they pass the one-million cassette to Maya, the little girl. Raymond pursues Will and Sylvia to a remote area running toward Livingstone, the next town over, just as they all begin to run out of time. Will sees that Ray is a Dayton homeboy, an honest cop just doing his job, but the timekeeper has forgot to get his per diem and dies in front of them as he times out. With only seconds to spare Will notices the police car in the distance, runs and manages to transfer the timekeeper's per diem from the centre console device to himself. He runs back to Sylvia and just manages to transfer some time, saving her life. The two of them only have enough for a day. The Daytons stop work and march toward New Greenwich. Watching the news, the Timekeepers decide that their jobs are finished. With 100 years bounty on them, pulling up in front of a large institution, Will and Sylvia draw their guns to make their biggest heist.",
+      "writers": ["Andrew Niccol"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1637688/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: Justin Timberlake, Amanda Seyfried, Cillian Murphy | See full cast and crew »"],
+      "reviews": [
+         "Live forever or die trying. Justin Timberlake and Amanda Seyfried star in the new sci-fi action film \"In Time\". Will Salas (Timberlake) and Silvia Weis (Seyfried) live in a futuristic world where time is the currency. In this world, people stop aging at 25. Once they turn 25, they only have one year to live, unless they find a way to get more time. Will lives in the ghetto where people constantly are timing out (running out of time and dying), while Silvia lives in New Greenwich where people have centuries. It's extremely dangerous to have too much time; those with centuries are usually accused of stealing and are immediately killed. When Will is accused of murder, he takes Silvia hostage and they run from the timekeeper (Cillian Murphy). Several times, they find themselves cutting it close with only seconds left on their clocks. The concept is extremely unique and innovative, which made me think it was going to be an \"Inception\"-type film. However, it was disappointing to see \"In Time\" fall short of my expectations. It pains me to say this, but Justin Timberlake should not have been chosen for the role of Will Salas. He just can't pull off the character of a tough guy from the ghetto. Amanda Seyfried is decent as Silvia, but she and Timberlake don't have much chemistry. I also don't think the script was very well written, which causes Timberlake and Seyfried to be even less believable as their characters. In addition, the characters are not developed enough; it's difficult to get a sense of whom these people, from opposite worlds, really are. I found myself checking my watch multiple times throughout the movie. I was distracted and the movie felt much longer than it actually is. For all of these reasons, I give \"In Time\" a 6 out of 10. Great idea. Poorly executed.",
+         "As others have said, the idea of this movie was excellent. You could call it a skeptical analogy of what is happening in some parts of the world � the richest people of the planet abusing poor. What I liked about the movie, especially in the early stages, was how much the movie made me think. It was also bizarre to think of what things would be like if nobody looked older than 25. The movie played upon the possibility of multiple generations would look the same age � at least for those rich enough to afford to purchase the additional years. The story was also well thought out in relation to how people would act within the differing classes of society: the rich would take their time and take few risks. The poor would treasure their time, moving quickly, and, with less to lose, would be less risk adverse. Great premise, great start to the movie, decent follow-through. Although I wish the strong start was able to be carried throughout the movie, I found this movie quite enjoyable to watch.",
+         "I'll start straight off the cuff. Niccol is one of my favourite writer/directors. In fact, one of my favourite films is Gattaca, which has been so under-rated over the years since its release. To me he's been a great Sci-Fi writer, so going into this I was hopeful of something of quality. Alas, \"In Time\" is not for the true Sci-Fi thinker. It paints a world in which time is money. That isn't that new an idea, but Niccols does succeed in pushing the metaphor as a commodity. Those with time are rich, those without time are poor. It's a simplistic analogy. As with Niccol's other films, the cinematography is beautiful. The best actors in the film aren't the main characters, rather Cillian Murphy, Vincent Kartheiser and (surprisingly) Alex Pettyfer present more interesting characters. They all shine, especially Murphy. The film seems like one long car chase, when what you actually want to delve into are the complexities - the debates between the characters themselves over the issues of the world they live in. Not a single clever conversation happens between anyone. Murphy is a great actor and I would have been interested to see the debate about right and wrong become greyed through some thinking. Life is not black and white. The film ending is unrealistic and I wonder if this was the ending envisioned by Niccol or the ending the producers wanted to boost sales. Sadly this film could have been a great deal more. It had a good topic. It had some great actors, yet it failed because the story lost the nuances and complexities to meet the lowest common denominator, rather than raising questions or making the viewer think critically. See it, but be prepared to be disappointed. It isn't subtle.",
+         "A very unusual film screen-play, well written and shot, don't expect any CGI effects here, this is a very down to Earth sci-fi that bears more than a passing resemblance to our current problem with world banks. Surprisingly Justin Timberlake puts in a very professional performance, and not a song in sight, Timberlake carries the part with a very grounded performance being so laid back that he is almost horizontal. Amanda Seyfried submits a polished performance although her make-up makes her look like one of those Japanese animations of what a European looks like, complete with over-sized eyes. The film holds the attention from the first to the last frame and provokes some emotion from the viewer on several levels. Certainly worth a watch, not quite a Rolex, but much better than a Timex.",
+         "The only way In Time could be fully enjoyed is make a drinking game whenever someone says \"time\" in the movie. You will be drunk halfway through the movie and most likely dead at the end of it. There were two things that made me want to see this movie: 1) The premise sounded interesting. The fact that it's about people living off time, with the rich living forever and the poor living off borrowed time is a rather thought-provoking one. And 2) I like Justin Timberlake. What saddens me is that he just wasn't very good in this movie, as he and the dowey-eyed Amanda Siegfried both just seem so bored throughout the entire movie. They have zero chemistry and I'm even going to say that they are just as bad as Anakin and Padme in Star Wars. That's the lowest bar you can go in the chemistry lab. Not only did Justin Timberlake seem bored, but he also has a hard time conveying certain emotions. Take the scene where his mother dies in his arms, for instance. Wasn't convinced, Justin. His crying felt forced and it was. After that he vows revenge against all the time people, and risks being chased by the Timekeeper (the always awesome Cillian Murphy), and after he is given a decade worth of time from someone who is tired of living, he meets up with some rich people and kidnaps a rather high Amanda Siegfried and then starts taking time, and giving it to people, you know, like Robin Hood.... except with time. They work together, bored the whole way through, and they try to convey emotions like love.... because if you have a guy and a girl on screen together, you have to make them full in love. That's Hollywood 101 right there! This is really disappointing to me because I expected better out of In Time. What I got is pretty much a boring movie, with a premise that sounded interesting but then it turns the movie into a one-note-wonder. If I could turn back time, I would have seen Puss In Boots instead.",
+         "I had the privilege of watching this movie earlier than most people in the world because its released early in Malaysia, to profit from Deepavali public holiday crowd on 26 Oct. The story is simple. Time is the commodity in the future. But the best part is how the filmmaker show the audience how to use this commodity in normal everyday life. How much time you pay for certain things, where to get extra time, etc. Simply brilliant. I never cared too much about Timberlake before, but his performance in Social Network caught my attention, and In Time further proves that he can act. The pace can be quite a drag here and there, but its full of suspense all the way, many chase scenes and all. For those of you who are tired of prequels, sequels, three-quels, superheros, robots, aliens, etc, give In Time a shot, its definitely worth your time. The most original movie this year. 109 minutes is a commodity well-spent.",
+         "Looking at this film and its concept I was intrigued. With this said the film does fail to live up to the potential of its concept. One of the few major issues i have with this film is the lack of back-story with regards to the implementation of the 'body clock', along with the lack of true quality acting and a well written script. As a result of this what the viewer will get from this film experience are moments (and i mean moments) where you are enjoying the film, but by the end of it all you can reflect on what you have seen and notice that you could have done a lot more with your money if you had not gone to watch In Time. ...What a pity",
+         "Why does Hollywood insist on spending on stars, but not enough on script? Massive fail, gaping plot holes. You will know what you're in for when the opening line is \"don't know how it happened, it's just like that\". Suspend my disbelief is fine, just don't insult my intelligence. *Spoiler begins* Time is the only currency, and once out you get a massive heart attack and die. Transfer of currency is by skin contact and doesn't even need compliance from the owner... Which is called a \"fight\". This is my most major beef with the script. Even credit cards need verification to process transactions, in this show one can can just touch and take. Gives a whole new meaning to touch of death. The nonsense continues: I seriously LOLed when the stars \"rob\" a bank (just crash a car through the front door) and the \"villain\" Cillian died. He plays a \"Time Keeper\" but dies by forgetting to watch his time... the mysterious stranger who gives away time also needs no reason to, other than being tired of living. There was even an oversight somewhere in the middle, whereby JT asks AS for a \"loan\" only to get rejected though he has but hours to live. He handles rejection by falling asleep only to wake up in the morning (presumably sleeping past his heart attack). Surprised ANYONE in this make-believe world could fall asleep, seeing as you might be death touched in the night... *spoilers end* If anything, this show taught me the importance of time. Don't make my mistake, do NOT watch this movie.",
+         "This is a really cool idea for a film. A day in the future when the commodity of value is not cash or gold, it is time. Everyone gets to live to age 25. After that you have one year to live, or less. It all depends upon whether you use all your time credits or you earn more. Regardless, if you live to age 100, or longer, your body physically remains looking twenty five. On the plus side is Justin Timberlake coming back and showing that his misstep in Bad Teacher (2011) was just one of those embarrassing Hollywood screw ups. Timberlake has real drama and acting talent and is definitely here for the long haul. (Too bad Elvis was never given such chances.) Timberlake gave us a glimpse of his depth last year in The Social Newtwork (2010) , but his talents were not fully developed for Friends with Benefits (2011). The script starts with the eerie, sobering reminder, and all too familiar words, \"We don't have time...we don't have time...\" Think if today you had to buy everything with time, instead of bank credit or cash. Coffee costs four minutes. A bus ride costs an hour. A car costs two years. People can give or take time from each other. Just don't run out of time or you will die on the spot. If this were real, would you treasure and spend time more wisely? The real interesting question may be that time really is the currency we live by now, we just fail to see it that way. The simple fact is that you can earn countless piles of cash and gold in this world, but you really cannot buy time. Despite the wealthy in today's world sometimes being able to cheat a few years with better health care, we all are going to die in the same average years. While the script is the superficial tale of Will Salas (Timberlake) and his Mom (Wilde) trying to pass time in a futuristic world, the messages of the film go far deeper. It is really a tale of class warfare. People who have time, like the mega \"eonaire\" Phillipe Weis (Katheiser) and his rich daughter Sylvia (Seyfried) and those who constantly struggle to keep time (or run out of it) like the Salas family. Will gets the chance to move up into a better time zone thanks to a man who has just decided that after a hundred years or so, he prefers to \"time out.\" He leaves Will the prophetic warning \"Don't waste my time.\" How Will chooses to spend his time, for himself or for the benefit of all, is now the story. I really did not mind that the future depicted in this film was not futuristic looking and all the cars were vintage 1970's models with updated lighting and electric sounding motors. It saved a huge budget rather than try to make the world look like it probably will in 2013 or so. And I think the point was that the future is really now. As an entertaining film, my 7.5 rating is spot on. As a thought provoking experience, I might have given it a 10.0. After seeing this film, you should go out and visit with friends. Your own clock is ticking down. Are you really using it wisely? Unlike the time down clock on the arm of the people in this film, you never know when your time is about up. This film...it's worth your time.",
+         "I went into this one with the lowest expectations, and boy was I wrong. For one thing, before I saw his name in the opening credits, I had no idea this was an Andrew Niccol film, and since he is the stylish, stylized genius who gave us GATTACA, suddenly things were looking up. Then, wow, this cast! Sure, I knew about Justin Timberlake and Amanda Seyfried, but check out the rest of them: Olivia Wilde, Cillian Murphy, THE BIG BANG THEORY's Johnny Galecki, WHITE COLLAR's Matt Bomer and genre-It Kid, Alex Pettyfer. I mean, come on! How can a movie be directed by Andrew Niccol AND contain so much of the pretty AND also be science fiction and NOT be completely, exactly, entirely the kind of movie that I would love, love, love? Want to know why my expectations were low? I'd seen a snippet of the trailer -- which just looked to me like a bunch of TRANSFORMERS-style running around the place -- and had read the basic film synopsis sent to me by Fox Studios' publicity department. So what I knew was this: \"Welcome to a world where time has become the ultimate currency. You stop aging at 25, but there's a catch: you're genetically-engineered to live only one more year, unless you can buy your way out of it. The rich \"earn\" decades at a time (remaining at age 25), becoming essentially immortal, while the rest beg, borrow or steal enough hours to make it through the day. When a man from the wrong side of the tracks is falsely accused of murder, he is forced to go on the run with a beautiful hostage. Living minute to minute, the duo's love becomes a powerful tool in their war against the system.\" Why was I hesitant about this premise? Because, come on! How many sci-fi tropes do you want to hit? Predetermined age-limit to combat overpopulation: LOGAN'S RUN, among many others. Being able to effectively purchase immortality: Elizabeth Moon's Familias Regnant series, among many others. Falsely accused and on the run in a future, dystopian society: hello MINORITY REPORT, THE ISLAND and who knows what all else! But you know what? Much like he did in GATTACA, where he took the already well-worn path of the genetically-superior being not necessarily being superior and made it his own, writer/director Niccol brings a freshness, almost a whole new sensibility to these and the other trappings of classic sci-fi he offers up to us here. We also get action, suspense, romance, humor, social commentary, gorgeous visuals and, as I mentioned, bucket loads of the pretty -- I would pay good money to see Matt Bomer and Olivia Wilde in anything; impossibly beautiful doesn't even begin to cover that blessed pair -- and wow, what a thoroughly, unexpectedly fun, truly thought-provoking and utterly engaging time this movie was. I am still flabbergasted at just how much I dug this. I actually broke into spontaneous applause as the credits rolled. And I can't wait to see it again. But the big question: how was JT? He was, I will have you know, excellent. I have long felt that there was something effortlessly engaging about his whole persona, whether in interviews or on SNL or in roles as diverse as beleaguered rookie cop in EDISON, Napster hipster Sean Parker in THE SOCIAL NETWORK or squirrelly substitute Scott in BAD TEACHER. He doesn't really seem to act: he just IS. Here, he is an unlikely action hero, but somehow, he pulls it off in grand style, looking simultaneously earnest, dangerous and adorable, and easily holding his own even alongside someone the likes of Murphy, whose hypnotic eyes can convey more in one blink of an eyelash than many a lesser actor can get across in an entire soliloquy. All of the other performances are top notch, particularly from Wilde and Galecki -- who brings most of the funny in the film -- and hey, you know who else is in here! Vincent Kartheiser, AKA Connor from ANGEL! And he's not bad at all, either. In fact, he and Pettyfer are our main bad guys, and both pull of criminal cool pretty damn well. The long and the short of it? See this film. It's entertaining, it has a message, it is a feast for the eyes, and we definitely need to be encouraging more of this kind of genre filmmaking. True, it's not a truly original piece of work. In fact, in addition to all of the other things it reminds me of, it also brings to mind EQUILIBRIUM -- not so much in its content but in the way that it is essentially a mashup of a whole bunch of established ideas out of speculative fiction, but gives them new life (Equilibrium went with BRAVE NEW WORLD, FAHRENHEIT 451, 1984 -- and also LOGAN'S RUN as its inspirations). But that's okay; I really like EQUILIBRIUM, too. In doing a little research for this review, I discovered that the ever-litigious SF luminary Harlan Ellison is suing Niccol and various studio-types for plagiarism, given this movie's similarity to his 1965 short story \"'Repent, Harlequin!' Said the Ticktockman.\" Having not read the piece in question, I can't comment, but considering Ellison's unrelenting pursuit of copyright infringers, one would think that if Niccol WAS to knowingly steal from anyone, he'd have picked a safer target. After all, most of the ideas in this movie can be found all over Sci-Fi, not to mention in Action, and Drama and Crime, as well. But sometimes it's not about the provenance of the ideas, it's what you do with them. And here, Niccol has done wonders. (As long as you suspend your disbelief and go with the fact that Timberlake, Seyfried and the rest are, biologically, only 25. Luckily, Hollywood's been conditioning us to do just that for years.) -- Rachel Hyland, Geek Speak Magazine"
+      ],
+      "genres": [
+         "Action",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Regency Enterprises",
+         "New Regency Pictures",
+         "Strike Entertainment"
+      ],
+      "summaries": [
+         "Welcome to a world where time has become the ultimate currency. You stop aging at 25, but there's a catch: you're genetically-engineered to live only one more year, unless you can buy your way out of it. The rich \"earn\" decades at a time (remaining at age 25), becoming essentially immortal, while the rest beg, borrow or steal enough hours to make it through the day. When a man from the wrong side of the tracks is falsely accused of murder, he is forced to go on the run with a beautiful hostage. Living minute to minute, the duo's love becomes a powerful tool in their war against the system.",
+         "In a future society, people are genetically modified to stop aging at twenty five and after that a clock is activated with one more year for each citizen. Time is a currency and the wealthy that live in the New Greenwich are immortals while the poor live in ghettos in time zones are exploited and forced to live with a few hours or days, and need to work, borrow, beg or steal to stay alive. Thieves steal time and the timekeepers control the society. When the worker Will Salas saves the rich Henry Hamilton from a dangerous gang of thieves, Henry tells that he is 105 years old and is tired of living, since there is no need for the deaths in the unfair society. When Will sleeps, Henry gives more than one hundred years to him and commits suicide. Will runs to meet his mother Rachel Salas to credit time to her but she dies before the transference. Will heads to New Greenwich but the timekeeper Raymond Leon believes that he killed Henry to steal his time. Will flirts with Sylvia Weis, who is the spoiled daughter of the millionaire Philippe Weis, in a party and when Raymond arrests him, Will Salas kidnaps Sylvia and brings her to the ghetto where he lives. Sylvia feels how despicable her father is and together with Will, they steal a large quantity of time to fight against the system.",
+         "In a future society people have been engineered not to age once reaching 25 but can only live for one more year as time is now the currency. Those who trade it can live for more than a 100 years. Society's classes are divided into what they call time zones. The richest live in the Greenwich section. One of the residents of Greenwich wanders into the poor section where someone sees how much time he has which is 100 years and wants to steal it. Will Salas, a decent guy saves him but he tells Will that he wanted to die because he's tired of a system wherein someone has to die for others to live. While Will is sleeping he gives Will his time and walks off to die. Will goes off to share it with his mother but she dies because of inflation. Will heads off to Greenwich. He then meets a girl named Sylvia whose father is the one behind the system. A law enforcement office known as a Timekeeper who's investigating the death of the man who gave Will his time, assumes that Will stole it. So he confiscates it and arrests Will. Will then takes Sylvia hostage and runs off with her. He goes back to his time zone and asks for a ransom but when her father doesn't give it. He lets her go but when she's in danger Will saves her and they decide to work together to take down the system.",
+         "In the future when the aging gene has been switched off, people must pay to stay alive. To avoid overpopulation, time has become the currency that people use to pay for luxuries and necessities from a clock implanted in their forearm. This can easily be transferred among individuals on body contact. The rich can live forever, while the rest try to negotiate for their immortality. A poor young man is accused of murder when he inherits a fortune of time from a dead upper class man, though too late to help his mother from dying. He is forced to go on the run from a corrupt police force known as 'time keepers",
+         "In a future where people stop aging at 25, but are engineered to live only one more year, having the means to buy your way out of the situation is a shot at immortal youth. Here, Will Salas finds himself accused of murder and on the run with a hostage - a connection that becomes an important part of the way against the system."
+      ],
+      "budget": 40000000
+   },
+   "movielensId": 90405,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2011-10-27",
+      "dvdReleaseDate": "2012-01-31",
+      "directors": ["Andrew Niccol"],
+      "runtime": 109,
+      "movieId": 90405,
+      "title": "In Time",
+      "mpaa": "PG-13",
+      "actors": [
+         "Justin Timberlake",
+         "Amanda Seyfried",
+         "Cillian Murphy",
+         "Olivia Wilde",
+         "Alex Pettyfer",
+         "Johnny Galecki",
+         "Matt Bomer",
+         "Vincent Kartheiser",
+         "Yaya DaCosta",
+         "Toby Hemingway",
+         "Bella Heathcote",
+         "Shyloh Oostwald",
+         "Emma Fitzpatrick",
+         "Will Harris",
+         "Michael William Freeman",
+         "Jesse Lee Soffer",
+         "Aaron Perilo",
+         "Zuleyka Silver",
+         "Colin McGurk",
+         "Laura Ashley Samuels",
+         "Ray Santiago",
+         "William Peltz",
+         "Christiann Castellanos",
+         "Abhi Sinha",
+         "Maximilian Osinski",
+         "Kristopher Higgins"
+      ],
+      "imdbMovieId": "1637688",
+      "originalTitle": "In Time",
+      "genres": [
+         "Action",
+         "Thriller",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["xhYUaR5QiUs"],
+      "plotSummary": "In the not-too-distant future the aging gene has been switched off. To avoid overpopulation, time has become the currency and the way people pay for luxuries and necessities. The rich can live forever, while the rest try to negotiate for their immortality. A poor young man who comes into a fortune of time, though too late to help his mother from dying. He ends up on the run from a corrupt police force known as 'time keepers'.",
+      "tmdbMovieId": 49530,
+      "avgRating": 3.44912,
+      "releaseYear": "2011",
+      "numRatings": 4727,
+      "posterPath": "/lnYuAr3QOPzvuEFlzpsRUq41IEy.jpg"
+   }
+}

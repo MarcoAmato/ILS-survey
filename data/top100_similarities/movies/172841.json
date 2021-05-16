@@ -1,0 +1,570 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [],
+      "imdb_id": "tt0192263",
+      "video": false,
+      "title": "Longitude",
+      "recommendations": [],
+      "backdrop_path": "/ksbU7DlcScFfpDv10w4BaSB5ymi.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Army Doctor",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d4765",
+               "name": "Peter Cartwright",
+               "profile_path": "/xsxj1F1ChT1TYjqAhByH5YsLsIN.jpg",
+               "id": 186070,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Rupert Gould",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d4761",
+               "name": "Jeremy Irons",
+               "profile_path": "/9AWphjIgGX7JjTrwrx3tsTZlUgv.jpg",
+               "id": 16940,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "John Harrison",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d4769",
+               "name": "Michael Gambon",
+               "profile_path": "/k6VxRs7xcG6DLEVM1izjb3UWSyC.jpg",
+               "id": 5658,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "William Harrison (Adult)",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d4777",
+               "name": "Ian Hart",
+               "profile_path": "/35KSRxsFR20QGDhIrZn7G4Jkc2g.jpg",
+               "id": 10985,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Adm. Sir Cloudsley Shovell",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d476d",
+               "name": "Jonathan Coy",
+               "profile_path": "/c08XcdJnfkeXYw73FjcZ51eJLow.jpg",
+               "id": 59084,
+               "order": 4
+            },
+            {
+               "cast_id": 40,
+               "character": "William Harrison (Young)",
+               "gender": 0,
+               "credit_id": "59d91c1892514124c902babf",
+               "name": "Liam Jennings",
+               "profile_path": null,
+               "id": 1901955,
+               "order": 5
+            },
+            {
+               "cast_id": 39,
+               "character": "Capt. Ainsley",
+               "gender": 0,
+               "credit_id": "59d6fdb892514124c5005a40",
+               "name": "Christopher Hodsol",
+               "profile_path": null,
+               "id": 1241130,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "George Graham",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d477b",
+               "name": "Peter Vaughan",
+               "profile_path": "/z9ZplbTA1ojYhgZ8kJUKKhsJ7Gs.jpg",
+               "id": 386,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "John Campbell",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d477f",
+               "name": "Andrew Scott",
+               "profile_path": "/3yu4zC3OVq2lvmMqnPT4RYH4sBU.jpg",
+               "id": 125660,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Elizabeth Harrison",
+               "gender": 1,
+               "credit_id": "52fe47b0c3a368484e0d4783",
+               "name": "Gemma Jones",
+               "profile_path": "/doDUez5AkN0bfqmZWB0bKO9mcJe.jpg",
+               "id": 9138,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "Sir Charles Pelham",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d4787",
+               "name": "Nigel Davenport",
+               "profile_path": "/1TwrQGpgtjejHHA2U3qfoNBX0io.jpg",
+               "id": 13327,
+               "order": 10
+            },
+            {
+               "cast_id": 14,
+               "character": "Capt. Proctor",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d478b",
+               "name": "John Standing",
+               "profile_path": "/npS8a4mKgqpJJiNeRPn0Ftl7pxj.jpg",
+               "id": 11282,
+               "order": 11
+            },
+            {
+               "cast_id": 15,
+               "character": "Sir Kenelm Digby",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d478f",
+               "name": "Stephen Fry",
+               "profile_path": "/uaRoTAS2D15vdlpHm122UEUg5ck.jpg",
+               "id": 11275,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Lord Sandwich",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d4793",
+               "name": "Bill Nighy",
+               "profile_path": "/imAkeJi8C8ZHpPPB8RP92AD3kYW.jpg",
+               "id": 2440,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Lord Morton",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d4797",
+               "name": "Brian Cox",
+               "profile_path": "/m15C58NWii5WCIg57Llr7hejnfy.jpg",
+               "id": 1248,
+               "order": 14
+            },
+            {
+               "cast_id": 18,
+               "character": "Christopher Irwin",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d479b",
+               "name": "Tim McInnerny",
+               "profile_path": "/wxO1c0e5N1WHn2wLHmEbvrfqnnX.jpg",
+               "id": 41043,
+               "order": 15
+            },
+            {
+               "cast_id": 19,
+               "character": "Capt. Bourke",
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d479f",
+               "name": "Daragh O'Malley",
+               "profile_path": "/xHokRLUxBBKiDgzfyuJedC6nyKf.jpg",
+               "id": 144863,
+               "order": 16
+            },
+            {
+               "cast_id": 20,
+               "character": "Waddington, Gould's solicitor",
+               "gender": 0,
+               "credit_id": "52fe47b0c3a368484e0d47a3",
+               "name": "Michael Cochrane",
+               "profile_path": "/j606OvTGVLtETdAcoN7PZjSvXHG.jpg",
+               "id": 30037,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Halley's Secretary",
+               "gender": 2,
+               "credit_id": "556e4666925141157d000068",
+               "name": "Tobias Menzies",
+               "profile_path": "/bXUpxFsIowySRyyqchaE1XprptI.jpg",
+               "id": 10920,
+               "order": 18
+            },
+            {
+               "cast_id": 27,
+               "character": "Muriel Gould",
+               "gender": 1,
+               "credit_id": "589a7b03925141237e001909",
+               "name": "Anna Chancellor",
+               "profile_path": "/iKfSkQNhajOMPZoDHHTFUad99e5.jpg",
+               "id": 10731,
+               "order": 19
+            },
+            {
+               "cast_id": 28,
+               "character": "Sir Edmund Halley",
+               "gender": 2,
+               "credit_id": "589a7b19925141237e00190e",
+               "name": "John Wood",
+               "profile_path": "/bWt4JT9eGxFtu3q0iCAKFtNv5XK.jpg",
+               "id": 8937,
+               "order": 20
+            },
+            {
+               "cast_id": 29,
+               "character": "Nevil Maskelyne",
+               "gender": 2,
+               "credit_id": "589a7b38c3a3683aaa0019f7",
+               "name": "Samuel West",
+               "profile_path": "/yIDXDpgXxPbl5qWu8KHV7fGzVNr.jpg",
+               "id": 54447,
+               "order": 21
+            },
+            {
+               "cast_id": 30,
+               "character": "Dr. Bliss",
+               "gender": 2,
+               "credit_id": "589a7b48925141237e00192a",
+               "name": "Ian McNeice",
+               "profile_path": "/v217qBNPrwNBvcu9F3BVBPE0AwM.jpg",
+               "id": 3547,
+               "order": 22
+            },
+            {
+               "cast_id": 31,
+               "character": "Lt. Draper",
+               "gender": 2,
+               "credit_id": "589a7b62c3a3683ab00019fe",
+               "name": "Cliff Parisi",
+               "profile_path": "/2QuZavAJwHCNC7nfkH6Qj3F6rqb.jpg",
+               "id": 182110,
+               "order": 23
+            },
+            {
+               "cast_id": 33,
+               "character": "Lt. Seward",
+               "gender": 2,
+               "credit_id": "589a7b949251412384001b00",
+               "name": "Charles Edwards",
+               "profile_path": "/qcAysQnmu7Pi96IV85u4YjgqzkQ.jpg",
+               "id": 281527,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Capt. Lindsay",
+               "gender": 2,
+               "credit_id": "589a7bbcc3a3683a980018c3",
+               "name": "Pip Torrens",
+               "profile_path": "/oufazs9fACQgocDos8vEY5IW1Wr.jpg",
+               "id": 36666,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Edmund Burke",
+               "gender": 2,
+               "credit_id": "589a7bd0c3a3683a96001a8d",
+               "name": "T.P. McKenna",
+               "profile_path": "/7OJongx1j7hqTGbtLQicBsPqbtx.jpg",
+               "id": 1589813,
+               "order": 26
+            },
+            {
+               "cast_id": 38,
+               "character": "Capt. Man",
+               "gender": 2,
+               "credit_id": "589a7bef925141237b0019cb",
+               "name": "Roger Lloyd Pack",
+               "profile_path": "/6hWATATAe2Tv7v2EKefdjfAaI7.jpg",
+               "id": 81024,
+               "order": 27
+            },
+            {
+               "cast_id": 32,
+               "character": "Roger Wills",
+               "gender": 2,
+               "credit_id": "589a7b73c3a3683ab80017ee",
+               "name": "Trevor Cooper",
+               "profile_path": null,
+               "id": 79934,
+               "order": 28
+            },
+            {
+               "cast_id": 34,
+               "character": "Surgeon",
+               "gender": 0,
+               "credit_id": "589a7ba8925141238100195e",
+               "name": "Peter Penry-Jones",
+               "profile_path": null,
+               "id": 1217926,
+               "order": 29
+            },
+            {
+               "cast_id": 37,
+               "character": "Dodo Gould",
+               "gender": 1,
+               "credit_id": "589a7be4c3a3683a980018e3",
+               "name": "Barbara Leigh-Hunt",
+               "profile_path": null,
+               "id": 8228,
+               "order": 30
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d4757",
+               "name": "Charles Sturridge",
+               "profile_path": "/imwyBgA311nFHE73tDvi8bTB6to.jpg",
+               "id": 77104,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d475d",
+               "name": "Charles Sturridge",
+               "profile_path": "/imwyBgA311nFHE73tDvi8bTB6to.jpg",
+               "id": 77104,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b0c3a368484e0d4773",
+               "name": "Dava Sobel",
+               "profile_path": null,
+               "id": 1050294,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b0c3a368484e0d47a9",
+               "name": "Geoffrey Burgon",
+               "profile_path": null,
+               "id": 10716,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47b0c3a368484e0d47b5",
+               "name": "Peter Coulson",
+               "profile_path": null,
+               "id": 1014524,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b0c3a368484e0d47bb",
+               "name": "Shirley Russell",
+               "profile_path": null,
+               "id": 39815,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5839ee6a925141707a00730d",
+               "name": "Peter Hannan",
+               "profile_path": null,
+               "id": 57699,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "TV Movie",
+            "id": 10770
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         }
+      ],
+      "popularity": 5.323472,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 68954,
+      "vote_count": 12,
+      "budget": 0,
+      "overview": "Parallel stories: 18th century Harrison builds the marine chronometer for safe navigation at sea; 20th century Gould is obsessed with restoring it.",
+      "similar": [],
+      "original_title": "Longitude",
+      "runtime": 198,
+      "poster_path": "/e0JjmMSQa0l5iSTsXpSCOdWjSN.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Granada Film Productions",
+            "id": 247,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "A&E Television Networks",
+            "id": 11858,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2000-01-13",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Charles Sturridge"],
+      "runtime": 200,
+      "synopsis": null,
+      "writers": [
+         "Dava Sobel",
+         "Charles Sturridge"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0192263/",
+      "coverLink": null,
+      "actors": [
+         "Jonathan Coy",
+         "Christopher Hodsol",
+         "Jeremy Irons"
+      ],
+      "reviews": [
+         "A&E's \"Longitude\" is perhaps the most emotionally compelling, made for TV dramas yet. I was so impressed when I first saw Longitude on A&E that I had to buy it on DVD the minute it came out. A highly realistic, fully drawn out, historical drama of how one man's dream tamed time and space, \"Longitude\" strikes home with its all-star cast (including Jeremy Irons and Micheal Gambon) and two-part storyline. The first story is that of a carpenter, John Harrison, who struggled for almost 50 years to perfect a \"practical and useful\" marine chronometer. The second story revolves around Commander Rupert Gould, a man who discovers Harrison's forgotten prototypes and fights to not only restore the timepieces but to also restore the honor of Harrison. \"Longitude\" is filled with tons of edge-of-your-seat, gritty scenes, and every second of the 200-minute film glows with a profound message. The ending scene is especially powerful, in which Rupert Gould remarks, \"What makes a man great? A man may be great in his aims, or in his achievements, or in both...but I think that man is truly great who makes the world his debtor..who does something for the world which the world needs, and which nobody before him has done or known how to do.\" Definitely a great educational film to watch, and an excellent film to own. \"Longitude\" is an unforgettable experience and a demonstration of just how good a movie can be.",
+         "Longitude is an example of the very best in television drama. Based on a true story, meticulously acted and directed, this is the type of movie that the British do better than anyone else in the world. The performances of the two principals, Michael Gambon and Jeremy Irons were awe inspiring, the excellent supporting cast did not let them down. What on the surface sounds like a dry story - the search for a means of accurately determining longitude at sea - and the obsession many years later of a returned WW1 soldier with locating and restoring the devices invented for that purpose - was turned into a genuine cliffhanger by the producers. Initially I found the switching from one story to another somewhat disconcerting, but it was done so well that it soon felt quite comfortable. This is the story of one man's lifelong trial and error search to perfect his devices and to win the prize offered for the solution to the longitude problem. Against all odds and at great damage to his health he and his son eventually succeeded. Interspersed with this is the story of another man centuries later who was determined to locate & restore the devices and to ensure their preservation for future generations. I can really recommend this show to anyone with an enquiring mind, who enjoys a fascinating story, excellently told.",
+         "Dec2004 update: I did eventually buy the DVD set, and it is very nice. \"Longitude\" is a towering achievement as a movie. Shown in 4 hours on A&E network, I taped it to skip the commercials and was able to watch it in just over 3 hours. I only give ratings of \"10\" to truly remarkable movies, and this is one. It helps to be a scientist, and to have had a life-long fascination with navigation and timepieces. The story is historical - the British government passed an act in the early 1700s for a prize of 20,000 Pounds for the first to provide an accurate and practical means of establishing longitude at sea. A Board of Longitude,comprising self-important scientists, would judge when the challenge was met. John Harrison, a carpenter who understood the sun's apparent movement with the Earth's rotation, figured you could do it with a very accurate clock. He, with help from his son William, did it over a period of about 50 years, and met all conditions with his 4th clock, but the board kept throwing up roadblocks to avoid giving the award to someone who was not a scientist but a mere \"carpenter.\" Finally, when Harrison was 80, ironically in the year 1776, was given the prize by Parliament. He died only two years later. The ancient story was interwoven with a WWII-era story of a man, played by Jeremy Irons, who undertook to restore all of Harrison's old clocks, and finally succeeded against similar resistance that Harrison had faced. If you either are not a scientist, or do not appreciate the magnitude of Harrison's effort, and its contribution to modern navigation, then it is possible that you would find this movie somewhat boring. Do yourself a favor - don't waste your time. For me, it remains one of the absolute best movies I have ever seen, both in significance of the story and the mastery of the acting and direction.",
+         "This film was absolutely stunning, and after watching it we were amazed at how quickly the time flew. Though the entire movie (DVD) was 200 minutes long, we felt as though it had taken less than an hour. The sets and costumes were beautiful, the acting was superb, the meshing together of the two different times worked extremely well, the \"timing\" was impeccable, the tension built wonderfully, and the climax was powerful. We never dreamed we would feel so strongly about a movie depicting what we originally thought would be a mundane, boring subject. We are grateful to the makers of this film for the attention to detail and the feeling they put into this movie. It came alive for us, and we now feel more appreciative toward those geniuses of former times who persevered against all odds to improve the human condition. Kudos to Michael Gambon and Jeremy Irons for their exquisite performances of complex characters, and for the depth of feeling they both portrayed.",
+         "Long, but worth it! A blessed antidote to MTV's Tom Green and the rest of the scumbag-chic that passes for culture these days. Based on the brilliant history of the same name by Dava Sobel. In the days when ships measured themselves by yardage of sail and bank of cannon, knowing your north-south latitude was easy. Finding your east-west longitude however (and keeping your ship off the reefs) was hit-and-miss. That could get you killed. The cure was to know the time in London, precisely, but keeping time accurate on a rolling ship was tougher than keeping milk fresh; pendulum clocks need stable ground, and pendulum clocks were all they had. Queen Anne (Br., 1665-1714) had another idea: a 20,000 pound-sterling prize to anyone who had a solution. Problem was, no one expected a country carpenter cum-clockmaker to do it. John Harrison (Michael Gambon) was that carpenter, and it became *his* problem--a three-decades-long problem. It would also pose one for Rupert Gould (Jeremy Irons) two centuries later, as a marriage-busting, sanity-breaking obsession over restoring Harrison's neglected prototypes: clocks that could keep time at sea better than the quartz-timed digital you might be wearing now. \"Longitude\" weaves seamlessly--almost--between the two eras, tracking the exertions and miseries of John Harrison and Rupert Gould with the same kind of synchronicity Harrison spent half his life pitching to astronomers who had scarce respect for the tinkerings of a hayseed. Michael Gambon's passionate performance as John Harrison is truly Oscar-calibre, eclipsing Irons--but only because the tunnel-visioned Rupert Gould is hardly a vehicle for the memorable. Too bad this was \"only\" a TV mini-series. As a theatrical release it would have lent due reknown to a scarce-remembered true epic of genius. Watch this when you get the chance. Then go punch Tom Green in the nose.",
+         "WARNING - may contain spoiler for the historically challenged Dava Sobel, one-time science writer at the New York Times, wrote a little book published in 1995 on the 18th century search for a reliable method for determining longitude at sea. Since longitude is time, essentially, it seemed that the solution might lie in accurate time-pieces, and John Harrison, a carpenter from the North of England who had already built some superb wooden church clocks, decided to have a crack at the 20,000 pound prize put up for a solution. But he had rivals, not fellow clock makers but astronomers who thought that their understanding of the celestial clockwork, the motions of the heavens, would give them a solution. The astronomers, being generally an upper-class lot, and having representatives on the Board of Longitude which supervised the contest, had the edge, but in the end after over thirty years of clock-building, and trials at sea and in the committee-room, Harrison won, more or less, as his clock was far easier to use that the cumbersome lunar observation method worked out by the astronomers (`the lunatics' as Harrison dubbed them). The producers here have turned this relatively simple tale into an epic spanning 70 years or so of maritime history. There are over 80 speaking parts, numerous voyages, a naval action or two, and endless committee meetings. Despite early success with his larger carriage style clocks, Harrison, wonderfully played by Michael Gambon, strikes continuing obstacles thrown up by the Board (he has not the guile to go round them), but plods on, latterly with the aid of his son William, until at last the Board is shamed into paying him for the invention, though the actual prize is never awarded. You can beat City Hall, at least if you get the mayor onside. A youthful and then fairly sane George III, a keen `natural philosopher' (scientist) eventually took an interest in Harrison's case and put pressure on the Board. There's not a lot to say about this British production (made with A & E money), which is fine. The parallel story of war-damaged Rupert Gould (Jeremy Irons) who dedicated himself to restoring Harrison's clocks in the 1920s, destroying his marriage and social standing in the process, is artfully intercut with the main tale and works as a kind of a coda to Harrison's story, though it comes perilously close to interfering with it sometimes. We spend a lot of time at sea, visit Jamaica and Barbados, and get a fairly good picture of the beastliness of the 18th century sailor's lot. Without a doubt things were better at the end than at the beginning of the century in the Navy, partly due to Captain Cook and sauerkraut, but Harrison's work made an enormous difference to life at sea, once his designs were produced in quantity. The British can legitimately be proud of Harrison, if not the upper-class twits who tried to thwart him, and here they have paid him appropriate tribute.",
+         "Despite its feared four-hour length (including commercials as shown on A&E), \"Longitude\" gets my top rating. Totally engrossing, with absolutely no false or phony notes. Acting, photography superlative. (Available on home video without commercials and with additional footage.)",
+         "I ran into this at late night on A&E a couple of years ago. Although I missed about 30 minutes of the beginning part, I immediately got 'glued' to TV by the casts' great performance, great story line, and its historical-correct setting. As a side note, Sir Isaac Newton (1642--1727) was in the same era as in the time setting of the story. I wonder if Sir Isaac Newton had ever involved with this 'board of longitude' ;)",
+         "Who would of thought that a movie about Longitude could be so engaging? Great acting and a compelling story telling turn an historical footnote into a great drama. The story flip flops back and forth between the life of a shell shocked (literally) 20th century academic and the tale of an 18th century clockmaker, John Harrison, obsessed with winning the Prize of Queen Anne for calculating longitude. The surprising part is that the two loosely related plot lines work so well together, despite frequent and rapid cuts back and forth. This is a tribute to the great acting skills of the cast, including Jeremy Irons as the 20th century academic. At times, you have to wonder what the heck Iron's struggles with sanity have to do with the 18th century story, but it all seems to quietly tie together in the end. Harrison knows that if he can develop an accurate watch, solving longitude was a breeze. This may seem academic, but the lives of British seamen were literally at stake. Developing an accurate timepiece was a far more difficult task than we can today imagine, and Harrison faced a skeptical board of theoreticians who preferred more complex scientific solutions than they thought could be provided by a humble clockmaker. The board utterly fails to grasp that the simple solution is the product of a profoundly complex and innovative device. We think so highly of the great technological achievements of our times, and they are great. We need to be reminded from time to time, as this film does so well, that the breakthroughs of other generations were in there time quite profound. Moreover, we would not be where we are today without them. As the great Sir Issac Newton once said, \"If I have seen further, it is because I have stood on the backs of giants\".",
+         "All great stories deal with conflict and overcoming difficulties. The vast majority of films that are produced thesedays feature heros who triumph based on who is a bigger bad ass or has got the biggest guns or bombs. Here is a film that has virtually no 'action' other than a few cannons fired and a lashing or two during the parts at sea, but is filled with the sort of tension and drama that keeps the viewer constantly involved. If you enjoy intelligent movies, then you should definitely seek this film out. It sounds dreadfully boring if you read the plot summary, but it isn't. It is wonderfully written and produced and contains much light humor as well, making it truly entertaining. One film that it reminded me of is \"Master and Commander\" because of the similar scenes of the British navy and the theme of the struggle of science and progress in the face of war and politics with intelligence and perseverance winning out in the end. The interwoven story of Rupert Gould is just as interesting and provides an artistic counterpoint to the main story. Again, we have the story of a man who continues with his work in spite of numerous obstacles of the most serious magnitude because he knows that the world will be a better place as a result of that work. The film is long and you should wait until you have enough time to sit down and watch it through to the end because once you begin you will have difficulty turning it off.",
+         "I'm a great fan of British filmmaking. As an American who's lived in the UK most of his life, I've had the plesure of being exposed to British cinema. In no small way is this through British television. Logitude is another in a long line of excellent British films that have not received the viewership they deserve. I watched this film on Channel 4 shortly after the new year. And I admit, all the hype over this film in the previous weeks was justified. Accute performances on Gambon's John Harrison as well as Iron's part, of whom mind I must admit I am no fan, plus the usual assortment of marvelous west end stage performers in particular John Wood as Edmund Halley proclaim Longitude as excellent entertainment. The story was, on the other hand somewhat mellowed down and excessively lengthed. Yet I suppose in order to transpire the scientific details presented in the novel, length was required. But overall it is a great recount of history and I strongly recommend it to American audiences who won't find this sort of thing at home easily.",
+         "I never fail to learn, grow and believe it or not, be entertained by A&E Original Movies. This movie Longitude is no exception. This movie is historically accurate, educational and just great movie making. No history buff will mind spending the four hours it takes to deliver The Harrision's story to the small screen. Again, Bravo!",
+         "Staying with my in-laws in rural Ireland,kids,wife and said in-laws watching ER or whatever,I had to stay in the kitchen to watch on a small portable TV this film I thought would be interesting.(Dirty dishes,dogs etc...). I was taken aback quite from the start. The actors (Gambon,Irons..)were terrific,but more so,believable.After 30mns I forced my dad-in-law to at least have a look at the show,which he did. We didn't leave that kitchen for the 3 nights the series was on and merrily sorted out the after-dinner mess,all the while conversing on how to build IT.Anecdote: on the last night my eldest aughter who was 7 came into the kitchen to see what we were watching,and at that age, was captivated. It is also a great tribute to the ethics of learning and wanting,working to achieve something. Sorry if I sounded a bit Victorian in that sense.(Am not). Please watch and recommend this.",
+         "*Possible spoilers follow* I had the pleasure of viewing Longitude on A & E last night after finding my self intrigued by the ads they had run during the day. Prior to seeing it, I must confess that I had been ignorant of the struggles of John Harrison or Dava Sobel's chronicle of them. Even though I was initially dismayed that the film appeared to be a British costume drama I decided to give it a chance. I am thankful I did, because I was absolutely engrossed after no more than thirty minutes. The overall premise is man's quest to determine an accurate method of determining his longitude to navigate the seas more safely. This hook is presented right at the beginning of the film and the title of the film is explained. As we will see later in the film, this problem is not easily solved. In this day and age of satellite GPS we find it amazing that such a great effort was undertaken to obtain information we take for granted on a daily basis. What makes the film work is that we experience this epic quest from two extremely intense personal struggles. Michael Gambon does not become John Harrison...Gambon IS Harrison! In this life, I will be privileged to view another performance as convincing as Gambon's. The net effect of this is to communicate Harrison's passion for solving the longitude problem and create great empathy within the viewer. However, what truly elevates \"Longitude\" as a film is the segues to and from the struggles of Rupert Gould, a brilliant man who became obsessed with the restoration and preservation of the Harrison chronometers in the first half of this century. Jeremy Irons' portrayal of Gould is nearly a match of Gambon's. Gould is presented as a kindred spirit to Harrison, and the interweave of both men's tales is deftly handled. Their triumphs and failures are layered upon one another, and this only serves to heighten the emotion evoked by the film. Believe me, emotion is evoked in spades as we see Harrison and Gould question their capabilities as engineers and scientists, whether or not the pursuit of their dreams is worth the opposition of the establishment, and if those same dreams are worth the sacrifice of their interpersonal relationships. There are several moving moments between Harrison and his faithful son William who is also magnificently played by Ian Hart. These personal struggles and triumphs are what drive the film and make the story of the solution to the longitude problem so compelling. \"Longitude\" is an utterly magnificent achievement of filmed entertainment that enlightens and moves the viewer with its epic yet intimate portrayal of a man attempting to solve a problem we find simple today but was considered the greatest scientific quandary of its time.",
+         "A&E has been producing some high quality programming lately. This movie caps a string of great films that outshine the rest of the cable programs around them. This film, specifically, held my attention from beginning to end. The clever flashing between the 1700s and the 1900s never got annoying, and both ends seemed historically accurate to my less-than-discerning eye. They story followed our two protagonists quite effectively, matching the highs and lows of their lives in a subtle and enriching manner. From beginning to end, this movie was much more than a History Channel documentary could have been; it makes the history truly come alive, and makes me want to read more about this subject. Jeremy Irons, Ian Hart and Michael Gambon were all outstanding. in fact, the only problem with the whole production was the frequent commercial breaks. $8 would be a small price to pay to avoid them. I will probably buy this one.",
+         "Wow! I rarely ever watch TV drama, especially costume dramas, but I was swayed by the fact that this movie was based on actual events, and was a dramatisation from fact. From the fantastic efforts of all the actors, the attention to detail of each and every setting & location, to the delightful cameos, I was captivated completely. The clever entwining of two separate, yet intrinsically linked plots kept my attention from waning. The powerful performances from Gambon and Irons were superb, and were backed by a wonderful cast, all dressed immaculately in their period costumes. I thoroughly recommend Longitude, the characters are endearing, the emotion at the injustice is strong, and the sense of pleasure and enjoyment was continual. Enthralling.",
+         "Longitude is an absolutle classic of its type. Every aspect of the production is supurb whilst what could have been a boring story if told in an interesting and moving manner. After you have seen this film, I doubt that you will every forget the contribution that John Harrision made to sailors throughout the world.",
+         "This tv drama was not only riveting but informing to the degree that if I ever get lost at sea, i would know my longitude. Great actors and actresses star in this 4hr drama (with commercials), and I would recommend this drama to anyone who wishes to see Mr John and William Harrison's lifelong ambition and struggle to create the most accurate timepiece in the world and to defeat a sceptical bureaucratic group of people (the longitude board) who doggedly refuse the prize which rightfully belongs to them. this drama will also appeal to history buffs. For example, Captain Cook took a replica of Harrison's timepiece and the king of England took part in the trials of the H4.",
+         "A unique story about the institutional ignorance of bureaucracy. Wonderfully written, with focus upon the parallels in response to adversity in the lives of the father and son who developed the first accurate timepieces to insure safe navigation, and their WW II era admirer who restored their original clocks. The directing in this film is superb, the cinematography brilliant. A viewer can't help but experience visceral empathy with the protagonists and equally despise the studied ignorance of those who made the clockmakers' lives so difficult. It is a pleasure to view a film in which all the actors are so effortlessly competent.",
+         "Touching upon a subject that sounds about as dull as ditchwater, 'Longitude' brought into focus one of the standards of measurement that we nowadays take sublimely for granted. How easy it is to forget, in our simple, mundane lives, the single-minded search of scientists and engineers who laid down the fabric of modern knowledge and the means to express it. Whole lives often became dedicated to resolving an individual problem or attaining some obscure goal. The programme added further interest by interplaying a story of instrument restoration with its original creation and perfection, shifting from one period of history and another. This mini-series (available edited on DVD) had me completely enthralled in a way that I'm rather ashamed to say a documentary might not. The splendid drama helped to drive home the personal intensity of research and painstaking craft in its execution, as well as their implications for family. There was also great insight into the politics of the day. Irons and Gambon set a masterclass in their respective roles. Though, as with all of the best British drama, everyone played their parts to a nicety. Sets, styles, costumes and even period manners were very well observed. Because so much has been discovered by so many, especially since the enlightenment, 'history' tends to concentrate unfairly upon the 'sexy' and dramatic issues like wars, nation-building and so forth. Even when science is touched upon, it is usually preoccupied with the power to amaze. Yet so much in our acquisition of knowledge was down to dogged determination over years rather than 'eureka moments'. This programme wasn't just an excellent way of revealing the issues of longitude - which it did in a most interesting way - it also served as a microcosm of scientific steadfastness as a whole. We all know the big names, but in their shadows stand many many more without whom even those big names would likely have been unsung. As Isaac Newton himself once observed 'If I see further than other men it's because I stand on the shoulders of giants'. Very highly recommended, both as a drama and source of education.",
+         "This is an absolutely first rate film with a seemingly endless cast of grade-A Actors (and a couple of Actresses). It's chocked full of so many familiar faces from both film and television that I couldn't stop asking myself \"where have I seen that person before?\" I thought that cutting back and forth between the two story lines was very effective and created a whole greater than the sum of its parts. Ten years ago, this would likely have been a two part episode of Masterpiece Theatre on PBS. PBS should stop asking \"If PBS doesn't do it, who will?\" They might not like the answer.",
+         "In 1920 Rupert Gould gained permission to restore John Harrison's chronometers. A self-educated English carpenter and clock maker who helped solve the longitude sea voyages safely and accurately. Something which is almost taken for granted now, nearly 300 years later. East and West points were necessary before the time of his designed watch, (which is why the Longitude prize was offered) as there were many errors calculating the previous to the current position, sometimes causing shipwrecks, with many lives lost, especially on longer voyages. This is two stories in one and flicks back and forth over the course of the storytelling. Captain James Cook navigated the South Pacific using a copy of Harrison's' 4th chronometer, praised it and made charts so accurate that copies of them were still in use in the mid-20th century.",
+         "The great irony of course is that, because this was conceived as an \"historical\" -- almost educational -- drama, it never found an audience. Which of course is the insanity of the modern entertainment business. As a film, as a narrative, as a story, as entertainment it is perfect. Perfect as to script, casting, acting, direction, editing, the whole 9 years. In a parallel universe somewhere this film made it to theatres around the world and was cherished. In this is universe, it is actually hard to find a copy.",
+         "This feature film is pretty shocking, considering the subject. It opens with an able seaman in His Majesty's Navy being hanged from the yardarm in 1707 for keeping an independent log of the ships position, whose figures disagreed with those of the captain by some ninety miles. Really. And then they cut down the body and it falls to the deck with a plop. The captain's reckoning was off and the seaman's was right but it doesn't matter. Latitude at sea, that is, degrees north and south, is easy to determine. These are the lines that run east and west along the globe. If the north star, Polaris, is on the horizon, you're at the equator. If Polaris is directly overhead, you're at the north pole. By measuring the elevation of Polaris you can fix your latitude by degrees. Longitude -- the lines that run up and down on a map and indicate degrees east and west -- is much more difficult because it requires an accurate timepiece, one that doesn't depend on a pendulum. (Ships rock and roll.) Well, Britain is an island, and a seafaring nation, about to launch its colonial period. They need navigation more accurate than dead reckoning. The merchant ships and men of war need to know where they are and where they are going. That is, it's usually better to sail around the Cape of Good Hope rather than into it. So the government offers a prize for anyone who devises a solution to the problem. Some of the devices offered depend on using magic on wounded dogs and are pretty funny. Carpenter Michael Gambon devises a clock the size of a refrigerator that he hopes is immune to the ship's movement and he's given permission to try a test run back and forth to Lisbon. The results are inconclusive and he continues with his work, running out of money and always running up against the Royal Society and its preference for \"scientists\" over \"carpenters\" -- scientists who believed that the pineal gland was the seat of emotions. Meanwhile, there are rather abrupt cuts to the 1930s, where we see Jeremy Irons trying to reconstruct Gambon's antique clocks, now all weathered and stuck. It's frustrating work. Irons can't get much help either because he's been divorced and because he suffered from a nervous breakdown, as it was called in the 30s. It's irritating too, as Irons proceeds to duplicate Gambon's work, to find that when he had a problem, Gambon attached a corrective device. When that proved not accurate enough, he attached still another corrective device, until layer upon layer of corrective devices made the whole mad construction impossible. Still, in their parallel universes, both Gambon and Irons persist. These cuts, by the way, may sound more confusing than they are. Once the characters and settings are established, there's no problem. It's reasonable to ask how much a viewer needs to know about a clock's innards before he can follow developments. It's easy. You only need to know the elements of potential energy, torque, bevels, a folio balance and verge escapement, a high ratio weight gear train, parallax, the piezoelectric effect, the Zeigarnik effect, Ohm's law, the Purkinje effect, the properties of subatomic particles, the genitalia of Saurians, Marbe's law, Murphy's law, and who Christiaan Huygens was. Actually, you don't need to know anything about clocks except that if they're accurate enough they can tell longitude. It demands nothing but patience. There's even an exchange of shots at sea with a Spanish privateer to liven things up. Both Gambon, who plays John Harrison, and Jeremy Irons, who plays Rupert Gould, are balked at almost every turn, not only because of the nature of the technical problems they face but because of what might be called paradigmatic inertia. When you are dealing with a Royal Society that believes that curing illness requires bleeding the patient, you're going to have a hard time convincing them that a watch the size of a small frying pan will tell longitude. And in Iron's case, he was trying to find money in a country that was recovering from a depression and simultaneously preparing for war. Both are successful in their pursuits. Gambon's character worked on his time pieces for fifty years and was finally awarded the prize he sought, not from the board of scientists but from Parliament. He was eighty years old. Iron's character recovered and became a well-known media figure specializing in science, and was eventually made curator of a prominent museum. All of these struggles are fleshed out and non-trite. What they led to is the reason all the world today measures its time according to \"Greenwich Mean Time\" or GMT. In a way the program resembles an afternoon soap opera except that it has a much better budget, the writing and dialog are light years advanced, the characters are more flesh than cardboard, the direction is more sensitive and trusting of the viewer, the central theme isn't love but a problem that exists in nature, and the acting is exquisite. Both Irons and Gambon are nearly perfect in their entirely different ways -- Gambon proud and blustery, Irons neurotic and timid. Irons is required to enact another breakdown of an unspecified source. It looks like a manic episode. In the 30s, there was no way of dealing with it except to knock the patient out with narcotics. Without that, you have a real-life \"raving lunatic\" on your hands. Fortunately, the extreme episodes tend not to last too long. The hospitalized Irons gets a radiantly beautiful nurse, Lucy Akhurst. They always get good-looking nurses in the movies. She's not only good for him; she's good to him."
+      ],
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "productionCompanies": [
+         "A&E Television Networks",
+         "Granada Film Productions"
+      ],
+      "summaries": [
+         "In the 18th century, the only way to navigate accurately at sea was to follow a coastline all the way, which would not get you from Europe to the West Indies or the Americas. Observing the sun or stars would give you the latitude, but not the longitude unless done in conjunction with a clock that would keep time accurately at sea, and no such clock existed. After one too many maritime disasters due to navigational errors, the British Parliament set up a substantial prize for a way to find the longitude at sea. The film's main story is that of craftsman John Harrison: he built a clock that would do the job, what we would now call a marine chronometer. But the Board of Longitude was biased against this approach and claiming the prize was no simple matter. Told in parallel is the 20th century story of Rupert Gould, for whom the restoration of Harrison's clocks to working order became first a hobby, then an obsession that threatened to wreck his life.",
+         "In the early years of the 18th century, a British fleet foundered on the rocks off the Scilly Isles due to a navigational error. The problem was an incorrect estimation of longitude, something that had yet to be perfected. As a result, Parliament announced they would award a sum of £20,000 to anyone who could develop an accurate method of determining longitude. William Harrison, a carpenter by trade and amateur clockmaker, decides to try and solve the issue by building an accurate maritime clock. Over many years, Harrison perfected timepieces that would accurately give time at a known location, such as Greenwich, which could then be compared against local time (by measuring the position of the sun in the sky). The time difference could then be converted to degrees of longitude which, combined with the already existing method of calculating latitude, would give the ship's exact location. Harrison's timepieces were a marvel of the age but it took several experiments and a great many years before his accomplishment was recognized and the cash prize awarded. Interspersed with Harrison's story is that of Rupert Gould who, just after World War I, locates some of Harrison's original timepieces and tries to restore them to working order.",
+         "\"Longitude\" follows John Harrison's quest to find the key to determining longitude. In the 18th century, the problem of measuring longitude confounded scientists, sailors and politicians. In 1707, unable to determine their exact location through a thick fog, 2,000 men of the British fleet perished by accidentally running into the rocks off the Scilly Islands. As a result of this tragedy, in 1714 the British Parliament passed the Act of Longitude to offer an enormous cash prize to the person who could solve the problem of longitude. A carpenter by trade, Harrison believes that the solution lies in finding a way to measure time accurately, going against many of the scientists of the day, who feel that the mystery would be solved through celestial navigation. Harrison designs and creates four increasingly refined timekeepers. This work takes him through 30 years of struggle and determination (not only his but his family's, friends', and allies' as well) to solve what was referred to as the \"greatest scientific problem of the time.\" Along the way, he faces the animosity and interference of many of the celestial navigation proponents.",
+         "When the British Parliament creates an award of £20,000 to whoever can come up with a solution for determining longitude at sea, a carpenter-turned-clockmaker, John Harrison, begins his experiments to build an accurate timepiece unaffected by sea travel. His main obstacles are lack of money, a judgment Board convinced that the answer lies in astronomy and not clocks, and the mechanics of the clock itself. Rupert Gould, a retired naval officer who suffered a nervous breakdown in WWI, has been researching Harrison's history and makes efforts to locate and restore Harrison's clocks. Harrison's and Gould's struggles are linked by the clocks which the two men will, across 200 years, make tick accurately enough to measure longitude.",
+         "In two parallel stories, the clockmaker John Harrison builds the marine chronometer for safe navigation at sea in the 18th Century and the horologist Rupert Gould becomes obsessed with restoring it in the 20th Century."
+      ],
+      "budget": 0
+   },
+   "movielensId": 172841,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2000-01-13",
+      "dvdReleaseDate": null,
+      "directors": ["Charles Sturridge"],
+      "runtime": 198,
+      "movieId": 172841,
+      "title": "Longitude",
+      "mpaa": "PG-13",
+      "actors": [
+         "Peter Cartwright",
+         "Jeremy Irons",
+         "Michael Gambon",
+         "Ian Hart",
+         "Jonathan Coy",
+         "Liam Jennings",
+         "Christopher Hodsol",
+         "Peter Vaughan",
+         "Andrew Scott",
+         "Gemma Jones",
+         "Nigel Davenport",
+         "John Standing",
+         "Stephen Fry",
+         "Bill Nighy",
+         "Brian Cox",
+         "Tim McInnerny",
+         "Daragh O'Malley",
+         "Michael Cochrane",
+         "Tobias Menzies",
+         "Anna Chancellor",
+         "John Wood",
+         "Samuel West",
+         "Ian McNeice",
+         "Cliff Parisi",
+         "Charles Edwards",
+         "Pip Torrens",
+         "T.P. McKenna",
+         "Roger Lloyd Pack",
+         "Trevor Cooper",
+         "Peter Penry-Jones",
+         "Barbara Leigh-Hunt"
+      ],
+      "imdbMovieId": "0192263",
+      "originalTitle": "Longitude",
+      "genres": [
+         "TV Movie",
+         "Drama",
+         "History"
+      ],
+      "youtubeTrailerIds": ["BlQcCenLchU"],
+      "plotSummary": "Parallel stories: 18th century Harrison builds the marine chronometer for safe navigation at sea; 20th century Gould is obsessed with restoring it.",
+      "tmdbMovieId": 68954,
+      "avgRating": 3.5,
+      "releaseYear": "2000",
+      "numRatings": 2,
+      "posterPath": "/e0JjmMSQa0l5iSTsXpSCOdWjSN.jpg"
+   }
+}

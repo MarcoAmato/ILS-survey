@@ -1,0 +1,587 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "rape",
+            "id": 570
+         },
+         {
+            "name": "sex",
+            "id": 572
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "machete",
+            "id": 3544
+         },
+         {
+            "name": "sadism",
+            "id": 4426
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "satire",
+            "id": 8201
+         },
+         {
+            "name": "dark comedy",
+            "id": 10123
+         },
+         {
+            "name": "survival",
+            "id": 10349
+         },
+         {
+            "name": "escape",
+            "id": 10685
+         },
+         {
+            "name": "blood",
+            "id": 11221
+         },
+         {
+            "name": "werewolf",
+            "id": 12564
+         },
+         {
+            "name": "torture",
+            "id": 13006
+         },
+         {
+            "name": "explosion",
+            "id": 14601
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "death",
+            "id": 34079
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         },
+         {
+            "name": "ozploitation",
+            "id": 205624
+         }
+      ],
+      "imdb_id": "tt0082338",
+      "video": false,
+      "title": "Turkey Shoot",
+      "recommendations": [
+         40043,
+         17212,
+         22172,
+         30903,
+         4288,
+         37618,
+         33592,
+         28172,
+         88922,
+         137923,
+         226594,
+         27328,
+         39991,
+         14916,
+         26178,
+         36677,
+         39342,
+         34028,
+         25627,
+         39043
+      ],
+      "backdrop_path": "/dwpuMw46U6t5Mpu1Nty1pMw9I7t.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Paul Anders",
+               "gender": 0,
+               "credit_id": "52fe473c9251416c9106e8bd",
+               "name": "Steve Railsback",
+               "profile_path": "/b1Wo6pb0NpQicBDrjpSg2FKozHG.jpg",
+               "id": 52023,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Chris Walters",
+               "gender": 1,
+               "credit_id": "52fe473c9251416c9106e8c1",
+               "name": "Olivia Hussey",
+               "profile_path": "/qe2QxkaW8yQEn9dzFpUhttLs46x.jpg",
+               "id": 24695,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Charles Thatcher",
+               "gender": 2,
+               "credit_id": "52fe473c9251416c9106e8c5",
+               "name": "Michael Craig",
+               "profile_path": "/soRvhopKFqdkkJajp1psrw3KTJ5.jpg",
+               "id": 25536,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Jennifer",
+               "gender": 1,
+               "credit_id": "52fe473c9251416c9106e8cd",
+               "name": "Carmen Duncan",
+               "profile_path": "/g5JrbEp6TuArrHxpWjiWck4CjRE.jpg",
+               "id": 152489,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Secretary Mallory",
+               "gender": 0,
+               "credit_id": "52fe473c9251416c9106e8d1",
+               "name": "Noel Ferrier",
+               "profile_path": "/gqJPlIS2UNhESFh29jXlbgyuBEr.jpg",
+               "id": 110010,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Rita Daniels",
+               "gender": 0,
+               "credit_id": "52fe473c9251416c9106e8d5",
+               "name": "Lynda Stoner",
+               "profile_path": null,
+               "id": 113884,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Chief Guard Ritter",
+               "gender": 2,
+               "credit_id": "52fe473c9251416c9106e8c9",
+               "name": "Roger Ward",
+               "profile_path": "/2VdXCuxx58iQdeRSAt0R49Ej5if.jpg",
+               "id": 94809,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Tito",
+               "gender": 0,
+               "credit_id": "52fe473c9251416c9106e8d9",
+               "name": "Michael Petrovitch",
+               "profile_path": null,
+               "id": 114285,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Red",
+               "gender": 2,
+               "credit_id": "52fe473c9251416c9106e8dd",
+               "name": "Gus Mercurio",
+               "profile_path": null,
+               "id": 44843,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Dodge",
+               "gender": 0,
+               "credit_id": "52fe473c9251416c9106e8e1",
+               "name": "John Ley",
+               "profile_path": null,
+               "id": 139785,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Griff",
+               "gender": 2,
+               "credit_id": "52fe473c9251416c9106e8e5",
+               "name": "Bill Young",
+               "profile_path": "/1B3amfg9o97EurkYl9BAlXZPC60.jpg",
+               "id": 57799,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Alph",
+               "gender": 2,
+               "credit_id": "52fe473c9251416c9106e8e9",
+               "name": "Steve Rackman",
+               "profile_path": "/hHSI5kVgTfgKdUv5APp98QQON4r.jpg",
+               "id": 954286,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Andy",
+               "gender": 0,
+               "credit_id": "52fe473c9251416c9106e8ed",
+               "name": "John Godden",
+               "profile_path": null,
+               "id": 1271816,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Melinda",
+               "gender": 0,
+               "credit_id": "52fe473c9251416c9106e8f1",
+               "name": "Oriana Panozzo",
+               "profile_path": null,
+               "id": 1230569,
+               "order": 13
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe473c9251416c9106e8b9",
+               "name": "Brian Trenchard-Smith",
+               "profile_path": "/anSaodAfiDTQy9ycXHG7sxPx0QV.jpg",
+               "id": 84981,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5435af950e0a264d6c0005f6",
+               "name": "Jon George",
+               "profile_path": null,
+               "id": 1372342,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5435afadc3a36847270004b0",
+               "name": "Neill D. Hicks",
+               "profile_path": null,
+               "id": 1372343,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5435afc4c3a36847270004b6",
+               "name": "George Schenck",
+               "profile_path": null,
+               "id": 155128,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5435affd0e0a264d63000571",
+               "name": "David Lawrence",
+               "profile_path": null,
+               "id": 98952,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5585998bc3a36879a400008f",
+               "name": "William Fayman",
+               "profile_path": null,
+               "id": 1311623,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55859997c3a3682746000751",
+               "name": "Antony I. Ginnane",
+               "profile_path": null,
+               "id": 101190,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558599a392514137cb00069b",
+               "name": "David Hemmings",
+               "profile_path": "/k2M6UrbkWYF8FewmKQm3TWu6KMX.jpg",
+               "id": 15196,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558599afc3a368273b0005d3",
+               "name": "John Daly",
+               "profile_path": "/aSn9EdjxbU5VkmF7INPdumGfJWG.jpg",
+               "id": 2721,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558599bf92514137bc00068b",
+               "name": "Brian W. Cook",
+               "profile_path": null,
+               "id": 5015,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558599cc92514137bc00068d",
+               "name": "Brian May",
+               "profile_path": null,
+               "id": 58438,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558599d8c3a368274c00060c",
+               "name": "John R. McLean",
+               "profile_path": null,
+               "id": 1267326,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55859a24c3a36827330005d3",
+               "name": "Alan Lake",
+               "profile_path": null,
+               "id": 1479449,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55859a5492514137c6000722",
+               "name": "Bernard Hides",
+               "profile_path": null,
+               "id": 961420,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55859a64c3a36827330005e3",
+               "name": "Virginia Bieneman",
+               "profile_path": null,
+               "id": 1479451,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55859a71c3a368274c00062e",
+               "name": "Bob McCarron",
+               "profile_path": "/qCOPI0bIgMYhBcnkhDDDUiw8oKz.jpg",
+               "id": 1311626,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57766a9792514102e0000119",
+               "name": "Robert Williams",
+               "profile_path": null,
+               "id": 1247077,
+               "department": "Writing",
+               "job": "Story"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 3.076415,
+      "production_countries": [{
+         "iso_3166_1": "AU",
+         "name": "Australia"
+      }],
+      "id": 39899,
+      "vote_count": 35,
+      "budget": 32000000,
+      "overview": "In the near future, after an unspecified holocaust, survivors are herded into prison camps. There, they are hunted for sport by the leaders of the camp. Paul, one of the newest prisoners, is determined not to go down as quietly as the others.",
+      "similar": [
+         74997,
+         185,
+         948,
+         8810,
+         238636,
+         281,
+         341006,
+         434873,
+         979,
+         627,
+         241,
+         550,
+         109414,
+         1635,
+         8337,
+         9659,
+         9693,
+         10483,
+         431,
+         563
+      ],
+      "original_title": "Turkey Shoot",
+      "runtime": 93,
+      "poster_path": "/7dp6jaQJ26UUt7Ts0SW2ClvWHy4.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "FGH",
+            "id": 6205,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Hemdale Film",
+            "id": 3952,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Filmco Limited",
+            "id": 15932,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1982-03-25",
+      "vote_average": 5.8,
+      "belongs_to_collection": null,
+      "tagline": "Experience The Year 2000...And Hope To Hell You Can Escape!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Australia",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Brian Trenchard-Smith"],
+      "runtime": 93,
+      "synopsis": null,
+      "writers": [
+         "Jon George",
+         "Neill D. Hicks"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0082338/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BNjJlMWVlYzktNzQ3Ni00NWUxLWI1ZDAtYTI4ZWVlMzAxOGE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Steve Railsback",
+         "Olivia Hussey",
+         "Michael Craig"
+      ],
+      "reviews": [
+         "Ozploitation. Exploitations colloquial cousin. During a period Ozploitation films where popular and Turkey Shoot is a notable success amongst some of the trash of the Australians attempts at exploitation films. It's fairly controversial 'The Most Dangerous Game' approach has helped it gain a fair amount of cult following over the years and all though it doesn't hold up in the slightest to later films with the same honourable human hunting intentions such as Battle Royale and more recently Exam it still holds up nicely as the definitive Australian approach to the subject matter. Turkey Shoot takes place in a dystopian future, now past, where 'social deviants' can be re-educated and returned to society through concentration style camps. The films narrative starts by following the lives of three newly arrived inmates and their view upon the extreme violence and toil prisoners suffer throughout their stay, mostly beatings and depravity by a hugely entertaining large bold Australian with a handlebar moustache. In the second half of the film the camps owners, safari British style hunters, round up five one-dimensional, to the extreme, characters (we have whore, rebel, rebel mark 2, bad guy and vulnerable) and force them to participate for their possible freedom in a human hunt, staring themselves, called Turkey Shoot. When faced with the dilemma of what to do when hunted each character uses their own personality to forge different ways of dealing with the situation and in true exploitation style extreme violence bordering on hilarity ensues. Brain Trenchard-Smiths direction is riddled with plot holes but the right ingredients are there; i.e. gore, nudity and some kind of circus freak werewolf guy. What makes the film and its direction good is that it doesn't treat itself seriously, there is no character development or even some kind of message or lesson learnt by the end of the film. It just wants to exist to entertain its audience and being a film exploiting violence make money. All the factors that would bother audiences in drama films don't matter in Turkey Shoot and can be disregarded as its honesty in being a technically bad film tells the audience that it wasn't made to win awards or be visually or musically stunning. Naturally the acting is bad. But as all the characters only have one characteristic for the actors to act in the characters are appealing as comical relief from the films serious, even if not shown in the film, underlying story. The English actors are great in playing their roles as the bad guys in typical posh ascents to stress that they are 'better people' than the Ausies. The person that stands out most however is Roger Ward as Chief Guard Ritter, his enthusiastic approach to the violent sadistic character fits perfectly creating a highly memorable giant Australian with a handlebar moustache. This along with the werewolf placed in the film just to chew peoples toes and such are probably the most imaginative parts of the film and make it memorable over many other films in its genre. Visually and musically there is little going on. The film is shot and edited nicely enough but sometimes its conventional style makes you think that the director could have done so much more. The aspect that saves its dull camera work comes from the variety of lush Australian landscapes ranging from the sandy concentration camp style centre to woods, fields of long dry grass and beaches. This helps the film as a whole always capture your interest and I'm in no doubt that without this kind of variety in the sets landscapes the film might seem very boring indeed. Overall Turkey Shoot holds up as an entertaining popcorn flick and with its blend of extreme violence and lovable characters (for the most part, villain-wise anyway) makes a entirely watchable exploitation movie. If you are a fan of the The Most Dangerous Game style situations it might boost itself to a must watch.",
+         "I gotta say that I got a kick out of TURKEY SHOOT. Just the sort of strange hybrid type film that I liked to see come out of the 1980s. Part sci-fi, part horror, part exploit film - TURKEY SHOOT pretty much has it all, and somehow blends it all together well, without becoming too \"heavy-handed\" with any specific elements. A bit disjointed and silly at times for as \"serious\" as the film seems to take itself - but definitely enjoyable... The film takes place in the future (which at this point looks pretty outdated, and probably didn't look all that \"futuristic\" for 1982 either...) where a totalitarian government is in control and obedience to the State is all that is accepted. Anyone who dissents or disobeys is sent to a camp for \"deviants\" for reprogramming. Camp Thatcher (named after the Head of the camp) is supposed to be the worst-of-the-worst as far as the camps go, and a new group of deviants, including a timid (but smokin') female, another girl who's a little tougher, and a guy who is all about anti-establishment and has escaped other camps before, are subjected to the hardships and torture that Camp Thatcher has to offer. To keep things interesting, Thatcher comes up with a MOST DANGEROUS GAME-style amusement - hunting prisoners. The new recruits along with two others are chosen, and are freed as game - under the agreement that if they can avoid death til sundown - they're free to leave the camp as rehabilitated citizens...but of course it's not quite that simple... TURKEY SHOOT is action-packed, violent, and a bit gorier than I would have expected - all good things. The whole rehabilitation and behavior modification camp was actually unnecessary to the storyline for the most part, but it worked in the context of the film. There are some silly things that I have no idea why they were thrown in (the \"werewolf\" circus creature, anyone???) - but what the hell - there's not a whole lot of rhyme-or-reason to this film, it's just a good time with an excuse to show a bunch of gratuitous violence and a titty or two. Recommended for early-80s Roger Corman-style exploit/action fans - others will probably find it cheezy...8/10",
+         "Set in a totalitarian future society, this film has a bleak but quite vividly drawn vision of the world...for its first 20 minutes or so; then it turns into a straight action-chase adventure. The uncut 90-minute version is extremely gory, but some of the effects are rather lame. Nevertheless, it's a fast-paced, trashily entertaining film, and the actors are adequate for the little they're asked to do. (**)",
+         "'Turkey Shoot' makes me proud to be an Aussie! There is something so gloriously stupid and cheesy about this movie that it utterly fascinates me! Set in a future police state, the movie begins with three new prisoners being taken to a \"rehabilitation\" centre. They are Steve Railsback ('Helter Skelter', 'The Stunt Man'), Olivia Hussey (Zeffirelli's 'Romeo and Juliet'), and Lynda Stoner (err, 'Cop Shop'). The place, of course, is a seething hot bed of brutality, sexual frustration and yellow jump-suits. Pretty quickly we find out that our three newcomers are going to be hunted for sport by the Camp's leader, the enigmatic Thatcher, his sadistic colleagues, and a werewolf in a dune buggy. I won't say any more as to not spoil your enjoyment of this long forgotten sci fi thriller. Australians will get more out of it than other viewers, as they will fully appreciate the supporting cast of soap stars, 70s TV personalities, and at least two 'Mad Max' actors. In fact, I cannot go without singling out the unknown, unsung hero of Australian cinema, Bill Young, who plays Griff here, and was also in another underrated Aussie trash classic 'Body Melt', AND 'The Matrix' AND 'Chopper'! If this guy has a fan club, sign me up! 'Turkey Shoot' - If you haven't seen this one you just don't know what you're missing!",
+         "This was so mindlessly entertaining, you forget about the constant weird inconsistencies in the script. Primarily people show up out of nowhere, even though, well, it SEEMS to be a big compound, wherever they are. Anyways, it's 1981 or so, and the people are so out of control they hold people in camps. One of the camps have decided to control it's prisoner population by holding hunts, featuring prisoners as game. It attracts a lot of big game hunters looking for the kill! Steve Railsback (!!) and Olivia Hussey (?!?!) are two of the prisoners in the game, and they and 3 others (we can pretty much assume their fate) run run run away from the hunters. The hunters seemingly have no problems finding them apparently (which is slightly strange... how did they do that?) and so they must fight to stay alive! Exploding arrows, deadly all terrain vehicles and, yes, mutant werewolf men are used! It's all pretty strange and goes along in a pretty wild pace. I'd highly recommend anyone who likes their movies bloody, fun, and cheesy.",
+         "I remember seeing \"Turkey Shoot\" for the first time several years ago and it surely left the lasting impression on me.Set in a totalitarian future Paul(Steve Railsback),Rita(Lynda Stoner)and Chris(Olivia Hussey)have been labelled 'deviants' by the government and are transported to a correctional camp where prisoners are brought into line or tortured and killed.The correctional camp is led by cruel Mr.Thatcher,whose motto goes like this:\"freedom is obedience;obedience is work;work is life\".It's time to begin 'turkey shoot',in which inmates,given a head start,are then hunted by camp authorities armed with guns,tranquilizer darts,exploding arrows,bazookas and a cannibal wolf-man.\"Turkey Shoot\" surely moves fast.It's full of violence,torture and gore and I must say that Orwellian concept is a nice touch.9 out of 10.A cult classic!",
+         "Set in the near future, the world is dominated by a strictly malevolent society that throws 'social deviants' who don't conform with these rules into maximum-security behaviour modification camps. The latest arrivals to the camp warden Thatcher's terror camp are the spirited fighter Paul Anders, the uneasy Chris Walters and the game Rita Daniels. Things are tough going and gruelling cruel, but they are given a chance of freedom. That's if they take part in a survival hunt called the \"Turkey Shoot\", where they would be released if they survive the twenty-four hours. The Australian production \"Turkey Shoot\" was a complete hoot (or for some a shocker)! This unsparingly cheapjack action exploitation crossed horror / sci-fi fare only has one thing on mind - crass entertainment. Everything about it is on the fast track and there's hardly any thought of letting up. Despite being a ultra-campy and sadistically violent variant of \"The Most Dangerous Game\" and George Orwell's \"1984\" theme, the deranged premise is downright silly as they seem play it straight. There's nothing really to work off it as it rather one-dimensional material. The cheekily black subject matter isn't much of a satire (which from the original script sounded like it could've been), but its hokey dialogues, ghastly splatter and outrageously impulsive actions make this schlock highly watchable. Especially one worthy head explosion! The array of performances were suitable for this type of film. Olivia Hussy looks mopish, but definitely petrified (she wasn't just acting if you watch the DVD extras), but fits the bill. Steve Railsback is rather intense in the heroine role and buxom Lynda Stoner makes the most out of her character. A classy Michael Craig is strikingly serviceable as the strenuously cold-blooded camp warden Thatcher. Roger Ward is superb as the devilishly brutal right hand Chief Guard Ritter and Carmen Duncan is terrifically vindictive with that crossbow as one of bloodthirsty hunters. Noel Ferrier, Bill Young and a twitchy John Ley make up the rest of the support cast. Director Brian Trenchard-Smith boldly goes all out and throws caution to the wind with snappy pacing, truck-load of pyrotechnics and flair to boot. He does an exceptional job with the hassles and pressures that shaped and lurked on this hazarded product. The picture perfect location (shot in the North Queensland) of the vast sprawling landscape adds another element to the mixture and Brian May's uncannily throbbing electronic music score gels with on-going scenes and moods. Hearing all the troubles that disrupted this project (like budget chops, the film's production time being cut short, the opening part of script being erased and uncomfortable actors) it could have been some thing of decent quality. Anyhow you can only do with what you got and its welcoming trash that's not trying to be anything else. That's the best way to take this diverting turkey.",
+         "It is no coincidence that \"Turkey Shoot\" a.k.a. \"Escape 2000\" has a prison camp warden named Thatcher. For whatever reason the film played big in Margaret Thatcher's England. A nice assortment of women and men political prisoners are brainwashed and routinely tortured in Prison Camp 97. Although apparently an attempt was made to market this as \"black comedy\", it is really some sort of hybrid women in prison, hunted in the jungle combination. It has the required nude shower scene, along with lots of meaningless shooting and explosions. The actual turkey shoot pits armed evil types against unarmed resourceful prisoners. Although the whole thing makes little sense, there is plenty of over the top action, and for some unknown reason \"Turkey Shoot\" is strangely entertaining. - MERK",
+         "Oh, man! If I ended up in a dystopian, post-apocalyptic world, you can bet your bag that I'd have a hermaphrodite ape-man as a sidekick, so when a guy turned up on Turkey Shoot with some sort of toff Wolfman as a buddy, this film had me truly sold. It's kinda slow at first, this one, but once it kicks into gear its Ozzie magic all the way... In the future or something folks that don't agree with the government get sent to correctional camps to get slapped around a bit by grinning guards. Only in this particular camp, see, the head guy likes to gather together people that like hunting other people. Basically the film builds up to this hunt and then the gore begins! People are cut in half, folks have their hands removed, and in one particularly great scene, someone is shot so much they just give up and explode...It's not overly gory, but entertaining in a way. Daft, too. You can't whack a bit of daft gore - just ask Sky News! It took me ages to find this one and your not getting a copy...",
+         "Directed by Anglo Australian filmmaker Brian Tenchard-Smith (most notably known for the Australian film that introduced Nicole Kidman to the world, BMX bandits, a kid/family movie, mainly remembered for the zeitgeist trend of the bicycle craze in the title), this post-Mad Max dystopian future movie tells the 'story' of a camp for retraining the 'deviates' of society, so that they may conform to the institutionalised norm as a whole. It begins with three people being taken in the back of a van to the camp of 'Re-Education and behaviour modification'. The camp looks much like the Nazi concentration camps of such films as SS Experiment Camp, or Ilsa: She-Wolf of the SS. The film begins as all of the usual 'nazisploitation' movies do, with a pinch of titillation and humiliation. This is not however a nazisploitation movie, as it appears to have a more communist edge; as the motto goes (in a quite comical sequence where 'chief' guard Rimmer picks out the smallest woman, and mock-punches to her face, whilst forcing her to recite it), \"I am a deviate, lowest form on earth...\" The main 'heroes' of the piece, are Paul (Steve Railsback), and Chris (Olivia Hussey - also known for such genre films as It, and Black Christmas). These also constitute the ubiquitous love interest within the plot. Whilst the inhabitants of the camp are humiliated and ritually abused in almost gladiatorial fashions, the main plot stems from the concept highlighted by the films title (although this was altered both for the UK video market - Camp Blood Thatcher; and the US market, Escape 2000), where there are five prisoners who are set 'free' from the camp so that seemingly elite persons from society can game hunt them with no consequences. All this leads to utterly predictable outcomes, resulting in an attempted overthrown of the 'authorities'! The film exploits the concept of game hunting with elements of gore (again ubiquitous of the times of production), but doesn't really explore the societal elements that the protagonists are trying to subvert. We know nothing of the 'societies' structural elements that may instigate any kind of revolution or revolt. What exactly are the protagonists subverting? What are the policies, or dogmas of this 'society'? We only see the camp, and are not given any knowledge of the non-diagetic world beyond this. The rich hunt the imprisoned. That is about as political as this movie gets. OK, so all movies don't necessarily need to have a message, granted. But if you are going to make a film set in a dystopian future, the world needs to be constructed so that we may understand why this future exists. To add insult to injury - despite the finale having a touch of gore - it almost seems like an episode of The A-Team, only people actually get shot. I almost forgot to say; a certain 'thing' accompanies one of the rich on the game hunt that he \"found in a freakshow\", which is essentially a badly dressed wolf-man. It's as if someone turned up on set in the wrong costume, and the director thought \"well, we'll make it work!\" If you love bad filmmaking, with no social commentary, and no element of surprise or suspense, then you may well love this. But, it is, and will always be a bore! www.the-wrath-of-blog.blogspot.com",
+         "This has got to be one of the best movies ever! It has gore straight from the start, great characters, a very sexy Olivia Hussey and a pretty good fight scene involving the chief guard and the main character. Trust the bad guy to be british. Thatcher himself is quite nasty and so is the chief guard. He beats up this nice girl at the start for no reason! The action is great and the big escape scene at the end is brill! I don't care what everyone else says, I loved this film and the other reviewer is right! 10 out of 10!",
+         "This film is pretty similar in theme to Japanese Battle Royale but Escape 2000 (akas: Blood Camp Thatcher, Turkey Shoot) is far more violent and exploitative and it has some nice trash elements. The film opens with huge riots in cities and soon we learn that the whole futuristic society is collapsing and individuals are nothing to faceless state and corporations. People are taken to camps which try to teach them to become decent citizens. \"Freedom is obedience, obedience is work, work is life.\" as the camp leader says but the true nature behind those camps is something different and it deals with human hunting games for the pleasure of sadistic wardens and the staff at the camp.. The film is pure exploitation but it is not all empty in message and theme and I think it tries to say something about future and where the mankind is going. It is not as artistic and philosophic as Battle Royale which isn't exploitation at all. But Escape 2000 is far more violent, shocking and disgusting because the violence is only there to shock the people. Also, there is one stupid character/non human who makes this film a turkey which is pretty hard to take seriously despite those \"social issues\" mentioned above. I can't recommend this to anyone else than hard core horror/trash fans so if you think you're one, try to get a copy. Many versions are butchered to pieces but the uncut one contains brutal violence and attempted rape so many won't stomach all that. Even I myself was little amazed about the film's brutality even though I'd seen pretty much when I watched this. Also, I have to mention that the female character played by Olivia Hussey is extremely beautiful and incredibly sexy and I just couldn't keep my eyes off her beautiful face and nature. As a turkey film in its own genre, 7 out of ten.",
+         "Known everywhere in the world except the U.S. as TURKEY SHOOT (there it was accorded the dumb aka of ESCAPE 2000) this is trash Oz film-making at its best! You gotta see this flick! A truck-load of 'anti-establishment' personnel are sent to this insane privately run \"conditioning camp\" set up and operated by a futuristic corporation for the amusement and dubious scientific study by its patrons. Railsback is quite obviously a non-conformist and gives the authorities what-for in no uncertain terms. He is marked for extermination. Yet another derivative of THE MOST DANGEROUS GAME, the voyeuristic bad guys like nothing better than a \"hunt\" of escapees, re-hashed yet again in the 90's with Jean-Claude Van Dumb as HARD TARGET! You might even like to reflect on similarities (in concept ONLY) with THE RUNNING MAN. If then you like grotesque violence, lesbian advances, excessive torture, guys with a hard-on for girl prisoners, yellow jump suits and girls shot through the breast, this is the film for you. Incredibly, it was an enormous hit JUST in London at the midnight show in a theater in Leicester Square during the summer of 1982. They were queueing round the block for the privilege of watching Lynda Stoner and Olivia Hussey try to make it through the night. Damned if I didn't queue as well!",
+         "Despite watching Turkey Shoot (Escape 2000) whilst I was drunk i can admit that all Australians should be proud of this film. If the world can remember Australia for one thing it should be TURKEY SHOOT, brilliant acting from Steve Railsback and Olivia Hussey and a fantastic storyline about the future and how humans are used for sport in an insane game. I am suprised and frankly yes shocked this film did not win at least one award, for shame.",
+         "After YEARS of waiting, and hearing so many rumours about the 'content' of this movie, Anchor Bay has finally released the definitive version of Turkey Shoot (aka Escape 2000). Trashy, gory, unintentionally funny, and oh-so-seriously acted, this is a MUST-SEE for fans of sleaze-cinema. And the funniest thing is: this would hardly even pass for \"controversial\" if it aired on HBO today. I guess this is how 'far' we've come in the last 15-20 years - what was 'shocking' and banned in the '80's is pretty tame today. Nevertheless, this still delivers the goods, features some decent actors slumming BADLY, and it's never, ever, boring.",
+         "Despite being extremely gory, this is a film that is never disturbing, thanks to the cheesy veneer which makes it impossible to take seriously. The movie is a highly ambitious Australian effort to jump on the futuristic bandwagon, taking place in a totalitarian society where 'thinkers' are sent to detention camps run by sadistic wardens. We get half an hour of the usual cruelty/murder/beatings by the guards before a select few inmates are set free and the film turns into a modern-day remake of THE MOST DANGEROUS GAME (although THE RUNNING MAN is a much similar modern-day effort; even the costumes are similar). Making effective use of the Australian outback locations, TURKEY SHOOT is a film that offers non-stop action and adventure, making it hard to dislike. I can only wish that all B-movies like this had such spirit and sensational pacing. The plot boils down to extended death scene after extended death scene. There are burnings, beating, shootings, and all manner of sadistic torture. Amid the escapees and the armed guards, we get hammily-accented British bad guys and even a werewolf (in great makeup) thrown into the mix for good measure! It's hard to see how the late David Hemmings ended up as an executive producer of this trash, but British director Brian Trenchard-Smith shoots a great movie and one of those rare offerings which really deliver the goods. The budget may be low, but this doesn't mean that special effects and explosions are left out; in fact this is one of the most effect-packed films I've seen in a long while, great fun if you don't mind the cheesy nature of them. For viewers who enjoy spotting faces, Turkey Shoot is a film with a diverse cast. Steve Railsback is as unlikable as always as the grim hero, but at least he's different from the rest in this way. The beautiful Olivia Hussey gets to act frightened all the while \u2013 you wonder why she's here \u2013 whilst the veteran villain is Brit Michael Craig. Yet I enjoyed the over-the-top turns of some of the villains, including ex-wrestler Roger Ward as a sadistic guard and the obese Noel Ferrier as one of the hunters. Other fun moments include an eye impaling inspired by ZOMBIE FLESH EATERS, bone-breaking, and people being crushed to death. The sexy Lynda Stoner acts as the third 'turkey' whilst typecast Australian oddball John Ley is the most unfortunate character of the film. Still, it's hard to concentrate on the cast when the film offers this much gratuitous violence, action, and engaging thrills and spills\u0085 this is a B-movie to buy!",
+         "Deviants are held at a rehabilitation fortress until they are set into a deadly game of survival, in the hopes of returning to world society. Recently, I watched the director's \"Dead-End Drive-In\" for the first time. While it was alright, it was not quite the Ozploitation classic I hoped it would be. \"Turkey Shoot\", on the other hand, has everything you could want: humans hunting humans, an intense shower scene (with both men and women), and some sort of societal commentary. Whether there is such a thing as Ozploitation in the sense that all the exploitation films in Australia have a similar feel, I don't know and rather doubt it. But there are a few gems in there, and this is certainly one of them. In a way, it almost seems like a precursor to \"Battle Royale\", and is clearly a companion film to \"Dead-End Drive-In\" with its focus on deviants and outcasts.",
+         "Brian Trenchard-Smith's Turkey Shoot is a typical 80's Aussie horror film, that is, you should not watch this expecting a masterpiece of the genre! You should expect, however, a brainless blood and boobs-fest with dodgy acting and story. And there is a story, surprisingly, although it reeks of George Orwell (a not very good Orwell though). Basically, civilians are sent to concentration camps (in the near future) to be turned into model citizens. Paul Anders (Steven Railsback), Chris Walters (Olivia Hussey) and Rita Daniels (Lynda Stoner) are sent to a camp run by Charles Thatcher (Michael Craig). Of course, this is a cruel camp with a sadistic Chief Guard (Roger Ward) and zany people. Thatcher decides to create a game, a \"turkey shoot\" in which a few nutcases select prisoners to hunt for sport. As to be expected, our three heroes are selected, along with the resident loon and the tough escapee. What follows is an onslaught of blood and gore which is incredibly enjoyable and odd at the same time. The lead up to the hunt is a tad slow, but some nudity and random violence helps the pacing. The two leads, Railsback and Hussey are pretty good, as is Ward but most others are terrible. None of the characters are that likable, and the werewolf circus freak was so incredible random! But with a film like this, all you can do is sit back and watch the body count rise and the bras come off! This is not great film making, but for an exploitation it is fun while it lasts (it is also one of the best Ozploitation flicks out there). 3½/5",
+         "An early 80's futuristic action/sci fi/horror/thriller/exploitation film, set and filmed in Australia. Its apparently the year 1999, the date is never mentioned in the movie itself but the voice over on the trailer on the DVD states its set in 1999. The opening credit sequence is mixed together with stock footage of riots. According to the film Australia is now run by by a strict state government, ruling by terror and intimidation, and wields absolute and ultimate power over the life and death of the population. Anyone found guilty of 'deviant behaviour' is sent to a government run prison camp. Paul Anders (Steve Railsback) and Chris Walters (Olivia Hussey) are captured, Paul because he is the leader of a rebellion or something like that, and Chris because Paul tried to hide in her shop before he was caught, the police believing they knew each other. They are thrown into the back of a black van with Rita Daniels (Lynda Stoner) herself there because shes accused of being a 'whore' which she denies. When their there inmates are subjected to various horrific rehabilitation techniques including rape, beatings, humiliation and maybe even death. The camp is run by Charles Thatcher (Micheal Craig) and chief guard Ritter (Roger Ward) who's never afraid to to give a good beating to an inmate. Every so often Thatcher organises a 'turkey shoot' for his important influential guests, on this particular 'turkey shoot' Thatcher is joined by a babe who likes crossbows named Jennifer (Carmen Duncan), Thatcher's boss secretary Mallory (Noel Ferrier) and the slimy Tito (Micheal Petrovitch) plus his hairy side-show freak Alph (Steve Rackman) whom Tito lets loose on his 'turkey'. Paul, Chris and Rita are all selected, along with two other inmates, Dodge and Griff. They are all set free and given the task to survive until the next day, the catch being that Thatcher, Ritter and their guests can hunt them down and more or less do whatever they want to them, if caught. From then on its a deadly game of survival with the loser paying the ultimate price, death! I love this film, it has just about everything I'm looking for in a film of this type, violence, gore, action, nudity, torture and a little originality. It tries to be a little different from other horror/exploitation films of that era. I cant think of another film quite like it. Directed by Brian Trenchard-Smith with a lot of accomplishment. He keeps things moving nicely, and uses his Australian locations well, for the most part I think its a handsome looking film with good colourful widescreen cinematography by John R.McLean. The acting is OK and all the ladies look nice, if you know what I mean. The script by Jon George and Neil D. Hicks keeps moving at a good pace, things are always happening to keep us entertained. The scripts attempt at social satire in which Australia is now a Government run society without freedom or free speech is relevant even today and for the most part is successfully implemented. Luckily the scriptwriter's still found lots of opportunity for some strong scenes of violence and gore, we get machetes chopping off hands and being buried in peoples heads, people being run over, guys being impaled with wooden spikes, people shot multiple times with arrows, and lots of beatings as well as various other acts of bodily mutilation! So, in my humble opinion we have a good looking, violent film, try to watch either the British or American DVD's both are widescreen and uncut. A highly entertaining way to pass an hour and a half, give it a go if you can find a copy and think it sounds like the sort of film you might enjoy, because you probably will.",
+         "\"Originality\" isn't really an appropriate term to use when describing this film, as the premise simply is the umpteenth variant on \"The Most Dangerous Game\". And even the futuristic setting of an inhuman obedience camp is used already in many other (sleazy) motion pictures. Yet, there's something irresistible about this \"Blood Camp Thatcher\" that immediately causes you to forgive the repetitive plot and its many holes. The 93 minutes of playtime rush by at a high tempo and there isn't a boring moment to detect anywhere. The makers didn't waste much time on enlightening us about how the world transformed in such an intolerant place or why ordinary citizens are so easily considered to be deviants\u0085We don't even get to know the main characters very well as we're right away exposed to the brutality and hideousness of \"Camp 47\", led by the sadistic Thatcher. He has his own ways of preventing that his camp gets overcrowded by regularly organizing a \"Turkey Shoot\" where he and his equally deranged friends hunt down a selected group of prisoners. This is a very violent Aussie horror slash action slash science fiction slash exploitation flick! The very slick mixture of explicit massacres and morbid black humor makes this an absolute MUST for fans of cult gems. There also are a few very ingenious findings here, like for example one of hunters using a malevolent circus-freak as his weapon and another (female) hunter shooting exploding arrows! Most familiar faces in the cast unquestionably is the gorgeous Olivia Hussey (who also has a brief but very worthwhile nude sequence) and Michael Craig who plays the despicable Thatcher with much virtuosity. Blood Camp Thatcher once was included in the infamous \"Video Nasty\" list and \u0096 if you manage to find the fully uncensored version \u0096 you'll quickly see for yourself that this was a well-deserved reputation. It is gore, cruel and it almost makes me regret I'm not Australian born. In short: you haven't lived until you see \"Blood Camp Thatcher\", period!",
+         "Last week when I stepped into my local DVD rental store, its proprietor (a film-buff friend of mine) gleefully approached me and said that he had just acquired something that would definitely appeal to my cinematic tastebuds. He proceeded to show me a DVD sleeve in German for a film starring Steve Railsback, Olivia Hussey and Michael Craig which, while I didn't immediately recognize, its lurid poster promised that goofy fun was to be had by watching this flick. Even when I held the sleeve in my hand and discovered on the keepcase's insert that the film's original title was TURKEY SHOOT, it rang few bells at the time but, apart from that cast, it was the fact that (from what I could make out) the film was yet another adaptation of that horror/adventure perennial \"The Most Dangerous Game\", that was the main element which made me rent it immediately. While looking up the film on IMDb as soon as I got back home, I realized that what I had acquired was ESCAPE 2000 \u0096 a cultish Australian sci-fi film which I knew had been released on R1 DVD by Anchor Bay and was awarded the lazy BOMB rating from our good friends, Mr. Leonard Maltin et al\u0085 Anyhow, the film starts with a credit sequence showing real news footage of various street conflicts which had occurred in various parts of the world over the years being passed off as the ongoing riots sparked by the dictatorial rule of some anonymous totalitarian state. The subsequent flashbacks introduce us to the three major characters \u0096 Railsback, Hussey and luscious blonde Carmen Duncan \u0096 and shows how they came to be herded off to the island colony lorded over by the white-haired sadist Thatcher (Craig); indeed, another alternate and ludicrous moniker for the film was BLOOD CAMP THATCHER (no prizes for guessing the reason behind the choice of just that surname being accorded to the main villain of the piece)! This prison camp contains every dissident known to oppose the current reigning regime but we only really get to meet two other prisoners and a handful of 'eccentric' wardens. In any case, it soon transpires that Craig and his four associates \u0096 a high-ranking officer of the ruling party, a lesbian lady with a penchant for shooting exploding arrows, a fey excavator-driving young man and his (I kid you not) wrestler-werewolf lackey-cum-pet!! \u0096 organize the occasional hunt for a quintet of their own prisoners through the nearby jungle for sport and relaxation purposes. Speaking of the sexual orientation of two of these aristocratic predators, maybe the director was attempting some kind of political message here (given that homosexuality is itself forbidden by law in this society and prisoners are dubbed 'deviants') but all this did for me was add to the already high camp quotient of the film! Being more of an exploitation than a sci-fi piece, it follows that gore and nudity feature in the film's ingredients: the latter mostly makes itself felt inside the prison walls with the wardens leering over the naked girls banded together while taking forced showers but the former is more to the forefront with one of the hunted prisoners having his back broken by a moving vehicle, the werewolf being accidentally torn in half (literally) by his own keeper's excavator, the latter gets his own come-uppance by a machete blow to the head which splits his skull in two, the lady having one of her own exploding arrows shoved into her throat and capped by her head being blown off, Thatcher expiring in a hail of machine-gun fire which ludicrously tears him to shreds, etc. Apparently (and unsurprisingly), this film has been endorsed by Quentin Tarantino of late since its British director earned a \"Special Thanks\" in the credits of the latter's DEATH-PROOF [2007]) but looking through his filmography, it's clear that this was his only claim to fame (and a very relative one at that). The rest of the film crew, however, is more interesting in that it includes executive producers David Hemmings and John Daly (who, incidentally, has just passed away) and composer Brian May (of the MAD MAX series, rather than popular rock band Queen's curly-haired guitarist). While the film can't hope to dispel the memories of the original 1932 Merian C. Cooper-David O.Selznick production of THE MOST DANGEROUS GAME, its solid remake from The Boulting Brothers RUN FOR THE SUN (1956; with Richard Widmark and Trevor Howard) or Cornel Wilde's similar human-hunt opus THE NAKED PREY (1966), I have to admit to being entertained by it and, in view of the \"Special Edition\" nature of the Another World DVD I rented \u0096 which includes the director's audio commentary, alternate title sequences and a host of trailers for other exploitation movies like PATRICK (1978) and THE NEW BABRBARIANS (1982; which promises to be an even bigger hoot than the film under review) \u0096 I have subsequently added the bloody, goofy thing to my collection!",
+         "Boy, I'm telling you right now, if you do not like your movies with lots of red meat and sadism, then just skip Brian Trenchard-Smith's TURKEY SHOOT. According to all involved, there was more in the script that was discarded by the producers, the work schedule shortened, budget cut, and the actors were miserable(good portions of the script tossed out because of budgetary restraints changed the entire movie according to Lynda Stoner) having to star in such a gratuitous film as this. Why is such a lovely creature as Olivia Hussey doing in a film such as this? I asked myself that during the big shootout finale as prisoners and guards engage in gunfire as the revolt commences with Steve Railsback driving a terrain loader as Hussey is firing a machine gun. Hussey firing a machine gun is just bizarre; such a fragile, elegant woman, who had somehow found herself in Austrailia acting in this movie, I wonder if she fired her agent after this. Major Spoilers Ahead Anyway, Railsback finds himself the star of TURKEY SHOOT, a renowned prison camp escape artist chosen along with three others(Hussey, Lynda Stoner, and John Ley)to be hunted and if they are able to avoid certain death after a period of time will be granted freedom. This group is soon joined by Bill Young whose demise is quite grisly as he's shot by multiple arrows thanks to Carmen Duncan's aristocratic sociopath, Jennifer, before being crushed under the van of warden Charles Thatcher(played by Michael Craig who orders executions, orders, and commands dead pan, only a sinister grin to convey his bloodthirsty nature, particularly evident in one scene where he could easily dispatch Railsback's Paul Anders, caught out in the open, but lets him go, with plans to have more fun before shooting him). You have homosexual Tito(Michael Petrovich)and his \"pet\", a half-man/half-beast named Alph(Steve Rackman who just looks ridiculous)who stalk joyfully John Ley's scrawny and weak Dodge. We get a nicely wholesome scene where Tito sics Alph on Dodge where he progressively beats the little man to a pulp shortly after ripping off his pinkie toe and eating it! Don't worry, Alph gets his when Anders stabs him in the eye with a broken stick from a tree, moving out of the way as Tito accidentally cuts him in half with the terrain loader. Oh, and Jennifer, who playfully had left Stoner's Rita(after much chase using her arrows with explosive tips)mutilated and butchered, gets a dose of her own medicine when an arrow thrusted into her throat blows her face off. And, Thatcher, well, he had Anders right where he want him, and, in letting him go, gets his just desserts. It's the \"highlight\" of the film(next to another scene I will mention shortly)where Thatcher gets his head taken off with Anders' machine gun. Roger Ward has the hammiest role as a towering bald menace, Chief Guard Ritter who certainly delights in killing and maiming(one of the more memorable scenes has his head guard destroying a petite short young woman, Thatcher using her as an example towards the others to behave even though she had did nothing wrong). Ritter makes the unfortunate mistake of leaving his machete stuck in the sand while in fisticuffs with Anders. Soon Hussey's Chris Walters is able to stop Ritter from shooting an unarmed Anders by chopping his hands off. Look, this is the kind of movie for fans of blood and guts, dismemberment and explosions, where everything is so over-the-top and beyond the realm of decency that if you enjoy seeing all that I have listed in detail above, then TURKEY SHOOT is for you. I personally found this hilarious and entertaining because of how Trenchard-Smith pushes the envelope and hits the viewer with so many moments of \"Woah\"(like when Tito gets the machete buried into his skull, flopping into the terrain loader as he bleeds out, or when a trap involving sharpened stakes impales Gus Mercurio's guard Red with his stomach spilling out)that I just sat back in astonishment. There are no boundaries here. The futuristic plot concerns a totalitarian society where the youth are sent to concentration camps in some twisted agenda of \"conforming to society's demands\". The hunt consists of the higher classes(those who can afford to pay to play or hold powerful positions), with an advantage of having weapons and vehicles(Jennifer rides a horse!), chasing after prisoners(the lower classes)they treat no different than vulnerable animals, prey to be slaughtered, simple as that.",
+         "I first saw this movie over thirty years ago, and if not for the frightening subject matter would have passed for a very black comedy. The film is set sometime in a dystopian future, where 'deviants', those who oppose the New World Order Government are sent to concentration camps. Camp 47, is such a camp in this movie and is ran by a cold blooded sociopath named Thatcher (who undoubtedly would have been tried for war crimes in other circumstances), and his equally cold blooded guests. For the first half of Turkey Shoot, our hapless trio of Steve, Lynda and Olivia (who apparently was really miserable during filming) are subjected to all sorts of tribulations, including witnessing two horrific executions, attempted rape and Steve Railsback's character, Paul Anders is placed into a cage where his musculoskeletal system is put under an enormous strain. This film is violent, it is gory, and yes, some F Bombs are dropped. Not for the faint hearted. Some characters are more sympathetic than others, particularly Rita (Lynda Stoner), Chris (Olivia Hussey and Paul (Steve Railsback) Bill Young's character Griff deserves an honorable mention here as well. Given today's climate, however, Turkey Shoot is a cautionary tale about how the world could end up like this and camps such as Camp 47 could exist."
+      ],
+      "genres": [
+         "Drama",
+         "Horror",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "FGH",
+         "Filmco Limited",
+         "Hemdale"
+      ],
+      "summaries": [
+         "In a totalitarian country, any subversives, undesirables and \"deviants\" are sent to a prison camp to be rehabilitated and reeducated. The camp is run in fascist fashion, with guards torturing and killing prisoners for sport. Their pinnacle of the guards oppression is an event where a select band of prisoners are set free in the surrounding bush, to be hunted by the guards and special guests for sport - the Turkey Shoot.",
+         "In the near future, after an unspecified holocaust, survivors are herded into prison camps. There, they are hunted for sport by the leaders of the camp. Paul, one of the newest prisoners, is determined not to go down as quietly as the others.",
+         "Deviants are held at a rehabilitation fortress until they're set into a deadly game of survival, in the hopes of returning to world society."
+      ],
+      "budget": 3200000
+   },
+   "movielensId": 157100,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1982-03-25",
+      "dvdReleaseDate": null,
+      "directors": ["Brian Trenchard-Smith"],
+      "runtime": 93,
+      "movieId": 157100,
+      "title": "Turkey Shoot",
+      "mpaa": "R",
+      "actors": [
+         "Steve Railsback",
+         "Olivia Hussey",
+         "Michael Craig",
+         "Carmen Duncan",
+         "Noel Ferrier",
+         "Lynda Stoner",
+         "Roger Ward",
+         "Michael Petrovitch",
+         "Gus Mercurio",
+         "John Ley",
+         "Bill Young",
+         "Steve Rackman",
+         "John Godden",
+         "Oriana Panozzo"
+      ],
+      "imdbMovieId": "0082338",
+      "originalTitle": "Turkey Shoot",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "sYv0fZhOnTY",
+         "tcN68XFGoiI",
+         "WXHKkMhuNKM"
+      ],
+      "plotSummary": "In the near future, after an unspecified holocaust, survivors are herded into prison camps. There, they are hunted for sport by the leaders of the camp. Paul, one of the newest prisoners, is determined not to go down as quietly as the others.",
+      "tmdbMovieId": 39899,
+      "avgRating": 2.7,
+      "releaseYear": "1982",
+      "numRatings": 10,
+      "posterPath": "/7dp6jaQJ26UUt7Ts0SW2ClvWHy4.jpg"
+   }
+}

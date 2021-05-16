@@ -1,0 +1,434 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "inventor",
+            "id": 1436
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "time travel",
+            "id": 4379
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "time machine",
+            "id": 5455
+         },
+         {
+            "name": "victorian england",
+            "id": 8250
+         },
+         {
+            "name": "distant future",
+            "id": 11239
+         }
+      ],
+      "imdb_id": "tt0054387",
+      "video": false,
+      "title": "The Time Machine",
+      "recommendations": [
+         830,
+         8974,
+         31682,
+         10514,
+         10803,
+         828,
+         11234,
+         811,
+         11571,
+         2161,
+         24750,
+         11549,
+         11533,
+         10785,
+         982,
+         488,
+         10243,
+         11071,
+         4923,
+         12101
+      ],
+      "backdrop_path": "/EVaEyQvzu13g6FPnzb4IlbbrGM.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 11,
+               "character": "George",
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b9b",
+               "name": "Rod Taylor",
+               "profile_path": "/nCSU0Teu87l0Hep7CVTWbyHqPAX.jpg",
+               "id": 8229,
+               "order": 0
+            },
+            {
+               "cast_id": 12,
+               "character": "David Filby",
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b9f",
+               "name": "Alan Young",
+               "profile_path": "/n7JSQURI4ldcPXViQVkLpdhM6q2.jpg",
+               "id": 21874,
+               "order": 1
+            },
+            {
+               "cast_id": 13,
+               "character": "Weena",
+               "gender": 1,
+               "credit_id": "52fe4339c3a36847f8043ba3",
+               "name": "Yvette Mimieux",
+               "profile_path": "/si2xHsf2wwHsT7OQXXm6AGrdDJ9.jpg",
+               "id": 21876,
+               "order": 2
+            },
+            {
+               "cast_id": 14,
+               "character": "Dr. Philip Hilyer",
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043ba7",
+               "name": "Sebastian Cabot",
+               "profile_path": "/x4xosGUCYnuUQntxgbcZryWaKH6.jpg",
+               "id": 21877,
+               "order": 3
+            },
+            {
+               "cast_id": 15,
+               "character": "Anthony Bridewell",
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043bab",
+               "name": "Tom Helmore",
+               "profile_path": "/gQdVpqYmetgOIH499Fe3xBLsj56.jpg",
+               "id": 5731,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "Walter Kemp",
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043baf",
+               "name": "Whit Bissell",
+               "profile_path": "/aOe39nPJuZpGYGR3WuRo5PiYGwK.jpg",
+               "id": 13786,
+               "order": 5
+            },
+            {
+               "cast_id": 17,
+               "character": "Mrs. Watchett",
+               "gender": 1,
+               "credit_id": "52fe4339c3a36847f8043bb3",
+               "name": "Doris Lloyd",
+               "profile_path": "/4QJ0iSrOQ9rwfgEaDnqTaXem6c5.jpg",
+               "id": 21878,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "James Filby",
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043bb7",
+               "name": "Alan Young",
+               "profile_path": "/n7JSQURI4ldcPXViQVkLpdhM6q2.jpg",
+               "id": 21874,
+               "order": 7
+            },
+            {
+               "cast_id": 20,
+               "character": "Talking Rings (Voice)",
+               "gender": 2,
+               "credit_id": "55f3e741c3a3686d1800245a",
+               "name": "Paul Frees",
+               "profile_path": "/ey4xNbw7AfFW7brHnb3C9ADL34Q.jpg",
+               "id": 16417,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b61",
+               "name": "George Pal",
+               "profile_path": "/sqClVTgeuJZ69eg5YwqTxRPlWMo.jpg",
+               "id": 21869,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b67",
+               "name": "H.G. Wells",
+               "profile_path": "/U8KahQDA3jjKToWl7Ho6df8BML.jpg",
+               "id": 11624,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b6d",
+               "name": "David Duncan",
+               "profile_path": null,
+               "id": 21870,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b73",
+               "name": "George Pal",
+               "profile_path": "/sqClVTgeuJZ69eg5YwqTxRPlWMo.jpg",
+               "id": 21869,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b79",
+               "name": "Russell Garcia",
+               "profile_path": null,
+               "id": 21871,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b7f",
+               "name": "George Tomasini",
+               "profile_path": "/AkhUuJi4uCqh60ZQe39ZPxULFoV.jpg",
+               "id": 2655,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b85",
+               "name": "George W. Davis",
+               "profile_path": null,
+               "id": 10604,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b8b",
+               "name": "William Ferrari",
+               "profile_path": null,
+               "id": 21872,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b91",
+               "name": "F. Keogh Gleason",
+               "profile_path": null,
+               "id": 21873,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043b97",
+               "name": "Henry Grace",
+               "profile_path": null,
+               "id": 3648,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4339c3a36847f8043bbd",
+               "name": "Paul Vogel",
+               "profile_path": null,
+               "id": 96427,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 7.567257,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 2134,
+      "vote_count": 271,
+      "budget": 750000,
+      "overview": "A Victorian Englishman travels to the far future and finds that humanity has divided into two hostile species.",
+      "similar": [
+         3509,
+         87101,
+         198663,
+         63,
+         101299,
+         59967,
+         76341,
+         157350,
+         281,
+         604,
+         605,
+         335984,
+         294254,
+         24420,
+         9381,
+         2048,
+         19,
+         21356,
+         12244,
+         869
+      ],
+      "original_title": "The Time Machine",
+      "runtime": 103,
+      "poster_path": "/cjmluKjmaqLfZmwMEwjki6tvLnS.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Galaxy Films Inc.",
+            "id": 40552,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "George Pal Productions",
+            "id": 4864,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1960-08-17",
+      "vote_average": 7.5,
+      "belongs_to_collection": null,
+      "tagline": "You Will Orbit into the Fantastic Future!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["George Pal"],
+      "runtime": 103,
+      "synopsis": "The movie opens with a man walking down the street having just left a building in late-Victorian era London. It's wintertime, and the man pulls his coat around himself and hurries across the street. He knocks on the door of a house there, and a woman in late middle age lets him in. There he joins three other men who are sitting around the fire. The man's name is David Filby, and he and the three other men have been invited to dinner by George, who owns the house. He asked them to come over at 8:00 p.m., and it's just now 8, but George himself has yet to arrive. The date is January 5, 1900. The men are clearly unhappy about being kept waiting. A moment after 8, the woman, whose name is Mrs. Watchett, George's maid, enters the room and passes Filby a note. She tells them that George has been missing for several days. The note says that George thought he might be late, and if he was, then she should serve dinner and they could start without him. They enter the dining room and sit down with their drinks, still complaining about George's absence. The door opens just then and George is there, looking very dishevelled, with noticeable cuts and bruises and torn clothes. He made it only a few minutes late. All the men, plus Mrs. Watchett, are concerned for his welfare, but he insists that he is OK, and he has \"all the time in the world\". He begins to tell the story of what happened to him. It begins five days earlier, on the night of December 31, 1899, when George and his four friends had been together in the same house, in the parlor that the men had left minutes earlier. On that evening, George had told them about his experiments, how it was easy to move through the three spatial dimensions, but man had yet to figure out a way to travel through the fourth dimension, time. George hoped to invent a way to do so. He had spent two years working on a device to do so. His friends remain skeptical of his claim. He asks them to witness a demonstration of a small scale model. He opens a box on the table to reveal a machine, which he can hold comfortably in his hands, consisting of a seat, a control panel with a switch in front, and a rotating disk in back, surrounded by a brass railing. His friends think he might be a little nutty when he tells them how it can move not through space, but through time. George borrows a cigar from one of his friends, and bends it and puts it in the little model's seat to represent the man who is time traveling, then, using one of his friends' fingers, pushes the switch forward. The disk on the back starts to rotate, and in a few seconds, the machine fades and vanishes from sight. It is gone into the future, never to return. George's friends look around for the machine, at first thinking that he had performed a conjuring trick and the machine was simply somewhere else now, but George insists that it had not moved in space, but in time. The machine was still in exactly the same space on the table, but could be far in the future when the table upon which it stood or even the entire house might not exist any more. While George's friends are discussing what they have witnessed, George expounds on his theories and states his intention to take a time trip himself. His friends are concerned, wondering if George's inventing skills might be better put to use advancing the interests of his home country, Great Britain. The Boer War is going badly and the War Office might need some help. Still pondering what has been demonstrated, George's friends leave the house, wishing him a happy new century. George returns inside and discovers that one of his friends, David Filby, is still there. Filby tells him that he was still worried that George had been behaving oddly and had changed a lot. George tells him he is preoccupied with time because he is unhappy with the time he lives in, with its constant wars and strife. Filby initially thinks that George intends to travel to the past, but George says he prefers the future. Filby can think of all that the machine could do, and implores George to destroy it because the technology is so dangerous. He invites him to come and spend New Years with him, but George declines, saying he'd rather spend New Years alone. Filby asks George to promise him he won't leave the house tonight, and George promises he won't walk out the door. Then he invites Filby to come and bring the others over for dinner on Friday, January 5, 1900, five days hence. Filby leaves and George writes the note that he would read five days later. It's about 6:30 p.m. He wishes Mrs. Watchett a good night and then hurries off to his laboratory. There is another time machine there, only this one is full-sized, big enough for George to climb into. George examines it for a short time, removes the glass-knobbed control lever for a little tinkering. He lights a candle in the corner and works on the handle for a moment, then returns to the machine and climbs in. Turning on the power switches, he looks down at the control panel which shows today's date, December 31, 1899. He nudges the handle forward slightly, and the disk behind him begins to rotate. After a few seconds, he pulls the handle back to the neutral position and looks around. Nothing seems to have changed, until he notices the clock in the corner. It was after 8 p.m., and the candle he had lit was several inches shorter. Checking his pocket watch, which had been with him in the device, he saw that it still showed only a little after 6:30 p.m. George pushes the handle forward again a little further this time, and this time he watches time pass. As he watches, the candle burns down and goes out. The hands on the clock spin around. The sun comes up and moves rapidly across the sky. A snail races across the floor. Flowers open and close with the daylight. The sun goes down and comes up again, all in the time he perceives, inside the time machine, as only a few seconds. He sees people across the street at Filby's department store and sees the female dummy in the window. George notes that he is still traveling slowly and pushes the handle forward a little more, and the time progression outside the machine accelerates. Days pass by rapidly, and George improves his handling of the machine. He slows the machine down in the summer of 1900, and the alternating daylight and darkness slows, George looks across the street and sees the dummy in the department store window dressed differently. Bemused by the changing fashions, George continues to watch the clothes on the dummy change as he continues his journey into the future. Going faster, George watches the seasons change outside his windows instead of just days and nights. He was into the 1910s now. Suddenly, the light was gone - the windows had been boarded up. George brought the machine to a stop in September 1917, and got out to investigate. His laboratory was dirty and filled with cobwebs, and entering the rest of the house, he found it in the same condition. It had been abandoned for an indeterminate amount of time. All the furniture was covered in drop cloths, and these were covered in a thick layer of dust. All the clocks in the parlor were silent, since no one was there to wind them or set them. A mouse skittered across the floor. George walks outside, after kicking aside the boards that were covering his door, to see the outside of the house abandoned and neglected, too. A wooden fence had been erected around the house. George went through it and crossed the street, walking towards Filby's store, which was still there. He saw an early automobile, something he'd never seen before in his own time. A man wearing a soldier's uniform got out, and George recognized his friend Filby! Delighted, George began to speak to him. When George mentions Filby's lack of a mustache, Filby realizes that George has confused him with his father. This man is James Filby, who was the infant son of David Filby in George's time. David Filby had been killed in the The Great War (World War I) which George knew nothing about. George asks James Filby about the house across the street (his own house) and James tells him that the guy who owned it had disappeared around the turn of the century. It had fallen into David Filby's hands, who refused to sell it, thinking that George might return to claim it some day. The house had acquired a reputation as being haunted. George is dejected and realizes he's out of place, and makes his goodbyes and returns to his own house. He stops outside to pull some of the boards off his laboratory window so he can continue to watch the dummy in the store window. George returns to the machine, gets in, and heads into the future once more. The house is still neglected and the windows break. He watches the dummy in the window as he speeds through the 1920s and 1930s. Then, in 1940, the room starts to shake. Thinking the machine might be malfunctioning, George brings it to a stop in June 1940, only to discover that the disturbance came from outside. There are airplanes outside (something else he'd never seen before) dropping bombs with anti-aircraft guns shooting at them and fires burning in the distance. He realized that this was a new war, and he pressed on into the future to see how it went. Shortly afterward, his laboratory caught fire and disappeared. His house had been destroyed by a German bomb, and George was out in the open, safe within the time machine. He continues through the 1940s and watches as construction workers build a new large building not too far away. The fashions on the dummy in the window continue to change. George hears a strange sound and brings the machine to a stop once more, this time in August of 1966. The sounds were air-raid sirens. He gets out of the machine and looks around. The ground that his house once stood on now looks like an urban park. Men and women walk through it in a hurry, urged by men in uniforms to get into the air-raid shelters. He looked out at the street, seeing many skyscrapers in the distance, and Filby's store had expanded to fill a whole block, with a substantial building of its own. Baffled by the commotion, George reads a plaque he finds in the park: \"This park is dedicated by James Filby to his father's devotion for his friend George.\" The people have mostly disappeared into the underground air-raid shelters. George looks at Filby's store, and just then an aged James Filby wearing a silvery uniform walks out on his way to the shelters. George stops to talk to him, extremely impressed by the growth of the store and the whole city. James just wants to get into the shelters as quickly as possible before the mushroom clouds appear, another phrase George doesn't understand. James suddenly realizes that George looks familiar, and George tells him that he talked to him in the same place, in front of the store, back in 1917 - 49 years earlier. James recognizes him as the same man but how could he possibly have not changed in such a long time? The talk is cut short when the air-raid sirens go off again, and James points to the approaching nuclear bomb and hurries off to the shelter. George lingers outside, then starts to walk back to his time machine, when the bomb goes off. George is far enough away from it not to be incinerated, but the buildings around him burst into flame and fall apart as he watches. London, built brick by brick over two thousand years, is obliterated in seconds. The explosion caused a geological disturbance, and a volcano appeared and lava flowed down the street, destroying anything in its path that had not been destroyed by the bomb. George jumped back into the time machine and escaped into the future before the lava could reach it. The lava cooled around the time machine, forming a casing of stone. George sped into the future, waiting for erosion or other natural forces to wear the rock away. Thousands of years in the future, the rock eroded and George was once more out in the open, but the bleak, desolate landscape offered no hints that a city or even mankind had ever stood there. He watched trees grow. He could no longer detect changing seasons. Then he saw new buildings going up, but they appeared more primitive than the ones he had left behind. As he sped forward through the centuries, he watched a dome and a tower being built and then fall into disrepair and ruin. Curious once again, George stopped the machine on October 12, 802701. He stopped too fast, and the angular momentum from the suddenly stopped spinning disk caused the machine to spin around and fall over. Shaken but unhurt, George got out, righted it, and set out to explore. There was a large stone building behind him, with a large metal statue on top that looks kind of like the statues on Easter Island. There are two large metal doors in the building. George knocks on them (clang!) but no one answers, and he cannot open them. George takes the glass-knobbed control handle out of the time machine, just in case, and then goes to explore the forest. The trees are laden with large, delicious-looking fruits, and he finds some more ruins, but he does not yet find any humans. After passing through the forest, he finds the dome he saw earlier. It was neglected and almost in ruins, but it was obviously still in use. It still had functioning doors, and there were tables and chairs and dinnerware inside when he entered. There were no people, so George left the dome and went back to the forest. Continuing to walk, he at last hears voices in the distance. Finally he comes across some people, in a clearing in the forest by the river. All of them were blond-haired, dressed in plain clothes, and fairly young. They were laughing and playing, and George thinks at first that this is the future he had hoped for, where war, work, and hardship had been left behind in the past. Then he spots a woman in the river, obviously in distress. She is not able to swim through the current and seems to be in imminent danger of drowning, yet none of the other people do anything to help, just staring as the woman screams. George runs into the clearing and urges them to take action, then dives into the river and rescues the woman when they do nothing. The people just look at him. The people get up and walk away, laughing and chattering, and they go to the dome that George left not long earlier. George follows them but lingers on the stairs. The woman he saved comes back to talk to him. She talks softly and slowly and appears to not quite be all there. She seems to think nothing of the fact that none of the other people tried to save her from drowning. She tells him her name is Weena, and her people are called \"Eloi\", but she is dumbfounded when he asks her to spell it. The people are illiterate. Weena encourages George to come with her into the dome, because it is getting dark. Inside the dome, the people are eating the fruits laid out before them on the table. George tries to talk to some of the other Eloi people, but they are exceptionally poor conversationalists. Besides losing written language, he learns that the Eloi have no government or laws, and no one works. The food simply grows without being cultivated. The Eloi seem to have all the free time in the world, but they don't even study or experiment or learn anything. They have lost their human curiosity as well. George asks an Eloi man if there is any way he could learn about the Eloi culture, such as from books, and the man tells him that there are indeed books. He shows George the books, which are in a dusty, long-neglected room in the back. George picks up a book which appears to be in terrible shape, and he discovered how terrible it is when he opens it to find the words faded to near-illegibility, a page crumbles to dust when he tries to turn it, and the whole book fragments to pieces in his hand. The books had been left to rot untouched for so long that he is able to put his fist through a whole shelf full of books, reducing them to powder. George now realizes how repulsive this culture is: although they had no more war and hardship, they had also lost everything that made life worthwhile over the centuries - knowledge of science, mathematics, philosophy. He returns to the dome, voices his disgust and intends to return immediately to his own time. Weena looks at him as he leaves the dome. George returns to the stone building, and discovers to his horror that the time machine is gone! There are grooves in the dirt leading to the metal doors of the stone building. Apparently, someone or something dragged the machine inside. George is now trapped in the future. He picks up a rock and pounds on the doors, but they do not budge. Looking for another way in, George walks around the building and sees something moving in the bushes. It retreats when he lights a match. He sees another shape moving around, goes to check it and discovers that it is Weena! She had followed him to try to get him to come back to the dome. It was dangerous to be out at night. George asks Weena how to get inside the building behind them, and she says no one can get inside except the Morlocks. The Morlocks provide the Eloi with their food and clothing, but the Eloi must obey them. Eloi insists that they retreat to the safety of the dome, but George prefers to keep trying to get into the building, and he starts gathering wood for a fire to keep the dark at arm's length. She finds a wild flower, of a type unknown to George, and gives it to him. George begins to talk to Eloi about when he came from. Standing in front of the building, they are in the exact same place that George's house used to be eight hundred thousand years earlier. While he is talking, one of the shapes George saw earlier emerges from the bushes and grabs Weena. George runs after her and beats off the attacker, but doesn't get a good look at it. It was a Morlock. George gets the fire going, and Weena reaches out to it curiously; she has never even seen fire before. He tells her that she seems to have a few of the traits that had been largely lost, as she tried to help him by coming out of the dome. Yet she tells him that her people have also lost the concept of past and future. George thinks that he has landed in one of Man's many Dark Ages and wonders if he can help lead the people out. In the morning, George still could not open the doors to the stone building, but discoveries several artificial holes in a nearby field. He can dimly hear machines pounding on in the darkness below. Weena knows that they are another entrance to the Morlock world because some talking rings told her. George asks her to show him the rings, and she leads him back to another dusty museum area. There is a table with some rings, and George asks Weena for a demonstration. Weena spins a ring on the tabletop, which glows underneath the ring and a voice begins to speak - apparently, this is one of man's many later technologies that had been developed and then forgotten. The voices were old news reports. The ring spoke about the end of a 326-year war, which had ended only because so many people had been killed that there were not enough people left to fight and nothing left worth fighting with or for, resources had been depleted and pollution was rapidly killing off the survivors. George spins another ring, and this recorded voice is that of one of the last people to have a past. It described that some of the few stragglers left over from the war had gone underground to survive, and a few others had remained on the surface. George learned that those had gone underground became the Morlocks, who controlled the Eloi like cattle and took them in to an unknown fate periodically. Trailed by Weena, George returns to the field with the holes and begins to climb down a rusty ladder inside. Just then, a wailing sound begins and some rods emerge from the top of the stone building. It sounds just like the air-raid sirens during the wars. Weena appears to go into a trance and wanders off. George climbs back out of the hole to see what was going on, and sees scores of other Eloi walking like lemmings out of the dome, through the forest, towards the stone building. He can't get their attention, and he can't find Weena. Continuing through the forest, he spots her and grabs her, but she just looks blankly at him and continues walking. Closer to the building, the sounds of the siren are deafening. The metal doors to the building are wide open and the Eloi are walking through them into the building. George runs forward toward the building, but as quickly as it started, the wail of the siren ceases, the rods drop back into the building, and the metal doors close - with Weena inside and George out. The Eloi who had not yet reached the doors suddenly came out of their trance, like they had just been woken up, and start wandering away. But none of them know what happens inside the building. They only know that it is now \"all clear\" - a holdover from the old days. They only know to hide underground when the sirens go off. George tries to explain to them that all the wars, sirens, all clears, and the people who had participated in them were long dead, but they don't seem to understand anything except that it was now all clear, and they don't seem the least bit perturbed that people who enter the building are never seen again. Frustrated and determined to save Weena, George returns to the field with the holes and climbs down. The Eloi on the surface look down at him. Underground, George can hear the machinery, and finds some wood and tinder to make a torch, but doesn't light it yet. He explores the underground chambers and sees some of the machines. Some figures move around in the background - Morlocks - watching him, and he is aware that something is there but doesn't see them yet. Wandering into the next room, George sees human skeletons, and miscellaneous human bones sitting in bowls and on plates. It's a dining room, and he now sees that the Morlocks have turned cannibal and the Eloi who enter the building became dinner. George returns to the main underground room and explores a little more, then he sees a Morlock clearly for the first time -- they are short, squat beings with glowing eyes, drooping faces, long white hair and bluish-gray skin. It is driving the complacent Eloi with a whip in their walk to the slaughter. George spots Weena in line, and grabs her and removes her from the line and tries to wake her from her trance. A male Eloi wakes up and follows. George's cover has been blown and a Morlock attacks him from behind with the whip, and he drops his stick. George is able to wrest the whip from the Morlock's grasp and begins attacking it. Several more Morlocks joins the fray, and George must retreat. Remembering their fear of fire, George lights a match, and the Morlocks retreat, but the match goes out soon and they can advance again. One of the Morlocks tackles him while he is fumbling with the matches. He is able to escape and go over to where the stick landed. He tries to light it, but he's running out of matches. Weena runs over to him and gives him a piece of cloth torn from her dress to burn. George puts it on the end of the stick and lights it. While George keeps the Morlocks at bay with the torch, the Eloi start moving towards the stairs, but then he drops the torch and he is reduced to fighting with his fists. The Morlocks are not very effective in the melee, but there are a lot of them. Weena tries to grab the torch, but she is once again grabbed by a Morlock. George saves her once again, punching the Morlock repeatedly. Another Morlock charges him and this time seems to get the upper hand. One of the male Eloi, having just seen the fight, makes a fist for the first time in his life and imitates George, attacking the Morlock and knocking it out. George sees the torch guttering and there are more Morlocks still. He grabs it and sends the remaining Eloi up the stairs and follows them, protecting their rear from being followed. The Morlocks try to follow but they must keep a respectful distance from the fire. On his way up the stairs, George passes some flammable liquid and lights it with the torch. The Eloi find more Morlocks blocking their path going up the stairs, but they are able to knock them off the stairs into the fire. Soon the fire spreads to the machines on the floor. The Eloi reach the bottom of the ladders and begin to climb out of the holes, which are already belching smoke. Urged by George, they gather up more dead branches and drop them down into the holes to add fuel to the fire. There is a secondary explosion and one of the walls around the holes falls in. George and the Eloi run to the river, and then there are more explosions underground and the entire chamber and the ground on top collapses into the hole. The Morlock underworld and the danger it presented had been destroyed, but so too was the shiftless lifestyle of the Eloi as livestock. Yet George was still trapped. He talks to Weena again, and she asks him if he is unhappy that he has to stay where he is. He still wants to return home and tell his own people what he learned. He realizes he doesn't fit in in the future. Weena is interested in seeing George's time and wonders if he has any girl-friends there. He doesn't, but he has his male friends, and his 62-year-old maid. Weena obviously likes him. Their chat is interrupted by the other Eloi, who race into the clearing to draw their attention to the stone building. It too is in flames, and the doors are wide open. The time machine is just inside. George is overcome with joy and pulls the glass-handled control stick out of his pocket. He runs forward to the machine and calls for Weena to join him, intending to take her home with him. But once he is inside, the doors close again with a metallic \"bong!\" and he can't open them from the inside, either. Worse, a few surviving Morlocks are coming up the stairs out of the conflagration below. George climbs into the machine but still has to beat off the remaining Morlocks as he gets the machine started. He continues forward, into the future, and watches the dead Morlock on the floor rot to a skeleton and then to dust. Realizing that he's been about as far into the future as he cares to see, he reverses the direction of the control stick, sending the time machine hurtling back into the past. Exhausted, he leans back in the machine as the time passes in reverse rapidly backwards. He slows the machine as it finally reaches the early twentieth century, finally bringing it to a stop on January 5, 1900, the night he'd invited his friends over to dinner. He's back when he started - the only difference is he and his machine are outside in the garden now, instead of in the laboratory where he left. He has to break into his own house just as a distant clock tower chimes 8 p.m. Battered from his fights with the Morlocks, he stumbles into his house to greet his guests. After he has finished telling them his story, it's after 9 p.m., and his friends still don't believe him. They think he's a great storyteller, though. George doesn't know how to make them understand, but he reaches into his pocket and finds the flower that Weena gave him. Handing it to David Filby, he challenges him to match it to any species known in the present day and tell him how he obtained it in such condition in the middle of winter. He is stumped. His friends get ready to leave, telling George he appears exhausted, as he no doubt is. As before, Filby lingers to talk to him. George makes his goodbyes to him, and they sound final, as if he suspects he might not see him again. Filby talks to the other men in the carriage, and he sounds like he almost believes the story himself. Then as the carriage drives off, Filby returns to the house to check on George. George is dragging the time machine through the falling snow back into the laboratory. While Filby is looking for George, he hears the time machine being revved up. He reaches the laboratory with Mrs. Watchett but not in time to see George disappear bound for the future once more. However, he does see the open doors and the tracks made by the time machine's brass runners. Suddenly, Filby realizes that it's true as the pieces of the puzzle fall into place. George had built his time machine in the laboratory, and it traveled through time but not through space. When he had returned home, it appeared in the garden, but this was only because the Morlocks had moved it a few dozen yards into their building in the far future. The patch of ground occupied by the laboratory would eventually be just outside the stone building, and the place where the garden was would be just inside it eight hundred thousand years in the future. George had dragged the machine back to its original location so that when he returned to the future, he would be outside the building and those impenetrable doors, outside, in the last place he had seen Weena. Returning to the parlor, Filby realizes that George would probably have taken something with him if he intended to help the Eloi rebuild their culture, and sure enough, three books are missing from the shelves. They don't know which books. Filby and Mrs. Watchett wonder if George will ever return, and if so, when, but Filby realizes that George has, quite literally, all the time in the world. He leaves, and Mrs. Watchett turns out the lights.",
+      "writers": [
+         "David Duncan",
+         "H.G. Wells"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0054387/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYxNzUwMzQ2NF5BMl5BanBnXkFtZTgwNTAwNjk4MDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Rod Taylor, Alan Young, Yvette Mimieux | See full cast and crew »"],
+      "reviews": [
+         "In the early 1960s my mother used to take my younger sister and me to a nearby one-screen theater to see Saturday kiddie matinees. It was a great way to keep us entertained and out of her hair for a few hours, particularly after our baby sister was born. One movie I saw during those matinees was the 1960 version of The Time Machine. It made such an impression on me that, for quite a while afterward, I would play Time Machine with my sister and cousin with me as the Time Traveler. It wasn't until sometime in the 1990s that I was able to see it again when I got a VHS copy. It was very much the way I remembered it to be. I have since read the book and have found that the movie is quite faithful to the text, though some scenes involving two stops in the 1900s were added and a few bright spots appeared that weren't in the book, which is pretty dark. The special effects look primitive by today's standards, but they did win the Academy Award for Special Effects in 1961, and rightfully so, though I have no idea what other films had been nominated. This is still one of my top 10 movies and likely always will be. I haven't seen the 2002 version, which is probably just as well, since I'm happy with the 1960 version and don't want to ruin it.",
+         "In 1960, filmmaker George Pal brought to fruition a visionary concept for a film based on a novel by H.G. Wells, about an inventor who builds a machine that enables him to travel through time, specifically into the future, where he learns a timeless, universal truth about the machinations of society and some of the basic tenets of human nature. `The Time Machine,' which Pal produced and directed, stars Rod Taylor as George, the inventor/time traveler/hero, who, born into a time and world that doesn't suit him, decides to do something about it. A week into the 20th Century, four of George's closest friends, Dr. Philip Hillyer (Sebastian Cabot), Anthony Bridewell (Tom Helmore), Walter Kemp (Whit Bissell) and his best friend, David Filby (Alan Young), are gathered at his house for dinner, but George is late; when he finally shows up, he is disheveled, disoriented and hungry-- and has a story that is beyond belief. It's a tale that actually began one week earlier, on New Year's Eve, 1899, when the five had last been together. On that evening, George, after a discussion of the reality of a `Fourth Dimension,' had given them a demonstration of a model of a `Time Machine,' he had built, a miniature prototype of the machine he hoped would take him some day into the future. His demonstration is met with interest, but skepticism; only Filby, it seems, is able to keep an open mind, but even he encourages George to accept the constraints of Time, which to the rational mind are absolute and immutable. George, however, views Time as a parameter; a variable whose value is subject to change. And on that last night of the 19th Century, after his friends leave-- gone off to celebrate the arrival of the new century-- George acts on his theory by stepping into his machine and beginning a journey that will prove to be the adventure of a lifetime. A journey during which he sees a number of wars and changes in the world around him, and which ultimately transports him some 800,000 years into the future, where he finds a world ravaged by fate, where humankind has been divided into two sects: The gentle Eloi, living on the surface of the earth, and the Morlocks-- mutants who dwell beneath as the Master Race, and who prey upon the weak and simple Eloi. He also discovers the dark secret of the Eloi and the Morlocks, and determines to address the situation. But first he returns to his own time, to tell his friends the story, and to retrieve something he needs. When his guests leave, Filby remains behind with words of caution for George; but as soon as he leaves, George is off to fulfill his destiny, and he has all the time in the world to do it. Going into this project, George Pal had a definite vision of what he wanted to accomplish with this film, from the way the time machine itself looked, to the way he wanted to present the future of mankind and the world. And working from the intelligent, imaginative screenplay by David Duncan, he succeeded by delivering a film that has since become a classic of the Science Fiction genre. The nature of the story demands that the viewer suspend disbelief, of course, but Pal develops his story in such a plausible, straightforward manner that it is easy to do just that. He puts George on the journey of a lifetime, and he takes his audience along for the ride. He does an exquisite job of establishing the Victorian era in which the story begins, as well as the world of the Eloi and the Morlocks. The F/X he employs to convey the sense of George's movement through time-- like the swift arcing of the Sun and Moon, and the quick, subtle (and sometimes not-so-subtle) changes George observes-- are entirely effective. Pal obviously had a devotion to detail that pays off handsomely here. A dedicated filmmaker, he refused to settle for less than what he knew was right for his picture, and it shows. The result is a film that is entertaining, timeless and memorable. As George, Rod Taylor is perfectly cast and gives a solid performance in which he embodies the boldness, the imagination and tenacity of his character. Most importantly, he makes George believable and his motivations credible, which enables the viewer to be swept along with the story. Taylor has a commanding presence that serves his character well, and he is, in fact, the veritable personification of the explorer/adventurer, a man willing to take a chance or face unbelievable odds to accomplish his goal. Taylor is a fine actor who has made a number of movies, but of them all, this is the role for which he will probably be best remembered. Also perfect in her role is Yvette Mimieux, as one of the Eloi, Weena. A talented actress-- now something of a \u009160s icon, in fact-- her fair beauty, along with the innocent demeanor and vulnerability she manages to convey, makes her character entirely convincing. And the way she plays it makes George's actions more likely, as well. Granted, her character is well written to begin with, but Mimieux's the one who sells it in the translation from page to screen. The supporting cast includes Doris Lloyd (Mrs. Watchett), Bob Barran (Eloi Man), James Skelly (Second Eloi Man) and Paul Frees (Voice of the Talking Rings). A transporting flight of fantasy, expertly crafted and imaginatively presented, `The Time Machine' is captivating entertainment that will make you believe that time travel is possible. it paints a bleak picture of the future, to be sure, but it gives you and leaves you with that which has kept Man putting one foot in front of the other since Time began: Hope. That's the legacy of H.G. Wells and the promise of George Pal. And it's the magic of the movies. I rate this one 8/10.",
+         "I recently saw the 2002 film \"The Time Machine\" and liked it a great deal, so I thought that it was probably in my best interest to see the 1960 version of \"The Time Machine\". So, I went ahead and rented it and watched it. I knew that this film was made in 1960, so I wasn't expecting anything spectacular, but I still hoped that it would be good. I must say that I was REALLY impressed with the film! I thought it was great! The story is brilliantly told, smartly done, and quite interesting. I noticed a great deal of similarities (and differences) between this film and the 2002 version. There was virtually nothing I didn't like about the film, as far as story goes. I'm really interested in reading the H.G. Wells story now, so hopefully in the near future I'll bust out my copy and read it. I thought the actors in the film did a fantastic job as well! Sadly, I'd never even heard of any of the actors in the film. I thought Rod Taylor, Alan Young and Yvette Mimieux all did a great job. The rest of the cast was good, but these three really struck me as great. Also, I have to say that Yvette is one beautiful woman! The special effects in this film were surprisingly good, especially for a movie made in 1960! I must admit that I was really impressed with the sets and the special effects in the film. The only thing that I would complain about, if I had to, is some little things. For instance, the classic \"monster about to grab the guy, but then doesn't\" sort of thing. Little things like that kind of bothered me, but I realize that it was just the style back then, so I can't really complain about it. Also, I wasn't too terribly impressed with the mouth and face of the Morlocks, but again, given that it was made back in 1960, I can let it slide. Overall, I really enjoyed the film, and would definitely recommend it to anyone that liked the 2002 version of the film or just enjoys films about time-travel or science fiction. I truly hope that you enjoy the film as much as I do. Thank you for reading, -Chris",
+         "OK, so some people are intent on pointing out factual or historical inaccuracies. Some people ridicule the costumes and accents, but what's important is the spirit of the film. I sincerely doubt anyone made the same kind of comments back in 1960. It was a seminal film and must have inspired a generation of film makers. You don't need CGI to make a good film. It's all about the story and the ingenuity of having to make do with the things you've got to hand. This film exemplifies that attitude. I first saw The Time Machine as a 10 year old in 1970 and was utterly captivated. The stop-motion photography was spell-binding to me; particularly when George kills one of the attacking Morlocks. The gory footage of the body decomposing will abide with me forever. More importantly, and for the first time in my life, I was completely swept away with the concept of time travel. This film was unlike anything I had ever seen before and sowed seeds of profound thought for many years after. This film may not be for everyone, but it was for a certain 10 year-old boy all those years ago. How I wish I could go back and recapture those moments...",
+         "Boy, did a nice DVD transfer of this not only mak me appreciate the visuals in here more but made the story seem better, too, for some reason. I only acquired the DVD as a memento, so to speak. I had to have at least one movie which had the woman I had a crush on back in the early '60s: Yvettte Mimieux. She still looks great, too. The main thing, however, is how I now viewed this story and how much more I wound up liking it than in the past. This was my fourth look at this movie over a 45-year span and I enjoyed it the most this last time. Since time travel stories always fascinate me, my favorite part of the film is when \"George\" (Rod Taylor) is actually in his time machine and experiments with it, slowing it down here and then and then stopping it a couple of times to observe World War I and then WWII. Then, he stops in 1966 when supposedly there was a nuclear attack. (Apparently, scare-mongers back in '60 thought that was a short-term likelihood.) Anyway, when \"George\" (H.G. Wells, the author of this story) finally stops, in the year 200,000-something, the story loses some of its momentum. However, it's a fairly interesting study of a group of ultra-passive people being dominated by others who live underground and then literally eat the good people. Taylor is astounded that mankind has not progressed as he had figured but seemed to have regressed. The message I got on this last look is that man is still man, meaning sinful and capable of anything bad as well as good, and to put one's faith totally in man is a mistake. It's only going to lead to disappointments as \"George\" found out on each of his stops. (Notice he never stopped during a peaceful, progressive period.) Yet, \"George\" is still an optimist and wants to be one to help initiate change for the better. There's always hope for a better world and people like George, with his idealism put to action, can make a difference. Overall, an entertaining and thought-provoking film.",
+         "One of those Sci-Fi films that's made just right to be watched over and over again and never gets old. The special effects were ahead of their time but the film is not bogged down with them and the actors are allowed to ply their trade. Rod Taylor puts in a solid performance as George the time traveler. George Pal did a great job with this picture. A remake would probably be flashier with the FX but would be hard to beat this classic.",
+         "In isolation, this film is an interesting and rather enjoyable tale. It is only when you appreciate the underlying theme in the original 1895 novel penned by H.G. Wells that you discovers how the story had been \"laundered\" to be \"politically correct\" for American public release. In a land where \"socialism\" has almost always been a dirty word and at a time when the McCarthy political witch hunts (that hit Hollywood rather badly) were still a fresh memory and when the \"Cold War\" was at its height, M.G.M. Studios was not going to take the risk of preaching a cautionary story about how the seeds sown by the capitalist system could exact a gruesome nemesis in a distant future. Instead, the studio took the story, stripped it of its ideology and presented it as the adventure of a gifted Victorian inventor. Throughout his career, Herbert George Wells (1866-1946) placed his sympathies with the working class. In 1905, he joined the Fabian Society, a socialist think-tank whose ranks included George Bernard Shaw and that gave birth to the British Labour Party. It is not surprising that his ideology would embed itself in his writing -- and this was certainly true of his first novel, The Time Machine. The book tells of an enterprising inventor who crafts a device that can carry a human passenger forward or backward through time. The hero travels 800,000 years into the future and finds a world in which humans had evolved into two species: an illiterate and child-like race called the Eloi, devoid of technology but similar in appearance to modern humans who inhabited the surface of the planet; and the more repugnant Morlocks, technologically sophisticated and living in perpetual darkness in underground caverns. The hero gradually learns that it is the Morlocks who supply the Eloi with food, clothing and other basic necessities of life, but they exact a terrible price. At periodic intervals, the Morlocks \"harvest\" the Eloi for food. (By his own drive, Wells, who lived an impoverished childhood and became literate only in his teen years, entered university where he studied biology under Thomas H. Huxley, the illustrious and outspoken champion of Charles Darwin. He was aware of the debates among evolutionary biologists of his day over the discovery of Neanderthal remains, about how two \"distinct\" species of humans -- Neanderthals and our Cro-Magnon ancestors -- existed in a prehistoric Europe and whether it was a peaceful co-existence or whether the two species competed, perhaps violently, for control of resources. Wells merely extrapolated the concept of two competing human species to a distant future.) The hero in the novel also discovers how this world came into being. At some less remote future time, the industrialists collectively chose to establish their factories and means of production underground, leaving the surface of the earth green. Eventually, the politically powerful classes decided to banish all workers underground as well, leaving the world of sunshine and blue skies as a playground for the wealthy and the privileged -- a paradise that would eventually turn sour when the passage of time would adjust the genetic makeup of the two classes in their different environments and when a successful \"slave revolt\" would place the descendants of the workers in control. Clearly, such a political fable could not be put on screen in the United States in 1960. If a cinematic version of the story was going to be made, another explanation had to be conjured up to account for the evolution of the two human species -- and it was found in the Cold War itself, a war that turns \"hot\" and forces huge populations underground for survival. Toady, however, almost forty years after the movie was released and more than a hundred hears since the novel first broke onto the world, that M.G.M. explanation seems horribly dated and it is the original Wells plot that holds up much better in today's international, political and industrial climate.",
+         "I first saw The Time Machine when I was young and is one of my favourite sci-fi movies. An inventor, George develops a machine that can travel through time and he shows the model version of this to his friends to prove it. Despite it disappearing, they don't believe him. He then starts time travelling and first stops off during World War One, then briefly World War Two and then arrives in 1966 and discovers a nuclear war in progress (which never happened of cause). After the nuclear bombs have dropped, causing a volcanic eruption, he travels to the far future where he ends up in the world of the Eloi and the Morlocks, cannibalistic mutations. After meeting Weena and falling in love with her, George helps to defeat the Morlocks and then returns to his own time. After saying goodbye to his friends, he returns to the far future. This has great special effects and a good music score. The excellent cast includes Rod Taylor (The Birds), Yvette Mimieux as Weena, Alan Young, Sebastian Cabot, Tom Helmore, sci-fi regular Whit Bissell (Creature From the Black Lagoon, I Was A Teenage Frankenstein) and Doris Lloyd as housekeeper Mrs Watchett. Taylor and Mimieux were to be reunited in 1968's Dark of the Sun. The Time Machine is a must see movie for all movie fans. Fantastic. Rating: 5 stars out of 5.",
+         "This is a very well-done adaptation of the H. G. Wells novella, with an Oscar for the special effects that are still impressive more than 40 years later. Good performances by an ensemble cast and a good script also help. One interesting side note: character actor Whit Bissell was in both the 1960 version here and the version done for television in 1978, playing essentially the same part with two different character names! Recommended.",
+         "One of my favorite films back when I was a lad was George Pal's production of the H.G. Wells novel, The Time Machine. As I've gotten a lot older since the 13 I was when it came out, I can more appreciate the meticulous care that went into the making of this film. Considering that we didn't have computer generated images back in the day, the special effects hold up remarkably well. The make up and costumes for the villainous Morlocks still have the power to frighten. What I look at now though was the United Kingdom of the turn of the last century in which Wells wrote his book. As much as George Pal was able to capture the future, he did as well with the past, the recreation of the Victorian/Edwardian era from which our time traveler Rod Taylor goes to the future and back. A lot of that has to do with the casting of the four men who are Taylor's friends and looked like they stepped from that era. Tom Helmore, Sebastian Cabot, Whit Bissell, and Alan Young all comport themselves as proper English gentlemen who are concerned and support their friend anyway in his theories and experiments. Especially Alan Young's performance, it's my favorite in the film. Young plays a dual role as Taylor's friend and as his own son over several generations of the 20th century. He's the kind of true friend we should all in life be fortunate to have. Also note that the mechanics of the Time Machine itself are never explained, just how the thing works and what powers it. It was probably beyond even the fertile imagination of H.G. Wells to conceive, our own best minds of science now debate whether it is even theoretically possible. Rod Taylor after playing several good supporting roles in many films since arriving in America from his native Australia, got his first lead and real big break in The Time Machine. He's excellent as the time traveler who essentially saves the future for mankind and rescues it from the world that has developed. The Time Machine was also ahead of it's time. no pun intended, in its depiction of the peaceful Eloi. During the sixties age of flower power, the gentle Eloi are like a bunch of hippies who seemingly have attained their version of paradise. No one is old and they live in a garden of Eden. Little do they know what the underground Morlocks are using them for. Yvette Mimieux who as Weena of the Eloi got her break out role her. She's the quintessence of the flower power generation soon to come. Even though new versions have been done, this version of The Time Machine still stirs the imagination and appeals to the scientifically curious in all of us."
+      ],
+      "genres": [
+         "Adventure",
+         "Fantasy",
+         "Romance",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "George Pal Productions",
+         "Galaxy Films Inc."
+      ],
+      "summaries": [
+         "On January 5, 1900, a disheveled looking H.G. Wells - George to his friends - arrives late to his own dinner party. He tells his guests of his travels in his time machine, the work about which his friends knew. They were also unbelieving, and skeptical of any practical use if it did indeed work. George knew that his machine was stationary in geographic position, but he did not account for changes in what happens over time to that location. He also learns that the machine is not impervious and he is not immune to those who do not understand him or the machine's purpose. George tells his friends that he did not find the Utopian society he so wished had developed. He mentions specifically a civilization several thousand years into the future which consists of the subterranean morlocks and the surface dwelling eloi, who on first glance lead a carefree life. Despite all these issues, love can still bloom over the spread of millennia.",
+         "From the book by H.G. Wells, a scientist and tinkerer builds a time machine and uses it to explore the distant future where there are two races, a mild gentle race, and a cannibalistic one living underground. His machine is stolen by the underground race and he must risk being captured (and eaten) to return to his own time.",
+         "A Victorian Englishman travels to the far future and finds that humanity has divided into two hostile species."
+      ],
+      "budget": 750000
+   },
+   "movielensId": 3959,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1960-08-17",
+      "dvdReleaseDate": "2000-10-03",
+      "directors": ["George Pal"],
+      "runtime": 103,
+      "movieId": 3959,
+      "title": "The Time Machine",
+      "mpaa": "G",
+      "actors": [
+         "Rod Taylor",
+         "Alan Young",
+         "Yvette Mimieux",
+         "Sebastian Cabot",
+         "Tom Helmore",
+         "Whit Bissell",
+         "Doris Lloyd",
+         "Alan Young",
+         "Paul Frees"
+      ],
+      "imdbMovieId": "0054387",
+      "originalTitle": "The Time Machine",
+      "genres": [
+         "Thriller",
+         "Adventure",
+         "Fantasy",
+         "Science Fiction",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [
+         "2GZnAbgGFxg",
+         "S_PbaijD2Ig",
+         "5Z-WsACmRAs"
+      ],
+      "plotSummary": "A Victorian Englishman travels to the far future and finds that humanity has divided into two hostile species.",
+      "tmdbMovieId": 2134,
+      "avgRating": 3.68059,
+      "releaseYear": "1960",
+      "numRatings": 3281,
+      "posterPath": "/cjmluKjmaqLfZmwMEwjki6tvLnS.jpg"
+   }
+}

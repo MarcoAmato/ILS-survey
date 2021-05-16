@@ -1,0 +1,585 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "jealousy",
+            "id": 931
+         },
+         {
+            "name": "roommate",
+            "id": 1253
+         },
+         {
+            "name": "obsession",
+            "id": 1523
+         },
+         {
+            "name": "campus",
+            "id": 8039
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "freshman",
+            "id": 10519
+         },
+         {
+            "name": "student",
+            "id": 12105
+         },
+         {
+            "name": "los angeles",
+            "id": 12670
+         },
+         {
+            "name": "medication",
+            "id": 14784
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "boyfriend",
+            "id": 156478
+         },
+         {
+            "name": "design",
+            "id": 160077
+         },
+         {
+            "name": "resentment",
+            "id": 171670
+         }
+      ],
+      "imdb_id": "tt1265990",
+      "video": false,
+      "title": "The Roommate",
+      "recommendations": [
+         19904,
+         26688,
+         22681,
+         8617,
+         60950,
+         82505,
+         14254,
+         10053,
+         65055,
+         8398,
+         27588,
+         34583,
+         79550,
+         55861,
+         43931,
+         9966,
+         50497,
+         13788,
+         46261,
+         13803
+      ],
+      "backdrop_path": "/7jkhsizAjyEsQ2fynDINDrdHo3p.jpg",
+      "revenue": 52545707,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Sara Matthews",
+               "gender": 1,
+               "credit_id": "52fe47b1c3a36847f81432c5",
+               "name": "Minka Kelly",
+               "profile_path": "/sE7eVf2gGSW6Di86UwI6i9RAcZi.jpg",
+               "id": 96625,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Rebecca Evans",
+               "gender": 1,
+               "credit_id": "52fe47b1c3a36847f81432bd",
+               "name": "Leighton Meester",
+               "profile_path": "/t4wEyg0f1hZbS38419RY7iNoOt7.jpg",
+               "id": 85825,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "Stephen",
+               "gender": 2,
+               "credit_id": "52fe47b1c3a36847f81432b5",
+               "name": "Cam Gigandet",
+               "profile_path": "/bJC9iA16bMomtoOdNSgMnH7pdth.jpg",
+               "id": 55086,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Tracy",
+               "gender": 1,
+               "credit_id": "52fe47b1c3a36847f81432b9",
+               "name": "Aly Michalka",
+               "profile_path": "/6hvpV2bV7TQa5x9h6PXuAJZHgLG.jpg",
+               "id": 90033,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Jason",
+               "gender": 2,
+               "credit_id": "52fe47b1c3a36847f81432c1",
+               "name": "Matt Lanter",
+               "profile_path": "/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg",
+               "id": 34202,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Irene",
+               "gender": 1,
+               "credit_id": "52fe47b1c3a36847f81432c9",
+               "name": "Danneel Ackles",
+               "profile_path": "/lvPZPInnkV5MKqngGh9tuCT5a1L.jpg",
+               "id": 81164,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Kim Johnson",
+               "gender": 1,
+               "credit_id": "52fe47b1c3a36847f81432cd",
+               "name": "Kat Graham",
+               "profile_path": "/yNnbULzrrLHXpkFyw2Iq0EVPOJH.jpg",
+               "id": 159962,
+               "order": 6
+            },
+            {
+               "cast_id": 28,
+               "character": "Kate",
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f8143343",
+               "name": "Shirley Norris",
+               "profile_path": null,
+               "id": 1128314,
+               "order": 7
+            },
+            {
+               "cast_id": 29,
+               "character": "Hunter",
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f8143347",
+               "name": "Nick Bylsma",
+               "profile_path": null,
+               "id": 1128309,
+               "order": 8
+            },
+            {
+               "cast_id": 30,
+               "character": "Samantha Tangent",
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f814334b",
+               "name": "Lauren Alfano",
+               "profile_path": null,
+               "id": 1128315,
+               "order": 9
+            },
+            {
+               "cast_id": 32,
+               "character": "Professor Roberts",
+               "gender": 2,
+               "credit_id": "52fe47b1c3a36847f8143353",
+               "name": "Billy Zane",
+               "profile_path": "/lkwvmo7vVL8TpMCDLRoHjZIkJQ4.jpg",
+               "id": 1954,
+               "order": 10
+            },
+            {
+               "cast_id": 33,
+               "character": "Maria",
+               "gender": 1,
+               "credit_id": "52fe47b1c3a36847f8143357",
+               "name": "Nina Dobrev",
+               "profile_path": "/7Oc4jOZHWNYozxBxKdQr0NxoGjS.jpg",
+               "id": 19961,
+               "order": 11
+            },
+            {
+               "cast_id": 31,
+               "character": "Jeff Evans",
+               "gender": 2,
+               "credit_id": "52fe47b1c3a36847f814334f",
+               "name": "Tomas Arana",
+               "profile_path": "/sx8tDGA7e7d5oDYpQwaydmGcc93.jpg",
+               "id": 941,
+               "order": 12
+            },
+            {
+               "cast_id": 35,
+               "character": "Alison Evans",
+               "gender": 1,
+               "credit_id": "58848668c3a3684f3a015655",
+               "name": "Frances Fisher",
+               "profile_path": "/248IbuAi6RQG5l94a4hClUswbA5.jpg",
+               "id": 3713,
+               "order": 13
+            },
+            {
+               "cast_id": 34,
+               "character": "Frat Boy",
+               "gender": 2,
+               "credit_id": "57d5144ec3a3681593004cbc",
+               "name": "Alex Meraz",
+               "profile_path": "/kOSksD8h7YD7bwwwjF77OsNNWUK.jpg",
+               "id": 84217,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47b1c3a36847f81432b1",
+               "name": "Christian E. Christiansen",
+               "profile_path": null,
+               "id": 143079,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f81432d3",
+               "name": "Sonny Mallhi",
+               "profile_path": null,
+               "id": 564949,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f81432d9",
+               "name": "Chris Bylsma",
+               "profile_path": "/fHj4V03fUCtjOPvEMaW05BsYrLS.jpg",
+               "id": 1128308,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f81432df",
+               "name": "Nick Bylsma",
+               "profile_path": null,
+               "id": 1128309,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f81432e5",
+               "name": "Richard Robertson",
+               "profile_path": null,
+               "id": 1128310,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47b1c3a36847f81432eb",
+               "name": "Doug Davison",
+               "profile_path": null,
+               "id": 21035,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f81432f1",
+               "name": "Richard Robertson",
+               "profile_path": null,
+               "id": 1128310,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f81432f7",
+               "name": "Irene Yeung",
+               "profile_path": null,
+               "id": 1128311,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f81432fd",
+               "name": "Roy Lee",
+               "profile_path": null,
+               "id": 1128312,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f8143303",
+               "name": "Chris Bylsma",
+               "profile_path": "/fHj4V03fUCtjOPvEMaW05BsYrLS.jpg",
+               "id": 1128308,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f8143309",
+               "name": "George Flynn",
+               "profile_path": null,
+               "id": 81699,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f814330f",
+               "name": "Paul Tennis",
+               "profile_path": null,
+               "id": 1128313,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f8143315",
+               "name": "Nick Bylsma",
+               "profile_path": null,
+               "id": 1128309,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f814331b",
+               "name": "Sonny Mallhi",
+               "profile_path": null,
+               "id": 564949,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47b1c3a36847f8143321",
+               "name": "Beau Marks",
+               "profile_path": null,
+               "id": 7713,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47b1c3a36847f8143327",
+               "name": "John Frizzell",
+               "profile_path": "/jAhfYD26ihaLcOe1AKX6aRDcLLo.jpg",
+               "id": 21962,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47b1c3a36847f814332d",
+               "name": "Phil Parmet",
+               "profile_path": null,
+               "id": 3114,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47b1c3a36847f8143333",
+               "name": "Randy Bricker",
+               "profile_path": null,
+               "id": 55955,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe47b1c3a36847f8143339",
+               "name": "Lindsey Hayes Kroeger",
+               "profile_path": null,
+               "id": 59932,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47b1c3a36847f814333f",
+               "name": "Jon Gary Steele",
+               "profile_path": null,
+               "id": 11877,
+               "department": "Art",
+               "job": "Production Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 10.58444,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 49950,
+      "vote_count": 277,
+      "budget": 16000000,
+      "overview": "When Sara, a young design student from Iowa, arrives for college in Los Angeles, she is eager to fit in and get to know the big city. Her wealthy roommate, Rebecca, is more than eager to take Sara under her wing and show her the ropes. The two become close, but when Sara begins to branch out and make more friends on campus, Rebecca becomes resentful. Alarmed, Sara moves in with her new boyfriend, causing Rebecca's behavior to take a violent turn.",
+      "similar": [
+         979,
+         281,
+         1266,
+         17494,
+         9769,
+         357096,
+         26390,
+         19913,
+         1586,
+         949,
+         4771,
+         238636,
+         320,
+         562,
+         281957,
+         3597,
+         3580,
+         10575,
+         1939,
+         868
+      ],
+      "original_title": "The Roommate",
+      "runtime": 91,
+      "poster_path": "/yvKZBncLbuNd3HX7dcqcepq83qy.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+            "name": "Screen Gems",
+            "id": 3287,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/mzpAmEQ5P1gFvdRoNyCk9q8ngiv.png",
+            "name": "Vertigo Entertainment",
+            "id": 829,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2011-02-04",
+      "vote_average": 5.3,
+      "belongs_to_collection": null,
+      "tagline": "2,000 colleges. 8 million roommates. Which one will you get?",
+      "adult": false,
+      "homepage": "http://www.theroommate-movie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Christian E. Christiansen"],
+      "runtime": 91,
+      "synopsis": "At the University of Los Angeles, new freshman Sara Mathews (Minka Kelly) is moving into her dorm. Her roommate isn't there yet, so Sara chooses her side of the room and settles in. She meets another freshman, Tracy (Ali Michalka) and her roommate Kim, and the three go to a frat party. Sara drinks and dances and catches the eye of the drummer in the band. As she leaves the floor, she turns and the drummer runs into her, spilling beer all over her shirt. He introduces himself as Stephen (Cam Gigandet), and he's in the fraternity and also a student. As the chat, they see a drunk Tracy lift her shirt and flash the party, and they decide to take her home. She thanks him and kisses him goodnight. When she enters her room in the dark, she trips over luggage... her roommate Rebecca has moved in. She sleeps off her drunken state and wakes the next day to actually meet Rebecca (Leighton Meester). They shop together at the bookstore for supplies, and Sara's phone rings-she sees it is Jason, and explains to Rebecca that he was her boyfriend, but she broke up with him. They both applied to college, and Sara got into Brown, but Jason didn't. So, they decided to go to ULA together. A week ago, Brown had an opening for Jason, and he took it, even though Sara passed up her chance to go there because of him. She declines the call, and when they are back in the room, they look at each others art: Sara is a fashion design major, and Rebecca is an art major. Rebecca likes Sara's portfolio, but when Sara asks to see Rebecca's sketch book, she firmly tells Sara \"no\". She doesn't share it until it is finished; \"it is part of my process\", she explains. Sara goes to a fashion design class, and is late, and stands at the door. Professor Roberts (Billy Zane) lectures, and after class, Sara asks him if he will sign a waiver and add her to the class, as it is full. He says 'no', but tells her she can take it in one of the other three sections. Sara says that she'd rather wait until next year so she can take it with him. He changes his mind and signs her in, saying that she has two things he cannot teach: style and desire. Tracy stops by Sara and Rebecca's room and invites them to go to a nightclub with her. Rebecca declines. Sara goes, and puts her phone in Tracy's purse for the evening. A guy hits on Tracy, and after a while, Sara notices that she is gone. Without a phone or purse, she is stuck. She walks to a diner and calls Rebecca collect. Rebecca arrives a short while later, and they order pancakes, and Rebecca says she is taking Sara to see the sights of the big city tomorrow. The next day, Sara and Rebecca go to an art gallery and Rebecca explains that the artist, Richard Price, is her favorite. Sara looks at Rebecca's favorite painting, and is a bit disturbed by the image, but just smiles. They walk past a tattoo store, and Rebecca says she could never do that, and Sara tells her its no big deal that she has a tattoo. She shows Rebecca: it is above her breast, and says 'Emily'. Sara explains that Emily was Sara's older sister, who died when Sara was 9 years old. Sara goes jogging, and Rebecca looks through her stuff, and puts on her perfume and the necklace. When Sara returns, she tells her she can borrow anything of hers, EXCEPT that necklace, as it is the only thing she saved of her sister's. Another day or so later, Sara finds a stray kitten and sneaks it into the dorm. Rebecca likes it, too, and says they should keep it. They name it Cuddles, and they share him. Stephen comes to the coffee house where Sara has gotten a job. It's her first day, and she's not very good at it when she blows up a blenderful of smoothie. He asks her out to dinner and she accepts. At home, Rebecca is all dressed up, and got them tickets to a gallery show of the artist Richard Price. Sara tells her she already has plans seeing Rebecca's sad face, she says she'll cancel and goes with Rebecca. Sara sends Stephen a quick text and cancels their dinner date. The next day, Sara gets a text from an older friend, Irene (Danneel Harris), who is also from her home town and a fashion major grad. She is a stylist, and travels all over the world. She lives in L.A., and she and Sara are going to get together. Sara drops in on Stephen studying in the library, and asks him out to dinner. That night, Tracy goes in the dorm showers, and the lights go out. She checks the room but finds nothing and nobody. The lights go back on and she returns to her shower, and is she is attacked and smothered by someone holding the shower curtain down over her, and the person whispers in her ear, \"You are a bad influence on her, you trashy party whore\". And then she tells her if she tells anyone about this, she will kill her, and then rips out Tracy's belly ring and throws it at her. Tracy is crying, left on the shower floor. Rebecca is frantic in the dorm room; it is 1:00 am, and Sara isn't home. She keeps calling her cell phone, and finally she hears Sara in the hall. As Sara and Stephen kiss, Rebecca comes out and yells at her, wanting to know where she's been, and that she was worried. Sara and Stephen looked at each other thinking that this is strange. Sara tells her she doesn't need to call or worry again. Walking to class, Sara passes Tracy and asks her why she moved out of the dorm building. Tracy tells her that she switched dorms because it had a better vibe. Rebecca joins them and Tracy looks scared and leaves mid-sentence. Rebecca just says that Tracy was always flakey. A few days later, Sara and Stephen are in a park, looking at a view of L.A. after a date. She asks him if they are going to her place, with a twin bed and a roommate, or his? They go to his room, and they have sex. Meanwhile, Rebecca is back in the dorm, frantic again since Sara isn't home. She doesn't call her this time. She hears a phone ring and its is Sara's phone, which she has left behind. The I.D. says it is Jason. Rebecca answers it, and mumbles while Jason talks. She whispers and tells him she misses touching him and asks if he misses touching her. While he talks, she masturbates, and then tells him, \"Don't ever call me again!\", and hangs up. Since the R.A. (resident advisor) caught them with the cat, Sara walks to Irenes and asks her if she wants Cuddles. She says no because she travels too much and doesn't have the time to raise a cat. Irene gives Sara a bunch of expensive hand-me-down clothes, and tells her she should move in with her, as the place is enormous, she travels a lot, and then she could keep the cat. Sara thinks its a terrific idea. When she returns to the dorm, Sara tells Rebecca about the idea, and Rebecca freaks out. Sara tells her to relax, that it is just something to think about and if she does move, they can keep the cat. When Sara leaves the room, Rebecca takes the cat with her to the laundry room, and puts the cat in the dryer, puts in coins, and starts it up... Next, Rebecca hits herself in the face quite hard, leaving bruises. She also bruises her arms and legs, and slices her stomach with Sara's art blade. She waits for Sara to return, and when Sara sees the blood, Rebecca tells her that the cat got away and when she went looking for it, she was jumped and beaten by some thug in a vacant alley. Sara tells her to go to the police, but she refuses. Sara cleans her up and helps with her stab wound. Rebecca makes Sara promise to never leave her alone ever again. A few weeks later, Professor Roberts asks Sara to stay after class. He tells her that when he goes to Fashion Week in Paris, the budget allows him to take an assistant and if she would she like to go with him. Before she can answer, he leans in and kisses her. She pushes him away and leaves, disgusted. She tells Rebecca about it, and how sick it was, especially since he is married. That evening, Rebecca pays him a visit at his office, pretending that she wants to add his class. She says she'll do anything, and when he tells her to kiss him, she starts screaming, and yelling, \"No! Stop! Ouch, you're hurting me!\" She shows him that she has recorded the whole conversation on a mini-recorder, and leaves. In the morning, Sara has a substitute for her class; Professor Roberts is on a leave of absence. She explains to Rebecca that the gossip is that someone played a recording of him hitting on a student, just like he did to Sara, to the dean, and that he won't be back. Another few weeks later, Sara joins Rebecca for Thanksgiving at her family's estate in Beverly Hills. It is huge, and obvious that she has a wealthy family. Rebecca's parents Jeff and Alison (Tomas Arana and Frances Fisher) are surprised she is home, as she didn't call and say she was coming. The next day, Rebecca is going to show Sara around town. Her mother speaks to Sara when Rebecca isn't there, and asks if she is taking her medication. The two girls sight-see and go for coffee at Rebecca's favorite place. A group of girls come in and glares at Rebecca. She says they are girls she knew from high school. Rebecca is uncomfortable and they leave. On the way out, one girl (Nina Dobrev) tells Rebecca, \"You were never my friend.\" When they get back to the dorm, Sara gets a text that Irene is back in town and if they want to meet. Rebecca tells her she feels inspired, and is going to the studio to sketch, and not wait up for her. After Rebecca leaves, and Sara looks through her stuff... and finds a prescription. It is for medication used to treat psychotic problems like schizophrenia and bi-polar syndrome. The medication is untouched meaning that Rebecca has apparently never taken it. Sara and Stephen think that maybe it is time for Sara to move in Irene's place. Meanwhile, Rebecca doesn't go to the studio as she told Sara. She goes to a nightclub where Irene is dancing and drinking with other random women. Rebecca sexually hits on Irene in the restroom, and they decide to go back to Irene's apartment. In the morning, Rebecca arrives back at the dorm. Sara starts to tell her that she is moving out, but then Rebecca begs her to go with her to get a tattoo, before Sara has a chance to say anything. She goes with Rebecca and waits. When she is done, Sara asks to see the tattoo: it is a replica of Sara's, that says 'Emily' above her breast. Rebecca says, \"Now you can think of me as your sister\". Sara is sickened, and runs out. She packs and takes a taxi over to Stephen's frat house to stay until Irene returns to town; she has called Irene but just gets her machine, and assumes she is away again. While packing, she can't find her necklace, but won't go back and look for it. Jason comes to town and leaves a message on Sara's phone; she never answers it. He goes to her dorm and slips a note under the door that says he wants to see her and for her to come to his hotel room. Rebecca goes in the shower-as she showers, dark hair dye runs down her back; she is dying her hair to look like Sara. Rebecca goes to Jason's hotel and swipes a room key from a maid. She undresses and slips into bed behind sleeping Jason. He is groggy and starts to wake up. She kisses him, and straddles him. He wakes up, and sees the necklace and tattoo and smells the perfume, and assumes its Sara. Rebecca yells at him, \"She doesn't love you!\", and stabs him with Sara's art blade. There is a party at the frat house and Sara is supposed to meet Stephen at 10:00 pm, but she is a no-show. He checks his phone and has a message form Sara: Irene is back and needs her, so she is going there and wants him to meet her there. Sara arrives at Irene's apartment and sees the front door wide open. Alarmed, she carefully enters and looks for Irene. Sara goes in the bedroom, and Irene screams; she is tied up to the bed and gagged. Rebecca is there with a gun pointed at Sara, and tells her to sit down. She says that all she ever wanted was to be her friend, and that is why she got rid of Tracy, the cat and Professor Roberts. Sara tries to calm Rebecca and tell her she is her friend, and asks her to forgive her. But just then Stephen comes in and tried to grab the gun. A big fight breaks out, and Stephen is knocked out. The gun goes sliding out the room, and Sara and Rebecca fight, turning over furniture. Rebecca goes to get the gun, and Sara locks her out of the bedroom. She tries to free Irene, but Rebecca gets the gun and begins shooting at the door. Irene tells her to go out the window, but there is no fire escape and they are up quite high. She is at the window, when Rebecca shoots her way in, and Sara falls out, clinging to the curtain. Stephen attacks Rebecca from behind and knocks her out. He pulls Sara back up and as she is about to climb in the window, Rebecca hits Stephen hard, and he is unconscious. Rebecca pulls Sara in, and Sara hits Rebecca. They fight again, and Sara gets the gun. She holds it pointed at Rebecca, but Rebecca doesn't think she'll shoot. She does, but the gun is empty. Rebecca screams, and lunges at Sara. They fight and the purse is knocked over, spilling the contents, which include Sara's art blade. Rebecca chokes Sara, and Sara struggles to grab the blade. She does, and stabs Rebecca in the back, saying, \"I was never your friend\". She goes to Stephen, who is just coming around, then gets her necklace back from Rebecca, who dies, and there are sirens in the background. Epilogue. Sara moves into a new dorm, and Stephen joins her in her new room. She asks him to help her with one thing: they slide the other bed out in the hall and leave it there.",
+      "writers": [
+         "Sonny Mallhi",
+         "Nick Bylsma"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1265990/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjIwMzQwMzMwNF5BMl5BanBnXkFtZTcwNjE5MTUxNA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Minka Kelly, Leighton Meester, Cam Gigandet | See full cast and crew »"],
+      "reviews": [
+         "I realize that today's major cinema generally lacks creativity and innovation and indie is the way to go, but I can't resist a cheap thriller. Once in a great while I will be impressed by a film or at least not be furious I spent ten bucks on it. Unfortunately with \"The Roommate\" I felt like I'd wasted both my money and my time. The story is unoriginal, but even with recycled plots writers can tell them from new angles. This movie was told from the completely wrong angle. The main character goes to college and basically finds out her roommate is crazy and obsessed with her. The huge mistake? The story should've been about the 'crazy' girl and not about the girl who finds out the 'crazy' girl is obsessed with her etc. I'm frankly also insulted at how they depict mental illness in this movie, putting across the message that if a person has emotional problems/mental issues etc they're obviously dangerous. First of all her problems throughout the movie appear to be pretty severe, so why is she not under regular psychological care? At a visit to the the crazy girl's house, her parents seem almost afraid of her and make a comment about her medication. Various scenes in the girl's hometown make it clear that something serious has happened with this girl in the past. The script wants the viewer to hate this character and find her dangerous and sympathize with the roommate, but I find myself sympathizing with the crazy girl and curious about her backstory and what's really going on with her. The movie fails at getting me to see the girl as the antagonist and root against her, instead I pitied her and was concerned about her. I didn't really care about the main character at all. In short, Hollywood recycles plots all the time, and that's fine but they could at least pick a new angle to tell the story through that would captivate the viewer. The Roommate, is a huge fail and if I were you I'd skip this one in the box office.",
+         "I went to see this movie expecting a good thriller, but man was I wrong. The opening comes right out of the blue. Its too fast paced. There is barely any storyline structure or memorable performances. NOT scary. NOT suspenseful. Pathetic and infested with forgettable acting. I can't even recommend this movie for a one night rental. The atmosphere is lifeless. The ending is so last minute thinking. The climax????!!? The climax had no ability to impress me. I regret ever spending my money on this disaster piece. There is not one unique thing this movie has to offer. I'll be surprised if anybody mentions this film's name in the future.",
+         "Wow this movie is bad. The writing is terrible and the acting is not much better than terrible. If you took any kid in school sat them down and told them to write a scary horror movie that is set on a university/college campus this is pretty much what they would come up with exactly. It is very predictable and you can see the attacks coming a mile away. Basically without ruining any of it I can say this is a girl who is obviously stuck with a roommate in college who she does not know but the chick turns out to be completely insane and tries to take over and keeps attacking and scaring her to death, almost literally to death. The movie is so stupid you will laugh at different places but it is not meant to be at all funny so this is just a terrible movie.",
+         "The Roommate is one of those films, that when you first the trailer, you think to yourself, \"This is gonna suck\". But only when you actually see the film do you realize that you were only partly wrong. The Roommate's premise is simple enough. A young pretty girl is being stalked and obsessed with by her roommate. The film revolves around Sarah (Minka Kelly) who is on her own, going to college and learning new things. Little does she know that she has a stalker roommate, Rebecca (Leighton Meester). As soon as Rebecca and Sarah become closer to each other, strange events begin to occur. Each of Sarah's close friends or allies becomes hurt, or sometimes even killed. I wonder who could've done this? The good thing about The Roommate is that it is a pretty decent thriller. Even though it doesn't even come close to meeting the standards of a horror movie, it still delivers some chills and even some cheap jump scares. The acting is good as well. With the exception of Minka Kelly. Cam Gigandet delivers a solid sometimes annoying performance as Sarah's new beau. Even though he is not in the film for long, he lifts our spirits when things are going rough, which is pretty much every 10 minutes. But the real scene stealer here is Leighton Meester as the crazed roommate. Meester delivers a believable potent performance, psychotic one moment and sweet the next. The bad things about the film are that in the very beginning it moves far too fast. Jumping from one thing to the next in the blink of an eye. Also, the writing really could've used a makeover. I mean, the dialogue in this film is ridiculous. All in all, the film is at times stupid and the deaths aren't very well executed, if executed at all. But the acting and characters keep you around for the show. Overall, The Roommate is a film I would recommend, but only to open-minded movie watchers.",
+         "It's nice when you're presented with a thriller that the majority of people can relate to. Moving off to college, nervous with jitters, and not knowing who your first college roommate might be. You ask yourself questions like, \"Will my roommate be clean and neat? Will we get along? Will they respect my property? \" It's a role of the dice that doesn't seem too disappointing for most. What most can't relate to is the question \"Is my new roommate a demented psychopath who wants to steal my identity?\" Then finding out it's true. That is the case in this rainbow version of the 1992 classic film 'Single White Female.' The film starts with our main character Sarah Matthews (Minka Kelly) moving into her dorm. Sarah is starting to build relationships with other housemates, but they seem paper-thin. Still in the opening credits the acting starts becoming awkward from introductions that are in no way realistic. If you're shopping at Wal-Mart and someone drives they're shopping cart into yours, I don't think everyone will smile then introduce him or herself happily. After a while we learn Sarah is a design major. Unlike her other classmates she has style something that all the money in the world can't buy according to her Design 101 instructor. Moving along, Sarah goes to a frat party with some of her new friends to get a feel of life away from home without a curfew. She meets a guy whose pick up lines in the real world would come off as lame and stalker like, but for some reason it's acceptable here. After the party, some of the guests are too intoxicated to make it home alone, so they're escorted back to their dorms. This is where we meet the ROOMMATE Rebecca (Leighton Meester.) Rebecca comes across innocent at first with no real reason for you to think otherwise. While the plot centers on Rebecca being obsessed with Sarah wanting to steal her identity, art is one thing they genuinely have in common. So Rebecca can draw art very well and that's all we get to know about her character other than she lives 20 minutes away and her parents are filthy rich and they don't get along. While Sarah and Rebecca are getting acquainted as roommates, Sarah begins to display her particular taste in life and Rebecca is taking mental notes. It feels like a friendship is starting to build until little by little Rebecca starts to mimic Sarah's behavior from illustrations of Sarah's favorite movie to copying her hair color. After a while, like any normal person, Sarah rations her time away with other friends from the college. This is where the s*^# starts to hit the fan. Rebecca of course doesn't like this and starts to become envious of everyone that is taking the time of her so called BFF. Like I said the psychotic behavior is starting to erupt but this is also the main problem of the film. Rebecca is becoming jealous so she starts doing every SHE can think of to gain Sarah's attention again for her own psychotic gain. They range from body mutilation, harassing Rebecca's friends, and harming animals in a way that can't be imagined. I can only count a number of incidents towards Rebecca's insanity and in doing so her actions are left unresolved. There's really no aftermath to any of her behavior except one occasion where she manipulates Sarah's design instructor, but that was completely justified. It does take away from the point of the film. I wanted to be thrilled and turn in my seat, but I hardly moved. So much was left unanswered regarding Rebecca's behavior and back-story that instead of being scary the film turned into a comedy. When individuals lash out it's more entertaining to know where they came from and what exactly sent them over the edge. Jason was drowning while campers had sex, Freddy was burned alive for being a pedophile, and \"The Count of Monte Cristo\" was imprisoned for 13 years for crimes he did not commit. Those were justified. Why is Rebecca so crazy? It's not because her parents didn't love her. We're just told she's bipolar and takes medication. That by the way was brought up so remedial as if it was just saying, \"make sure you guys buckle up, don't want a ticket.\" Scene by scene there are attempts to make Rebecca seem more sinister. Instead, I'm screaming, \"GIVE ME MORE!\" and that request is clearly ignored. The climax came out of nowhere and it's build up jumped around like a king on a checkered board. Even so, the acting and reactions of someone trying to harm another person flew out of the window making me rationally clock out of the film. The roommate is barely entertaining and may make you say, \"WOW\" once or twice. The whole time I couldn't think of anything more than, \"If this or this happened, it would've been much more entertaining.\" It's something that we have all seen before but a blessing none of us have to go through. There's a bad taste left in my mouth knowing how entertaining this film could have been if it didn't have the tight collar of a PG-13 rating. Not at all a must see in the least bit. There are plenty of films that surpassed this one in a foot race of the same genre leaving this one in last place. With all that being said, IT'S STILL JUST MY OPINION!!! 5/10 - Brandon Keith Avery",
+         "The college student Sara Matthews (Minka Kelly) travels from Des Moines, Iowa, to Los Angeles to study fashion design. She befriends Tracy Morgan (Aly Michalka) that invites her to a party, where she meets Stephen (Cam Gigandet) and dates him. When Sara returns to her room, she meets her roommate Rebecca Evans (Leighton Meester) and they become friends. Rebecca is a wealthy teenager that becomes obsessed with Sara and soon Tracy notes that something is wrong with Rebecca. But Rebecca threatens Tracy that moves to another house. Rebecca gets rid of anyone that stays between Sara and her, but when Sara finally observes her behavior, she is also threatened by the schizophrenic roommate. \"The Roommate\" is an unoriginal thriller of obsession with a storyline that is a rip-off \"Single White Female\". This teen version has two sexy lead actresses, Minka Kelly and Leighton Meester, and may entertain viewers that are not choosy. My vote is five. Title (Brazil): \"Colega de Quarto\" (\"Roommate\")",
+         "Lacking in suspense, answers, and any enjoyment from its \"horror\" label it's boasting, The Roommate is easily one of the worst thrillers in recent memory. It provides no backstory or any chemistry from the cast, and manages to drag on for ninety-one minutes. When a movie makes you think a ninety-one minute run time is insufferable, wow is it bad. The Roommate's biggest problem is that it is one big tease. It is stamped with a PG-13 rating, when it could've passed for a PG in 1982. There is a shower scene that is incredibly drawn out, and desperately wants to show below the waist and higher than the stomach but can't. It doesn't want to be racy or good. The makeout scenes could very well win the worst sex award as well. The plot is a girl named Sara (Kelly) is starting College and gets a new dorm. Simple enough. She seems normal; tattoo of her deceased sister on her breast (wouldn't be surprised if when she was having sex with someone they screamed out \"Emily\" by accident), wants to learn, make new friends, simple. Much to her surprise, she returns home from the club to find she has a new roommate named Rebecca (Meester) an uneasy adolescent who becomes increasingly fascinated with her roommate. She begins to go through her things and be very overprotective about her. Then Sara discovers why she is the way she is. My one question to the people behind this - why don't we get backstory on Rebecca? Why doesn't the film focus more on her? She is easily the more interesting one, and when we do find out the secret, we assume more backstory will brew. Negatory. None. We are just as clueless as we were. The minor clue towards the end doesn't help matters, and only turns them into a convoluted barrage of questions. There is an animal murder, and like in Drag Me To Hell, it's horrifying. Why do horror movies these days portray an animal in danger or helplessness? Why do even the crazy harm animals? Let alone why is it incorporated in the film? She could've just let the animal loose and things would still play out the same. Nope. We have to witness another dreadful and upsetting animal murder for no apparent reason. No character in this movie is likable either because no one is developed to that point. The main character's parents aren't even mentioned, or called once in the film. But her dead sister and her ex boyfriend get mentions. Plus I can tell right now Minka Kelly, a beautiful woman, is sporting too much of a Jessica Alba/Megan Fox look. Her hair looks darkened and her lipstick looks like a Fox tribute. Her Alba-like face is natural, obviously. I'm pretty sure she is aware of it too. The Roommate is exactly what is wrong with modern day horror movies. There is no contrived suspense or anything to make this even the slightest bit likable. Even Billy Zane who was good in The Final Destination can't make this miserable mess any better. If had an R rating it may have been a little bit more tolerable, but I'm doubtful on that. It is Fatal Attraction mixed with Single White Female, and it creates a disastrous and lame film. Starring: Leighton Meester, Minka Kelly, Cam Gigandet, Billy Zane, and Alyson Michalka. Directed by: Christian E. Christiansen.",
+         "I liked this movie a whole lot better when it was called \"Single White Female\" starring Bridget Fonda and Jennifer Jason Leigh -- however I understand where the creators of this movie wanted to make a slightly-less intense version for the kiddies out there. This movie is humiliatingly bad, though. Sara Matthews (Kelly) gets to college, sets up her stuff and then one of her friends, Tracy (Michalka) steals her away to go to a party. Once there, she runs into Stephen (Gigandet) and instantly starts to fall for him. The next morning, Sara meets her new roommate, Rebecca (Meester). The fixation starts innocently enough and of course, Sara is oblivious to all of it because that's what these kind of movies need: incredibly stupid characters. This movie was actually a hit in the theaters when it came out (yeah, I know $40 million isn't much but it only had a budget of $16 million) and for the life of me, I can't figure out why. I suppose most of the audience was teenagers (12-16) because a lot of the older kids would have laughed at just how silly the 'climax' of this movie came about. Not to mention that everything was given away by the trailer -- the movie's biggest secret actually appeared in the movie's trailer -- a line spoken by Rebecca's mom (Fisher) and an ending that's so anti-climactic and just plain ridiculous you will actually cringe and maybe even yell at your TV. Maybe I'm missing the point, maybe this movie is supposed to scare our kids and teach them about strangers? That's an extreme reach, I know... but I'm lost here as to how this movie even got past the design stage. And don't blame the actors, in the end I know it's all about exposure and a paycheck for them -- hell, I'd act in the lowest budget movie ever just to get my name out there and they did a good job with what they had to work with. Nope, this one lies strictly on the screenwriter (a first timer, Sonny Mallhi). He's done some executive producing (whatever that is) on more intense thrillers (The Strangers, Shutter), so my guess is that he was only in it for a paycheck and fame, as well. I guess the last laugh is at our expense. See more reviews at www.soveryterry.com Final Grade: D-",
+         "First of all watching this movie made me feel a little old because I didn't know a single actor in it! It also made me think back to my college days and how irresponsible some college kids are. Education is a privilege and an honor and they just want to drink and party. Two young actresses named Minka Kelly and Leighton Meester do a fine job as a real \"odd couple\" sort of roommates. Kelly is convincing as Sara the \"nice\" girl. The only problem that I have with her character, no nice way to say this, she is as dense as they come. It should have been obvious to her that Rebecca was cuckoo for coco puffs and she doesn't wake up and realize it until its almost too late. Meester is awesome as Rebecca. She manages the difficult task of making her character frightening but also sympathetic in a way. You realize that shes insane but shes also sad and very lonely. Its so pathetic how she keeps telling Sara \"I just want to be your friend\". Studies have shown that many female psychopaths often hide their true nature behind a facade of kindness and warmth and Meester certainly does that well. I noticed that the one beef people have with this film is that its a rip off of 1992s Single White Female. I agree and I noticed that they even rip off the shower scene in Psycho as well. This movie is entertaining just not very original. I think the best part is the ending, its very hold onto your seat and they pull out all the stops. I also wanted to compliment the director for keeping the blood and gore to a minimum. That makes a better film. In conclusion, I wanted to say that the part where Rebecca kills Cuddles in the oven really made me sad. I saw where she was getting jealous of the cat and I knew Cuddles had used up all of his nine lives!",
+         "I wanted to go see The Roommate....I was hoping it wasn't a typical, predictable movie. The acting was good...I think it was believable for the most and the actors a up and coming so it was nice to see a new set of faces. As for a new plot,I don't think so. It a pretty predictable movie, there is nothing new or fantastic about the movie. However its good for what it is which is a teen-thriller flick. There is definitely more that could have been done and it could have been a little more thrilling...to be honest it wasn't that scary! Its not really a horror....it barely classifies as a Thriller. If you want to go see a teen-thriller/psycho movie, this is a good choice however if youare in the mood for a possible Oscar movie or something to blow you away....this is definitely not for you!"
+      ],
+      "genres": [
+         "Drama",
+         "Horror",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Screen Gems",
+         "Vertigo Entertainment"
+      ],
+      "summaries": [
+         "Fresh from Des Moines, Iowa, Sara Matthews has just landed in Los Angeles as a college freshman studying fashion design. She meets handsome Stephen, party-lover Tracy, and roommate Rebecca. Rebecca is nice, sweet and ready to share everything with Sara. It could be the beginning of a beautiful friendship. But Tracy is convinced that there's something seriously wrong with Rebecca and bad things start happening to everyone close to Sara. If Sara is to have a normal college experience, she's going to have to get to the bottom of what's up with Rebecca and quickly get out of her clutches.",
+         "A girl named Sara has a roomate called Rebecca in her new school she seems like a nice girl nothing strange or wrong with her but when she notices something strange about her, it fells like she is getting obsessive over Sara. At the end she finds out what Sara is up to and how obsessive she really is!",
+         "College student Sara finds that her new roommate Rebecca has an obsession with her, which quickly turns violent."
+      ],
+      "budget": 16000000
+   },
+   "movielensId": 87028,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2011-02-04",
+      "dvdReleaseDate": "2011-05-17",
+      "directors": ["Christian E. Christiansen"],
+      "runtime": 91,
+      "movieId": 87028,
+      "title": "The Roommate",
+      "mpaa": "PG-13",
+      "actors": [
+         "Minka Kelly",
+         "Leighton Meester",
+         "Cam Gigandet",
+         "Aly Michalka",
+         "Matt Lanter",
+         "Danneel Ackles",
+         "Kat Graham",
+         "Shirley Norris",
+         "Nick Bylsma",
+         "Lauren Alfano",
+         "Billy Zane",
+         "Nina Dobrev",
+         "Tomas Arana",
+         "Frances Fisher",
+         "Alex Meraz"
+      ],
+      "imdbMovieId": "1265990",
+      "originalTitle": "The Roommate",
+      "genres": [
+         "Thriller",
+         "Drama",
+         "Horror"
+      ],
+      "youtubeTrailerIds": ["7NX30f8b1Oo"],
+      "plotSummary": "When Sara, a young design student from Iowa, arrives for college in Los Angeles, she is eager to fit in and get to know the big city. Her wealthy roommate, Rebecca, is more than eager to take Sara under her wing and show her the ropes. The two become close, but when Sara begins to branch out and make more friends on campus, Rebecca becomes resentful. Alarmed, Sara moves in with her new boyfriend, causing Rebecca's behavior to take a violent turn.",
+      "tmdbMovieId": 49950,
+      "avgRating": 2.49333,
+      "releaseYear": "2011",
+      "numRatings": 150,
+      "posterPath": "/yvKZBncLbuNd3HX7dcqcepq83qy.jpg"
+   }
+}

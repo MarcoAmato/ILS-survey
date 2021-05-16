@@ -1,0 +1,632 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "riddle",
+            "id": 483
+         },
+         {
+            "name": "treasure",
+            "id": 1454
+         },
+         {
+            "name": "medallion",
+            "id": 1456
+         },
+         {
+            "name": "kenia",
+            "id": 3510
+         },
+         {
+            "name": "alexander the great",
+            "id": 5127
+         },
+         {
+            "name": "pandora's box",
+            "id": 5962
+         },
+         {
+            "name": "chinese mafia",
+            "id": 5964
+         },
+         {
+            "name": "treasure hunt",
+            "id": 6956
+         },
+         {
+            "name": "hong kong",
+            "id": 12354
+         },
+         {
+            "name": "archaeologist",
+            "id": 41586
+         },
+         {
+            "name": "based on video game",
+            "id": 41645
+         },
+         {
+            "name": "archeology ",
+            "id": 184134
+         },
+         {
+            "name": "lara croft",
+            "id": 234258
+         }
+      ],
+      "imdb_id": "tt0325703",
+      "video": false,
+      "title": "Lara Croft Tomb Raider: The Cradle of Life",
+      "recommendations": [
+         1995,
+         1734,
+         1735,
+         834,
+         36648,
+         955,
+         9679,
+         9334,
+         6637,
+         956,
+         2059,
+         1573,
+         564,
+         7131,
+         1979,
+         12437,
+         1571,
+         18823,
+         9480,
+         8698
+      ],
+      "backdrop_path": "/dGGATPdyQaqs0SXmjEtdmbfGw42.jpg",
+      "revenue": 156505388,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 11,
+               "character": "Lara Croft",
+               "gender": 1,
+               "credit_id": "52fe432ac3a36847f803f43f",
+               "name": "Angelina Jolie",
+               "profile_path": "/6tocswK39SrSjZIRDaTpVyPxDz8.jpg",
+               "id": 11701,
+               "order": 0
+            },
+            {
+               "cast_id": 12,
+               "character": "Terry Sheridan",
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f443",
+               "name": "Gerard Butler",
+               "profile_path": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg",
+               "id": 17276,
+               "order": 1
+            },
+            {
+               "cast_id": 14,
+               "character": "Bryce",
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f447",
+               "name": "Noah Taylor",
+               "profile_path": "/dSlH0WA09dVqQhgB7LB5xn8WzD.jpg",
+               "id": 1284,
+               "order": 3
+            },
+            {
+               "cast_id": 15,
+               "character": "Kosa",
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f44b",
+               "name": "Djimon Hounsou",
+               "profile_path": "/y22Pb0XAVqC0l7ukzKKtXzPEuHk.jpg",
+               "id": 938,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "Sean",
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f44f",
+               "name": "Til Schweiger",
+               "profile_path": "/mRQ9URazBbImeV0NxHZsGS3Px7D.jpg",
+               "id": 1844,
+               "order": 5
+            },
+            {
+               "cast_id": 17,
+               "character": "Chen Lo",
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f453",
+               "name": "Simon Yam",
+               "profile_path": "/Apus3dKsGBSRgsQg6N5T41F10at.jpg",
+               "id": 20519,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Nicholas Petraki",
+               "gender": 0,
+               "credit_id": "52fe432ac3a36847f803f457",
+               "name": "Daniel Caltagirone",
+               "profile_path": "/cnuEASgMkryLbTMZVNaGltibGFe.jpg",
+               "id": 19875,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Jimmy Petraki",
+               "gender": 0,
+               "credit_id": "52fe432ac3a36847f803f45b",
+               "name": "Fabiano Martell",
+               "profile_path": "/eHXuNPeFkywQgx9xJLvyzYB1csa.jpg",
+               "id": 20520,
+               "order": 8
+            },
+            {
+               "cast_id": 21,
+               "character": "MI6 Agent Stevens",
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f463",
+               "name": "Robert Cavanah",
+               "profile_path": "/gHuA2uTVZB8prxpzJozwGWli2kI.jpg",
+               "id": 20522,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "MI6 Agent Calloway",
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f467",
+               "name": "Ronan Vibert",
+               "profile_path": "/3mCxRbHuq1aJwrFqLwk3OSdqva9.jpg",
+               "id": 20523,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Hillary",
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f46b",
+               "name": "Chris Barrie",
+               "profile_path": "/Av3xgwZa7D32dCaqAaiiXfH2ot1.jpg",
+               "id": 20511,
+               "order": 12
+            },
+            {
+               "cast_id": 26,
+               "character": "Gus Petraki",
+               "gender": 2,
+               "credit_id": "53806684c3a368737d000235",
+               "name": "Jonny Coyne",
+               "profile_path": "/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg",
+               "id": 1323612,
+               "order": 13
+            },
+            {
+               "cast_id": 27,
+               "character": "Jonathan Reiss",
+               "gender": 2,
+               "credit_id": "56513067c3a368071b009681",
+               "name": "Ciarán Hinds",
+               "profile_path": "/h5n8B12WoY1UAZjzSVEup4vsoBw.jpg",
+               "id": 8785,
+               "order": 14
+            },
+            {
+               "cast_id": 28,
+               "character": "Xien",
+               "gender": 0,
+               "credit_id": "5a721505c3a368608300d955",
+               "name": "Terence Yin",
+               "profile_path": "/tmkFxlLN2fLMj2qrwzicpgW9lhG.jpg",
+               "id": 74196,
+               "order": 15
+            },
+            {
+               "cast_id": 29,
+               "character": "Mr. Monza",
+               "gender": 2,
+               "credit_id": "5a72155c9251417f1f00cc5b",
+               "name": "Richard Ridings",
+               "profile_path": "/zzznosGBL8uEBUwqZHKcKsVZzWe.jpg",
+               "id": 6645,
+               "order": 16
+            },
+            {
+               "cast_id": 31,
+               "character": "Armin Kal",
+               "gender": 0,
+               "credit_id": "5a7215959251417f2800d609",
+               "name": "Robert Atiko",
+               "profile_path": "/vsB9fyzQpAbJ52KKZFUhvoAGB9T.jpg",
+               "id": 1902332,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f405",
+               "name": "Jan de Bont",
+               "profile_path": "/9kPf2LuyLLwCawSGyPIQCX7ighX.jpg",
+               "id": 2209,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f40b",
+               "name": "Dean Georgaris",
+               "profile_path": null,
+               "id": 20516,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f411",
+               "name": "Lawrence Gordon",
+               "profile_path": "/hcjzZT71C7bKzhkgL6TAcEjsmkS.jpg",
+               "id": 1093,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f417",
+               "name": "Lloyd Levin",
+               "profile_path": null,
+               "id": 1993,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f41d",
+               "name": "Alan Silvestri",
+               "profile_path": "/chEsfnDEtRmv1bfOaNAoVEzhCc6.jpg",
+               "id": 37,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f423",
+               "name": "David Tattersall",
+               "profile_path": null,
+               "id": 6800,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f429",
+               "name": "Michael Kahn",
+               "profile_path": "/jb4Y9q1q91VRQJue0VXhU7VcXce.jpg",
+               "id": 493,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432ac3a36847f803f42f",
+               "name": "Kirk M. Petruccelli",
+               "profile_path": null,
+               "id": 10819,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe432ac3a36847f803f435",
+               "name": "Sonja Klaus",
+               "profile_path": null,
+               "id": 20507,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe432ac3a36847f803f43b",
+               "name": "Lindy Hemming",
+               "profile_path": "/8DiTuVH0dysJ6j1psjXE0XQ4BKR.jpg",
+               "id": 10714,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "534d45d90e0a2679d8000050",
+               "name": "Daniel Hubbard",
+               "profile_path": null,
+               "id": 3501,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "534d45fe0e0a2679e3000065",
+               "name": "John Hubbard",
+               "profile_path": null,
+               "id": 1325,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a7215b70e0a265afa00efd3",
+               "name": "James V. Hart",
+               "profile_path": "/uwRqqSLT3qY2tYJET0uDFUbyiHK.jpg",
+               "id": 10295,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a7215cac3a368608d00e1c6",
+               "name": "Steven E. de Souza",
+               "profile_path": "/vdNUgaeJEZy67vhwTeJnftfBRzB.jpg",
+               "id": 1726,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a7216000e0a265afa00f052",
+               "name": "Jeremy Heath-Smith",
+               "profile_path": null,
+               "id": 991272,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a72161a9251417f2800d6e0",
+               "name": "Philip Lee",
+               "profile_path": null,
+               "id": 1348,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a7216439251417f1600da06",
+               "name": "David Tattersall",
+               "profile_path": null,
+               "id": 6800,
+               "department": "Crew",
+               "job": "Cinematography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 18.4054,
+      "production_countries": [
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 1996,
+      "vote_count": 1759,
+      "budget": 95000000,
+      "overview": "Lara Croft ventures to an underwater temple in search of the mythological Pandora's Box but, after securing it, it is promptly stolen by the villainous leader of a Chinese crime syndicate. Lara must recover the box before the syndicate's evil mastermind uses it to construct a weapon of catastrophic capabilities.",
+      "similar": [
+         85,
+         6637,
+         2059,
+         217,
+         1995,
+         87,
+         89,
+         9326,
+         9838,
+         10303,
+         9710,
+         17578,
+         256274,
+         9462,
+         14208,
+         5718,
+         389272,
+         6646,
+         12715,
+         5636
+      ],
+      "original_title": "Lara Croft Tomb Raider: The Cradle of Life",
+      "runtime": 117,
+      "poster_path": "/pkSnQzjjQ3Z9B2CJVSZCfL0Ea3s.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "普通话",
+            "iso_639_1": "zh"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "id": 4,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Mutual Film Company",
+            "id": 762,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/16fY7pucCzn7WSOYxOGRHlAayL3.png",
+            "name": "British Broadcasting Corporation (BBC)",
+            "id": 3324,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "Lawrence Gordon Productions",
+            "id": 840,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/7RdbaZqDLb4q2PdtMZx0SIrAyDt.png",
+            "name": "Eidos Interactive",
+            "id": 19105,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "Toho-Towa",
+            "id": 657,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "October Pictures",
+            "id": 14362,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2003-07-21",
+      "vote_average": 5.6,
+      "belongs_to_collection": {
+         "backdrop_path": "/plM0vErSrAwT3tJldstB9bv2AyN.jpg",
+         "name": "Tomb Raider Collection",
+         "id": 2467,
+         "poster_path": "/sgaP4WtVlKzz8FIcjbkevOycJiq.jpg"
+      },
+      "tagline": "Adventuress Lara Croft goes on a quest to save the mythical Pandora's Box",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jan de Bont"],
+      "runtime": 117,
+      "synopsis": "The film begins on Santorini island, Greece, during a wedding when it is interrupted by an earthquake. The earthquake uncovers the Luna Temple, built by Alexander the Great to house his most prized treasures. Among these treasures is a glowing orb with a pattern resembling a code etched into it. Lara finds this orb, as well as a strange medallion; but both are stolen by the crime lord Chen Lo (Simon Yam). Lara (Angelina Jolie) only just manages to escape as a subsequent earthquake causes the Luna Temple to collapse, while her two companions are killed by Chen's men. Lara is tasked by MI6 to find Pandora's Box, an object from ancient legends that supposedly contains a deadly plague, before Nobel Prize-winning scientist turned bio-terrorist Jonathan Reiss (Ciarán Hinds) can get his hands on it. The key to finding the box, which is hidden in the mysterious Cradle of Life, is a magical luminous sphere that serves as a map, the one stolen by Chen Lo in Santorini, who plans to sell the sphere to Reiss. To help her track down Chen Lo and the ball, Lara recruits an old lover, Terry Sheridan (Gerard Butler), a former mercenary and Royal Marine, who was in prison in the Republic of Kazakhstan. Among the action sequences that take place during this time are Lara and Terry's entry into China, a fight scene in suburban Shanghai, and a leap off the then-under-construction International Finance Centre skyscraper in Hong Kong, using special winged flight-suits that Terry had arranged for, landing on a ship out in the Kowloon Bay after taking the Orb from Reiss. It is revealed that the medallion Lara also recovered from Chen Lo shows how to unlock the information in the Orb; a certain arrangement of musical sounds. Meanwhile, Lara and Terry begin to fall in love again; but Lara starts to back away from him knowing that she could easily kill him if he betrays her. She seduces him one morning, then leaves him handcuffed to a bedpost, saying \"I'm not leaving because I can't kill you; I'm leaving because I could.\" Lara finds her way to a floating houseboat where a Chinese family is watching SpongeBob SquarePants when Lara asks to use their satellite to communicate with Bryce (Noah Taylor). After some technical difficulties, Bryce sends Lara the file and she uses the sounds make the The Orb reveal the location of the Cradle of Life, which is revealed to be somewhere near Mount Kilimanjaro in Tanzania, thanks to an ancient hologram produced by the Orb. Lara sends this info to Bryce back at Croft Manor. After the transmission, it is revealed that Reiss and his men had infiltrated Croft Manor and captured Bryce and James \"Hilly\" Hillary (Chris Barrie). Lara meets up with Kosa (Djimon Hounsou), an African friend who serves as her translator as they obtain the information from a local tribe about the Cradle of Life. Kosa translates for the tribe's chieftain stating that the Cradle of Life is in a crater protected by the \"Shadow Guardians\" (humanoid creatures which kill immediately when they sense a movement and vanish into wet patches on dead trees). As the expedition sets out, Lara, Kosa, and the tribesmen with them are ambushed by Reiss' soldiers. More tribesmen are killed by Reiss' soldiers with some of the soldiers being killed by Lara in the fight. The fight ends with Lara surrendering to overwhelming odds as Reiss' helicopter started to land. Reiss and Sean (Til Schweiger) threaten to kill Bryce, Hillary, and Kosa unless Lara leads him and his soldiers to the Cradle of Life. Upon arrival at the crater, they encounter the Shadow Guardians with the wet patching on the dead trees being the blood of their victims. Sean and most of Reiss' soldiers are killed by the creatures. When Lara drops the Orb into the hole that opens the entrance to the Cradle of Life, the Shadow Guardians fall to pieces and both Lara and Reiss are drawn into the Cradle of Life, a labyrinthine cavern made of some strange crystalline substance, racked by bolts of energy where \"'sky and earth are one, direction meaningless.\" Inside there is a pool of highly corrosive black acid (linking back to one of the myths about Pandora's Box) which holds the box and where the laws of physics do not apply, as Lara and Reiss are able to walk (upside down) along the ceiling of the cave. Terry arrives, frees Reiss' captives, and catches up to Lara. Following a climactic fistfight between Lara and Reiss, Reiss is knocked into the acid pool by Lara after he is distracted by Terry, killing and dissolving him. When the couple tries to leave, Terry attempts to take the box as compensation for finding it. But Lara staunchly refuses to let him, knowing the danger if the box were ever open. Despite her love for him, this results in Lara being forced to fatally shoot him in self-defense just after Terry draws his own gun preparing to shoot Lara. Lara is tempted to open the box herself, but realizes that some artifacts are not meant to be found. Placing the box back in the acid pool, she leaves, giving the medallion to the chieftain. Lara and Kosa leave the village along with Bryce and Hillary (who were unknowingly being prepared for a tribal wedding ceremony). The film ends with Lara driving the jeep away from the setting sun.",
+      "writers": [
+         "Dean Georgaris",
+         "Steven E. de Souza"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0325703/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI0NzI3MTU5OF5BMl5BanBnXkFtZTYwODU2Nzk5._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Angelina Jolie, Gerard Butler, Chris Barrie | See full cast and crew »"],
+      "reviews": [
+         "Angelina Jolie returns as a distaff Indiana Jones in \"Lara Croft Tomb Raider: Cradle of Life,\" an action/adventure film (based on a video game character) that is just goofy enough and inane enough to be almost entertaining. In this follow-up adventure - which is designed to give historians and social studies teachers a severe case of the heebie-jeebies - Lara, the world-famous archaeologist and adventurist, finds evidence that the mythical Pandora's Box is really no myth at all, but rather an actual object loaded with enough plague and pestilence to wipe the entire human race off the face of the planet. It lies buried somewhere, hidden by Alexander the Great in the 4th Century B.C. when he discovered how virulent and deadly the contents of the box really were. Now, twenty-four centuries later, Lara has to try and prevent an evil billionaire capitalist from locating the container, prying open the lid, and bringing an end to civilization as we know it. Though the storyline is clearly not one to be conjured with, all that really matters in a movie such as this one is that the action move quickly and the stunts be sufficiently enterprising to engage the audience. Credibility is the last prerequisite in a Lara Croft adventure, as evidenced by the fact that if Lara isn't parachuting smack dab onto the deck of a ship or into the passenger seat of a moving jeep, she's hitching a ride on the back of a great white shark and riding it to safety. Ah well, it's all in good fun, I suppose, and Jolie not only looks stunning in all the outfits she's been given to wear, but seems to be having a fine time playing along with the joke. The ending is inevitably anticlimactic, but viewers can have a pretty good time getting there at least.",
+         "Although Cradle of Life won't go down in movie history as an all-time classic, I am mystified at why so many critics and moviegoers hated it. In my opinion, this movie is much better than the first Tomb Raider film. The first film was entertaining, make no mistake, but it still had too much of a comic book feel and 'Angelina Jolie' (qv) had not yet gotten a firm grasp of the Lara Croft role. In Cradle of Life, both Lara and Jolie show newfound maturation, and this makes her (both actress and fictional character) much more interesting to watch. Heck, even Jolie's faux British accent is more convincing the second time around. I was one of the many who protested when she was cast in the role; the first film left be unconvinced, but she finally won me over in her second outing. The story is also more interesting in the second film, with the whole Pandora's Box angle being something more worthy of Tomb Raider than the tired old \"conspiracy out to take over the world\" plot of the first film. There are some aspects of the second film that I didn't care for as much. Lara, for one thing, is far more deadlier this second time around and at one point seriously considers gunning down a man in cold blood. This type of behavior is more fitting for James Bond than Lady Lara Croft. But once I got used to the idea of Lara Croft 007, I didn't mind it so much. (Indeed, if Hollywood ever follows through with it's long-threatened female Bond film, they could do far worse than get Angelina Jolie for the role of Jane(?) Bond.) What appealed to me in Cradle of Life is how familiar Lara, her background, and her supporting characters have become with only one previous film under their belts. No time is spent explaining who she is and why she lives in such a huge mansion (which sadly appears only briefly). This level of familiarity, of character comfort, is something I've only ever seen once before -- in the Bond series. Cradle of Life also features some most impressive set pieces that may not necessarily advance the story, but are great to watch, such as a zoom in from outer space on Lara riding a motorcycle, an incredible zoom-in shot THROUGH the window of Croft Manor, and a great scene of Lara shooting at targets while riding a horse -- sidesaddle! Sadly, the critical and box office failure of Cradle of Life probably guarantees no further entries in the series, and even if it does continue, Jolie looks ready to follow Audrey Hepburn's lead and put acting on the back burner in favor of humanitarian work so the role will probably go to another (possibly less talented) actress. If this turns out to be the case, I believe the Lara Croft series looks set to be remembered as fondly as the Derek Flint films of the 1960s. Anyone who has been scared away by the bad reviews could do worse than to rent a copy from their local video store and check it out. You might be surprised at how much fun the movie is.",
+         "Lara Croft Tomb Raider: The Cradle of Life is an improvement over the original as it delivers more action and adventure. Archaeologist and explorer extraordinaire, Lara Croft, journeys to a temple which has sunken underwater in search of lost treasures. During her expedition, Croft happens upon a sphere that contains the mythical Pandora's Box, only to have it stolen from her by Chen Lo, the leader of a Chinese crime syndicate. Chen Lo is in league with a bad guy named Reiss, who wants to use the priceless Box as a doomsday weapon. The plot sounds okay but the main reason someone would see this film is for the action scenes and Angelina Jolie. People just wanting those two things will probably enjoy this film. People that want a good story and better direction should skip this film. The action scenes are really cool and are done well. However, the story is weak and the film doesn't quite make sense at times either. I think the person that should be blamed is Jan de Bont. He is a terrible director and can't build up suspense very well. He did a bit better then Simon West but still the studio should have hired someone else. The acting is good not great but nothing horrible either. Angelina Jolie does a good job of playing Lara Croft and she is also very breathtaking in the film. Gerard Butler does a good job as well though sometimes his performance wasn't very interesting. The action scenes are really cool and are done well. Another problem I had with this film is that it gets boring at times. Having a lot of action doesn't mean its audience will be entertained. The movie's running time is 117 minutes which is a bit longer then the original. I think they could have cut the film down to about the same length as there some pointless scenes. If you hated the original then you should skip this film as the film is more of the same but it is more entertaining. As long as you don't try to notice too many of the mistakes in the film then you should enjoy it. If your looking for a serious action flick then just skip this. Rating 6.8/10",
+         "The second film was better than the first one in the sense that it relates to stories that are more accurate to the video games. However the fantasy used to create the stories of the video games does not suit very well hollywood movies. Successful video game stories turn out to be cheesie on the movies and a movie stories of video game characters are too far away from the original. Who won on this movie? Tomb Raider fans happened to see their fantastic character finally materialized in a Hollywood star which matches most of the characteristics described in the original Lara Croft. Now the Tomb Raider video games are well known by the name of Angelina Jolie. Jolie's fans win because they have another opportunity to see her dressing outfits that remark her green eyes and very long black hair. Outfits that she would very rarely dress ever again, but that will certainly add more points to her sexy image. I saw the movie because I fell in love with the character materialized in Angelina Jolie. After seeing this film I ended up becoming a little fan of both: Lara Croft & Angelina Jolie. Something that I couldn't feel on the first film. Some things that I believe are valuable to appreciate from this movie are: Jolie's professionalism to play scenes that are normally executed by stunts: Lara shooting from the horse, All martial arts fighting scenes, Playing those jetsky tricks, or doing the shooting when coming down from that rope, and when being elevated by the shark. All in all I think this film increased Jolie's sexy image in that unforgettable silver suit.",
+         "With tongue firmly in cheek, the story of this film is a series of preposterous events, but what are we to expect of a game made into a movie? Angelina Jolie is Lady Lara Croft, and is stunning in her skin tight gray diving suit. Ciaran Hinds (Phantom Of The Opera) is the villain, a scientist bent on getting his hands on the Pandora's box containing the essence of all evil, in order to rule the world. Lara is having none of that, and enlists her former partner Terry Sheridan (Gerard Butler - The Phantom) to help find it and keep it away from evil doers. There are some wonderful set pieces throughout the film as with the underwater temple; Lara arriving at the boat to start the expedition on a jet ski (wowser!); the shark to the rescue (huh?); the sub to the rescue (double huh?). More: at the Croft mansion the kung fu; the sidesaddle horse riding while shooting at targets (wow!); at the prison getting Terry released - her in her white fur amid all that filth; Terry doing pull ups dripping sweat; Terry looking down from his bars saying \"Croft\" in just the right way to let us know this is one dangerous hombre. And his devastating comment to Lara \"I AM Charming\" and isn't he just? The motorcycle race between Lara and Terry across the great wall in China was fun. Him telling her \"don't look at my ass\" as they climb a hill was cute and funny. The famous sex scene is so reversed - she is the one in charge and he ends up her prey and victim - is one for the books. Nice eye candy for all of us out here in the real world. That's the good stuff. There are some strange choices made by the director (or whoever?) A wedding celebration on the edge of a precipice to show the quake at the beginning? Lots of money for what purpose - didn't add anything for me. The upside-down gunfight as Lara and Terry escape once again. Sorry, the thrill is gone and it bombed. Simon Chow is good and in his Hong Kong films a real menace - but here was wasted. Croft running up the car shooting - a la Chow Yun Fat in some of his 1980's films - is blatant 'borrowing.' All the shooting out of glass in the office building - a la \"Die Hard\" - been there done that. AND!!! What is with the Shadow Guardians in the last fourth of film. We go from sort of realism filtered through game playing mentality into science fiction. Blech! Lame! Cinematography is gorgeous and some of the sound track music is fine. Overall a more good than bad - 7/10",
+         "Let's face it, the James Bond franchise has become rather limp lately. \"The World Is Not Enough\" was a debacle of miscasting and an an endless parade of meaningless subplots and tertiary characters. \"Die Another Day\" suffered from much of the same, but was also saddled with an inexplicable amount of stereo feedback and one of the oddest (if catchiest) theme songs in recent memory. The series has been re-energized with the new entry \"The Cradle Of Life,\" a high-spirited, far-reaching film that doesn't quite succeed but is such an improvement on the originals that you're ready to overlook all that. Actually, this is a review of \"Lara Croft Tomb Raider: The Cradle Of Life\", the sequel to 2001's abysmally dull video-game-based film \"Tomb Raider.\" Angelina Jolie is back as sexy, gun-toting archeologist Lara Croft, and at first glance, it's easy to mistake her for Bond, Jane Bond. Lara is a British citizen of refined taste, highly competent in various forms of weaponry, travels around the globe to exotic locations, has friends (and lovers) in virtually every port, uses a wide variety of nifty gadgets, has an amusing yet dry form of wit, looks fabulous, and routinely saves the world from a madman bent on global domination. She's a better 007 than Timothy Dalton in any case. The film begins with Lara diving into a sunken temple off the coast of Greece. While there, she is attacked by Chinese mercenaries, her support crew killed and left for dead, the mercenaries making off with a mysterious glowing orb. Seems that mad scientist Jonathan Reiss (Ciaran Hinds) is looking for Pandora's Box, and the orb is the key to finding it. Lara is appointed by MI:6 with stopping Reiss because opening the box would unleash an amazingly nasty plague upon the world. Besides her support staff of Hillary (Chris Barrie) and computer expert Bryce (Noah Taylor), Lara joins forces with ex-lover Terry Sheridan (Gerard Butler), a shifty mercenary and the only person who knows how to get to the mercenaries who stole the orb in the first place. And of course, time is running out. Jolie is excellent as Lara Croft, and there probably isn't an actress around who would be better cast in the role. Jolie has the physicality, the look, the voice, and the attitude to pull off the role effortlessly. She was the only redeeming factor in the first film, and she's great to watch here. The supporting cast is a mixed bag. Hinds refrains from chewing up too much of the scenery, but he brings to mind some of the more notable Bond villains of recent times. Butler is great to look at, but his performance is far too low-key and deadpan for a movie as bombastic as this one wants to be, especially when he's paired with Jolie, who enters each seen with a relishing look in her eyes. Taylor again acts as a dry kind of comic relief, and he displays far more chemistry with Jolie than Butler does. One of the biggest improvements in this film is the director. Replacing Simon West (responsible for the monotonous \"Con Air\") is Jan de Bont (\"Speed\"), a much more competent director even if some of his films are only barley entertaining (\"The Haunting\"). de Bont has a knack for action on a small scale, most vividly in a gun-fight staged in a laboratory/office, but his large scale pieces, like Lara body-gliding off of one of Hong Kong's tallest buildings, lack drama. Still, de Bont has chosen good locations and sets for the film, and there is a blessedly welcome lack of the \"Matrix\"-style visuals and candy-colored bombast so popular in action films of recent memory. He is nothing if not up to task. The film operates well within its own set of rules and physics, unlike many other films that tend to sacrifice internal logic for cheap stunts. As much of an improvement on the first film as this is, there are still flaws. The script, while improving ten-fold on the original, still falls flat on several occasions, sometimes held up only by Jolie's confident line readings. At almost two hours, the film displays a desperate need for tighter scenes and a quicker pace while simultaneously leaving some scenes cut too quickly. The movie can be very easily divided into stages, which may hold true to the spirit of the video game's levels, but often leaves the audience doing nothing more than predicting when the DVD chapter cuts will occur in six months. Also, like the James Bond films, there is rarely any doubt that Lara will escape any dire situation she finds herself in. Like 007, we always know the hero will prevail in the end, which robs some scenes of the tension needed to excite the audience. Despite some of these flaws, \"The Cradle Of Life\" is a fine movie and a good way to spend 2 hours on a summer afternoon. Jolie obviously enjoys the role, and if nothing else, the film is worth it for that alone. Here's hoping the third entry into the series is even better than the this one. 7 out of 10.",
+         "I have to say this was overall a great movie. The main reason I think this might be because of my love to video-games, and I loved Resident Evil and the first Tomb Raider movie too. I wasn't really a fan when I saw the first movie, I'd never played a Tomb Raider game before, but I decided to give it a go as it looked really cool. I went to the cinema to watch it and after that time I'm a big Tomb Raider fan. The movie was great, in my opinion. So I looked forward to play the games and wait for a sequel. And here the sequel is. Lived up to most of my expectations. I've already watched it twice on the cinema in one week, and I still love it. The first \"action\" scene was a good start of the movie. The Luna Temple collapsing and having bad guys shooting at you at the same time, was interesting to see. And it didn't take long before next actionscene, which never made this movie any boring. I loved the humor and stunts too. There are many funny moments and stunts I remember well. Angeline is perfect as Lara Croft and I really hope they will make a Tomb Raider 3. If I am to complain about something, it has to be about several things not being explained enough. The meeting in the plane in the beginning of the movie still leaves me with two questions. And some better character developments wouldn't have hurt. 9/10",
+         "This is a breezy, fun movie. Angelina Jolie is perfect in this repeat role. I never saw the first movie. As a result of the first film and recent entertainment, similar lead female action movies are in the works. Halle Berry's character, Jinx, from Die Another Day and Jennifer Garner's Electra from Daredevil are two possibilities. This follows the Hollywood trend of copying, rather than creating anew. The male characters support Angelina well, in what she has to do, but serve as eye candy too. I love her outfits! The movie is very much modeled on James Bond movies: exotic, multiple villains; electronic gadgets; multiple modes of transportation and locales; multiple shoot-outs and explosions; witty dialog (at times); and topical plot developments. I'll admit I only saw this movie because the other two on the bill were worse choices in my book: Bad Boys 2 and American Wedding. The whole \"cradle of life\" thing was intriguing at first, but became very lame and out of place in this movie for me. It's always a big mistake for action fare, particularly similar to this movie, to try to send a message or say something profound. However, this movie had just the right combination of action, plot, colorful characters, brains & beauty (courtesy of Ms. Jolie). Girl power rules! *** of 4 stars.",
+         "ANGELINA JOLIE makes the most of showing her prowess at performing stunts that any male would envy, but the showcase for her physical skills is hardly worthy of her presence. The script is as shallow as the video game it is based on and no one has much of a chance to give any depth to their characters. As a result, even her co-star, hunky Gerard Butler with his Scottish accent, has trouble registering more than a \"go through the motions\" kind of performance. The chemistry between him and Jolie can only be described as \"icy\". Not to worry. He later steamed up the screen two years later with his Phantom role and a scorching \"Point of No Return\" sequence that had his female fans gasping for breath. Here, I have to report, he is sadly wasted, except for a couple of daring stunts that he and Jolie perform well together. Ciarin Hinds, as the villain, later joined Butler for PHANTOM OF THE OPERA. He would have been more convincing here with the mustache he assumed for his Phantom character. Something is missing in his evil portrait. He just doesn't seem comfortable in the role. Things keep moving, stunts every few minutes, explosions, gunfire, jumping off tall buildings, dazzling neon explosions, all accompanied by Alan Silvestri's booming soundtrack music. But in the end, all we have left with is a stuntathon sort of thing that is pointless in tracing the story of the search for Pandora's Box and the quest for an orb. It's cliffhanger stuff for the mindless and that's about all. Not worth two hours of viewing time and the ending is rather lame.",
+         "I thought the movie was nicely paced, and the action was, to say the least, pretty darn good. Granted, the story line could have been \"fished\" out a bit, Ms. Jolie's action made up for that short fall. Being a huge fan of Mr. Chris Barrie, it was nice to see the character of Hillary have more to do than just clean up after the mansion gets raided. Let's hope the next installment has the same action, fast paced locations and even more realism in the storyline. All in all, The Cradle of Life hits almost all the right notes. Ms. Jolie has done some fine work here."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Fantasy",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Paramount Pictures",
+         "Mutual Film Company",
+         "British Broadcasting Corporation (BBC)"
+      ],
+      "summaries": [
+         "Intrepid British archaeologist Lara Croft has made perhaps the most important archaeological discovery in history: an orb that leads to the mythical Pandora's Box. Unfortunately, the orb falls into the hands of Jonathan Reiss, an evil scientist who deals in killer viruses and hopes to sell the secrets of the box as the ultimate weapon. Recruited by British Intelligence to get the orb back from Reiss, Lara recruits Terry Sheridan, a British marine turned mercenary (and her former love interest) to help. The two embark on an adventure that spans continents in an attempt to regain the orb...",
+         "Adventuress Lara Croft goes on a quest to save the mythical Pandora's Box before an evil scientist and recruits a former Marine turned mercenary to assist her."
+      ],
+      "budget": 95000000
+   },
+   "movielensId": 6564,
+   "movielens": {
+      "languages": [
+         "English",
+         "普通话"
+      ],
+      "releaseDate": "2003-07-21",
+      "dvdReleaseDate": "2003-11-18",
+      "directors": ["Jan de Bont"],
+      "runtime": 117,
+      "movieId": 6564,
+      "title": "Lara Croft Tomb Raider: The Cradle of Life",
+      "mpaa": "PG-13",
+      "actors": [
+         "Angelina Jolie",
+         "Gerard Butler",
+         "Noah Taylor",
+         "Djimon Hounsou",
+         "Til Schweiger",
+         "Simon Yam",
+         "Daniel Caltagirone",
+         "Fabiano Martell",
+         "Robert Cavanah",
+         "Ronan Vibert",
+         "Chris Barrie",
+         "Jonny Coyne",
+         "Ciarán Hinds",
+         "Terence Yin",
+         "Richard Ridings",
+         "Robert Atiko"
+      ],
+      "imdbMovieId": "0325703",
+      "originalTitle": "Lara Croft Tomb Raider: The Cradle of Life",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Fantasy",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "q5VugO68swI",
+         "G4bhBabn-wU"
+      ],
+      "plotSummary": "Lara Croft ventures to an underwater temple in search of the mythological Pandora's Box but, after securing it, it is promptly stolen by the villainous leader of a Chinese crime syndicate. Lara must recover the box before the syndicate's evil mastermind uses it to construct a weapon of catastrophic capabilities.",
+      "tmdbMovieId": 1996,
+      "avgRating": 2.74973,
+      "releaseYear": "2003",
+      "numRatings": 4571,
+      "posterPath": "/pkSnQzjjQ3Z9B2CJVSZCfL0Ea3s.jpg"
+   }
+}

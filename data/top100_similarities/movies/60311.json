@@ -1,0 +1,460 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "pirate",
+            "id": 12988
+         },
+         {
+            "name": "swashbuckler",
+            "id": 157186
+         }
+      ],
+      "imdb_id": "tt0034522",
+      "video": false,
+      "title": "The Black Swan",
+      "recommendations": [
+         58902,
+         16410,
+         43355,
+         43780,
+         24965,
+         23924,
+         22994,
+         42264,
+         18783,
+         23051,
+         55207,
+         43239,
+         86777,
+         44559,
+         15310,
+         47555,
+         43044,
+         42257,
+         28023,
+         36851
+      ],
+      "backdrop_path": "/uMKJf8wqCqyu4Vb7gscM2qU5V4v.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Jamie Waring",
+               "gender": 2,
+               "credit_id": "52fe4600c3a368484e07b401",
+               "name": "Tyrone Power",
+               "profile_path": "/zHKNyYKkWIQBwhqxCMNBns1eoXR.jpg",
+               "id": 10922,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Margaret Denby",
+               "gender": 1,
+               "credit_id": "52fe4600c3a368484e07b405",
+               "name": "Maureen O'Hara",
+               "profile_path": "/pUcGzm9o8HnKQU1MGA6fVnOxt0W.jpg",
+               "id": 70035,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Capt. Henry Morgan",
+               "gender": 2,
+               "credit_id": "52fe4600c3a368484e07b415",
+               "name": "Laird Cregar",
+               "profile_path": "/v1aglhDUXZKKINNbd62JM6n7iwz.jpg",
+               "id": 80726,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Tommy Blue",
+               "gender": 2,
+               "credit_id": "52fe4600c3a368484e07b419",
+               "name": "Thomas Mitchell",
+               "profile_path": "/1Tiiouk77NtxSmdknoN4ny5kT9j.jpg",
+               "id": 3383,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Capt. Billy Leech",
+               "gender": 2,
+               "credit_id": "52fe4600c3a368484e07b41d",
+               "name": "George Sanders",
+               "profile_path": "/6fvK8vUTgSMRvuw77PjjuIOMl6.jpg",
+               "id": 3361,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Wogan",
+               "gender": 2,
+               "credit_id": "52fe4600c3a368484e07b421",
+               "name": "Anthony Quinn",
+               "profile_path": "/9sKpm4KCoUbmMbR86fpqcgBCHrJ.jpg",
+               "id": 5401,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Lord Denby",
+               "gender": 2,
+               "credit_id": "52fe4600c3a368484e07b425",
+               "name": "George Zucco",
+               "profile_path": "/hduZG2CH9UeGuBamxnohkd3DEVg.jpg",
+               "id": 30417,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "Margaret's Servant (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe4600c3a368484e07b429",
+               "name": "Clarence Muse",
+               "profile_path": "/2An9XGreUaKKT7lNw2qEmx7NKPt.jpg",
+               "id": 87825,
+               "order": 7
+            },
+            {
+               "cast_id": 25,
+               "character": "Woman",
+               "gender": 1,
+               "credit_id": "54ad87b7c3a3680cac0000c6",
+               "name": "Helene Costello",
+               "profile_path": null,
+               "id": 1047595,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4600c3a368484e07b40b",
+               "name": "Henry King",
+               "profile_path": "/3gG3Ctgcttq6632GIeCqBTsv8nB.jpg",
+               "id": 37362,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4600c3a368484e07b411",
+               "name": "Ben Hecht",
+               "profile_path": "/is5faYjaFObagG3b8xgwocMkUcX.jpg",
+               "id": 4341,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4600c3a368484e07b42f",
+               "name": "Seton I. Miller",
+               "profile_path": null,
+               "id": 67428,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544cd5fbc3a36872d800214a",
+               "name": "Rafael Sabatini",
+               "profile_path": null,
+               "id": 134865,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544cd6130e0a2608c5001f8e",
+               "name": "Darryl F. Zanuck",
+               "profile_path": "/pfl8oR2otTYihADFtjLkrtKoFrM.jpg",
+               "id": 8502,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544cd62b0e0a2608c800208c",
+               "name": "Robert Bassler",
+               "profile_path": null,
+               "id": 19395,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544cd64d0e0a2608c200202f",
+               "name": "Leon Shamroy",
+               "profile_path": null,
+               "id": 13270,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "544cd65e0e0a2608be00205a",
+               "name": "Barbara McLean",
+               "profile_path": "/18NdkfiYOB1aSCaWLZZFc2zofub.jpg",
+               "id": 10603,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544cd66d0e0a2608c2002033",
+               "name": "James Basevi",
+               "profile_path": null,
+               "id": 2763,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544cd67dc3a36872b8001fa9",
+               "name": "Richard Day",
+               "profile_path": "/vzJieFC4Dk7VnKUMIXguf0jNbbf.jpg",
+               "id": 8506,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544cd68d0e0a2608d4001f1b",
+               "name": "Thomas Little",
+               "profile_path": null,
+               "id": 8508,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544cd69fc3a36872e0002156",
+               "name": "Earl Luick",
+               "profile_path": null,
+               "id": 14650,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544cd6b1c3a36872e000215b",
+               "name": "Guy Pearce",
+               "profile_path": null,
+               "id": 1377159,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572654fac3a368305a0055d6",
+               "name": "Alfred Newman",
+               "profile_path": "/498k6KmplSJPvWzAecS7eUnaBNg.jpg",
+               "id": 8503,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "584028ad9251417f8900a3a1",
+               "name": "Seton I. Miller",
+               "profile_path": null,
+               "id": 67428,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58402a51c3a36862d900a098",
+               "name": "Natalie Kalmus",
+               "profile_path": null,
+               "id": 1361978,
+               "department": "Camera",
+               "job": "Other"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58402a81c3a36862e400a547",
+               "name": "Henri Jaffa",
+               "profile_path": null,
+               "id": 1716722,
+               "department": "Camera",
+               "job": "Other"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58402b47c3a36862eb00bd0e",
+               "name": "George Leverett",
+               "profile_path": null,
+               "id": 8512,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58402b729251417f7400a82d",
+               "name": "Roger Heman Sr.",
+               "profile_path": null,
+               "id": 8511,
+               "department": "Sound",
+               "job": "Sound"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 3.169454,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 29882,
+      "vote_count": 20,
+      "budget": 0,
+      "overview": "When notorious pirate Henry Morgan is made governor of Jamaica, he enlists the help of some of his former partners in ridding the Caribbean of Buccaneers. When one of them apparently abducts the previous governor's pretty daughter and joins up with the rebels, things are set for a fight.",
+      "similar": [
+         22,
+         166426,
+         58,
+         1865,
+         285,
+         26612,
+         9016,
+         71805,
+         10693,
+         109424,
+         9340,
+         810,
+         2493,
+         10191,
+         9313,
+         2270,
+         1572,
+         72197,
+         254,
+         107846
+      ],
+      "original_title": "The Black Swan",
+      "runtime": 87,
+      "poster_path": "/1AkLDnyBybBetgDWcLAFFQA2zw5.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+         "name": "20th Century Fox",
+         "id": 25,
+         "origin_country": "US"
+      }],
+      "release_date": "1942-12-04",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "Seas Ablaze...with black villainy, with fiery romance, with breathless deeds of daring...in the roaring era of Love, Gold and Adventure!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Henry King"],
+      "runtime": 87,
+      "synopsis": null,
+      "writers": [
+         "Ben Hecht",
+         "Seton I. Miller"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0034522/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ1ODM0NTM2NF5BMl5BanBnXkFtZTgwMTI0MjczMjE@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Tyrone Power, Maureen O'Hara, Laird Cregar | See full cast and crew »"],
+      "reviews": [
+         "In this stunning Technicolor swashbuckler, the Crown pardons the greatest of the buccaneers Henry Morgan (Laird Cregar), and appoints him governor of Jamaica in the place of corrupt Lord Denby (George Zucco). Morgan asks that all pirate activities in the area be ended... When Captain Billy Leech (George Sanders)and his crew refuse the amnesty offered by Morgan, Henry Morgan calls upon Jamie and his pal, Tommy Blue (Thomas Mitchel), to bring the renegade Leech... Jamie, meanwhile, set his eyes on Denby's fiery daughter, Margaret (Maureen O'Hara), but all of his advances are rejected... He has been unable to win her away from her fiancé, a foppish gentleman, who, Jamie discover, is conspiring with Leech and supplying the captain with information about English treasure ship sailings... Angered by the continuing loss of ships, the government accuses Morgan of being in collusion with Leech, and the Assembly demands his impeachment... To get his friend off the hook, Jamie decides to take action and track down the 'Black Swan' at sea... Unlike Olivia De Havilland, Maureen O'Hara demonstrates that she was not that kind of heroine who would be satisfied to remain ladylike on the sidelines... If her romantic scenes still lacked passionate conviction, her hot-tempered, liberated nature and her beauty were more than sufficient compensation for most of the viewers... \"The Black Swan\" garnered several Oscar nominations, in addition to Leon Shamroy's award for cinematography... The film remains as a classic adventure spectacle with magnificent settings: 17-century costumes; pirates ships in battle on the high seas; pirates armory including cutlass, swords, pistols, daggers; dazzling swordplay; lusty romance; conspiracy in silence; treasure hunt; spectacular special effects, and exciting action scenes all the way...",
+         "Tyrone Power was undoubtedly the most stylish and certainly the most handsome and articulate of the great Hollywood swashbuckers from the 30s to the late 50s. In this movie he coyld not have been bettered (Flynn and Douglas Fairbanks Jr. included), The starry cast,music,costumes and settings brought vividly to life the Spanish Main,Maracaibo and other Pirate ports of call.With a great family theatrical tradition behind him,Power's presence enriched every movie he made (what a twist of fate that he died exactly as his father Tyrone Power Sr.did,filming a duel scene -\"Hamlet\" and \"Solomon and Sheba). I believe that Power's acting ability even today is not fully recognised,simply because the Studio System restricted his choice of film.Let anyone hear Power recite the poems of Byron (available on disc) and realise his premature death was a tragedy.\"THE BLACK SWAN\" could be said to represent a golden period in the history of Hollywood swashbucklers.",
+         "This movie is so wonderful. I remember seeing it for the first time when I was around six years of age, and Tyrone Power became my first crush. After seeing the Black Swan I became ridiculously obsessed with pirates. (My mother wondered if there was something wrong with me, considering all the other girls on my block were playing with Barbies and I was watching movies about pirates.) I think the cinematography is just perfectly lovely in this film, and Tyrone Power truly is a great actor. People speak truthfully when they say he did not get the credit he deserved, (much like Johnny Depp) but I deeply respect the late actor, and he captured my heart. If you love films of mutineers, swashbuckling adventure, and roguish characters, then this film is for you. It will sweep you away to an old world where gallantry was sought after and pirates were the scum of the earth.....",
+         "Well, this one really came as a surprise with Tyrone Power superb in a decent pirate movie - all tongue in cheek but in great fun. With lovely Maureen O'Hara playing the usual hard to get girl wanted by all, but destined for only one, everyone in the movie has a rollicking good time, and why shouldn't they when you consider some of the supporting stars, particularly Laird Cregar as Sir Henry Morgan and George Sanders \"hamming\" it up in his usual evil way. The Technicolor is magnificent, the settings superb, and as this film was made long before computer-generated effects, it was quite brilliantly done. The story was very predictable but who cares, as it represents great escapist entertainment for nearly a couple of hours!",
+         "While Leon Shamroy's Oscar-winning Technicolor cinematography certainly delivers this pirate adventure in a glorious package, it does little to improve the film. The film looks gorgeous and the cast is excellent, but the film is a disappointment. Somehow the film is inferior to my two favorite Tyrone Power adventure films, THE MARK OF ZORRO (1940) and SON OF FURY (1942). The film is talky and somewhat tedious despite the marvelous cast. We have Anthony Quinn in the small role of a villainous buccaneer and the mighty Laird Cregar as an extravagant Captain Henry Morgan. We have the delightful Thomas Mitchell reprising his Gerald O'Hara accent as an Irish pirate and an unrecognizable George Sanders as a villainous red-bearded pirate. And I should leave room for Maureen O'Hara as the feisty and hotheaded love interest of Tyrone Power. But I watched the film for one reason only: Tyrone Power. Due to his lively and nimble performance and athleticism, he makes a wonderful roguish pirate that reminds contemporary viewers of Johnny Depp's Captain Jack Sparrow in the PIRATES OF THE CARIBBEAN films. I consider Power a better actor than Errol Flynn due to Power's on-screen enthusiasm, his serious drive to become an actor, and his will to struggle for more diverse roles in his days at 20th Century-Fox. With his dashing good looks and frequent shirtless scenes throughout the film, it's no wonder that he made so many female moviegoers drool over him. Good heavens, I wish I was that handsome. Unfortunately, the chemistry of Power and O'Hara together is nowhere near as magical as the chemistry between Errol Flynn and Olivia de Havilland. The fights scenes are minimal and they look awkward and obviously sped-up when performed, therefore leaving me with a cold feeling instead of a feeling of excitement. Time has not been kind to the Oscar-nominated special effects and only a few of the effects shots are convincing. However, Alfred Newman's score is memorable and rousing and makes up for the lulls in the film along the way. Pirate lovers should have a fun time with this one, but the film is not one of Tyrone Power's best. Although the sweeping grandeur of THE BLACK SWAN is certainly colorful, the film lacks the spirit of my two favorite Tyrone Power adventure films.",
+         "This may be an \"escapist\" movie but it's one of my very favorites: rich technicolor, clever romantic repartee in the script . . . plus Tyrone Power in a red & black outfit \"to die for.\" When old Ty wasn't trying to appear rough and tough with a few hairs and some stray wine drops on his chest, that is (I think they used to shave chests then, along with pit hair). FUN! This movie proves you don't even have to have a sex scene to get your imagination working and then some. Throw in some fencing (Tyrone did his own), plenty of tall ships, excellent secondary role actors, including George Sanders and Anthony Quinn. Wow, all I can say is this movie was so good, I bought it so I can see it over and over again.",
+         "The Black Swan And The Mark of Zorro show Tyrone Power at the height of his career. This was the Tyrone Power that the public wanted to see, but who he got tired of being. He was constantly after 20th Century Fox and Darryl Zanuck to give him more challenging roles. Jamie Warring is another of Power's patented hero/heel characterizations. When we first meet him, Power's a totally unrepentant scalawag who has but one virtue, loyalty to the former pirate leader Henry Morgan. Morgan by all accounts was an effective and charismatic leader both in this film and in history. But that leadership is put to the test when the British government decides he's the only man capable of dealing with his former compatriots. Laird Cregar as Morgan makes a plea for the group to turn honest. But there's a fly in the ointment. A dissident group led by George Sanders and Anthony Quinn don't want to give up the pirate lifestyle. It's up to Morgan, Power and the rest to then eradicate them. Power at his hero/heel best is not above forcing his attentions on Maureen O'Hara the daughter of the former governor of Jamaica. Those attentions gradually move from the unwanted to the very much wanted, especially after Power and O'Hara are captured by Sanders. For the rest, well as they you just have to tune in. The Black Swan deservedly won Oscars for special effects and color cinematography. It's unfortunate that today there are so few actors capable of playing the swashbuckling hero the way Ty Power could. He may have wanted to do more, but Darryl Zanuck knew exactly what the public wanted to see Tyrone Power in. It's worth a look.",
+         "With an excellent screenplay, outstanding cinematography, and stars who galvanize the screen, The Black Swan promises to satisfy its viewers. Made in the period when the Hollywood Studio System was at the peak of its creative, industrial powers, this swashbuckler is a visual feast. Maureen O'Hara and Tyrone Powers shine as lovers who begin their romance by loathing each other. The clever dialogue and sexual innuendo between the leads tantalizes us as we see them fall more deeply in love. But don't think this movie is only about romance. There's plenty of action, adventure, and swordplay, too! If you enjoy this one, you'll also enjoy other adventures starring Tyrone Power, Mississippi Gambler and King of the Khyber Rifles.",
+         "This is the story of the Spanish Main, when villainy wore a sash, and the only political creed in the world was, love, gold........and adventure! The Black Swan finds Tyrone Power at his swashbuckling best, here as James \"Boy\" Waring, a pirate starting to find his conscience as he starts to find love, Power is devilishly handsome and swaggers about with knowingly comic abandon. Tho this Henry King directed picture reeks of being an illegitimate child to Errol Flynn's fabulous Captain Blood, it has such a great sense of fun and high production values, it really doesn't matter one jot. The colour cinematography from Leon Shamroy rightly won an Academy Award, whilst the nomination for Alfred Newman's booming score and the one for special effects team were very much deserved. The other thing to note is the fabulous costumes courtesy of Earl Luick, splendid attire, none more so than evidenced by Laird Cregar's joyous Henry Morgan. George Sanders and a ravishing Maureen O'Hara are in on the fun and really it's a film that to me is impossible not to enjoy, so avast yee lubbers and buckle up your swash. 7/10",
+         "I first saw this movie when I was 11 or 12 years old. Since then I've seen about nine or ten times. So what if the good guy is a pirate? A real proud one? Tyrone Power give one of his best performances, George Sanders is pure evil, Maureen O'Hara is more than just the pretty damsel-about-to-be-in-constant-distress and Laird Cregar gives life to a good portrait of Henry Morgan. And the other actors gives good performances as well. Plus the story is good (I never read Sabatini's book, shame on me), a fine example of the Pirate Movie (like Douglas Fairbanks's The Black Corsair). All in all the kind of movie that you can see many and many times."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "Family",
+         "History"
+      ],
+      "productionCompanies": ["Twentieth Century Fox Film Corporation"],
+      "summaries": [
+         "When notorious pirate Henry Morgan is made governor of Jamaica, he enlists the help of some of his former partners in ridding the Carribean of Buccaneers. When one of them apparently abducts the previous governor's pretty daughter and joins up with the rebels, things are set for a fight.",
+         "Soon after Sir Henry Morgan is named Governor of Jamaica in 1674, he announces that the age of the pirate is over and asks his former captains to give up their ways and sail for England. Not everyone agrees and one in particular, Captain Leech, refuses. He does accept an offer however from English aristocrat Roger Ingram who provides him with sailing information in an attempt to unseat the newly appointed Governor. In an effort to thwart Ingram's plans, former pirate Captain Jamie Waring kidnaps Lady Margaret Denby, the previous Governor's daughter.",
+         "An ex-pirate contends with rowdy buccaneers and a love-hate relationship with an aristocratic woman who's tougher than she seems."
+      ],
+      "budget": 0
+   },
+   "movielensId": 60311,
+   "movielens": {
+      "languages": [
+         "English",
+         "Español"
+      ],
+      "releaseDate": "1942-12-04",
+      "dvdReleaseDate": "2006-07-11",
+      "directors": ["Henry King"],
+      "runtime": 87,
+      "movieId": 60311,
+      "title": "The Black Swan",
+      "mpaa": "",
+      "actors": [
+         "Tyrone Power",
+         "Maureen O'Hara",
+         "Laird Cregar",
+         "Thomas Mitchell",
+         "George Sanders",
+         "Anthony Quinn",
+         "George Zucco",
+         "Clarence Muse",
+         "Helene Costello"
+      ],
+      "imdbMovieId": "0034522",
+      "originalTitle": "The Black Swan",
+      "genres": [
+         "Action",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": [
+         "5XOSDyZ_b2g",
+         "tEfjutlf-So"
+      ],
+      "plotSummary": "When notorious pirate Henry Morgan is made governor of Jamaica, he enlists the help of some of his former partners in ridding the Caribbean of Buccaneers. When one of them apparently abducts the previous governor's pretty daughter and joins up with the rebels, things are set for a fight.",
+      "tmdbMovieId": 29882,
+      "avgRating": 3.56818,
+      "releaseYear": "1942",
+      "numRatings": 44,
+      "posterPath": "/1AkLDnyBybBetgDWcLAFFQA2zw5.jpg"
+   }
+}

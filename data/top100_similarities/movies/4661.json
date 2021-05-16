@@ -1,0 +1,414 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "new york",
+            "id": 242
+         },
+         {
+            "name": "alcohol",
+            "id": 567
+         },
+         {
+            "name": "sex",
+            "id": 572
+         },
+         {
+            "name": "detective",
+            "id": 703
+         },
+         {
+            "name": "newspaper",
+            "id": 918
+         },
+         {
+            "name": "suspect",
+            "id": 3879
+         },
+         {
+            "name": "police",
+            "id": 6149
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "suspense",
+            "id": 9937
+         },
+         {
+            "name": "serial killer",
+            "id": 10714
+         },
+         {
+            "name": "neo-noir",
+            "id": 207268
+         }
+      ],
+      "imdb_id": "tt0098273",
+      "video": false,
+      "title": "Sea of Love",
+      "recommendations": [
+         11060,
+         11062,
+         3784,
+         10083,
+         31587,
+         10859,
+         10433,
+         8984,
+         11896,
+         1058,
+         11707,
+         26269,
+         10396,
+         12235,
+         6723,
+         10337,
+         287,
+         4105,
+         10990,
+         2075
+      ],
+      "backdrop_path": "/3TCPWrxQkfon82xPNtmpweOSVJc.jpg",
+      "revenue": 110879513,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Frank Keller",
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8d1",
+               "name": "Al Pacino",
+               "profile_path": "/f9tBVwcNHnawvMoyuuzmKvEhBsb.jpg",
+               "id": 1158,
+               "order": 0
+            },
+            {
+               "cast_id": 21,
+               "character": "Helen Cruger",
+               "gender": 1,
+               "credit_id": "5933c876c3a3685a24019f2d",
+               "name": "Ellen Barkin",
+               "profile_path": "/i4WSy0da6KaA3xvETtXqZtUMoRP.jpg",
+               "id": 6913,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Sherman",
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8d9",
+               "name": "John Goodman",
+               "profile_path": "/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg",
+               "id": 1230,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Terry",
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8dd",
+               "name": "Michael Rooker",
+               "profile_path": "/bvmf7TIjCyRPrBNrmZ5qyePTL5y.jpg",
+               "id": 12132,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Frank Keller Sr.",
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8e7",
+               "name": "William Hickey",
+               "profile_path": "/zr7UJxP5MdEksn6ZaxeHbwr6o5Z.jpg",
+               "id": 21282,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Gruber",
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8eb",
+               "name": "Richard Jenkins",
+               "profile_path": "/iz61iPIgNUp0yk48bRNjEJ5GHO4.jpg",
+               "id": 28633,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Serafino",
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8ef",
+               "name": "Paul Calderon",
+               "profile_path": "/2v8spXfKtaMbFZ25FrVsV0SAPwW.jpg",
+               "id": 3137,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Lieutenant",
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8f3",
+               "name": "John Spencer",
+               "profile_path": "/9sU5FEzlf921n6NxHmXgJB3994T.jpg",
+               "id": 34691,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Murdered Man",
+               "gender": 2,
+               "credit_id": "5689c3efc3a36828f501f342",
+               "name": "Mark Phelan",
+               "profile_path": "/rEscpvLeZyvfb5X9SvM8eKccy7M.jpg",
+               "id": 149466,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Black Guy",
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8f7",
+               "name": "Samuel L. Jackson",
+               "profile_path": "/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg",
+               "id": 2231,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Ernest Lee",
+               "gender": 2,
+               "credit_id": "5689c497c3a36860e9028987",
+               "name": "Damien Leake",
+               "profile_path": "/kEqJvGxe4t6ancmDRaMAurjTYyJ.jpg",
+               "id": 159948,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Willie",
+               "gender": 0,
+               "credit_id": "5689c52f92514132db02694a",
+               "name": "Joshua Nelson",
+               "profile_path": "/dhlQuoEZSi0fvXXJiVcov2qhxBO.jpg",
+               "id": 106193,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8af",
+               "name": "Harold Becker",
+               "profile_path": "/pZjPh9NdTE0gf4aSndMOMj7XaXs.jpg",
+               "id": 23213,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8b5",
+               "name": "Martin Bregman",
+               "profile_path": null,
+               "id": 1151,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44bf9251416c7503f8bb",
+               "name": "Louis A. Stroller",
+               "profile_path": null,
+               "id": 57652,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44bf9251416c7503f8c1",
+               "name": "Richard Price",
+               "profile_path": "/lGGzvyUTDwhzSrY5PyW63tvy9cg.jpg",
+               "id": 2989,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8c7",
+               "name": "Ronnie Taylor",
+               "profile_path": null,
+               "id": 11847,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44bf9251416c7503f8cd",
+               "name": "David Bretherton",
+               "profile_path": null,
+               "id": 3898,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44bf9251416c7503f8e3",
+               "name": "Trevor Jones",
+               "profile_path": "/86HjonjMXwcDyOlpaQW1SVR9CXh.jpg",
+               "id": 7020,
+               "department": "Sound",
+               "job": "Music"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 8.166588,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 12150,
+      "vote_count": 186,
+      "budget": 19000000,
+      "overview": "Seen-it-all New York detective Frank Keller is unsettled - he has done twenty years on the force and could retire, and he hasn't come to terms with his wife leaving him for a colleague. Joining up with an officer from another part of town to investigate a series of murders linked by the lonely hearts columns he finds he is getting seriously and possibly dangerously involved with Helen, one of the main suspects.",
+      "similar": [
+         4771,
+         17494,
+         984,
+         10651,
+         4639,
+         1586,
+         949,
+         189,
+         41670,
+         1266,
+         9411,
+         2749,
+         18587,
+         9282,
+         158011,
+         15069,
+         26390,
+         8090,
+         36915,
+         1949
+      ],
+      "original_title": "Sea of Love",
+      "runtime": 113,
+      "poster_path": "/u4qKcoMKTd1SotrlRcHxontcSbd.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Universal Pictures Corporation",
+         "id": 42,
+         "origin_country": ""
+      }],
+      "release_date": "1989-09-15",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "Deception is dangerous. Desire is deadly.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Harold Becker"],
+      "runtime": 113,
+      "synopsis": "New York Police detective Frank Keller (Al Pacino) investigates the murder of a man in Manhattan, shot dead while face down naked in his bed while listening to a 45rpm recording of \"Sea of Love\". Keller has three clues - a lipstick-smeared cigarette, a wanted ad the dead man placed in a newspaper and a perfect set of fingerprints. Immediate suspicion falls on a vengeful woman who answered his lonely hearts personal advertisement. A second man dies in the same manner in Queens. Detective Sherman Touhey (John Goodman) suggests they collaborate. Both victims had put rhyming ads in the paper. They track down Raymond Brown (Michael O'Neill), the only other man with a rhyming ad. He's a married man and admits placing the ad, but swears on his children's lives that he threw away all the letters and never saw anyone. Keller has an idea - place their own rhyming ad in the paper, take any women who respond to a restaurant and take the prints from their glasses. Keller's boss (John Spencer) thinks it is a bad idea. However, Brown soon turns up dead. Keller has dinner with several women, while Sherman posing as a waiter puts their empty glasses into evidence bags. One of the women, Helen Cruger (Ellen Barkin) snubs Keller and leaves before she takes a drink. Keller bumps into her again at a market, but this time, Cruger is more friendly. Keller goes back to Cruger's place, ostensibly to get her fingerprints. He panics when he finds a gun in her purse, but it turns up to be just a starting pistol. Keller and Cruger begin a serious relationship. Keller has a chance to obtain Cruger's fingerprints on a glass, but decides to wipe the glass clean. Their relationship proves rocky when Cruger discovers that Keller is a cop. Cruger's ex-husband Terry (Michael Rooker) breaks into Keller's apartment and threatens him with a gun. He makes Keller lie on his bed and show him how he made love to Helen, just as he had done with his ex-wife's other three boyfriends. Keller overpowers Terry and tries to call the police, but the killer is wild and lunges at him. In the struggle, Terry is accidentally thrown through the window and plunges to his death. Keller and Cruger reunite. She forgives him, and they resume their relationship.",
+      "writers": ["Richard Price"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0098273/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTA5MDAwODcyNTVeQTJeQWpwZ15BbWU3MDQ4MTA2MjE@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Al Pacino, Ellen Barkin, John Goodman | See full cast and crew »"],
+      "reviews": [
+         "Men who've answered personal ads in the lonely hearts column featuring poetry are being found naked, face down on their beds. There are cigarette butts with lipstick on them in their ashtrays. Detective Frank Keller (Al Pacino), along with his sidekick Sherman (John Goodman), decide to enter their own ad in the lonely hearts column, and try to match the killer's fingerprints. A great premise that definitely justifies making yet another police procedural, this Al Pacino vehicle won this reviewer over, which is hard to do these days with cop thrillers - once you see enough they all start to look the same. But here we've got a great script, with some terrific wisecracking cop lines, great actors, especially Pacino, Goodman and sexy Ellen Barkin - which make for a very enjoyable ride. Sure the score is a little 80's, and Ellen Barkin may look back and regret that hair-do, but otherwise this is a very successful piece of film. This is largely due to the terrific screen presence of Al Pacino - he's such a firecracker! And the hugely enjoyable chemistry between partners Pacino and John Goodman. They play off each other so well. The dating scenes are particularly fun - personal highlights for me. And, of course, Ellen Barkin exudes sensuality. Its incredible. The title may sound pulpy and cheap - but its for good cause. We find out in the first few minutes that its the name of the song the killer was playing when the first murder of the film occured. Its also ironic - the crime-ridden world of this film is anything but a sea of love. 7/10. Must-see for Pacino fans and fans of cop thrillers. For everyone else, not essential, but great saturday night fair.",
+         "I remember seeing Sea of Love at the theater in 1989 and left saying to myself I had just seen one of the best thrillers made. Sea of Love is just one of those movies that kept me in great suspense and excitement I really felt surprised in the end when the killer was revealed. Since then I have caught Sea of Love about a dozen times on cable and still to this day enjoy the thrilling drama. The story is just great with the legend Al Pacino as Detective Frank Keller who tries to catch and bait a lonely hearts killer. Pacino is helped in his search by Detective Sherman played great by the very funny John Goodman this was one of the better performances from Goodman. Then the search takes a good but yet a bad turn when Pacino (Detective Frank Keller) finds an interesting friend a very sexy and erotic type looking female played marvelously by the attractive Ellen Barkin. I must say that with the stunning performance Ellen gave with this role she should have gotten any work she wanted to in films. I will not say nothing to any of you who haven't seen the film I will let you enjoy the surprise like I did the first time I saw Sea of Love. Sea of Love doesn't get the respect it deserves still it airs on cable but watch this on a dark and rainy night alone or day for that matter and feel the thrills and suspense of this steaming thriller you would see it's one of the best films around I don't see who would or could dislike this so take a swim in the sea of love!",
+         "Great screenplay, acting and settings combine to make a dynamite film. The constant tension between the police investigation and Pacino's love interest keep the suspense going strong, and the chemistry between Barkin and Pacino is fabulous. John Goodman is excellent as always, the sex/death themes add to the tension, and the ending will throw most for a loop... this film delivers. Try it, you'll like it. 8/10",
+         "Al Pacino is excellent as the lonely and alcoholic Frank Keller, a veteran New York City cop, hot on the trail of a serial killer. In addition to Keller, and his tough-minded romantic interest, Helen, played well by Ellen Barkin, a third major character is the city wherein the story takes place. Ronnie Taylor's noirish cinematography and Trevor Jones' appropriately downbeat score paint rather a lonely picture of nighttime Manhattan, with all that colorful and flashy neon and the dreary rain. The overall effect is a sense of psychological isolation, alienation, and ... danger. It's a perfect setting for a story about a series of murders, seemingly tied together by oldies-but-goodies songs. Keller searches for a killer who seems normal, but on the inside is a smoldering volcano. As a murder mystery, \"Sea Of Love\" works, because of its focus, and because of its restrictive narration. The viewer knows what Frank Keller knows, but nothing more. Clues are very subtle, and lie more in what is not said, than what is said. The ending was a surprise to me. I did not see it coming. I have a couple of problems with the film, neither of which is serious. First, there are several plot segments that seem unnecessary, and could have been edited out. Second, certain scenes involving the victims are confusing. \"Sea Of Love\" is a mystery/thriller that I recommend highly. It is psychologically intense, and it has an atmosphere that is suitably sinister. The acting, the music, the cinematography, the script, and the production design are all credible. And I could listen all day to that oldies-but-goodies song by Phil Phillips, from 1959.",
+         "Within a kind of light and shadow there's almost a trademark photography for a film noir movie, and \"Sea of Love\" is a film that takes place in the shadows\u0085 Al Pacino plays Frank Teller, a self-conscious detective\u0097in search of a serial killer\u0097drawn into a torrid sexual relationship with an attractive young woman he met in a super market when all the good citizens of the city are asleep and the people who are walking around are the ones who are leading the most solitary lives\u0085 Helen Barkin is just so right for the part\u0085 You can believe her when you see her dressed in her red leather jacket and tight jeans\u0085 She's a lady of the night, sexy as hell, and a woman who can take care of herself\u0085 Between her and Pacino, there were enough attraction that's deep but also there were feelings of vulnerability and suspicion\u0085",
+         "This is one great movie, not only a thriller which it is also. Sometimes a movie will come out so that watching it will be like reading a good book. This is one of few. Excellent script, great acting and directing and photo \u0096 and the additional point in introducing Barkin's character far into the film makes for a much more convincing narrative. Both Pacina and Barkin have always been great actors, and here they are at their best, perhaps because of a certain tension between them \u0096 one cannot decide if they are friends personally or hate each other, or perhaps they create the ambivalence just because they are superb actors. Anyway, I don't know if this one got any major awards, but it sure should have. Besides Barkin is one hell of a woman, and I supposed that Pacino is one hell of a man.",
+         "I've watched it many times and never get tired of it. \"Sea of Love\" is one of few films where Al Pacino is very sexy, and it is adds to the film's many pleasures. The rest of them are - well constructed story of a New York Homicide cop (Pacino) attracted to a mysterious blond woman with a charming crooked grin (Ellen Barkin - talented, sexy and underrated actress) who may or may not be a serial killer. The chemistry between Pacino and Barkin is powerful and undeniable and the love scenes between them are among the best and most memorable ever filmed. John Goodman is very good as Pacino's partner and friend and yes I love the soundtrack and the title song.",
+         "In Manhattan, Detective Frank Keller (Al Pacino) is an efficient and veteran cop with twenty years on the force, who is lonely and misses his ex-wife Denise. She left him to live with his colleague from the same precinct Gruber (Richard Jenkins). When a killer kills his victim with a shot on the neck and leaves a single playing \"Sea of Love\", Frank is in charge of the investigation. Detective Sherman, from a district outside Manhattan, joins Frank when a second victim is killed in the same MO. They find that both victims have written poetry in the lonely hearts column of the single magazine \"New York Weekly\". When there is a third case, Frank convinces his chief to write for the magazine and work undercover investigating the women that reply the advertisement. Frank fall in love for the prime suspect, the manager of a shoe store Helen Cruger (Ellen Barkin), jeopardizing his investigation. \"Sea of Love\" is one of the best and most underrated thrillers ever. I do not know how many times I have seen this movie since the release in the movie theaters, then on VHS and now on DVD. The classy story is a film-noir perfectly developed, and shows one of the most erotic love scenes of the cinema history. Al Pacino is simply perfect, showing a perfect chemistry with the sexy Ellen Barkin, who is in the top of her career, and also with John Goodman. The soundtrack is also one of the most beautiful of the cinema, and the CD with eleven songs is fantastic. Samuel L Jackson, in the beginning of career, plays a criminal in the story with a minor participation. My vote is nine. Title(Brazil): \"Vítimas de uma Paixão\" (\"Victims of a Passion\")",
+         "Al Pacino and Ellen Barkin sizzle in this murder-mystery/love-story. For all those guys out there that are forced to watch 'chick flicks' and for the ladies that sit through over violent action thrillers, here is a movie both will enjoy. Pacino has made a career at attracting both men and women in his movies and you will be hard pressed to find a more beautiful woman than Barkin in this movie. John Goodman is a Detective and Pacino's partner reminiscent of another very good Ellen Barkin Love-Thriller 'The Big Easy' with Dennis Quaid. In 'Sea Of Love' the passionate love making combined with several possible endings in classic 'who-done-it?' style, will keep your attention and mood in check. Light candles and break out the wine you won't be sorry.",
+         "Some of my friends thought this is one of those films that is great the first time you see it, but diminishes after that because the heavy suspense questions have been answered. However, Al Pacino, Ellen Barkin and John Goodman are all so entertaining to watch that I've always enjoyed this film no matter how many times I've seen it. The suspense is what this film is all about, but I am fascinated with these actors, including supporting performances by Michael Rooker and William Hickey. Although her looks are a little hard and her mouth way too profane for my tastes, Barkin never looked better and sexier. That Pacino's character, \"Detective Frank Keller\" would fall for her is understandable, especially know what part of his anatomy is doing the \"talking.\" However, adultery, once again is excused in this film along with other not-so-moral acts so this isn't a film you want to show to your church group. All three of the leads are very weak, ethically-speaking. The fact that this film can go on for almost two hours with very little action and still keep you riveted to your seat speaks highly of its entertainment value. Why critics knocked it so much, I don't know. Hey, it's good entertainment. What more do you want?"
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": ["Universal Pictures"],
+      "summaries": [
+         "Frank Keller is a New York detective investigating a case of a serial killer who finds the victims through the lonely hearts column in newspapers. Keller falls in love with Helen, the main suspect in the case.",
+         "In Manhattan, Detective Frank Keller is an efficient and veteran cop with twenty years on the force, who is lonely and misses his ex-wife Denise. She left him to live with his colleague from the same precinct Gruber. When a killer kills his victim with a shot on the neck and leaves a single playing \"Sea of Love\", Frank is in charge of the investigation. Detective Sherman, from a district outside Manhattan, joins Frank when a second victim is killed in the same MO. They find that both victims have written poetry in the lonely hearts column of the single magazine \"New York Weekly\". When there is a third case, Frank convinces his chief to write for the magazine and work undercover investigating the women that reply the advertisement. Frank falls in love for the prime suspect, the manager of a shoe store Helen Cruger, jeopardizing his investigation.",
+         "Seen-it-all New York detective Frank Keller is unsettled - he has done twenty years on the force and could retire, and he hasn't come to terms with his wife leaving him for a colleague. Joining up with an officer from another part of town to investigate a series of murders linked by the lonely hearts columns he finds he is getting seriously and possibly dangerously involved with Helen, one of the main suspects.",
+         "A detective investigating a series of murders becomes involved with a woman who may be the culprit."
+      ],
+      "budget": 0
+   },
+   "movielensId": 4661,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1989-09-15",
+      "dvdReleaseDate": "1998-05-26",
+      "directors": ["Harold Becker"],
+      "runtime": 113,
+      "movieId": 4661,
+      "title": "Sea of Love",
+      "mpaa": "R",
+      "actors": [
+         "Al Pacino",
+         "Ellen Barkin",
+         "John Goodman",
+         "Michael Rooker",
+         "William Hickey",
+         "Richard Jenkins",
+         "Paul Calderon",
+         "John Spencer",
+         "Mark Phelan",
+         "Samuel L. Jackson",
+         "Damien Leake",
+         "Joshua Nelson"
+      ],
+      "imdbMovieId": "0098273",
+      "originalTitle": "Sea of Love",
+      "genres": [
+         "Drama",
+         "Crime",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": [
+         "8DQJIoyqn7w",
+         "iePm8aBrRbY"
+      ],
+      "plotSummary": "Seen-it-all New York detective Frank Keller is unsettled - he has done twenty years on the force and could retire, and he hasn't come to terms with his wife leaving him for a colleague. Joining up with an officer from another part of town to investigate a series of murders linked by the lonely hearts columns he finds he is getting seriously and possibly dangerously involved with Helen, one of the main suspects.",
+      "tmdbMovieId": 12150,
+      "avgRating": 3.4887,
+      "releaseYear": "1989",
+      "numRatings": 1195,
+      "posterPath": "/u4qKcoMKTd1SotrlRcHxontcSbd.jpg"
+   }
+}

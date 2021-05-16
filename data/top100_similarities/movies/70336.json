@@ -1,0 +1,760 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "terrorist",
+            "id": 949
+         },
+         {
+            "name": "secret",
+            "id": 1328
+         },
+         {
+            "name": "hostage",
+            "id": 1562
+         },
+         {
+            "name": "technology",
+            "id": 1576
+         },
+         {
+            "name": "laser",
+            "id": 3290
+         },
+         {
+            "name": "warhead",
+            "id": 3467
+         },
+         {
+            "name": "government",
+            "id": 6086
+         },
+         {
+            "name": "president",
+            "id": 8570
+         },
+         {
+            "name": "revenge",
+            "id": 9748
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "attack",
+            "id": 10563
+         },
+         {
+            "name": "explosion",
+            "id": 14601
+         },
+         {
+            "name": "scientist",
+            "id": 14760
+         },
+         {
+            "name": "evil",
+            "id": 156075
+         },
+         {
+            "name": "cobra",
+            "id": 191574
+         },
+         {
+            "name": "21st century",
+            "id": 209493
+         }
+      ],
+      "imdb_id": "tt1046173",
+      "video": false,
+      "title": "G.I. Joe: The Rise of Cobra",
+      "recommendations": [
+         72559,
+         38356,
+         8373,
+         34544,
+         18823,
+         44833,
+         27578,
+         39514,
+         57165,
+         64635,
+         2789,
+         1571,
+         534,
+         44943,
+         12437,
+         76163,
+         1979,
+         10483,
+         36668,
+         956
+      ],
+      "backdrop_path": "/bAmhm8pfLqbzxNRzZw08512h4RE.jpg",
+      "revenue": 302469017,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "General Hawk",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4b5",
+               "name": "Dennis Quaid",
+               "profile_path": "/fSnnQg8y1LB9yHbn2WuEcUb8i9Y.jpg",
+               "id": 6065,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Duke",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4b9",
+               "name": "Channing Tatum",
+               "profile_path": "/5L7BSYbzM8iizvIrS8EaaZoDrI3.jpg",
+               "id": 38673,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Ripcord",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4bd",
+               "name": "Marlon Wayans",
+               "profile_path": "/yMBaTsPrthko9eYtSjfVduws5Cn.jpg",
+               "id": 9562,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Ana Lewis / Baroness",
+               "gender": 1,
+               "credit_id": "52fe46229251416c7506e4c1",
+               "name": "Sienna Miller",
+               "profile_path": "/4LqVTede09s7Dfb7LnK6qzsh4pD.jpg",
+               "id": 23459,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "The Doctor / Rex",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4c5",
+               "name": "Joseph Gordon-Levitt",
+               "profile_path": "/zSuXCR6xCKIgo0gWLdp8moMlH3I.jpg",
+               "id": 24045,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Breaker",
+               "gender": 0,
+               "credit_id": "52fe46229251416c7506e4c9",
+               "name": "Saïd Taghmaoui",
+               "profile_path": "/bOh3ZQ64WiGivN6GJrrO8vrw9wU.jpg",
+               "id": 5419,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "McCullen / Destro",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4cd",
+               "name": "Christopher Eccleston",
+               "profile_path": "/9zI0Ed8aGxLPdTQeV0He9Rl0eSX.jpg",
+               "id": 2040,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Heavy Duty",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4d1",
+               "name": "Adewale Akinnuoye-Agbaje",
+               "profile_path": "/lnFcwjgNDNRzQ8yC1HPDIBRBwBh.jpg",
+               "id": 31164,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Storm Shadow",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4ed",
+               "name": "Lee Byung-hun",
+               "profile_path": "/snuA1bKjeh4SKUmF0sNqip1zVpJ.jpg",
+               "id": 25002,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "Scarlet",
+               "gender": 1,
+               "credit_id": "52fe46229251416c7506e4f1",
+               "name": "Rachel Nichols",
+               "profile_path": "/80d14kDiIzkrB40mSuINBQbdls6.jpg",
+               "id": 50347,
+               "order": 9
+            },
+            {
+               "cast_id": 17,
+               "character": "Snake Eyes",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4f5",
+               "name": "Ray Park",
+               "profile_path": "/3qB3uEjTOIkVy1cBAfCntGMRGDT.jpg",
+               "id": 11007,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Zartan",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4f9",
+               "name": "Arnold Vosloo",
+               "profile_path": "/AkTqkBHlQTcXr2mhAhyEmIAsglw.jpg",
+               "id": 16743,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Doctor Mindbender",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4fd",
+               "name": "Kevin J. O'Connor",
+               "profile_path": "/1yeYRXpTbDYLMKUNT4hNQJTJsUX.jpg",
+               "id": 18916,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Baron de Cobray",
+               "gender": 0,
+               "credit_id": "52fe46229251416c7506e501",
+               "name": "Grégory Fitoussi",
+               "profile_path": "/qPl77DjeQ3L689mTIqBXovY2jdm.jpg",
+               "id": 1040850,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "U.S. President",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e51d",
+               "name": "Jonathan Pryce",
+               "profile_path": "/dAgcoPcDtlhIUTrksPtsWdlfBX.jpg",
+               "id": 378,
+               "order": 14
+            },
+            {
+               "cast_id": 22,
+               "character": "Young Snake Eyes",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e505",
+               "name": "Leo Howard",
+               "profile_path": "/jeM428JFl5AFqNChpjHra7MdGyL.jpg",
+               "id": 557921,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "Young Storm Shadow",
+               "gender": 0,
+               "credit_id": "52fe46229251416c7506e509",
+               "name": "Brandon Soo Hoo",
+               "profile_path": "/yZse73nxYlk9Ypr5r43PUkpuZGB.jpg",
+               "id": 1115122,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Hard Master",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e50d",
+               "name": "Gerald Okamura",
+               "profile_path": "/wF4lMsaIKiClRU5mpHaaQ4oei7F.jpg",
+               "id": 105047,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Cover Girl",
+               "gender": 1,
+               "credit_id": "52fe46229251416c7506e511",
+               "name": "Karolina Kurkova",
+               "profile_path": "/AuHa3iOKnZgt7SuKGECd7sJdKiX.jpg",
+               "id": 215317,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "James McCullen - 1641",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e515",
+               "name": "David Murray",
+               "profile_path": "/6ZG2EftnZooQpuz5FkqXMvtFbhO.jpg",
+               "id": 93211,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Sgt. Stone",
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e519",
+               "name": "Brendan Fraser",
+               "profile_path": "/n8VOWXp94nhIEo5nS9o6bOpUHiN.jpg",
+               "id": 18269,
+               "order": 20
+            },
+            {
+               "cast_id": 37,
+               "character": "Apache Navigator",
+               "gender": 0,
+               "credit_id": "54e89a9592514111b8001437",
+               "name": "Frederic Doss",
+               "profile_path": "/nOZmclIokEu23scnGvzKNNNxI7d.jpg",
+               "id": 209680,
+               "order": 21
+            },
+            {
+               "cast_id": 40,
+               "character": "Dr. Hundtkinder",
+               "gender": 2,
+               "credit_id": "56ab8e869251417e22002e92",
+               "name": "Peter Breitmayer",
+               "profile_path": "/iQeR1xk7vs8r3ZyiGaHSMzznCzF.jpg",
+               "id": 159454,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4d7",
+               "name": "Stephen Sommers",
+               "profile_path": "/50bI0PixdzrD5Mdygl4wrpxHCiH.jpg",
+               "id": 7775,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46229251416c7506e4dd",
+               "name": "Stuart Beattie",
+               "profile_path": "/5Hl1gqi2nte2C6mxs6IujHkXU6c.jpg",
+               "id": 1707,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4e3",
+               "name": "David Elliot",
+               "profile_path": null,
+               "id": 34672,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46229251416c7506e4e9",
+               "name": "Paul Lovett",
+               "profile_path": null,
+               "id": 84768,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "533407e8c3a3680a1e0016a3",
+               "name": "Lorenzo di Bonaventura",
+               "profile_path": "/2HjxJv0FbdJtlIqNniU0h36LYGw.jpg",
+               "id": 10952,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53340804c3a3682a87001d3a",
+               "name": "Bob Ducsay",
+               "profile_path": null,
+               "id": 7784,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53340821c3a3682a94001cbe",
+               "name": "Brian Goldner",
+               "profile_path": null,
+               "id": 24308,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5334087fc3a3682a9c001bed",
+               "name": "Nancy Bishop",
+               "profile_path": "/AejHeiQQ14pm4Ezfcd4iYtZXAQA.jpg",
+               "id": 25729,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53340895c3a3682a87001d45",
+               "name": "Ronna Kress",
+               "profile_path": "/8LIqLvnE7EIWHC50j0gmSO275nR.jpg",
+               "id": 1720,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "533409a9c3a3682abb001c5a",
+               "name": "Ellen Mirojnick",
+               "profile_path": null,
+               "id": 7735,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58e01be8c3a3683d2a00e00f",
+               "name": "Ed Verreaux",
+               "profile_path": null,
+               "id": 4953,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58e01bf1c3a3683d0b00dfb1",
+               "name": "Chad S. Frey",
+               "profile_path": null,
+               "id": 11102,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553135689251415289000137",
+               "name": "Jakub Dvorak",
+               "profile_path": null,
+               "id": 1455486,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5549569692514104c70007f6",
+               "name": "Jeremy Stewart",
+               "profile_path": null,
+               "id": 1463785,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5740bdd2925141282b00127c",
+               "name": "Dottie Starling",
+               "profile_path": null,
+               "id": 1336716,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58e01bc89251415e4000e416",
+               "name": "Mitchell Amundsen",
+               "profile_path": null,
+               "id": 24310,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58e01bd39251415e5f00eacf",
+               "name": "Alan Silvestri",
+               "profile_path": "/chEsfnDEtRmv1bfOaNAoVEzhCc6.jpg",
+               "id": 37,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58e01bf89251415e4800e942",
+               "name": "Kevin Ishioka",
+               "profile_path": null,
+               "id": 6878,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58e01c049251415e6a00e802",
+               "name": "Randy Moore",
+               "profile_path": null,
+               "id": 20786,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58e01c0d9251415e7f00e986",
+               "name": "Brad Ricker",
+               "profile_path": null,
+               "id": 8705,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58e01c15c3a3683d3e00f2d0",
+               "name": "Anne Seibel",
+               "profile_path": null,
+               "id": 8795,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58e01c1e9251415e4800e958",
+               "name": "Greg Papalia",
+               "profile_path": null,
+               "id": 14341,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58e01c3dc3a3683cff00e7bc",
+               "name": "Kate J. Sullivan",
+               "profile_path": null,
+               "id": 41898,
+               "department": "Art",
+               "job": "Set Decoration"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 14.389621,
+      "production_countries": [
+         {
+            "iso_3166_1": "CZ",
+            "name": "Czech Republic"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 14869,
+      "vote_count": 2290,
+      "budget": 175000000,
+      "overview": "From the Egyptian desert to deep below the polar ice caps, the elite G.I. JOE team uses the latest in next-generation spy and military equipment to fight the corrupt arms dealer Destro and the growing threat of the mysterious Cobra organization to prevent them from plunging the world into chaos.",
+      "similar": [
+         562,
+         49021,
+         956,
+         156022,
+         101299,
+         281957,
+         178,
+         8834,
+         445954,
+         22825,
+         2320,
+         9507,
+         133805,
+         10651,
+         9654,
+         979,
+         238636,
+         10585,
+         3597,
+         1433
+      ],
+      "original_title": "G.I. Joe: The Rise of Cobra",
+      "runtime": 118,
+      "poster_path": "/29eW5c5DaCFQejdt9V14RrA51yD.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "",
+            "iso_639_1": "gd"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "id": 4,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/jSj8E9Q5D0Y59IVfYFeBnfYl1uB.png",
+            "name": "Spyglass Entertainment",
+            "id": 158,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Di Bonaventura Pictures",
+            "id": 435,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/i42C5gRq7XqlG4S9vkchuJZfrBn.png",
+            "name": "Hasbro",
+            "id": 2598,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Kontsept Film Company",
+            "id": 76067,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2009-08-04",
+      "vote_average": 5.6,
+      "belongs_to_collection": {
+         "backdrop_path": "/m3ip0ci0TnX0ATUxpweqElYCeq4.jpg",
+         "name": "G.I. Joe (Live-Action) Collection",
+         "id": 135468,
+         "poster_path": "/8ykKDU3FisEFtCpPZloB1jqcAIn.jpg"
+      },
+      "tagline": "When all else fails, they don't.",
+      "adult": false,
+      "homepage": "http://www.gijoemovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Stephen Sommers"],
+      "runtime": 118,
+      "synopsis": "The film opens in France, in 1641. The Scotsman Klan McCullen has been accused of selling weaponry to both the Scots and French. Rather than being executed for treason, the jury brands his face with a white-hot mask in order to humiliate him. In the near future, weapons expert James McCullen (Christopher Eccleston) has created a nanotechnology-based weapon capable of destroying an entire city. His company MARS sells four warheads to NATO, and the U.S. Army is tasked with delivering the warheads. Duke (Channing Tatum) and Ripcord (Marlon Wayans) are delivering the warheads when they are ambushed by the Baroness (Sienna Miller), who Duke recognized to be his ex-fiancee Ana Lewis. Duke and Ripcord are rescued by Scarlett (Rachel Nichols), Snake Eyes (Ray Park) and Heavy Duty (Adewale Akinnuoye-Agbaje). They take the warheads to The Pit, G.I. Joe's command center in North Africa, and upon arriving rendezvous with General Hawk (Dennis Quaid), the head of the G.I. Joe Team. Hawk takes command of the war-heads and excuses Duke and Ripcord, only to be convinced to have them join his group after Duke reveals that he knows the Baroness. McCullen is revealed to be using the same nanotechnology to build an army of soldiers with the aid of the Doctor (Joseph Gordon-Levitt), planning on using the warheads to bring panic and bring about a new world order. Using a tracking device, McCullen locates the G.I. Joe base and sends Storm Shadow (Lee Byung-hun) and the Baroness to retrieve the warheads with assistance from Zartan (Arnold Vosloo), inflicting casualties on several G.I. Joe soldiers. After a fight, Storm Shadow and the Baroness retrieve the warheads and take them to Baron DeCobray, the Baroness's husband, for him to weaponize and use them to destroy the Eiffel Tower to serve as a showing of the warhead's destructive power. Making their way to Paris, the Joes pursue them through the streets but are unsuccessful in stopping them from launching the missile. Duke manages to hit the kill switch, but in doing so he is captured and taken to McCullen's base under the Arctic. G.I. Joe locates the secret base and fly there as McCullen loads three missiles with nano-mite warheads. After Snake Eyes takes out one, Ripcord pursues the remaining missiles in a prototype Night Raven jet while Scarlett and her group infiltrate the base. While Scarlett and Snake Eyes attempt to shut down the Arctic base, with Heavy Duty leading an attack on Cobra's forces, Duke learns that the Doctor is Rex Lewis, Ana's brother believed to have been killed on a mission led by Duke four years ago. He was trapped in a bunker with Doctor Mindbender (Kevin O'Connor), disfigured in the blast which everyone presumed had killed him. The Baroness tries to free Duke but the Doctor reveals he has implanted her with nano-mites which has put her under his control for the past four years, admitting his amazement that she is resisting the programming. Attempting to kill Duke, McCullen ends up being facially burned as he flees with Rex to an escape vessel. Duke and the Baroness pursue him while the Joes fall back when Rex activated the base's self destruct sequence. Rex then heals McCullen's burned face with nano-mites, encasing it in silver as he christens McCullen \"Destro\" and assumes the identity of Cobra Commander before they are captured by G.I. Joe soon after. On board the supercarrier USS Flagg, Baroness is placed in protective custody until they can remove the nano-mites from her body. Meanwhile, Zartan, having been earlier operated on by Rex, infiltrates the White House during the missile crisis and assumes the identity of the President of the United States (Jonathan Pryce).",
+      "writers": [
+         "Stuart Beattie",
+         "David Elliot"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1046173/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQzMTU1NzQwNl5BMl5BanBnXkFtZTcwNDg4NzMzMw@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Dennis Quaid, Channing Tatum, Marlon Wayans | See full cast and crew »"],
+      "reviews": [
+         "I just saw G.I. Joe, and I must say that I actually enjoyed it. This is NOT a masterpiece. This is a fun, Summer action flick. The so-called professional critics who obviously miss that point do not deserve their cushy jobs. The action is unbelievable, non-stop, breathless, and requires a total suspension of disbelief. The critics that have a problem with that should remember one thing. This is a movie based on a cartoon that's sole purpose was to sell a set of toys to 5-12 year old boys. Nothing more. Expecting \"War and Peace\" from this source material shows a lack of insight and intelligence from most of the reviews that I have read. If you like action films, you will enjoy this one. If you want angst-ridden characters stopping every five minutes to discuss their feelings... pull the stick out and move along to a sappy low-budget romance; this isn't your kind of film.",
+         "I came in with low expectations and got even less. I'm kind of offended that someone got paid to write this because its essentially a big-budget movie made with a fan-fiction caliber script. The plot riddled with holes, characters speak in clichés and the laws of physics are completely ignored. The female characters are treated with the action-movie standard sexism, and there are some subtle racist undertones as well. Seriously, 12-year-old boys write text messages that are more coherent than this script. The screen writers should use their payday to refund the tickets of everyone who went to see this movie. I'm okay with going a movie just for the special effects, but even that is sub-par. The martial arts choreography is good, and stunning in one scene. The practical effects are believable, but the computer graphics are mostly cartoonish and detract from the visual impact of the film, so its hard to say go see it even if your standard for a good movie is if they blow stuff up in new and interesting ways. I did enjoy the sheer audacity of its failure. Surely the filmmakers had watched even one movie before and knew they had a piece of Star Wars/James Bond ripoff fan fiction on their hands and just tried to be as bad as possible. This movie has a lot of laughs in it, although probably not where the filmmakers intended.",
+         "I watched this film last night and luckily I had no high expectations. As a fan of the G.I Joe toys when I was a kid (back then they where called Action Force) I had a good idea of the characters and story before hand. I am glad to say this film stayed true to most of the original concepts with a few tweaks for the better here and there. Go see this film if you want to see a fun action film full of special effects and doesn't take itself too seriously. Don't go and see this film if you are an uptight, unhappy film critic that spends too much time highlighting plot holes and acting because that's not what this film is about. It's more of a roller-coaster ride. Fast, furious and just fun.",
+         "Oh my god. First of all, and most importantly, I have nothing against a FUN, entertaining movie. But the only entertainment in the movie was how painful it was at times. Acting: 2/10 Terrible. A fellow moviegoer commented that \"You know it was a failure when one of the Wayans brothers was the best piece of acting\" It was bad. Dennis Quaid was plain boring. He looked like he was having no fun. Screenplay 1/10 HOW IN HOLY HELL DID THEY GET THIS APPROVED?!! All the memorable lines were the most terrible ones that everyone in the theater laughed at. It felt like a really bad TV show. The end of the movie was WAY more epic than it was supposed to be for a summer action blockbuster. Not intelligent, not funny, and not cohesive whatsoever. The setting changed about every 15 minutes, going all over the world. And brace yourself stereotypical, cheesy, predictable romance too. Special Effects/Editing 3/10 Some of the obvious fully computer rendered scenes looked worse than the old star wars flicks. (The polar bear moment and the planes flying over the pyramids made many laugh) Other scenes, such as the Paris action looked good. Way too many explosions, even more than Michael Bay would want. The editing cut to different shots faster than any action movie I've ever seen. There were plenty of \"What the hell just happened?\" moments. Its a big G.I BLOW Unfortunately. For more info: http://news.yahoo.com/s/ap/20090804/ap_en_ot/us_film_gi_joe",
+         "OK, I had almost every GI Joe toy growing up. I also watched the cartoon. Being a young kid during the 80's was awesome. As far as I am concerned, the toys and the cartoons from that era are the best. However, after first seeing the preview for GI Joe, and seeing that they now wore mech suits...... I had very low expectations for the movie. Just figured they were trying yet another way to milk money off of the remainder of 80's cartoons/ re-imaging. However, I have to say, even though there was a little cheesiness to it, I really enjoyed this movie. This movie is based off a toy/cartoon/comic book. It isn't like other comics that could be deep, or thought provoking. It was always mainly about action, cool weapons, good guys and bad guys, getting caught and then escaping. This movie is just that. A action movie from start to finish. Has enough of a storyline to make it from beginning to end, but is mainly about the action. It doesn't give you a lot of back story to the characters. You do get a couple flashbacks, just so you know who people are, and how they are connected. But this isn't really an origins movie. I think some people were expecting some kind of epic movie experience. This movie is not that! This is a popcorn/ summer action movie/ and a way to relive some childhood memories for those of us who grew up watching the cartoon, or playing with the toys. For those of you complaining about plot holes, and/or unbelievable science......... come on!!! What about the original cartoons was so believable??? This is fantasy!!! I will admit though, although I did like the movie, some of the special effects were not that good. There were a few times during the movie where I saw something that just looked too fake, and I was like ... \"that is just cheesy\". But overall, it was a fun movie. Definitely not one I regret going to see.",
+         "Bad expectations, movie even worse. I went to see this movie because a friend of mine really wanted to go there and I thought: why not, I didn't hate transformers 2 (although it wasn't really good), and I had seen the trailer with the Eiffel Tower scene which looks pretty amazing. The rest of the film was pretty amazing too. But not amazing in a good way. I just couldn't believe how bad it was. I am actually still amazed as hell. The story is so crappy that I think I could write a thousand stories which are better. Here is a series of 'highlights'. It all starts in the Middle Ages, where some weapon maker is being punished for selling weapons to both sides. This has almost nothing to do with the film except that the weapon maker is an ancestor of a really bad guy in the movie. Then there is a transport of very high tech rockets which are almost stolen by some guys with really high tech weapons, but some other guys with high tech weapons come to the rescue. (indeed, every weapon in the movie is high tech, like year 3009 high tech). The rescue guys appear to be a special forces team called G.I. Joe. The surviving guys from the transport really like to join the team, but they need to be trained first. At the end of the first day of training they are almost scoring highest in the history of the team, so they are done. Right. Then the bad guys come in and steal the rockets. This time they succeed so the G.I. Joes need to get them back. This results in some really good action scenes including the Eiffel Tower coming down. It all looks really realistic. But after this it's only down the hill. The bad guys seem to have built a base under the polar ice, the size of a little city. Somehow no one ever noticed something happening there. Or everyone knew but just didn't inform G.I. Joe. By the way: it actually wasn't really cold out there somehow, because a lot of people didn't wear special clothes while walking around on the ice and it didn't seem to bother them at all. Or the actors just didn't know how to act like it was cold. That is possible because none of the actors was really looking like he/she cared a lot. Marlon Wayans was probably the least bad while he wasn't even funny. I think that says enough. The polar base is destroyed after a fight won by the good guys and because of the explosions the polar ice sinks together with the base. Yes, dear readers, the ice sinks. So alls well that ends well. oh, first one of the good guys needs to take down some rockets the bad guys managed to shoot just before the base was destroyed. Somehow the rockets can only be taken out by a supersonic plane that can only be controlled by speaking Celtic, which one of members of G.I.Joe happens to speak. So actually it's not really a problem, I think. Maybe it is a problem, I don't know, but it just doesn't make sense. Nothing in the whole script makes any sense. I still don't believe it. I'm sorry guys, it's overwhelming me. I need to stop writing or I'll start crying or worse. Just remember: don't watch the movie!",
+         "Please, take note that I rated this film 8 only because of it's value as an action film, but that's exactly the point I came here to get across. Everybody seems to have the same argument when they trash this film.. \"it's all effects and no brains or dramatic undertones\". OK, that is true, I've got to admit, but then again what kind of movie were these people actually expecting to see? Huh?! G.I. Joe is as pure as an action film can possibly be and most importantly, it doesn't pretend to be anything else. Look at the poster. Check out the trailer. After those, were you perhaps waiting to see an Ingmar Bergman film? IT'S G.I. JOE, for Christ's sake! And I must say that in it's category, it isn't that bad. Sommers can direct good action sequences (the pursuit on the streets of Paris is stunning!) and although the film is obviously overblown with ridiculous gadgets and over the top plot lines, it doesn't matter because Joe succeeds in it's ONLY primary mission: to be entertaining. It's never boring and it's the silly fun it was always going to be. So in a nutshell.. if you want a serious film to watch, check out There Will Be Blood or Doubt, but if you just want to forget for two hours the mess your leaders have left your nation, nay, the *world* and just have fun, check out this action film. Thank you.",
+         "Let me first say that I knew absolutely nothing about the GI Joe franchise except that they were (are?) toys. But that did not hinder me from enjoying this movie. What do you get if you mix a few parts James Bond, a few parts Transformers and a few parts Star Wars? Well, you get G.I. Joe: The Rise of Cobra! Basically, if you like the aforementioned movies you will probably enjoy this one. Things explode constantly, shiny things glimmer past the screen and hot chicks in tight outfits show up now and then. If you are the type who crave realism in your movies then do not - I repeat, do not see this one. Realism does not even come within shooting distance of this movie. But if you can enjoy a popcorn summer movie then this is not a bad way to spend an afternoon. And yes - there is a Wayans brother in this, but strangely enough, he did not annoy me...",
+         "This movie may have a questionable script, some sub-par actors (Some were surprisingly good for a popcorn movie which is applaudable) and some Team America style action (They seemed to cause a lot more damage to Paris then the terrorists plan to) but the film can not help but be entertaining. It has what Transformers 2 had which was good special effects, but what Transformers 2 lacked was entertainment which this movie definitely has, even if it is n't a very good movie from a movie point of view. While lots of people and critics alike are going to bag the hell out of this film, I think as long as you go in with an open mind a low expectancy of the movie to hold any sort of realism you will have a pretty good time, which is really the reason the film was made (After the money of course). Overall, this film is a good watch for non fans of the series at least but, not having seen the cartoon I cant speak for existing fans of G.I. Joe but I had a good time, and I think a lot of other people will 2 as long as they can maintain an open mind.",
+         "I have to confess I'm not much of a G.I. Joe fan when I was a kid, partly because the other Hasbro product in transforming robots had more appeal to a boy than a bunch of plastic figures in military garb. The cartoon series too didn't convert me either, as it was up against a whole host of classic series from MASK to Silverhawks, Centurion to Starcomm. Ahh, the wonderful 80s to be growing up... So while I do not hold G.I Joe in as high a regard as Transformers, between the two films this summer based on the Hasbro toys, I will unabashedly proclaim that G.I. Joe triumphs over the other by a long mile. Michael Bay in his second robot outing has proved to be a two-trick pony, relying on countless of larger than large explosions - hardly a frame passes by without being engulfed in an inferno - and of course, Ms Fox's bouncing assets in slow motion. While one can afford to leave one's brains at the door for popcorn flicks such as these, Bay had forgotten than they have to be basically fun to watch, and magically he had dumbed Transformers down to a mind-numbing bore. Enter Stephen Sommers, who had a couple of box office successes with the action-adventure genre in The Mummy movies, so this guy obviously knows what he's doing, and it shows. Forget the excuse of a story just to link up the big set action pieces, and it is precisely in the action that Sommers understood when to show restraint, add in a dash of humour, pepper it with proper camera angles, though of course still unable to buckle the trend of slowing things down just before any impact. Slow motion unfortunately is here to stay I guess. There are obviously some updates to this big budgeted flick, that while it's still a military- type based movie per se, some common sensibilities have crept in. No more are the soldiers \"Real American\" heroes (though that iconic phrase still managed a mention), and a more inclusive (but still token in a way) United Nations type best-of-the-best elite troopers get invited to this highly classified unit blessed with unlimited budget for high tech weapons and toys. Unlike Bay's invasion-and-conquer type of US troopers, these guys do get arrested after they unleash their weapons of mass destruction, diplomatic immunity not withstanding afterwards. And of course having futuristic toys help to lift this into fantasy-land, than an all out US Military commercial selling the virtues of why Uncle Sam needs you. Sommers also managed to blend in the myriad of characters from the beloved toy lines and series, akin to what Bryan Singer managed to pull off with X-Men, but of course without the cerebral material to go along. Everything here is plain and simple, with black being black and white being white. It doesn't get bogged down with trying to tell the origin stories of everyone, but does so at precise intervals. I suspect if there was going to be more movies, then the case dossiers of the Joes would get their respective air time. Otherwise, like the subtitle mentioned, it's more of a bad guys take all film, where surprisingly the Joes always a step behind, from the first action sequence until the last. It was smart too that the film had action over land, sea and air, covering a wide range of military operations to mop up a growing conspiracy involving arms dealers and nano- technology that doesn't seem to far fetched (in fact also seen before in other science fiction films). The best part of course is echoing some sentiments whenever opportunity allows in lambasting a superpower's policies, including a subtle jibe that most of the world's terrorist type problems, stem from ineptness and how the monster came to grow from within. G.I. Joe was much better than expected as pure entertainment, and you really shouldn't give this a miss as it might just restore your faith in big-action summer popcorn flicks that takes a huge leaf out of their cartoon counterparts. A bevy of good looking, established stars in its casting also helped in making this watchable, even though some, like Ray Park, had to spend all his time behind a mask. See if you can spot an uncredited Brandan Fraser as well!"
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Paramount Pictures",
+         "Spyglass Entertainment",
+         "Hasbro"
+      ],
+      "summaries": [
+         "Two soldiers stationed in Kazahkstan (Captain Duke Hauser and his partner \"Ripcord\") are ordered to transport special warheads created by MARS, an arms' manufacturer controlled by James McCullen. When they are attacked by thieves (led by Anastasia DeCobray, with whom Duke has history), they are saved by a top secret, international special forces unit known as \"G.I. Joe\". The leader of G.I. Joe, General Abernathy (or Hawk) is on the trail of the thieves: an evil organization called \"Cobra\". While Duke and Ripcord train to join the Joes, McCullen (\"Destro\") is secretly working for Cobra and plotting to recapture his metal-eating \"Nanomite\" warheads. Duke and Ripcord (with help from Heavy Duty, Snake Eyes, and the rest of the Joes) must prove that they are Real American Heroes -- by stopping the launch of these warheads before Cobra uses them to take over the world.",
+         "An elite military unit comprised of special operatives known as G.I. Joe, operating out of The Pit, takes on an evil organization led by a notorious arms dealer."
+      ],
+      "budget": 175000000
+   },
+   "movielensId": 70336,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français",
+         ""
+      ],
+      "releaseDate": "2009-08-04",
+      "dvdReleaseDate": "2009-11-03",
+      "directors": ["Stephen Sommers"],
+      "runtime": 118,
+      "movieId": 70336,
+      "title": "G.I. Joe: The Rise of Cobra",
+      "mpaa": "PG-13",
+      "actors": [
+         "Dennis Quaid",
+         "Channing Tatum",
+         "Marlon Wayans",
+         "Sienna Miller",
+         "Joseph Gordon-Levitt",
+         "Saïd Taghmaoui",
+         "Christopher Eccleston",
+         "Adewale Akinnuoye-Agbaje",
+         "Lee Byung-hun",
+         "Rachel Nichols",
+         "Ray Park",
+         "Arnold Vosloo",
+         "Kevin J. O'Connor",
+         "Grégory Fitoussi",
+         "Jonathan Pryce",
+         "Leo Howard",
+         "Brandon Soo Hoo",
+         "Gerald Okamura",
+         "Karolina Kurkova",
+         "David Murray",
+         "Brendan Fraser",
+         "Frederic Doss",
+         "Peter Breitmayer"
+      ],
+      "imdbMovieId": "1046173",
+      "originalTitle": "G.I. Joe: The Rise of Cobra",
+      "genres": [
+         "Adventure",
+         "Action",
+         "Thriller",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "aFtzNHTB4C0",
+         "lDVvFUbnqEM"
+      ],
+      "plotSummary": "From the Egyptian desert to deep below the polar ice caps, the elite G.I. JOE team uses the latest in next-generation spy and military equipment to fight the corrupt arms dealer Destro and the growing threat of the mysterious Cobra organization to prevent them from plunging the world into chaos.",
+      "tmdbMovieId": 14869,
+      "avgRating": 2.80856,
+      "releaseYear": "2009",
+      "numRatings": 1998,
+      "posterPath": "/29eW5c5DaCFQejdt9V14RrA51yD.jpg"
+   }
+}

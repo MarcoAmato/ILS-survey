@@ -1,0 +1,611 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "winter",
+            "id": 1442
+         },
+         {
+            "name": "belgium",
+            "id": 1690
+         },
+         {
+            "name": "world war ii",
+            "id": 1956
+         },
+         {
+            "name": "nazi",
+            "id": 2652
+         },
+         {
+            "name": "bravery",
+            "id": 3930
+         },
+         {
+            "name": "ardennen",
+            "id": 8975
+         },
+         {
+            "name": "slaughter",
+            "id": 10089
+         },
+         {
+            "name": "nazi germany",
+            "id": 11064
+         },
+         {
+            "name": "soldier",
+            "id": 13065
+         }
+      ],
+      "imdb_id": "tt0373283",
+      "video": false,
+      "title": "Saints and Soldiers",
+      "recommendations": [
+         4997,
+         15669,
+         1783,
+         15267,
+         21887,
+         14582,
+         13560,
+         16164,
+         41852,
+         133558,
+         56179,
+         73897,
+         13369,
+         25935,
+         12576,
+         10655,
+         17082,
+         33545,
+         31981,
+         10247
+      ],
+      "backdrop_path": "/5h7W7XU7LoTZwlsEJdnPDej6Ief.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 16,
+               "character": "Private Shirl Kendrick",
+               "gender": 2,
+               "credit_id": "52fe43279251416c75005981",
+               "name": "Larry Bagby",
+               "profile_path": "/zBXOdQkskwkYCK34RnVKTVaI8DR.jpg",
+               "id": 426,
+               "order": 0
+            },
+            {
+               "cast_id": 18,
+               "character": "Medic Steven Gould",
+               "gender": 2,
+               "credit_id": "52fe43279251416c7500598b",
+               "name": "Alexander Polinsky",
+               "profile_path": "/cccLwwnpK089AjvCBcgOFsJn5wq.jpg",
+               "id": 63493,
+               "order": 1
+            },
+            {
+               "cast_id": 20,
+               "character": "Flight Sergeant Oberon Winley",
+               "gender": 2,
+               "credit_id": "52fe43279251416c75005995",
+               "name": "Kirby Heyborne",
+               "profile_path": "/kRBGQen6VXydoqkwwaRmJfuebOb.jpg",
+               "id": 63494,
+               "order": 2
+            },
+            {
+               "cast_id": 21,
+               "character": "Corporal Nathan 'Deacon' Greer",
+               "gender": 2,
+               "credit_id": "52fe43279251416c75005999",
+               "name": "Corbin Allred",
+               "profile_path": "/1REAXIdyWFaSkrSvX6pLHymgIwI.jpg",
+               "id": 63492,
+               "order": 3
+            },
+            {
+               "cast_id": 22,
+               "character": "Rudi",
+               "gender": 0,
+               "credit_id": "52fe43279251416c7500599d",
+               "name": "Ethan Vincent",
+               "profile_path": null,
+               "id": 63498,
+               "order": 4
+            },
+            {
+               "cast_id": 27,
+               "character": "Catherine",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059b1",
+               "name": "Melinda Renee",
+               "profile_path": null,
+               "id": 63499,
+               "order": 5
+            },
+            {
+               "cast_id": 25,
+               "character": "Sophie",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059a9",
+               "name": "Ruby Chase O'Neil",
+               "profile_path": null,
+               "id": 63500,
+               "order": 6
+            },
+            {
+               "cast_id": 26,
+               "character": "Radio Announcer",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059ad",
+               "name": "Jeff Birk",
+               "profile_path": null,
+               "id": 63501,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Private McKinley",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059a1",
+               "name": "Ben Gourley",
+               "profile_path": null,
+               "id": 63502,
+               "order": 8
+            },
+            {
+               "cast_id": 29,
+               "character": "American Soldier #1",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059b9",
+               "name": "Chris Clark",
+               "profile_path": null,
+               "id": 63508,
+               "order": 9
+            },
+            {
+               "cast_id": 28,
+               "character": "Weeping Soldier",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059b5",
+               "name": "M. Casey Reeves",
+               "profile_path": null,
+               "id": 63507,
+               "order": 10
+            },
+            {
+               "cast_id": 30,
+               "character": "German Soldier #1",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059bd",
+               "name": "Curt Dousett",
+               "profile_path": null,
+               "id": 63505,
+               "order": 11
+            },
+            {
+               "cast_id": 41,
+               "character": "German Soldier #2",
+               "gender": 2,
+               "credit_id": "547eff2c92514124af00111c",
+               "name": "Michael Buster",
+               "profile_path": null,
+               "id": 63495,
+               "order": 12
+            },
+            {
+               "cast_id": 31,
+               "character": "German Officer #1",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059c1",
+               "name": "Randy Beard",
+               "profile_path": null,
+               "id": 63504,
+               "order": 13
+            },
+            {
+               "cast_id": 33,
+               "character": "Injured One-Armed Soldier",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059c9",
+               "name": "Tane Williams",
+               "profile_path": null,
+               "id": 63503,
+               "order": 14
+            },
+            {
+               "cast_id": 34,
+               "character": "Conversing German #1",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059cd",
+               "name": "Christian Lee",
+               "profile_path": null,
+               "id": 63509,
+               "order": 15
+            },
+            {
+               "cast_id": 35,
+               "character": "Conversing German #3",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059d1",
+               "name": "Philip Malzl",
+               "profile_path": null,
+               "id": 63511,
+               "order": 16
+            },
+            {
+               "cast_id": 36,
+               "character": "Conversing German #2",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059d5",
+               "name": "Christian Malzl",
+               "profile_path": null,
+               "id": 63510,
+               "order": 17
+            },
+            {
+               "cast_id": 37,
+               "character": "Ghost Figure",
+               "gender": 0,
+               "credit_id": "52fe43279251416c750059d9",
+               "name": "Dawn Graham",
+               "profile_path": null,
+               "id": 63512,
+               "order": 18
+            },
+            {
+               "cast_id": 40,
+               "character": "Gordon Gunderson",
+               "gender": 0,
+               "credit_id": "5388a4aa0e0a26144a006547",
+               "name": "Peter Holden",
+               "profile_path": "/2kuHeLA93HVY1Kw9vQ1woXsNDP0.jpg",
+               "id": 1225911,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c75005935",
+               "name": "Lawrence Bagby",
+               "profile_path": null,
+               "id": 63479,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c7500593b",
+               "name": "Geoffrey Panos",
+               "profile_path": null,
+               "id": 63478,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43279251416c75005941",
+               "name": "Ryan Little",
+               "profile_path": null,
+               "id": 63477,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c75005947",
+               "name": "Fenton Quinn",
+               "profile_path": "/qncZNh1lbKYqxXNLQGTohRf7I1z.jpg",
+               "id": 63484,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43279251416c7500594d",
+               "name": "Brian Brough",
+               "profile_path": null,
+               "id": 63481,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c75005953",
+               "name": "Charles Chan",
+               "profile_path": null,
+               "id": 63482,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c75005959",
+               "name": "Sunny Chen",
+               "profile_path": null,
+               "id": 63480,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c7500595f",
+               "name": "J Bateman",
+               "profile_path": null,
+               "id": 63485,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43279251416c75005965",
+               "name": "Adam Abel",
+               "profile_path": null,
+               "id": 63489,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c7500596b",
+               "name": "Bart Hendrickson",
+               "profile_path": null,
+               "id": 63486,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c75005971",
+               "name": "Jennifer Buster",
+               "profile_path": null,
+               "id": 63487,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c75005977",
+               "name": "Wynn Hougaard",
+               "profile_path": null,
+               "id": 63490,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c7500597d",
+               "name": "Steven A. Lee",
+               "profile_path": null,
+               "id": 63491,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43279251416c75005987",
+               "name": "Michael Buster",
+               "profile_path": null,
+               "id": 63495,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43279251416c75005991",
+               "name": "Matt Whitaker",
+               "profile_path": null,
+               "id": 63496,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43279251416c750059df",
+               "name": "Ryan Little",
+               "profile_path": null,
+               "id": 63477,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43279251416c750059e5",
+               "name": "Ryan Little",
+               "profile_path": null,
+               "id": 63477,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         },
+         {
+            "name": "War",
+            "id": 10752
+         }
+      ],
+      "popularity": 6.454894,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10105,
+      "vote_count": 113,
+      "budget": 780000,
+      "overview": "Five American soldiers fighting in Europe during World War II struggle to return to Allied territory after being separated from U.S. forces during the historic Malmedy Massacre.",
+      "similar": [
+         228150,
+         1771,
+         857,
+         369885,
+         1654,
+         853,
+         5925,
+         423,
+         424,
+         2253,
+         16869,
+         14574,
+         613,
+         616,
+         374720,
+         339259,
+         324786,
+         289222,
+         1251,
+         12412
+      ],
+      "original_title": "Saints and Soldiers",
+      "runtime": 90,
+      "poster_path": "/9sN1aakDUwUuL8Es317toWiF3ez.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Excel Entertainment",
+         "id": 2934,
+         "origin_country": ""
+      }],
+      "release_date": "2003-09-11",
+      "vote_average": 6.5,
+      "belongs_to_collection": {
+         "backdrop_path": "/uAv2zvBtIGujt9jGELeHKEaNjRi.jpg",
+         "name": "Saints and Soldiers Collection",
+         "id": 306063,
+         "poster_path": "/ypL9pYL6dY7zO12r4qYIQM1Ekvr.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Ryan Little"],
+      "runtime": 90,
+      "synopsis": "The movie opens as the Allies discover the bloody remains of the Malmedy Massacre. We soon learn how the Germans attacked the unarmed prisoners, killing most of them. Several of the soldiers escape and hide out in a bombed-out house. There's \"Deacon\" (Allred) the ex-missionary who is haunted by something from his past that prevents him from sleeping for days at a time. He's also a crack rifleman. Joining him in escaping are Gould (Polinsky), the medic and a boy from Brooklyn, who seems suspicious of everyone, \"Shirl\" (Bagby) a tough soldier from Louisiana with a lust for killing Germans, and Sgt Gunderson (Holden) from Chicago, who takes command of the group. With the rescue of a British pilot, Winley (Heyborne), the group is complete. The obvious distrust/dislike between Winley and Shirl causes friction, but when the group finds out that Winley holds vital intelligence that will greatly aid the Allies in the ongoing \"Battle of the Bulge\", they agree to get him across 20 miles behind enemy lines to army intelligence. Several close encounters with Germans ensue. Deacon's psychosis continues to escalate as his visions intensify. We find out that in a recent skirmish, Deacon accidentally killed 2 woman and 6 children while trying to take out a sniper. We get to learn more about the lives of the soldiers and in one telling scene, the deep religious feelings of Deacon and contrasted with the agnostic Gould as each of them tells the story of holding a dying soldier. The men stumble upon a remote house occupied by a French woman and her child. They are warmly welcomed by the woman who provides them shelter and food. A massive winter storm slows the group as they hole up at the woman's place. Winley tries to to take off alone and a German patrol soon shows up at the house. The soldiers attack the Germans while the sharp-shooting Deacon misses an escaping German at point blank range twice. The German is caught by Winley and returned to the group. As they argue about whether they should execute the prisoner, Deacon recognizes him as a German he once encountered in his missionary work. He attributes his missing the escaping German to a divine intervention. During the night, Deacon allows the German to escape in exchange for some information about troop movements. The soldiers leave the next morning but Gunderson is shot and killed by a German patrol. A full scale fight ensues and Winley is wounded. Shirl is shot carrying Winley to safety and the two finally make peace just before Shirl dies. The three survivors are approached by a German soldier as they try to revive Winley. It turns out to be the same German that Deacon had let escape the night before. He allows them to escape and they grab an abandoned jeep and head toward the Allied lines. Disguised as German medics with a wounded soldier, they work through their way through the German lines. The Americans, thinking they are German begin shooting at them and the Germans are firing at them from behind as well. Deacon tries to hold off the Germans while Winley escapes with Gould, but is shot and killed in the fire fight. His dying vision is of the family he accidentally killed. Winley and Gould make it to Allied command and the critical information helps stop the German's offensive leading to an Allied victory in the Battle of the Bulge. Gould finds Deacon's body and takes his Bilble, thanking Deacon for saving his life.",
+      "writers": [
+         "Geoffrey Panos",
+         "Matt Whitaker"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0373283/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA5NDEyNjg3NV5BMl5BanBnXkFtZTYwNDMyMjk2._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Corbin Allred, Alexander Polinsky, Kirby Heyborne | See full cast and crew »"],
+      "reviews": [
+         "My wife and I go out to see a movie every Friday night. Some nights, I'll tell you, the Picken's Is Slim, as they were when we saw this film about six months ago (if memory serves). I'd never heard of it. She didn't want to see any more war films since that miserable, over-hyped \"Pearl Harbor\" with the lame love story thrown into the mix. (Cuba Gooding was the only good part in the movie, and, shock! His character's part really happened, too! Hollywood take note!) To tell you the truth, we nearly went to rent something to watch at home, but as we left, we heard a guy in line talking excitedly about how he'd seen it three times, and loved it. What the heck. We got back in line. Their popcorn is better than ours. We went in, not expecting much of anything. I'll tell you, we were blown away. I came on this site tonight because I've been meaning to write and tell everybody to go see this little film that only ran a week in our local theater. (Buy the DVD!) I have read every comment on this site, and have to LOL at the comments about Mormons. What Mormons? I never even knew it was Mormons until I read it tonight on this site! And so what? It happened to a Mormon guy. It was his story. You expect Catholics to tell it? The other complaints about the story being predictable...what? It sure got us! It was a true story. Don't you get it? If it's true, you can't change what really happened--and what happened was humanity showing it's face. It was right winning out over allegiance. I'm looking forward to the DVD coming out. I'm getting it and showing it to all my friends. This is film-making the way it should be done. We want to see it more of it.",
+         "Every once in a while a little movie will come along totally unheralded, unexpected, under budget, under promoted, but which really shouldn't be missed. Saints and Soldiers is such a movie. If you like lots of big budget special effect -loud explosions, -crashing airplanes, -panoramic scenes with thousands of extras slogging through the mud, -if that's what you want in a war movie, skip this one. It doesn't have any of those things. What it does have, however, is a very effective ensemble cast telling a very compelling story, -a true story, of the Battle of the Bulge. From the utter confusion and tragic consequences of the \"Malmedy Masacre\", depicted in this movie as more an accident of the fog of war rather than a cold calculated act, to the final climactic battle scenes, this movie shows world war II as it most likely really was. A very personal war for each soldier involved. My uncle was a soldier who lost a leg in Europe during that time and as he related experiences of battle, he always made it perfectly clear that war was always a very personal thing. You were doing everything to survive. Your enemy was doing the same thing, and somehow battles were eventually won or lost. The average G.I. didn't know, or much care what was going on over the hill, or on a grand scale. He only knew he and a few of his buddies were being shot at by a few of the enemy and they had to shoot back or perish. It's all about living another day. This movie conveys those sentiments very clearly. It is about daily survival without the grandiose trappings. You really wind up caring about each of these characters. It is well worth seeing. Especially if you were a soldier -or know a soldier, -or just want to know more about being a soldier. In my opinion it will go down in history as one of the more realistic war movies ever made.",
+         "This movie is worthy of the 14 \"Best Picture\" awards it has already won...I hope that it gets a bigger national release. I live in the San Diego area and I just took my family to see this film tonight, and I have to say that this is one of the most moving films I have seen. I felt like this was an appropriate movie for my 13 yr old daughter to view (I would not recommend for any younger). The story was told so well that I felt she understood the underlying messages. We were able to have a very long discussion afterward about war and accountability of those who unjustly cause wars. We talked about recognizing the humanity behind the \"enemy\" soldiers who are, for the most part, just doing their duty to country. These men have wives, children, fathers and mothers who love them just as much as the families of the soldiers on \"our\" side. I literally was speechless at the end of the film. The \"surprise\" ending caught me a little off-guard with its VERY poignant and thought provoking message. The characters were well developed and I really felt that i could empathize with each man's approach to the situation they were in. The impact of the movie far exceeded its budget. I was very impressed with the actors (for example, the beautiful French woman...who WAS that?). I think I was most impressed with the acting of the Medic (The exchange of looks between him and the German prisoner at the end of the movie was classic!). I read a lot of the reviews prior to watching this film, so I had somewhat of a biased opinion about what I might see. I have to admit, I found myself feeling like the movie exceeded my expectations and was VERY much worth it. I don't buy many movies...this is one I definitely will buy for my private library.",
+         "This is a very simple story, told in a very simple way.A group of soldiers escape capture and fight their way to rejoin friendly forces. Nothing new or unusual there. However Ryan Little has managed to tell this simple story with a great sense of compassion and feeling. So much so that at times I had to remind myself that this was a story of war. Little manages to do what many others have failed in the modern war movie, let the story take preference over special effects and shock tactics. The largely unheralded cast turn in steady, rather than spectacular, performances. Yet they work well within the over all feel of the movie, showing that war is fought by, in the most part, ordinary people under extraordinary circumstances. At times the pace was a little labored, particularly at the farmhouse. The relationship with the mother and child seemed to develop too quickly, somehow become pivotal almost instantly. This aside, character development occurs at a natural and easy pace. All these men are people we will meet in our own lives, bringing the story even closer to the audience. This is one of the most satisfying war movies that I have seen for a long while. Without the big budgets and extreme violence, this little gem delivers a fantastic reward for those who take the time to watch. 8.5/10",
+         "In my own opinion, this is a triumph for war movies. It's just as intense as any war movie, but doesn't contain all the blood and guts our society today gives us. It has enough to convince the audience that it's all real and then brings you into the atmosphere by the fantastic acting. (Kudos to all actors involved) This is also a low-budget film, which helps you appreciate it even more because there are no signs of that small budget. This is just as intense as pretty much any war movie you will ever see, but you don't have to worry about it being too violent or bloody. It's just as compelling because it puts you inside the eyes of the soldiers themselves. I hope that all who have access to see this movie take advantage of it because this is a side of cinema that isn't seen often.",
+         "The comment posted on the main page link certainly had an axe to grind against mormons. In fact the film itself never at all mentions the LDS church and for all we know Deacon could have been a baptist. That is all besides the point. The film takes us where a war film has never been before, the religious implications. And it is not overtly preachy. Somehow with under $1 million dollars the director has made a film that looks like an epic hollywood war film, complete with handheld cameras and a few war buddy cliche's. But what seperates this film from the pack is its main character, a devout religious sharpshooter, shellshocked from a raid gone bad, trying to make moral sense of what is going on. The film is also a great war film, and impecably accurate historically. The only sign that the film is low budget is its musical score, which at some times is a bit obtruse, but the acting is superb, and the directions is excellent. 9/10",
+         "Saints and Soldiers is a quite powerful movie. It has a very human side, although the idea is not very unique. A movie about 5 brave allied soldiers fighting their way back to base from behind enemy lines, during WW II. Each of the characters embodies a different human typology. There is a subtle religious side, also. The movie has a good visual narrative construction. It is worth being seen. The main idea is that, behind the soldier uniform there is a human being.",
+         "FOR more then a year I have waited to see Ryan Little's SAINTS & SOLDIERS. Back in the fall of 2002, KSL-TV did a featurette on Mormon filmakers and showed location scenes being shot in Alpine, Utah of a film with a World War II setting. It seemed like an ambitious undertaking for a low budget filmmaker. As time went on and the film was completed, word came out that the film was very good. Instead of bring it immediately to local theatres, Excel (the distributor for the film), began showing it at film festivals all over the place -- and it hit home with film fans, winning numerous awards. Today, Friday, August 6th, 2004, the film opened it theatrical run here in Utah. Now I have had the opportunity to see the film for myself and can say that it is EXCEPTIONAL! Uncle Sam invited me to join them for 2 years back in the early 1960's. I was glad to serve my country and was even more gratful that I did not have to actual fight in a shooting war. Going through basic training and later, holding my breath as the Cuban missile crisses came and went, I wonder what I would do if called upon to fire with intent to kill. I'm glad that I was not put to that kind of test. As I experienced SAINTS & SOLDIERS, watching a young soldier of faith, who had previously served his church as a missionary in Berlin, face the reality of killing those whom he had come to love and respect, it touched my heart in a way no other war film has ever done. The film is very well acted, tense, moving and thought provoking. In short, this is a film that I will strongly recommend, will return again to see in the theatre, and will certainly purchase when released on DVD. Congratulations to all involved!",
+         "Many films succeed outside the context of Hollywood hype. This one provides several messages competently executed by new talent, and without the special effects so commonly packaged by Tinseltown. Dialog and talent hold one's attention in a real-world interpretation of the Malmedy massacre and it's aftermath in WW2 Belgium. The tagline, 'A Time For Heroes' says much and it's more than appropriate for our time since the definition of 'hero' has been broadened by current events and uncommon courage. Lighting, sound, location, editing, and inventive writing make this a weekend wonder if you're seeking a story of principled men in desperate circumstances. Not unlike John Sturges' films.",
+         "Nothing but clichés really. DD (French for Deadly Dull). There's a cynical New Yorker who learns near the end that not all Germans are bad. He has a secret. There's a young ex-missionary religious type who hates to kill but is a great shot with a rifle. He has a secret. There's a tough but kind-hearted sergeant. There's a French woman with a young daughter. They live in a stone cottage in the woods. Afraid at first, she comes to love the Americans and gives them some bread. There's a polite but unctuous Brit. There's a gent from Louisiana who likes to say \"whatever\" some 50 years before it came into common usage. He spends part of his time asking the Brit for a cigarette and being turned down. He then saves the Brit but is wounded. The Brit puts a cigarette in his mouth and, yup, he dies. The Brit cries. He's learned to be more human. There are some sadistic Germans. But there's one good one. Just one. There's no drama, no tension, no interesting action. The Americans are hidden in an old building. Germans come and camp out above them for a while. It should have been nerve-wracking. Instead, you feel nothing. It isn't even interesting. When there's a revelation, music comes up and the character stares at the camera for a bit. So that you won't miss it. The acting wasn't the worst. The story and direction are a joke. The worst episode of \"Combat\" beats this hands-down."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "War"
+      ],
+      "productionCompanies": [
+         "Go Films",
+         "Medal of Honor Productions LLC"
+      ],
+      "summaries": [
+         "After surviving a massacre in Malmedy, a location behind the German army in Europe, four American soldiers with only one weapon rescue the British pilot Oberon Winley (Kirby Heyborn) in a tree and they move together, trying to reach the allied forces and save a great number of allied soldiers from a German attack with the information got by Winley in his flight. While marching, each soldier discloses inner secrets to the rest of the group.",
+         "Based on actual WWII events, the award-winning \"Saints and Soldier\" tells the dramatic story of a small band of Allied soldiers trapped behind enemy lines with information that could save thousands of allied lives. Outgunned and ill-equipped, they must now battle a frigid wilderness and roving German troops to smuggle the critical intelligence back to allied territory. In mid-December 1944, Hitler's Army charges through the Ardennes Forest in Belgium, initiating the offensive that will come to be known as the Battle of the Bulge. The German soldiers open fire on the unarmed prisoners, in the tragic event now known as the Malmedy Massacre. Corporal Nathan \"Deacon\" Greer, his friend Gordon Gunderson and a handful of others survive the massacre by playing dead and escaping into the nearby woods. The small band of soldiers come across stranded British intelligence officer Oberon Winley, who has valuable information to be delivered to Allied forces, increasing the urgency of their already desperate situation. The group forms a fragile bond as they begin to trust each other. But the constant threat of capture, as well as mounting suspicions of a German sympathizer within the group, threaten to tear them apart. Now with few weapons, no food and a strained camaraderie, this tiny band must take on the unforgiving winter and a forest filled with enemy troops to fight their way back to Allied occupied territory.",
+         "Four American soldiers fighting in Europe during World War II are separated from U.S. forces during the historic Malmedy Massacre. Most of their fellow soldiers are slaughtered by German forces, leaving them stranded and without support behind enemy lines.",
+         "Four American soldiers and one Brit fighting in Europe during World War II struggle to return to Allied territory after being separated from U.S. forces during the historic Malmedy Massacre."
+      ],
+      "budget": 780000
+   },
+   "movielensId": 27816,
+   "movielens": {
+      "languages": [
+         "English",
+         "Deutsch"
+      ],
+      "releaseDate": "2003-09-11",
+      "dvdReleaseDate": "2005-05-31",
+      "directors": ["Ryan Little"],
+      "runtime": 90,
+      "movieId": 27816,
+      "title": "Saints and Soldiers",
+      "mpaa": "PG-13",
+      "actors": [
+         "Larry Bagby",
+         "Alexander Polinsky",
+         "Kirby Heyborne",
+         "Corbin Allred",
+         "Ethan Vincent",
+         "Melinda Renee",
+         "Ruby Chase O'Neil",
+         "Jeff Birk",
+         "Ben Gourley",
+         "Chris Clark",
+         "M. Casey Reeves",
+         "Curt Dousett",
+         "Michael Buster",
+         "Randy Beard",
+         "Tane Williams",
+         "Christian Lee",
+         "Philip Malzl",
+         "Christian Malzl",
+         "Dawn Graham",
+         "Peter Holden"
+      ],
+      "imdbMovieId": "0373283",
+      "originalTitle": "Saints and Soldiers",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "History",
+         "War"
+      ],
+      "youtubeTrailerIds": ["us-0akvhbFE"],
+      "plotSummary": "Five American soldiers fighting in Europe during World War II struggle to return to Allied territory after being separated from U.S. forces during the historic Malmedy Massacre.",
+      "tmdbMovieId": 10105,
+      "avgRating": 3.53034,
+      "releaseYear": "2003",
+      "numRatings": 379,
+      "posterPath": "/9sN1aakDUwUuL8Es317toWiF3ez.jpg"
+   }
+}

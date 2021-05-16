@@ -1,0 +1,469 @@
+{
+   "tmdb": {
+      "original_language": "es",
+      "keywords": [],
+      "imdb_id": "tt1298554",
+      "video": false,
+      "title": "EVA",
+      "recommendations": [
+         25755,
+         355719,
+         81434,
+         256930,
+         50004,
+         104232,
+         72199,
+         79216,
+         85303,
+         61087,
+         101411,
+         41043,
+         216788,
+         333123,
+         127608,
+         14949,
+         18486,
+         305747,
+         168128,
+         84312
+      ],
+      "backdrop_path": "/tDgOng09RTSRtD149gJ2NKQCYCl.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1006,
+               "character": "Alex Garel",
+               "gender": 2,
+               "credit_id": "52fe4972c3a368484e12be9d",
+               "name": "Daniel Brühl",
+               "profile_path": "/ekMLRjJgRyYJUT8XwjHOZU9KYtU.jpg",
+               "id": 3872,
+               "order": 0
+            },
+            {
+               "cast_id": 1009,
+               "character": "David Garel",
+               "gender": 2,
+               "credit_id": "52fe4972c3a368484e12bea1",
+               "name": "Alberto Ammann",
+               "profile_path": "/5Z1eTkSZeqHkpIoMiuXcLjG8iGo.jpg",
+               "id": 110424,
+               "order": 1
+            },
+            {
+               "cast_id": 1010,
+               "character": "Max",
+               "gender": 2,
+               "credit_id": "52fe4972c3a368484e12bea5",
+               "name": "Lluís Homar",
+               "profile_path": "/aDUujbZn8zVdM6Cie27JfPcdM7S.jpg",
+               "id": 1604,
+               "order": 2
+            },
+            {
+               "cast_id": 1011,
+               "character": "Julia",
+               "gender": 1,
+               "credit_id": "52fe4972c3a368484e12bea9",
+               "name": "Anne Canovas",
+               "profile_path": "/oMkJDF84WeuCWidZHDxhxVortz9.jpg",
+               "id": 33160,
+               "order": 3
+            },
+            {
+               "cast_id": 1012,
+               "character": "Eva",
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12bead",
+               "name": "Claudia Vega",
+               "profile_path": "/8qqJ10EpffqPMH4ganWnx4avxj.jpg",
+               "id": 582258,
+               "order": 4
+            },
+            {
+               "cast_id": 1013,
+               "character": "Prototipo 519",
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12beb1",
+               "name": "Sara Rosa Losilla",
+               "profile_path": "/bwaioQ4mwwJeOqeOEwW3xO7pOav.jpg",
+               "id": 570368,
+               "order": 5
+            },
+            {
+               "cast_id": 1014,
+               "character": "Profesor",
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12beb5",
+               "name": "Manel Dueso",
+               "profile_path": null,
+               "id": 229769,
+               "order": 6
+            },
+            {
+               "cast_id": 1018,
+               "character": "Médico",
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12beb9",
+               "name": "Jordi Díaz",
+               "profile_path": "/bcgQqXGOdDmGBhaSGjvYkuapJfS.jpg",
+               "id": 1008439,
+               "order": 7
+            },
+            {
+               "cast_id": 1019,
+               "character": "Lana Levi",
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12bebd",
+               "name": "Marta Etura ",
+               "profile_path": "/ftnv0pJYivUqxZgnm0FDUYcAUhV.jpg",
+               "id": 587930,
+               "order": 8
+            },
+            {
+               "cast_id": 1029,
+               "character": "Dorotea",
+               "gender": 1,
+               "credit_id": "54d1f5979251411b590021b9",
+               "name": "Ona Casamiquela",
+               "profile_path": "/cmJfIIo01tWNTvVWfFFkos0UdOm.jpg",
+               "id": 1067953,
+               "order": 9
+            },
+            {
+               "cast_id": 1030,
+               "character": "Eric",
+               "gender": 0,
+               "credit_id": "54d1f5b3c3a3683082002217",
+               "name": "Peter Vives",
+               "profile_path": "/1lsA9x1zAZw723rdYQKcCRpKXHw.jpg",
+               "id": 1289332,
+               "order": 10
+            },
+            {
+               "cast_id": 1031,
+               "character": "Camarero",
+               "gender": 0,
+               "credit_id": "54d1f5d29251411b57002243",
+               "name": "Oscar Valsecchi",
+               "profile_path": null,
+               "id": 1422826,
+               "order": 11
+            },
+            {
+               "cast_id": 1032,
+               "character": "Alumno Laboratorio #1",
+               "gender": 0,
+               "credit_id": "54d1f5e79251411b6500220e",
+               "name": "Bernat Saumell",
+               "profile_path": "/bwUuiumIyvxunwdmJqNFtQwCAHU.jpg",
+               "id": 1414862,
+               "order": 12
+            },
+            {
+               "cast_id": 1033,
+               "character": "Alumno Laboratorio #2",
+               "gender": 0,
+               "credit_id": "54d1f5fe9251411b65002215",
+               "name": "Juan Campavadal",
+               "profile_path": null,
+               "id": 1422829,
+               "order": 13
+            },
+            {
+               "cast_id": 1034,
+               "character": "Policía",
+               "gender": 0,
+               "credit_id": "54d1f6159251411b590021cd",
+               "name": "Harris Gordon",
+               "profile_path": "/3f092nXiIR1bpRBBwWTYNvb2ndC.jpg",
+               "id": 17073,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12be81",
+               "name": "Kike Maíllo",
+               "profile_path": null,
+               "id": 582255,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12be87",
+               "name": "Sergi Belbel",
+               "profile_path": null,
+               "id": 319160,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12be8d",
+               "name": "Cristina Clemente",
+               "profile_path": null,
+               "id": 582257,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4972c3a368484e12be93",
+               "name": "Martí Roca",
+               "profile_path": null,
+               "id": 507252,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12be99",
+               "name": "Aintza Serra",
+               "profile_path": null,
+               "id": 466460,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12bec3",
+               "name": "Lita Roig",
+               "profile_path": null,
+               "id": 1008438,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12bec9",
+               "name": "Aintza Serra",
+               "profile_path": null,
+               "id": 466460,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12becf",
+               "name": "Sergi Casamitjana",
+               "profile_path": null,
+               "id": 1008437,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12bed5",
+               "name": "Elena Ruiz",
+               "profile_path": null,
+               "id": 51899,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4972c3a368484e12bedb",
+               "name": "Arnau Valls Colomer",
+               "profile_path": null,
+               "id": 1143001,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4973c3a368484e12bee1",
+               "name": "Laia Colet",
+               "profile_path": null,
+               "id": 962677,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4973c3a368484e12bee7",
+               "name": "María Gil",
+               "profile_path": null,
+               "id": 19815,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4973c3a368484e12beed",
+               "name": "Eva Leira",
+               "profile_path": null,
+               "id": 6530,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4973c3a368484e12bef3",
+               "name": "Yolanda Serrano",
+               "profile_path": null,
+               "id": 6531,
+               "department": "Production",
+               "job": "Casting"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Science Fiction",
+         "id": 878
+      }],
+      "popularity": 6.984025,
+      "production_countries": [{
+         "iso_3166_1": "ES",
+         "name": "Spain"
+      }],
+      "id": 77561,
+      "vote_count": 138,
+      "budget": 7000000,
+      "overview": "Set in 2041, humans of planet Earth now live side-by-side with androids. A well-known cybernetic engineer, Alex Garel, is tasked with an assignment to create a robot in the form of a human child. He returns home to begin his work and finds that his childhood love Lana has married his brother David. Their daughter Eva seems to possess a superior intelligence and powerful charisma that immediately captivates Alex. Looking for inspiration, Alex asks Eva to be the muse of the new robot, which challenges everything Alex ever thought he knew about robots and humans alike.",
+      "similar": [],
+      "original_title": "EVA",
+      "runtime": 94,
+      "poster_path": "/6GxdFoY8DdU8YXvsGoReeibTyuX.jpg",
+      "spoken_languages": [{
+         "name": "Español",
+         "iso_639_1": "es"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/z0vTTWBhZggM09oZWSY3hbXgPKv.png",
+            "name": "Wild Bunch",
+            "id": 856,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canal+ España",
+            "id": 9335,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canal+",
+            "id": 5358,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "Escándalo Films",
+            "id": 7847,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Ran Entertainment",
+            "id": 10654,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Saga-Productions",
+            "id": 44714,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Televisión Española (TVE)",
+            "id": 6639,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2011-10-28",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "You can't program what you feel.",
+      "adult": false,
+      "homepage": "http://www.evalapelicula.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Spain",
+      "color": "Color",
+      "budgetCurrency": "\u20ac",
+      "directors": ["Kike Maíllo"],
+      "runtime": 94,
+      "synopsis": null,
+      "writers": [
+         "Sergi Belbel",
+         "Cristina Clemente"
+      ],
+      "originalLanguage": "Spanish",
+      "imdbLink": "http://www.imdb.com/title/tt1298554/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BODUwNjQyODAzMF5BMl5BanBnXkFtZTcwMTUxOTIwNw@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Daniel Brühl, Marta Etura, Alberto Ammann | See full cast and crew »"],
+      "reviews": [
+         "I watched this film today at the movie theater. The film is beautifully acted and directed. I am very glad to see that in Spain we have new filmmakers able to work within the film industry and still make a great film in the cinematographic sense. \"Eva\" is far more profound than the trailer or the publicity may suggest. It is a deep reflection on human nature and identity. But, and here comes the surprise, it is not a so-called intellectual film. The film is very well done, and it is an example of a new wave of European cinema that is producing great films without necessarily big fireworks. Keep doing the good job, Kike.",
+         "I've marked this review as containing spoilers because I'm afraid it might dis-guide you (and it will) or think differently about the way you approach this movie... and nobody deserves that! At least in not in this movie... But for a summary tag line, my only argument about this movie would be: \"This is the first time I'm writing a review...\" Should be enough, but still, this movie deserves more much more than just a pure emotional line from a very simple and common IMDb user... It's a beautifully told story about the old cliché \"Robots vs Humans\" (that one starts to think it's going to be) and the differences (or not) between them... It was the first time I was lead to believe that robots shouldn't be treated differently... and *****MAJOR SPOILER***** the movies final (awkward) seconds just try to prove it! (I must talk about the ending because most of my mates thought it was a bit too much... and it wasn't, it's there for this very reason!) I can only believe IMDBs poor user rating is due to the fact that Sci-Fi doesn't appeal the mass public... But its 12 wins & 28 nominations speak for themselves... and many more are to come...",
+         "I haven't seen any decent sci-films for years. This one came as a very pleasant surprise. Interesting story, good script, well directed and excellent actors. I also enjoyed the photography. As the story unfolded, I was surprised that I was not correctly predicting the outcome. This made it even more enjoyable. I hate it when I can continuously see what's coming - so boring. I was also intrigued that a sci-fi film had been made in Spain. Not the sort of genre I would have expected. As a long-term British resident in Spain, I always find it a source of pleasure when, once again, a quality film is made in this country. Too many Spaniards do not value the excellent level that the local film industry can reach over here. Overall, a thoroughly well made and enjoyable film for any sci-fi fan, and even for any others who will easily understand the story.",
+         "The story of Alex, a reticent, genius robot programmer, and his enchanting robotic cat: who return to his home town, at the request of the director of a university of robotics. There he must find a suitable human template in order to bring a lifelike personality to a newly designed line of robot boys. His preferred candidate turns out to be his niece: daughter of his former lover, Lana, and her husband: his estranged brother. Alex delights in the company of his niece, further complicating his relationship with his sister in law: with whom he is still, very much, in love. An elegantly told, love story, spiced with mechanical cats and the cutest girl in a red coat since... \"don't look now\"",
+         "Set in 2041, Alex Garel (Daniel Bruhl) is a famous scientific who after 10 years goes to back to his home town to work in his old university . There the shy genius is employed by his former university professor (Anne Canovas) to design robot soft ware . Later on , Alex meets his brother David (Alberto Ammann) , his wife Lana (Marta Etura) and Eva (Claudia Vega) , Alex's 10-years-old niece . Meantime , Alex is assisted by a servant-robot (Luis Homar as the sympathetic android Max) . Looking for inspiration , Alex asks help Eva to be the example the new robot , and to survey her behavior during the time they spend together . The cutest girl Eva fascinates him and he soon begins research so that a robot can take on her personality , making emotional tests and watching attitude to configure its existence . This Sci-Fi film contains fantasy , drama , a tragic love story , thought-provoking issues and is pretty interesting . This is an exciting film though relies heavily on the programmer-Eva , Brother-Brother Relationship and the loving triangle is regularly developed . A movie about childhood , robots , love , it has more than its share of beauty , mysteries and wonders . This good picture takes parts here and there from ¨A.I.¨ by Steven Spielberg , ¨Metropolis¨ by Fritz Land and ¨I Robot¨ written by Isaac Asimov . Good performances from Daniel Bruhl as a well-known robot programmer , his friend played by Anne Canovas who brings him a project to create a new line of robot child and special mention to the girl Clara Lago as the muse of the new robot . Furthermore Alex's former lover and David's current wife well played by Marta Etura along with her husband finely performed by Albert Ammann . In addition , the veteran Luis Homar as likable android Max . Mesmerizing , miraculous and state-of-art special effects , spiced with mechanical cats , horse-robots and other marvelous artifacts . Glamorous and luxurious Cinematography by Arnau Valls Colomer , being filmed on location in Panticosa, Huesca, Aragón, Barcelona, Cataluña, Spain , La Chaux-de-Fonds, Canton Neuchâtel, Switzerland and final scene in Tenerife, Canary Islands . Emotive and sensitive Original Music by Evgueni Galperine and co-composer Sacha Galperine . The motion picture was elegantly directed by Kike Maillo at his best and being hist first film , formerly making various shorts . The 26th Annual Goya Awards (Premios Goyas), presented by the Spanish Academy of Cinematographic Arts and Sciences, it is \"Spain's main national film awards, considered by many in Spain, and internationally, to be the Spanish equivalent of the American Academy Awards¨ gave a deserved Goya to New Director , Kike Maillo , for this above average film titled ¨Eva¨ . Rating : Good , worthwhile watching .",
+         "This movie is a European take on artificial intelligence- less action, more interaction. I found the special effects in this film beautiful and mesmerizing, just enough to engage the imagination in terms of what a robot could and should be and do... There are two plots- one is that a software engineer is trying to design the perfect robot for entertainment that is free (can do what it wants) and is looking for inspiration in a girl he meets called Eva, the other is that this software engineer is coming back to an awkward situation involving his brother and an ex-girlfriend of his, whom he worked with. Despite other reviews I found it quite well done how both plots intertwined. As an audio professional I found some sound parts of the film difficult to stomach, especially the party scene where slow-dancing and speaking at the same time-here rough cuts are clearly audible and it's enough to take away from the great use of David Bowie's music in this scene, a real shame. Beyond that thought I was very impressed with Brühl, that quatri-lingual dreamboat, whom I have until now only seen on German films. It's rare to find somebody who can master and work in fluency. He's definitely found a new fan in me.",
+         "Watching this reminds me of the Isaac Asimov robot stories because it feels like the world his stories were set in. There's even an allusion to the Asimov laws of robotics by stating that robots have to pass a safety test and the cat is illegal because it has free will. The effects are well done and the interactions look believable. The animation physics are slightly wrong in a couple scenes but nothing major. My main problem with the movie is that there isn't enough character development which makes the motives a little ambiguous. The main plot lines are tied up by the end but there's obviously more going on than is ever told. I get just enough to want to know more and that is frustrating. The sci-fi is light enough that I would probably recommend this to anyone even if they would normally skip anything sci-fi.",
+         "Gorgeous Spanish fairytale set in a realistic not too distant future. Eva sees a robot programmer return to his hometown so he can help program a robot child. First he needs to find inspiration from children in the area.After finding the majority to be boring he comes across a young girl named Eva who just happens to be the daughter of his ex-love. Eva fascinates him and he soon begins research so that a robot can take on her personality, but will her characteristics translate well into the robot world? Eva is a film that remains quiet. It knows its ideas and themes are fascinating and so it underplays them and lets your imagination run away with your own ideas. This is expressed best of all when we are first introduced to the world. There is no huge fanfare or showing off. The robots merely exist in the world with the humans. We first get a glimpse of this when Daniel Bruhl returns home and is followed by a robotic cat. The emotions that are present throughout are truly moving as it asks, in typical robot/man fashion, what it is to be human and can science go too far? Bruhl is a wonderful lead, who clearly gets across his fascination with robots, but also his frustration with them. He really does fail to make the most of his gift, but maybe that is for the best. The cinematography is gorgeous, with Eva's red coat constantly standing out from the snow swept landscapes. An enjoyable and thought provoking drama.",
+         "In his debut feature film director Kike Maillo went out on a limb when he chose to make a film set in Spain in the not-so-distant- future about the moral dilemmas of artificial intelligence. Spanish sci-fi? Sounds risky but why not? We're getting a new robot-themed film each month now: Chappie, Big Hero 6, Ex-Machina, Age of Ultron, Elysium to name a few of the most recent. So why not a Spanish robot film for a change? The world \"Eva\" is set in is indeed intriguing. It is set in an idyllic alpine village so perfect it looks like we're peering inside a souvenir snow globe. People drive around in 1970's SAABs, wear wool sweaters, unwind in pubs with cozy fireplaces and go ice skating every afternoon. The only signs that you are in the future is that there are robots everywhere politely and discretely doing secretarial and house cleaning jobs. There are no drones, no self- driving cars, and no robo-cops (Spain should be optimistic of its future apparently). Robots are either doing menial labor, or, apparently, have been geared towards emotional gratification and the companionship of their creators. Our protagonist, Alex (Daniel Brühl) is a robotics software developer who is hired to go after the holy grail of robotics: building a prototype of a robot child that is both realistic (that is, spontaneous) as well as safe (that is, predictable). The strength of this film is to show reconciling these two is impossible, and that the essence of being human is precisely that we cannot be both. The secret sauce that makes us human, capable of spontaneity and charm, turns out to be also what makes us irrational, impetuous and dangerous. After masterfully setting up the premise of the film, the actual execution of the plot starts to falter. The protagonist is supposed to be a genius cybernetic engineer, but his character is mostly a drag and a bore to watch. You start wishing that his robot cat had more screen time. The story also hinges on a love triangle that feels contrived and inane. The robot butler is considerably more entertaining and I ended up wishing he somehow played a bigger part in the plot. The core of the story revolves around how Alex tries to model the emotional life of the android child on his niece (fantastically played by Claudia Vega) and it is these interactions that anchor the film and give it substance. The best scenes deal with the \"Turing tests\" that Bruno develops, trying to tell apart real child from robot child. The last half hour of the film has some twists which ultimately make the entire film seem better than it felt it was while watching. Still, it is not easy to forgive the director for wasting so much time on love triangle sub-plots and creating hollow characters. The film gets seven stars for its elegant cinematography and its smartly framed premise, but doesn't break much new ground.",
+         "When I saw the trailer, I knew I was going to go see it. I love a Sci-Fi, especially the hard sci- Fi like this that keeps it grounded in what the human race can actually do right now. Robots are not the future they are the present and Eva backs this up with a sci-fi twist as a robot expert works on making a robot with free will while reconnecting with people he left behind and discovering a new friend that will change his work forever. I did find the story slightly flawed. It seemed like the first few minutes of the movie told too much of what's coming ahead, but maybe the filmmaker met to do that cause the whole expression of a man of science being so emotionally connected was very strong. The movie spent a lot of time inventing and programming the robot which I loved. It's the good thing the special effects were decent cause that could have ruin this part of the film. Another fantastic Sci-fi movie from Spain, backing up the Antonio Banderas movie on robots, Automata, and another great robot movie this year which includes Chappie among them. Eva is a beautiful story well told through cinema. Recommend"
+      ],
+      "genres": [
+         "Drama",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Canal+ España",
+         "Canal+",
+         "Escándalo Films"
+      ],
+      "summaries": [
+         "Set in 2041, Alex Garel is a well-known robot programmer who after 10 years returns to his home town to work in his old university when his friend Julia brings him a project to create a new line of robot child. There Alex meets his brother David, Lana (Alex's former lover and David's current wife), and Eva, Alex's 10-years-old niece. Looking for inspiration, Alex asks Eva to be the muse of the new robot, watching her attitude and behavior during the time they spend together, making emotional tests to configure its personality. The relationship with his niece gives Alex doubts about finishing the project and awakens old feelings for Lana. At the same time he starts suspecting that perhaps the lovely and imaginative Eva is hiding an important secret about Lana and herself.",
+         "A shy genius is employed by his former university to design robot software."
+      ],
+      "budget": 7000000
+   },
+   "movielensId": 94810,
+   "movielens": {
+      "languages": ["Español"],
+      "releaseDate": "2011-10-28",
+      "dvdReleaseDate": null,
+      "directors": ["Kike Maíllo"],
+      "runtime": 94,
+      "movieId": 94810,
+      "title": "EVA",
+      "mpaa": "",
+      "actors": [
+         "Daniel Brühl",
+         "Alberto Ammann",
+         "Lluís Homar",
+         "Anne Canovas",
+         "Claudia Vega",
+         "Sara Rosa Losilla",
+         "Manel Dueso",
+         "Jordi Díaz",
+         "Marta Etura ",
+         "Ona Casamiquela",
+         "Peter Vives",
+         "Oscar Valsecchi",
+         "Bernat Saumell",
+         "Juan Campavadal",
+         "Harris Gordon"
+      ],
+      "imdbMovieId": "1298554",
+      "originalTitle": "EVA",
+      "genres": ["Science Fiction"],
+      "youtubeTrailerIds": ["RuQBO7lR3io"],
+      "plotSummary": "Set in 2041, humans of planet Earth now live side-by-side with androids. A well-known cybernetic engineer, Alex Garel, is tasked with an assignment to create a robot in the form of a human child. He returns home to begin his work and finds that his childhood love Lana has married his brother David. Their daughter Eva seems to possess a superior intelligence and powerful charisma that immediately captivates Alex. Looking for inspiration, Alex asks Eva to be the muse of the new robot, which challenges everything Alex ever thought he knew about robots and humans alike.",
+      "tmdbMovieId": 77561,
+      "avgRating": 3.77723,
+      "releaseYear": "2011",
+      "numRatings": 101,
+      "posterPath": "/6GxdFoY8DdU8YXvsGoReeibTyuX.jpg"
+   }
+}

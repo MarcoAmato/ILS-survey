@@ -1,0 +1,1513 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "teddy bear",
+            "id": 158162
+         },
+         {
+            "name": "toy comes to life",
+            "id": 187065
+         },
+         {
+            "name": "wishes come true",
+            "id": 187084
+         }
+      ],
+      "imdb_id": "tt1637725",
+      "video": false,
+      "title": "Ted",
+      "recommendations": [
+         45243,
+         18785,
+         64688,
+         109439,
+         214756,
+         2105,
+         76493,
+         310,
+         71552,
+         51540,
+         41154,
+         41733,
+         8960,
+         425,
+         953,
+         9738,
+         38365,
+         809,
+         607,
+         1593
+      ],
+      "backdrop_path": "/sPiFgbWMSQxVMO6TuRFrkeWwarI.jpg",
+      "revenue": 549368315,
+      "reviews": [{
+         "author": "Michael",
+         "id": "56f28f1a925141554b0014cb",
+         "content": "Gerade in der Originalfassung ist \u201eTed\u201c ein anarchischer Spaß. Seth MacFarlane, der neben seiner Regiearbeit auch noch Ted spricht, hat ihr einen Film erschaffen, in dem kein Blatt vor den Mund genommen wird und vor allem davon lebt, dass Ted einfach in jeder Szene auf die eine oder andere Art daneben benimmt. Immer einen fiesen Spruch auf den Lippen sprudeln die Beleidigungen und unangebrachten Sätze nur so aus Ted heraus und wenn man bei menschlichen Protagonisten schnell das Gefühl hat, dass dieses Verhalten zu viel des Guten ist, kommt dies bei Ted nicht vor. Dies mag daran liegen, dass Ted eben ein Teddybär ist und man so ein Verhalten von einem Kuscheltier eben nicht erwartet.\r\n\r\nErstaunlich ist auch, wie gut Mark Wahlberg (Shooter, Vier Brüder) im Zusammenspiel mit dem chaotischen Teddybären funktioniert. Wahlberg hat sich in den letzten Jahren ja eher in Actionfilmen und ernsteren Produktionen positioniert, zeigt aber in \u201eTed\u201c, dass er den \u201eOver the top\u201c-Humor genau beherrscht wie das Actionfach.\r\n\r\nUnd auch Mila Kunis (Black Swan, Ausgequetscht) darf man nicht vergessen. Kunis hat sich ja schon mehrfach in Komödien ausgetobt und beweist in \u201eTed\u201c, dass sich auch in derberen Vertretern des Genres eine gute Figur macht.\r\n\r\n\u201eTed\u201c bietet aber nicht nur derben Humor, sondern mindestens eine Szene, die in die Filmgeschichte eingehen wird, den Donnersong. Wenn John und Ted bei Gewitter im Bett liegen und ihr Lied singen und dabei das Unwetter wild beschimpfen, dann bleibt auch bei den Zuschauern kein Auge trocken, die ansonsten wenig mit dem Film anfangen können.\r\n\r\nInsgesamt gesehen ist \u201eTed\u201c allerdings kein Meisterwerk. In erster Linie nutzt Seth MacFarlane seine Erfahrung die er mit der TV-Serie \u201eFamily Guy\u201c gesammelt hat und mixt den derben Humor der Serie mit neuen Figuren. Klar, mit dem gesellschaftsuntauglichen Ted präsentiert er dabei eine Figur, die man so auf der Leinwand noch nicht gesehen hat, er erfindet sich allerdings mit dem Film nicht neu, sondern erschließt mit \u201eTed\u201c nur eine neue Zielgruppe, nämlich die Komödienfans, die MacFarlane noch nicht von \u201eFamily Guy\u201c kenne, aber derbe Komödie wie z.B. \u201eHangover\u201c mögen. [Sneakfilm.de]",
+         "url": "https://www.themoviedb.org/review/56f28f1a925141554b0014cb"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "John Bennett",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f446d",
+               "name": "Mark Wahlberg",
+               "profile_path": "/z2wJh5n7qZRUE1y9uB8UrivAV2b.jpg",
+               "id": 13240,
+               "order": 0
+            },
+            {
+               "cast_id": 17,
+               "character": "Lori Collins",
+               "gender": 1,
+               "credit_id": "52fe4858c3a368484e0f447d",
+               "name": "Mila Kunis",
+               "profile_path": "/6Lp9qPkMO740Hcp8NBYZZLWWvJF.jpg",
+               "id": 18973,
+               "order": 1
+            },
+            {
+               "cast_id": 9,
+               "character": "Ted (voice)",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f4469",
+               "name": "Seth MacFarlane",
+               "profile_path": "/v4c6JhGYpjMRBwf95gtPxBnElNu.jpg",
+               "id": 52139,
+               "order": 2
+            },
+            {
+               "cast_id": 16,
+               "character": "Rex",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f4479",
+               "name": "Joel McHale",
+               "profile_path": "/jFtqHLCrmGSIJtwdxloO3KM98iC.jpg",
+               "id": 74949,
+               "order": 3
+            },
+            {
+               "cast_id": 15,
+               "character": "Donny",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f4475",
+               "name": "Giovanni Ribisi",
+               "profile_path": "/jvq2pimmpNdQj8o75Au9RKC7E1z.jpg",
+               "id": 1771,
+               "order": 4
+            },
+            {
+               "cast_id": 25,
+               "character": "Guy",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f449f",
+               "name": "Patrick Warburton",
+               "profile_path": "/cq8zZ6YfBrq2k4F4aHYLSP9QOJS.jpg",
+               "id": 9657,
+               "order": 5
+            },
+            {
+               "cast_id": 31,
+               "character": "Thomas",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44b7",
+               "name": "Matt Walsh",
+               "profile_path": "/pHwLExdQGQYg8yNVSaF97TkMsoQ.jpg",
+               "id": 59841,
+               "order": 6
+            },
+            {
+               "cast_id": 26,
+               "character": "Tami-Lynn",
+               "gender": 1,
+               "credit_id": "52fe4858c3a368484e0f44a3",
+               "name": "Jessica Barth",
+               "profile_path": "/d39NWIkuXr7uHP3UNGBBoGAonXw.jpg",
+               "id": 207150,
+               "order": 7
+            },
+            {
+               "cast_id": 35,
+               "character": "Robert",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44c7",
+               "name": "Aedin Mincks",
+               "profile_path": "/qQEZjqiy2fNUsh4gSUds11tK9sN.jpg",
+               "id": 1204318,
+               "order": 8
+            },
+            {
+               "cast_id": 21,
+               "character": "Frank",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f4493",
+               "name": "Bill Smitrovich",
+               "profile_path": "/rO5wJpx7ZlT6RaunZw20OGF6O2Y.jpg",
+               "id": 17200,
+               "order": 9
+            },
+            {
+               "cast_id": 27,
+               "character": "Narrator",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44a7",
+               "name": "Patrick Stewart",
+               "profile_path": "/wEy5qSDT5jT3ZASc2hbwi59voPL.jpg",
+               "id": 2387,
+               "order": 10
+            },
+            {
+               "cast_id": 14,
+               "character": "Tanya",
+               "gender": 1,
+               "credit_id": "52fe4858c3a368484e0f4471",
+               "name": "Laura Vandervoort",
+               "profile_path": "/xGoTo41oVyCoQLkhBMyTfzu7PSs.jpg",
+               "id": 43286,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Young John",
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f4497",
+               "name": "Bretton Manley",
+               "profile_path": "/mMZjjVAzq8G9AUa7556LK8e4Dgo.jpg",
+               "id": 1063947,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "John's Mom",
+               "gender": 1,
+               "credit_id": "52fe4858c3a368484e0f449b",
+               "name": "Alex Borstein",
+               "profile_path": "/AjthMjh7k3MqaZBgrenhm13Uxf6.jpg",
+               "id": 24357,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "Tracy",
+               "gender": 1,
+               "credit_id": "52fe4858c3a368484e0f44ab",
+               "name": "Jessica Stroup",
+               "profile_path": "/l1UABSlmGse4QWtHefxZSm82Axp.jpg",
+               "id": 55463,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Bellybutton",
+               "gender": 1,
+               "credit_id": "52fe4858c3a368484e0f44af",
+               "name": "Tara Strong",
+               "profile_path": "/rFUZnJ4BaSaQVKW734xnUHSN9pm.jpg",
+               "id": 15762,
+               "order": 15
+            },
+            {
+               "cast_id": 30,
+               "character": "Herself",
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f44b3",
+               "name": "Norah Jones",
+               "profile_path": "/vWYNfa0KR0Cmmep7mvpaJ99Uans.jpg",
+               "id": 20472,
+               "order": 16
+            },
+            {
+               "cast_id": 36,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44cb",
+               "name": "Sam Jones",
+               "profile_path": "/w0C7aONaeB6a5DqdzTa23TzcvPm.jpg",
+               "id": 33321,
+               "order": 17
+            },
+            {
+               "cast_id": 34,
+               "character": "Asian Man 'Ming'",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44c3",
+               "name": "Robert Wu",
+               "profile_path": "/A8yLtkCeY7wvVlfL6TakeiUSmEa.jpg",
+               "id": 17041,
+               "order": 18
+            },
+            {
+               "cast_id": 37,
+               "character": "Alix",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44cf",
+               "name": "John Viener",
+               "profile_path": "/AjzFj009CPtewjT9jyYFx0AumBR.jpg",
+               "id": 130836,
+               "order": 19
+            },
+            {
+               "cast_id": 38,
+               "character": "Gina",
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f44d3",
+               "name": "Ginger Gonzaga",
+               "profile_path": "/bIyLNXCqRdHzYEXjvr6IUFYXmKT.jpg",
+               "id": 1181314,
+               "order": 20
+            },
+            {
+               "cast_id": 39,
+               "character": "Michelle",
+               "gender": 1,
+               "credit_id": "52fe4858c3a368484e0f44d7",
+               "name": "Melissa Ordway",
+               "profile_path": "/qqjCuGKTZaEmEaoKYAzAsVfhDOv.jpg",
+               "id": 114602,
+               "order": 21
+            },
+            {
+               "cast_id": 40,
+               "character": "Greenbaum Kid",
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f44db",
+               "name": "Max Harris",
+               "profile_path": "/tuGgSv6zov0wfeoBXazDaHq4uuZ.jpg",
+               "id": 1204326,
+               "order": 22
+            },
+            {
+               "cast_id": 32,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44bb",
+               "name": "Tom Skerritt",
+               "profile_path": "/fVuxSZ8VoPxRJDm3VohtDDz5x8l.jpg",
+               "id": 4139,
+               "order": 23
+            },
+            {
+               "cast_id": 41,
+               "character": "Heavenly",
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f44df",
+               "name": "Kristina Ellery",
+               "profile_path": "/kVspTfxGDz9WpPUnjLIFiXgqnj1.jpg",
+               "id": 1204327,
+               "order": 24
+            },
+            {
+               "cast_id": 42,
+               "character": "Cherene",
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f44e3",
+               "name": "Katelyn Lorren",
+               "profile_path": "/fBySOW0NGL5HLDs73qmGwIwfATJ.jpg",
+               "id": 1204328,
+               "order": 25
+            },
+            {
+               "cast_id": 43,
+               "character": "Angelique",
+               "gender": 1,
+               "credit_id": "52fe4858c3a368484e0f44e7",
+               "name": "Chanty Sok",
+               "profile_path": "/jRj1uUrPSsyQEzoTB4pHM6T8SVR.jpg",
+               "id": 999772,
+               "order": 26
+            },
+            {
+               "cast_id": 44,
+               "character": "Sauvignon Blanc",
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f44eb",
+               "name": "Sarah Fischer",
+               "profile_path": "/vmMnW4o0CWsHoDBZDvY7A92A7Qb.jpg",
+               "id": 1204329,
+               "order": 27
+            },
+            {
+               "cast_id": 33,
+               "character": "Jared (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44bf",
+               "name": "Ryan Reynolds",
+               "profile_path": "/h1co81QaT2nJA41Sb7eZwmWl1L2.jpg",
+               "id": 10859,
+               "order": 28
+            },
+            {
+               "cast_id": 45,
+               "character": "Ted Danson (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44ef",
+               "name": "Ted Danson",
+               "profile_path": "/wWm9eDLuPDw29R76KAjg6gIE9dS.jpg",
+               "id": 12836,
+               "order": 29
+            },
+            {
+               "cast_id": 114,
+               "character": "John's Dad",
+               "gender": 2,
+               "credit_id": "55e4edba925141379a000356",
+               "name": "Ralph Garman",
+               "profile_path": "/vMzb4yCslLhJb7CQkS3R1jbyCO6.jpg",
+               "id": 60286,
+               "order": 30
+            },
+            {
+               "cast_id": 115,
+               "character": "Kid #1 / Young Ted's Voice",
+               "gender": 0,
+               "credit_id": "55e4edbac3a3681408000382",
+               "name": "Zane Cowans",
+               "profile_path": null,
+               "id": 1502852,
+               "order": 31
+            },
+            {
+               "cast_id": 116,
+               "character": "Kid #2",
+               "gender": 0,
+               "credit_id": "55e4edbac3a3681408000387",
+               "name": "T.J. Hourigan",
+               "profile_path": null,
+               "id": 1502853,
+               "order": 32
+            },
+            {
+               "cast_id": 117,
+               "character": "Kid #3",
+               "gender": 0,
+               "credit_id": "55e4edbb92514137a6000308",
+               "name": "Owen Clarke",
+               "profile_path": null,
+               "id": 1502854,
+               "order": 33
+            },
+            {
+               "cast_id": 118,
+               "character": "Waitress",
+               "gender": 0,
+               "credit_id": "55e4edbbc3a36813eb000359",
+               "name": "Cassie Djerf",
+               "profile_path": null,
+               "id": 1502855,
+               "order": 34
+            },
+            {
+               "cast_id": 119,
+               "character": "Guy at Table #1",
+               "gender": 2,
+               "credit_id": "55e4edbb92514137940002f8",
+               "name": "Joe Siriani",
+               "profile_path": null,
+               "id": 1502856,
+               "order": 35
+            },
+            {
+               "cast_id": 120,
+               "character": "Guy #1",
+               "gender": 0,
+               "credit_id": "55e4edbcc3a368140800038c",
+               "name": "Josh Duvendeck",
+               "profile_path": null,
+               "id": 1502857,
+               "order": 36
+            },
+            {
+               "cast_id": 121,
+               "character": "Partygoer (Ted's Buddy)",
+               "gender": 2,
+               "credit_id": "55e4edbc92514137a8000338",
+               "name": "Henry Penzi",
+               "profile_path": "/wK5JIVWjoNZV1QUYjCLm6F1n26g.jpg",
+               "id": 944326,
+               "order": 37
+            },
+            {
+               "cast_id": 122,
+               "character": "Girl at Party",
+               "gender": 0,
+               "credit_id": "55e4edbc925141379d000326",
+               "name": "Tania Cabrera",
+               "profile_path": null,
+               "id": 1502858,
+               "order": 38
+            },
+            {
+               "cast_id": 123,
+               "character": "Teenage John",
+               "gender": 0,
+               "credit_id": "55e4edbdc3a36813f8000330",
+               "name": "Colton Shires",
+               "profile_path": null,
+               "id": 180182,
+               "order": 39
+            },
+            {
+               "cast_id": 124,
+               "character": "Plymouth PR Worker",
+               "gender": 0,
+               "credit_id": "55e4edbd92514137940002fd",
+               "name": "Viera Andrea Moya",
+               "profile_path": null,
+               "id": 1502859,
+               "order": 40
+            },
+            {
+               "cast_id": 125,
+               "character": "Club Girl",
+               "gender": 0,
+               "credit_id": "55e4edbdc3a3681408000391",
+               "name": "Heajee Kim",
+               "profile_path": null,
+               "id": 1502860,
+               "order": 41
+            },
+            {
+               "cast_id": 126,
+               "character": "Ellen",
+               "gender": 0,
+               "credit_id": "55e4edbd92514137a2000332",
+               "name": "Lydia Hannibal",
+               "profile_path": null,
+               "id": 1502861,
+               "order": 42
+            },
+            {
+               "cast_id": 127,
+               "character": "Crazy Guy",
+               "gender": 0,
+               "credit_id": "55e4edbec3a36813eb00035f",
+               "name": "Shawn Thornton",
+               "profile_path": null,
+               "id": 1502862,
+               "order": 43
+            },
+            {
+               "cast_id": 128,
+               "character": "Waiter",
+               "gender": 2,
+               "credit_id": "55e4edbe9251413794000302",
+               "name": "Danny Smith",
+               "profile_path": "/a0vI4PA7v2rwBBavBZWBkLGljJa.jpg",
+               "id": 99354,
+               "order": 44
+            },
+            {
+               "cast_id": 129,
+               "character": "Newscaster",
+               "gender": 0,
+               "credit_id": "55e4edbec3a36813f2000348",
+               "name": "Mike Nikitas",
+               "profile_path": null,
+               "id": 1502863,
+               "order": 45
+            },
+            {
+               "cast_id": 130,
+               "character": "Female Newscaster",
+               "gender": 0,
+               "credit_id": "55e4edbf925141379a00035c",
+               "name": "Robin Hamilton",
+               "profile_path": null,
+               "id": 1502864,
+               "order": 46
+            },
+            {
+               "cast_id": 131,
+               "character": "Party Guest",
+               "gender": 0,
+               "credit_id": "55effaab92514106d6015dc2",
+               "name": "Olivia Jordan",
+               "profile_path": "/szMukAEiIDeasel0lvyaeyKuych.jpg",
+               "id": 1507448,
+               "order": 47
+            },
+            {
+               "cast_id": 145,
+               "character": "Concert Attendee (uncredited)",
+               "gender": 1,
+               "credit_id": "56d61fc39251410bd100625b",
+               "name": "Emmalyn Anderson",
+               "profile_path": "/4RAERlN6M6tJVJQxQJ1JxAJvjTn.jpg",
+               "id": 1259597,
+               "order": 48
+            },
+            {
+               "cast_id": 146,
+               "character": "Club Patron (uncredited)",
+               "gender": 1,
+               "credit_id": "56eda8eec3a3682260007c49",
+               "name": "Alexandra Creteau",
+               "profile_path": "/hv2vUer0vYBG6G77ueCDdn2o7CZ.jpg",
+               "id": 1593122,
+               "order": 49
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f444d",
+               "name": "Seth MacFarlane",
+               "profile_path": "/v4c6JhGYpjMRBwf95gtPxBnElNu.jpg",
+               "id": 52139,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f4453",
+               "name": "Seth MacFarlane",
+               "profile_path": "/v4c6JhGYpjMRBwf95gtPxBnElNu.jpg",
+               "id": 52139,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f4459",
+               "name": "John Jacobs",
+               "profile_path": null,
+               "id": 570788,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f445f",
+               "name": "Jason Clark",
+               "profile_path": null,
+               "id": 570789,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f4483",
+               "name": "Jeff Freeman",
+               "profile_path": null,
+               "id": 11876,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4858c3a368484e0f4489",
+               "name": "Sheila Jaffe",
+               "profile_path": null,
+               "id": 7494,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f448f",
+               "name": "Stephen J. Lineweaver",
+               "profile_path": null,
+               "id": 53811,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44f5",
+               "name": "Seth MacFarlane",
+               "profile_path": "/v4c6JhGYpjMRBwf95gtPxBnElNu.jpg",
+               "id": 52139,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f44fb",
+               "name": "Alec Sulkin",
+               "profile_path": "/wbhAlymAoPeOoD2Gu2siKE3OiId.jpg",
+               "id": 570785,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f4507",
+               "name": "Seth MacFarlane",
+               "profile_path": "/v4c6JhGYpjMRBwf95gtPxBnElNu.jpg",
+               "id": 52139,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4858c3a368484e0f450d",
+               "name": "Michael Barrett",
+               "profile_path": "/aw5xTi85jiWCQqNxoGF4kTrLzaD.jpg",
+               "id": 42632,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4858c3a368484e0f4513",
+               "name": "Walter Murphy",
+               "profile_path": null,
+               "id": 1071607,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4859c3a368484e0f4519",
+               "name": "E. David Cosier",
+               "profile_path": null,
+               "id": 1204330,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4859c3a368484e0f451f",
+               "name": "Kyra Friedman Curcio",
+               "profile_path": null,
+               "id": 1204331,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4859c3a368484e0f4525",
+               "name": "Debra McGuire",
+               "profile_path": "/2wH44GuUhNUORaANbwOjJNmkC3r.jpg",
+               "id": 41084,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4859c3a368484e0f452b",
+               "name": "Jeff Murrell",
+               "profile_path": null,
+               "id": 1204332,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "540a20ee0e0a262b3d0009f9",
+               "name": "Wellesley Wild",
+               "profile_path": "/cUIGlHc5hwLqJNEB60ja5NMHdtn.jpg",
+               "id": 1224494,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5523eab99251416d4a0047fe",
+               "name": "Avner Engel",
+               "profile_path": null,
+               "id": 1450992,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55299585c3a368565f001c14",
+               "name": "Jimmy Almeida",
+               "profile_path": null,
+               "id": 1453014,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552dd40392514130f3000aa8",
+               "name": "Nicholas Tripodi",
+               "profile_path": null,
+               "id": 1452989,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55314aaac3a3682223000799",
+               "name": "Eddie Braun",
+               "profile_path": "/lMt3TnLEak9N9NjWKb9hsKMfhpa.jpg",
+               "id": 1455496,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314aca925141529b00045a",
+               "name": "Jill Brown",
+               "profile_path": null,
+               "id": 1455497,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314ad3925141529e000415",
+               "name": "Bryce Burke",
+               "profile_path": null,
+               "id": 1455498,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55314ae1c3a368222d00046b",
+               "name": "Phil Culotta",
+               "profile_path": null,
+               "id": 237920,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314b0bc3a36822190004be",
+               "name": "Crystal Dalman",
+               "profile_path": "/2Y9WkYiynKILEuoyCJRhK6NKzMp.jpg",
+               "id": 1288830,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314b19c3a368221d00044c",
+               "name": "Mickey Giacomazzi",
+               "profile_path": "/pKeZNewK7yJvOV4feKUXZcD8LMa.jpg",
+               "id": 1122560,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55314b35c3a368222a000480",
+               "name": "Sean Graham",
+               "profile_path": null,
+               "id": 1228835,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314b57925141528900043c",
+               "name": "Regis Harrington",
+               "profile_path": null,
+               "id": 1455499,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314b63925141529100048b",
+               "name": "Daniel Leavitt",
+               "profile_path": null,
+               "id": 1455500,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314b94c3a368221f000493",
+               "name": "Ian Mclaughlin",
+               "profile_path": null,
+               "id": 1455503,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314b9fc3a368222d000488",
+               "name": "Kristopher Medina",
+               "profile_path": null,
+               "id": 1455504,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314ba9c3a368222d00048e",
+               "name": "Dana Reed",
+               "profile_path": null,
+               "id": 1455505,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55314bb6925141528f000479",
+               "name": "Scott Rogers",
+               "profile_path": null,
+               "id": 1406839,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55314c09c3a368222d0004a2",
+               "name": "Kevin Scott",
+               "profile_path": "/9ArAqj0Bqk7gHnXIyf41D9odTKr.jpg",
+               "id": 1012973,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314c14c3a368222a000498",
+               "name": "Brandon Sebek",
+               "profile_path": null,
+               "id": 1455506,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314c78c3a36822230007c6",
+               "name": "Eddie Yansick",
+               "profile_path": null,
+               "id": 196269,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314c8a9251415298000447",
+               "name": "Spike Silver",
+               "profile_path": null,
+               "id": 173207,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55314ce3c3a36822190004e4",
+               "name": "Bill Young",
+               "profile_path": null,
+               "id": 1455508,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314d56c3a36822260004c1",
+               "name": "Steve Budd",
+               "profile_path": "/eDHkpAoTlIwQL6vWmdmOUzaN61X.jpg",
+               "id": 1455512,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314d66c3a36822230007d9",
+               "name": "Andrea Castagnoli",
+               "profile_path": null,
+               "id": 1455513,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314d74c3a368222a0004bd",
+               "name": "Aaron Clement",
+               "profile_path": null,
+               "id": 1455514,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314d75925141528f00049a",
+               "name": "Aaron Clement",
+               "profile_path": null,
+               "id": 1455515,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314d9cc3a36822260004d7",
+               "name": "Ben Forster",
+               "profile_path": null,
+               "id": 1455518,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314daa92514152910004c6",
+               "name": "Daniel Fotheringham",
+               "profile_path": null,
+               "id": 1452991,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314dcd92514152910004ce",
+               "name": "Shaun Freeman",
+               "profile_path": null,
+               "id": 1455521,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314dd8925141529500045e",
+               "name": "Tom Gibbons",
+               "profile_path": null,
+               "id": 1282566,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314dfdc3a36822190004ff",
+               "name": "David Good",
+               "profile_path": null,
+               "id": 1455522,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314e09c3a368222d0004da",
+               "name": "Shane Hall",
+               "profile_path": null,
+               "id": 1453003,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314e3ac3a3682219000510",
+               "name": "Andy Hass",
+               "profile_path": null,
+               "id": 1453929,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314e47c3a3682219000514",
+               "name": "Trevor Hunter",
+               "profile_path": null,
+               "id": 1455523,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314e5492514152910004e0",
+               "name": "Louis Jones",
+               "profile_path": null,
+               "id": 1455524,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314e6192514152910004e5",
+               "name": "Neil Kennedy",
+               "profile_path": null,
+               "id": 1452992,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314e8ac3a368222d0004e7",
+               "name": "Victoria Livingstone",
+               "profile_path": null,
+               "id": 1455525,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314e96c3a3682219000520",
+               "name": "Jonathan Lyons",
+               "profile_path": null,
+               "id": 1455526,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314ea5c3a3682226000503",
+               "name": "Brian Mendenhall",
+               "profile_path": null,
+               "id": 1455528,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314eb1925141529800048f",
+               "name": "Loïc Miermont",
+               "profile_path": null,
+               "id": 1455529,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314ebcc3a368222a0004da",
+               "name": "Jess Morris",
+               "profile_path": null,
+               "id": 1455530,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314ecec3a3682219000527",
+               "name": "Christopher Mullins",
+               "profile_path": null,
+               "id": 1455531,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314ed9c3a3682219000531",
+               "name": "Heath Pagram",
+               "profile_path": null,
+               "id": 1455532,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314ee4925141528c00047e",
+               "name": "Christel Pougeoise",
+               "profile_path": null,
+               "id": 1455533,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314eefc3a368222d0004ef",
+               "name": "Mark Powers",
+               "profile_path": null,
+               "id": 1455534,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314f06c3a368222a0004e3",
+               "name": "Nathan Ross",
+               "profile_path": null,
+               "id": 1455535,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314f12925141529800049e",
+               "name": "Amita Sahgal",
+               "profile_path": null,
+               "id": 1455536,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314f1d92514152910004f2",
+               "name": "Scott Slater",
+               "profile_path": null,
+               "id": 1455537,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314f2892514152890004ae",
+               "name": "Miles Southan",
+               "profile_path": null,
+               "id": 1455539,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314f34c3a368221900053f",
+               "name": "Danny Southard",
+               "profile_path": null,
+               "id": 1453933,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314f43925141529b0004dc",
+               "name": "Johnny Turco",
+               "profile_path": null,
+               "id": 1455540,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314f8bc3a368221f0004ef",
+               "name": "Larry White",
+               "profile_path": null,
+               "id": 1455541,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55314f9c92514152980004ae",
+               "name": "William R. Wright",
+               "profile_path": null,
+               "id": 1455542,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554c864792514140e900149c",
+               "name": "Paul Marini",
+               "profile_path": null,
+               "id": 1447945,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58779e3ac3a36850fe00746e",
+               "name": "Ryan Bradley",
+               "profile_path": null,
+               "id": 1713277,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56749cddc3a3681685000a37",
+               "name": "Jon Mone",
+               "profile_path": null,
+               "id": 114410,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56826cba9251414ecb005576",
+               "name": "Jaimie Trueblood",
+               "profile_path": null,
+               "id": 1399319,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56826cd0c3a36860750127bc",
+               "name": "Claire Folger",
+               "profile_path": null,
+               "id": 1400534,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56826d15925141133400b357",
+               "name": "Curt Schulkey",
+               "profile_path": null,
+               "id": 1404717,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56826d219251414f6300d0c7",
+               "name": "Vanessa Lapato",
+               "profile_path": null,
+               "id": 1425343,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56826d2cc3a36860e90137ed",
+               "name": "Ralph Osborn",
+               "profile_path": null,
+               "id": 1345596,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56826d52c3a368227b009b4a",
+               "name": "Tom Williams",
+               "profile_path": null,
+               "id": 1534987,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56826d62c3a3684bcc014ef8",
+               "name": "Moira Marquis",
+               "profile_path": null,
+               "id": 1555208,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56826d879251414ecb005599",
+               "name": "Stan Jones",
+               "profile_path": null,
+               "id": 1440496,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56826d9792514131df0114a8",
+               "name": "Murray Adler",
+               "profile_path": null,
+               "id": 1555209,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56826e07c3a3684be30144aa",
+               "name": "Todd Sheidenberger",
+               "profile_path": null,
+               "id": 1555210,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56826e419251414f6300d0f7",
+               "name": "Gregory W. Smith",
+               "profile_path": null,
+               "id": 1445895,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         }
+      ],
+      "popularity": 32.633655,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 72105,
+      "vote_count": 5879,
+      "budget": 50000000,
+      "overview": "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.",
+      "similar": [
+         862,
+         13523,
+         24420,
+         1024,
+         276,
+         19913,
+         50544,
+         16980,
+         44564,
+         38,
+         1903,
+         10193,
+         863,
+         13,
+         50546,
+         214756,
+         272693,
+         225886,
+         8839,
+         277547
+      ],
+      "original_title": "Ted",
+      "runtime": 106,
+      "poster_path": "/yLdP2vDa1BqxLSbikGypGtAEOGe.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Media Rights Capital",
+            "id": 2531,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Fuzzy Door Productions",
+            "id": 8789,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2012-06-29",
+      "vote_average": 6.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/dGrNuWhapf8T0WH98xTC4LXgk1G.jpg",
+         "name": "Ted Collection",
+         "id": 266672,
+         "poster_path": "/uHKT9b6ptLpttGHlUF95sKQbtqF.jpg"
+      },
+      "tagline": "Ted is coming.",
+      "adult": false,
+      "homepage": "http://www.tedisreal.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Seth MacFarlane"],
+      "runtime": 106,
+      "synopsis": "In 1985, near the city of Boston, Massachusetts, John Bennett was a lonely child who dearly wished for his new Christmas gift, a large teddy bear named Ted, to come to life to be his friend. That wish coincided with a falling star and Ted became a fully mobile sentient being. John's parents (Alex Borstein and Ralph Garman) got over the shock, word of the miracle spread, and Ted was briefly a celebrity. In 2012, John (now played by Mark Wahlberg) and Ted (now voiced and motion captured by Seth MacFarlane), now living in the South End neighborhood of Boston, are still staunch, if immature, companions enjoying a hedonistic life even while John is pursuing a 4-year-long relationship with a level-headed office worker, Lori Collins (Mila Kunis). As the fourth anniversary of their relationship approaches, Lori hopes to marry John, but she feels he can't move ahead with his life with Ted around, who has become a vulgar, obnoxious wastrel. John is resistant to making his lifelong companion leave, but he is finally persuaded that night to act when the couple discover Ted at home with four prostitutes, one of whom has defecated on the floor during a game of Truth or Dare. John finds Ted his own apartment and a job at a grocery store, where his grossly irresponsible behavior on the job manages to both get him promoted and acquainted with the superficial co-worker Tami-Lynn (Jessica Barth), who gets easily irritated by Lori who is shocked at her anger. Regardless, Ted and John still spend most of their time together, which frustrates Lori when she discovers John has been skipping work to do so while using her for his excuses. Meanwhile, a crazed loner named Donny (Giovanni Ribisi), who idolized Ted as a child, shows interest in possessing him for his brutishly destructive son, Robert (Aedin Mincks). Things start to come to a head when Lori and John are invited to a party put on by Lori's lecherous manager, Rex (Joel McHale), and Ted lures John away to a wild party at his apartment with the offer to meet Sam J. Jones (playing himself), the star of their favorite movie, Flash Gordon. Although John arrives with the intention of spending only a few minutes, he gets caught up in the occasion which gets completely out of control, with Sam J. Jones persuading John and Ted to snort cocaine and Ted singing karaoke and eventually getting beaten-up by a duck. Eventually, Lori discovers John there and breaks up with him in a rage. At that, John blames Ted for ruining his life and tells him to stay away. Eventually, Ted and John confront each other about their ruined friendship in John's hotel room and have a destructive brawl, but soon manage to reconcile. To repair John's relationship with Lori, Ted arranges with an old lover, singer Norah Jones (playing herself), to help by having John express his love for Lori with a song during her concert, being held at the Hatch Shell. Although John's performance proves an embarrassment, Lori is touched by the attempt while repelled by Rex's sneering. Later, Ted meets Lori at her apartment and explains that he was responsible for John's lapse; he offers to leave them alone forever if she goes to at least speak with him. Lori is persuaded, but moments after she leaves, Ted is kidnapped by Donny and taken to his house to function as Robert's victim. Ted manages to distract Robert and reach a phone to contact John, but is soon recaptured. Realizing that Ted is in danger, John and Lori manage to find Donny's residence and chase him and Robert to rescue Ted. The chase leads to Fenway Park, where John manages to knock out Robert, but during the chase Ted is damaged and falls onto the field, torn completely in half. A police car arrives, forcing Donny to flee. As John and Lori gather his stuffing, Ted relays his wish that John be happy with Lori, as the magic that gave him life fades away. Unable to accept his best friend's death, Lori and John return to her apartment to attempt to repair him, but it proves useless. That night, Lori wakes up and quietly makes a wish on a falling star. The next morning, Ted is magically restored and the trio fully reconcile with Ted, who encourages John and Lori to resume their relationship. With that resolution, John and Lori are married and Ted comfortably accepts having a life of his own, with his misbehavior getting him somehow promoted to grocery store manager. John and Lori are married in a ceremony presided over by Sam Jones. Rex gives up his relationship with Lori after she marries, so he undergoes a deep depression, and dies of Lou Gehrig's disease (which John wished he would die from earlier in the film). Sam Jones attempts to restart his career by moving into a studio apartment with Superman Returns star Brandon Routh. Donny is arrested for the kidnapping of Ted, but the charges are dropped because they sound too stupid. Robert hires a personal trainer to lose a large amount of weight and eventually becomes Taylor Lautner.",
+      "writers": [
+         "Seth MacFarlane",
+         "Alec Sulkin"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1637725/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Mark Wahlberg, Mila Kunis, Seth MacFarlane | See full cast and crew »"],
+      "reviews": [
+         "I just want to state off hand that this is my first movie review, well other than just telling someone what I thought. So if you are looking for a well written, witty review then.. you might want to stop reading now. But since this movie is still in production, this will probably be your best bet for the time being. I just went to a free screening of Ted at the Greenback theater in Sacramento, CA. And I just have to say off the bat, I LOVED it. A movie hasn't made me laugh that hard in a long time. Now, I'm not going to give you any more information than the description because with the movie not even being released yet, I think that would be a spoiler of some sort. But I will tell you that was so much better than what I imagined it would be, granted that was before I knew it was directed and voiced over by Seth Macfarlane. So if you're a fan of his, you're definitely in for a treat, and even if you're not I still think you would enjoy the innovative comedy that comes from a snarky and crude teddy bear companion. The acting was very solid, from main characters to jerk bosses, and crazy.. well, crazy people.. the acting was very convincing and enjoyable. The story was great, while it might sound stupid to some, myself included, it's very well executed. Definitely not one of the movies that left me thinking \"the idea was good, but they could have done so much more with it\", it was actually quite the opposite. And this is certainly not a low budget film, the CGI animation reflects this. The furry bear voiced by Macfarlane is very realistic and believable. The only drawback I could possibly see that would cause someone displeasure would be, like a lot of new comedies, this film pushes the envelope in raunchy, vulgar humor. Plus the different amount of drugs used. This movie will receive (most likely), and be very deserving of a R rating. It doesn't rely solely on shock humor though, there is plenty of good old fashioned clean comedy. But if your like me, and that type of subject matter doesn't bother you, then I HIGHLY recommend this film. And if you're a Seth Macfarlane fan, then that's just a perfectly gift wrapped little bonus for you.",
+         "I like Family Guy. So much, that I've always said that if I were stuck on a desert island, Seth MacFarlane is one of the people I'd want to be stuck there with me. I found this movie horrible, loathsome, and lazy, so much so that it actually made me question Family Guy. That's how bad I thought it was. It made me rethink my entire conception of humor. I did not find this movie funny at all. The style of comedy it uses is similar to that of Adam Sandler, whom I loathe. There's a lot of yelling, a lot of cursing, and overall, a lot stuff that's supposed to be funny. There are no clever jokes, no sense of set-up and reward. Instead, it's \"oh look, the man is dancing, that's hilarious!\". Not. Or \"haha, that guy just said the f-word'\". Isn't that funny? Kill me. I did find exactly one scene funny- the one in which Ted and Mark Whalberg have a fist fight in a hotel room. That reminded me of Family Guy and I found the idea so absurd that it made me chuckle. But this moment of hilarity is quickly diffused by a \"getting hit in the groin\" joke. Now, I realize that Family Guy uses exactly this type of humor, but somehow I always found it funnier. Maybe that's the problem here- live action is a different medium and the same things that work in the campy universe of cartoons don't work with real people. I realize that this is a comedy, but I do believe that even low brow comedy movies should have a basic story or plot. This was supposed to be a character driven movie. The idea is simple- Mark Whalberg is a man-child who must learn to take responsibility and grow up. The script screws up this idea completely and instead, Mark Whalberg makes absolutely no change as a person. Neither does Ted. I realize it's supposed to be adorable that a teddy bear smokes weed, but the novelty wore off in 2 minutes. That, and I found the accent horribly annoying. I was excited to see the supporting cast list on wikipedia. Whalberg is great, but like I said, his character was very poorly written. Mila Kunis does nothing in the whole movie but play a horribly clichéd romantic comedy girlfriend who also has no character arc in the movie. Joel McHale is another cliché in the movie and the fact that he's in the movie is a waste of a talented comedic actor. Laura Vandervoort literally does nothing. I mean, I at least expected her to be the seductress who tries to veer Mark Whalberg off the path of righteousness, but even that doesn't happen. So why even have this supporting cast in the movie if no one's going to do anything? The plot of this movie was equally weak. MacFarlane uses all of these clichéd rom-com scenes and does nothing with them. Here's a small example. This movie has 2 or 3 restaurant scenes. Now ask yourself- why exactly were these scenes in the movie? Usually, restaurants are used in comedy movies to employ some kind of restaurant related humor. Maybe there's a maladjusted person in an uncomfortable environment, or maybe someone has an allergy and they cause a scene. At least someone falling or something. But the first restaurant scene of this movie simply has Mark Whalberg and Mila Kunis sitting and talking. That could have just as easily happened in a living room. So why was the restaurant scene necessary? Why even do that? It's completely pointless. The ending to this movie accomplishes nothing. Mark Whalberg is supposed to change as a person. The death of Ted should have signified something, and having him come back to life s**ts on the character arc completely and nullifies it. We have no reason to believe that Mark Whalberg will grow up or make any kind of difference in life. This movie had way too much product placement. Horribly obvious product placement. Here's what I think. I think Seth MacFarlane is a perfectly competent individual who chose to be lazy. He wrote a horrible script, packed it with TV stars we might recognize, and collected the money. It's not just that this movie had no redeemable qualities. I actually feel like my intelligence was insulted and that I was fooled out of my money. Please don't let movies like this turn off your brain. Think about what you're watching and why you're laughing and don't settle for crap like this.",
+         "I just do not get it!!! This movie is just plain awful, and yet it is breaking box office records for \"R-rated\" comedies. With a running time of 98 mins, I could only manage to sit through the first 40 minutes before turning off this unfunny, quite boring, and quite disappointing film. The premise of this film is quite simple. At the age of eight (8) years old and with no real friends of his own, little John Bennett (Mark Wahlberg) makes a Christmas wish for his teddy bear to come to life. Ted and John become life long friends (\"thunder buddies\"); however, after twenty-seven (27) years of friendship, John must decide on either staying with his girlfriend of four (4) years Lori (Mila Kunis) or Ted. Ted is the brainchild of Seth MacFarlane (Family Guy / American Dad) and he voices Ted as well. Ted has no redeeming qualities, and is combination of the two characters Quagmire and Brian from the Family Guy TV series. He's a pot-smoking, hooker dating, grocery clerk humping, foul mouth Neanderthal, who Lori (Kunis) feels is preventing her and John from having the adult relationship that she so desires to have. In the 40 minutes that I managed to sit through, I never laughed, smirked, grinned or even hinted to a gesture of happiness to any of the \"so-called\" comedy being presented on screen� because there wasn't any there!!!! Unless you consider a foul-mouth, pot smoking teddy bear as being funny, which I did not. However, the scene in which I could take no more, is when Ted, while working as a clerk out clerk in a local grocery store gets caught \"bopping\" another check out clerk in the store room, and explains to his boss that, \"Last week he screwed her with a parsnip and sold the parsnip to a family of four\" � so his boss promoted him. IS THAT FUNNY?????? REALLY??? God, I feel like my dad now, I must be getting old!!!! Anyways, the film is making money hand over fist, and has already crossed the $100 million, and expected to cross the $200 million mark by summer's end. I JUST DO NOT GET IT!!!!!! I cannot recommend this film, I cannot even finish watching this film. It's being marketed as this year's \"The Hangover\", and I can assure you it is nowhere as funny as the \"The Hangover\"�. I would say avoid at all costs� but who am I???? SEE MORE OF MY REVIEWS ON FB @ \"THE FARIS REEL\"",
+         "I really should start this with a warning: This film is not for everyone! If you are easily offended (by swearing, sexual references, casual racism and various stereotypes) then you should read no further and give this one a miss. However, if you are a fan of Seth MacFarlane's other projects (Family Guy, American Dad) and maybe you call yourself an \"80's child\" (so many pop culture references to this time) you are going to love this. Sure some parts are a little disjointed, the story seems vaguely familiar and the \"moral\" of it kind of gets lost but quite frankly, it's just so darn funny none of that matters. The script is hilarious, the cameos are fantastic and the soundtrack is perfect. Ted himself is well animated and Seth (apart from sounding a little like Peter Griffin) voices him with the usual competence. Mark Wahlberg delivers exactly what we have come to expect from him, and the rest of the cast seem to have had fun filming, which comes across in the various performances no matter how big or small. The acceptance and interaction of everyone with a living teddy-bear adds to the simple joy of this film, and you find yourself happy to watch and not question why nobody is fazed by this. TED is a laugh a minute, party of a film and I, for one, can't wait to see it again.",
+         "I came into this movie expecting to be laughing almost the whole time, but I sat through the movie almost bored out of my mind! I was on the verge of getting up and leaving but that would of been rude. So instead I sat through the almost unbearable part of the movie where Ted and John (Mark Wahlberg)have a big fight (surprise surprise) and John's girlfriend dumps him (another surprise -_-) it's just a barrage of clichés to be honest. The humour of the film was well below mediocre. I didn't understand some the jokes because they were referencing a celebrity that I have never heard about. The other jokes are about drugs, swearing and getting drunk. The only time I managed a laugh was when Ted was pretending to be a retard . All in all If you're American you'd probably understand and enjoy this movie more than I did. If not, stay away!",
+         "I have occasionally laughed out loud while my sons, ages 15 and 9, watch Family Guy, so I don't hate Seth MacFarlane. But I fantasized often during this tiresome film about leaving early and letting my giggling kids get home on their own. (They found it \"awesome.\") \"Ted\" does have a few funny bits. It's not a bad idea to imagine a kid's teddy bear that ages along with him -- into the raunchiest version of a case of arrested development imaginable. The scenes with the supermarket manager are pretty entertaining, and I found Wahlberg's off-key serenade to Kunis amusing. However, 98 percent of the time I was squirming unpleasantly. Jewish jokes? How terribly fresh and original. Fart gags? That's creative. Scenes of guys getting crazy-drunk, knocking things over, and trashing rooms? My sides were splitting. And it got better from there (i.e., poop on the floor). The storyline involving Wahlberg and Kunis was strictly a retread. I tired of their petty spats and could not care less whether they stayed together or split. The father-and-son subplot seemed like something I'd seen before. I know this movie wasn't geared toward 56-year-old moms. However, I did expect a script from the originator of Family Guy to be significantly more clever and fun. I know many will disagree with me, but this movie reeked.",
+         "I have a perverted sense of humor and do not mind Family Guy, so I'm not sure what I was expecting. But this nasty, pointless, unfunny drivel was a complete waste of my time and money. About the only thing achieved here is an effort to showcase Mila Kunis as completely gorgeous; on all other counts it is a fail - unless you like gratuitous eff words and references to bowel movements/flatulence/anal sex (oooohhh how shocking, and how boring) *Spoiler Alert* See this and tell me if you can believe Mila Kunis wasting a perfectly good wish on having the world's most repulsive little furball come back to life. Only for sophomoric morons with no schools to vandalize or cars to torch.",
+         "First of all let me tell you that I rate movies on a scale from -10 to 10 with 5 being the average and negative numbers for differentiating the awfulness of certain movies that are terrible. That said I give this movie a 0, even though I like Seth Macfarlane's work this was an absolute disaster. We got a movie with 1 dimensional leading characters of Ted and John that didn't provide you with a single emotional reaction, while Mila Kunis character was at least somewhat comparable to a person although not at all complex. Supporting cast is the only part worth mentioning since Flash Gordon absolutely stole the show with the 4 minutes of air time he had, his lines were consistent and witty unlike anything main characters did. Story in itself falls apart since it is not built on anything real, the movie is completely clownish for the first 1 hour without any character build up and then randomly inserts \"emotional\" parts which left me completely indifferent, it was awkward and out of place. I could have said something nice about the atmosphere if the movie was consistent as it was for the first half but it started to take itself seriously which ruined the composure. I wouldn't recommend any movie enthusiast to watch this terrible movie, and reading movie reviews on IMDb in general I'm sure at least 90% of them as well as votes are sponsored by companies, too bad for this once great site.",
+         "This movie was such a piece of crap. Seth McFarlane should stick to what he knows best - cartoons, and leave the real movies to the big people. It was the same rehash of his series Family Guy with a horrible plot about this teddy bear growing up with his owner from childhood and gets... kidnapped? Kidnapped really?? And do we need yet another fat joke, or handicapped joke? If you answered yes, then you deserve to watch this film and lower your I.Q. another 20 points. Honestly, the only real treat was watching Mila Kunis, (and that's some damn fine acting by the way) they must have paid her a fortune to act in this crap. That goes for Mark Wahlberg too If you were expecting some magical, detailed plot where the jokes are actually funny and not recycled from a familiar series, then sorry to say look elsewhere.",
+         "One of THE MOST sexist and problematic movies I have ever seen in my life. It wasn't funny, it was purely idiotic. First of all, John is a total loser who is completely irresponsible and his girlfriend, Lori, ends up being treated like she's some sort of award to be won or lost. Lori's also completely shallow and only seems to like him because of his looks, which frankly... is all that he really has going for him I suppose. Ted's completely sexist, homophobic, fat-shaming, and immature. Then there's Rex who treats Lori like a fetish. There's seriously not a single good role model or decent person in the entire movie. It's simply one stereotype built upon another. I am deeply ashamed in society for allowing such a movie to gain so much popularity when it's the abyss of everything that's wrong in the world. It reeks of privilege."
+      ],
+      "genres": [
+         "Comedy",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Universal Pictures",
+         "Media Rights Capital",
+         "Fuzzy Door Productions"
+      ],
+      "summaries": [
+         "John makes a Christmas miracle happen by bringing his one and only friend to life, his teddy bear. The two grow up together and John must then choose to stay with his girlfriend or keep his friendship with his crude and extremely inappropriate teddy bear, Ted.",
+         "When he was eight years old, John Bennett, friendless and thus lonely, wished that his only friend, Ted his teddy bear who had a voice recorded message \"I love you\", would love him forever. John got his wish as Ted miraculously came to life, which garnered Ted his proverbial fifteen minutes of fame. Twenty-seven years later, John and Ted have remained best friends. Although physically the same, Ted now has grown-up urges, as vulgar, perverted and immature as they be. Although she loves John and likes Ted as John's friend, professionally successful Lori Collins, John's girlfriend of four years, believes that John's emotional immaturity and lack of professional drive - John works in a dead end job at Liberty Car Rental - is because of his friendship with Ted, with who he parties all the time. Although Lori does see John as being her husband one day, that cannot happen as long as the current situation with Ted remains. But other pressures may prevent a John-Lori happy ending. One is Rex, Lori's wealthy boss, who does whatever he can to make himself look good and John look bad in Lori's eyes, despite she showing no interest in him whatsoever. And two and three are father and son Donny and Robert, super-fans of Ted's who will go to any length to have a talking teddy bear as their own.",
+         "In Boston, the eight-year old lonely boy John Bennett has no friends. On the Christmas day, he wishes that his Ted bear comes to life and a miracle happens and Ted becomes his only friend. Twenty-seven years later, John Bennett is a pothead that works at a car rental and spends his idle time smoking pot and watching movies with Ted. He also has a girlfriend for four years, Lori Collins, who has a great job. Lori's boss Rex tries unsuccessfully to get into her pants. One day, John meets the weird Donny that worships Ted and wants to buy him for his son Robert but John refuses the offer. When Lori puts John against the wall to stay with her, John has to make a tough decision.",
+         "From the creator of Family Guy comes a movie about John Bennett, whose wish of bringing his teddy bear to life came true. Now, John must decide between keeping the relationship with the teddy bear or his girlfriend, Lori."
+      ],
+      "budget": 50000000
+   },
+   "movielensId": 95441,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2012-06-29",
+      "dvdReleaseDate": "2012-12-11",
+      "directors": ["Seth MacFarlane"],
+      "runtime": 106,
+      "movieId": 95441,
+      "title": "Ted",
+      "mpaa": "R",
+      "actors": [
+         "Mark Wahlberg",
+         "Mila Kunis",
+         "Seth MacFarlane",
+         "Joel McHale",
+         "Giovanni Ribisi",
+         "Patrick Warburton",
+         "Matt Walsh",
+         "Jessica Barth",
+         "Aedin Mincks",
+         "Bill Smitrovich",
+         "Patrick Stewart",
+         "Laura Vandervoort",
+         "Bretton Manley",
+         "Alex Borstein",
+         "Jessica Stroup",
+         "Tara Strong",
+         "Norah Jones",
+         "Sam Jones",
+         "Robert Wu",
+         "John Viener",
+         "Ginger Gonzaga",
+         "Melissa Ordway",
+         "Max Harris",
+         "Tom Skerritt",
+         "Kristina Ellery",
+         "Katelyn Lorren",
+         "Chanty Sok",
+         "Sarah Fischer",
+         "Ryan Reynolds",
+         "Ted Danson",
+         "Ralph Garman",
+         "Zane Cowans",
+         "T.J. Hourigan",
+         "Owen Clarke",
+         "Cassie Djerf",
+         "Joe Siriani",
+         "Josh Duvendeck",
+         "Henry Penzi",
+         "Tania Cabrera",
+         "Colton Shires",
+         "Viera Andrea Moya",
+         "Heajee Kim",
+         "Lydia Hannibal",
+         "Shawn Thornton",
+         "Danny Smith",
+         "Mike Nikitas",
+         "Robin Hamilton",
+         "Olivia Jordan",
+         "Emmalyn Anderson",
+         "Alexandra Creteau"
+      ],
+      "imdbMovieId": "1637725",
+      "originalTitle": "Ted",
+      "genres": [
+         "Comedy",
+         "Fantasy"
+      ],
+      "youtubeTrailerIds": ["9fbo_pQvU7M"],
+      "plotSummary": "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.",
+      "tmdbMovieId": 72105,
+      "avgRating": 3.17836,
+      "releaseYear": "2012",
+      "numRatings": 4830,
+      "posterPath": "/yLdP2vDa1BqxLSbikGypGtAEOGe.jpg"
+   }
+}

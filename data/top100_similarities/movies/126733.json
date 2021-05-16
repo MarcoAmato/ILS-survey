@@ -1,0 +1,507 @@
+{
+   "tmdb": {
+      "original_language": "da",
+      "keywords": [
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "fish",
+            "id": 1357
+         },
+         {
+            "name": "transformation",
+            "id": 4375
+         },
+         {
+            "name": "house",
+            "id": 6095
+         },
+         {
+            "name": "mad scientist",
+            "id": 10125
+         },
+         {
+            "name": "underwater",
+            "id": 14785
+         }
+      ],
+      "imdb_id": "tt0168856",
+      "video": false,
+      "title": "Help! I'm A Fish",
+      "recommendations": [
+         35927,
+         20410,
+         46314,
+         49874,
+         9904,
+         54648
+      ],
+      "backdrop_path": "/5ryEASjcPOpmksQfPj1QrO3FfQg.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Joe (voice)",
+               "gender": 2,
+               "credit_id": "52fe45069251416c75049147",
+               "name": "Alan Rickman",
+               "profile_path": "/zOJgiaztnrnB7TSdGYU3uwpgivl.jpg",
+               "id": 4566,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Professor MacKrill (voice)",
+               "gender": 2,
+               "credit_id": "52fe45069251416c7504914b",
+               "name": "Terry Jones",
+               "profile_path": "/7YaQ0k5BmUU3MmFvDL72tXl2G0B.jpg",
+               "id": 10707,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Moderen (voice)",
+               "gender": 0,
+               "credit_id": "52fe45069251416c7504914f",
+               "name": "Paprika Steen",
+               "profile_path": "/7iz6g2gXDCVL9LFjqmVV8KwGvNP.jpg",
+               "id": 4458,
+               "order": 2
+            },
+            {
+               "cast_id": 20,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d09c319251413e0b00131b",
+               "name": "Morten Kern Nielsen",
+               "profile_path": null,
+               "id": 1422399,
+               "order": 3
+            },
+            {
+               "cast_id": 25,
+               "character": "Chuck",
+               "gender": 2,
+               "credit_id": "56e98b8b9251417bb9003b92",
+               "name": "Aaron Paul",
+               "profile_path": "/pAa8H7DjgXENBhyvJy0hVLKvVT6.jpg",
+               "id": 84497,
+               "order": 4
+            },
+            {
+               "cast_id": 26,
+               "character": "Fly",
+               "gender": 0,
+               "credit_id": "56e98b9c92514101ee0027a2",
+               "name": "Jeff Pace",
+               "profile_path": null,
+               "id": 1190136,
+               "order": 5
+            },
+            {
+               "cast_id": 27,
+               "character": "Shark",
+               "gender": 0,
+               "credit_id": "56e98bb292514176360010e7",
+               "name": "David Bateson",
+               "profile_path": "/qlAbrkkQJIFMw8VHgi1PpAEs4oL.jpg",
+               "id": 3921,
+               "order": 6
+            },
+            {
+               "cast_id": 28,
+               "character": "Sasha",
+               "gender": 0,
+               "credit_id": "56e98bc7c3a3682d63003b54",
+               "name": "Louise Fribo",
+               "profile_path": null,
+               "id": 1045277,
+               "order": 7
+            },
+            {
+               "cast_id": 30,
+               "character": "Lisa / The Mother",
+               "gender": 1,
+               "credit_id": "56e98c0c92514154d700324e",
+               "name": "Teryl Rothery",
+               "profile_path": "/16rUSnTH56cKatjd6kjEYEfU4cA.jpg",
+               "id": 51800,
+               "order": 8
+            },
+            {
+               "cast_id": 31,
+               "character": "Aunt Anna",
+               "gender": 0,
+               "credit_id": "56e98c1ac3a3682d65003e4f",
+               "name": "Pauline Newstone",
+               "profile_path": null,
+               "id": 1219460,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45069251416c75049155",
+               "name": "Stefan Fjeldmark",
+               "profile_path": null,
+               "id": 58268,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45069251416c7504915b",
+               "name": "Michael Hegner",
+               "profile_path": null,
+               "id": 73094,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45069251416c75049161",
+               "name": "Greg Manwaring",
+               "profile_path": null,
+               "id": 73095,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45069251416c75049167",
+               "name": "Tracy J. Brown",
+               "profile_path": null,
+               "id": 73096,
+               "department": "Crew",
+               "job": "Additional Dialogue"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45069251416c7504916d",
+               "name": "Stefan Fjeldmark",
+               "profile_path": null,
+               "id": 58268,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45069251416c75049173",
+               "name": "Karsten Kiilerich",
+               "profile_path": null,
+               "id": 73098,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45069251416c75049179",
+               "name": "John Stefan Olsen",
+               "profile_path": null,
+               "id": 73099,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45069251416c7504917f",
+               "name": "Russell Boland",
+               "profile_path": null,
+               "id": 73100,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45069251416c75049185",
+               "name": "Eberhard Junkersdorf",
+               "profile_path": null,
+               "id": 16806,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45069251416c7504918b",
+               "name": "Anders Mastrup",
+               "profile_path": null,
+               "id": 73101,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45069251416c75049191",
+               "name": "Gerry Shirren",
+               "profile_path": null,
+               "id": 73102,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45069251416c75049197",
+               "name": "Christoph Sieciechowicz",
+               "profile_path": null,
+               "id": 73103,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45069251416c7504919d",
+               "name": "Harro von Have",
+               "profile_path": null,
+               "id": 73104,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45069251416c750491a3",
+               "name": "Søren Hyldgaard",
+               "profile_path": null,
+               "id": 73105,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45069251416c750491a9",
+               "name": "Per Risager",
+               "profile_path": null,
+               "id": 66849,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5518d1da9251411500003514",
+               "name": "Padraig Collins",
+               "profile_path": null,
+               "id": 1447338,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551c50a49251416a30000818",
+               "name": "José Antonio García Villameriel",
+               "profile_path": null,
+               "id": 1448089,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "554422a5c3a36856e50002a1",
+               "name": "Dan Harder",
+               "profile_path": null,
+               "id": 1447333,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552444ec3a36834e10052c3",
+               "name": "Carlos Zapater",
+               "profile_path": null,
+               "id": 1447567,
+               "department": "Visual Effects",
+               "job": "Animation Manager"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 9.116938,
+      "production_countries": [
+         {
+            "iso_3166_1": "DK",
+            "name": "Denmark"
+         },
+         {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         }
+      ],
+      "id": 12609,
+      "vote_count": 96,
+      "budget": 0,
+      "overview": "Three children accidentally get turned into fish after drinking a potion made by an eccentric scientist. The kids end up in the sea, with one problem. They must find and drink the antidote within 48 hours, or forever remain as fish.",
+      "similar": [
+         12,
+         10054,
+         858,
+         13,
+         587,
+         9738,
+         773,
+         209244,
+         425,
+         127380,
+         112160,
+         8204,
+         433,
+         10009,
+         8967,
+         1562,
+         111,
+         334,
+         2288,
+         4347
+      ],
+      "original_title": "Hjælp, jeg er en fisk",
+      "runtime": 80,
+      "poster_path": "/jZUfsa7ABHR8bKsPfyH22uI1VaJ.jpg",
+      "spoken_languages": [
+         {
+            "name": "Dansk",
+            "iso_639_1": "da"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         },
+         {
+            "name": "Norsk",
+            "iso_639_1": "no"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "TV2 Danmark",
+         "id": 758,
+         "origin_country": ""
+      }],
+      "release_date": "2000-10-06",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Germany",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Stefan Fjeldmark",
+         "Michael Hegner"
+      ],
+      "runtime": 80,
+      "synopsis": null,
+      "writers": [
+         "Tracy J. Brown",
+         "Stefan Fjeldmark"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0168856/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI2OTc5MzcwNF5BMl5BanBnXkFtZTcwMTAwOTUxMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Nis Bank-Mikkelsen, Alan Rickman, Terry Jones | See full cast and crew »"],
+      "reviews": [
+         "I bought this movie for my 5-year old son who loves sea creatures. I bought the movie on a Friday and over the weekend, he watched it at least 10 times. It's his favourite movie and I must say I like it very much as well. The animation is very well-done and the angles are unique and interesting. My son still watches it twice a day, every day. Does anyone know of any other sea-related cartoons, other than Finding Nemo? I think this is an excellent movie for children. It's educational (teaches about sea creatures) and the story line is one of the most original I've come across.",
+         "This movie which almost immediately appeared on DVD at an ultra budget price should be snapped up quickly by anybody with young kids. This movie has been played more times than any of the Disney titles since its been purchased and given the name \"Help I'm a Bish\" by one happy little girl... It may not have the Disney credentials but its certainly beautiful to look at and with some not bad songs thrown in to the mix will put a smile on any youngsters face (or just keep them quite for a while, which will put a smile on your face). So don't overlook this little gem if you have a youngster of pre school age, they will love Help I'm a Bish :-)",
+         "I will admit that this film lacks the qualities that make Disney, Pixar, Studio Ghibli and Dreamworks so memorable. I am nearly 17, and I think it is a very entertaining but flawed film, that is much better than people give credit for. Adults won't find much to go on, but children will love at least one aspect of the movie. The animation is in general very good,considering it's a danish studio, very bright in the underwater sequences. However, some of the character animation was not as good as it could have been, and it was a little flat, especially in the first ten minutes or so. The songs were adequate, but I personally think both children and adults won't remember any of them, except \"Help I'm a little yellow fish\", perhaps not always in a good way. I liked that song, and I liked \"Intelligence\", but the other songs are forgettable. The incidental music wasn't bad either, though some of it sounded very like the Lion King. The story is a very nice idea indeed, about three children accidentally coming across a potion that turns them into fish, and encountering a villainous fish named Joe (admittedly an odd name for a villain), who is desperate for power. I personally thought the story was a nice idea, but there were some scenes where it dragged, and others where it felt rushed. I did think the script was nicely-written, again it may depend on the audience, as there is a lot of very confusing maths and science. The voice talents were actually not that bad at all. Alan Rickman lent his gritty baritone to a cool and suave villain, and I must say he didn't do too bad a job. As a matter of fact, I was impressed with him more than anybody else. Had he had some better material,(not as bad as it could have been) his villain could have been more memorable than they made him. Terry Jones was an inspired choice for McKrill. His character is quite mad, and there were times when Jones was very funny, but other times when he quite badly overdid the character, most notably in his song. Fly, Stella and Chuck were well done, but the only voice actor I wasn't hugely keen on was the voice actor of the shark; he was very loud and got a bit annoying. The special features on the DVD could have been of a bigger variety. There was an interesting featurette with interviews with Rickman and Jones, and some equally interesting filmographies. If anything, there could have had a bit more variety for kids, like games and trailers for other films. All in all, I liked this film. Is it the best animation in the world? No it isn't, but it isn't too bad an attempt. 7/10 Bethany Cox",
+         "I think this was a great movie! It was funny and full of cliché! I especially liked Stella, the little girl, she was so innocent and curious. It reminded me of my baby cousin. Fly was the bad boy in the group. He didn't do it on purpose, just somehow whenever he did something it always became a catastrophe. For example- If Fly hadn't wanted to go fishing in the first place it never would have happened. But if he hadn't, there would be no story. Charles is the nerd in the group. Which is great actually, he's funny, witty and always saying long words! It makes you wonder what he's saying. If there was no Charles there would have been no chance for Fly and Stella to get back to being human! Joe was another great character. Obviously hes the real bad guy, the one who makes a problem of what the good guys are trying to do and they have to kill him! It was a great movie and i recommended it to all my friends and now i'm recommending it to you!!!!",
+         "\"Help! I'm A Fish\" is a Danish-Norwegian-German-Irish co-production with additional animation done in Spain, England and Bangkok, plus voice work (in the English-language version) done in the UK, Canada and the US. So it's a good advertisement for international cooperation, but as a movie it's less effective. The actual story isn't bad (three stereotyped kids - a sporty lad, his cute little sister and their fat brainy cousin - go fishing, stumble into the lair of an eccentric scientist and, thanks to his special potion, turn into fishes (a flyfish, a starfish and a jellyfish respectively); and unless they can get the antidote within 48 hours they'll stay fishes forever), but the handling doesn't have the extra touch that could lift it into something great. As is often the case in live-action films, Alan Rickman livens things up no end as the voice [again, in the English-language version] of the movie's villain, a fish who drinks some of the antidote and wants to use his intelligence to take over the undersea world, or something... it's never really clear thanks to the script. The animation's often quite good (but the opening titles of fish swimming clash with the first scenes with the human characters - the quality is a bit jarring), some scenes are genuinely effective such as the final faceoff between heroes and villains, and it's inoffensive - unless you consider montages set to Europop songs and the presence of American voices offensive (incidentally, why are the children voiced by Americans and their parents voiced by Canadians?) - but it's not really too memorable, either. \"Help! I'm A Fish\" is preferable to some Disney films and is certainly closer to a proper movie than other European animated features (at least I managed to get through this, which is more than can be said for \"Millionaire Dogs\"), but while it's not fair to expect \"The Little Mermaid,\" ultimately it's not nearly as cute and endearing as... well, that Little Trees song you hear over the credits. \"I'm a little yellow fish in the deep blue sea... won't somebody save me?\"",
+         "While I thought many aspects of the movie were OK, I was a little disturbed by the large amount of blood and death portrayed throughout the movie. It's fairly unusual as far as I can remember to see a main character suffer so graphically in a G rated film. I won't warn people away from it, but I wouldn't recommend it for younger children or those who are sensitive or scare easily. The songs are generally good, but if you're used to the Pixar trend of no singing, you may find it a little jarring. Alan Rickman does a lovely voice-over, but it was so soft at times I had a bit of a hard time hearing it. Other voices ranged from decent to non-offensive -- there were no other real standouts, although the little girl doing Stella was awfully cute. Overall I only give this a six because compared to many other fine children's animated tales, it really has very little to put it above any of the others.",
+         "A harmless little flick, that shows Disney is not the only one who can pump out \"love it or hate it\" cutesy animated features. It is done in the standard formula for kids movies, but drew me in. I was sucked in by the ads I heard on French TV. The euro pop beat is a little cliché but still catchy. The title song is so nihilistic yet upbeat, I couldn't help but like it. The karaoke bonus on the DVD is even more fun for the kids. And a good way to help the kids learn French. Unfortunately, it has not been released for Region 1, so I can't get a copy to my family in the US.",
+         "This is quality, and its danish. I'm very proud. The story is great, all the basic rules for an animated film is upheld. The combination of computer animation and animation the old fashion way, with pencil and paper, is very good. It's not that obvious when it's one or the other animation type, like in e.g. \"Prince of Egypt\" or \"Anastasia\". Though these two titles are very good animated features they do suffer from this problem. This is very nicely done is this film.",
+         "Delightful animated feature about a bunch of kids turning into fish by accident when visiting a weird scientist. Excellent animation and music with some truly mesmerizing sequences, but some scenes may be a little too creepy for very young children. Only complaint: Why is the English languaged version (with Alan Rickman and Terry Jones) missing on the DVD? ***",
+         "This film starts off straight away by easily separating the personality of the characters within this film. The opening is quite comedic and features scenes that grips kids to the screen as well as adults. This film is moving and entertaining and a joy to watch. Many different things happen in the film to make it slightly unpredictable at times and providing a well thought through ending. Personally I especially enjoyed the scene towards the end of the film where Chuck is using different objects to get through the pipes back towards the Professors Boat. Overall this film is a not only fun but also exciting film to watch especially if you are with a child as it is slightly moving in ways that often mislead you. This is a film I would recommend and I am surprised it has not received more recognition as many people I know have not seen or heard of this film. The film doesn't quite reach the Disney standard of 'Finding Nemo' but just ends up slightly more entertaining than 'Shark Tale'. It is a film where you cannot end up disappointed."
+      ],
+      "genres": [
+         "Animation",
+         "Adventure",
+         "Comedy",
+         "Drama",
+         "Family",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "A. Film",
+         "Kinowelt Filmverleih",
+         "TV2 Danmark"
+      ],
+      "summaries": [
+         "Siblings; Fly & Stella together with their child genius cousin Chuck Charles, encounter reclusive biologist/chemist Proffesor MacKrill/Mac Krell while out on the docks fishing only to become cut off by the tide coming in separating them from the shoreline. Seeking refuge, they stumble across his secluded island hideaway laboratory, to discover MacKrill/Mac Krell has found away to change humans into sea-life and back again. Stella mistaking this fish potion for lemonade drinks some and is turned into a starfish, her older brother none the wiser chucks her out into the ocean, only to learn from the video cameras the awful truth. Out searching for her in a boat guilty Fry knowing how futile this action is drinks the potion and dives in after her (changing into Californian Linefish in the process) leaving the Professor and Chuck on-board as an storm brews overhead. Unable to stand the batter waves, their craft sinks along with the antidote and Chuck has to drink the liquid to prevent himself from drowning (ending up as a jellyfish), with MacKrill/Mac Krell warning that unless they drink the antidote in within 48 hours they'll be stuck as fish forever. Now these three find themselves stranded in the ocean in a desperate search to find that antidote. However on the seabed their antidote has fallen into the fins of the ruthless pilot-fish Joe...whose exposure to it has increased his intellect, making him power-mad with no intention of letting this stroke of fortune desert him.",
+         "Three children accidentally get turned into fish after drinking a potion made by an eccentric scientist. The kids end up in the sea, with one problem. They must find and drink the antidote within 48 hours, or forever remain as fish."
+      ],
+      "budget": 0
+   },
+   "movielensId": 126733,
+   "movielens": {
+      "languages": [
+         "Dansk",
+         "English",
+         "Italiano",
+         "Norsk"
+      ],
+      "releaseDate": "2000-10-06",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Stefan Fjeldmark",
+         "Michael Hegner",
+         "Greg Manwaring"
+      ],
+      "runtime": 80,
+      "movieId": 126733,
+      "title": "Help! I'm A Fish",
+      "mpaa": "",
+      "actors": [
+         "Alan Rickman",
+         "Terry Jones",
+         "Paprika Steen",
+         "Morten Kern Nielsen",
+         "Aaron Paul",
+         "Jeff Pace",
+         "David Bateson",
+         "Louise Fribo",
+         "Teryl Rothery",
+         "Pauline Newstone"
+      ],
+      "imdbMovieId": "0168856",
+      "originalTitle": "Hjælp, jeg er en fisk",
+      "genres": [
+         "Adventure",
+         "Animation",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["0hnAtWzSIvg"],
+      "plotSummary": "Three children accidentally get turned into fish after drinking a potion made by an eccentric scientist. The kids end up in the sea, with one problem. They must find and drink the antidote within 48 hours, or forever remain as fish.",
+      "tmdbMovieId": 12609,
+      "avgRating": 2.69231,
+      "releaseYear": "2000",
+      "numRatings": 26,
+      "posterPath": "/jZUfsa7ABHR8bKsPfyH22uI1VaJ.jpg"
+   }
+}

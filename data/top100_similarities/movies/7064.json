@@ -1,0 +1,432 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "underdog",
+            "id": 240
+         },
+         {
+            "name": "monster",
+            "id": 1299
+         },
+         {
+            "name": "beauty",
+            "id": 3258
+         },
+         {
+            "name": "rose",
+            "id": 3259
+         },
+         {
+            "name": "daughter",
+            "id": 5600
+         }
+      ],
+      "imdb_id": "tt0038348",
+      "video": false,
+      "title": "Beauty and the Beast",
+      "recommendations": [
+         777,
+         198,
+         4558,
+         2457,
+         776,
+         11898,
+         12493,
+         14320,
+         204,
+         34181,
+         22596,
+         976,
+         15244,
+         25037,
+         851,
+         827,
+         4024,
+         4495,
+         41391,
+         631
+      ],
+      "backdrop_path": "/rcRaonawClUiBjPHjVy4lEMuT3q.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 15,
+               "character": "The Beast / The Prince / Avenant",
+               "gender": 2,
+               "credit_id": "52fe4264c3a36847f801ad39",
+               "name": "Jean Marais",
+               "profile_path": "/2zxltyxOiLDU7p6zgeotMgLV9V2.jpg",
+               "id": 9741,
+               "order": 0
+            },
+            {
+               "cast_id": 16,
+               "character": "Belle",
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad3d",
+               "name": "Josette Day",
+               "profile_path": "/ccOCGdAooNXT4lsSzXKUff2J76y.jpg",
+               "id": 9742,
+               "order": 1
+            },
+            {
+               "cast_id": 17,
+               "character": "Belle's Father",
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad41",
+               "name": "Marcel André",
+               "profile_path": "/sSeP74JX0jYRR5aQdn9Mm34ppKj.jpg",
+               "id": 9743,
+               "order": 2
+            },
+            {
+               "cast_id": 18,
+               "character": "Félicie",
+               "gender": 1,
+               "credit_id": "52fe4264c3a36847f801ad45",
+               "name": "Mila Parély",
+               "profile_path": "/qCaJD1L0GTZE1qdakOvn4S6qifJ.jpg",
+               "id": 9744,
+               "order": 3
+            },
+            {
+               "cast_id": 19,
+               "character": "Adélaïde",
+               "gender": 1,
+               "credit_id": "52fe4264c3a36847f801ad49",
+               "name": "Nane Germon",
+               "profile_path": "/yVdAAfPhKYK0ktfUgahClQa0zvl.jpg",
+               "id": 9745,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Ludovic",
+               "gender": 2,
+               "credit_id": "52fe4264c3a36847f801ad4d",
+               "name": "Michel Auclair",
+               "profile_path": "/4wYmYJ6ArvWnZEqQsPNMD9NKExJ.jpg",
+               "id": 9746,
+               "order": 5
+            },
+            {
+               "cast_id": 24,
+               "character": "The Usurer",
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad63",
+               "name": "Raoul Marco",
+               "profile_path": "/2RD23LG46GtGqZiMAmnFquvmOzy.jpg",
+               "id": 548707,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "52fe4264c3a36847f801ad67",
+               "name": "Jean Cocteau",
+               "profile_path": "/b7RCKohvO0FpXDxO0BWiHMLbg0u.jpg",
+               "id": 9730,
+               "order": 7
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4264c3a36847f801aced",
+               "name": "Jean Cocteau",
+               "profile_path": "/b7RCKohvO0FpXDxO0BWiHMLbg0u.jpg",
+               "id": 9730,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4264c3a36847f801acf3",
+               "name": "Jean Cocteau",
+               "profile_path": "/b7RCKohvO0FpXDxO0BWiHMLbg0u.jpg",
+               "id": 9730,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801acf9",
+               "name": "André Paulvé",
+               "profile_path": null,
+               "id": 9732,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4264c3a36847f801acff",
+               "name": "Georges Auric",
+               "profile_path": null,
+               "id": 2578,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4264c3a36847f801ad05",
+               "name": "Henri Alekan",
+               "profile_path": null,
+               "id": 2307,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad0b",
+               "name": "Claude Ibéria",
+               "profile_path": null,
+               "id": 9733,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad11",
+               "name": "Christian Bérard",
+               "profile_path": null,
+               "id": 9734,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad17",
+               "name": "Lucien Carré",
+               "profile_path": null,
+               "id": 9735,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad1d",
+               "name": "Lucien Carré",
+               "profile_path": null,
+               "id": 9735,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad23",
+               "name": "René Moulaert",
+               "profile_path": null,
+               "id": 9736,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad29",
+               "name": "Antonio Castillo",
+               "profile_path": null,
+               "id": 9737,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad2f",
+               "name": "Marcel Escoffier",
+               "profile_path": null,
+               "id": 9738,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad35",
+               "name": "Hagop Arakelian",
+               "profile_path": null,
+               "id": 9739,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4264c3a36847f801ad53",
+               "name": "Jean Cocteau",
+               "profile_path": "/b7RCKohvO0FpXDxO0BWiHMLbg0u.jpg",
+               "id": 9730,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4264c3a36847f801ad59",
+               "name": "Jean Cocteau",
+               "profile_path": "/b7RCKohvO0FpXDxO0BWiHMLbg0u.jpg",
+               "id": 9730,
+               "department": "Writing",
+               "job": "Dialogue"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4264c3a36847f801ad5f",
+               "name": "Jeanne-Marie Leprince de Beaumont",
+               "profile_path": null,
+               "id": 1115296,
+               "department": "Writing",
+               "job": "Story"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 6.9282,
+      "production_countries": [{
+         "iso_3166_1": "FR",
+         "name": "France"
+      }],
+      "id": 648,
+      "vote_count": 174,
+      "budget": 0,
+      "overview": "The story of a gentle-hearted beast in love with a simple and beautiful girl. She is drawn to the repellent but strangely fascinating Beast, who tests her fidelity by giving her a key, telling her that if she doesn't return it to him by a specific time, he will die of grief. She is unable to return the key on time, but it is revealed that the Beast is the genuinely handsome one. A simple tale of tragic love that turns into a surreal vision of death, desire, and beauty.",
+      "similar": [
+         124905,
+         7191,
+         339967,
+         293167,
+         58,
+         39256,
+         46261,
+         5876,
+         588,
+         408220,
+         339530,
+         32657,
+         4982,
+         881,
+         1597,
+         2024,
+         1640,
+         879,
+         414,
+         334
+      ],
+      "original_title": "La belle et la bête",
+      "runtime": 96,
+      "poster_path": "/bhGxt2YxlyO7x4GpliHEzI28H0z.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Discina",
+         "id": 479,
+         "origin_country": ""
+      }],
+      "release_date": "1946-10-29",
+      "vote_average": 7.7,
+      "belongs_to_collection": null,
+      "tagline": "Once upon a time",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": [
+         "Jean Cocteau",
+         "René Clément"
+      ],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": [
+         "Jean Cocteau",
+         "Jean Cocteau"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0038348/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQxODUzNzI5OF5BMl5BanBnXkFtZTgwMzg1MDM5MTE@._V1._CR28.883331298828125,21.533340454101562,331,457_SY317_CR8,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jean Marais, Josette Day, Mila Parély | See full cast and crew »"],
+      "reviews": [
+         "I first saw this when about 10 years old, it made little impression on me then, probably because I couldn't hope to appreciate it or understand it all when so young. Next time I was 25 and was bowled over by its imagery, and as I've got older come to appreciate it more and more. So much for watching it through a child's eyes and accepting the fantasy at face value! At the beginning Cocteau states \"Once upon a time...\", but really for discerning adult cineastes (and/or poets) to drop their guards and enjoy it for what it was - a magical filmic fantasy. It's uniformly marvellous in all departments, direction, photography, acting, music, design, and Cocteau trotted out all his favourite cinematic tricks - just part of the sequence between Blood of a Poet in '30 and Testament of Orphee in '61. The script was suitably steeped in non sequiteurs and puzzles to add to the heaviness of it all. Er, not that it matters but what happened to Ludovic? The wonderful dark brooding smoky atmosphere is the most important aspect though - there are few films I've seen with such a powerful cinematic atmosphere, Reinhardt's Midsummer Night's Dream is one and Dead of Night another etc. But the romantic melancholic atmosphere here was something ... incredible. It was only possible with black and white nitrate film stock to capture such gleaming, glistening and time- and place-evoking moving images - it hasn't been quite the same since 1950 with safety film in use. If you're an adult about to give it your first (let yourself) go, I envy thee! All in all a lovely inconsequential fantasy, make what erudite and informative allegorical allusions you will.",
+         "In France ,the fairy tale \"La Belle et la Bête \" is a classic by Madame Leprince de Beaumont.Try to read it if you haven't because you will realize that although Cocteau adapted the story,he took it to new limits ,he dramatically expanded the scope,and most of all,he wiped out an obsolete grating moral. Mrs De Beaumont's fairy tale insists on virtue ,her story takes virtue over beauty,wit or anything life can bring.The two bad gals are strictly punished at the end of the story:they become statues at the gate of their sister's palace but -supreme humiliation-,they will keep their mind beneath the stone which covers them ,and thus be able to watch their sister's happiness. While keeping the two sisters' characters,Cocteau leaves the \"moral \" angle far behind magic,symbolism,surrealism and psychoanalysis.Jean Marais plays three parts:Avenant,la Belle's suitor ,the Beast (four hours of make-up and terrible sufferings during the shooting:Jean Marais was one of the greatest actors France ever had -proof positive was that the new wave (with the exception of jacques Demy) clique never used him-,and the prince.These three entities that finally make one predates Bruno Bettelheim by thirty years:this is not only because Belle does not want to leave her father that she does not want to marry Avenant:she's afraid of the man,he's the real beast.This triple part is Cocteau's genius.Cocteau dropped out the good fairy who appears in a Belle's dream and then at the end of Leprince de Beaumont's story when she punishes the \"vilainesses \"and rewards the \"good ones\" Instead ,we have these sublime lines: -You resemble someone I knew... -Does it worry you? -Yes ....(then a beaming face) No!!! Two words coexist -like in the literary work-:the mundane bourgeois house of the merchant;the Bête's mansion,where everything is possible,where Cocteau uses special effect to create pure poetry,extraordinary enchantment .The two characters seem to act as if they are in a ballet. The passage between the two is first the mysterious forest.Then the Beast reveals his secrets five magic clues:the rose,the golden key,the glove,the ring and the mirror -some of them were in the story- and a horse \"le magnifique\" as the two worlds intertwines towards the end:Belle's room in her father 's room,in her room in the palace,Avenant coming to her rescue while the Beast is dying,the two characters soon to become one. This is the best adaptation of a fairy tale for the screen.By writing the cast and credits on a blackboard,Cocteau winks at childhood -for a child he writes everything's possible -besides,it's because the prince did not believe in the fairies -all that is hidden for our poor rational spirit- that he was sentenced to his bestial life.Bruno Bettelheim thought children intuitively actually understood what lied beneath the fairy tales.They do not cry when the wolf eats the first two little pigs because thy do know that there is only one pig ,at three stages of its development.They won't cry when Avenant will be hit by Goddess Diana's arrow because they do understand in their subconscious that all in all,Avenant and the Beast are the same entity:beautiful prince,horrible beast or simple young man share the same mystery. Michel Tournier said that when his writing was at the height of its powers,he could appeal to children as well.Cocteau did the same for the seventh art.",
+         "This film immediately captured my attention with the written comments at the beginning of the film. Director Jean Cocteau begins this story by explaining why he wanted to make this film. He talks about the passion behind the picture and all the social unrest at the time. He ends this written dialogue with a comment that will forever remain in my mind. He says, \"...and now, we begin our story with a phrase that is like a time machine for children: Once Upon a Time...\" This just sent chills down my spine. Why? Because, although he is addressing children, I feel that it is really a phrase meant for all of us. It is used to bring the child out in all of us, to show us that we do not need to be 4 or 5 to fully understand the themes of this film ... we are meant to just sit back and let the film take us to another mythological time. The amazing set design also impressed me about this film. Again, without the modern conveniences of today's cinema, Cocteau had to improvise. This was hard for him to do. Not only were there huge budgetary issues (since it was the end of WWII and France was about to be demolished), but also he was racing against an impending war. Fear was deep in the hearts of the French after WWII, and what a better way to rally your people then with a story about love found in the darkest of places. This film also made me very sad. I am sometimes disgusted with the way that Disney ... for lack of a better word ... Disney-fies their fairy tales. I think after watching this masterpiece I will have trouble ever being able to go back to the computer generated \"Song as Old as Time\" version that Disney plastered their trademark to. Never have I been so impressed with black and white cinematography as I have been with this film. The actress that plays Belle, Josette Day, steals the camera every time it is on her. She looks so radiant with the black and white that to see a colorized version of this film would completely do it injustice. The power and emotion that comes between Belle and the Beast feels so true. Cocteau has somehow grabbed the true feeling of two people that are complete opposites that seem to find true love in the coldest of places. I would be one of those reviewers that believes that if this film were released today, it would still pull the audiences in as it did the first time. Only proving that it was made well before it's time, it shows so many of the characteristics of the modern day movie. Even the special effects seem perfect for this film. Even with budget being sub-par, we are able to get a true feeling that this Beast is one of the magical kind. Oh, this film was superb. I would have to say that it is the best adaptation of a fairy tale that I have seen today. Definitely my best 40s film (made in 1946), and possibly the best telling of Beauty and the Beast EVER!! Grade: ***** out of *****",
+         "Cocteau was a poet. Make no mistake. First and foremost. Not only in history's mind, but in his own as well. We are truly blessed that he was a filmmaker as well, and a brilliant one at that, marvelously weaving together a tapestry that mystically incorporated both words and sounds with the beautiful visions that lay captured in his mind. Cocteau's vision of \"Beauty and the Beast\" is a visual marvel. To explain these marvels for you would be to ruin the experience. And it is an experience. But it is one of the poet: borne of symbolism and mythology. This is a fairy tale that a child could appreciate for its romance and beauty, and a parent for its intelligence and use of symbolism and metaphor. I recommend this film unreservedly. If you like classics and consider yourself a serious filmgoer, Cocteau's film is essential to your education.",
+         "To a degree of success few films have ever achieved, Jean Cocteau's Beauty and the Beast (1946) balances film's opposite yet equal capacities to record life as it is and to create completely imaginary landscapes via editing and optical effects. Most Cocteau films veer heavily toward the fantastic, the mythic, the poetic, or the surrealistic, but in Beauty he rendered a mise en scene based largely on 18th century Dutch painting, employed an invisible camera and editing style, and relied on conventional storytelling techniques in order to make his retelling of the classic fairy tale as realistic as possible. Nevertheless, Beauty and the Beast is primarily noted as among the most successful adaptations of a fairy tale ever made and one of the greatest fantasy films of any type. And this is true despite Cocteau's enormous handicap of working in a recently war-ravaged country with minimal financial and technical resources. One influential and provocative interpretative approach to Beauty and the Beast is through Freudian psychology. From this perspective, Beauty's story is a symbolic sexual drama in which a young woman breaks free from a psychologically incestuous relationship with her father (and brother?), overcomes her fear of male sexuality and of her own, and ultimately enters mature womanhood. Strong evidence to support this interpretation can be found in the framing of the film's opening and closing scenes. In the film's opening scene Belle's suitor, Avenant, shoots a (phallic) arrow that misses its ostensible target and enters a ladies-only bedchamber where it lands across the mirror image of Belle on the floor she is polishing. Uninvited, Avenant invades the bedchamber, retrieves the arrow, and uses it to embrace/restrain Belle. He then proposes marriage, and - when he is denied - forces his attention on Belle with something close to physical assault. From a Freudian perspective, Avenant represents the unleashed libido that Belle is not psychologically or culturally prepared to confront directly. Avenant, in turn, receives his just comeuppance in the film's final scene when he is slain by an arrow from the bow of Diana, protector of chastity and the presiding goddess in the Beast's garden pavilion. Entry to this pavilion (female sexual nature), is permissible only by using a golden key, dominion over which the Beast has chivalrously granted to Belle. (i.e. the woman says when) Yet with the aid of Belle's evil and duplicitous older sisters, Avenant comes into false possession of the golden key. This alone would negate the legitimacy of his entry to the pavilion, but he decides to enter even more illicitly by smashing the hymen-like glass portal hidden on the building's roof, thus prompting his ironic execution via the same phallic symbol with which his pursuit of Belle had begun. This framing symmetry of two spatial \"violations\" in the opening and closing scenes of the film is not accidental. It underlines the difference between the Beast's tempered, courtly masculinity and Avenant's unrestrained ego and desire. The film ends not only with the Beast's transformation into the handsome prince thanks to Belle's loving gaze, but also with the transformation of Avenant into the guise of the beast, a physical manifestation of his unrestrained inner animal. That Avenant, the Beast, and the Prince are played by the same actor suggests their Freudian interplay of id, superego, and ego - which Belle is also working out in feminine terms as she resists and then accepts the journey from her father's house, through the Beast's castle, and on to her married royal destiny. Many scenes throughout Beauty and the Beast acquire added depth through a Freudian approach. The cutting of the rose in the Beast's garden, for instance, can be seen as a symbolic violation that evokes the Beast and begins the liberation of Belle from bondage to her father and evil-sister Mother substitutes. Edited in jump cuts, the threshold scene when the Beast first carries Belle into her castle bedchamber depicts the repeated transformation of Belle's costume from servant/child to woman/bride, the very journey she must undertake as she leaves her \"maidenhood\" and her father's house and accepts her passage to adult female sexuality and maturity. Belle's journey between the Merchant's house and the Beast's castle is facilitated by two decidedly Freudian symbols of masculine sexuality: the horse, Magnificent, and the Beast's hunting gloves, steaming with the blood and scent of his animal/masculine power. Indeed, the magic words that Belle must say to prompt Magnificent's gallop back to the castle indicate the psychological necessity of her journey: \"go where I am going! Go, go, go!\" The relatively more subtle symbol of the stallion as agent of transportation is later replaced by the glove which not only steams with the Beast's masculine power, but which she dons while reclined on the respective beds of her bed chambers in the Castle and the Merchant's house. That Belle's journey of maturation must be undertaken, despite her reluctance, is most poignantly underscored in the scenes of Belle's return to the Merchant's house after she has lived for a while in the Beast's castle. In her father's house, she rapidly regresses to the physical and psychological bondage that had characterized her condition at the beginning of the film - only now the audience, if not Belle herself - is painfully aware of the arrested development it represents. Like so many Greta Garbos, we want her out of the there and back with the Beast where she belongs!",
+         "When special effects anthologies are shown \"Metropolis\" is called the grandfather of film FX, \"2001\" is the son and \"Star Wars\" is the grandson. Invariably the French are forgotten. This is shameful, since the French were truly the masters of FX or \"trick\" shots. Following my analogy, Cocteau was the heir apparent of Melies. \"Beauty and the Beast\" not only beautifully re-tells a beautiful story, but powerfully displays the Beast's magic. Cocteau's genius is that he makes simple editing techniques look like art and in this movie like the combination of art and magic. Watch what happens when Beauty gives one of her sisters a present from the Beast's castle which the Beast meant only for Beauty. The version I saw was in French with English subtitles, but the visuals, in glorious black and white, are so stunning, you could almost cover up the subtitles and still understand what's going on. I can't recommend this movie enough! It is #1 on my foreign film list.",
+         "This might be my nominee for the most beautiful film ever made. It ranks as one of my absolute favorites. So many images stick in your head afterwards: the billowing draperies; the beast's flashing eyes when he first appears; the way his ears prick up when a deer moves through the woods-- he's trying to talk to Belle but can't help but be distracted-- one of those perfect moments; the way his hands smoke from the fresh blood when he's returned from the hunt; the living eyes in the carved stone; the hall full of arm/candelabras, turning as Belle passes by; Josette Day (quite an image all by herself); the moment that I can't even describe when she sort of folds into the sheets and vanishes-- so on, so on. This is, in short, what film can do, when it tries. This was made long before computer graphics and the accompanying revolution in special effects, but if any of our modern directors deployed their resources as imaginatively, or as sensitively, as Cocteau did in the 40s, film today might be worth the paper it's printed on. But they don't and it isn't. Ah well. Get this and watch it; all due praise to Disney, but this is the fairy tale to see.",
+         "I first saw this film, believe it or not, as a young boy of about four or five. The year was about 1952 or 1953, and I watched it on a typical TV set for those days - a very small screen with a very grainy picture. I remember being mesmerized by the film, particularly the ending. I must have asked my mother the name of it, for I never forgot it. I'm sure I didn't understand it much, it was just that I was swept away by the artfulness and magic of it. Its memory remained in my consciousness for about forty years, during which time I never once saw the film or even heard about it. Then I happened to run across it in a catalog. I just had to have it and ordered it immediately. It was an incredible experience to see this film again after so many decades, and to connect again with my child-self. I could see why the movie had made such an impression on me and haunted me all these years. As it turned out, the film had even more meaning for me as an adult, since the main theme had a special, personal relevance for me. Amazingly, I had also developed an obsession with roses, and tended to a garden of hundreds of rose bushes. All in all, a very beautiful film and a simple yet magical tale.",
+         "This is what true movie-making is about. There is no CGI, no pop culture jokes, no stupid sex scenes. This IS what love stories are made of. The classic fairy tale is given remarkable treatment by Jean Cocteau as he tells the tale of a beautiful girl who falls in the love with a tortured but charming Beast (played by Jean Maris in a stunning performance). This movie just seems to have it all: it's visuals are very impressive, the romance is very charming and not at all phoned in, the story is engaging and surprisingly tense, and the acting is just superb. Although there are no big movie names, you won't care for a second as this talented group will win you completely over. Not only is this fantasy at it's very best, it often comes off more as a poem rather than a movie but you won't care. It's one of the most visually dazzling poems ever put on film.",
+         "Prominent sociologist Bruno Bettleheim believes that the fairy tale has a very important role in the socialization process of children. Each fairy tale addresses a fear they must overcome; Hansel and Gretel addresses the fear of abandonment, Little Red Riding Hood the fear of the `wolf' in the bed sheets, and Beauty and the Beast the similar fear of the `beast' in men that virgin women face on their wedding night. These tales illustrating the effective resolution of possible threats are very important to natural development. Cocteau's attempt to socialize his female viewers and alleviate their fear of sex is clear through textual analysis. The mirror that Beauty peers into her first night at the castle shows a reflection of her father where her own self-reflection should have been, indicating that she is still very much defined by the dominant male role in her life. Almost immediately after, the bed sheets slide off the bed in a provocative manner, portending future threat, and she runs away repulsed. She confronts the Beast, and promptly faints. This scene establishes her fear and immaturity; however, Beauty and the Beast become progressively closer through the film, holding hands and talking. During her visit to her family, he caresses and wraps himself in her blanket, another reference to his association with her bed. When she decides she has remained at home too long, she lies on her bed and looks at the beast in the mirror's reflection. This is the point of transition, where she links this new dominant male figure to her bed. Instead of being repulsed by his reflection, she lovingly caresses the mirror and returns to him. In order to do this she slips on his glove, perhaps a reference to condoms. His glove is a perfect fit, displaying their perfect compatibility. The Cocteau version of Beauty and the Beast also addresses the dual nature of masculinity where good and evil coexisted, and the lines of differentiation are increasingly blurred. He emphasizes his statement that man and beast are indistinguishable by casting Jean Marais in both roles. Beauty comments upon this, when she tells the prince that he reminds her of a friend of her brother's. The fine distinction between the two characters is the prince's inner beauty as well as outer. When the brother's friend becomes greedy, he transforms into a beast so his inner ugliness and outer appearance coincide. Socialization of Beauty remains central despite two forms of masculinity because the two never meet, so Beauty's choice between the two is central. The film is about the distinctions between men, and the importance of picking the right one. Since both the friend and the prince have the same attractive male face, the lesson is to hold out for the true prince who is good and noble on the inside as well as attractive. As the Beast-turned-prince reclaims himself at the end of Cocteau's film, the message the audience should take away is that love can cure any ugliness and make any beast a man. The interchangeability is evident and the choice important. Beauty loves the Beast, overcoming her fear of the beastly in marriage and claiming she will get used to him, the reality of a man. Beauty makes a gradual transition from love of her father to a husband, as portrayed in her mirrors depicting her core identity."
+      ],
+      "genres": [
+         "Fantasy",
+         "Romance"
+      ],
+      "productionCompanies": ["DisCina"],
+      "summaries": [
+         "Adélaïde, Belle, Félicie and Ludovic are young adult siblings who once lived in grandeur until their father's merchant ships were lost at sea. The family is now near ruin, but Adélaïde and Félicie nonetheless still squander away the family money on themselves and keeping beautiful, whereas Belle slaves around the house, doting on her father. Ludovic detests his two spoiled sisters, but is protective of Belle, especially with his friend Avenant, a handsome scoundrel who wants to marry Belle. Crossing the forest one dark and stormy evening, the father gets lost and takes refuge in a fantastical castle. Upon leaving, he steals a blossom off a rose bush, which Belle requested. The castle's resident, an angry beast, sentences him to one of two options for the theft of the rose: his own death, or that of one of his daughters. As she feels she is the cause of her father's predicament (despite her sisters asking for far more lavish gifts), Belle sacrifices herself to the beast. Upon arriving at the castle, Belle finds that the beast, whose grotesqueness she cannot deny, does not want to kill her, but wants to marry her and lavish her with riches. He does not force her, but he will ask her every night to marry him, these times the only ones when he will appear to her. She vows never to say yes. As Belle resigns herself to her mortal fate and looks deeper into the beast - whose grotesque exterior masks a kind but tortured soul - will her thoughts change? Meanwhile, Belle's family, who learn of her situation, have their own thoughts of what to do, some working toward what they believe is Belle's best welfare, and others working toward their own benefit.",
+         "Belle is carrying out all the strenuous work at home, while her two haughty sisters are occupied with their appearances, and her lazy brother fools around with his pal Avenant. When Avenant asks Belle to marry him, she says that she doesn't want to leave her father. After a visit to a coastal town, the father rides back through a wood, but strays from the path and encounters a magic castle. When he plucks a rose for Belle, a ferocious animal in elegant clothes turns up. The Beast tells him that he has to die or send one of his daughters to die in his place within three days. The Beast's horse Magnificent carries him back home. After listening to her father's story, Belle sneaks out, and rides to the castle on Magnificent. The Beast is polite and gentle towards her, and step by step her fright for him is transformed into deep sympathy. When her father is sick, she is allowed to go home for one week. She returns a few days too late, and finds the Beast dying. When she in deep sorrow expresses her love for him, the spell is broken, and he rises as a charming prince. At the same moment Avenant is transformed into a beast, when he is trying to steal the treasures in the castle's Pavilion of Diana.",
+         "Returning home late one night after learning he is destitute, a merchant takes shelter in a castle. As he leaves the next morning, he fulfills his daughter Belle's wish that he bring her a rose by taking a single bloom from the castle garden. At that very moment the master appears, a creature that is half man and half beast. The Beast tells him he has a choice of dying or having one of his three daughters come to live in the castle. Of the three women, Belle has always been selfless and goes to the castle even though her father objects. Once there, the Beast assures her she will come to no harm and that they will meet once a day at 7 in the evening the dining room. Every day a dinner time, he asks her to marry him but she refuses. Love grows grow between them however leading to a magical resolution.",
+         "A half-ruined merchant lives in the country with his son Ludovic and his three daughters. Two of the daughters, Félicie and Adélaïde, are real shrews: selfish, pretentious, and evil. They exploit the third daughter, Belle, as a servant. One day, on a business trip, on the way home, the merchant gets lost in a forest and enters a strange castle. He picks up a rose for Belle, and the castle's owner appears. He is a monster, half-human, half-beast, and possesses magic powers. He sentences the merchant to death, unless he gives up one of his daughters. Belle sacrifices herself for her father and goes to the castle, discovering that the Beast is not so wild and inhuman as he seems.",
+         "A beautiful young woman takes her father's place as the prisoner of a mysterious beast, who wishes to marry her."
+      ],
+      "budget": 0
+   },
+   "movielensId": 7064,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "1946-10-29",
+      "dvdReleaseDate": "1998-06-03",
+      "directors": ["Jean Cocteau"],
+      "runtime": 96,
+      "movieId": 7064,
+      "title": "Beauty and the Beast",
+      "mpaa": null,
+      "actors": [
+         "Jean Marais",
+         "Josette Day",
+         "Marcel André",
+         "Mila Parély",
+         "Nane Germon",
+         "Michel Auclair",
+         "Raoul Marco",
+         "Jean Cocteau"
+      ],
+      "imdbMovieId": "0038348",
+      "originalTitle": "La belle et la bête",
+      "genres": [
+         "Drama",
+         "Fantasy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [
+         "2N6Nmf-tVDo",
+         "IsXkv1mpRUk"
+      ],
+      "plotSummary": "The story of a gentle-hearted beast in love with a simple and beautiful girl. She is drawn to the repellent but strangely fascinating Beast, who tests her fidelity by giving her a key, telling her that if she doesn't return it to him by a specific time, he will die of grief. She is unable to return the key on time, but it is revealed that the Beast is the genuinely handsome one. A simple tale of tragic love that turns into a surreal vision of death, desire, and beauty.",
+      "tmdbMovieId": 648,
+      "avgRating": 3.90633,
+      "releaseYear": "1946",
+      "numRatings": 1137,
+      "posterPath": "/bhGxt2YxlyO7x4GpliHEzI28H0z.jpg"
+   }
+}

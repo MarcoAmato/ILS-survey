@@ -1,0 +1,426 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "madagascar",
+            "id": 3645
+         },
+         {
+            "name": "princess",
+            "id": 7376
+         },
+         {
+            "name": "pirate",
+            "id": 12988
+         },
+         {
+            "name": "swashbuckler",
+            "id": 157186
+         },
+         {
+            "name": "pirate captain",
+            "id": 181099
+         }
+      ],
+      "imdb_id": "tt0044333",
+      "video": false,
+      "title": "Against All Flags",
+      "recommendations": [
+         65212,
+         111769,
+         43899,
+         300532,
+         225958,
+         42070,
+         46061,
+         76094,
+         40578,
+         124058,
+         181929,
+         22815,
+         34449,
+         30048,
+         38688,
+         24046,
+         80255,
+         35692,
+         60539,
+         19008
+      ],
+      "backdrop_path": "/jl1MZ7df0j3hNW9V2CAPfjlCIQE.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Brian Hawke",
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067a1",
+               "name": "Errol Flynn",
+               "profile_path": "/2fd8ZORZMGFJQqMcnoNgSnTOpPS.jpg",
+               "id": 8724,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Prudence \"Spitfire\" Stevens",
+               "gender": 1,
+               "credit_id": "52fe4693c3a36847f81067a5",
+               "name": "Maureen O'Hara",
+               "profile_path": "/pUcGzm9o8HnKQU1MGA6fVnOxt0W.jpg",
+               "id": 70035,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Captain Roc Brasiliano",
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067a9",
+               "name": "Anthony Quinn",
+               "profile_path": "/9sKpm4KCoUbmMbR86fpqcgBCHrJ.jpg",
+               "id": 5401,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Princess Patma",
+               "gender": 1,
+               "credit_id": "52fe4693c3a36847f81067ad",
+               "name": "Alice Kelley",
+               "profile_path": "/fkKCnt288QOWnLVx3qAwEpjtVDF.jpg",
+               "id": 239296,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Molvina MacGregor",
+               "gender": 1,
+               "credit_id": "52fe4693c3a36847f81067db",
+               "name": "Mildred Natwick",
+               "profile_path": "/h9PKk5neixap3FxWUt4a867iUeV.jpg",
+               "id": 12969,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Captain Kidd",
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067df",
+               "name": "Robert Warwick",
+               "profile_path": "/oECcbKS8LLYxiLpizvKvcSHefte.jpg",
+               "id": 33007,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Gow",
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067e3",
+               "name": "Harry Cording",
+               "profile_path": "/gvWWu40cDWcRbhIwDjx7tyfsgJK.jpg",
+               "id": 98052,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Jones",
+               "gender": 0,
+               "credit_id": "52fe4693c3a36847f81067eb",
+               "name": "Phil Tully",
+               "profile_path": null,
+               "id": 153238,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Sir Cloudsley",
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067ef",
+               "name": "Lester Matthews",
+               "profile_path": "/tCUjqHsBSFO4g7NnbdWlX1tTy7g.jpg",
+               "id": 82488,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Williams",
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067f3",
+               "name": "Tudor Owen",
+               "profile_path": "/wl75h6SDHDJ9kYjzDK3NCXKtduM.jpg",
+               "id": 106101,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Captain Moisson",
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067f7",
+               "name": "Maurice Marsac",
+               "profile_path": "/pFOrok0fWpi7M1HX8QO7NFURERt.jpg",
+               "id": 122008,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Captain Hornsby",
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067fb",
+               "name": "James Craven",
+               "profile_path": "/2AZ7zNYWFVT0ZFGKDhFzxnHkB1d.jpg",
+               "id": 33970,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Cruikshank (barber)",
+               "gender": 0,
+               "credit_id": "52fe4693c3a36847f81067ff",
+               "name": "James Fairfax",
+               "profile_path": null,
+               "id": 218364,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Jonathan Harris",
+               "gender": 2,
+               "credit_id": "58174d47c3a368767e019d48",
+               "name": "John Alderson",
+               "profile_path": "/i80jfydSIHwhe8gpxx3UPsLReV2.jpg",
+               "id": 1171862,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Pirate at Auction (uncredited)",
+               "gender": 2,
+               "credit_id": "59478c139251413fbb039ec2",
+               "name": "John George",
+               "profile_path": "/gEhNTzAQ2EoZzpAQWMYQuOVkSpF.jpg",
+               "id": 97999,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f810679d",
+               "name": "George Sherman",
+               "profile_path": "/h1dsdLyXEZVvF2Rnu4MgaMfZxyj.jpg",
+               "id": 94096,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4693c3a36847f81067b3",
+               "name": "Æneas MacKenzie",
+               "profile_path": null,
+               "id": 51307,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4693c3a36847f81067b9",
+               "name": "Æneas MacKenzie",
+               "profile_path": null,
+               "id": 51307,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067bf",
+               "name": "Joseph Hoffman",
+               "profile_path": null,
+               "id": 120465,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067c5",
+               "name": "Howard Christie",
+               "profile_path": null,
+               "id": 29634,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4693c3a36847f81067cb",
+               "name": "Hans J. Salter",
+               "profile_path": null,
+               "id": 30130,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4693c3a36847f81067d7",
+               "name": "Frank Gross",
+               "profile_path": null,
+               "id": 30105,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571d23ea9251416b63000232",
+               "name": "Russell Metty",
+               "profile_path": null,
+               "id": 13809,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 1.649809,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 44631,
+      "vote_count": 13,
+      "budget": 0,
+      "overview": "British Naval Officer (Errol Flynn) fights pirates on Madagascar.",
+      "similar": [
+         22,
+         1865,
+         809,
+         808,
+         2270,
+         166426,
+         10693,
+         58,
+         285,
+         10020,
+         10144,
+         11224,
+         10882,
+         224141,
+         2493,
+         810,
+         812,
+         9313,
+         9016,
+         665
+      ],
+      "original_title": "Against All Flags",
+      "runtime": 83,
+      "poster_path": "/jkSDaEyIM5pyptNvp45DZDQp4xn.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/nY62adzeba5GVK8LJYD6yd9R8H4.png",
+         "name": "Universal International Pictures",
+         "id": 10330,
+         "origin_country": ""
+      }],
+      "release_date": "1952-12-24",
+      "vote_average": 6.2,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["George Sherman"],
+      "runtime": 83,
+      "synopsis": "A good-natured Technicolor romp with beautiful people in gorgeous costumes. Brian Hawke (Errol Flynn) is a British navy officer who pretends to be a deserter in order to penetrate a well-defended pirate stronghold on Madagascar. Flynn is after a map of the harbor fortifications so that it can be successfully taken by the British navy. Once inside the port, Flynn meets the pirate captains, including Ã¢â�¬Ë�SpitfireÃ¢â�¬â�¢ (Prudence) Stevens (Maureen OÃ¢â�¬â�¢Hara) and Roc Brasiliano (Anthony Quinn). Quinn is after OÃ¢â�¬â�¢Hara, who has the map, but she swoons over Flynn. Flynn and Quinn capture and burn a ship carrying Princess Patma (Alice Kelley), daughter of the Great Mogul, and her governess, Molvina MacGregor (Mildred Natwick). Flynn saves the Princess from the burning ship and she falls for him, too.",
+      "writers": [
+         "Æneas MacKenzie",
+         "Joseph Hoffman"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0044333/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI5MDQxODc5M15BMl5BanBnXkFtZTcwMTg0MzQ0MQ@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: Errol Flynn, Maureen O'Hara, Anthony Quinn | See full cast and crew »"],
+      "reviews": [
+         "Excellent pirate entertainment! It has all the good ingredients to keep one's attention -- an absorbing tale of intrigue, a fiery lady pirate named Spitfire Stevens (Maureen O'Hara) who's attracted to the irresistible Mr. Hawke (Errol Flynn) who is out on a secret mission of his own. They make a fine romantic pair onscreen -- sigh! Anthony Quinn is the mean, bad pirate weaving his villainous web of divide and conquer. I noticed the very familiar face of Mildred Natwick playing a supporting role as Mrs. MacGregor, the protector of young Princess Patma (Alice Kelley). There is beautifully filmed scenery of shorelines, ships, and the bay. Lots of action too of sword fighting clashes, ship battles, daring leaps of Errol Flynn (Robin Hood on board ship!). From the flaming redhead herself I once heard in an interview of Maureen O'Hara that she boasted great command of the bullwhip and could also outdo Flynn in sword fighting in those days but there'd be no need to put it to the test here. Very enjoyable movie.",
+         "This is among one of Errol Flynn's better films during his career decline, particularly after a long stretch of duds (his last best film was 1945's \"Objective, Burma!\" and possibly 1948's \"Adventures of Don Juan\") and before his short-lived comeback in the notable \"The Sun Also Rises,\" \"The Roots of Heaven\" and \"Too Much, Too Soon.\" A high-seas tale that doesn't rank on the illustrious level of Flynn's other, earlier pirate flicks during his career height (\"Captain Blood\" and \"The Sea Hawk\"), but nevertheless what otherwise would have been a completely run-of-the-mill production is elevated by the main roles of leads Flynn and Maureen O'Hara and the oft-cast Flynn co-star Anthony Quinn as the villian (again). They all bring their characteristic star quality to their roles, but rather than \"cancelling\" or overpowering each other as such strong screen presences are sometimes in \"danger\" of doing, they play off each other well. Flynn plays Brian Hawke, a British naval officer on a top-secret mission to infiltrate pirate activity in Madagascar, under the guise of turning renegade. He manages to convince the buccaneers that he's not a spy and is allowed to join them, but their captain, Roc Brasiliano (Quinn), remains unconvinced and suspicious. Their uneasy alliance is made all the more tenuous by the gorgeous and dashingly glamorous lone female pirate \"Spitfire\" Stevens (an apt name if ever there was one), whom both men desire; and by the pretty Patma, an Indian princess (who doesn't look Indian in the least, BTW) whom Hawke has rescued and, along with being smitten by him and thus incurring the wrathful jealousy of Spitfire, ends up causing no end of nit-witted, unintentioned trouble and danger. While not displaying the breathtaking level of razzle-dazzle as in his younger days, Flynn still retains his trademark charisma and cheek, turning in a solid, albeit unremarkable, performance by imparting a mature worldliness appropriate to his character. And while he's gotten bloated and jowly in the face, he remains handsome enough and has still has a fine-looking physique for his age, and, especially, for someone of his high-living lifestyle. Still I have to admit I would have loved to have seen Flynn in this film several years earlier, at the peak of his godlike beauty, physical grace and magnetic powers. As for Maureen O'Hara--no other actress could have portrayed a female pirate quite as convicingly as she. With fire and desire, dynamic spunk and sass and rakish allure, she epitomizes this she-rogue who is a match (and even more) for any man, but has rather forgotten how to be a woman--yet despite, or rather, because of this, is remarkably fresh, frank and sexy, no cunning feminine wiles here. Also, the sight of O'Hara's impressive, strapping physique costumed in green pirate gear is a masterstroke--the color shows exceptionally well on her and is an amazing complement to her flaming red hair, green eyes and white skin. Poor Anthony Quinn is--in what must have been quite frustrating for him--again in the kind of unchallenging part he knows all too well, so therefore he doesn't go wrong and, more to his credit, doesn't allow any boredom he may have with his typecast role affect his menacing, spirited performance. He is overshadowed, though, by the meatier roles of his 2 co-stars. The big fly in the ointment is undoubtedly Alice Kelley as Princess Patma. Looking not unlike a slighter-built, dumbed-down version of Jennifer Tilly (who's not all that intelligent-looking to begin with), she's emotes with such tiresome vacuousness and stupidity that it's near cringe-inducing proportions. It's easy to understand, despite her character's fabulous wealth and pedigree, why she holds no fascination for Hawke and doesn't hold a candle to Spitfire. To be fair, her character is not the sharpest knife in the drawer (more like the dullest one there), but Kelly lacks the skill and allure to make the role endearing. And while the movie is filmed in lush Technicolor, a drawback is an obviously fake seaport set. But the plusses outweigh the minuses, making it above-average fare, and at a succinct 83 minutes, it moves at a brisk, entertaining pace.",
+         "If you like pirate films, you shouldn't miss this one. \"Against All Flags\" is not a great film of the genre, but it is entertaining and enjoyable. It has all the ingredients. Battles at sea, the hero, the villain, the hero's romantic interest, the final sword duel, good settings and color and special effects are very good too (don't forget we are in the early 50's). I think the cast helps a lot if not for outstanding performances (there are not very demanding roles) but for actors that were symbols in this kind of movie. Errol Flynn -probably the all time swashbuckler- was aging here but he still had his unique screen presence. Maureen O'Hara was often casted in adventure films and her undeniable beauty was always welcome. And Anthony Quinn -not a major star back then, but a classical villain- was on his way. Pure pirate adventure; no more, but no less.",
+         "Enjoyable Pirate movie dealing with Brian Hawke of the Royal Navy versus the pirates of Madagascar . In 1700 A.D. , the Pirate Republic of Libertaria on the Island of Madagascar was a constant menace to the rich trade routes to India . Several days sail from his pirate fortress in the British merchant ship Monsoon . There appears Brian Hawke (Errol Flynn) , an English navy officer slashing his way through the fleet and pretending to be a deserter to infiltrate into pirate island . Once inside the port, Flynn meets the pirate captains called Stevens (Maureen O'Hara) and Roc Brasiliano (Anthony Quinn). Brian/Flynn is after Stevens , who has a valuable map . Hawke is after a map of the harbor fortifications so that it can be successfully taken by the English navy . Brian Hawke and Brasiliano capture and burn a ship carrying Princess Patma (Alice Kelley), daughter of the Great Mogul, and her governess, Molvina MacGregor (Mildred Natwick). After numerous adventures Hawke is able to aid his lover and help save his British empire , finding romance along the way . As Hawke ravished the pirate port of Madagascar to steal the love of its Corsair Queen . Amusing pirate movie , plenty of action , thrills , colorful cinematography and luxurious costumes . Although the story has been told before , tight filmmaking and nice acting win out . The picture is fast-moving , exciting and thrilling right up to the almost balletic climatic confrontation between Errol Flynn and Anthony Quinn . Average-budgeted film by Universal Pictures , using appropriate ship shots and miniature sets when possible . Good acting by Errol Flynn as a deserter in order to penetrate a well-defended pirate stronghold on Madagascar . Though Errol Flynn did most of his own stunts, he balked at the one involving sliding down through a sail on a rapier blade, which was originated by Douglas Fairbanks in The Black Pirate , the stunt was performed by a double . Flynn suffered a broken ankle during filming, and while he was recovering, Universal took advantage of the unused sets by scripting and shooting a hastily assembled B picture, Yankee Buccaneer with Jeff Chandler. Flynn starred various swashbucklers and classic adventures such as ¨Captain Blood¨, ¨The Sea Hawk¨, ¨The Prince and the pauper¨, ¨Adventures of Don Juan¨ , ¨Adventures of Captain Fabian¨ and ¨The Master of Ballantrae¨. ¨Against all flags¨ results to be one of Flynn's swashbuckling best though hasn't achieved the same classic status . There appears the gorgeous Maureen O'Hara as a hot-tempered pirate moll who swoons over Flynn ; furthermore , Alice Kelley is a tarty eyeful as a likable princess in distress who Flynn saves from the burning ship and she falls for him , too . This is a good-natured Technicolor romp with splendid cinematography by Russell Metty and evocative musical score by Hans J. Salter . The motion picture was well directed by George Sherman , a craftsman and action specialist who had already filmed other adventures . Rating : 6'5 good pirate movie , wonderful stuff . It will appeal to Errol Flynn and Maureen O'Hara fans .",
+         "AGAINST ALL FLAGS, Universal's 'take' on the WB swashbucklers of the previous decade, utilized the services of the quintessential Warner buccaneer, himself, Errol Flynn, in the lead. While he was no longer the devil-may-care young matinee idol he'd once been, the actor, finishing up his WB contract, negotiated a 'percentage of the gross' deal to make the film, and with a potential big payday as incentive, Flynn would show more energy and enthusiasm than in THE MASTER OF BALLANTRAE (which would be released a year later, and would be his last WB swashbuckler). As Brian Hawke, a British naval officer 'undercover' to destroy the batteries of a pirate island stronghold, Flynn looks far older and more jaded than in his halcyon days (when his commander refers to him as 'young', you can almost see both actors wince), but his rakish smile is still present, and his dialog is ripe with the sexual innuendo audiences had come to expect from a Flynn film (to female pirate Maureen O'Hara, he says, with tongue in cheek, \"I'd looked forward to serving under you, ma'am\"...). Posing as disgraced and discharged, his obvious refinement draws the suspicion of ruthless pirate captain Anthony Quinn, but stirs the long-suppressed sexual yearnings in O'Hara, whose father had built the artillery emplacements. Discovering that the plans are located in O'Hara's bedchamber, Flynn goes to work on her, combining his mission with his infamous off-screen reputation for seduction, in a funny scene that both actors play to the hilt. Placed under Quinn's command, Flynn participates in the capture of a galleon, then discovers that the 'cargo' is a virginal Indian princess (Alice Kelley), who'd never been close to a man before, other than her father. Having Errol Flynn as a 'first' provides another point of humor, as, after he gives her a platonic kiss, she nearly swoons, and begins incessantly begging, \"AGAIN!\" (A chant O'Hara would take up, as the film's final line). There is the 'mandatory' discovery of Flynn's true identity, O'Hara's betrayal to rescue him, and O'Hara and Kelly both held as hostage aboard Quinn's ship, leading up, of course, to a 'by-the-numbers' final swordfight between Flynn and Quinn. Unfortunately, in filming the final duel, Flynn fell, breaking his leg, and the production was halted until the aging actor could heal (Universal, ever conscious of budget, filmed YANKEE BUCCANEER, with Jeff Chandler, on the Flynn sets, as he recuperated). The shooting was, overall, a pleasant experience for Flynn, at a time when the WB had relegated him to 'B' pictures, and he advertised AGAINST ALL FLAGS in theatrical trailers as one of his favorite films. While it wasn't the hit he had hoped for, it did do well enough that the WB would 'green light' THE MASTER OF BALLANTRAE, to be made in England. (Universal would remake AGAINST ALL FLAGS, 15 years later, as THE KING'S PIRATE, with Doug McClure in Flynn's role.) Financial difficulties would soon force Errol Flynn to leave the United States, and the pirate yarn would be his last film shot in America for five years. A new stage of his rollercoaster career was about to begin...",
+         "\"Against All Flags\" is every bit the classic swashbuckler. It has all the elements the adventure fan could hope for and more for in this one, the damsel in distress is, well, not really in distress. As Spitfire Stevens, Maureen O'Hara is at her athletic best, running her foes through in defiance of the social norms of the period. Anthony Quinn rounds out the top three billed actors as the ruthless Captain Roc Brasiliano and proves to be a wily and capable nemesis for Brian Hawke (Flynn). For the classic adventure fan, \"Against All Flags\" is a must-see. While it may not be in quite the same league as some of Errol Flynn's earlier work (Captain Blood and The Sea Hawk, for instance), it is still a greatly entertaining romp.",
+         "This is a very good pirate movie! It has all the typically good elements that a good pirate movie needs. An engaging tale of intrigue, a fiery lady pirate -- aptly named \"Spitfire\" Stevens, and ably played by the great Maureen O'Hara. Of course she is attracted to Errol Flynn's character, Mr. Hawke. But Hawke is on a top secret mission of his own. These two actors are great together! But my favourite is Anthony Quinn as the villain. He is fantastic in this movie. The performances are the main reason I like the film. The plot itself is nothing special, so I give it 7 out of 10. The visuals are often just okay but sometimes fantastic.",
+         "A featherweight plot and dubious characterizations don't make any difference when a movie is as fun to watch as this one is. Lively action and spectacular stunts - for their day - give this movie some real zip. And there's some actual comedy from the ripping chemistry between the two leads. Quinn makes a good villain also, although his role is completely overshadowed. But don't be fooled by Maureen O'Hara's tough broad role, this is as sexist as any Hollywood movie of this era. You might be able to forgive that because of the time in which it was made, but it's still hard to get past. For all the heroism and gruesomely adult off-screen situations, this is still little more than an adolescent good time.",
+         "Being the prototype of the classical Errol Flynn adventure movie and having a good story as well as two more brilliant co-stars in Maureen O'Hara (what an exquisite beauty!) and Anthony Quinn, I can only recommend this movie to all those having even the slightest liking for romance and adventure. Hollywood at its best!",
+         "By 1945, and after a string of solid WWII propaganda pieces, Errol Flynn\u2019s hold over U.S. box office had started to decline so, in spite of the increased burden of waning looks, he embarked on a series of films pertaining to that genre which had earlier made his name: the swashbuckler. The first of these was a good one actually \u2013 ADVENTURES OF DON JUAN (1948) \u2013 but it also proved to be his last big-budget Hollywood starring vehicle. The rest of his sword-wielding days were spent wandering all over Europe: in England for KIM (1950), THE MASTER OF BALLANTRAE (1953) and THE DARK AVENGER (1955), in France for ADVENTURES OF CAPTAIN FABIAN (1951) and Italy for the aborted THE STORY OF WILLIAM TELL (1953) and the little-seen CROSSED SWORDS (1954). However, Hollywood did beckon him one last time to his old seafaring ways \u2013 albeit for a modestly-budgeted Universal picture rather than a Warner Brothers \u2018A\u2019 production to which he had been accustomed when at his peak\u2026 Still, the glorious Technicolor cinematography leaps off the screen here and, while an older and flabbier Flynn may look like the pale shadow of his former self, his red-headed leading lady Maureen O\u2019Hara has a field day as a tomboyish buccaneer leader who deep down craves romance and wants to be treated like a lady. Anthony Quinn was still a few years away from his larger-than-life starring vehicles, so here he is typically seen as the baddie \u2013 the pirate captain Roc Brasiliano, a role he attacks with gusto. Like THE BLACK SHIELD OF FALWORTH (1954) \u2013 a viewing of which preceded this one \u2013 AGAINST ALL FLAGS takes me back to my cherished childhood days of constant TV viewing when vintage Hollywood movies were the order of the day on both the local and neighboring Italian channels. For all I know, this might well have been the very first pirate movie I\u2019ve ever seen and I cringe at the thought of today\u2019s generation of youngsters supposedly believing that the grossly overblown PIRATES OF THE CARIBBEAN trilogy is what buccaneering is all about! As I said earlier, AGAINST ALL FLAGS might not be the finest pirate yarn ever brought to the screen but it\u2019s a solid example of this prolific genre all the same. Nowadays, the amorous persistence of the child-like Indian princess (Alice Kelley) towards her pirate captor Flynn may strike one as being awfully silly but the rest of it \u2013 despite clearly not scaling the heights of THE SEA HAWK (1940) and THE BLACK SWAN (1942), to mention the finest seafaring ventures of its respective stars \u2013 is briskly paced and reasonably engaging. Incidentally, the film would later go on to be remade as THE KING\u2019S PIRATE (1967) with Doug McClure! For what it\u2019s worth, the unprecedented box office success of that unappetizing modern franchise is most probably what induced reluctant movie studios to dust off their catalogue swashbuckling titles and release them on DVD and, as a matter of fact, AGAINST ALL FLAGS itself was the one gem in a poorly-thought out \u201cPirates Of The Golden Age Movie Collection\u201d set from Universal which also consisted of obscure dross like BUCCANEER\u2019S GIRL (1950; with Yvonne De Carlo), DOULE CROSSBONES (1951; with Donald O\u2019Connor) and YANKEE BUCCANEER (1952; with Jeff Chandler)! Value for money, perhaps but, so far, I have only acquired the Errol Flynn flick from other sources; even so, if the mood strikes me in future, I might wish to lay my hands on similar marine adventures like Edward Dmytyk\u2019s MUTINY (1952), the afore-mentioned YANKEE BUCCANEER and PIRATES OF TORTUGA (1961)."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": ["Universal International Pictures (UI)"],
+      "summaries": [
+         "In 1700, the pirates of Madagascar menace the India trade; British officer Brian Hawke has himself cashiered, flogged, and set adrift to infiltrate the pirate \"republic.\" There, Hawke meets lovely Spitfire Stevens, a pirate captain in her own right, and the sparks begin to fly; but wooing a pirate poses unique problems. Especially after he rescues adoring young Princess Patma from a captured ship. Meanwhile, Hawke's secret mission proceeds to an action-packed climax.",
+         "In 1700 a British naval officer, Lt. Brian Hawke, goes undercover to infiltrate Madagascar-based pirates who have been attacking ships on the route to India. There is an instant attraction between Hawke and pirate Captain Prudence \"Spitfire\" Stevens, an independent woman who is any man's equal. Jealousies arise when Hawke, aboard Captain Roc Brasiliano's ship, rescues the pretty Princess Patma, daughter of the Moghul Emperor. Having obtained the information he set out for - the gun placements for the pirates' hideaway - he spikes the guns and signals the British fleet. The Princess is Brasiliano's prisoner however and there is one final confrontation before Hawke can save her and make his escape.",
+         "Brian Hawke of the Royal Navy versus the pirates of Madagascar."
+      ],
+      "budget": 0
+   },
+   "movielensId": 112019,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1952-12-24",
+      "dvdReleaseDate": null,
+      "directors": ["George Sherman"],
+      "runtime": 83,
+      "movieId": 112019,
+      "title": "Against All Flags",
+      "mpaa": "NR",
+      "actors": [
+         "Errol Flynn",
+         "Maureen O'Hara",
+         "Anthony Quinn",
+         "Alice Kelley",
+         "Mildred Natwick",
+         "Robert Warwick",
+         "Harry Cording",
+         "Phil Tully",
+         "Lester Matthews",
+         "Tudor Owen",
+         "Maurice Marsac",
+         "James Craven",
+         "James Fairfax",
+         "John Alderson",
+         "John George"
+      ],
+      "imdbMovieId": "0044333",
+      "originalTitle": "Against All Flags",
+      "genres": [
+         "Action",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": ["fo4lKM9SCAM"],
+      "plotSummary": "British Naval Officer (Errol Flynn) fights pirates on Madagascar.",
+      "tmdbMovieId": 44631,
+      "avgRating": 2.8,
+      "releaseYear": "1952",
+      "numRatings": 5,
+      "posterPath": "/jkSDaEyIM5pyptNvp45DZDQp4xn.jpg"
+   }
+}

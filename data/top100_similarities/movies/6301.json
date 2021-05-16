@@ -1,0 +1,556 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "england",
+            "id": 392
+         },
+         {
+            "name": "rape",
+            "id": 570
+         },
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "country life",
+            "id": 2755
+         },
+         {
+            "name": "primal fear",
+            "id": 5251
+         },
+         {
+            "name": "cornwall",
+            "id": 8079
+         },
+         {
+            "name": "revenge",
+            "id": 9748
+         },
+         {
+            "name": "thriller",
+            "id": 9950
+         },
+         {
+            "name": "rural setting",
+            "id": 11004
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         }
+      ],
+      "imdb_id": "tt0067800",
+      "video": false,
+      "title": "Straw Dogs",
+      "recommendations": [
+         931,
+         10692,
+         576,
+         12143,
+         11942,
+         11481,
+         11167,
+         10518,
+         9558,
+         5916,
+         3116,
+         10683,
+         26039,
+         31417,
+         93,
+         1480,
+         1051,
+         11033,
+         9540,
+         14580
+      ],
+      "backdrop_path": "/9w1IsovNao4HPs9p7kmzyZN4dx0.jpg",
+      "revenue": 3251794,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 15,
+               "character": "David Sumner",
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac27",
+               "name": "Dustin Hoffman",
+               "profile_path": "/3pZx8NB30KIw31rBAT62TUDQFEb.jpg",
+               "id": 4483,
+               "order": 0
+            },
+            {
+               "cast_id": 16,
+               "character": "Amy Sumner",
+               "gender": 1,
+               "credit_id": "52fe4297c3a36847f802ac2b",
+               "name": "Susan George",
+               "profile_path": "/urJdNwhcGZ9fT9a5DgI3gDGk80J.jpg",
+               "id": 14947,
+               "order": 1
+            },
+            {
+               "cast_id": 17,
+               "character": "Tom Hedden",
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac2f",
+               "name": "Peter Vaughan",
+               "profile_path": "/z9ZplbTA1ojYhgZ8kJUKKhsJ7Gs.jpg",
+               "id": 386,
+               "order": 2
+            },
+            {
+               "cast_id": 18,
+               "character": "Major John Scott",
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac33",
+               "name": "T. P. McKenna",
+               "profile_path": "/nes82gQJ0SzLspgHiB1S3oufmdC.jpg",
+               "id": 14948,
+               "order": 3
+            },
+            {
+               "cast_id": 19,
+               "character": "Charlie Venner",
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac37",
+               "name": "Del Henney",
+               "profile_path": null,
+               "id": 14949,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Chris Cawsey",
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac3b",
+               "name": "Jim Norton",
+               "profile_path": "/s6HeAK1mnqTiy3V12jRxnw1jxcw.jpg",
+               "id": 14950,
+               "order": 5
+            },
+            {
+               "cast_id": 21,
+               "character": "Riddaway",
+               "gender": 0,
+               "credit_id": "52fe4297c3a36847f802ac3f",
+               "name": "Donald Webster",
+               "profile_path": null,
+               "id": 14951,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Norman Scutt",
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac43",
+               "name": "Ken Hutchison",
+               "profile_path": "/9qVmE5BXPWNhFDc77VgZfJQ5tD9.jpg",
+               "id": 7194,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Bobby Hedden",
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac47",
+               "name": "Len Jones",
+               "profile_path": null,
+               "id": 14952,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Janice Hedden",
+               "gender": 1,
+               "credit_id": "52fe4297c3a36847f802ac4b",
+               "name": "Sally Thomsett",
+               "profile_path": "/cj0chVAZBZbXfnPWwxlc1t50Gop.jpg",
+               "id": 14953,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Harry Ware",
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac4f",
+               "name": "Robert Keegan",
+               "profile_path": null,
+               "id": 14954,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "John Niles",
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac53",
+               "name": "Peter Arne",
+               "profile_path": "/8TjMvQ45ElBduMbf0BfnbykNQsC.jpg",
+               "id": 14955,
+               "order": 11
+            },
+            {
+               "cast_id": 27,
+               "character": "Louise Hood",
+               "gender": 0,
+               "credit_id": "52fe4297c3a36847f802ac57",
+               "name": "Cherina Schaer",
+               "profile_path": null,
+               "id": 14956,
+               "order": 12
+            },
+            {
+               "cast_id": 28,
+               "character": "Reverend Barney Hood",
+               "gender": 0,
+               "credit_id": "52fe4297c3a36847f802ac5b",
+               "name": "Colin Welland",
+               "profile_path": "/rs9BRqQyzPAs8U5HMM6z0JLCU16.jpg",
+               "id": 14957,
+               "order": 13
+            },
+            {
+               "cast_id": 29,
+               "character": "Henry Niles",
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac5f",
+               "name": "David Warner",
+               "profile_path": "/wgp2AlWKveLBOcs8YNuLeZiLsGL.jpg",
+               "id": 2076,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4297c3a36847f802abdb",
+               "name": "Sam Peckinpah",
+               "profile_path": "/lZyAbQbUUumxC2L4YSG9T7q8Let.jpg",
+               "id": 7767,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4297c3a36847f802abe1",
+               "name": "Gordon Williams",
+               "profile_path": null,
+               "id": 14940,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4297c3a36847f802abe7",
+               "name": "David Zelag Goodman",
+               "profile_path": null,
+               "id": 14941,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4297c3a36847f802abed",
+               "name": "Sam Peckinpah",
+               "profile_path": "/lZyAbQbUUumxC2L4YSG9T7q8Let.jpg",
+               "id": 7767,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802abf3",
+               "name": "Daniel Melnick",
+               "profile_path": null,
+               "id": 14942,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802abf9",
+               "name": "Jerry Fielding",
+               "profile_path": null,
+               "id": 7769,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802abff",
+               "name": "John Coquillon",
+               "profile_path": null,
+               "id": 14944,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4297c3a36847f802ac05",
+               "name": "Miriam Brickman",
+               "profile_path": null,
+               "id": 14141,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4297c3a36847f802ac0b",
+               "name": "Paul Davies",
+               "profile_path": null,
+               "id": 14945,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac11",
+               "name": "Tony Lawson",
+               "profile_path": null,
+               "id": 12685,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac17",
+               "name": "Roger Spottiswoode",
+               "profile_path": "/hH8tIBh0RI7VwI4jQgphtB0qABR.jpg",
+               "id": 1724,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4297c3a36847f802ac1d",
+               "name": "Ray Simm",
+               "profile_path": null,
+               "id": 10591,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4297c3a36847f802ac23",
+               "name": "Ken Bridgeman",
+               "profile_path": null,
+               "id": 14946,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa40e72925141277e00ea1b",
+               "name": "Harry Frampton",
+               "profile_path": null,
+               "id": 33102,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa40e800e0a260754010266",
+               "name": "John Bramall",
+               "profile_path": null,
+               "id": 1391110,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa40e8a0e0a26075a01091a",
+               "name": "Garth Craven",
+               "profile_path": null,
+               "id": 20924,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa40e96c3a3687c0300e16b",
+               "name": "Norman Savage",
+               "profile_path": null,
+               "id": 14004,
+               "department": "Sound",
+               "job": "Sound Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 10.833405,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 994,
+      "vote_count": 289,
+      "budget": 2200000,
+      "overview": "David Sumner, a mild-mannered academic from the United States, marries Amy, an Englishwoman. In order to escape a hectic stateside lifestyle, David and his wife relocate to the small town in rural Cornwall where Amy was raised. There, David is ostracized by the brutish men of the village, including Amy's old flame, Charlie. Eventually the taunts escalate, and two of the locals rape Amy. This sexual assault awakes a shockingly violent side of David.",
+      "similar": [
+         281957,
+         3134,
+         25476,
+         8999,
+         37645,
+         979,
+         101,
+         769,
+         4771,
+         281,
+         180863,
+         452507,
+         395834,
+         3600,
+         8067,
+         74997,
+         445954,
+         59421,
+         400,
+         133805
+      ],
+      "original_title": "Straw Dogs",
+      "runtime": 116,
+      "poster_path": "/kn85ADdkCrL3I2uWfKKhxpjolU5.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "ABC Pictures",
+         "id": 634,
+         "origin_country": ""
+      }],
+      "release_date": "1971-12-29",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "Sometimes a man is forced to defend his honor.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Sam Peckinpah"],
+      "runtime": 113,
+      "synopsis": "Straw Dogs Sam Peckinpah's 1971 controversial shocker Straw Dogs opens with an out-of-focus image of what appears to be a swarm of bugs crawling about. But as the image sharpens, schoolchildren are at play in, of all places, a cemetary. The setting is the isolated village of Wakely on the coast of England. American mathematician David Sumner (Dustin Hoffman) is walking along a road while his newly acquired wife and one-time resident, Amy Sumner (Susan George), is parading braless and carrying a rather nasty-looking device called a 'mantrap'. David is introduced by Amy to Charlie Venner (Del Henney), an intense young man who is also an ex-lover of David's wife. David also meets two of Charlie's cousins named Janice Hedden (Sally Thomsett), and Bobby (Len Jones), her young brother. As Janice and Bobby are putting the mantrap in the back of the car, David explains that he came to Wakely, on sabbatical, to write a treatise on celestial navigation. To ensure the peace and quiet needed to complete his book, David agrees to hire Charlie and a mate to help several workmen make repairs on his new home. David enters the local pub, where he meets gruff bartender Harry Ware (Robert Keegan) and apologetically asks for any brand of American cigarretes they might have. As David makes way in the pub, Charlie discusses with Amy the possibility that she led him on in the old days with her taunting advances and was \"begging for it\". Amy, humiliated, retorts by spurning him. This is witnessed by David in the pub. In the pub, David sees Janice's father and town patriarch Tom Hedden (Peter Vaughan), falling into an argument with Harry over a pint. Charlie tries to calm down his uncle. A fight ensues. A repentant Tom makes amends by paying for the American's cigarettes. But David turns down Tom's offer and exits the pub. David and Amy are driving to their new cottage. They meet Norman Scutt (Ken Hutchison), who's busy fixing up their garage. While there, they also meet Chris Cawsey (Jim Norton), a giggling bloke who specializes in ridding the garage of rats. Chris and Norman are aware of the social turmoil and escalating violence of Vietnam-era American society, and that David somehow retreated to Wakely to escape his country's violence. They begin to challenge David, proving him to be spineless. At home, David becomes intensely preoccupied with his research. He is verbally abusive to Amy and her cat, who's often missing. This angers his wife. At one point, she defaces his blackboard and changes his mathematical equations. David responds by saying, \"what is this grammar school? Jesus Christ\". Meanwhile, David is helping his wife prepare for dinner when he sees Norman and Chris receiving a lift from friend and lorry driver Phil Riddaway (Donald Webster), a hulking presence who serves to round out the potentially menacing gang making life unpleasant for David. Norman, Chris, and Phil meet at the pub with Tom and company, where Tom begins to suspect pedophile and one-time pedarast Henry Niles (David Warner) of molesting young girls, including his own Janice. Tom insists that Henry's brother, John (Peter Arne), \"keep a close watch on him\". David and Amy are getting ready for bed. The voyeuristic Janice spies on them. After a long night of lecturing and cheating antics, they retire for the night. On the next day, Amy becomes increasingly incensed by David's neglectful ways. She soon finds herself being ogled at by the men working on her house (Charlie, Norman, and Chris). She complains of this to David, who suggests she \"wear a bra\". David continues to denote he left his country on a \"grant to study\". \"You left because you didn't want to take a stand. Commit!\", says Amy. David finalizes the argument by saying \"we came here because you once told me that we could be happier\". Frustrated, Amy parades topless in front of the workers outside. The following day begins when Amy exclaims that her cat is missing. A frustrated David leaves the house, only to find himself terrorized by the workmen in Phil's lorry. On their way to the pub, they siphon their raging jealousy and contempt for the American academic by attempting to run his vehicle off the road. Outside the pub, David notices Janice getting too close to Henry. He becomes flabbergasted by John's violent treatment towards his brother, as well as Bobby's cavemanlike attitude towards his sister. David enters the pub surrounded by his tormentors, who persist in jeering at him. There he meets local one-armed magistrate John Scott (T.P. McKenna), who informs of David's invitation to a church social the coming Thursday and accompanies him to the house where he meets Reverend Barny Hood (Colin Welland) and his wife. Back in the house, David is introduced to Barny and his wife. The fatuous vicar is in awe of David's research and his study of \"possible structures, interiors...radiation\". David calls himself an \"astro-mathematician\". He goes on to assess the importance of his scientific findings and the impact of religion on the mounting violence and bloodshed inherent in all present societies. It is learned that David came to Wakely mainly to escape the violence which has become a part of everyday life. Later that night, Amy's cat is found hanging in the closet. \"To prove to you that they can get into your bedroom\", in her estimation. Amy suspects Norman or Chris of killing her cat, while David states \"it could've been anybody passing\". David is reluctant to confront the workers over Amy's cat. Instead, by having Charlie, Norman, and Chris set up the mantrap over by the fireplace, he agrees to go out hunting with them. David accompanies Charlie, Norman, Chris, and Phil to the moors on a British version of \"snipe hunt\" where they keep him busy holding a sack open for the birds he believes will run into it. They spread about. While David is gone, Amy is visited by Charlie, who has been seething with lust over her. Amy feels Charlie has some knowledge regarding her slain cat, but he promptly tries to seduce her. When she refuses, he forces himself on her. In the process, Norman eventually shows up at the house and threatens Charlie at gunpoint. Norman gleefully rapes Amy as well, while Charlie begrudgingly assists his friend in holding her down. Amy doesn't tell David what happened. David tries to solve the problems in their marriage by \"going back to the basics\". He fires the four workers the next day. They \"stuck it\" to him on the moors, he explains. In a moment of disconsolation, he sits in the field staring at an indeterminate distance. Some time later, the couple attend the local church function where the vicar Barny displays his penchant for magic tricks while the audience enjoys the show. Amy, haunted by memories of the rape, has a breakdown. As the show progresses, Janice approaches Henry. They leave the church and walk along the yard, as seen by Bobby. Bobby tells his father, Tom. The enraged Tom orders Bobby and John to find them. During this time, David and Amy have left the church as well. Tom, Charlie, Norman, Chris, and Phil visit the pub to learn of Henry's whereabouts. David, driving home in the dense fog, rescues Henry. Unbeknownst to David, Henry has just strangled Janice who was taunting him. Amy, aware of Henry's pedophilic tendencies, doesn't want Henry in the house. David tries to call the magistrate at the pub and informs Harry the bartender of Henry. Tom and his four young allies learn of Henry's whereabouts and go to the house to do violence to Henry. Since they \"know the American\", Charlie, Norman, and Chris ask for Tom and Phil to wait outside the house so they can find out where Janice is. David suddenly finds himself accosted by his three previous tormentors, two of whom raped Amy. David prevents them from hurting Henry, but Charlie says \"We've come to get this bloody freak...With your cooperation or without it\". As Henry proves unresponsive to their questioning, Charlie, Norman, and Chris agree to look for Janice until the doctor and police arrive. Enraged by the lack of knowledge of his missing daughter, Tom attempts to open the \"solid\" door while his cronies start blasting David's windows. One of them, Charlie, yells \"Look, you stupid yank. Let's have Niles before someone gets hurt.\" David hides Henry in the lavvy. As the men lay siege to the house, what David says to Amy is key to understanding the situation. \"This is where I live. This is me. I will not allow violence against this house.\" Moments later, the magistrate arrives to calm Tom and the others down but gets killed in the process. As accessories to a drunk who shot the sheriff, the men all decide to enter the house to get at Henry. Amy protests that David send Henry out, but he tries to keep them out of the house. He turns off the lights. David uses every means and skill he knows to fight them off. He boils whiskey and even opens the mantrap. Amy tries to leave, but David stops her. Realizing that \"they've gone too far to back down\", David suggests Amy be cooperative if they are to survive the night. Using such household items as a poker and wire, he succeeds at keeping the men out of the house at every turn. As the relentless mob invade the house, David plays bagpipe music and decides to strike back. He squibs Tom's feet with gunfire. Tom later dies from his wounds. Phil climbs up the window, threatening to kill David. David dispatches him with a poker. Shortly thereafter, he turns on his living room light to find the knife-wielding Chris is inside the house. He beats the man to death with a poker. As Charlie prepares to shoot David, he is alarmed by Amy's screaming in her bedroom upstairs. Norman is trying to rape her. Charlie shoots him, and then finds himself fighting with David. David kills Charlie when he hits him over the head with the mantrap. David is slightly taken aback by the carnage. \"Jesus. I got 'em all\", David exclaims. A seriously wounded Phil appears out of nowhere and wrestles David to the stairs. Completely exhausted, David orders Amy to get the gun. She gets the shotgun and shoots the thug dead. There's no simple way back from the violence into which David has wandered. After the bloodbath, Amy stays in the house while David leaves with Henry. Henry complains \"I don't know my way home\", David replies, \"That's okay. I don't either.\"",
+      "writers": [
+         "David Zelag Goodman",
+         "Sam Peckinpah"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0067800/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI4NDY3MTYwMV5BMl5BanBnXkFtZTYwNDkyNDg5._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Dustin Hoffman, Susan George, Peter Vaughan | See full cast and crew »"],
+      "reviews": [
+         "I think pretty much all of the people posting comments on this film have totally missed the point of the film. One reviewer sees the movie as sexist against women, others hate that plot points aren't wrapped up or it doesn't make sense that Amy enjoys the rape. A lot of people just don't seem to get this film. This film is not about entertainment. It's not interested in impressing you with artistic flare, and it doesn't care about wrapping sh-t up in a neat little package so you walk away with all the answers. People who complain about that kind of stuff might as well go and watch a Julia Roberts movie. This is Sam Peckinpah working out his demons, this is him breaking into your safe haven, slashing your face open. I personally have never been more disturbed or hurt by a film in my life, and because of this, I don't walk away in denial of its greatness. I'm able to say, \"wow! That movie totally tapped in to these dormant emotions and feelings I've always had but either didn't realize or wasn't willing to admit to myself. Examples of Peckinpahs crushing insights are the entire female/male dynamic, the hurt we cause each other intentionally and unintentionally, the sickness of it all. This film hurt me so bad that I couldn't talk to my wife for about a week after. (Incidentally, the same thing happened in reverse when she watched Fight Club, which is really the perfect companion to this film.) This movie forces you to think, to face the ugliness of the world. It presents you with sh-t you don't want to face, feelings that you have buried in your subconscious so you will not have to deal with them. That is why I think so many people don't like this movie, because it has scarred them so badly that they can't even admit it hit a nerve, and thus dismiss it as \"stupid, or retarded\" I don't think I'll ever be able to watch this movie again, it was just too raw, too powerful, too hurtful. But I learned a lot about myself in the process, and was totally absorbed and thoughtful for a long time afterwards. \" I don't know how much movies should entertain. To me I'm always interested in movies that scar. The thing I love about JAWS is the fact that I've never gone swimming in the ocean again.\" -David Fincher",
+         "This is probably one of the most offensive masterpieces ever made. There's no reason to argue with many of the objections against it, but the main criticism- that Hoffman is battling his Amy's rapists for sexual mastery of her- is unfair. Many of the film's critics don't seem to realize that what the audience learns about events is completely different from what Hoffman knows. He never learns that the villagers raped his wife; and he's never completely sure that Nyles, the villager he's defending, *didn't* rape a girl. He never realizes that the villagers are hypocrites for raping his wife and then hunting down Nyles as a \"perverted animal.\" And he never realizes that his wife wants to throw Nyles out not because she's an immoral coward, but because, after being raped once, she doesn't want to defend an accused rapist. Amy is not the object of his fight, which is why he asks her if she wants to leave in the middle of it. She's as irrelevant to him as the villager he's defending. Hoffman's only concern is his house, which Peckinpah views as the symbol of his manhood. They're both under construction and assault by the villagers. When Hoffman has finally defended his house, he decides that he doesn't really know his way home; his manhood is worthless to him. It's difficult to understand why the film's critics view its climax as an expression of Peckinpah's supposed belief that women must be seized through violence. Hoffman never even knows that Amy's part of the contest, and even though we do, we're left with the impression he's lost her, not earned her, because of his battle.",
+         "So you think movies are violent today, huh? Think again. Sam Peckinpah's highly charged, extremely intense, brutally violent 1971 pic is an underrated masterpiece, in my opinion, that redefined cinema violence forever (as if \"The Wild Bunch\" wasn't enough). It is one of the best directed, most fluidly edited pictures that I've seen in recent years. Today's films don't even come close. Allegedly banned in the U.K. to this very day, \"Straw Dogs\" came to me out of nowhere. I had heard good things about it, but never really caught onto it, until one day when I was at a video store browsing around for no apparent reason. I had absolutely no money and wasn't planning to buy anything when all of the sudden, I saw it . . . WIDESCREEN - UNCENSORED,RESTORED - COLLECTOR'S EDITION I had never even seen the movie and I wanted to buy it! I mean, hey, it WAS the last one left. So I took a huge risk, got a loan from my mother, used all the two-dollar bills I had been saving to pay her back, and bought it right out. And then, I viewed it later on that night, praying I hadn't wasted my time. AND: I was floored. The film literally knocked me out, kept me peeled to the screen at every instant, left me disturbed for days to come. I mean, let me tell you, go out and rent this, buy this, anything, just see it! Although it is moderately paced, the film remains intense the whole way, and takes an unexpected turn into extreme violence towards the legendary ending, a showdown worthy of multiple viewings (watch \"Fear\" to see an amateur retread). So it goes like this: Hoffman plays a wimpy mathematician who flees with his wife George to the peaceful countryside (to get away from violence!), only to be ravaged by the locals who just wanna start trouble. It is the ultimate test of manhood, showing us (in a somewhat biased manner) that it takes aggression to get what you want and keep what you have. You'll be amazed at Hoffman's \"transformation\" (we all know deep down that EVERYONE'S got it in them somewhere), but it makes you think, especially when Hoffman has to defend his home from several large armed men WITHOUT USING ANY WEAPONS, only his brains and some household appliances. I'm surprised that this is such a forgotten film. There aren't enough people who can actually claim to have seen this picture or even know what it's about. I find that hard to ingest, being that it was one of the most controversial films of its day. But it IS very brutal, especially the once trimmed rape scene, restored on my copy, a scene that I find to be the most intense. However, today's moviegoers may not agree. So see \"Straw Dogs,\" the movie that single-handedly turned me into a Peckinpah fan. The editing is Oscar-worthy, the acting is magnificent, the situations are well thought out, and the characters are fleshed to the bone (sometimes literally). I promise you won't leave disappointed. #5 on my Top 200 List, **** outta **** on my personal scale.",
+         "Sam Pecknpah followed his extremely violent and critically acclaimed 'The Wild Bunch' with the even more violent 'Straw Dogs', which didn't sit as well with the critics; in fact, 'Straw Dogs' was shocking enough to be banned in the UK where it was filmed, although in the US it was released with an X rating. Critics attacked it as being overtly violent and sexual, and entirely missed the message Peckinpah was making. Three and a half decades later, though, it's easier to appreciate 'Straw Dogs' for the groundbreaking creation that it was, and its influence can clearly be seen in the works of such contemporary directors as David Fincher, David Lynch and Todd Solondz, among others. With hindsight, it's hard to miss the fact that the sexual and violent content of 'Straw Dogs' isn't a whole lot more shocking than that of Kubrick's 'A Clockwork Orange', released that very same month. 'A Clockwork Orange' also created its own share of controversy, of course; yet somehow it was more rapidly recognized as the masterpiece it is by critics than 'Straw Dogs'. In part, I think that's due to the fact that while 'A Clockwork Orange' is an ultra-violent surreal fantasy from its very beginning, 'Straw Dogs' seems entirely innocent at first, like a very realistic and light-hearted drama, and the violence builds gradually throughout the film. That sense of realism, which 'A Clockwork Orange' never pretends to, makes 'Straw Dogs' much more difficult to take as an analogy; it cries out to be taken at face value, which makes it much more difficult to swallow. Dustin Hoffman was never an actor to fear controversy, and 'Straw Dogs' catches him right at the peak of his best years as an actor, after 'The Graduate', 'Midnight Cowboy' and 'Little Big Man', and before 'Lenny', 'Papillon' and 'All The President's Men'. His performance is as amazing as in any of these, and again Hoffman proves his rare range, as well as his sensitivity; his performance carries the film to true excellence, and perhaps that's the other reason that the film was a bit more difficult to take than 'A Clockwork Orange' \u0096 to take nothing away from the wonderful Malcolm McDowell, what 'A Clockwork Orange' simply didn't have was a protagonist for the viewer to identify with, and therefore, like I stated before, it was easier to take as an analogy, and Alex functioned more as a symbolic and iconic character than as a real human being. David Sumner, on the other hand, is a remarkably realistic and convincing character, and one that is very easy to relate to, which makes the change that comes over him towards the end of the film all the more shocking. Again, it is that building up of tension that makes 'Straw Dogs' such a powerful experience. 'Straw Dogs' is a film that creates controversy and disagreements, and so it should. It's easy to create controversy with sex and violence; but many years later that initial shock fades, and the real test is whether or not the film stands the trial of time and still manages to shock and engross. Like 'A Clockwork Orange', 'Straw Dogs' stands that test. Love it or hate it, it's hard to deny that it's an important and influential film, and it's essential viewing for any film lover.",
+         "Straw Dogs(1971) reveals a primal human action that is the driving force behind its characters. As with Deliverance(1972), Straw Dogs also is fascinated with the violent urge within the human soul. The primal aspect of the human being is provocatively examined in Straw Dogs(1971). Sam Peckinpah forcefully depicts issues that were hinted at in The Wild Bunch(1969). Paints a dark picture of humanity with the person's frightening ability to harm at any time. The title of the film ties in perfectly with the nature of the story. An interesting example of a vigilante film before the subgenre became fashionable. Films before had dealt with the theme of revenge but rarely as brutal or primal as in Straw Dogs(1971). Predates Death Wish(1974) by three years. The uncredited inspiration for Death Wish(1974) and others of its kind. Both films include Meek liberal men who explode with violent anger in different ways. Shows revenge and the consequences behind the act of revenge in a realistic dimension. Straw Dogs(1971) marked the first film Sam Peckinpah did which wasn't a Western. The film's direction creates a powerful piece of cinema with a strong European sensibility. Its a shame Sam Peckinpah never did more European Thrillers after SD. One film which mixes the American style of Peckinpah's Westerns with the European touch of Straw Dogs(1971) is Bring Me the Head of Alfredo Garcia(1974). At times the movie looks as if it could have been done by Hammer Studios. An indication that the late filmmaker could succeed outside of the Western genre. Good at showing that any person(even peaceful natured)can be capable of violent action at any given moment. The interactions between David Sumner and the Village Reverand is filled with subtle hostility. Represents the conflict between religion and science which is wittily enforced in the dialogue between the two. The locations of Cornwall becomes an important part of the film's emotion. Intense atmosphere is what gives the film a tinge of horror. Straw Dogs(1971) is in a couple of ways a British take on the Deliverance story. There seems to be something autobiographical within the frames of the story. Deals with the idea of Man's violent rites of passage that Sam Peckinpah was only too familiar with. David Sumner symbolizes the private inner self of Sam Peckinpah's persona. The intense relationship between David and Amy Sumner was based on the director's experiences with marriage and relations with women. His direction of the actors is masterful. Has to be one of the director's most personal(perhaps his most personal)film of his directorial resume. A notorious sequence from Straw Dogs(1971) is the infamous rape of Amy Sumner which plays a tricky balance between the abhorrent and the erotic without spilling over to either side. I can imagine the many people that were taken aback by this scene especially during the first rape when it turns into a love scene. Without the dark humor that was present in Stanley Kubrick's A Clockwork Orange(1971). Excellently edited scene with some powerful intercutting. Not an overly graphic scene but more psychological with the camera's focus on Susan George's face. Its the psychological abasement and reaction of Amy that is the true disturber of the senses. There is an interesting sub plot between Henry Niles and Janice Hedden that is inspired by OF MICE AND MEN. The director was heavily influenced by the works of John Steinbeck, none so evident as in the characterizations of Henry Niles. Henry Niles is absolutely patterened after the strong but slow witted Lenny from OF MICE & MEN. David Warner pulls off an fantastic performance in a complex role. The scene in the church stable is reminiscent of Lenny and his bosses wife meeting in a barn during OF MICE & MEN. Henry Niles is alot like the misunderstood alleged witch of Don't Torture a Duckling(1972). From the very beginning a confrontation between the house workers and David Sumner becomes inevitable. There is some major tension that grows to a boiling point until the hot pot explodes during the climax. The actors do a convincing job in displaying tension with their emotions. When the confrontation finally does happen everything becomes chaotic and violent. This part of the film may have influneced Wes Craven to a certain extent when he did Last House on the Left(1971). By the climax of Straw Dogs, David Sumner despises the house workers so much that he uses Henry Niles as an excuse to strike back at them. Where the bloodbath at the film's finale reaches a fever pitch is when reason turns to bloodlust. When the confrontation began there were reasons for each group but as it progressed the two parties become more interested in killing each other. I find it funny that the two groups become less concern in finding Janice Hedden and more concern in fighting to the death. It just shows that protecting one's land or property is the most important thing to a man. David Sumner and the house workers battle each other in a manner similar to the landowners of the Middle Ages. Sombre use of slow motion effects and editing techniques turns the climax into a nerve twister. Dustin Hoffman is very good in the role of the timid turned violent David Sumner. Susan George in her role projects both vurnability and eroticism. The film's climax would be rehased for the house attack in The Osterman Weekend(1983). When Sam Peckinpah also worked as a writer in his films the results were usually brilliant. This is the case with Straw Dogs(1971). Straw Dogs(1971) is an impressive film of an era when filmmakers were not afraid to take chances with risky subject matters.",
+         "\"Straw Dogs\" Isn't a film that I had ever heard of and then if I had I can't say that I would have instantly wanted to watch it, but as it was part of my Media Studies A-Level I sat back and watched in a hope to learn anything that I could. Before watching the film I was inform of history of the film and the banning and I prepared myself for a shocking rape scene and a horrific climax of an ending, yet I was wrong. Instead I found a sensitivly handled subject that any director or actor should be proud to be apart of. The fact that the censors wished to edit this scene in a way to take out a majority of the second rape only made me question the ideas of the censors and not director Sam Peckinpah or actress Susan George for wishing to make such a scene. The direction and acting came together to make a scene that should be celebrated not damn simply because it is a topic that is difficult to digest. The ending of the film that last almost a third of the movie is just as brilliant as any day hi-tech scene that you will see in any action film today. Overall this film is a stunning comment on the behaviour of men and women and their interactions and representation within a film. With amazing dialogue, acting out of this world and direction with such a clear knowledge of the industry I feel honoured that I have seen this film and strongly recommend that if anyone ever gets the chance to see it they should. Ignore whatever you hear and see it for yourself, it's mind blowing!!! 8 out of 10",
+         "In the same year as Clockwork Orange, at the height of the Vietnam War, Peckinpah tried to bring his message into the present. Behind the thin veneer of civilization lies a monster worse than the barbarians of the hill country. By refusing to meet each challenge and take the consequences, the protagonist, like Western Civilization, allows the conflict to escalate to the point where extreme horror appears justified. The inevitable march to the macabre resolution, leaves lots of room for speculation about who the villains are and how much of the world around us is our own doing. This movie, like its Kubrick contemporary, was major ratings controversy because the sex and violence was \"disturbing\" - unlike the real thing which seems like so much fun on TV.",
+         "It is certainly possible to look at STRAW DOGS as nothing more than a simple story of a man defending his house, his animalistic insides unleashed by a group of Cornish hoodlums. On that level alone it is a terrific piece of film-making backed up with highly textured acting from the two principals. But there are layers and layers and layers in this film, and that is what makes it art, and a masterpiece. Peckinpah himself told people that Dustin Hoffman was the heavy, and the movie was a portrait of a bad marriage. Try watching with those two facts in mind, and the film takes on a whole new complexion. The Criterion Collection two-disc set of STRAW DOGS is excellent, from the Peckinpah documentary to interviews with Susan George and the producer, to the audio commentary track. I agree with other reviewers who stressed that Peckinpah wasn't interested in \"solving\" problems; he wanted us to look at ourselves, and cringe.",
+         "Straw Dogs is an intense thriller that shows what can happen when you push even the most mild mannered man too far. Dustin Hoffman plays a mathematician who temporarily moves to a house in a rural village in England with his wife, a former resident of the town, played by Susan George. The two withstand incessant needling from several of the townsfolk until George is raped and assaulted and Hoffman is pushed over the edge. Incidentally, right after watching this film I found a documentary on cable about filmmakers from the late '60s to late '70s and one of the directors profiled was Sam Peckinpah. I had always considered his films to be violent and vaguely shocking, which never surprised me, knowing that he was a hard-living maverick who did things his way - an element that is resplendent in most of his films. A brief mention of Straw Dogs was included in this documentary, where they described it as a \"sexist film\". There are obvious scenes in the film that could support this criticism, but I think that is overanalyzing the film with a political correctness that is out of place. While the two female characters are both victimized, Susan George also has her moments of empowerment. I may be a female, but I don't consider Peckinpah's tendency to make testosterone-driven films any more sexist than anything that Tarantino puts out, and I'm a big fan of his work as well. It's a dangerous line to draw when one labels a film due to what is *not* included in a film. What this film does contain is much more stellar - Hoffman is beyond incredible in this film. His character development is amazing to experience. One criticism of the film that I heard from a friend who saw it before me was that it \"dragged.\" I couldn't disagree more. The development of the story until the extremely violent climax is a perfect pace because it made me feel like I was sitting in a dentist chair, knowing that this low boil could explode at any time. After the dust settles, the viewer is left to decide whether Hoffman's character made the right decision, and left to speculate on the ramifications of the choices made. This is by far one of the best films I've seen in recent months and plan to seek out the newly released Criterion edition in my quest to find out as much about this film as I can. --Shelly",
+         "This is one down and dirty film, now judging by some of the responses on these boards there might be some aspects that are dated but for me this film was a revelation. Yeah the build up is slow ( if you suffer from severe ADD, which seems to be the case with most people) its necessary, we are dealing with the animalistic nature of man and how despite the amount of time we have had to evolve all it takes to get the dog in us aroused is a hot chick with no bra. There have been many intelligent men in our time that have succumbed to the alluring beauty of women. Dustin Hoffman's character is a mathematician who seems to revel in his intelligence, he married a young hot piece of ass who right from the beginning is aware of her sexuality, they retreat to a small town which is necessary in adding to the provocation of these guys, good looking sheep probably get these guys going. Hoffman is too wrapped up in his own head to realize that his young wife's needs are being compromised. Susan George really does a great job portraying the type of young naive women that most man would give too much credit to. There is nothing more dangerous that a young hot girl and a guy has got to be aware of it always or she will ruin you either intentionally or not. Anyway that first shot of her walking down the street really showed the power of this girl, shes innocently aware of herself and doesn't really grasp the danger reflected in the way the local boys look at her, and the way they thrust their machismo at Dustin's character, there is such a basic element being thrown around these scenes, and damn Dustin for his cowardice nature. Anyway the further we move along the more of a build up we get, its necessary because it makes the rape and the seige that much more believable. Now the rape scene is completely disturbing because of Susan George's reaction to it, and for 1971 I can see how it was viewed as mysoginistic and depraved. IF we look at it its speaks volumes towards who we are as man and women. You know what? she did like it, she also hated the fact that she liked it, she hated herself for liking it, she was confused and conflicted by her feelings, her feelings for the first act with a guy that was acting the way she wished her husband did, it helps also that she did date this guy before. to say that she thought of her husband and was in some kind of dream like state is more of a diservice to the nature of women that what really went on. What she didn't like was the sodomy by some other guy, while the first dude held her down, it went too far. It became scary to her, she had no control whats so ever and it scared her. This scene made me uncomfortable because it turned me on and repelled me the same way it did to her character. To unleash my base male nature, she was hot, the actresses in the 70's especially the british and italians were drop dead sexy and georgeous, they don't make them like that any more. Finally this whole business about the pederast who kills that girl and becomes the center point of the seige. I love the irony, I love the blurred line of right and wrong, what makes me uncomfortable are the implications of this storyline. This was not the pederast's fault in a sense, it was the fault of another young women who wanted to have the same effect on men that Susan George did, she wasn't as well aware of herself and unfortunately tried to go the easy route by seducing a mentally unstable man. Now this poor b**tard didn't have a chance and he accidently killed her, was it her fault Not necessarily but the implications are there and that is too much truth for me. Anyway the whole irony is that this guy is no better or now worse than the guys that raped Susan, he is probably alot better but he doesn't have the mentallity to control his animal urges but he tries, the other guys don't even try to contol theirs. The final seige was interesting in the way that Susan George acted, and I feel this is all based on Nieztche's view of women, you know they have no understanding of loyalty or such they do not think like men, on principle alone. Women always want men to take the easy way out of things, the logical way, why make things hard for stupid reasons. Well men do. Dustin decides on that night that he is not going to supress his animal side, he is going to be a man for once and stand up to both the primal aggression around him and the true nature of women. Look this films shows the flaws and the strengths of both sexes, it shakes up what society has made each sex believe is the way they should act, how we have disregarded our true nature that when it rears its ugly head it can really cause problems. We are not that far evolved. Love this film."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "ABC Pictures",
+         "Talent Associates",
+         "Amerbroco"
+      ],
+      "summaries": [
+         "Upon moving to Britain to get away from American violence, astrophysicist David Sumner and his wife Amy are bullied and taken advantage of by the locals hired to do construction. When David finally takes a stand it escalates quickly into a bloody battle as the locals assault his house.",
+         "A young American and his English wife come to rural England and face increasingly vicious local harassment."
+      ],
+      "budget": 3251794
+   },
+   "movielensId": 6301,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1971-12-29",
+      "dvdReleaseDate": "2003-03-25",
+      "directors": ["Sam Peckinpah"],
+      "runtime": 116,
+      "movieId": 6301,
+      "title": "Straw Dogs",
+      "mpaa": "R",
+      "actors": [
+         "Dustin Hoffman",
+         "Susan George",
+         "Peter Vaughan",
+         "T. P. McKenna",
+         "Del Henney",
+         "Jim Norton",
+         "Donald Webster",
+         "Ken Hutchison",
+         "Len Jones",
+         "Sally Thomsett",
+         "Robert Keegan",
+         "Peter Arne",
+         "Cherina Schaer",
+         "Colin Welland",
+         "David Warner"
+      ],
+      "imdbMovieId": "0067800",
+      "originalTitle": "Straw Dogs",
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": [
+         "IQjQIXzFCRA",
+         "yXkqGVfm1mo",
+         "A9pXFl6enxg",
+         "lAVLxId6WNc",
+         "4Ys4qqFT1rM",
+         "yhCd9BKnMxE"
+      ],
+      "plotSummary": "David Sumner, a mild-mannered academic from the United States, marries Amy, an Englishwoman. In order to escape a hectic stateside lifestyle, David and his wife relocate to the small town in rural Cornwall where Amy was raised. There, David is ostracized by the brutish men of the village, including Amy's old flame, Charlie. Eventually the taunts escalate, and two of the locals rape Amy. This sexual assault awakes a shockingly violent side of David.",
+      "tmdbMovieId": 994,
+      "avgRating": 3.72087,
+      "releaseYear": "1971",
+      "numRatings": 1270,
+      "posterPath": "/kn85ADdkCrL3I2uWfKKhxpjolU5.jpg"
+   }
+}

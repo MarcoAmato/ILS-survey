@@ -1,0 +1,526 @@
+{
+   "tmdb": {
+      "original_language": "ja",
+      "keywords": [
+         {
+            "name": "bingo",
+            "id": 10936
+         },
+         {
+            "name": "based on tv series",
+            "id": 10988
+         },
+         {
+            "name": "dragon",
+            "id": 12554
+         },
+         {
+            "name": "battle",
+            "id": 14643
+         },
+         {
+            "name": "gods",
+            "id": 161172
+         },
+         {
+            "name": "anime",
+            "id": 210024
+         }
+      ],
+      "imdb_id": "tt2263944",
+      "video": false,
+      "title": "Dragon Ball Z: Battle of Gods",
+      "recommendations": [
+         303857,
+         34433,
+         44251,
+         39103,
+         24752,
+         39106,
+         39107,
+         39102,
+         39101,
+         39108,
+         39105,
+         39104,
+         39100,
+         28609,
+         120475,
+         39324,
+         39323,
+         18095,
+         39144,
+         39148
+      ],
+      "backdrop_path": "/eVrW2OF0vulxB2tnsJEt4oCDXVl.jpg",
+      "revenue": 50353002,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Son Goku / Son Gohan / Son Goten (voice)",
+               "gender": 1,
+               "credit_id": "52fe4aecc3a368484e16e03b",
+               "name": "Masako Nozawa",
+               "profile_path": "/5vf5AbB3ElUrkhSgSJxsBvTfyH5.jpg",
+               "id": 90496,
+               "order": 0
+            },
+            {
+               "cast_id": 34,
+               "character": "Bills (voice)",
+               "gender": 2,
+               "credit_id": "55df58ea925141798b00008a",
+               "name": "Kouichi Yamadera",
+               "profile_path": "/m5su8OKD2rZn9XWJfh8aPC403Nz.jpg",
+               "id": 20664,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Whis (voice)",
+               "gender": 2,
+               "credit_id": "52fe4aecc3a368484e16e04f",
+               "name": "Masakazu Morita",
+               "profile_path": "/mJMY7VacWIrFEqjo55HTZlhCN9.jpg",
+               "id": 78402,
+               "order": 2
+            },
+            {
+               "cast_id": 31,
+               "character": "Vegeta (voice)",
+               "gender": 2,
+               "credit_id": "536d3f68c3a36839c100213f",
+               "name": "Ryou Horikawa",
+               "profile_path": "/3FhW3i3vmXtqojE7oWFyBsKkcTD.jpg",
+               "id": 122501,
+               "order": 3
+            },
+            {
+               "cast_id": 19,
+               "character": "Bulma Briefs (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e073",
+               "name": "Hiromi Tsuru",
+               "profile_path": "/oaIWrqxdoFd1ErdmCSlIIIIZAVF.jpg",
+               "id": 122193,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Kaio / Dr. Briefs / Narrator (voice)",
+               "gender": 2,
+               "credit_id": "52fe4aecc3a368484e16e057",
+               "name": "Jōji Yanami",
+               "profile_path": "/6PgJcEz2RgGcZ1TwfkIIuhrUaXz.jpg",
+               "id": 619,
+               "order": 5
+            },
+            {
+               "cast_id": 33,
+               "character": "Piccolo (voice)",
+               "gender": 0,
+               "credit_id": "55cbf98492514176420013f5",
+               "name": "Toshio Furukawa",
+               "profile_path": "/7Pss94t6JTjbIK2JoOA8Ohg5rCJ.jpg",
+               "id": 85286,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Oracle Fish (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e053",
+               "name": "Shôko Nakagawa",
+               "profile_path": "/8PH42jePxuuCjo5yolE1Z8alOOX.jpg",
+               "id": 1024388,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Shenlong (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e05b",
+               "name": "Kenji Utsumi",
+               "profile_path": "/beAQh6z1knAxOxzdDOwbaZpbhLK.jpg",
+               "id": 83930,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Kuririn (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e05f",
+               "name": "Mayumi Tanaka",
+               "profile_path": "/rGUGLXCbdEb3KO7lRmLg0szNn4k.jpg",
+               "id": 65510,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Yamcha (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e063",
+               "name": "Tōru Furuya",
+               "profile_path": "/9fuENGDDd6C30IudobBV8uh2XaK.jpg",
+               "id": 40327,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Tenshinhan (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e067",
+               "name": "Hikaru Midorikawa",
+               "profile_path": "/67LlDJlFDeIrZlI4o6IM23fG7Tr.jpg",
+               "id": 122726,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Majin Buu (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e06b",
+               "name": "Kōzō Shioya",
+               "profile_path": "/pfIah5nRldMMsCdS79Ff5l40cIC.jpg",
+               "id": 100126,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Pilaf (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e06f",
+               "name": "Shigeru Chiba",
+               "profile_path": "/23GASkx3cOtzgtBkrDTj44nbpVg.jpg",
+               "id": 105816,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Shu (voice)",
+               "gender": 2,
+               "credit_id": "52fe4aecc3a368484e16e077",
+               "name": "Tesshou Genda",
+               "profile_path": "/ahCru7z0zyaV6RV1uCP0HBNLRoC.jpg",
+               "id": 1681,
+               "order": 14
+            },
+            {
+               "cast_id": 21,
+               "character": "Trunks (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e07b",
+               "name": "Takeshi Kusao",
+               "profile_path": "/8IG3iCbOJGQPINr2Xud3ple1cVQ.jpg",
+               "id": 1686,
+               "order": 15
+            },
+            {
+               "cast_id": 22,
+               "character": "Mr. Satan (voice)",
+               "gender": 2,
+               "credit_id": "52fe4aecc3a368484e16e07f",
+               "name": "Unsho Ishizuka",
+               "profile_path": "/msFDooyGBJLzWESwvvnjht6AnbV.jpg",
+               "id": 68916,
+               "order": 16
+            },
+            {
+               "cast_id": 23,
+               "character": "Dende (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e083",
+               "name": "Aya Hirano",
+               "profile_path": "/1EvMdPwUI9gvuqVjfLL6WS71j4U.jpg",
+               "id": 144650,
+               "order": 17
+            },
+            {
+               "cast_id": 24,
+               "character": "Android 18 (voice)",
+               "gender": 1,
+               "credit_id": "52fe4aecc3a368484e16e087",
+               "name": "Miki Itou",
+               "profile_path": "/2zKRoHrmJ9TLTq02thhQossC7Z.jpg",
+               "id": 122660,
+               "order": 18
+            },
+            {
+               "cast_id": 30,
+               "character": "Puar / Chi-Chi (voice)",
+               "gender": 0,
+               "credit_id": "536b91e40e0a2647d800c0ef",
+               "name": "Naoko Watanabe",
+               "profile_path": "/7J8B6YfriVtzc1Uo54zMmsRo6f7.jpg",
+               "id": 122192,
+               "order": 19
+            },
+            {
+               "cast_id": 26,
+               "character": "Bulma's Mom (voice)",
+               "gender": 1,
+               "credit_id": "52fe4aecc3a368484e16e08f",
+               "name": "Yōko Kawanami",
+               "profile_path": "/3TpDXWFkONUCfCSWAOy0AIuUltS.jpg",
+               "id": 1156655,
+               "order": 20
+            },
+            {
+               "cast_id": 27,
+               "character": "Gyuumao (voice)",
+               "gender": 2,
+               "credit_id": "52fe4aecc3a368484e16e093",
+               "name": "Ryuuzaburou Ootomo",
+               "profile_path": "/320g6pV2VdBAYhlruAZ1lq5XCNP.jpg",
+               "id": 126690,
+               "order": 21
+            },
+            {
+               "cast_id": 28,
+               "character": "Videl (voice)",
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e097",
+               "name": "Yuuko Minaguchi",
+               "profile_path": "/pFppi36nefwHTXzLGLcwKMDjZrn.jpg",
+               "id": 90569,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e02b",
+               "name": "Yusuke Watanabe",
+               "profile_path": null,
+               "id": 115937,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e031",
+               "name": "Tadayoshi Yamamuro",
+               "profile_path": null,
+               "id": 1083452,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4aecc3a368484e16e037",
+               "name": "Masahiro Hosoda",
+               "profile_path": null,
+               "id": 1083453,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa8871d9251415e3c028c33",
+               "name": "Norihito Sumitomo",
+               "profile_path": null,
+               "id": 555279,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa887290e0a263dc402c83e",
+               "name": "Akira Toriyama",
+               "profile_path": "/9YorJMvF6DgfJcpATHbGyivZpS5.jpg",
+               "id": 78322,
+               "department": "Writing",
+               "job": "Characters"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Action",
+            "id": 28
+         }
+      ],
+      "popularity": 9.718603,
+      "production_countries": [{
+         "iso_3166_1": "JP",
+         "name": "Japan"
+      }],
+      "id": 126963,
+      "vote_count": 485,
+      "budget": 0,
+      "overview": "The events of Battle of Gods take place some years after the battle with Majin Buu, which determined the fate of the entire universe. After awakening from a long slumber, Beerus, the God of Destruction is visited by Whis, his attendant and learns that the galactic overlord Frieza has been defeated by a Super Saiyan from the North Quadrant of the universe named Goku, who is also a former student of the North Kai. Ecstatic over the new challenge, Goku ignores King Kai's advice and battles Beerus, but he is easily overwhelmed and defeated. Beerus leaves, but his eerie remark of \"Is there nobody on Earth more worthy to destroy?\" lingers on. Now it is up to the heroes to stop the God of Destruction before all is lost.",
+      "similar": [
+         10191,
+         122917,
+         351460,
+         81,
+         16859,
+         2310,
+         1865,
+         10674,
+         4935,
+         8392,
+         129,
+         10882,
+         12437,
+         51739,
+         82702,
+         44943,
+         49017,
+         184315,
+         205584,
+         72559
+      ],
+      "original_title": "ドラゴンボールZ 神と神",
+      "runtime": 85,
+      "poster_path": "/xI5LlCzSkp8iFSbmla0Dh4iT5ie.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/cQQiwbo6dhBAQDTruNPRpvXsfxS.png",
+            "name": "Toei Animation",
+            "id": 5542,
+            "origin_country": "JP"
+         },
+         {
+            "logo_path": null,
+            "name": "Yasahi-Mation Productions",
+            "id": 50411,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2013-03-30",
+      "vote_average": 6.6,
+      "belongs_to_collection": {
+         "backdrop_path": "/7PcbijxTfwi9vjWEfXdS0ReAw8q.jpg",
+         "name": "Dragon Ball Z (Movie) Collection",
+         "id": 425164,
+         "poster_path": "/2VMZ1zRFPnUQtQp5K4WRXvDYBjh.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://www.dragonball2013.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Japan",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Masahiro Hosoda"],
+      "runtime": 85,
+      "synopsis": "The film begins with the awakening of Bills, the God of Destruction. As he has his breakfast, his valet Whis enquires as to why he has awoken ahead of his schedule. Bills explains that hed had a dream of fighting a warrior called a Super Saiyan God. He confirms this dream with a visit to the Oracle Fish, who had predicted the battle (although the Fish cant remember the prediction, she agrees with Bills to avoid trouble). Bills and Whis first head to King Kais planet, where they meet Goku. Goku doesnt know anything about Super Saiyan God, but begs for an opportunity to spar with Bills. An amused Bills agrees, and to everyones shock he defeats Goku in two moves. He then concludes that Goku is not the Super Saiyan God, but heads to Earth to inquire about the other remaining Saiyans. King Kai sends a message ahead to Prince Vegeta, warning him that Bills is on his way to Earth and that not even Goku could stand against him. Meanwhile, on Earth its Bulma Briefs birthday party and everyone has come to celebrate it. Amidst all the festivities, the Pilaf Gang (enemies from Gokus childhood) sneak in to steal the Dragon Balls, enchanted heirlooms of Gokus family that grant your hearts desire. They are caught, but everyone assumes they are putting on an act and play along. Meanwhile, Videl is hiding a big secret from her husband Gohan... Amidst all this, both Vegeta and Bills and Whis arrive at the party. Vegeta immediately sees that Bills is a serious threat and tries to steer him away from the party, but Bulma invites him over to enjoy himself. Although Bills doesnt find any Super Saiyan God on Earth either, he consoles himself with the delicious food provided at the party. He then tries to sample some pudding, but Majin Buu eats it all up; this finally causes Bills to lose his temper and he swears to destroy the Earth. All the Z-Fighters engage Bills, but he defeats them effortlessly. Bulma slaps Bills for ruining her birthday and he slaps her back; this enrages Vegeta and he assaults Bills, but even he is beaten down by Bills. Just when all is lost, Goku arrives on Earth. Instead of a fight, he asks Bills for some time as they try to find the Super Saiyan God for him. He gathers the Dragon Balls and summons the Dragon Shenron, to wish for the Super Saiyan God. Shenron however cannot grant this wish: he explains it is a bygone power. On the Saiyans homeworld, five Saiyans transferred their power to one, creating a Super Saiyan God. This proved to be a divine mode that defeated evil, but was temporary and only lasted for a short while and fell into obscurity. Goku and the other Saiyans (his sons Gohan and Goten, and Vegeta and his son Trunks) try to form the Super Saiyan God, but nothing happens. Whis (who is sampling Earth food throughout the film) works out that Shenrons words were misinterpreted: for five Saiyans power to flow into one, they need SIX Saiyans. Videl solves this dilemma by revealing her secret: she is pregnant with Gohans daughter Pan. Now with the sufficient number, Goku gets a power transfer from the other five Saiyans and achieves Super Saiyan God! Bills and Goku have their long-awaited fight, but despite Goku giving his all Bills still manages to dominate him. He eventually tells Goku to admit defeat, and Goku does. Bills however admits that Goku gave him quite a fight, and lets him in on a secret: his valet Whis is his trainer and is a far better fighter than him. He also reveals another secret: there are 12 universes, of which the one they are residing in is the seventh there are bound to be greater sights and fighters beyond this universe, and in the next ones. A victorious Bills returns Goku to his friends, and proclaims that he shall now destroy the world... and obliterates a few feet of earth. He states hell come back and do the rest later, to Gokus delight and everyones relief. He apologizes to Bulma for slapping her and asks that she invite him to another party (and that there be pudding provided there). Bills and Whis return home, and Whis provides Bills with some wasabi sauce to taste. Its too hot for Bills and it drives him wild, forcing Whis to knock him out. Whis orders him to wake up in three years... The film ends with everyone on Earth returning to Bulmas party. Vegeta swears he will be the Super Saiyan God mode next time and Goku agrees, joking that Bulma should get slapped again to make it more effective. Piccolo deduces that this meant Goku had already arrived to Earth around the time of Billss rampage. Goku protests that he was looking for some means to stop Bills, but an angry Bulma, already upset by the joke, prepares to slap Goku...",
+      "writers": [
+         "Akira Toriyama",
+         "Akira Toriyama"
+      ],
+      "originalLanguage": "Japanese",
+      "imdbLink": "http://www.imdb.com/title/tt2263944/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE2MzUwODUxMl5BMl5BanBnXkFtZTgwMTI0NDkzMjE@._V1_SY317_CR15,0,214,317_AL_.jpg",
+      "actors": ["Stars: Masako Nozawa, Hiromi Tsuru, Ryô Horikawa | See full cast and crew »"],
+      "reviews": [
+         "Well before starting this review i would like to say that there are some technical aspects that i am going to intentionally avoid, you may ask why and the answer to that is simple. The Dragonball Series has been a part of my childhood , it made me love anime's and if it wasn't for this i would have never watched other amazing anime's such Death Note, Code Geass, Naruto, Bleach etc. Simply put Dragonball is the series that made me understand anime in general and judging it from a technical view point is simply not fair, So when i first received the news that a new DragonballZ movie is going to be released and is actually going to be canon , my excitement went through the roof. I did not want to lose the chance of seeing the premier and was willing to go to any logical limits for it and let me tell you it was worth it. The movie is everything a classic Dragon Ball fan like myself wanted, the classic planet destructing battles, overpowered villains with ridiculously edgy personality and Goku once again doing whatever it takes to beat the stronger opponent. The animation and visuals are as good as ever and the voice acting is also very consistent with the original ones, the sound was used very cleverly and suits the whole Japanese classic theme very well. The story is also very intriguing and oozes a certain sense of adrenaline throughout the whole movie and the ending was something i didn't expect(at least from a Dragonball movie), I was like wait that can't be right and It took me a while to understand why the ending is being played out the way it was , until i heard some of the last lines/dialogs. Those last few lines made me realize that this ending just opened up a ton of new possibilities for future Dragonball series and movies, i can only hope that this movie succeeds worldwide and that success will provide enough motivation for Akira Toriyoma to get going again, so we can all enjoy another era of Dragonball !",
+         "Finally for all these days it came true, A new Dragon Ball Z Movie came up.I was so happy to hear the news for the first time, guess what? i was the one who requested and added this page to IMDb just to let the world know about the movie more and share its information as IMDb is the best for it.I love the Akira Toriyama's story in this, the battles so intense, loved watching it :D and the way story lines ended, seems as in Future we could see more of Dragon Ball Z, hoping for a new Series just like before and i am hearing rumors that there will be one? i believe there should be one as now we know there is 7 other Universe in it, wow hoping that there will be few more people like Goku who are just as or more powerful than him, Akira PLEASE WE WANT MORE!!!",
+         "This movie isn't about plot, if you start to watch it hoping for a good plot you better stop here. This is a trip, a trip in the past, we see almost everyone of the Z-fighters here. The movie is actually funny and Bill isn't a villain, he is simply e bored god, so don't expect majin buu bada*s character here. However the movie ends will an explanation from bill which leaves the DB adventures yet to continue or at least I hope so... In few words if you are a fan and watched everything that came out in from this series you will love what this movie offers, otherwise it will seem just a plot less movie!",
+         "After having seen so many DBZ movies i wasn't expecting much out of it. Nevertheless, as an adult hardcore fan of the Anime than rocked my youth, i feel compelled to watch every single one. And i am glad that i did. Most of previous movies didn't made a lot of sense to me. My main problem was in the fact that chronologically things didn't had up or where confusing. And this only made think that they were making movies just to profit of it. Regardless of that, this time, i felt the history well placed and full of meaning. Some light facts were also revealed from older Sayan history. The plot was indeed interesting and was not only about some lost Sayan coming to earth looking for a fight. I used to criticize the pace of the history on other movies. They usually go to fast and we are often taken from peace time to world destruction warning in 5 minutes. This time, even if the length of the movie does not allow a deeper build to the history, the transition a lot more smooth. I'll give it a 9 because is probably the best movie ever from the DBZ saga. I only disliked the fact that, like almost every sequel from any genre, they felt compelled to give us a glimpse of almost every character in DBZ saga. Even the most irrelevant living being had to show up. In my opinion this is utter useless and transforms a legit story in some kind of parody. Anyway, it's definitely a great addition for DBZ fans. If you are too young to have followed DB or have been living in Jupiter's moon for the last 20 years and do not know the saga, this is not for you. Otherwise enjoy the show!!",
+         "I went into this movie not expecting much. I was a huge fan of the cartoon growing up, but it'd been so long I had no clue what I was getting myself into at the theater yesterday. I went with my youngest brother who inherited my DBZ VHS tapes so many years ago. I really don't even know where to start with the things I loved in this movie. They showed you pretty much everything in the Z Universe in the span of 1 hr 30 minutes. It honestly felt like I got to catch up with friends I haven't seen in over 10 years, totally bizarre but lovable, quirky friends. This movie floored me. The thing I love most about DBZ is that on the surface its an anime for bros, but underneath its deep, introspective, and full of symbols. The show is brimming with positivity and heart and sets incredible examples for any child growing up in the world. When there is a fight and it's seemingly dragging on forever, the show is encouraging the viewer to think deeply. Goku, although daft and possibly insane, always makes the right decision in the end. Most times, his enemies become his allies, out of shear respect for the person he is, regardless of his power. On the surface there is nothing subtle about DBZ, but underneath there is a blueprint for life. Battle of the Gods captured that perfectly. One thing I really liked about this movie was it was very self aware. You saw many regular people's reactions to what they would be thinking if the Z fighters really existed (mostly befuddlement), plus there were 4th wall breaking aspects littered throughout, which I always appreciate. Yes, this movie was total fanfare, but still the most heartwarming movie experience I've had in a long time. I'm honored to have been able to see this film on the big screen, even if the sound wasn't made for that venue. Loved it, just wish Gohan had put up more of a fight against Beerus, as he was the most powerful fighter at the end of Z and my favorite character. He definitely had his moments though in the film. I don't want to spoil anything. 10/10; I was a true fan of the DBZ cartoon and this movie made my week. Toriyama still knows what he's doing!",
+         "Dragonball Z hasn't had any installments, or fan hype like this in a long while. To be honest, after finishing GT, I grew skeptic to view this, but could not contain my excitement. One key factor to this success, was the factor, of visuals, and the nostalgia one could receive in watching this. It holds much promise, and even gives reason to debates on a possible future series with our resident Z-Fighters. The colors, the voices, I witnessed them in Japanese, but in due time of dubbing, I will gladly see this again. Easily compared to an action flick, with a decent story, it is true to what this series represents. Inner strength.",
+         "Yes, listen to Brandon Christie: Only the Main F#$king character is fully utilized and that's a problem. Idiot! This movie was surprisingly deep and well balanced. I really don't like every other DBZ movie mostly because they don't have anything to serve for the main characters and arcs, this is the first time where that changes for the better. All the characters have their shining moments in this, either be it badass or completely hilarious just in old tradition of Dragon Ball! I loved this movie and I'd recommend it to anyone tired of the old DBZ formula and are looking for something fresh and new. Toriyama's SSG design was fantastic, and Bills is up there with Broly as one of the more interesting villains!",
+         "DBZ: Battle of the Gods is a totally hoot with really nice animation, really cool battle scenes, fun & lively characters, and a ton of cameos and references for fans of the series to enjoy. If you like DBZ, you should really like this! After being asleep for several decades, Beerus, the God of Destruction, awakens and remembers a prophecy about finding a powerful challenger in the form of a \"Super Saiyan God\". Eager to face a foe who could provide with a challenge or amusement, Beerus sets off in search of such a person, which puts Goku, Vegeta and their families & friends in his cross-hairs... Aside from the fantastical, frenetic action this series is known for, this most fun the Dragon Ball franchise has seen in a loooonnngg time. Thanks to series creator Akira Toriyama bring involved, there's a lot of humor and personality that was lacking in previous movies and even the later part of the manga & TV Show. Even minor characters are given some personality and spot on dialog. Here's the catch: You have to be a fan of Dragon Ball Z--a big one at that--to fully enjoy it. There are cameos, references and even in-jokes--with no explanation at that--that only fans who know almost everything about the series will get. Some characters even show up for the sole purpose of showing up and play no role whatsoever. Non-fans need not apply here and casual fans may want to brush up on their DB history. So if you're a fan of DBZ, chances are likely you'll have a pretty good time here. Though you might need to jog your memory a little first.",
+         "Beware of spoilers are in this review. Why I really despise this film, is its lack of consequence. Every part of Dragon Ball Z was suspenseful because the villains were evil; they intended to kill people, worlds, possibly even the universe. Now, this isn't to say that a villain must be portrayed this way, but it takes away from a universe where the Z fighters can literally do incredibly insane and powerful moves--which is fun to watch. We don't get any of that in this film, just a very tame fight between Bills the lord of destruction and Goku. Now, a lot of people would retort that the concept of Bills/Beerus whatever these gods are called--is a nice change of pace to what we are used to, a slow build up of suspenseful talking and action that lead to either the destruction of earth and or the universe or chaos on earth (in case for the androids). Any ulterior motive of the villain to support the main idea of destruction. in this case Bills has no motive to fight Goku, he just wants to fight someone who could possibly put up a good match and has no real intention to destroy earth at all and would rather sleep for decades...blah blah blah Akira your movie falls apart so easily. The other argument I've been hearing to this is that is trying to be more comedic and approach a story in which DBZ could be a comedy. Why on earth would you change the tone of a series, the light-hearted joking, the extreme color pallet should not be the style for Dragon Ball Z because it doesn't work well with it. DBZ in its in nature is more serious in order to be more suspenseful. Most of the film is setting up for the last fight at the end which ends up with no real repercussions, Vegeta has to dance, Gohan gets drunk, Emperor Pilaf and his gang are children and are carelessly shoehorned in the film to steal the dragon balls which are comically given out as a bingo gift at Bulma's Birthday party. I'm bursting out laughing except I'm not. No real development can be made between the characters and Bills wants to fight Goku after eating delicacies on earth. They are mentioned that there is a Super Saiyan god mode. Laughable already. Apparently you need 5 pure hearted Saiyans to call the god and turn one into super Saiyan god cheat mode. And the best art direction with this is Goku looking the same with red hair and some kind of red aura. They originally can't find a 5th Saiyan until Gohan and Videl inform the group that she's pregnant. It would be really awkward to find out it isn't his by this ritual not working. Four grown Saiyans and a fetus that carries Saiyan blood are good enough. Goku gets the power and they fight, and here is where the film starts to try to show off. They start fighting in the city which Goku would never do if he didn't have to, it's alright because nothing in the environment gets damaged. The camera begins to swoop around them into some kind of 3D simulation to look more epic, but instead it just makes it look completely tacky and overdone. Fights are so much better when the audience has a grasp what both parties are up to and what they are doing. Then here is where the fight begins to start to get comical. They fight in the woods and rocky areas, then above the ocean, then under the ocean waves and in some underground cave. Goku loses his god power cheats and is still able to fight Bills even though it was established when they first met that he could effortlessly take out Goku at SSJ3 in one hit. Then they go all the way into the atmosphere/space where Goku shouldn't even be able to breathe. Bills throws this huge ball of energy at Goku turns his cheats on to absorb the blast. And at this point Bills is easily winning. And then Bills just stops fighting and nothing makes sense because no one has any motivation for anything. I mean I can understand the Saiyan will to fight at any time, but what is the motivation for Bills except to find someone that is as powerful as him? So he can definitely say, yes I am a god of destruction in which I am the strongest in this universe. Apparently there are only 12 universes they are in the 7th. The fact that it's numbered makes already no absolute sense. Goku passes out He goes on to destroy the earth...he means it, and ends up destroying a piece of the earth--so basically just a rock. Which is coincidentally could be called earth, but being that Bills didn't really know about this planet, how the heck did he know the colloquialism that rocks could be called earth? So they leave. I didn't mention Whis, because he's just there to do nothing. It's stated that he is the care taker and teacher of Bills, so not much difference in character, just some odd looking god that is claimed to be the strongest in the universe. Some god that so power he just sits around to babysit some other god because that god is the god of destruction. Oh dear god. So in the end who cares, I'm rating this a 1 out of 10, not because it was that bad but I need to factor in all the people who are going to endlessly praise this film because of nostalgia and my childhood is back, Akira is back guise. Anyway, this film slightly pays its respect to GT by saying it never existed and approaching this as canon instead. I'm definitely okay with that.",
+         "Akira Toriyama makes his return to the Dragon Ball franchise with this new, animated feature-length film; Battle of Gods. Battle of Gods takes place chronologically after the Majin Buu Saga, and the thirty-five minute special, Dragon Ball: Yo! Son Goku and His Friends Return!! The original Japanese cast returns, giving their usual great performances. With Bills voice actor, Kōichi Yamadera, standing above the rest. Throughout the movie there isn't much background music, making the scenes with music much more powerful. An example of this is when Goku transforms into the Super Saiyan God for the first time. With a high budget and modern technology, the animation in Battle of Gods doesn't disappoint. Though at times during wide shots, the animation was noticeably much weaker. However, where the animation really shines is during the fight scenes between Bills, Goku, and the other Z-fighters. Now for the story of this movie, Akira Toriyama goes back to his roots. Giving fans the fun, yet serious at times Dragon Ball we've all come to love over the years. With Bills and Whis making great additions to the character cast. Even though Goku's the main character, Bills definitely steals the show with his great dialogue, and strong personality. Quick warning. If you're a DBZ fan (English Dub), and you enjoyed the other movies with mindless action and uninteresting villains, then this movie isn't for you. If you're someone who truly understands what Dragon Ball is, then this movie will be perfect for you. Also, if you're an older fan looking for something to get you back into Dragon Ball, then I highly recommend you watch this movie. In conclusion, Battle of Gods is a great sequel that retains the essence of Dragon Ball with a touch of modern flavor that any true fan will appreciate. 9/10"
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Comedy",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Toei Company",
+         "Fox International Productions",
+         "Shueisha"
+      ],
+      "summaries": [
+         "The events of Battle of Gods take place some years after the battle with Majin Buu, which determined the fate of the entire universe. Bills, the God of Destruction, is tasked with maintaining some sort of balance in the universe. After awakening from a long slumber, Bills is visited by Whis and learns that the galactic overlord Frieza has been defeated by a Super Saiyan from the North Quadrant of the universe named Goku, who is also a former student of the North Kai. Ecstatic over the new challenge, Goku ignores King Kai's advice and battles Bills, but he is easily overwhelmed and defeated. Bills leaves, but his eerie remark of \"Is there nobody on Earth more worthy to destroy?\" lingers on. Now it is up to the heroes to stop the God of Destruction before all is lost.",
+         "The Z-Fighters must contend with Lord Beerus, the God of Destruction, but only a God can fight a God, and none of them are Gods. However with the creation of the Super Saiyan God, will the Z-Fighters be able to defeat Lord Beerus?"
+      ],
+      "budget": 0
+   },
+   "movielensId": 107953,
+   "movielens": {
+      "languages": [
+         "English",
+         "日本語"
+      ],
+      "releaseDate": "2013-03-30",
+      "dvdReleaseDate": "2013-09-13",
+      "directors": ["Masahiro Hosoda"],
+      "runtime": 85,
+      "movieId": 107953,
+      "title": "Dragon Ball Z: Battle of Gods",
+      "mpaa": "PG-13",
+      "actors": [
+         "Masako Nozawa",
+         "Toshio Furukawa",
+         "Kouichi Yamadera",
+         "Masakazu Morita",
+         "Shôko Nakagawa",
+         "Jōji Yanami",
+         "Kenji Utsumi",
+         "Mayumi Tanaka",
+         "Tōru Furuya",
+         "Hikaru Midorikawa",
+         "Kōzō Shioya",
+         "Shigeru Chiba",
+         "Hiromi Tsuru",
+         "Tesshou Genda",
+         "Takeshi Kusao",
+         "Unsho Ishizuka",
+         "Aya Hirano",
+         "Miki Itou",
+         "Naoko Watanabe",
+         "Yōko Kawanami",
+         "Ryuuzaburou Ootomo",
+         "Yuuko Minaguchi",
+         "Ryou Horikawa",
+         "Sean Schemmel",
+         "Christopher Sabat",
+         "Kyle Hebert"
+      ],
+      "imdbMovieId": "2263944",
+      "originalTitle": "ドラゴンボールZ 神と神",
+      "genres": [
+         "Animation",
+         "Action"
+      ],
+      "youtubeTrailerIds": ["sxufB6DxXk0"],
+      "plotSummary": "The events of Battle of Gods take place some years after the battle with Majin Buu, which determined the fate of the entire universe. After awakening from a long slumber, Beerus, the God of Destruction is visited by Whis, his attendant and learns that the galactic overlord Frieza has been defeated by a Super Saiyan from the North Quadrant of the universe named Goku, who is also a former student of the North Kai. Ecstatic over the new challenge, Goku ignores King Kai's advice and battles Beerus, but he is easily overwhelmed and defeated. Beerus leaves, but his eerie remark of \"Is there nobody on Earth more worthy to destroy?\" lingers on. Now it is up to the heroes to stop the God of Destruction before all is lost.",
+      "tmdbMovieId": 126963,
+      "avgRating": 3.29371,
+      "releaseYear": "2013",
+      "numRatings": 143,
+      "posterPath": "/xI5LlCzSkp8iFSbmla0Dh4iT5ie.jpg"
+   }
+}

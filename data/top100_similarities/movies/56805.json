@@ -1,0 +1,879 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "music record",
+            "id": 532
+         },
+         {
+            "name": "rock and roll",
+            "id": 578
+         },
+         {
+            "name": "pop",
+            "id": 637
+         },
+         {
+            "name": "hip-hop",
+            "id": 898
+         },
+         {
+            "name": "blues",
+            "id": 2636
+         },
+         {
+            "name": "pop star",
+            "id": 3490
+         },
+         {
+            "name": "rapper",
+            "id": 4562
+         },
+         {
+            "name": "record producer",
+            "id": 4746
+         },
+         {
+            "name": "rock",
+            "id": 5288
+         },
+         {
+            "name": "music",
+            "id": 6027
+         },
+         {
+            "name": "music instrument",
+            "id": 6031
+         },
+         {
+            "name": "wedding",
+            "id": 13027
+         },
+         {
+            "name": "extramarital affair",
+            "id": 34094
+         },
+         {
+            "name": "aftercreditsstinger",
+            "id": 179430
+         }
+      ],
+      "imdb_id": "tt0841046",
+      "video": false,
+      "title": "Walk Hard: The Dewey Cox Story",
+      "recommendations": [
+         9718,
+         16991,
+         10074,
+         13997,
+         13260,
+         37931,
+         9900,
+         52067,
+         11635,
+         9429,
+         2295,
+         11543,
+         2294,
+         6471,
+         9749,
+         13595,
+         12569,
+         8873,
+         2293,
+         9824
+      ],
+      "backdrop_path": "/y7EElGAn1tFE0Npmls7uvg4HPVj.jpg",
+      "revenue": 18317151,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 14,
+               "character": "Dewey Cox",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f8091375",
+               "name": "John C. Reilly",
+               "profile_path": "/3LpfXon9xQZc1M2AFvfXyLeICbg.jpg",
+               "id": 4764,
+               "order": 0
+            },
+            {
+               "cast_id": 18,
+               "character": "Pa Cox",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f8091385",
+               "name": "Raymond J. Barry",
+               "profile_path": "/k4WDNgYHOUgRaPQIsZUPUxl1lO6.jpg",
+               "id": 10361,
+               "order": 1
+            },
+            {
+               "cast_id": 20,
+               "character": "Ma Cox",
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f809138d",
+               "name": "Margo Martindale",
+               "profile_path": "/4YmmVgOGKsDsGGLunCHmigj2TbV.jpg",
+               "id": 452,
+               "order": 2
+            },
+            {
+               "cast_id": 17,
+               "character": "Edith",
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f8091381",
+               "name": "Kristen Wiig",
+               "profile_path": "/iqRX3PDxA33zFhSfKTo5BE593G4.jpg",
+               "id": 41091,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "Sam",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f809137d",
+               "name": "Tim Meadows",
+               "profile_path": "/4V8Jde8DuFBnXOFPGjTVxs7lqlt.jpg",
+               "id": 51857,
+               "order": 4
+            },
+            {
+               "cast_id": 56,
+               "character": "Dewey Age 8",
+               "gender": 0,
+               "credit_id": "5a517cc0c3a368756201261f",
+               "name": "Conner Rayburn",
+               "profile_path": "/8XWlZotOHDqyZirBrjwJAE0gbOs.jpg",
+               "id": 1224835,
+               "order": 5
+            },
+            {
+               "cast_id": 34,
+               "character": "Nate Cox",
+               "gender": 0,
+               "credit_id": "52fe445bc3a36847f80913c5",
+               "name": "Chip Hormess",
+               "profile_path": null,
+               "id": 52028,
+               "order": 6
+            },
+            {
+               "cast_id": 57,
+               "character": "Country Doctor",
+               "gender": 2,
+               "credit_id": "5a517d1ec3a36875270158d1",
+               "name": "Terrence Beasor",
+               "profile_path": null,
+               "id": 159327,
+               "order": 7
+            },
+            {
+               "cast_id": 51,
+               "character": "Preacher",
+               "gender": 2,
+               "credit_id": "5764b61fc3a368278a000b46",
+               "name": "Rance Howard",
+               "profile_path": "/i7tkpb7GLJXjwUNyrpOy63FiStt.jpg",
+               "id": 22250,
+               "order": 8
+            },
+            {
+               "cast_id": 39,
+               "character": "Bobby Shad",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913db",
+               "name": "Craig Robinson",
+               "profile_path": "/tVaRMkJXOEVhYxtnnFuhqW0Rjzz.jpg",
+               "id": 64342,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Darlene Madison",
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f8091379",
+               "name": "Jenna Fischer",
+               "profile_path": "/i8jVPF6H6OxuXcZwKUSNYJjkZJy.jpg",
+               "id": 51856,
+               "order": 10
+            },
+            {
+               "cast_id": 58,
+               "character": "Nightclub Manager",
+               "gender": 2,
+               "credit_id": "5a517dca0e0a26026c014ae2",
+               "name": "Paul Bates",
+               "profile_path": "/c0MSOhtxwik2RwaSxNcL3eovSIJ.jpg",
+               "id": 4693,
+               "order": 11
+            },
+            {
+               "cast_id": 55,
+               "character": "Awards Show Stage Manager",
+               "gender": 2,
+               "credit_id": "5a517c809251411326013679",
+               "name": "Nat Faxon",
+               "profile_path": "/vvT2BZrhz3AfeeOU3ECXtnDsufN.jpg",
+               "id": 105648,
+               "order": 12
+            },
+            {
+               "cast_id": 19,
+               "character": "L'Chai'm",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f8091389",
+               "name": "Harold Ramis",
+               "profile_path": "/dFERLL9HGBw9xGMwDQRuhUgAneI.jpg",
+               "id": 1524,
+               "order": 13
+            },
+            {
+               "cast_id": 59,
+               "character": "Mazeltov",
+               "gender": 0,
+               "credit_id": "5a517e359251411322014baf",
+               "name": "Philip Rosenthal",
+               "profile_path": "/5ZTtVJ1tKI6OUamavdiohpyg3w9.jpg",
+               "id": 179632,
+               "order": 14
+            },
+            {
+               "cast_id": 40,
+               "character": "Schmendrick",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913df",
+               "name": "Martin Starr",
+               "profile_path": "/sYKZBDsmDIhVY0juiwSDfv2RnPR.jpg",
+               "id": 41089,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Theo",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f8091391",
+               "name": "Chris Parnell",
+               "profile_path": "/dLdXHfbJ7TMe3qbtNzPpSLuaMos.jpg",
+               "id": 51382,
+               "order": 16
+            },
+            {
+               "cast_id": 49,
+               "character": "Dave",
+               "gender": 2,
+               "credit_id": "53faa6bdc3a368734c003a98",
+               "name": "Matt Besser",
+               "profile_path": "/6VyZNNcuaRQ0VNnIKaPQyU8xI7C.jpg",
+               "id": 177475,
+               "order": 17
+            },
+            {
+               "cast_id": 41,
+               "character": "DJ",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913e3",
+               "name": "Jack McBrayer",
+               "profile_path": "/nTvIqj2pRhQPaaxB1CUj7QipY8j.jpg",
+               "id": 58737,
+               "order": 18
+            },
+            {
+               "cast_id": 48,
+               "character": "Teen with Pinups",
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f80913ff",
+               "name": "Molly C. Quinn",
+               "profile_path": "/eIKxZtJdWrMyQXsHETFQ48kErIc.jpg",
+               "id": 96349,
+               "order": 19
+            },
+            {
+               "cast_id": 60,
+               "character": "The Big Bopper",
+               "gender": 2,
+               "credit_id": "5a517ea292514113260138a5",
+               "name": "John Ennis",
+               "profile_path": "/hRaa5iOlkJAb98hdNltxqeaLWDV.jpg",
+               "id": 61115,
+               "order": 20
+            },
+            {
+               "cast_id": 42,
+               "character": "Buddy Holly",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913e7",
+               "name": "Frankie Muniz",
+               "profile_path": "/pjVw8EUl3zQR5dP4wRy5spSR9ws.jpg",
+               "id": 51391,
+               "order": 21
+            },
+            {
+               "cast_id": 43,
+               "character": "Stage Manager",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913eb",
+               "name": "Ed Helms",
+               "profile_path": "/euQxeETzWnPUqu1vm4hGtFa7zPd.jpg",
+               "id": 27105,
+               "order": 22
+            },
+            {
+               "cast_id": 24,
+               "character": "Elvis Presley",
+               "gender": 0,
+               "credit_id": "52fe445bc3a36847f809139d",
+               "name": "Jack White",
+               "profile_path": "/7VaPV6dQQvJND4xvxgaPc4AU3jL.jpg",
+               "id": 13611,
+               "order": 23
+            },
+            {
+               "cast_id": 61,
+               "character": "Beth Anne",
+               "gender": 1,
+               "credit_id": "5a517f16c3a368751c014875",
+               "name": "Angela Little",
+               "profile_path": "/8z7GuufLCJGISmHm98SuoV2eqNz.jpg",
+               "id": 54595,
+               "order": 24
+            },
+            {
+               "cast_id": 52,
+               "character": "Reefer Girl",
+               "gender": 1,
+               "credit_id": "57dd90e792514178530012d0",
+               "name": "Odette Annable",
+               "profile_path": "/oaifXRU7bfxz08aMh8I4L35FK9a.jpg",
+               "id": 51992,
+               "order": 25
+            },
+            {
+               "cast_id": 44,
+               "character": "The Maharishi",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913ef",
+               "name": "Gerry Bednob",
+               "profile_path": "/dEEJY1UwIBxRzIT1kFOsA71uXCZ.jpg",
+               "id": 76525,
+               "order": 26
+            },
+            {
+               "cast_id": 23,
+               "character": "Schwartzberg",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f8091399",
+               "name": "David Krumholtz",
+               "profile_path": "/5171elOp1qFxf9c8DkpeyhHBB6d.jpg",
+               "id": 38582,
+               "order": 27
+            },
+            {
+               "cast_id": 62,
+               "character": "Engineer",
+               "gender": 2,
+               "credit_id": "5a517f8a925141132e0149bc",
+               "name": "Tim Bagley",
+               "profile_path": "/l00IDn897RHTbTB7GcU1Pm9dKsO.jpg",
+               "id": 53400,
+               "order": 28
+            },
+            {
+               "cast_id": 45,
+               "character": "Gail the Television Reporter",
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f80913f3",
+               "name": "Jane Lynch",
+               "profile_path": "/1vjkjyIfphST9onBsMTKmTSl3z8.jpg",
+               "id": 43775,
+               "order": 29
+            },
+            {
+               "cast_id": 54,
+               "character": "Dewdrop",
+               "gender": 2,
+               "credit_id": "58ef2975c3a368265e008329",
+               "name": "Skyler Gisondo",
+               "profile_path": "/b7vm2cgw5qKVrkZ6aU5nk2SDfR8.jpg",
+               "id": 61263,
+               "order": 30
+            },
+            {
+               "cast_id": 46,
+               "character": "Dreidel L'Chaim",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913f7",
+               "name": "Simon Helberg",
+               "profile_path": "/zic1gEH1qEMHhbm5Vxwp9J2XrAO.jpg",
+               "id": 53863,
+               "order": 31
+            },
+            {
+               "cast_id": 63,
+               "character": "Cox Kid",
+               "gender": 0,
+               "credit_id": "5a517fe29251411330014714",
+               "name": "Lurie Poston",
+               "profile_path": "/qhJxNLR8c6xc44SlRhkoew4r2Wu.jpg",
+               "id": 964809,
+               "order": 32
+            },
+            {
+               "cast_id": 27,
+               "character": "Jackson Browne",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913a9",
+               "name": "Jackson Browne",
+               "profile_path": "/4KFoYmDc8jwyS8hwZ8yryFBEEUB.jpg",
+               "id": 14397,
+               "order": 33
+            },
+            {
+               "cast_id": 26,
+               "character": "Jewel",
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f80913a5",
+               "name": "Jewel",
+               "profile_path": "/AusoMHSw7XRQYBkYoNf1E3e0T1L.jpg",
+               "id": 51860,
+               "order": 34
+            },
+            {
+               "cast_id": 29,
+               "character": "Lyle Lovett",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913b1",
+               "name": "Lyle Lovett",
+               "profile_path": "/yDaJWyKH5MKZkAPVCb6vMC2lnlJ.jpg",
+               "id": 11059,
+               "order": 35
+            },
+            {
+               "cast_id": 28,
+               "character": "Ghostface Killah",
+               "gender": 0,
+               "credit_id": "52fe445bc3a36847f80913ad",
+               "name": "Ghostface Killah",
+               "profile_path": null,
+               "id": 51861,
+               "order": 36
+            },
+            {
+               "cast_id": 25,
+               "character": "Eddie Vedder",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913a1",
+               "name": "Eddie Vedder",
+               "profile_path": "/ifgiSAnqb0REK7lIP1k7Xfp5EJe.jpg",
+               "id": 46590,
+               "order": 37
+            },
+            {
+               "cast_id": 30,
+               "character": "Paul McCartney (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913b5",
+               "name": "Jack Black",
+               "profile_path": "/vMXgtzMdt2jSAjOECFQ5F53blbr.jpg",
+               "id": 70851,
+               "order": 38
+            },
+            {
+               "cast_id": 32,
+               "character": "John Lennon (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913bd",
+               "name": "Paul Rudd",
+               "profile_path": "/8eTtJ7XVXY0BnEeUaSiTAraTIXd.jpg",
+               "id": 22226,
+               "order": 39
+            },
+            {
+               "cast_id": 31,
+               "character": "George Harrison (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913b9",
+               "name": "Justin Long",
+               "profile_path": "/7TGXeHw4o86IBm6xknQotpludXK.jpg",
+               "id": 15033,
+               "order": 40
+            },
+            {
+               "cast_id": 33,
+               "character": "Ringo Starr (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913c1",
+               "name": "Jason Schwartzman",
+               "profile_path": "/3WDQYEqcqZDp5mOhDN8XSo0NVUK.jpg",
+               "id": 17881,
+               "order": 41
+            },
+            {
+               "cast_id": 35,
+               "character": "Cheryl Ladd (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f80913c9",
+               "name": "Cheryl Ladd",
+               "profile_path": "/wiNxMI8JwbRZ2MvuUzp861Gja4x.jpg",
+               "id": 36169,
+               "order": 42
+            },
+            {
+               "cast_id": 36,
+               "character": "Morgan Fairchild (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f80913cd",
+               "name": "Morgan Fairchild",
+               "profile_path": "/v0Fyz7tpk6M9DDrQWVkFh3TL75x.jpg",
+               "id": 14990,
+               "order": 43
+            },
+            {
+               "cast_id": 37,
+               "character": "Cheryl Tiegs (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f80913d1",
+               "name": "Cheryl Tiegs",
+               "profile_path": "/b8h22YnDY7b80KPNDrndqj5uX3P.jpg",
+               "id": 73952,
+               "order": 44
+            },
+            {
+               "cast_id": 53,
+               "character": "LSD Vision (uncredited)",
+               "gender": 1,
+               "credit_id": "58ad08c692514107940006d1",
+               "name": "Amber Hay",
+               "profile_path": "/sckSyKcuCiJ3xE0YsuurT3Ez3dD.jpg",
+               "id": 1763429,
+               "order": 45
+            },
+            {
+               "cast_id": 50,
+               "character": "Record Producer (uncredited)",
+               "gender": 2,
+               "credit_id": "55f0c47592514167110000a4",
+               "name": "John Michael Higgins",
+               "profile_path": "/91ANQZVoG0Xg2vVnqIhouHiNc4J.jpg",
+               "id": 8265,
+               "order": 46
+            },
+            {
+               "cast_id": 47,
+               "character": "Older Nate (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913fb",
+               "name": "Jonah Hill",
+               "profile_path": "/7GXzpyHLCEA36J9biB0wJVAauiO.jpg",
+               "id": 21007,
+               "order": 47
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f809132f",
+               "name": "Judd Apatow",
+               "profile_path": "/iXlnv4NvZkmhB7bJBXea5T21gBT.jpg",
+               "id": 41039,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f8091335",
+               "name": "Judd Apatow",
+               "profile_path": "/iXlnv4NvZkmhB7bJBXea5T21gBT.jpg",
+               "id": 41039,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f809133b",
+               "name": "Jake Kasdan",
+               "profile_path": "/1jmlwJ7Y0a7fp28bJLr73u12wbv.jpg",
+               "id": 51851,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f8091341",
+               "name": "Jake Kasdan",
+               "profile_path": "/1jmlwJ7Y0a7fp28bJLr73u12wbv.jpg",
+               "id": 51851,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f8091347",
+               "name": "Clayton Townsend",
+               "profile_path": null,
+               "id": 3184,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f809134d",
+               "name": "Jake Kasdan",
+               "profile_path": "/1jmlwJ7Y0a7fp28bJLr73u12wbv.jpg",
+               "id": 51851,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe445bc3a36847f8091353",
+               "name": "Lewis Morton",
+               "profile_path": null,
+               "id": 51852,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f8091359",
+               "name": "Uta Briesewitz",
+               "profile_path": "/4sIx2ojAeGjGB4FzxhbAL15DeFy.jpg",
+               "id": 51853,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f809135f",
+               "name": "Michael Andrews",
+               "profile_path": null,
+               "id": 1589,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f8091365",
+               "name": "Tara Timpone",
+               "profile_path": null,
+               "id": 38412,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f809136b",
+               "name": "Steve Welch",
+               "profile_path": null,
+               "id": 51854,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe445bc3a36847f8091371",
+               "name": "Debra McGuire",
+               "profile_path": "/2wH44GuUhNUORaANbwOjJNmkC3r.jpg",
+               "id": 41084,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445bc3a36847f80913d7",
+               "name": "Jefferson Sage",
+               "profile_path": null,
+               "id": 41081,
+               "department": "Art",
+               "job": "Production Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 9.10191,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 6575,
+      "vote_count": 249,
+      "budget": 35000000,
+      "overview": "Singer Dewey Cox overcomes adversity to become a musical legend.",
+      "similar": [
+         786,
+         525,
+         6477,
+         3902,
+         5723,
+         27,
+         1584,
+         243,
+         6557,
+         10186,
+         1641,
+         8873,
+         63973,
+         13576,
+         5708,
+         178,
+         1791,
+         20575,
+         25438,
+         450794
+      ],
+      "original_title": "Walk Hard: The Dewey Cox Story",
+      "runtime": 96,
+      "poster_path": "/xq9Ro4UNCxSSGV40WUIAlNd4HaK.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Apatow Productions",
+            "id": 10105,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "id": 5,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2007-12-21",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "Life made him tough. Love made him strong. Music made him hard.",
+      "adult": false,
+      "homepage": "http://www.walkhard-movie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jake Kasdan"],
+      "runtime": 96,
+      "synopsis": null,
+      "writers": [
+         "Judd Apatow",
+         "Jake Kasdan"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0841046/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk5NDMyNTk0N15BMl5BanBnXkFtZTcwMTQ4MDUzMw@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: John C. Reilly, Jenna Fischer, David Krumholtz | See full cast and crew »"],
+      "reviews": [
+         "As a huge fan of the previous Apatow movies, I drove recklessly through traffic to make it into an early screening of Walk Hard, and I'm happy I did. I think this movie is a different direction for Judd and his band, as it is more similar to Airplane in style than it is to Knocked Up. But that impressed me that they took that risk and made it work -- and it definitely worked as me and the rest of the theatre were laughing with regularity. Without getting too much into the details of the movie because I hate spoilers, the thing that made this movie great to me was the unexpected humor. Like Airplane, there are a lot of times when you just don't see the next line coming, and those are the best laughs. Besides John C. Reilly in the lead role, who obviously got a lot of the funniest lines, Tim Meadows as Dewey Cox's drummer really cracked me up, and Paul Rudd as Jon Lennon cracked up the entire theatre. It was definitely one of those movies where you're recalling a lot of funny parts a day later. So while it may be a different type of movie than the Apatow groups' other work, the sense of funny is still there, and I think this is up there with the best comedies of the year.",
+         "I must admit that I went into this one already thinking it would be another home run by Apatow and the gang. And they did not disappoint. John C. Reily has turned in his most comedic performance to date which is something considering his roles in Talledega Nights and Boogie Nights. Johnny Cash probably is rolling in his grave, but in laughter and not dismay. There are just too many classic moments in this film to label it as a long SNL skit as others have done. IT IS A MUST SEE! I think any review can be summed by saying that this is a comedy rock biopic in the spirit of Spinal Tap with the biting wit of a Mel Brooks film. Just Classic.",
+         "\"Walk Hard\" is a clever parody of the life of a rock-star, and bio-pics such as \"Walk the line\", \"Ray\" and \"La Bamba\". It follows the formula nearly perfectly, and follows fake rock-star legend Dewey Cox (and yes, they do have plenty of puns with his name, but this is to be expected) through his life in the 50's, 60's, 70's and into today. The surprise of \"Walk Hard\" is that although it was written by the guys who made \"Superbad\" and \"Knocked Up\", and has the \"formula spoof\" similar to \"Scary Movie\" and \"Epic Movie\", this film manages to be quite intelligent, and manages to avoid overly gross out humor. While it has its share of gross out and slapstick gags, it isn't completely idiotic, while movies such as \"Epic Movie\" or \"Talladega Nights\" tend to be totally moronic and disgusting. The humor here is very observational, self-parodying, ironic, surreal, dark and often hysterical. The reason why \"Walk Hard\" works well is because of its somewhat wicked sense of humor. It manages to ironically \"overdue\" the jokes to the point that you can see the actual funny part is that it is being overdone and over-the-top. It self implies that something is going to go bad, and makes the audience clearly see what path the scene is heading towards, which is also another part of its sense of humor. The performances are very good as well. John Reilly plays Dewey very well, and his naive but good natured persona often plays out hysterically in contrast to a society often attempting to harm him. His character does lack some substance and emotional depth, though this is to be expected in the humorous nature of the film, and is the writing, not the acting. He plays the role from ages 14 to 71, and the goofy age difference between Reilly and how old of a character he is playing is another one of the film's ironic self-aware quirky jokes, in which he constantly reminds us of his age throughout the film so we can see this, as well as the purposely awkward looking make-up. Jenna Fischer is great as his love interest and duet partner, a parody of Reese Witherspoon in \"Walk the Line\", who falls on and off for Dewey throughout the movie based on his life decisions, another movie formula cliché. Tim Meadows is hysterical as Cox' drug-addict drummer and long time friend, with all of his lines being in a tongue-in-cheek and smart-ass manner, and a hysterical repetition of scenes where he introduces Cox to drugs. All in all, the only problem with this movie is that it is quite uneven. The movie seems to spend a large time dealing with Dewey's life in the 50's, not spending much time in the 60's, 70's or 90's, and spending no time in the 80's. It jumps into his problem a bit fast and doesn't go into depth into some areas of his life as much as others. However, despite being somewhat uneven, \"Walk Hard\" remains a very entertaining, very funny, and witty movie. It is quite tragic that this opening weekend went up against the liking of nearly 4 very popular movies, resulting in a box office failure of this film. Hopefully next week, or in the future to come, this gem of a comedy (A rare thing in 2007), can be seen and gain a reputation among others.",
+         "When young Dewey Cox accidentally cuts his brother in half with a machete, it sets him on a long, hard, and winding road that traverses the most profoundly important moments in modern music history spanning the 1950's to today. \"Walk Hard\" was erroneously advertised as yet another comedic romp from Judd Apatow. While as the co-screenwriter here many of Apatow's trademarks can be found including the usual sophomoric sexual humor and ironic pop-culture references, \"The Dewey Cox Story\" is actually closer in spirit to the mocumentaries of Christopher Guest (\"This is Spinal Tap!\" and \"Best in Show\") as channeled through the spastic colon of the \"Naked Gun\" films. This is a parody played hilariously straight. The target of its mockery is so succinct and sharply pointed--the recent Oscar-winning musical biopics \"Ray\" and \"Walk the Line\"--that the film's true comedic genius may be lost on people who didn't really pay attention to those films or thought this would just be another \"Superbad.\" The film's mimesis of its source materials is so spot-on, that it even follows their same cadence and nearly falls apart midway as it glosses over many points in history and aspects of the musician's life while covering every cliché possible from the temptations of life on the road with drugs and groupies to bouts in rehab and bitter divorces to long dry periods that suddenly make way for life-altering inspiration. At the center of \"Walk Hard\" is John C. Reilly who sings and acts his heart out to hilarious effect. A former Oscar nominee for \"Chicago\", Reilly has since cut a niche for himself as the second banana to bigger comedy stars like Will Ferrell in \"Talladega Nights\" and for the first time gets a film to call his own. Tim Meadows is shockingly funny as the friend who ushers in Cox's decent into drug use (his overly accentuated but still deadpan line deliveries are priceless), while Jenna Fishcher is sprite and lovely as the June Carter cutie to Cox's Johnny Cash wannabee. Other SNL players including Kristin Wiig and Chris Parnell and Apatow alumni like Paul Rudd (as John Lennon!) and Jonah Hill pop in and out of the film amidst an onslaught of funny sight-gags and one-liners. Also in on the fun is a cavalcade of current music stars including the lead singer of the White Stipes as Elvis and Eddie Vedder as himself doing a nonsensical quasi-spiritual riff on Cox's legacy while presenting a Lifetime Achievement Award. The heart of \"Walk Hard\" is in the music. If you were to not listen so closely, you might be fooled into thinking these were actual hit songs from their respective time periods. Of course, listening to the lyrics is part of the fun. The ridiculously silly double-entendres in Cox's duet with his honey-to-be Darlene are especially funny, while I personally found their spoof of a Bob Dylan song to be downright brilliant. Since the writers took the time to be so verbose and intricate with their nonsensical free-form versing, they allowed the bit to work on multiple levels as both an homage and a biting jab at Dylan's alleged lyrical genius. Utimately \"Walk Hard\", in ways both monumentally stupid and unfathomably smart, proves to be almost too clever for its own good. It may have bombed in it's first-run at the box office, but I would imagine it will eventually find its audience. In one pivotal early scene Cox begs his wife to believe in him and his dreams of becoming a successful singer. She replies something to the effect of, \"Oh, baby, I do. I just believe you're gonna fail.\" I couldn't have said it better myself, and it still has me laughing.",
+         "There is no doubt that Walk Hard is a great parody of the musician biopic as we know it today. The film is filled with rips and references to movies such as Walk the Line and Ray. Walk Hard does all of this very well, but also has its own brand of humor and jokes that stand on their own. From the time that the opening scene rolled, I knew that I was in for a treat. Judd Apatow and Jake Kasdan show their comedic genius throughout the movie, whether it be through clever dialog between characters or the genuinely funny original songs. The music performed by Dewey Cox does a great job of parodying various styles, from Dylan to Brian Wilson. John C. Reilly is fantastic in his role as Dewey Cox and establishes himself as a solid leading man. I was also thoroughly impressed that he actually sang and played all of the music in the movie and did it well. Jenna Fischer's performance in Walk Hard may be just what her career needs right now. It's nice to finally see her breaking the mold that she has set for herself as Pam in The Office. Walk Hard also featured a wide range of current and former SNL stars, such as Kristin Wiig and Chris Parnell. In addition, some of the regulars from past Apatow films are also featured, but I don't want to ruin any surprises here. All in all, Walk Hard is a really solid comedy and a must see for any Apatow fans. If you are going to see Walk Hard, do yourself a favor and check out Walk the Line and Ray before going. It will make for a much more rewarding experience.",
+         "I thought this was a brilliant satire of the biopic genre. It was obviously borrowed from Walk the Line, but there was plenty of other stuff thrown in as well. It was a truly hilarious movie, including the scenes where the band members convince him to try the drugs, a scene with the Beatles, the variety show stuff and interviews, all the scenes with the title character smashing the sinks, and the Walk the Line spoofs. It was very well written with lots of great dialog. You will love all the cameos and other stuff. I guarantee it. This was a tailor-made role for John C. Reilly, who is perfect in and for the part, as is just about everyone in it. *** 1/2 out of ****",
+         "Walk Hard: The Dewey Cox Story (rated R). Directed by Jake Kasden. Written by Judd Apatow and Jake Kasden. Starring John C. Reilly, Jenna Fischer, Raymond J. Berry, Kristen Wiig, Tim Meadows, Harold Ramis & Chris Parnell. Running Time: 96 minutes. Originally appeared in LakewoodBuzz.com. OVERVIEW: Like the film Ray (2004), a young boy and his brother frolic in the bucolic wonderland of the American South of the 1930s. Like Walk the Line (2005), a young man leaves his loving mother and hateful father to find solace in his music. Like... well, you get the idea. This film is primarily a send-up of the musical bio-pic, as Dewey Cox (Riley) channels nearly every rock icon that ever took the stage... from Dylan, Cash, Orbison, and Presley to Brian Wilson. Like his fellow rock stars, Dewey is often tempted by drugs and sex. In a hilarious motif, he is constantly opening a door and finding his drummer, Sam (Meadows), behind it with sexy backup singers and the latest drug of choice. \"You don't want any part of this s**t,\" Sam says, and proceeds to tell Dewey all of the drug's benefits. Despite their wayward ways, Dewey and his band are discovered by a trio of Hasidic Jews and begin to record a remarkable string of number-one hits. As he cruises the decades like Forrest Gump with a guitar, Dewey meets all of his legendary contemporaries, played by uncredited actors you are likely to recognize. Watch especially for Lennon, McCartney and Buddy Holly. REVIEW: 3 out of 4 Java Mugs What is remarkable about this movie is the way we feel about the main character, Dewey Cox. It's easy to find sympathy for the likes of Johnny Cash and Ray Charles because we knew them as real people. But why do we feel so strongly about a singer we know does not really exist? Some of the credit goes to the filmmakers, who know which emotional buttons to push, but mostly we have Riley to thank. In an amazing portrayal, he takes what could have been a spoof-worthy sap and turns him into a fully developed character we really care about. Riley actually becomes Dewey Cox, by singing his heart out and even helping to write many of the film's songs. Other performances are also worthy of note, particularly Fischer's sultry Darlene, Wiig's ever-pregnant Edith and Meadows' drug-addled drummer. Though Riley's singing is quite good, it is still nice to have the likes of Lyle Lovett, Jackson Browne, Jewel, Ghostface Killah and Eddie Vedder playing themselves and singing those Dewey Cox originals. But none of the music was as brilliant as an early scene with Honeyboy Edwards singing the blues.",
+         "When I first saw the trailer to Walk Hard: The Dewey Cox Story, I didn't think much of it other than \"Oh, great, another Knocked Up wanna be\", it just seems like they won't stop with these over the top comedies. But my friend and I decided to see it the other night and I have to admit, I really did laugh. I'm almost scared to say that the creators of the Superbad, Knocked Up, 40 Year Old Virgin are doing a great job in the comedy genre. Walk Hard: The Dewey Cox Story is stupid humor, but it's definitely a need in our lives when it comes to films where we don't have to think but just enjoy. Walk Hard: The Dewey Cox Story takes a joke at the big Oscar winning biographies like Walk the Line and Ray. Some of the humor is a little out there, but works like in the days of Airplane! The story is a lot of fun to watch though. Dewey Cox is an inspiring musician with a soulful voice and the history of the blues. He is trying to do double good in his life since he accidentally macheted his brother in half. He goes on to make huge hits in life, but is constantly accused of making the \"devil's music\". But through his success, he finds a beautiful duet singer, Darlene and makes her his wife. But he goes through the life struggle of drugs, sex, and rock and roll. He learns the true meaning of life and must deal with the fact that he can't smell anything, but in the end learns more about his 22 kids. Walk Hard: The Dewey Cox Story is silly, but it's all in good fun. I have to admit that I am glad that I saw it, as stupid as it was at times, like I said, we all need those brainless comedies. I'm sure once people give Walk Hard a better chance when it comes out on rent, somewhere down the line this will be a classic. I mean, come on! It had Jack Black as one of the Beatles in the film! OK, I know that it sounds stupid, but believe me, it's funny. Walk Hard: The Dewey Cox Story is a fun comedy that I would recommend to see, you'll get a few good laughs out of it. 7/10",
+         "I've watched this movie around 50 times. Literally one of the funniest movies ever made. It would be great if it was a movie that kids could enjoy as well, but that is my only complaint. 100% adult themes and shows way too much for a responsible parent to allow children to watch. When I was a kid we had Fast Times at Ridgemont High, and Porky's. This is a hilarious movie, and I suggest watching it repeatedly since there will be a lot of things you will catch and fall over laughing at if you understand the movie at all. John C Reilly comes into a class A acting role with this one. And deserves it. Great music as well as amazing acting. I cannot recommend this movie highly enough. Love it.",
+         "And if there is a musical genre out there short of orchestral symphony, it gets sent up by this wonderful comedy. Not a movie for the kiddies by a long shot, but if you are familiar with music artists from the 50s on, and especially if you lived through those periods of time, the parody of styles and stars will leave you with sore sides from laughing. Make sure to listen closely to every lyric. They don't miss a chance to make jokes subtle or broad, and they don't take it easy on anyone. Songs in the credits are just as funny as songs through the body of the movie, so make sure to wait around for those rather than switching off after the story itself fades to black. A personal favorite of mine are the scenes where Dewey discovers new drugs. Although I've never taken drugs, even smoked marijuana, these scenes were just too funny to be offensive, especially the first discussion of the weed just named. Be in the mood to watch a comedy, especially for a parody of this type. If you can't really pay attention, you won't get everything, and will just think the movie crude. Also, if you're really stuck up about what's in your comedy, then you may not like this movie. If you're up for it, you'll die laughing."
+      ],
+      "genres": [
+         "Comedy",
+         "Music"
+      ],
+      "productionCompanies": [
+         "Apatow Productions",
+         "Columbia Pictures",
+         "GH Three"
+      ],
+      "summaries": [
+         "The up-and-down-and-up-again story of musician Dewey Cox, whose songs would change a nation. On his rock 'n roll spiral, Cox sleeps with 411 women, marries three times, has 36 kids, stars in his own 70s TV show, collects friends ranging from Elvis to the Beatles to a chimp, and gets addicted to - and then kicks - every drug known to man; but despite it all, Cox grows into a national icon and eventually earns the love of a good woman - longtime backup singer Darlene.",
+         "Singer Dewey Cox overcomes adversity to become a musical legend."
+      ],
+      "budget": 35000000
+   },
+   "movielensId": 56805,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2007-12-21",
+      "dvdReleaseDate": "2008-04-08",
+      "directors": ["Jake Kasdan"],
+      "runtime": 96,
+      "movieId": 56805,
+      "title": "Walk Hard: The Dewey Cox Story",
+      "mpaa": "R",
+      "actors": [
+         "Nat Faxon",
+         "John C. Reilly",
+         "Tim Meadows",
+         "Conner Rayburn",
+         "Chip Hormess",
+         "Raymond J. Barry",
+         "Terrence Beasor",
+         "Margo Martindale",
+         "Rance Howard",
+         "Kristen Wiig",
+         "Craig Robinson",
+         "Paul Bates",
+         "Harold Ramis",
+         "Philip Rosenthal",
+         "Martin Starr",
+         "Chris Parnell",
+         "Matt Besser",
+         "Jack McBrayer",
+         "Molly C. Quinn",
+         "John Ennis",
+         "Frankie Muniz",
+         "Ed Helms",
+         "Jack White",
+         "Angela Little",
+         "Odette Annable",
+         "Jenna Fischer",
+         "Gerry Bednob",
+         "David Krumholtz",
+         "Tim Bagley",
+         "Jane Lynch",
+         "Skyler Gisondo",
+         "Simon Helberg",
+         "Lurie Poston",
+         "Jackson Browne",
+         "Jewel",
+         "Lyle Lovett",
+         "Ghostface Killah",
+         "Eddie Vedder",
+         "Jack Black",
+         "Paul Rudd",
+         "Justin Long",
+         "Jason Schwartzman",
+         "Cheryl Ladd",
+         "Morgan Fairchild",
+         "Cheryl Tiegs",
+         "Amber Hay",
+         "John Michael Higgins",
+         "Jonah Hill"
+      ],
+      "imdbMovieId": "0841046",
+      "originalTitle": "Walk Hard: The Dewey Cox Story",
+      "genres": [
+         "Comedy",
+         "Music"
+      ],
+      "youtubeTrailerIds": ["4yzjtnj8Y3U"],
+      "plotSummary": "Singer Dewey Cox overcomes adversity to become a musical legend.",
+      "tmdbMovieId": 6575,
+      "avgRating": 3.27597,
+      "releaseYear": "2007",
+      "numRatings": 1078,
+      "posterPath": "/xq9Ro4UNCxSSGV40WUIAlNd4HaK.jpg"
+   }
+}

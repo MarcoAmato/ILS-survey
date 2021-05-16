@@ -1,0 +1,410 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "cat",
+            "id": 977
+         },
+         {
+            "name": "island",
+            "id": 2041
+         },
+         {
+            "name": "guest",
+            "id": 5333
+         },
+         {
+            "name": "fisherman",
+            "id": 5420
+         },
+         {
+            "name": "whodunit",
+            "id": 12570
+         },
+         {
+            "name": "dinner",
+            "id": 12997
+         },
+         {
+            "name": "doctor",
+            "id": 13005
+         },
+         {
+            "name": "power outage",
+            "id": 14755
+         },
+         {
+            "name": "record",
+            "id": 15079
+         },
+         {
+            "name": "nursery rhyme",
+            "id": 155467
+         },
+         {
+            "name": "record player",
+            "id": 168857
+         },
+         {
+            "name": "duplicity",
+            "id": 178993
+         },
+         {
+            "name": "mystery killer",
+            "id": 184297
+         },
+         {
+            "name": "scheming",
+            "id": 184302
+         },
+         {
+            "name": "mind game",
+            "id": 184312
+         }
+      ],
+      "imdb_id": "tt0037515",
+      "video": false,
+      "title": "And Then There Were None",
+      "recommendations": [
+         39946,
+         17590,
+         32044,
+         20127,
+         42134,
+         43601,
+         27452,
+         14554,
+         22614,
+         22828,
+         42995,
+         29451,
+         42286,
+         42228,
+         98398,
+         42325,
+         30346,
+         31587,
+         25338,
+         502
+      ],
+      "backdrop_path": "/dZltsJXhmck8KquhCVenRu5sHLx.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Judge Francis J. Quinncannon",
+               "gender": 2,
+               "credit_id": "52fe43dfc3a36847f80757e3",
+               "name": "Barry Fitzgerald",
+               "profile_path": "/qT8v92uSb19IsHxuqBGNU43iVJ6.jpg",
+               "id": 13820,
+               "order": 0
+            },
+            {
+               "cast_id": 10,
+               "character": "Dr. Edward G. Armstrong",
+               "gender": 2,
+               "credit_id": "52fe43dfc3a36847f80757eb",
+               "name": "Walter Huston",
+               "profile_path": "/17N08QrQ6Am3hQD5noz5zozGaFH.jpg",
+               "id": 19020,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Philip Lombard",
+               "gender": 0,
+               "credit_id": "52fe43dfc3a36847f80757db",
+               "name": "Louis Hayward",
+               "profile_path": "/wq8N1afM8EWDdY5eG3PPuuO6uYL.jpg",
+               "id": 39799,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Detective William Henry Blore",
+               "gender": 2,
+               "credit_id": "52fe43dfc3a36847f80757ef",
+               "name": "Roland Young",
+               "profile_path": "/cyptVAtLuiHPaYJrgq4HCamJCiB.jpg",
+               "id": 14685,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Vera Claythorne",
+               "gender": 1,
+               "credit_id": "52fe43dfc3a36847f80757df",
+               "name": "June Duprez",
+               "profile_path": "/mm5E9B39jcyzyOOGnZS1ntlTAvw.jpg",
+               "id": 39800,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Prince Nikita 'Nikki' Starloff",
+               "gender": 2,
+               "credit_id": "52fe43dfc3a36847f80757f3",
+               "name": "Mischa Auer",
+               "profile_path": "/qeOEHGEThuu7y9spmH60GdkdTUF.jpg",
+               "id": 39801,
+               "order": 5
+            },
+            {
+               "cast_id": 13,
+               "character": "Gen. Sir John Mandrake (as Sir C. Aubrey Smith)",
+               "gender": 2,
+               "credit_id": "52fe43dfc3a36847f80757f7",
+               "name": "C. Aubrey Smith",
+               "profile_path": "/u00cKiTSCbCeFLaTPL6ykgqB5AB.jpg",
+               "id": 2438,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Emily Brent",
+               "gender": 1,
+               "credit_id": "52fe43dfc3a36847f80757e7",
+               "name": "Judith Anderson",
+               "profile_path": "/ryTVWN7XI2WejLsFhicfx3yJ6y9.jpg",
+               "id": 3362,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Thomas Rogers",
+               "gender": 2,
+               "credit_id": "52fe43dfc3a36847f80757fb",
+               "name": "Richard Haydn",
+               "profile_path": "/fEUsWCS5Pd2pnarasaPIV9ksEst.jpg",
+               "id": 29283,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Ethel Rogers",
+               "gender": 1,
+               "credit_id": "52fe43e0c3a36847f80757ff",
+               "name": "Queenie Leonard",
+               "profile_path": "/a0La7jUQRkLKmK7d70jkQ3JDc1C.jpg",
+               "id": 39802,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Fred Narracott",
+               "gender": 2,
+               "credit_id": "52fe43e0c3a36847f8075803",
+               "name": "Harry Thurston",
+               "profile_path": null,
+               "id": 39803,
+               "order": 10
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43dfc3a36847f80757bf",
+               "name": "René Clair",
+               "profile_path": "/PjvHtJguNwRl2d7SWqWLmxZfwg.jpg",
+               "id": 33166,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43dfc3a36847f80757c5",
+               "name": "Agatha Christie",
+               "profile_path": "/ODuKn32LKTdE0vdPONk2FEbkcl.jpg",
+               "id": 47562,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43dfc3a36847f80757cb",
+               "name": "Lucien N. Andriot",
+               "profile_path": null,
+               "id": 39798,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43dfc3a36847f80757d1",
+               "name": "Mario Castelnuovo-Tedesco",
+               "profile_path": null,
+               "id": 29621,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43dfc3a36847f80757d7",
+               "name": "René Clair",
+               "profile_path": "/PjvHtJguNwRl2d7SWqWLmxZfwg.jpg",
+               "id": 33166,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "549afe3d925141311f001de0",
+               "name": "Dudley Nichols",
+               "profile_path": null,
+               "id": 13802,
+               "department": "Writing",
+               "job": "Screenplay"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 7.882737,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 4886,
+      "vote_count": 71,
+      "budget": 0,
+      "overview": "Ten people are invited for a weekend on an island by a mysterious stranger, but it turns out he isn't present. At dinner a record is played which accuses each one of the guests of having committed a murder. They soon begin to realize a crazed killer is stalking them.",
+      "similar": [
+         3600,
+         11010,
+         1879,
+         4593,
+         368940,
+         113947,
+         97051,
+         392011,
+         54979,
+         65317,
+         48217,
+         40345,
+         98027,
+         28733,
+         55601,
+         104941,
+         76964,
+         87245,
+         114354,
+         53161
+      ],
+      "original_title": "And Then There Were None",
+      "runtime": 97,
+      "poster_path": "/jWmloybJyoQsMXPatbGKcur4Pho.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Rene Clair Productions",
+         "id": 1801,
+         "origin_country": ""
+      }],
+      "release_date": "1945-10-31",
+      "vote_average": 6.9,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["René Clair"],
+      "runtime": 97,
+      "synopsis": "Ten people are gathered for a long weekend on an island off the coast of Devon, England. They are the guests of the mysterious Mr. and Mrs. U.N. Owen, whom none of the ten has ever actually met. During dinner, they notice the centerpiece of ten china Indian figurines, and they compare it to the nursery rhyme counting down from ten to none. After dinner, a recording suddenly blares through the room, accusing them each of the death of another person or persons. Judge Quincannon is accused of sentencing to death an innocent man named Edward Seton. Dr. Armstrong is accused of operating on a woman while drunk and causing her death. Lombard, an adventurer, is accused of allowing a group of native people to be massacred in Africa. Vera Claythorne is accused of the death of her sister's fiance. Nikki Starloff is accused of running over two people with his car. General Mandrake is accused of sending his wife's lover to be killed in the war. Miss Emily Brent is accused of causing the death of a young man by driving him to suicide. The Rogerses are accused of helping the old lady they took care of to die a little sooner than she should have so that they would inherit her money. The voice promises them justice. After this recording, the startled guests compare notes and discover they've been lured to the island under somewhat false pretenses, and they further discover that they are totally cut off from the mainland until the weekend is over. Prince Nikita Starloff suddenly chokes on his drink and dies. Nobody likes to suggest murder, but he doesn't seem the type to suddenly commit suicide. The hysterical Mrs. Rogers is given a sedative by Dr. Armstrong and her husband and the doctor get her to bed. But in the morning she is found dead. The eight remaining people make the connection from the two deaths to the nursery rhyme: \"Ten little Indian boys went out to dine; One choked his little self and then there were nine. Nine little Indian boys sat up very late; One overslept himself and then there were eight.\" They search the island for \"Mr. Owen.\" They find they are alone, and they figure one of their number is a murderer. They begin to compare stories and admit their levels of guilt. The next to die is the General, who is found dead of a knife wound down by the seashore (Eight little Indian boys traveling in Devon; One said he'd stay there and then there were seven). Each time one of the people is murdered, they find another statue gone from the centerpiece. They think Rogers is the most likely candidate for the murderer, so they make him sleep out in the woodshed. But Rogers is found dead of an ax wound to the head in the morning, and Miss Brent is missing--she is discovered walking alone down on the seashore. They want to accuse her, but while they are running around in some confusion, she is killed with a hypodermic (Seven little Indian boys chopping up sticks; One chopped himself in halves and then there were six. Six little Indian boys playing with a hive; A bumblebee stung one and then there were five). Now the remaining five realize they need to keep together in groups. They tell a little more of the truth of themselves, except Vera won't admit any guilt. While Vera, Lombard, and Blore realize that three is the safest number, the judge and the doctor agree they can form an alliance and find out the truth themselves. When the judge dies from a gunshot wound to the head next, only the doctor examines him and makes that declaration (Five little Indian boys going in for law; One got into Chancery and then there were four). Then with all the electricity gone from the house, in the darkness the remaining four lose the doctor (Four little Indian boys going out to sea; A red herring swallowed one and then there were three--he's been drowned down on the seashore), and while Vera, Lombard, and Blore get ready to go look, Blore is killed by someone pushing a piece of chimney down on him (Three little Indian boys walking in the zoo; A big bear hugged one and then there were two). Lombard and Vera are alone together, and they suspect each other. But they also feel a definite attraction to each other, and they end up agreeing that they don't really think the other is guilty. Vera pretends to shoot Lombard on the beach, and he falls as if dead (Two little Indian boys sitting in the sun; One got frizzled up and then there was one). Vera goes back up to the house and discovers there's a hangman's noose waiting for her to use it (One little Indian boy left all alone; He went out and hanged himself and then there were none). The judge is sitting in a chair, alive, and explains his plot to her. He thinks he knows that each person is guilty and that the law cannot touch them, so his plan has been to execute them all and then commit suicide. He tells Vera that if the police arrive and find nine dead bodies, they will hang her for murder, so she may as well hang herself. He drinks a glass of poison, but Vera and Lombard, who is actually not Lombard but an innocent friend of Lombard's, are left alive and in each other's arms.",
+      "writers": [
+         "Agatha Christie",
+         "Dudley Nichols"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0037515/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTMyMDA2ODE5M15BMl5BanBnXkFtZTcwNjg0NjIyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Barry Fitzgerald, Walter Huston, Louis Hayward | See full cast and crew »"],
+      "reviews": [
+         "This is a dramatization of the consummate Agatha Christie book, the benchmark for the whodunit. Each of the characters is nicely portrayed by accomplished actors. The pacing, the subdued dialogue, all make this film work, even though it was felt necessary to doctor the plot and rename characters (this I will never understand). I won't criticize because I've never felt that we should compare movies to books--they are different media--unless the plot is badly compromised. This one is not. I remember being really pleased as a young viewer that Christie is able to bring all issues to a resolution in a believable and realistic way--no hidden doors--no strange interventions. She is able to do this even in her lesser books. Sometimes it is preferable to not be open ended, leaving unfinished details. I relish this author and the movies and movie portrayals of her books. I also need to mention the music. The score is so carefully tuned to the actions of the characters. The black and white photography lends itself well to the oppressiveness of the setting where the characters find themselves. You definitely should see this film.",
+         "This may be the best mystery ever put to film. If it isn't totally true to the letter of the Christie book, it is totally true to the spirit of her writing. Ten unique individuals are lured to an old house on a deserted Channel island. One by one - but I'll say no more. Very good acting, especially Fitzgerald. If you don't know the plot, you won't figure out whodunnit, despite the fact that it plays fair. There is suspense, good humor that holds up today, fine acting and a wonderful plot. Grab a cup of hot chocolate, turn the lights down, snuggle in the blanket, and prepare to enjoy a wonderful, cozy mystery which hasn't been equaled since.",
+         "After reading all these comments I got the urge, dug out And Then There Were None and watched it the other night. I won't repeat what has been said here so many times, only that it has to be one of the greatest films of all time. What a cast!! The best character actors of the 30's and 40's, many in the twilight of their careers. It's difficult to pick out superior performances. I did, however, take note that Louis Hayward gave a standout performance as Philip Lombard, and he had to be with this competition. He really was a fine actor, who incidentally, moved like a cat, a close match to the Lombard film character as envisioned by Agatha Christie. A couple of his other outstanding films come to mind: The Man in the Iron Mask and the seldom if ever shown, Ladies in Retirement. In the credits, he was also listed as one of the three stars of the film: BARRY FITZGERALD, WALTER HUSTON and LOUIS HAYWARD. The following screen shows the rest of the distinguished cast as supporting players. The musical score is as good as the cast, alternatively moody and eerie. June Duprez comes off very well against the competition as the vulnerable Miss Claythorne. I cannot forget how exquisitely beautiful she was in color in The Thief of Bagdad (1940). The book itself was excellent (I read it over 60 years ago) however, while I would indeed watch the film repeatedly I would not go out of my way to read the book once more. P.S. (5/20/2007) Still a fan of ATTWN, I have just finished a 2001 audio version, read by Hugh Fraser (Hercule Poirot's TV sidekick). This is a six-hour, complete and unabridged version of the book which includes all the material omitted in the film and with original ending intact. At first blush, six hours might seem rather too long but believe me it just gets better and better right on through to that unique ending which has never been equaled in filmdom, and likely never will.",
+         "No Agatha Christie story has ever been made into a better movie than this one. The movie has the altered ending from the book (which I'm told was changed by Christie for the stage version because let's face it. The book's ending would never *ever* work in a dramatized setting, film or stage) and the character of Tony Marston has become a Russian prince to accomodate the casting of Mischa Auer, but apart from that Christie's book has been flawlessly translated right down to the last detail. The look, the settings, the characters, all of it is just right. There are also some wonderfully comedic performances that veer into some delicious black comedy at times (my favorite being Louis Hayward's bemused response to Roland Young's bumbling deductions: \"And then he takes the chopper and splits open his own cranium. Fact. I'd like to see you do that yourself.\") About the only casting flaw is June Duprez, who is woefully bland and dull as Vera Claythorne, the lead female character.",
+         "Rene Clair weaves the quintessential spider web with brilliant camera work including unusual but effective angles, snappy dialogue, and magnificent performances by ten impeccably cast artists. The viewer is drawn into the anxiety, claustrophobia, terror, and resignation felt one-by-one by each of the twelve weekend \"guests\" of Mr. Owen. Any mystery, suspense or thriller fan will be incomplete without seeing this work of absolute genius. My score: 10+/10.",
+         "Here's another movie that I never felt was anything but fair, but I kept giving it more chances and every time I did, my rating went up. It seems to get better and better with multiple viewings. One of the reasons is that the more films I watch, the more I get familiar with all these actors. If you didn't know any of these actors, the movie would be \"fair\" at best. You can bet if the story were re-done today, it would be faster moving. As it stands, its okay but a film in which 10 people are invited to an island and are systematically murdered one by one, should make for a tense thriller. Here, it's more of a study in paranoia, but that's interesting to view, too. I especially enjoy watching Walter Huston and Barry Fitzgerald banter back-and-forth. The ending to this mystery was well-done, too, and not something you're likely to solve. So, if you like the old classic mysteries, this should be appealing. It features an interesting cast of young and old actors, male and female.",
+         "Rene Clair's masterful direction takes Christie's classic novel up to a new dimension more suitable for cinema. Every character is perfectly realized by magnificent acting. My favorite is C. Aubrey Smith who portrays General Mandrake with a British subtlety that cannot be understood fully by today's American viewers. But why quibble? Every cast member is perfect. Roland Young may actually be the most instrumental as Blore in keeping the films wit intact and never allowing it to get too serious. Barry Fitzgerald is terrific as the Judge, and Huston perfection itself as the charming, albeit alcoholic, doctor. Dame Judith Anderson, perhaps the best supporting actress of all time, dominates every seen she is in as a sinister spinster. But, of course, there is a lead, and in the hands of a lesser actor, he could have wound up being a feckless straight man to all the great character actors around him. With Louis Hayward as Mr. Lombard, the character more than holds his own with all challengers, and has an especially nice chemistry with Young. And although June Duprez is slightly out of her league as a thespian, she is plucky and capable enough, with Hayward's help, to pull off her role just fine. The atmosphere, photography, and soundtrack are all artistic perfection. This movie is a true treat for all the senses.",
+         "Ten disparate people including a husband and wife butler and maid team have been employed and gathered on an island with a large mansion. During dinner as per instructions a record is played accusing each of the guests of the crime of murder in which they were never punished. Then one by one like the nursery rhyme about the ten little Indians, each dies. And Then There Were None is your typical Agatha Christie murder mystery with a very closed circle of suspects. After concluding that there is no hidden eleventh person on the island, it's got to be one of the guests. Director Rene Claire assembled a fine cast of very stylish players each perfectly fitting their assigned roles. With a group like this it's hard to pick out favorites, but I do have a few here. Walter Huston is a doctor accused of a malpractice murder is my favorite. He was drunk during the operation and he seems always ready for a shot for all occasions. What happens to him is rather fitting. Running a close second is Roland Young who is a seedy two bit gumshoe who committed perjury and sent a man to prison where he died. It's his profession to try and figure it out and he's constantly coming up with a wrong solution. First billed in the cast is Barry Fitzgerald on the strength of his Oscar winning Best Supporting Actor performance in Going My Way the year before. He's a judge who knowingly sent an innocent man to the gallows. His role is about as far from Father Fitzgibbon as you can get. He's got some pet theories of his own and a scheme to catch the killer. What's nice about this production is that there are no big box office names here to distract. Just a great ensemble cast working perfectly together. As in most Agatha Christie murders when all is revealed, the whole thing makes perfectly logical sense. But what's good about this is, it's not just who did it, but who will survive?",
+         "Why quibble about the ending? I know it's not the same as the book's final scene, but since Agatha Christie herself changed it for the stage version--sensibly (because the book's ending doesn't work dramatically)--there's no reason to feel cheated. It's still one of the cleverest ideas for a mystery--ten people invited to an old house by the sea so that an unknown host can dispose of them one by one. Under Rene Clair's direction, there's a great deal of humor thrown in. Add to that, enjoyable performances from a first-rate cast of character actors--Barry Fitzgerald, Judith Anderson, Walter Huston, Louis Hayward and the always dependable Richard Haydn as Rogers, the butler. June Duprez is the only weakness in the cast members, showing little emotion throughout. The atmosphere is brooding, the chills are delicious, and you can rewind your VHS print to spot Agatha's give-aways. One of the best mysteries of all time, but don't waste your time on the later remakes. This version is the genuine product.",
+         "I have a theory that all her life Dame Agatha Christie hoped she would plot the perfect murder case mystery. She certainly entertained the world doing so, with way over sixty novels, books of short stories, and plays, most of which actually dealt with homicide in one form or another. Despite the sometimes too perfect clockwork that her plots could degenerate into, she was one of the masters of the form. I don't think any other mystery novelist ever found as many variations on the central theme of a detective story as she did. Of all her plots, that of AND THEN THERE WERE NONE / TEN LITTLE INDIANS was possibly her greatest achievement (the nearest competitor is an inverted form of it, MURDER ON THE ORIENT EXPRESS). Yet in every film version of the plot the perfection of the story is short circuited in the interest of \"justice\". Christie's original intention was that the ten people brought together to the ill-fated locale were to be found dead, and without any survivor the mystery would be apparently unsolved (though even Christie hedged her bet by having the perpetrator leave a written confession/explanation). But as the versions are now, the perpetrator is outwitted by two would-be victims at the last moment, thus leaving two survivors. The best version of the novel was this one. It was directed by French director in exile (due to World War II) Rene Clair. Of his American films this one is the most revived. Whether it is better than I MARRIED A WITCH or FLAME OF NEW ORLEANS is another matter, as they are all clever films. Clair was well served by a great cast of character actors, most of whom were victims in the story: Barry Fitzgerald, Walter Huston, Roland Young, Sir C. Aubrey Smith, Mischa Auer, Judith Anderson, and Richard Haydn did the best with their parts. Louis Hayward and June Duprez were more than adequate as the two lovers in the plot. The secret of this film's success is that Clair treated the subject of murder lightly (to an extent). An example: Mischa Auer as a careless playboy explaining how he killed someone while driving drunk, and playing the piano while doing so - thoroughly bored looking while explaining what he did. A moment later he is gasping for breath as poison was added to his highball. He's the first victim. The key is that all the invitees to this island were acquitted of acts of homicide or manslaughter on technicalities. They all were apparently quite guilty, but lucky. So the viewer is somewhat torn after awhile - you don't like people who get away with murder, but as each one is wiped out by the mysterious host/killer we find ourselves sympathizing with their helpless plight. The original ending kept this sympathy up to the conclusion. But the improved (?) conclusion manages to dissipate this sympathy in the search for achieving a degree of justice for the victims. Oddly it still works, and the sense of impish humor is maintained even after the killer is revealed and destroyed."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": ["Rene Clair Productions"],
+      "summaries": [
+         "Ten people are invited for a weekend on an island by a Mr U. N. Own, but he isn't on the island. At dinner a record is played, by that all the people are accused of murder, suddenly the first of them is dead, then the next... It seems to be that one of them is the murderer Mr. U. N. Own, but the person in suspect is always the person who is murdered next. At last only two people seem to be left.",
+         "Judge Francis J. Quinncannon, Dr. Edward G. Armstrong, Philip Lombard, Detective William Henry Blore, the secretary Vera Claythorne, Prince Nikita 'Nikki' Starloff, Gen. Sir John Mandrake and Emily Brent are invited by the mysterious Mr U. N. Own to spend the weekend in an island and they are hosted by the newly-hired butler Thomas Rogers and his wife and housekeeper Ethel Rogers. Thomas explains that Mr. Own will arrive later and following the instructions of his master, he plays a record where the host explains that all of them have been accused of murder. Further, they realize that none of them actually knows Mr. Own. Vera plays a song about Ten Little Indians on the piano and they see a decoration on the table with ten Indians. Soon they are killed one-by-one while the each Indian vanishes from the decoration. Who might be the mysterious killer?",
+         "On a remote and isolated island, ten people - 8 invited guests and two servants - find themselves facing their own deaths. Their unidentified host informs them, via a gramophone record, that as they have all been responsible for someone's death, they in turn will die before the weekend is out. There is no way for any of them to flee the island, so they set about trying to determine who their hidden host might be and where he might be hiding. One by one, the guests are killed and one of them suggests that the killer is likely among them.",
+         "Based on a novel and subsequent stage play by Agatha Christie; ten people are invited to an isolated island, only to be killed one-by-one. Could one of them be the killer?"
+      ],
+      "budget": 0
+   },
+   "movielensId": 4969,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1945-10-31",
+      "dvdReleaseDate": "1999-06-08",
+      "directors": ["René Clair"],
+      "runtime": 97,
+      "movieId": 4969,
+      "title": "And Then There Were None",
+      "mpaa": "NR",
+      "actors": [
+         "Barry Fitzgerald",
+         "Walter Huston",
+         "Louis Hayward",
+         "Roland Young",
+         "June Duprez",
+         "Mischa Auer",
+         "C. Aubrey Smith",
+         "Judith Anderson",
+         "Richard Haydn",
+         "Queenie Leonard",
+         "Harry Thurston"
+      ],
+      "imdbMovieId": "0037515",
+      "originalTitle": "And Then There Were None",
+      "genres": [
+         "Crime",
+         "Drama",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": ["mQ5MDXW7v5w"],
+      "plotSummary": "Ten people are invited for a weekend on an island by a mysterious stranger, but it turns out he isn't present. At dinner a record is played which accuses each one of the guests of having committed a murder. They soon begin to realize a crazed killer is stalking them.",
+      "tmdbMovieId": 4886,
+      "avgRating": 3.87733,
+      "releaseYear": "1945",
+      "numRatings": 860,
+      "posterPath": "/8c8fTPjzCJQoFODrncgztewulyj.jpg"
+   }
+}

@@ -1,0 +1,816 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "witch",
+            "id": 616
+         },
+         {
+            "name": "magic",
+            "id": 2343
+         },
+         {
+            "name": "strong woman",
+            "id": 2660
+         },
+         {
+            "name": "fairy tale",
+            "id": 3205
+         },
+         {
+            "name": "female killer",
+            "id": 9693
+         },
+         {
+            "name": "female soldier",
+            "id": 11024
+         },
+         {
+            "name": "snow white",
+            "id": 169341
+         },
+         {
+            "name": "female empowerment",
+            "id": 191731
+         },
+         {
+            "name": "huntsman",
+            "id": 211392
+         },
+         {
+            "name": "woman empowerment",
+            "id": 234975
+         },
+         {
+            "name": "wicked woman",
+            "id": 238343
+         }
+      ],
+      "imdb_id": "tt2381991",
+      "video": false,
+      "title": "The Huntsman: Winter's War",
+      "recommendations": [
+         58595,
+         262504,
+         241259,
+         205584,
+         266647,
+         68735,
+         278927,
+         299687,
+         258489,
+         274854,
+         308531,
+         131634,
+         68737,
+         291805,
+         205775,
+         76757,
+         267860,
+         278154,
+         150689,
+         58431
+      ],
+      "backdrop_path": "/nQ0UvXdxoMZguLuPj0sdV0U36KR.jpg",
+      "revenue": 164602163,
+      "reviews": [
+         {
+            "author": "Reno",
+            "id": "57ed838fc3a3686cfa0002a3",
+            "content": "**The Huntsman and his romance caught between the two evil sisters.**\r\n\r\nThis is a sequel as well as a prequel to the 2012 film 'Snow White and Huntsman'. It opened with the earlier story where and how the Huntsman grew up, especially the journey of his innocent childhood to a great fighter that covers in the first half an hour. And then it skips for about 7 years where the original film takes place, but immediately begins where it had ended in the first half, as well as the first film. Actually, not a bad film as I have heard of it, but same as the previous film that stands just above the average and slightly loses some decibel rating.\r\n\r\nThe actors were good though. Emily Blunt, Jessica Chastain and Charlize Theron, wow, super hot women, but sadly they are in fairytale costume. Their performances were great, but the characters, particularly the two sisters resemble the 'Frozen's Anna and Elsa. You can feel how desperate was the filmmakers to avoid such comparisons by viewers, so they developed the story very far from any string attached to that famous animation. In the end these things are unavoidable, since the story is not fresh enough to claim its independent status.\r\n\r\nChris Hemsworth was okay, I hope he won't return for the third film. It is a decent watch, and I think it will remain as an duology, for right now it seems a good idea. The problem is it was being made a dark-fantasy to appeal the grown ups, particularly men. But it should have been a children's film where adults too can enjoy like the Disney's 'Maleficent'. Except the opening the rest of the story seemed very ordinary. Though the action sequences were enjoyable and so the film with a low expectation, or the purpose of the watch is the timepass.\r\n\r\n_6/10_",
+            "url": "https://www.themoviedb.org/review/57ed838fc3a3686cfa0002a3"
+         },
+         {
+            "author": "Per Gunnar Jonsson",
+            "id": "58b830b5925141272a009d77",
+            "content": "This is kind of a prequel and a sequel to Snow White and The Huntsman. It is not as impressive as the first movie but quite good anyway. I would call it a nice family movie although probably not for the youngest members of the family.\r\n\r\nThe story is partly before and partly after the events in Snow White and The Huntsman. It is a good adventure with plenty of magic and special effects and a fair bit of action. It is a fairly straightforward story without much in terms of surprises.\r\n\r\nThere is a bit of comical relief in particular by the dwarfs, especially when the two dwarfs following the huntsman encounters the grumpy female one and her friend.\r\n\r\nApart from the classical Snow White setting, quite good special effects and quite decent action this is a fairly normal fantasy adventure movie. It is about two hours of good fun but does not really reach wow-status.",
+            "url": "https://www.themoviedb.org/review/58b830b5925141272a009d77"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "The Huntsman",
+               "gender": 2,
+               "credit_id": "5409a39ec3a36812c30019a0",
+               "name": "Chris Hemsworth",
+               "profile_path": "/lrhth7yK9p3vy6p7AabDUM1THKl.jpg",
+               "id": 74568,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Ravenna",
+               "gender": 1,
+               "credit_id": "5409a3acc3a36812bf0019bd",
+               "name": "Charlize Theron",
+               "profile_path": "/k5Xt2mNlraX7yHYaPy9gvayCaKV.jpg",
+               "id": 6885,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Freya",
+               "gender": 1,
+               "credit_id": "54d9eb979251410659000f10",
+               "name": "Emily Blunt",
+               "profile_path": "/w5bjRgGy3vNkJqY97kbvTp7ldxb.jpg",
+               "id": 5081,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Sara",
+               "gender": 1,
+               "credit_id": "54ee14f9c3a3686b9a001df7",
+               "name": "Jessica Chastain",
+               "profile_path": "/nkFrkn5NZVGWb4b2X0yIcXezhyt.jpg",
+               "id": 83002,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Nion",
+               "gender": 2,
+               "credit_id": "552f5e1a9251415be8001343",
+               "name": "Nick Frost",
+               "profile_path": "/33zuHnAnM1aiUbDZX84GR7UQjTa.jpg",
+               "id": 11109,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Mrs. Bromwyn",
+               "gender": 1,
+               "credit_id": "552f5e289251413838004a6f",
+               "name": "Sheridan Smith",
+               "profile_path": "/symLweoFeiMspKtOJUzvu6t5o86.jpg",
+               "id": 110080,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Gryff",
+               "gender": 2,
+               "credit_id": "552f5e31c3a3685951001b56",
+               "name": "Rob Brydon",
+               "profile_path": "/iCa4EjmVk9DT9YywWGgPSgjDok2.jpg",
+               "id": 47632,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Doreena",
+               "gender": 1,
+               "credit_id": "552f5e3a9251415be8001348",
+               "name": "Alexandra Roach",
+               "profile_path": "/uq7ED5TfV3IQkMDbUzsHD7KoarT.jpg",
+               "id": 237020,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "William",
+               "gender": 2,
+               "credit_id": "564a6de6c3a3686037000e28",
+               "name": "Sam Claflin",
+               "profile_path": "/8DVC5uMFX00G0sLIE0bBaF6nC3U.jpg",
+               "id": 237455,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Duke of Blackwood",
+               "gender": 2,
+               "credit_id": "564a6e0a9251414dcb000df7",
+               "name": "Colin Morgan",
+               "profile_path": "/p7Q7zx4e3auqfkPmXsjxtiqAYuz.jpg",
+               "id": 228866,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Pippa",
+               "gender": 1,
+               "credit_id": "564a6e1c9251414dd1000d56",
+               "name": "Sophie Cookson",
+               "profile_path": "/5uD97ej1SS9P4Pq1LmI0wnLckss.jpg",
+               "id": 1282054,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Leifr",
+               "gender": 2,
+               "credit_id": "564c9e96c3a36860370074d8",
+               "name": "Sam Hazeldine",
+               "profile_path": "/12ev9KVmZ1xF4FNeZFGYRHjvJkQ.jpg",
+               "id": 563559,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Bar Wench",
+               "gender": 0,
+               "credit_id": "564c9ed4925141594d002089",
+               "name": "Lynne Wilmot",
+               "profile_path": "/6BdHadavXYHRTYfmdn63Yztauzg.jpg",
+               "id": 1278497,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Voice and Music",
+               "gender": 2,
+               "credit_id": "56bfbef1925141699c000c17",
+               "name": "Alejandro Cuello",
+               "profile_path": "/qWUgYumDG7b1ZJYN5ZNV2RetiVB.jpg",
+               "id": 1577027,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Narrator",
+               "gender": 2,
+               "credit_id": "5709ac19925141214c001132",
+               "name": "Liam Neeson",
+               "profile_path": "/9mdAohLsDu36WaXV2N3SQ388bvz.jpg",
+               "id": 3896,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Tull",
+               "gender": 2,
+               "credit_id": "57af317bc3a36802dc0028ca",
+               "name": "Sope Dirisu",
+               "profile_path": "/jcf6BRR0OTSVZpLmd1clqs6qzGx.jpg",
+               "id": 1479869,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Young Eric",
+               "gender": 0,
+               "credit_id": "57af322692514172c9002c0b",
+               "name": "Conrad Khan",
+               "profile_path": "/pzGGSwfJTdREMdloohHaVww22Ma.jpg",
+               "id": 1665602,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Young Sara",
+               "gender": 0,
+               "credit_id": "57af32bdc3a36821c6004f7f",
+               "name": "Niamh Walter",
+               "profile_path": "/yUZz0EvLG1Yuf6IMR2JvgY5n0tN.jpg",
+               "id": 1665603,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Young Tull",
+               "gender": 2,
+               "credit_id": "57af338ec3a36821c6004ff4",
+               "name": "Nana Agyeman-Bediako",
+               "profile_path": "/c9l8GQaU1i46rHsO26CXv076jos.jpg",
+               "id": 1665604,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Young Pippa",
+               "gender": 1,
+               "credit_id": "57af345a9251412f4e007589",
+               "name": "Amelia Crouch",
+               "profile_path": "/bOpQEllVDSZlVhmTqz8L0F7tNmI.jpg",
+               "id": 1538417,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "Mirror Man",
+               "gender": 2,
+               "credit_id": "57af34b69251410a14005407",
+               "name": "Fred Tatasciore",
+               "profile_path": "/lNe4zn9fJ302GehQVaFk5BNcGGM.jpg",
+               "id": 60279,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Barkeep",
+               "gender": 2,
+               "credit_id": "57af350cc3a36878b40060eb",
+               "name": "Ralph Ineson",
+               "profile_path": "/zqvpAuiocN9hHjg6f9Dqu2S8y9x.jpg",
+               "id": 202032,
+               "order": 21
+            },
+            {
+               "cast_id": 32,
+               "character": "King",
+               "gender": 2,
+               "credit_id": "57af3603c3a36803ac002c4b",
+               "name": "Robert Portal",
+               "profile_path": "/hj0DXrM67C9PIFnK81cE7m7hySk.jpg",
+               "id": 121606,
+               "order": 22
+            },
+            {
+               "cast_id": 33,
+               "character": "Nobleman",
+               "gender": 2,
+               "credit_id": "57af365c9251417319002f21",
+               "name": "Robert Wilfort",
+               "profile_path": "/3G0QlJyhhVLvs9yTSjo4h89ce1k.jpg",
+               "id": 72313,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Lead Soldier",
+               "gender": 2,
+               "credit_id": "57af36efc3a36803ac002ca9",
+               "name": "David Mumeni",
+               "profile_path": "/tWt0hxigKzGu3zs0DFhhmRjoXZw.jpg",
+               "id": 1619648,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Freya's Lady in Waiting",
+               "gender": 0,
+               "credit_id": "57af3847c3a368035900304a",
+               "name": "Kara Lily Hayworth",
+               "profile_path": "/taKspozJe98ClQzITulHV0lhFKv.jpg",
+               "id": 1347128,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Eric's Mother",
+               "gender": 1,
+               "credit_id": "57af387d9251410a140055bd",
+               "name": "Madeleine Worrall",
+               "profile_path": "/ry4VtpQm7oAmW817LuoFm0LYgHJ.jpg",
+               "id": 1502431,
+               "order": 26
+            },
+            {
+               "cast_id": 38,
+               "character": "Huntsman Lookout",
+               "gender": 2,
+               "credit_id": "57af3951c3a36803730031d0",
+               "name": "Chinna Wodu",
+               "profile_path": "/9hffavIhZZnfz1WJexmMbc0qp6j.jpg",
+               "id": 1662778,
+               "order": 27
+            },
+            {
+               "cast_id": 39,
+               "character": "Servant",
+               "gender": 2,
+               "credit_id": "57af399192514172c9002f7a",
+               "name": "Andrew Rothney",
+               "profile_path": "/4fX568uHXBfZeHsuFBb5Qw4C6l5.jpg",
+               "id": 1626685,
+               "order": 28
+            },
+            {
+               "cast_id": 40,
+               "character": "Huntsman Guard",
+               "gender": 2,
+               "credit_id": "57af39fc925141289d004e05",
+               "name": "Tim Delap",
+               "profile_path": "/qjGJ1LYD1PM7ImM1DQh8az3mOvX.jpg",
+               "id": 1256622,
+               "order": 29
+            },
+            {
+               "cast_id": 41,
+               "character": "Huntsman #1",
+               "gender": 0,
+               "credit_id": "57af4354c3a368368b00046d",
+               "name": "Antony Acheampong",
+               "profile_path": "/uJ1EzaslDWPuihRwbWJwTQDsxja.jpg",
+               "id": 1665609,
+               "order": 30
+            },
+            {
+               "cast_id": 42,
+               "character": "Huntsman #2",
+               "gender": 0,
+               "credit_id": "57af4449c3a368368b0004de",
+               "name": "Ian Davies",
+               "profile_path": "/xJSfDE9wJOnRbbclh87aOryOhBi.jpg",
+               "id": 1665610,
+               "order": 31
+            },
+            {
+               "cast_id": 43,
+               "character": "Huntsman #3",
+               "gender": 2,
+               "credit_id": "57af4569c3a36803ac0032d6",
+               "name": "George Watkins",
+               "profile_path": "/gXq69wRIIwKE0ct8DjvjFT31ZMv.jpg",
+               "id": 1665611,
+               "order": 32
+            },
+            {
+               "cast_id": 44,
+               "character": "Huntsman #4",
+               "gender": 2,
+               "credit_id": "57af46bcc3a368368e000604",
+               "name": "Aj Bediako",
+               "profile_path": "/wyxA8KdBDMWvzDkFTnIAKkPqMBY.jpg",
+               "id": 1665612,
+               "order": 33
+            },
+            {
+               "cast_id": 45,
+               "character": "Snow White Soldier",
+               "gender": 2,
+               "credit_id": "57e113f1925141045c004f52",
+               "name": "Sam Coulson",
+               "profile_path": "/MzZtlmo43KbRpnlAFS8HzsMrT3.jpg",
+               "id": 1682524,
+               "order": 34
+            },
+            {
+               "cast_id": 46,
+               "character": "Soldier",
+               "gender": 2,
+               "credit_id": "57e115f3c3a36853e3005706",
+               "name": "Ryan Donaldson",
+               "profile_path": "/fBJCmrPUFq2Dm1bm8oSFd8cxvOe.jpg",
+               "id": 1682525,
+               "order": 35
+            },
+            {
+               "cast_id": 37,
+               "character": "Soldier",
+               "gender": 2,
+               "credit_id": "57af38b2925141731900300d",
+               "name": "Osi Okerafor",
+               "profile_path": "/xghHoaAXvM6mqGK74G6IB2qXwYi.jpg",
+               "id": 1324655,
+               "order": 36
+            },
+            {
+               "cast_id": 48,
+               "character": "Woman on Cart",
+               "gender": 1,
+               "credit_id": "57e117a9c3a36853e60052a6",
+               "name": "Maya Wasowicz",
+               "profile_path": "/21ftDcRYg0pZxtWr7Saic0GywMH.jpg",
+               "id": 1682527,
+               "order": 37
+            },
+            {
+               "cast_id": 47,
+               "character": "Child",
+               "gender": 2,
+               "credit_id": "57e116e292514104490053dd",
+               "name": "Yusuf Hofri",
+               "profile_path": "/3iMtJZLLifXL4ISaDSDYX15rFj4.jpg",
+               "id": 1682526,
+               "order": 38
+            },
+            {
+               "cast_id": 49,
+               "character": "Child",
+               "gender": 2,
+               "credit_id": "57e11903c3a36853e600530f",
+               "name": "Eshan Gopal",
+               "profile_path": "/tqAp4GvwARI22nD2xusPLTva34l.jpg",
+               "id": 1682528,
+               "order": 39
+            },
+            {
+               "cast_id": 50,
+               "character": "Huntswomen (uncredited)",
+               "gender": 1,
+               "credit_id": "57e119a19251410457005278",
+               "name": "Jadey Duffield",
+               "profile_path": "/kebruDyEbPJ95uY4icM8lwc4m0X.jpg",
+               "id": 1585960,
+               "order": 40
+            },
+            {
+               "cast_id": 51,
+               "character": "Huntsman Instructor (uncredited)",
+               "gender": 2,
+               "credit_id": "57e119b3c3a36853e6005344",
+               "name": "Karl Farrer",
+               "profile_path": "/rJVVZsfl1VEapNEVKZa7S2GGy9S.jpg",
+               "id": 1654739,
+               "order": 41
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "552f5dd59251413b3b002be0",
+               "name": "Cedric Nicolas-Troyan",
+               "profile_path": "/oY4uK0KikdZzhlo1ZI8ilw1qAIE.jpg",
+               "id": 1454884,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552f5dfb92514136ed001cdd",
+               "name": "Craig Mazin",
+               "profile_path": "/c59ILZnJ8RHlVvRLzIm1Viu9l0k.jpg",
+               "id": 35796,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552f5e09c3a3685951001b4e",
+               "name": "Evan Spiliotopoulos",
+               "profile_path": "/xxpG0j3g2IJY3EPy9tUbdsABfCC.jpg",
+               "id": 80675,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552f5e52c3a3686be2005716",
+               "name": "Phedon Papamichael",
+               "profile_path": "/vsALQXJ7XDO3VPwS4kEYtqqLkeV.jpg",
+               "id": 432,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552f5e9292514136ed001d06",
+               "name": "Joe Roth",
+               "profile_path": "/lUtmB3mtMPrA5hhoEwZBeX1U5uL.jpg",
+               "id": 18311,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "573c9553c3a3687dad0001ba",
+               "name": "James Newton Howard",
+               "profile_path": "/5UTEMYS7rydwe7ooOmj2dLRFuu2.jpg",
+               "id": 1213,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a5c042c3a3684025010419",
+               "name": "Evan Daugherty",
+               "profile_path": null,
+               "id": 228135,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a2f84b7925141032c173307",
+               "name": "Liang Yang",
+               "profile_path": "/z6UgXBqpbrrwikfJkeFoSvFUzqu.jpg",
+               "id": 1645047,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aa718379251415e39013664",
+               "name": "Halsey",
+               "profile_path": "/d3rzshqj1A3t41TyRGuLHZpApYp.jpg",
+               "id": 1997030,
+               "department": "Sound",
+               "job": "Songs"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 20.359477,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 290595,
+      "vote_count": 2001,
+      "budget": 115000000,
+      "overview": "As two evil sisters prepare to conquer the land, two renegades\u2014Eric the Huntsman, who aided Snow White in defeating Ravenna in Snowwhite and the Huntsman, and his forbidden lover, Sara\u2014set out to stop them.",
+      "similar": [
+         767,
+         50456,
+         15472,
+         58595,
+         68728,
+         2312,
+         411,
+         808,
+         34584,
+         27022,
+         37430,
+         11412,
+         284052,
+         62764,
+         12445,
+         671,
+         672,
+         674,
+         675,
+         809
+      ],
+      "original_title": "The Huntsman: Winter's War",
+      "runtime": 114,
+      "poster_path": "/b77l5vmp6PYsc98LE6Uf1mXtmHh.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Roth Films",
+            "id": 16314,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Perfect World Pictures",
+            "id": 10338,
+            "origin_country": "CN"
+         }
+      ],
+      "release_date": "2016-04-06",
+      "vote_average": 6.1,
+      "belongs_to_collection": {
+         "backdrop_path": "/xZWmMCp9DwKlcu2yEzVFN7ggpGu.jpg",
+         "name": "The Huntsman Collection",
+         "id": 393379,
+         "poster_path": "/qQ3vWrNroNSJyPGRjsrgzNghTux.jpg"
+      },
+      "tagline": "The story before Snow White",
+      "adult": false,
+      "homepage": "http://www.thehuntsmanmovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Cedric Nicolas-Troyan"],
+      "runtime": 114,
+      "synopsis": null,
+      "writers": [
+         "Evan Spiliotopoulos",
+         "Craig Mazin"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2381991/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMmI5ZjBjZmMtNTQwOC00YWJjLThkNmUtOTY2ZDkwMmI2ZmU4XkEyXkFqcGdeQXVyMTQ1ODEyNjA@._V1_UY268_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Chris Hemsworth",
+         "Jessica Chastain",
+         "Charlize Theron"
+      ],
+      "reviews": [
+         "Some people really need to get over themselves, judging by some of the reviews for this film. It is a fantasy based on children's stories - what the hell were they expecting, Hamlet or Henry V? It was a fun ride with plenty of action, plenty of humour, and a great cast - Chris Hemsworth brings his usual cheery action hero to the mix, Jessica Chastain was a good addition as The Huntsman's wife, and Emily Blunt played the fragile Ice Queen wonderfully well. The Dwarfs were comic relief as always, but it worked well with fewer of them and a couple of females in the mix. The story wasn't overcomlicated but if I want that, I'll go watch Memento. Chill out a little, folks.",
+         "The cast is nice , Chris Hemsworth , Charlize Theron , Jessica Chastain and Emily Blunt are all accomplished actors and they did their roles well. The story had an obvious ending and an obvious twist but then that's not what the movie was all about. If you want to watch an action packed fantasy drama with some decent CGI effects and decent acting , well you cant discount this film . I personally found this better than the first one as the first one was tad slower and seemed to drag on a bit perhaps more so because of snow white and her frozen acting . Here the frost queen acted more fluidly . I did enjoy the CGI as well because it was not over used and the colouring of the gold with black in contrast with the ice queens blue and white went really well. In my opinion its definitely worth a watch.",
+         "'Snow White and the Huntsman' from personal opinion was neither a good or awful film. It was visually stunning and had a terrific Charlize Theron, but suffered from a badly miscast Kristen Stewart, a clunky script and muddled story. 'Huntsman: Winter's War' was at times enjoyable, but uneven prequel/sequel. It has elements that are superior, but also some inferior elements too. The best asset is the production values. The film is very beautiful to look at, with luscious but also atmospheric photography, Gothic but also elegant and rustic set and scenery design and lavish costumes, particularly Ravenna and Freya. Most of the special effects are fine, especially the ones for the golden mirror liquid and ice. There is an exception and that was the forest beast, which had a cheaply rendered video game look and didn't mesh with the background. Once again, James Newton Howard's score complements very well, it's beautifully orchestrated, rousing, elegiac, atmosphere-enhancing and very involving. This said, the one for 'Snow White and the Huntsman' is better and more inspired, the score here also has a few forgettable moments and doesn't really stand out among other fantasy-adventure scores and occasionally derivative. There are good performances here, Emily Blunt's sinister and moving Freya standing out. Another standout is Charlize Theron, Ravenna is far less developed (Freya is a much more interesting character here, and the only one that's developed well) and somewhat one-dimensional as a villain, but Theron makes the most of her limited screen time, bringing great energy, an at times camp edge (though mostly there is more subtlety) and menace. Rob Brydon, Nick Frost and Sheridan Smith bring some welcome comic relief, this could have easily jarred but was actually a breath of fresh air. The final twenty minutes are thrilling, and the action is slickly edited and choreographed. Other elements are mixed. Cedric Nicolas-Troyan's direction has solid moments and shows a mastery of visual style, more so than Rupert Sanders for 'Snow White and the Huntsman', but he isn't quite so good stopping the pace flagging or smoothing over narrative cracks. Was mixed on Chris Hemsworth and Jessica Chastain. Hemsworth does have brooding charisma and looks more comfortable, but has a tendency to slur his words and his accent sounds like three different ones constantly changing. Chastain is a great actress and does bring pathos and nuances to her character, but again her accent is unconvincing, with a mix of Scottish and Irish. Their chemistry is much stronger than Hemsworth's and Stewart in 'Snow White and the Huntsman', due to that there actually is some. Elements here underwhelm drastically. The script is underwritten, simplistic and clunky, with many awkward parts and only properly shining with the dwarfs. The story has some exciting moments, but the pace badly flags too often with a rambling beginning, over-explanatory narration and stretches that feel meandering and muddled. Again the forest beast is poorly done, only Freya is developed well, there are continuity errors meaning that the film just doesn't fit within the storytelling and time-line of 'Snow White and the Huntsman' (while it was a good idea not having Stewart's dead-weight presence in the film, the absence of Snow White- mentioned only in passing fleetingly- does leave a gaping hole in the plot) and Sam Claflin is both underused and out of place. All in all, uneven film with things that are both good and bad. 5.5-6/10 Bethany Cox",
+         "I don't know why people complain about this one. I went in expecting a fantasy romp with beautiful but evil queens ... and that's exactly what I got! In spades! The other thing that stood out is that the actors are all top shelf. For guys like me, seeing *three* of the most gorgeous actresses appear together (Emily Blunt, Charlize Theron, Jessica Chastain) in a movie is a feast for the eyes. And they all can act! The supporting cast is great (bunch of awesome British guys) as well. The dialog is light- hearted and the love story believable. On top of all this, the story is pretty linear and makes sense. (In a fairy tale-way, of course, but what do you expect?) Most surprisingly, I did feel emotionally attached to the characters. Each had clear motivations and I felt for their plight. Lovers get separated then reunited, a mother loses a child and something snaps inside her, an evil queen wants revenge and power. Overall, I can only recommend this movie. You won't get bored for a second and might even get emotional by the end.",
+         "The Huntsman: Winter's War is great fodder for fans of the genre; the slenderly plotted film moves along at a nice pace and the cast do a decent job with what they're given. Although it's undoubtedly a cash-grab sequel (do not believe the \"before Snow White\" marketing), it manages to argue its case for existing fairly well. Contractual obligations aside, Hemsworth and Theron resume their roles with great gusto, with Hemsworth arguably vastly improving on his performance in the first film. Throw in Emily Blunt and Jessica Chastain and you're confronted with a pretty enviable - if surprising - cast for a film of this level. The basic driving plot of the film is centred on Eric's (the previously anonymous Huntsman from the first outing) dubiously arranged quest to locate and return the powerful magic mirror, before it falls into the wrong (icy) hands. Accompanied by some foul-mouthed dwarfs, the scenes in the forests and fields are probably some of the better sequences in the film, if only for their tonal consistency rather than their originality. These portions of the film focus on action and comedy, and the camaraderie comes across well enough. This quest is framed at both the start and end of the film by a strange and rather hastily delivered - yet nonetheless enjoyable - story of two sisters and a sad betrayal. Ravenna (Theron) and Freya (Blunt) are supposedly the closest of siblings who become parted by a very dark event that awakens a great power within Freya. Fleeing her sister's kingdom in a mix of despair, anger and confusion, Freya sets up home in the mysterious \"North\" and uses her new strength to gather children to train as her army. It is here that the two stories are tied together, with stolen children Eric and Sara (Chastain) growing to become two of her trusted Huntsmen. The scenes in the North are mostly effective and judiciously used; the muted colour palette here isn't allowed to become boring, and this mini saga is undoubtedly uplifted by Blunt's delicate performance. If you have seen the trailers for this film and are keen to experience the full thing, go in with realistic expectations and you'll have a fun two hours; I am certain that the vast majority of prominent critics will despise this film, but it wasn't made for them. Yes, it's a patchwork production of popular elements from other sources and is generally a rather campy affair, but that's what makes it such an inoffensive and entertaining film. There is plenty to like here, if you give it a chance.",
+         "Long before her death, the sorceress Ravenna learns that her younger sister Freya is not only engaged in an illicit affair with the Duke of Blackwood, but is carrying his child, who is destined to become fairest of them all. Sometime after Freya gives birth to a baby girl, she discovers that the Duke has murdered their child and, in a grief-fueled rage, kills him with her long-suppressed ice powers. Freya abandons the kingdom and builds herself a solitary ice palace deep in the north, murdering anyone who opposes her while amassing an army of children and training them so their hearts will be forever hardened. Eric and Sara, two of her most exceptional warriors, fall in love and plan to elope, only to learn that Freya is aware of their secret. She confronts them and creates a massive ice wall to separate them before forcing Eric to watch as Sara is killed by her fellow huntsmen. Seven years after Ravenna's death, King William of Tabor comes across Eric and informs him that the Magic Mirror was taken while en route to a place known as \"Sanctuary\". Eric reluctantly sets off with Nion and Gryff, two of Snow White's allies, to find the Mirror, unaware that Freya has been secretly observing their conversation through a mask that projects her consciousness in the form of a white owl. While en route, the trio are attacked by a legion of Freya's huntsmen but are rescued by Sara, who is revealed to have been alive the entire time. She reveals her death was a vision conjured by Freya in order to trick him and that she was forced to watch as \"Eric\" ran away from the palace. Eric reveals that he never stopped loving Sara and the two agree to work together. Sometime later, the quartet is ensnared in a trap laid out by female dwarfs Bromwyn and Doreena, but convince them to help find the Mirror. The group reaches the Sanctuary, and they defeat the goblins who possess the Magic Mirror only to be ambushed by Freya, who reveals Sara was using them the entire time. In the chaos that follows, Nion and Doreena are turned into ice statues and Sara reluctantly fires an arrow into Eric's chest. Freya departs with the Mirror, unaware that Sara intentionally shot the arrow at a medallion she gave Eric long before, and that he is still alive. Meanwhile, Freya approaches the Mirror and recites a spell that causes a golden liquid to emerge and transform into Ravenna, who reveals she sent her spirit into the Mirror before Snow White took her life. Meanwhile, Eric has infiltrated the icy kingdom with help of Gryff and Bromwyn, and he attempts to murder Freya, but is stopped by Ravenna. When Freya realizes that Sara hadn't actually killed Eric, she corners her and because of Ravenna's wishes, sentences them both to death. However, Eric is able to convince a few huntsmen to fight against Ravenna and Freya, claiming the love of brethren. After this, Ravenna kills many huntsmen, and Freya forms an ice wall between the huntsmen and the sisters. As the remaining huntsmen climb over the wall, the two sisters argue over the icy kingdom, during which Freya discovers that Ravenna cursed the Duke of Blackwood into murdering her child rather than risk someone being more beautiful than her. Freya is filled with anger at this and turns against her sister, joining forces with Eric and Sara. Freya is fatally wounded, but not before she freezes the magic mirror, as Eric throws his axe, breaking the mirror and destroying Ravenna's spirit. As she dies, Freya witnesses Eric and Sara together and states they were \"lucky\" before succumbing to her wounds. As the kingdom's inhabitants and huntsmen celebrate their victory, a mysterious golden bird flies overhead, hinting that possibly Ravenna's spirit still lives.",
+         "The Huntsman: Winter's War is not too unlike the first movie in one key way: it doesn't really stick too long in the consciousness once it's finished. It's not that there is a lack of quality in the craft in this (sigh) franchise - the first Snow White from 2012 got Oscar nominations for the costume design and visual effects departments, and it's easy to see why: the work put into the mirror on its own, this gold thing that can unfold in liquid on the floor is in the same ball-park as the T-1000 from decades past, and there is attention paid to all of the aesthetics in these 'kingdoms'. But with the stories, especially in the case of Winter's War, there is the sense of sensing a dearth of original plots. It's not even really a full plot in this film but plot points: this happens and then this happens and then and then and so on, and it cribs from Frozen so much that it's hard to ignore. It's not that everything from the Disney movie is here, but when you start to describe what this story is about - two sisters in royalty are split apart when one of them (Emily Blunt this time as the sister to Charlize Theron's Wicked Queen) loses her son and takes over her kingdom... which is made of ice since she is the Ice Queen, and she decrees there can no longer be love because her love is lost, so then when two people (Hemsworth, returning as the Huntsman, and Jessica Chastain) fall in love, she splits them apart through trickery and then... it's actually not a prequel but a sequel which involves finding the mirror from the last movie (stolen/taken away, I forget which, it's explained in an exposition dump), and when a big reveal happens for Hemsworth that (spoiler! not really) Chastain is alive, they decide to go after the Ice Queen herself. So there's a lot of plot here, a lot of twists and turns that do occur, but that main spine isn't too engaging. The Frozen element comes mostly with the Ice Queen and other characters having a love story happen where you don't expect it to (or, I should say, they *do* love each other, but things happen that makes one of them question again if it's possible and, oh, nevermind). What does still work is the humor; Nick Frost returns as one of the dwarfs from the last movie (the late Bob Hoskins is sorely missed though) along with Rob Brydon (remember him from The Trip movies), and both are spot-on with their comic timing, their deliveries, just finding the things in the scenes to naturally liven things up. Some of it's from the dialog, but a good deal of it feels improvised and when lady dwarfs get introduced into the film there's some fun stuff there as well. All the actors are here to work, and I didn't see them exactly bored during this; Blunt does her best to give her Ice Queen Freya conviction and villainy (and, later on, some sense of true confusion and betrayal), but it's hard to go up against Theron when she owns this role once again of Ravenna. She's not on screen too long, and it feels just slightly contrived how she returns, but she makes her mark as a conniving, devilish presence with aplomb. Curiously Kirsten Stewart is out of this movie, though there are points where it feels like she *should* be in this, even as a cameo (there is one scene where technically Snow White is featured, but it's a double of course). This absence gets felt in a narrative that is all about the other characters, which is fine, except that the script lets them down with an adventure-cum-quest-cum-revenge story that feels watered down or half-baked. And there are even some moments, like with a creature that the characters come across to find the mirror, that isn't a terribly convincing special effect. I almost feel like I need to write this so I don't forget most of the movie in a few days; it's not *bad* in the sense of it being too stupid or too illogical (though there are certainly points where you think 'yeah, that's a bad idea to, say, make that jump and hope to connect with that building even when you know and acknowledge that it's a bad idea'). If it's bad in any way it doesn't have really any artistic reason to exist aside from it being another check box for Universal studio's current Snow White universe property. To put it another way, when you have Liam Neeson narrating and delivering lines about fairy tales that felt hackneyed 60 years ago, you know there's an issue with something that should be made vs could. It's got entertaining bits but isn't worth rushing out to see unless you're a die-hard fantasy fan, and even with that there's the sense of derivation (if not from Frozen there's Game of Thrones as well).",
+         "Even such a collection of stars - so appealing on their own can't save a movie which has a bad story that I actually was bored most of the movie. I love almost everything Jessica Chastain and Charlize Theron do. But there is no saving this terribly weak story. The good points: 1. Emily Blunt looks pretty here - more so than usual. 2. Charlize is stunningly beautiful as well. The costumes of the 2 queens are grandly done. 3. Jessica Chastain is good at action. The bad points: 1. Couldn't understand what Chris Hemsworth was saying. They should have abandoned the Shrek like Scottish accents 2. The dwarfs weren't funny 3. The story is absurd - looking for a silly mirror and killing her niece. Terrible. Serves them right for dumping K Stew.",
+         "I want to say at the very beginning that at the base of this prequel/sequel is a false premise, or a logical fallacy. If one does remember the first movie, there's no way this one can be truly connected to the same story and characters. This is simply a story line that was stretched and contorted so another movie could be created with Charlize Theron as the evil queen and Chris Hemsworth as the huntsman, everything else didn't matter, the producers thought they could get some more money from the struggle between these two and the rest simply had to fit in. I knew that before I went to see this one, and I was practically ready to hate it. I didn't. And once again, the main reason is the acting. To be more precise, it's the three actresses pulling this unlikely story from start to end. Charlize Theron, once again menacing and chilling as the evil queen, with less fragility and less humanity. Which is, in my book the worst fault of this movie: if one does decide to further develop the characters of the first movie, the starting point should've been the origins of Ravena's hate for all men, and of human emotions. The creative team didn't go this way, this in fact made Ravena a two dimensional cartoon. Only Charlize Theron brilliance manages to make her somewhat relatable. Then there's Jessica Chastain as Sara with a performance filled with subtleties and nuances, managing to look like a fierce warrior and still make us feel she has a beating heart in her chest. But both Jessica Chastain and Charlize Theron pale in front of the real standout performance of this film, that's the one of Emily Blunt. The truth is, she does have the best written role in the film, and she carries it and in fact the entire movie all the way through. If only they could do the same for Charlize Theron, this could've been a real something to see. But even as is, the movie is surprisingly engaging and entertaining.",
+         "In a time where it is very common to see a lot of negativity and cynicism in reality and depicted on screen, it is a relief to watch an optimistic fantasy film with beautiful sets, visual effects, and morals. The film's cast is well put together as the actors are all very enjoyable to watch. None of the actors seemed to be miscast or stood out because of poor acting. The relationships between the characters are interesting, although some are slightly disappointing because they aren't as developed as they could be. The dwarfs are definitely the lighter characters who I also found to be pretty adorable, and they get the most laughs out of the audience. The heroes of the story are both interesting and break the usual tradition of having the male character be the hardened one, and the female character be soft. It's incredible to see Chris Hemsworth's character be strong and heroic but also have such a kind and compassionate side to him. The types of heroes that stories have to offer nowadays are typically stoic and quite cold, so seeing that warm side in a modern male protagonist is amazing, and I hope that future stories will also present male protagonists who can show similar emotion and vulnerability. Jessica Chastain's character is truly a badass, and one that didn't seem like a forced badass to me, which I find to be a usual complaint. Despite being villains, the two queen characters of the movie had touching, and surprising moments of humanity later on in the story. With that said, it is very fun to watch Emily Blunt and Charlize Theron play larger-than-life personalities and do cruel deeds throughout the film. You will find yourself rooting for them because they can be relatable, but also because they are wicked, you have to want them to fall. The only flaw I found with them is that they did not have enough screen time, but it doesn't take away from the film as the other characters keep you entertained as well. The story is simple, easy to follow, and is enough to keep you engaged. The concept of love is what is being explored in the film, and the story could even be a cautionary tale about the effects of having a lack of love. In the end, the message of love conquering the evils of the world isn't anything ground-breaking, but I think that it is a simple and universal idea that is still effective and powerful even today if you open yourself up to it. Being a big fan of the first film, I went into this with low expectations but an open mind. Thankfully, the film did not disappoint and I recommend seeing it on a large screen to appreciate the beauty of the effects and the costumes, but also be touched by the message that the film offers.",
+         "The evil Ravenna (Charlize Theron) finds that he sister Freya (Emily Blunt) is pregnant and in love with a noble. Freya gives birth to a baby girl but her beloved lover murders the baby and her rage unleashes ice powers and she kills him. Freya heads to North and builds a palace and an army that captures children from the villages to be raised as soldiers without love. Years later, their children Eric (Chris Hemsworth) and Sara (Jessica Chastain) are grown-up and in love with each other. They plan to flee from the castle, but Freya finds and builds an ice wall between them. Eric sees Sara being murdered stabbed on her back by their friend Tull (Sope Dirisu) and he is dumped in a frozen river but he survives. Eric, a.k.a. The huntsman grieves the death of his beloved Sara on a daily basis. One day, Snow White is ill and her husband seeks out Eric to tell that the Magic Mirror was taken while carried to a place called Sanctuary. Eric teams-up with two dwarfs to find the mirror, but they are attacked by Freya army and saved by Sara that is alive. She tells that she saw Eric leaving her alone, and he concludes that Freya gave different visions for each of them. They retrieve the mirror but Sara betrays Eric and Queen Freya and her army takes the mirror and captures the group. Then she asks Sara to kill Eric and she follows the order. Whal will happen now that Freya has the magic mirror? \"The Huntsman: Winter's War\" is an entertaining fantasy full of action with great cast and special effects. The plot is a prequel of \"Snow White and the Huntsman\" with Ravenna and the Huntsman, and introducing Freya and Sara. The film may not be recommended by professional critics but fortunately I am amateur. My vote is seven. Title (Brazil): \"O Caçador e a Rainha do Gelo\" (\"The Huntsman and the Ice Queen\")",
+         "I loved this film. I had to go to accompany my child and didn't think I would enjoy it but I was very pleasantly surprised. I actually hadn't seen the first film, so was able to go in without preconceived ideas, which probably helped. I was wary as the cinema was empty so I assumed it had had bad reviews, which was keeping people away. I actually really enjoyed the whole thing from start to finish. A good story, not too long or short, great visual impact and what is not to like about Chris Hemsworth - (never heard of him until now). Robust acting from Emily Blunt and Charlize Theron, held this film together nicely. I also loved the dwarf characters, who added some welcome humour to the film too. I would recommend this film if you want to spend a couple of enjoyable hours at the movies with your child.",
+         "The Huntsman: Winter's War may have its flaws, but is an undeniable improvement over the first which appears even more average due to the new life found in the second. Some dodgy and questionable accents aside, the main four and the supporting four all compliment each other and offer strong and more complex performances (especially those returning), if only the underrated Sam Clafflin got more of a look in. Beautiful scenery, landscapes and effects all help in building this fantasy world and the before-and-after structure helps with the flow of the story once you overcome the inceptive confusion. I went into this film expecting to come out disappointed but instead did so feeling pleasantly surprised at the increased quality and final product. Summary: The Huntsman: Winter's War, whilst with its flaws, is an undeniable improvement over the first instalment, with rich scenery and landscapes bolstered further by solid performances all round. FULL REVIEW: http://goo.gl/jrMAbH",
+         "I think the trailers don't do justice to the movie in regard to showing the real quality of it. The movie has amazing visual effects and wonderful original characters. People thought the movie is actually more about WOMEN, but I can assure you that the Huntsman (Chris Hemsworth) has a quite important and major role, but I think his scenes were overshadowed in the trailers. The three female leads are AMAZING. Apart from looking gorgeous, all three are incredibly talented and badass. I wished Raveena (Charlize Theron) had much more scenes, but she owns every scene she is in. One of my favourite actresses is Jessica Chastain and everyone who likes her will be much pleased, since she has many great and powerful scenes. She is a real badass. Her profession does not consist of constantly looking beautiful or feminine, as she presents here a very strong, masculine, yet emotional warrioress. I love how she always plays dominant and characterful figures who are also inspiring and compelling. You can easily follow how she changes her facial expressions, one second she is very tough, then suddenly she becomes very romantic and vulnerable. A terrific actress. Everyone who likes the first one, will surely like this one, too, since it has lots of fairy tale traits (apart from Snow White). There are very very dark scenes, which I loved, but there are also humorous and light scenes where the balance is really well made. I think you shouldn't hesitate and go enjoy this beautifully made movie with great performances. Everyone who loves fantasy and fairy tales should watch and recommend the movie to others.",
+         "It's astounding how bad \"Huntsman: Winter's War\" is. From the preposterous title (it would appear that the story occurs in springtime, and that the one battle in the film is a tiny 10-person battle in a throne room) to the absolute lack of reason, sense, or skill, this coldly-received sequel to an already flawed film (Snow White & the Huntsman) is like finding a diamond in the rough in terms of bad movies. In a way it's almost good how bad it is. Almost. The movie is narrated by Liam Neeson with empty phrases like \"lands to the North\" and \"the Good Queen built a fortress around her heart.\" We meet the Evil Queen from the first movie (the absurdly over-the-top Charlize Theron who is the only fun role in the film) and her sister, Elsa -- I mean Freya, a woman who's heart was broken and uses her ice powers to turn her hair white, adopt an icy wardrobe, and reign in an ice castle on top of a mountain. Her ultimate character arc is the discovery that love can ultimately be a good thing. She didn't even have to sing \"Let It Go\" to figure it out. Simultaneously we have a remake of \"Braveheart\" occurring, as we meet the Huntsman (Chris Hemsworth reprising his titular role) and his love affair with fellow huntswoman, Sara (with an off-again on-again Scottish accent). Declaring their love for one another in a forbidden encounter, the Huntsman all but states that he \"wants to raise crops and God- willing a family\" with his new lover. A stroke of misfortune leads him to believe Sara is brutally murdered, and thus the war is launched. I mean the battle that takes place in the last 3 minutes of the movie. In reality, the plot seems to be about the group of heroes (the Huntsman, some of the dwarfs from the first film (whoever wanted to come back, I guess), and some other female dwarfs) on the hunt for the Magic Mirror, hoping to find it before Evil Queen Freya reclaims it for herself. Like the ruby slippers, it's said to have dangerous powers, but I am sure as hell unaware of what those powers could be (aside from being able to judge the hotness level of women like a caddy bitch). Why this is so important is never explained, nor are any of the plot details seemingly relevant at any one point. The story is vapid, lifeless, thrown together. As I was watching this film, things kept happening, but overall nothing was occurring. I began to doubt the reasoning for this movie's existence other than an attempts for a cash grab (the original made over $400 million in sales... This one barely made $160 million against a budget of $115 million. Ouch). If you need an example of what is wrong with the Hollywood system right now, then \"Huntsman\" seems to be a textbook example. From the overly-choreographed fight scenes, Lord of the Ring's-inspired mythology (which seems to be the standard for fantasy films nowadays), and the rehashing of characters both living and dead with no regard to story (how many times can Charlize Theron come back to life without absolutely flushing brain power down the toilet?), the film churns along from one predictable beat to the next, and by the time it ends it's hard to remember that there are actually decent movies made anymore. To watch \"Huntsman: Winter's War\" is to lobotomize a part of your brain. Movies can be art, and they can be moving, and they can be thrilling. This movie is the cinematic equivalent of expired milk.",
+         "I previewed this movie tonight having no recollection of ever seeing the first one (although I realize now I have and simply forgot about it due to its mediocrity). This movie was awesome! As in the first film, the visual effects are stunning and even though I am easily displeased with shoddy CGI, only in one brief scene did I think it was done somewhat poorly. (For reference, I did not see it in IMAX or 3D). While some of the plot points were transparent, the narrative as a whole was quite engaging and was acted well enough for me to really feel for the characters. Another reviewer mentioned the humor of the film in a somewhat negative way but I (and by the sound of it, the rest of the theater) thought it was done perfectly-- it wasn't forced onto characters or into situations it didn't belong in but instead lent itself to filling out the characters and even making some subtle points about relationships, friendships, and life as a whole.",
+         "I had low expectations about this movie, specially because I did not like the first one very much, but I got a good surprise when I watched this one. Emily Blunt and Charlize Theron did an excellent job in this film. Their acting was very good, as always. They are two evil sisters that want to conquer all, using black magic and a magical mirror. You really enjoy the visual effects on this movie and the customs of the two evil queens are awesome. In my opinion, Jessica Chastain in an improvement of a protagonist from Kristen Stewart. First, Chastain can act and second she has better fighting skills. I think that the story is good, but predictable ( you still enjoy it, though) This is not an action/ superhero's film... If you are expecting a lot of fighting, this is not your movie. This film is not a suspense one either; but if you like fairy tales movies with special effects, good acting , then you will enjoy this movie.",
+         "My excitement for this film could not have been greater. It has some of my favourite actors in namely Emily Blunt and Jessica Chastain. I am pleased to say that this film did not disappoint. The film is prequel and sequel combined which is extremely clever and works really well. The writers have done a great job of making this story fit with the events that took place in Snow White and The Huntsman. This film is much better than it's predecessor. The plot is much more interesting and it doesn't drag in the middle like the Snow White ones does. (As a side note, there are references to the Snow White film so I'd recommend watching it before going to see this one). This film has some really funny moments as well as plenty of action sequences. All the actors give good performances. An extremely enjoyable film which I look forward to watching again.",
+         "I guess I should review this snoozefest while am motivated to waste even more of my time on it. First off, I did not watch the first film so I can not compare the two films. After this one, I'm not planning on ever watching the first Huntsman movie. Anyway, the biggest problem I have with the film is the predictability. The movie was so predictable that I literally knew what the story narrator was going to say before he said it. And why they do you need someone narrating the first 20 minutes of a 2 hour movie anyway? I'll tell you why, because it sucks. Oh, and I need to talk about Jessica Chastain. Jessica Chastain's accent is AWFUL! She sounded like an American doing an exceptionally bad impression of a Scotsman. Isn't Jessica Chastain an award winning actress? I know she did this movie for a paycheck but at the very least she could have pretended like she was taking the role seriously. But yeah, I'm not over exaggerating. Her accent was so laughable and goofy that I had to laugh the one second her voice went low and her American accent came out. But this movie was a lost cause before Jessica Chastain even came on screen. The action isn't nearly enough and the movie isn't even worth watching for the action anyway! If this sounds like a partial review of the movie, that is because it is. I stopped watching after 20 minutes. Time is something you can not get back and I didn't want to waste another second on this film.",
+         "I have strong feelings about movies and how people approach them, in how it affects my own enjoyment and rating of a movie. I went into this film expecting nothing really and that it would be a standard fantasy fare worth the usual six for a medium sized movie. I had read various fan reviews and for the most part I prefer them to what the critics say because they tend to me far more honest and except for the trolls, whom it easy to spot and ignore these wasters and found that they were sending my expectations even further down the ratings scale. Fortunately, I thoroughly enjoyed this film and had not seen the previous installment. I was entertained on nearly every level, and while there were some goofs and a couple of dead spots, I did have a good time and the 40 other Aussies in our local cinema at Penrith, all laughed a lot and there was a very positive vibe during and after the movie. And my wife and I really enjoyed it without thinking we had been to see a true movie classic or anything that would live on forever in our minds. However, when I went to recent movies like The Avengers and Star Wars with all their great hype I did enjoy them, but for the most part was totally underwhelmed by the dialogue and the overall entertainment value of these films. They did their job, but I have seen so many other films, which were done better, made better and that I know I will love for years to come. Deadpool and Mad Max, were both far superior in most departments to these films, and much of Star Wars box office is due to the fact that it is shown to kids while the other two are not. I imagine this alone accounts for a big difference in their box office takings. I know that in ten years from now, series like LOTR, The Hobbit, Mad Max and inter-related movies like Deadpool/Suicide Squad will still ring clear in my imagination while the most recent 4 Star Wars movies will have faded into oblivion. I will say this though, Star Wars and The Avengers are still several classes above the execrable Divergent series which gets worse with every installment and lacks a truly cool and elegant or funny lead in Shailene Woodley (a reasonable actor, but so totally miscast and out of her depth in this series) a poor support cast, and very dull story lines and dialogue. The Hunger Games is superior to the Divergent series, in all departments especially the actors and special effects, but the story etc are still tedious and the series (while entertaining) is highly over-rated particularly as the makers went into \"bloated\" and \"OTT\" mode for the closing chapters and destroyed what could have been a terrific series. If only the series had the writers from Deadpool or the kinetic energy of Mad Max (which has its downside, but like Deadpool) has something that these other movies totally lack and that is movie magic. It is always such a shame to me that movie makers cannot step back enough from their films and look at what they are doing with a clearer vision, cannot be critical enough of their own scripts, or the greatest disease of all, falling foul of the studios/producers who do not understand what it is to make a great film, or cannot control their own agendas enough to allow the directors and their crews and cast to weave the magic that hey themselves so often lack. If nothing else, The Huntsman had humour, drama, cool effects and stunts, a basic but pleasing story and enough going for it generally to allow some movie magic to shine through to the audience. If you go to the movies once a week like we do, to be entertained by anything from a thriller, a romance, all action, supernatural, war or western or whatever, I want to leave feeling I have been entertained and that this movie has brought something cool to my life. Once in a while there will be the unforgettable story, but it seems to me so many people these days expect every movie to be a total blockbuster so spend much of their movie life being disappointed simply by demanding too much of others than to be simply entertained for 90-180 minutes. And then joyful, when they come across a true gem, like The Revenants, The Intouchables, or whatever other movie leaves an indelible mark on your heart and in your head...",
+         "Plot/story: Snow White and the Huntsman didn't need a sequel. Or a prequel for that matter, and this film gives it both. The premise was already on very shaky ground and the ice started cracking right from the start. (The opportunities for ice puns are just too good to miss, I'm afraid). The plot was all over the place. The structure was totally disarranged (blame the prequel & sequel setup, I guess) and the narration at the start was not only annoying, it cramped the story as if it was almost trying to apologise for the film before it started. In addition, the back story was stupid and weak. Loopholes abounded. There was too much going-on. It felt cluttered (especially the prequel part), the whole story was weak, and I found it hard to \"suspend disbelief\". Swallowing Blunt and Theron's \"god-given powers\" and all the magic without any explanation, twisted my stomach. Acting: The acting was decent. (I'll come to Emily Blunt's excellence just now...). Chris Hemsworth smiled a lot, Charlize Theron was underused and I thought her performance was halfhearted (she definitely wasn't on the same level as the first film, I thought). Except, that one line of hers \"Oh Huntsman, I've missed you...\" was killer. Jessica Chastain was definitely a good addition to the cast, and it was clear she was loving every minute of playing her badass Huntswoman. The dwarfs were portrayed by two brilliant comedians (Rob Brydon and Nick Frost) and while they did offer small comic relief, their lines were frequently short of witty and actual humour. This, however, is the fault of the script; definitely not the actors, who clearly were trying their best to work with what they had. And that brings me to...... The script. The dialogue, to be specific. And the dialogue was really bad and really boring. Another con: The chemistry between Hemsworth and Chastain was painfully forced. Chastain tried her best, but it just didn't work. In fact, there was more chemistry between Chastain and Blunt than there was between Mr. Huntsman and his stubborn wife. With the exception of Blunt, none of the actors gave their characters solid development. In fact, Blunt gave Freya more development in this one film than Hemsworth and Theron gave their characters in this film and the previous one combined. Emily Blunt: Undoubtedly the biggest PRO of the film, only Emily Blunt can pull off an Ice Queen and still show warmth. She delivered a brilliant performance, even going so far as to bring tears to my eyes during the climax and her {SPOILER!} death. Blunt was excellent, heart- breaking, chilling, and extraordinary. I LOVED her performance. Other: The cinematography was totally bland and boring and unoriginal. I was literally starving for some bright shots of the fantasy world and some creative angels to showcase Blunt's gorgeous ice powers. ( I kinda have an obsession with ice scenes. And the potential for good showcasing in this film made me ache with disappointment..). The action was good and exciting, but unfortunately it also felt forced, and, looking at the climax, too short-lived. Still, for the most part the action/fight scenes were decent and epic. And the CGI was very good. Was this film better than Snow White and the Huntsman? Did I prefer it? I don't know. Chastain and Blunt were brilliant additions, but the story was weaker. Oh, and on a side note, Halsey's \"Castle\" during the credits was a brilliant choice of soundtrack.",
+         "My wife and I went to the cinemas to watch this movie. We have seen the first part and we liked it very much. So we thought that this part could not be any better ..but what a big surprise, this part is even better! We loved the storyline and what a great performance of the actors! The graphics are really stunning and we fell in love with the settings and the magical forest. The storyline was excited until the end. Some parts of this movie brings us back to Lord of the Rings. Our favorite movie ever! But we liked this part better than the previous part. And that usually does not happen with any movie. So thumbs up for the director and actors! We would go every day to the cinema to watch these kind of movies! Thank you soo much for this nice evening! It was much better than we expected and more!!",
+         "Likes : I'm glad to say this is an improvement over the last film entitled snow white & the huntsmen , would i say its a 12A - pg13 not really , there are moment in this film special with the banter it does take a turn in the adult humour which is a little over the certification the film got which i would say this film is 15 cert tops but funny moments that will make you laugh. The story is pretty good although some moment i did feel the film felt off but most of the rest of film is well play out , even the concept worked for the film which is a good thing because this time its a little more darker then before , i would say a little emotional there are a few scene that can bring you to tears. The film is kind of clever in a way using the prequel / sequel theme as we see the past that gives us a in-depth back story of the beginning as we learn that ravenna has a sister Freya played brilliantly by the beautiful Emily Blunt who has power's as well , but due to certain event's become very cold hearted & evil. As the story unfolds from the past it slowly moves to the future to a point 7 years after Ravenna played by Charlize Theron was defeated by snow white army which we saw in snow white & huntsman. This is where the film continues on the sequel part of the film , where we get a narrative from iam nelson explaining parts of the film giving us a good in-depth story of the gap in the years as we learn true evil never dies. Playing the part of the ice queen Freya (Emily Blunt) played this role with perfection , this is why i love her as an actress because every role she is given she amerce her self in to the character & become the character that is great acting to bring the character out on screen to give a believable performance. The way she play this role is that of a person that believe love is a lie & empty with a cold heart so she goes out of her way to destroy anything that involves love , yet her appearance seemed calm & relaxed in her scenes she wasn't someone to cross which you could see with the character. Charlize Theron returns as the evil mirror witch Ravenna brilliant performance as once again show us that she can play the seriously dark evil person that she was in the first film , only as we find out she no longer the human she once was & now more powerful. Chris Hemsworth reprises his role as the huntsman who we saw in the first film as we get to a back story of where he original came from & who brought him up which make an interest back story for his character as you get to see where he got his skills as a fighter. New casting for the film playing a some what love interest for the huntsman played by the beautiful Jessica Chastain playing Sara who put in a awesome performance as a skilled fighter & well as a the romantic moments , I'm start to not only find her acting as an actress brilliant but she also a very beautiful woman its always great to see her in good role. Jessica plays off Chris Hemsworth brilliantly in this film with on screen chemistry which help the film's more believe to the the audience sells the film perfectly , as we come to the comical side of the film which is absolutely funny which come from the dwarf characters. Rob Brydon , Nick Frost , Alexandra Roach & Sheridan Smith bring the comical side of the film as dwarf , i mean seriously funny banter which i was actually surprised with being funny , there are moments though out this film these guys were almost stealing the film because of the funniness which is great because they put 4 people together that actually play off each other in comedy which is very rare. This made the film more entertaining even the audience behind me in the cinema were laugh , there was a few moment with the banter your like you didn't just say that, there was a few ohhhh moments with what is said , this is what make for great film to watch. I will say this better improvement over the first film , not perfect but great film to watch. Dislikes : There is a few moments in the film that feel off in the editing part , like at the beginning like something was about to happen but the scene change in a different direction which was a little off, some scene kind of few flat, but that all i could see in the way of flaws in the film because the rest of the film was OK.",
+         "I thought Snow White And The Huntsman was serviceable at best with some nice visual effects and a good villain role by Charlize Theron. Naturally, I would probably not be interested in a sequel. But as I am usually a sucker for fantasy and I was intrigued by the trailer and who was cast, I thought I would give it a chance. I was going in with low expectations and felt pretty satisfied with what I saw. It is better and more enjoyable than its predecessor The best things about it are definitely the costume designs and visual effects. You can tell hard work has been made with the costumes, especially for our main female characters. They are impressive to look at and definitely fit in with the magical kingdom that it is set in. Whilst admiring the costumes, the visuals around it fits in well and the general viewing experience is a highly positive one for the eyes. Even the performances managed to boost my enjoyment. As I mentioned before, the casting choices for this film heavily influenced me in giving this a chance. Everyone involved I consider to be reliable choices that seem to make any potentially disappointing film worth watching. Chris Hemsworth continues to play the hero role well as The Huntsman. His fun and smiley presence makes it easy to root for him. I was really surprised to hear Jessica Chastain was a part of this and this seemed outside of her comfort zone. As a supportive role to Hemsworth, I thought she was perfectly fine on the whole, despite her questionable Scottish accent. Emily Blunt played the leading villain role well. I have been fond of Blunt's recent performances, especially in Edge Of Tomorrow. She was believable, threatening and even showed enough of a vulnerable side for us to also feel sympathy for her character. Charlize Theron is back as Ravenna, and is great as always. She constantly looks terrifying whenever she's on screen whilst also looking very attractive. There was also some solid minor roles by Nick Frost, Rob Brydon, Sheridan Smith, Sam Caflin and a nice surprise to see Colin Morgan on the big screen. The only negative that was noticeable was the comedy used. It seemed out of place at first but managed to slowly fit in as the film went along. Despite questioning the reasoning into a sequel being made, I was perfectly fine with the mash-up of the two fairy tales 'Snow White' and 'The Snow Queen' to give this sequel some logic as to why it is being made. Whilst giving this a lot of positives, it is mainly due to going into the film with low expectations. The best stuff is just not strong enough and the content does not bring anything new to the genre. It is lovely to look at, and the performances keep the film moving. If you look like the fantasy genre, then this will be a fine couple of hours.",
+         "Even with its imposing technical flair, 'The Huntsman: Winter's War' can only do so much to hide every hole in its already tired narrative. What it can do best seems utterly insufficient to compensate for what it is screamingly lacking. Now moving on without the once titular \"Snow White\", 'Huntsman' serves both as a prequel and a sequel to the Kristen Stewart-starred film. While her absence may not have made any significant difference, it is inevitable to think about how better \u2014or more likely, worse\u2014it might have become if the film continued her tale. Be that as it may, the idea of having 'The Huntsman' as the main object of the narrative is interesting enough to spark attention. The spotlight is on Eric (Chris Hemsworth)\u2014our titular 'Huntsman\u2014at the start of the film where it recounts his beginning. He was a young soldier enlisted to serve for the Ice Queen, Freya (Emily), who was embittered by the demise of her child and her lover's betrayal. Enraged with hate, the once good-hearted ruler, abducts young children to build an army, disabling them to have the capacity to love\u2014 at least that's what she wants to believe. But love is powerful\u2014yeah, as cliché as it may sound\u2014and so Eric finds the love of his life, in Jessica Chastain's Sara, a fellow warrior, with whom he is specifically forbidden to fall in love. The Ice Queen, as expected, discovers the affair, and sends him to exile. Jumping to seven years after Snow White's triumph against the Wicked Queen, Ravenna (Charlize Theron), the narrative shifts its focus to what may seem the main concern of the story: the quest for the missing magical mirror. Reunited, Eric and Sara, embarks on a quest to recover it before Freya does. Their adventure eventually leads to the return of villainous Ravenna, whose connivance with her equally wicked ice-controlling sister, ensues a much more miserable struggle for the reunited pair, who for most of their shared moments, are just trying to rekindle the flame that gave in to Freya's freezing power. The interesting subtexts dropped, and some palpable comic effort, are as futile as the film's ambitious visuals can be. There are some suggestions here which might have helped the overall script to gather attention, but these potentials turn out to be just wasted efforts. As useless as the film's attempt to cultivate those depths is, its seemingly lack of interest to grant the story some structure, can only make the entirety even worse. In the wake of these fatal flaws, 'Huntsman' loses whatever 'fairness' the first film suggested to be having."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Universal Pictures",
+         "Perfect World Pictures (Beijing)",
+         "Roth Films"
+      ],
+      "summaries": ["Eric and fellow warrior Sara, raised as members of ice Queen Freya's army, try to conceal their forbidden love as they fight to survive the wicked intentions of both Freya and her sister Ravenna."],
+      "budget": 115000000
+   },
+   "movielensId": 156607,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2016-04-06",
+      "dvdReleaseDate": null,
+      "directors": ["Cedric Nicolas-Troyan"],
+      "runtime": 114,
+      "movieId": 156607,
+      "title": "The Huntsman: Winter's War",
+      "mpaa": "PG-13",
+      "actors": [
+         "Chris Hemsworth",
+         "Charlize Theron",
+         "Emily Blunt",
+         "Jessica Chastain",
+         "Nick Frost",
+         "Sheridan Smith",
+         "Rob Brydon",
+         "Alexandra Roach",
+         "Sam Claflin",
+         "Colin Morgan",
+         "Sophie Cookson",
+         "Sam Hazeldine",
+         "Lynne Wilmot",
+         "Alejandro Cuello",
+         "Liam Neeson",
+         "Sope Dirisu",
+         "Conrad Khan",
+         "Niamh Walter",
+         "Nana Agyeman-Bediako",
+         "Amelia Crouch",
+         "Fred Tatasciore",
+         "Ralph Ineson",
+         "Robert Portal",
+         "Robert Wilfort",
+         "David Mumeni",
+         "Kara Lily Hayworth",
+         "Madeleine Worrall",
+         "Chinna Wodu",
+         "Andrew Rothney",
+         "Tim Delap",
+         "Antony Acheampong",
+         "Ian Davies",
+         "George Watkins",
+         "Aj Bediako",
+         "Sam Coulson",
+         "Ryan Donaldson",
+         "Osi Okerafor",
+         "Maya Wasowicz",
+         "Yusuf Hofri",
+         "Eshan Gopal",
+         "Jadey Duffield",
+         "Karl Farrer"
+      ],
+      "imdbMovieId": "2381991",
+      "originalTitle": "The Huntsman: Winter's War",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [
+         "F2-_OQL9fBk",
+         "_W65ndip7MM",
+         "V9cPxenX1-0"
+      ],
+      "plotSummary": "As two evil sisters prepare to conquer the land, two renegades\u2014Eric the Huntsman, who aided Snow White in defeating Ravenna in Snowwhite and the Huntsman, and his forbidden lover, Sara\u2014set out to stop them.",
+      "tmdbMovieId": 290595,
+      "avgRating": 2.9763,
+      "releaseYear": "2016",
+      "numRatings": 422,
+      "posterPath": "/b77l5vmp6PYsc98LE6Uf1mXtmHh.jpg"
+   }
+}

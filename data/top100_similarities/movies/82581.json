@@ -1,0 +1,615 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "amputation",
+            "id": 259
+         },
+         {
+            "name": "photographer",
+            "id": 1003
+         },
+         {
+            "name": "wilderness",
+            "id": 3593
+         },
+         {
+            "name": "forest",
+            "id": 5774
+         },
+         {
+            "name": "sister",
+            "id": 5923
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "gore",
+            "id": 10292
+         },
+         {
+            "name": "bear trap",
+            "id": 11059
+         },
+         {
+            "name": "blood",
+            "id": 11221
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         },
+         {
+            "name": "tasmanian tiger",
+            "id": 190114
+         },
+         {
+            "name": "tasmania",
+            "id": 194161
+         },
+         {
+            "name": "ozploitation",
+            "id": 205624
+         },
+         {
+            "name": "cannibalism",
+            "id": 208048
+         },
+         {
+            "name": "thylacine",
+            "id": 241981
+         }
+      ],
+      "imdb_id": "tt1064744",
+      "video": false,
+      "title": "Dying Breed",
+      "recommendations": [
+         24821,
+         55045,
+         10790,
+         279968,
+         16167,
+         24421,
+         27135,
+         17236,
+         27134,
+         39909,
+         157115,
+         17153,
+         16634,
+         14686,
+         50458,
+         32304,
+         18467,
+         17245,
+         16080,
+         44562
+      ],
+      "backdrop_path": "/4wvaWqcyPJh9CC6P8OIXAak8xen.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Nina",
+               "gender": 1,
+               "credit_id": "52fe475a9251416c7509659d",
+               "name": "Mirrah Foulkes",
+               "profile_path": "/4DkhfmIM0Zyxr6x6kBifIjatpAD.jpg",
+               "id": 82605,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Matt",
+               "gender": 2,
+               "credit_id": "52fe475a9251416c750965a1",
+               "name": "Leigh Whannell",
+               "profile_path": "/cEy5gYVsjC7YL5Q53lkwjqYWP22.jpg",
+               "id": 2128,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Jack",
+               "gender": 2,
+               "credit_id": "52fe475a9251416c750965a5",
+               "name": "Nathan Phillips",
+               "profile_path": "/9t54w1XE7u7fOWQv83IP0xYAWkh.jpg",
+               "id": 60005,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Rebecca",
+               "gender": 1,
+               "credit_id": "52fe475a9251416c750965a9",
+               "name": "Melanie Vallejo",
+               "profile_path": "/rxyRHnVnIG6XsCPdbC0w2U7u1Sr.jpg",
+               "id": 82606,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Harvey",
+               "gender": 2,
+               "credit_id": "52fe475a9251416c750965ad",
+               "name": "Bille Brown",
+               "profile_path": "/u6VUTGmbaSt0LfvbXMoY1P2weh8.jpg",
+               "id": 42393,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Alexander Pierce",
+               "gender": 2,
+               "credit_id": "52fe475a9251416c750965b1",
+               "name": "Peter Docker",
+               "profile_path": "/cnDhwlHN33iH5dN8MP5vbGWyacA.jpg",
+               "id": 82607,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Gareth",
+               "gender": 2,
+               "credit_id": "52fe475a9251416c750965b5",
+               "name": "Brendan Donoghue",
+               "profile_path": null,
+               "id": 82608,
+               "order": 6
+            },
+            {
+               "cast_id": 36,
+               "character": "Ruth",
+               "gender": 0,
+               "credit_id": "54e1d1c2925141109900155c",
+               "name": "Sally McDonald",
+               "profile_path": null,
+               "id": 1427816,
+               "order": 7
+            },
+            {
+               "cast_id": 37,
+               "character": "Sgt. Symons",
+               "gender": 2,
+               "credit_id": "54e1d1e5925141195000713a",
+               "name": "Boris Brkic",
+               "profile_path": null,
+               "id": 152421,
+               "order": 8
+            },
+            {
+               "cast_id": 38,
+               "character": "Katie",
+               "gender": 0,
+               "credit_id": "54e1d2289251412c8e00123a",
+               "name": "Sheridan Harvey",
+               "profile_path": null,
+               "id": 1427817,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe475a9251416c750965bb",
+               "name": "Jody Dwyer",
+               "profile_path": null,
+               "id": 82609,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe475a9251416c750965c1",
+               "name": "Jody Dwyer",
+               "profile_path": null,
+               "id": 82610,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe475a9251416c750965c7",
+               "name": "Michael Boughen",
+               "profile_path": null,
+               "id": 82611,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558568cd92514173ef002b67",
+               "name": "Rod Morris",
+               "profile_path": null,
+               "id": 82612,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e0c2c7925141469f0037fc",
+               "name": "Michael Boughen",
+               "profile_path": null,
+               "id": 82611,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e0c2ddc3a368537a004fd4",
+               "name": "Rod Morris",
+               "profile_path": null,
+               "id": 82612,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e0c441c3a368454d0059f4",
+               "name": "Mark Perry",
+               "profile_path": null,
+               "id": 1427588,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e0c45592514119530055fe",
+               "name": "Anousha Zarkesh",
+               "profile_path": null,
+               "id": 76085,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e0c499c3a368454b0052e2",
+               "name": "David McKay",
+               "profile_path": null,
+               "id": 1427589,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54e0c4d9c3a368454d005a04",
+               "name": "Janie Parker",
+               "profile_path": null,
+               "id": 76087,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54e0c51bc3a368454b0052f2",
+               "name": "Katie Graham",
+               "profile_path": null,
+               "id": 1427592,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e0c5309251411953005613",
+               "name": "Paul Pattison",
+               "profile_path": null,
+               "id": 15330,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1cf78925141469f0053be",
+               "name": "Livia Ruzic",
+               "profile_path": null,
+               "id": 1402911,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1cf90c3a368454b006ad9",
+               "name": "Mark Cornish",
+               "profile_path": null,
+               "id": 1403714,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1cfa8c3a36855c7005526",
+               "name": "Emma Bortignon",
+               "profile_path": null,
+               "id": 1402909,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1cfedc3a3685756005788",
+               "name": "Jed Palmer",
+               "profile_path": null,
+               "id": 1426096,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1d0069251411099001520",
+               "name": "Doron Kipen",
+               "profile_path": null,
+               "id": 1427812,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1d023c3a3684095000fa7",
+               "name": "Ineke Majoor",
+               "profile_path": null,
+               "id": 1395454,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1d0a8925141195a006d08",
+               "name": "Soren Jensen",
+               "profile_path": null,
+               "id": 1427813,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e1d0c5c3a36857560057a3",
+               "name": "Danny Baldwin",
+               "profile_path": null,
+               "id": 1110992,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1d0e0925141469f0053d5",
+               "name": "Louis Puli",
+               "profile_path": null,
+               "id": 1425390,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1d0f99251412c8e001217",
+               "name": "Laurie Fish",
+               "profile_path": null,
+               "id": 1427814,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1d11f92514119560076cf",
+               "name": "Katherine Milne",
+               "profile_path": null,
+               "id": 1024909,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1d1389251411950007121",
+               "name": "Rachel McKellar-Harding",
+               "profile_path": null,
+               "id": 1402915,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1d1509251412c8e00122d",
+               "name": "Kira Bohn",
+               "profile_path": null,
+               "id": 1403728,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e1d165c3a368454d0074ad",
+               "name": "Samantha Hately",
+               "profile_path": null,
+               "id": 1427815,
+               "department": "Production",
+               "job": "Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55856856c3a368502e002c4d",
+               "name": "Geoffrey Hall",
+               "profile_path": null,
+               "id": 60404,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5585686fc3a36819640026d1",
+               "name": "Nerida Tyson-Chew",
+               "profile_path": null,
+               "id": 68697,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5585687ec3a3685034002cb3",
+               "name": "Christopher Mapp",
+               "profile_path": null,
+               "id": 56096,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5585688dc3a36819640026d3",
+               "name": "Matthew Street",
+               "profile_path": null,
+               "id": 1024905,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5585689fc3a368502e002c54",
+               "name": "David Whealy",
+               "profile_path": null,
+               "id": 1024906,
+               "department": "Production",
+               "job": "Executive Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 2.876726,
+      "production_countries": [{
+         "iso_3166_1": "AU",
+         "name": "Australia"
+      }],
+      "id": 18029,
+      "vote_count": 33,
+      "budget": 0,
+      "overview": "In the depths of the Tasmanian wilderness a group of hikers looking for a Tasmanian Tiger. They encounter a group of cannibals descended from Alexander Pearce, who was hung for cannibalism in 1824, out to find fresh breeding stock.",
+      "similar": [
+         301846,
+         281957,
+         341006,
+         10185,
+         9373,
+         294963,
+         10781,
+         948,
+         381288,
+         588,
+         395834,
+         9538,
+         74997,
+         398175,
+         12662,
+         434873,
+         769,
+         8810,
+         1991,
+         1690
+      ],
+      "original_title": "Dying Breed",
+      "runtime": 92,
+      "poster_path": "/9PV0U0WXBzM6G48XuXT97d7FWB9.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Ambience Entertainment",
+         "id": 3427,
+         "origin_country": ""
+      }],
+      "release_date": "2008-04-26",
+      "vote_average": 5.1,
+      "belongs_to_collection": null,
+      "tagline": "Some species are better off dead.",
+      "adult": false,
+      "homepage": "http://www.dyingbreed.com.au/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Australia",
+      "color": "Color",
+      "budgetCurrency": "AUD ",
+      "directors": ["Jody Dwyer"],
+      "runtime": 92,
+      "synopsis": "Tasmania, Australia---one of the world's most isolated islands. It is rumored that, deep within the wilderness, an ancient species known as the Tasmanian Tiger is alive and breeding. Yet, modern science refuses to believe such a creature now exists, since no witnesses have ever been able to prove it. That is, until zoology student Nina (Mirrah Foulkes), claims she can breach Tasmania's impenetrable forests and confirm the tigers' existence. Driving Nina's quest is one critical piece of proof: a photo of a paw print taken by her sister just before she met with a fatal accident eight years before. In the early 19th century, the murderous convict Alexander Pearce (aka \"The Pieman\") had broken out of prison twice, and each time he had killed and eaten his fellow escapees. But what Nina doesn't know is that, before he was hung for cannibalism in 1824, he'd spawned a blood line who inherited his taste for human flesh. Soon, Nina and her friends discover that in the wild, as one species may have died out, another has thrived---in the form of the Pieman's descendants. When she sets out with her partner, Matt (Leigh Whannell), his old mate, Jack (Nathan Phillips), and his girlfriend, Rebecca (Melanie Vallejo), their little expedition encounters the island's reigning breed, but one who stands on two legs, not four. The Pieman clan has survived, and their need to feed and breed turns Nina, Matt, Jack and Rebecca into this island's next endangered species.",
+      "writers": [
+         "Michael Boughen",
+         "Jody Dwyer"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1064744/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTgzMDk0NTc5MF5BMl5BanBnXkFtZTcwODUyMjk5MQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Nathan Phillips, Leigh Whannell, Bille Brown | See full cast and crew »"],
+      "reviews": [
+         "The little hype surrounding this Australian feature is probably better left unnoticed, as while I found it solid it doesn't pull any out punches we haven't already gone through before to leave an impressive imprint. Hey it reminded me of an other Australian horror film 'Wolf Creek (2005)' and maybe 'The Hills Have Eyes (2006)' remake, but this time the escalating terror is found in the beautiful forests of Tasmania as a group of young adults head out searching for the supposedly instinct Tasmanian tiger, but actually earth up something more horrifying about the area's local history. For me this film really came out of nowhere, as the striking poster artwork (featuring a half eaten pie with an eyeball and finger within it) caught my attention and some rave reviews can feed your appetite. Sadly though, I was only one of four who were at the cinema to see it. I probably could've gone without seeing it and waited for it to hit DVD, but there's nothing quite like watching a horror film on the big screen. What this story sets off to be is a little unsure, but about midway through you know where it's heading (Psycho territory with cannibalistic currents). I might sound like a broken record, but really this isn't nothing new compared to much modern horror focusing on the visual torture and torment of its victims. While it might not be as abundant, it still lingers and has a really nasty side. It has explicitly raw moments with pockets of vicious intensity, but it was not the violence that unnerved but the ominously remote woodland backdrop with constant eerie imagery. The scenery is gorgeously lush, but lurking beneath the gracefully hypnotic setting is the true grotesque horror that's hidden very well. The nocturnal, but surprisingly also the day sequences can get under your skin. The cinematography is professionally catered for with it drawing upon the atmosphere and setting. Editing is brisk, but well infused. As for the story it uses actual facts and spins them in to total fiction. The main base of the story centres on the history of the extinct Tasmanian tiger, which some still believe exists and combining that legend of the cannibalistic Irish convict Alexander Pearce that managed to escape from the penal colony and headed for the wilderness to only be hanged in 1824. Then we hit modern times with a group of four after the exclusive photograph of the Tiger, but one of girls lost her sister within the same area they're visiting in a supposed drowning many years earlier. Now cue those articles of missing backpackers. But when they meet the creepy locals, the inbred jokes flow. Still we're flooded with flashbacks, piled on to flashbacks. Even if the set-up is clichéd and obviously formulaic, these back stories do give it a little more background and depth, and lessens the idea of turning in to something meaningless. The script has its questionable actions, but mainly lets it go about things. The pacing is rather leisured, and I can see many complaining about the slowness of the opening half (think of the criticism that 'Wolf Creek' copped). But I thought it was milked out accordingly and with a purpose, to hit you hard when it finally changed direction. Featuring heavily is that it centres on mood, visuals and sounds than that of tearing and ballistic actions. Even when it does break out from it's causal handling, it still doesn't burst out and only adds tension with jolts in scattered slabs and formulated rushes. When it comes to the end, I found it to be stumbling there and results not entirely satisfying. But it still keeps that glum feel throughout. Jody Dwyer's assured direction is slick and stylish. Maybe too so, but it's a brash display as his not afraid to bare gore and flesh� usually the latter in recent times sees little daylight in the mainstream horror releases. Even animal lovers should be aware. The performances are workmanlike, but no real empathic edge was created. Well not for me. One thing though it never seemed like they were ever aware in what type of situation they were or could be in, but when it unfolded it didn't entirely changed the perception. Leigh Whannel, Nathan Phillips, Mirrah Foulkes and Melanie Vallejo play the unlucky party. A basic, but durably crafted genre effort.",
+         "Possibly the worst thing a distributor can do if they're testing to see if an Aussie horror should be released in the US/international cinema circuit is to release it in Australia first. First, the market for horror in OZ is tiny (only a small amount of people will go to see even the best horror at cinemas). Second, Aussies are the harshest critics of their own films - and if there is anything remotely wrong with the film the \"tall poppy syndrome\" kicks in and we cut it to shreds. We tend to focus on what's wrong with a local film rather than what's right with the film. OK, so the film is a little derivative borrowing from Deliverance, Wrong turn and Hills have eyes - so what, most horrors derive from something these days. But what's right with the film? Plenty. There is some nasty, nasty, gore and cannibalism that made girls scream, people in the cinema jump three feet in the air and watch through trembling hands. The myth of the Pieman and Tasmanian Tiger is fascinating and intriguing storyline. Once the carnage kicks in this is a tense, brooding film that will have you on the edge of your seat. There are some very,very, good scenes - particularly the rabbit, and the bear trap scene. The setting and look of the film is brilliant - dark gloomy and and ominous. I loved this film! It's up there with the best Aussie horrors and among some of the better international horrors. It will proudly go on my DVD shelf.",
+         "Just saw Jody Dwyer's Dying Breed. What an excellent Australian Horror flick it is! It could well be one of my favourite Australian Films of the year. Four young cryptozoologists go to check out Western Tasmania in search of ye ol' Tasmanian Tiger. Little do they know they are stumbling upon the ancestors of Alexander Pearce, the famous Australian ex-convict, bush ranger and sometime cannibal known as the 'Pieman'. Suffice to say fine dining is loosed on the Pieman River as a group of Deliverance style in bred Tassie freaks hunt down our hapless Tiger hunters. Dying Breed is well cast with Leigh Whannell (Saw) giving us a great version of the metro-sexual out of his league in the wilds of Western Tasmania and Nathan Phillips (Wolf Creek) as a roustabout larrikin hunter. Whannel is an excellent leading man and should branch out from horror and do other serious work. The two girls Sally MacDonald and Melanie Vallejo are good too. Especially the later, when she is strung up and dismembered Cannibal Holocaust style out the back of the Pieman's shed. I'm sure Leigh Whannell must have been showing the director Cannibal Holocaust, as this scene certainly bears the imprint of that classic film and the Dying Breed scene is very well done in its brutality. The film has various very effective set pieces in a cave, at night in the bush, out the back of the killer's shed, on a bridge at dawn, etc. All shot effectively and scored very nicely. The ominous Tasmanian landscape evokes a darkness akin to what DH Lawrence said about the great primordial emptiness of the Australian bush. The film should travel well as the Aussie accents aren't too harsh, and one is a Irish accent. The family of inbred freaks are memorable and varied in their motivations and actions. Dying Breed is a great edgy genre piece that is one of the first to appear in the new wave of horror cannibal films, so its ahead of the game world wide, also. I would have to rate it right up there with Rogue from last year and Acolytes, Horseman and Rats and Cats. Why did they not enter it in MUFF? It would have won some awards! Check out the posters. I like the stylish one, while the second one with a gory pie will entice the teen market. Stylish new Ozploitation is on display, that gives hope to the future of the Australian Film Industry!",
+         "Dying Breed is a waste. It is very very little about Tasmanian Tigers and more of a redo of some other horror movies. Nothing new or different. Same old blood soaked chopping and slashing and women chasing. Tired story line. Young people lost in woods find weirdos who eat people. Seen it before many times. BORING. How to make a better movie. Drop the dumb dialogue, drop the dumb story line, get people who can act, they are called actors, less splash and more suspense, go back to telling an engaging story, and stop trying to be shocking. In fact, a good and well written movie would be shocking. Dying Breed sure was not anything worth seeing. The best part of dying breed were the few moments of the old (1930s) film clips of the Tasmaian Tiger",
+         "Some people don't like this movie already, what's not to like? Shot for 3 million, more than Wolf Creek (1 million), shot with the same cameras as Wolf Creek and unique story for an Australian movie. Basically the movie's about 4 people, presumably science geeks, as they try to find the extinct Tasmanian Tiger and the lead girl's sister, who presumably drowned 8 years ago. What i did like about this film, not the sex scene, but the build up to the on and off screen violence but the lack of music is what doesn't make this film come to life like many others. Nerida Tyson Chew, who we have heard from the \"Twisted\" series one and two, tries more subtly to put his music through noises, like Francois Tetaz did in Wolf Creek. Jody Dwyer shot the movie a bit too stylish, with the camera looming in on more close up shots, feeling a little too claustrophobic. Leigh Whannell's character (Matt) was the most quiet character out of the lot, which i didn't like at all, Nathan Philips character (Jack) was the most offensive but the most funny of the pack, the Ruth and Bec characters who go with them, they do alright, but Bec dies too quickly. The cannibals of the town give a good performance across the board, enjoying some good raw meat, courtesy of Justin Dix, who did some nice makeup effects on this show, if put into the right direction, could be the next John Carl Buechler. The ending of Dying Breed is a strange one but nonetheless a shocker, which it felt like it had a few too many endings, but once it did end i felt better because the little girl in the film was creepy. Not everyone will like this film, but i'm a supporter of good Aussie films and this one goes on my shelf in 6 months time, good work. Rated MA15+ for Violence, Gore, Language and a Sex Scene.",
+         "Australia is a beautiful country, the people and the land, however it has a dark history and 'Dying breed' is a small piece of that nostalgic pie. Two couples head into the Tasmanian wilderness in search of the extinct Tasmanian tiger and soon find themselves in unforgiving country populated by unforgiving locals. The direction and acting is steady with no real stand out performance and the characters seem a bit flat at times but the shots of Tasmania's isolated country side are fantastic and set a haunting tale. This formula has been applied countless times so there's nothing new here but its done well serving up some good blood and guts and proves along with Wolf creek that Aussie film can do horror. If your Austalian make it tradition to go see Australian films!",
+         "\"Dying Breed\" was pretty much everything that the promo and trailer suggested that it would be. Although it was predictable, as most horror movies of this type are these days, the actors did a decent job and the pacing of the film was such that it managed to keep me interested. The complaint that I have isn't specifically with this film, rather it's with the trend in horror movies over the past few years. Does every single person, in every single one of these movies have to die? How many times do we really need to see a man sit helplessly by while his wife, girlfriend, or daughter is raped, brutalized, or even cannibalized before his eyes? Do we really need it pounded into our brains over and over and over that darkness and evil reign supreme, and are utterly inescapable? I understand that people go to see horror movies for the novelty and fun of being frightened, but now, horror movies are unendingly bleak and utterly devoid of any hope for any of the protagonists in them. Who is there to root for when every character in the movie is doomed to die no matter what? I'm a horror movie geek, and I've been one since I was a little kid. Were I to pick a horror movie that I thought to be a success by most standards, I'd have to go with perhaps \"Alien\", or \"Jaws\". Both films were considered frightening in their day, both films featured plenty of guts and gore, and holy moley, a few folks even managed to survive their ordeals. I did enjoy \"The Blair Witch Project\" and other movies similar to it, but I'm finding myself bored by movies like \"Dying Breed\", rather then genuinely enjoying them.",
+         "\"Dying Breed\" is a largely derivative and predictable Aussie horror flick that nevertheless benefices from a handful of marvelous elements, like a fascinating historical plot outline (albeit not at all accurate), breathtaking filming locations & scenery and a few unyielding shock sequences. The pivot character in \"Dying Breed\", even though he only briefly appears during the opening sequence, is Alexander Pearce a.k.a. \"The Pieman\". He was a cannibalistic murderer of Irish descent who got exiled to Tasmania to pay for the crimes he committed. Back in the early eighteen hundreds, when the whole of Australia was still a British prison colony and Tasmania an island where the heaviest cases were shipped off to, Alexander \"Pieman\" Pearce was the only convict how managed to escape and flee into the impenetrable Tasmanian forests. Obviously this plot outline isn't entirely accurate, as the real Pieman was in fact the nickname of a completely different prisoner and the real Alexander Pearce died at the gallows in 1824, but hey, it's a horror movie so everything goes. After the introduction of Pearce and the Tasmanian region, the plot resumes in present day Tasmania with the arrival of four twenty-something adventurers. Nina is a zoologist and wishes to continue the research of her sister who died here eight years ago whilst looking for last remaining species of the Tasmanian Tiger. She and her friends quickly discover that her sister didn't just drown, but fell victim to the bewildered and horribly inbred descendants of Alexander Pearce. They have only one goal in their miserable existence and that is to keep the bloodline alive. At the festival where I watched this movie, \"Dying Breed\" was exaggeratedly promoted like an Aussie interpretation of \"The Texas Chainsaw Massacre\" and \"The Hills Have Eyes\". Perhaps this is a fairly apt comparison, but stating something like that inevitably raises high expectations that \"Dying Breed\" can't possible fill in. Director Jody Dwyer does a reasonably good job, but he/she (?) yet doesn't succeed in generating an atmosphere of despair and sheer terror. It also takes slightly too long before the suspense and nastiness truly breaks loose. The first half of the film is overly stuffed with typical inbred jokes and stereotypical tourist behavior. There are a handful of downright disgusting sequences, notably a gruesome bear trap death sequence and a few close ups of pick-axes-in-the-head moments, which will undoubtedly appeal to the bloodhounds among us. The nature and wildlife images are dreamy to stare at and the acting performances are surprisingly above average. One of the lead actors is Leigh Whannell who, along with James Wan, created the original concept of \"Saw\".",
+         "Between 1788 and 1868, Australia served as a penal colony for the British Empire and Tasmania was the most feared. The prisoner Alexander \"The Pieman\" Pearce escaped and survived in the woods eating human flesh. In the present days, the researcher Nina (Mirrah Foulkes) organizes an expedition to Tasmania to proceed the work of her deceased sister Ruth and find evidences of the extinct Tasmanian tiger in the wilderness. She travels to a remote area with her boyfriend Matt (Leigh Whannell) and his troublemaker friend Jack (Nathan Phillips) that brings his girlfriend Rebecca (Melanie Vallejo) and they spend the night in a village of descendants of \"The Pieman\". Sooner the quartet discovers that things have to stay hidden to survive. \"Dying Breed\" is another sub product of \"The Texas Chainsaw Massacre\" and gives the sensation of déjà vu to the viewer with the total lack of originality. There are many flaws in the predictable story, like for example, how could an expedition travel unarmed in a remote area in the wilderness? What would they expect while observing the wildlife? How can a group travel without a Plan B for unexpected situations? The greatest different in this feature is the wonderful location in Australia. Further, the acting is good and for fans of the slash genre, it entertains. My vote is six. Title (Brazil): Not Available",
+         "While I'm not sure that I'd watch Dying Breed again, I have to admit that I enjoyed it through the first time. There are some great landscape shots in this movie and, overall, I felt the atmosphere was creepy, lending itself well to the dark tone of the picture. There was some suspense and a bit of gore as well. However, there was nothing really new or interesting in the plot. Similar movies have covered the same material before (Wrong Turn, perhaps to a lesser extent even The Chainsaw Massacre movies...) and although there's a link to an actual historical figure, it's a pretty weak link and there's no new twists to make this unique. The characters are all pretty unlovable, so there's not much to relate to in that department. The production values are high, so I have to recommend this over some of the other After Dark Horror Fest films I've seen. I feel it's a solid five; flawed but very watchable."
+      ],
+      "genres": [
+         "Horror",
+         "Thriller"
+      ],
+      "productionCompanies": ["Ambience Entertainment"],
+      "summaries": [
+         "Dying Breed interweaves the two most fascinating icons of Tasmanian history: the extinct Tasmanian tiger and \"The Pieman\" (aka Alexander Pearce) who was hanged for cannibalism in 1824. Against all odds, Pearce escaped from the most feared penal settlement of the British Empire - Sarah Island - and disappeared into the impenetrable forests of Western Tasmania. Seven convicts escaped with him, yet Pearce was the only one that emerged... along with chunks of human flesh in his pockets. The legend of Pearce was born. An extinct species... a long forgotten legend... both had a desperate need to survive; both could now have living descendants within the Tasmanian bush. Many sightings of the tiger have been reported. Many hikers have gone missing. Hundreds in fact. Zoologist Nina is convinced there are still tigers remaining in the Tasmanian wilderness, and she has proof - a photograph of a paw print snapped by her sister just before she met with a fatal accident in the bush eight years before. Unable to attain funding for an expedition, Nina fears her wish to finish her sister's work (and perhaps lay to rest recurrent nightmares she has about her sister's death) will never happen. Her partner, Matt, manages to persuade an old mate Jack to help finance the trip - at a price. Jack brings along a girlfriend, Rebecca, who uses the trip as an escape from her stifling real estate job. On their quest to find the extinct tiger, the group venture deep into isolated territory and into the domain of \"Pieman\" descendants. \"Sarah\" is a small township that passionately upholds its cannibalistic heritage in honour of the convict patriarch that gave birth to it. It needs to stay hidden to survive... but it also needs fresh \"stock\" to breed. The four hunters become the hunted.",
+         "Between 1788 and 1868, Australia served as a penal colony for the British Empire and Tasmania was the most feared. The prisoner Alexander \"The Pieman\" Pearce escaped and survived in the woods eating human flesh. In the present days, the researcher Nina organizes an expedition to Tasmania to proceed the work of her deceased sister Ruth and find evidences of the extinct Tasmanian tiger in the wilderness. She travels to a remote area with her boyfriend Matt and his troublemaker friend Jack that brings his girlfriend Rebecca and they spend the night in a village of descendants of \"The Pieman\". Sooner the quartet discovers that things have to stay hidden to survive."
+      ],
+      "budget": 3000000
+   },
+   "movielensId": 82581,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2008-04-26",
+      "dvdReleaseDate": "2009-03-31",
+      "directors": ["Jody Dwyer"],
+      "runtime": 92,
+      "movieId": 82581,
+      "title": "Dying Breed",
+      "mpaa": "",
+      "actors": [
+         "Mirrah Foulkes",
+         "Leigh Whannell",
+         "Nathan Phillips",
+         "Melanie Vallejo",
+         "Bille Brown",
+         "Peter Docker",
+         "Brendan Donoghue",
+         "Sally McDonald",
+         "Boris Brkic",
+         "Sheridan Harvey"
+      ],
+      "imdbMovieId": "1064744",
+      "originalTitle": "Dying Breed",
+      "genres": [
+         "Thriller",
+         "Horror"
+      ],
+      "youtubeTrailerIds": ["dtnPGuvmnug"],
+      "plotSummary": "In the depths of the Tasmanian wilderness a group of hikers looking for a Tasmanian Tiger. They encounter a group of cannibals descended from Alexander Pearce, who was hung for cannibalism in 1824, out to find fresh breeding stock.",
+      "tmdbMovieId": 18029,
+      "avgRating": 2.24242,
+      "releaseYear": "2008",
+      "numRatings": 33,
+      "posterPath": "/9PV0U0WXBzM6G48XuXT97d7FWB9.jpg"
+   }
+}

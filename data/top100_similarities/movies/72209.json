@@ -1,0 +1,542 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "hero",
+            "id": 1701
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "superhero",
+            "id": 9715
+         },
+         {
+            "name": "children",
+            "id": 10103
+         },
+         {
+            "name": "animation",
+            "id": 10336
+         },
+         {
+            "name": "robot",
+            "id": 14544
+         },
+         {
+            "name": "family",
+            "id": 18035
+         }
+      ],
+      "imdb_id": "tt0375568",
+      "video": false,
+      "title": "Astro Boy",
+      "recommendations": [
+         9906,
+         19585,
+         50321,
+         16866,
+         1267,
+         50359,
+         15512,
+         13053,
+         10199,
+         5559,
+         14248,
+         65759,
+         12222,
+         38055,
+         45772,
+         7484,
+         41216,
+         9928,
+         11619,
+         23398
+      ],
+      "backdrop_path": "/koxKvzuShnLANUXWH1vkJEWigGB.jpg",
+      "revenue": 19551067,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Dr. Tenma (voice)",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c75086079",
+               "name": "Nicolas Cage",
+               "profile_path": "/fW37Gbk5PJZuXvyZwtcr0cMwPKY.jpg",
+               "id": 2963,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Cora (voice)",
+               "gender": 1,
+               "credit_id": "52fe46dd9251416c7508607d",
+               "name": "Kristen Bell",
+               "profile_path": "/9DoDVUkoXhT3O2R1RymPlOfUryl.jpg",
+               "id": 40462,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Dr. Elefun (voice)",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c75086081",
+               "name": "Bill Nighy",
+               "profile_path": "/imAkeJi8C8ZHpPPB8RP92AD3kYW.jpg",
+               "id": 2440,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "General Stone (voice)",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c75086085",
+               "name": "Donald Sutherland",
+               "profile_path": "/luKIiU3wAAZ5C6j2053g35cRhzE.jpg",
+               "id": 55636,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Astro Boy (voice)",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c75086089",
+               "name": "Freddie Highmore",
+               "profile_path": "/5wou22G4dMRcnpMrRyPfLclZ2lD.jpg",
+               "id": 1281,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Orrin (voice)",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c7508608d",
+               "name": "Eugene Levy",
+               "profile_path": "/69IBiDjU1gSqtrcGOA7PA7aEYsc.jpg",
+               "id": 26510,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Sludge (voice)",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c75086091",
+               "name": "Sterling Beaumon",
+               "profile_path": "/s8uNrpLVeFyNAEGdgHIonCwVSRz.jpg",
+               "id": 80641,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Ham Egg (voice)",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c75086095",
+               "name": "Nathan Lane",
+               "profile_path": "/2eB01W4VURqihttVdewfhfhhCwW.jpg",
+               "id": 78729,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Zog (voice)",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c750860ab",
+               "name": "Samuel L. Jackson",
+               "profile_path": "/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg",
+               "id": 2231,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Narrator",
+               "gender": 1,
+               "credit_id": "52fe46dd9251416c750860af",
+               "name": "Charlize Theron",
+               "profile_path": "/k5Xt2mNlraX7yHYaPy9gvayCaKV.jpg",
+               "id": 6885,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Mr. Squirt / Math Cowboy / Boxer Robot",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c750860b3",
+               "name": "David Alan Grier",
+               "profile_path": "/5tkt3qRZTco4sz604aTIarQ0m8W.jpg",
+               "id": 58563,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Mr. Squeegee / Scrapheap Head / Stinger Two",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c750860b7",
+               "name": "Alan Tudyk",
+               "profile_path": "/6QuMtbD8kmhpwWhFKfNzEvHRLOu.jpg",
+               "id": 21088,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "General Heckler (voice)",
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c750860bb",
+               "name": "Newell Alexander",
+               "profile_path": "/15JqrblCZPd4Yy6mf6XMeQ0FUGs.jpg",
+               "id": 84080,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Grace (voice)",
+               "gender": 1,
+               "credit_id": "52fe46dd9251416c750860bf",
+               "name": "Elle Fanning",
+               "profile_path": "/cbFVl9NWREa0xD2vW9Z3J4ursiu.jpg",
+               "id": 18050,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Cora's Mom (voice)",
+               "gender": 0,
+               "credit_id": "55375073c3a36878fd001934",
+               "name": "Pilar Flynn",
+               "profile_path": null,
+               "id": 1397895,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Trashcan (voice)",
+               "gender": 2,
+               "credit_id": "5ab3dfdfc3a368618d00c4a1",
+               "name": "Dee Bradley Baker",
+               "profile_path": "/zFXwtsdvUCeNkzCzYpYZdAmTkJY.jpg",
+               "id": 23680,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Zane (voice)",
+               "gender": 0,
+               "credit_id": "5ab3e0059251417b0500b343",
+               "name": "Moisés Arias",
+               "profile_path": "/ePxOMBZwY0dCYZm3VKa1CyghaWz.jpg",
+               "id": 57412,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Mr. Moustachio/Burning Robot (voice)",
+               "gender": 0,
+               "credit_id": "5ab3e01c9251417aff00be27",
+               "name": "Ryan Stiles",
+               "profile_path": "/tiOq5QhUq1t0C7eJSrg61m0sSSu.jpg",
+               "id": 162606,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Sparx (voice)",
+               "gender": 2,
+               "credit_id": "5ab3e0490e0a265f2d00ce5d",
+               "name": "Matt Lucas",
+               "profile_path": "/jeDy8LONCjOapC551F1EKCurWan.jpg",
+               "id": 26209,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Widget (voice)",
+               "gender": 1,
+               "credit_id": "5ab3efb20e0a265f3300c530",
+               "name": "Madeline Carroll",
+               "profile_path": "/n5px27JkZdGgFLoUdD6UA5ZFaqK.jpg",
+               "id": 62564,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c7508609b",
+               "name": "David Bowers",
+               "profile_path": "/1QlAQ7Q3e0gp1oQwc72v6Rx15Jj.jpg",
+               "id": 33183,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c750860a1",
+               "name": "Osamu Tezuka",
+               "profile_path": "/sDjWYdh8lPV2ZpX45i7VfYeqGdE.jpg",
+               "id": 58160,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46dd9251416c750860a7",
+               "name": "Timothy Harris",
+               "profile_path": null,
+               "id": 14711,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5525d91ec3a3687e0e002cbc",
+               "name": "Ken Tsumura",
+               "profile_path": null,
+               "id": 61297,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552c5ed6c3a3685bc100030c",
+               "name": "Pablo Calvillo",
+               "profile_path": "/h1Lggtx8ZIQiEdgMmDmrlTvBIgU.jpg",
+               "id": 1451274,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553750e59251414ab90013cb",
+               "name": "Pilar Flynn",
+               "profile_path": null,
+               "id": 1397895,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5542ce22925141586f000731",
+               "name": "Earl A. Hibbert",
+               "profile_path": null,
+               "id": 1451676,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554794019251413fc0008b30",
+               "name": "John Dillon",
+               "profile_path": null,
+               "id": 1460488,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57711154c3a368153c000034",
+               "name": "John Ottman",
+               "profile_path": "/AlYg0cVHpwlTR4wY1iIy9gAsPKx.jpg",
+               "id": 9039,
+               "department": "Sound",
+               "job": "Music"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 11.250688,
+      "production_countries": [
+         {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+         },
+         {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 16577,
+      "vote_count": 513,
+      "budget": 10000000,
+      "overview": "Set in the futuristic Metro City, Astro Boy (Atom) is a young robot with incredible powers created by a brilliant scientist in the image of the son he had lost. Unable to fulfill his creator's expectations, Astro embarks on a journey in search of acceptance, experiencing betrayal and a netherworld of robot gladiators, before returning to save Metro City and reconcile with the father who rejected him.",
+      "similar": [
+         49521,
+         1924,
+         141052,
+         263115,
+         1452,
+         8536,
+         30061,
+         272,
+         297762,
+         382322,
+         251519,
+         14011,
+         65291,
+         9531,
+         40662,
+         379291,
+         13640,
+         2048,
+         98566,
+         44912
+      ],
+      "original_title": "Astro Boy",
+      "runtime": 94,
+      "poster_path": "/4kQczIhUFTnDWwG6HKsgCxLoi6.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Tezuka Production Company Ltd.",
+            "id": 3196,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+            "name": "Summit Entertainment",
+            "id": 491,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Imagi Animation Studios",
+            "id": 3463,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+            "name": "The Weinstein Company",
+            "id": 308,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2009-10-15",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "Have a blast.",
+      "adult": false,
+      "homepage": "http://www.astroboy-themovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Hong Kong",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["David Bowers"],
+      "runtime": 94,
+      "synopsis": "In the future, the Metropolis of Metro City is suspended above the Earth using advanced technology. Situated through the city are numerous robots who do many of the chores and tasks for the human occupants. When a robot fails to have a use any longer, it is pitched over the side onto the cluttered landscape far below. One day, after acing another quiz, Toby Tenma is being driven home by his family's robot butler, Orrin. However, Orrin explains that Toby's father, Dr Tenma, has a meeting at the Ministry of Science. Wanting to see his Dad in action, Toby temporarily reprograms Orrin to take him there. Toby manages to sneak in, and comes across his Dad talking to President Stone, who has been working with Dr Tenma and Dr Elefun to create a Peacekeeping robot, the likes of which he hopes will help him be re-elected. Dr Elefun explains that using a fallen star, he was able to synthesize both a positive and negative energy effect from this star. Stone is more intent on the use of the red core, and places this in the Peacekeeping robot, which soon turns it into a negative force, that begins to absorb other items to grow larger and increase it's weaponry. The group manages to get behind a shield to stop the robot from destroying them, but Toby does not make it in time, and is vaporized by the robot, before Dr Elefun can shut it down. Heartbroken over the loss of his son, Dr Tenma works in secret with Dr Elefun to create a robotic duplicate of Toby, using a strand of his son's hair and memories that have been stored away. Dr Elefun provides Tenma with the blue energy core to power the new Toby, who comes to life as if nothing had ever happened to him. Tenma attempts to have Toby reclaim his original genius-level thinking, but Toby's mental power is more focused on some more fun things than actual study. When Toby retreats to his room, he sees some cleaner bots outside, and is surprised that he can understand them! Toby tries to take a closer look, but ends up falling out of his window. On the way down, he unknowingly activates rocket boots, and soon, joyously takes off in flight. Returning home, Toby is dismayed when he finds Dr Elefun there, on orders from Dr Tenma to help him shut down Toby. Tenma has found it almost impossible to see the new Toby as his son, and thinks of him more as a machine than anything. Dr Elefun cannot bring himself to shut down Toby, and explains to the robot-boy that he probably has a destiny far outside of the world he has known. Toby then leaves, and flies off over Metro City. Meanwhile, President Stone, still smarting over the fiasco with the Peacekeeping robot, is growing more and more disturbed that his eventual re-election seems unlikely. When his troops find Toby flying through the air, Stone is shocked, and assumes that the blue energy core that Elefun synthesized must be powering the boy. Stone orders his men to capture Toby, but they are outdone at every turn. Finally, Stone attempts to destroy Toby to get the blue core, but ends up blowing Toby off Metro City to the ground below. Stone then orders his men to scan the world below to find Toby. Toby wakes up on a scrap pile of old robots, but soon is found by a group of kids, scavenging for old parts. Toby's introduction does not last long, when he is whisked away by three robots, claiming to be part of a group called the \"Robot Revolutionary Front.\" The three members claim they have liberated Toby, and give him the nickname of \"Astro.\" Toby eventually finds his way out of their grasp, but the RRF warns Toby to beware of a man named Hamegg, who they claim destroys robots. Astro rejoin the group of kids, led by a girl named Cora. He finds their home where a number of wayward kids live, and are supervised by Hamegg himself. However, Astro is relieved when Hamegg explains to him that he loves robots, and works to fix them up. The next day, the kids along with Astro go looking for spare parts. They come across a giant robot that has been non-functioning for some time. Unseen by the kids, Astro uses the power of his blue core to revive the giant robot, known as Zog. The kids greatly impress Hamegg when they return with the enormous robot. They then proceed to clean him up and paint him up. Later that evening, Astro finds Cora attempting to call her parents in Metro City, but she claim she can't get through, and wonders if they have forgotten her. The next day, the group along with Hamegg, take Zog to the Robot Wars. Astro is further shocked to find that Hamegg rebuilds robots as fodder to fight in the wars. Hamegg claims that since robots have no emotions or feelings, it shouldn't matter...right before he zaps Astro, rendering him unconscious. This move shocks Cora and the others, until Hamegg explains that he knows that Astro is really a human-looking robot. Hamegg then pits Astro against other robots in the Robot Wars arena. Astro tries not to fight, but soon finds himself being forced to do so against the other combatants. Hamegg then sends Zog to fight Astro, but the giant robot refuses, due to being helped/powered up by Astro. When Hamegg zaps Astro trying to force him to fight, Zog attempts to break the first rule of robotics and destroy him, until Astro intervenes.",
+      "writers": [
+         "Osamu Tezuka",
+         "David Bowers"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0375568/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI5NTEwNTcxMl5BMl5BanBnXkFtZTcwMDEyMTE4Mg@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Freddie Highmore, Nicolas Cage, Kristen Bell | See full cast and crew »"],
+      "reviews": [
+         "I just came from an advance screening of Astroboy where I dutifully took my kids at 10 am to watch \"this\" thinking that if I was lucky I would be able to doze off for a few minutes during the movie. Boy, I couldn't! The story was captivating from the beginning. Yes, it was very directed at kids, you know, the far off humour and such, but when I saw Toby, the genius' \"kid\", I felt that the movie was after all NOT just a Pinocchio rip-off where an old man made a robot-boy because he was bored or lonely... the reasons behind the creation of Astroboy were tragic and even mature. Of course, if you are a manga aficionado, you may be thinking \"duh! that's how's supposed to be\", but I am NOT. I barely watched a show now and then when I was a kid (I'm 36 years old... too young for Astroboy), so I wasn't really aware of the story. So I thought, well, this development has to be a fluke inherited from the original story, from then on it should go downhill... but it did NOT. The story is full of tragedy, though decisions that if you think them through you can even understand (like a father understanding that memories cannot truly replace his son), and redemption that may be obvious to superheroes experts, but are very well exposed to a new generation of kids that will witness a clear fight between good and evil (positive and negative forces) adorned with an excellent and adequate portion of comedy. Not just a kid's movie, but a movie that I will surely watch again when my kids \"force\" me to buy it and to watch it with them dozens of times. Go, Astro!",
+         "Unlike many of the other reviews(it seems), I don't have an ax to grind. I vaguely remembered the character and actually thought it was a French cartoon. If it was on TV, I never saw it. As such, my expectations were fairly plebeian - just a family film with good production values and some entertainment value. Well, Astroboy IS well produced and IS very entertaining. There was plenty of comedy to keep the film light and lots of action to keep things moving. I might agree with those who think the portrayal of Toby's(Astroboy's) father was rather cold. However, it fits with the sequence of events and one assumes that the producers were following the original story (I'm not going to read the comic book to find out). There are many endearing characters in the film and interesting villains to boot. The animation varied from good to excellent and the pacing avoided any significant lulls. All in all, well and cleverly done. Good job, Imagi, and all the talented people who contributed. I recommend this to anyone who wants some light-hearted entertainment. My family loved it.",
+         "I never expected to see some high-art film when I saw the trailer for the movie. It's Astro Boy, the kid fighting evil aliens or robots on Saturday mornings. I expect it to be just a movie about a young super kid fighting.. well.. robots and aliens. So when I walked into the movie I was pleasantly surprised that there are more than fighting in the movie. I was touched in many places where the father (Dr. Tenma) and son (Toby/ Astro)'s bittersweet relationship is shown. The acting is GREAT! Both by the actors (Nicholas Cage, Donald Sutherland, Nathan Lane, they're all great) and by the animators in Hong Kong. There are also many funny moments, although not enough time was given to laugh at them. I wish the pacing was a bit slower at the start of the movie (but I read many people were bored at the start of the movie). Well.. the problem is that they need to zip in all the story about the beginning of Astroboy, in about 15-20 minutes time. I love the little robots like Trash Can and the RRF. They are such relief makers in the movie. Most of the funny moments came from them. I read reviews about certain political agendas etc, in the movie. But i disagree. Those statements are only made to support the story, and shouldn't be looked at with too much thought. Remember this is a kid's movie, and should be taken lightly as an entertainment source, don't think too much about it. I don't really get why the box office for this movie is so bad. I mean, this is WAY BETTER THAN Bee Movie, or Space Chimps, or Open Season 2... SERIOUSLY. It deserves better. I went to see this movie on a Saturday and there were a lot of parents with kids in the cinema. When the movie finished the kids were happy and thrilled and said \"That was awesome!\" Take your kids to this movie. They'll love it.",
+         "Before going to see Astro Boy I decided to read some of the comments that were posted here. I read reviews by some who liked the movie as well as by some who did not like the movie. With an average score of 6.4 I went to see the movie with relatively low expectations although I got the feeling that those who did not like the movie were mostly upset about the movie not being \"true\" to the original TV series and were having some issues with certain characters reminding them of other characters such as Pinocchio. Well, I did not see the original TV series so I did not care whether or not the movie and the TV series were similar enough. I also did not mind that some of the side kicks may have had some resemblance to characters from other movies. The bottom line is that my 5.5 year old and I loved Astro Boy!",
+         "For some reason my expectations were not high for this movie, the IMDb rating was pretty average and there was not much hype surrounding it's release. It seems any computer animated movie that is neither Pixar nor Shrek has a difficult time getting noticed. Having seen this movie now I can whole heartedly say that this movie is as fun and action packed as any movie from the Pixar stable. The visuals are excellent and on a par with the latest computer generated movies, the story is heart warming and touches on philosophical themes often related to more adult titles like Blade Runner or even Ghost in the Shell, the action is well handled and true to the cartoon origins of the title and ultimately there is enough depth and charm in this movie to satisfy both kids and adults. The only drawback I feel this movie has is the somewhat out of place voice acting of some of the main characters, it seems that the producers wanted the film to be attached to some big name actors rather then finding voice actors that would suit the specific characters,specifically I felt that Bill Nighy voice was out of place as the Professor and perhaps Nic Cage could have brought more energy to the role. It did feel as though the voice work was done after visuals and not vice versa which led to a somewhat flat performance by some actors. That, however is just me being ultra critical, overall this is a top draw movie and worth a look. Give it a try.",
+         "This was a really good movie. I really enjoyed this. Granted I'm not a fan of Astro Boy, but I still enjoyed this film. The voice actors delivered great performances. Nathan Lane was brilliant as Ham Egg, as was Kristen Bell as Cora. Freddie Highmore did great as Astro, and as much as everyone groans whenever Nicolas Cage is mentioned, he did a wonderful job as Dr. Tenma. The action in this film was great. I was never bored during the film. It had a lot of great stuff, and some funny moments. It's a great animated film that delivers on action, great performances and awesome sequences. I had a great time with Astro Boy. I hope it does for you too.",
+         "The first fifteen minutes of its dialogue was groan-inducing...this, combined with Nic Cage's droning voice is enough to turn the viewer off quickly. Fortunately, you can't judge this one by its opening act. As soon as Astro leaves Metro City, the film really picks up. This is surprisingly intelligent, fun, nostalgic and engaging. The film manages to canvass some rather complex ideas regarding robotics, which really raise the quality of the story to a higher level. Characters have some shades of grey which are much appreciated. The animation is strong, though it is a little too Western in appearance at times, and it would have been nice to see a bit more anime style. Unfortunately, the lack of the classic music theme does leave a gaping hole.",
+         "I don't know who said they thought this was a Rip-Off of Pinnochio but it isn't and never was. I don't know why people insist on taking movies and trying to find other movies \"they ripped off\". For me as a kid it was one of my favorites and every time my 11 year old grandson comes over we watch one of the old B&W episodes I have on DVD. I took him to the theatre to see this just me and him and we were both like a couple of kids.(I'm 55) I'm not going to spoil it for anyone that has not seen it but I believe it is a great family movie, or at least one you can let your child watch without supervision. I enjoyed it a lot. My Grandson looks forward to our weekly viewings now with his Grandpa. As a long time ASTROBOY Fan I wish we could figure out if it is one word or two ? All my old stuff the ASTROBOY runs together. Anyway I believe this is a fun entertaining movie and not for all, but give it a try for your kids and grandkids. I think they will enjoy it.",
+         "This film is about a top robot scientist, who copes with his sons death by building a high tech robot to replace his son. I find \"Astro Boy\" very well made. It has got an engaging and exciting plot with plenty of action. There are also plenty of emotional elements to touch people's hearts. The leading character, Toby, is well portrayed. he is such a good boy with a sad background. It is easy to sympathise with his situation, making viewers connect with him and hence be engaged by the story. Visuals are great as the sets are vibrantly composed, making every scene a joy to watch. \"Astro Boy\" is a fun film to watch. Both kids and adults will all be entertained by it!",
+         "Astro Boy has always been the symbol of the golden era of anime as well as the golden era of American licensing of anime. This movie presents Astro Boy in a slightly new way. The story for it is rather simple, but doesn't fail in keeping one entertain throughout it's time run. Those who seen the three anime adaptations would already know the origin of Astro Boy's creation. That's still included as well as appearances of a couple of recognizable characters. And a couple of new additions that fit in for this movie. Now to list the good and bad thing about this movie. The good thing is this movie remains true to the concept and Astro Boy a like. It still takes place in the future where robots and humans live together. As well as robot civil rights which was a common topic in the previous Astro Boy adaptations on robots being questioned whether they should have the same rights as humans or not. Bad thing is that the movie could of been a whole lot more if the writers made the movie feel more close to the anime with the addition of more characters or have Dr. Elefun & Daddy Walrus have either bigger parts or have at least have the same feel as their anime counterparts. I also think this movie tried too hard in Americanizing it by adding certain human characters that look like they belong in a different movie or the fact that they were trying to make it look more American by having the characters eat pizza instead of tempura. The die hard fans of Astro Boy will likely to still enjoy this movie. It's not a mirror copy of it's anime counterpart but doesn't fail in being entertaining. To me it's something that will make popcorn taste better while watching it."
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Family",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Imagi Animation Studios",
+         "Imagi Crystal",
+         "Tezuka Productions"
+      ],
+      "summaries": [
+         "Set in futuristic Metro City, Astro Boy is about a young robot with incredible powers created by a brilliant scientist in the image of the son he has lost. Unable to fulfill the grieving man's expectations, our hero embarks on a journey in search of acceptance, experiencing betrayal and a netherworld of robot gladiators, before he returns to save Metro City and reconcile with the father who had rejected him.",
+         "When a scientist's young son dies, he secretly creates a powerful robot child to replace him, however the robot uses its incredible powers to become a world famous super-hero, and faces his biggest challenge when an alien race threatens Earth.",
+         "When a scientist's young son dies, he secretly creates a powerful robot child to replace him, however the robot uses it's incredible powers to become a world famous super-hero, and faces his biggest challenge when an alien race threatens Earth...",
+         "When an android replica of a boy is rejected by his aggrieved creator, he goes off to find his own identity in an adventure that would make him his time's greatest hero."
+      ],
+      "budget": 40000000
+   },
+   "movielensId": 72209,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2009-10-15",
+      "dvdReleaseDate": "2010-03-16",
+      "directors": ["David Bowers"],
+      "runtime": 94,
+      "movieId": 72209,
+      "title": "Astro Boy",
+      "mpaa": "PG",
+      "actors": [
+         "Nicolas Cage",
+         "Kristen Bell",
+         "Bill Nighy",
+         "Donald Sutherland",
+         "Freddie Highmore",
+         "Eugene Levy",
+         "Sterling Beaumon",
+         "Nathan Lane",
+         "Samuel L. Jackson",
+         "Charlize Theron",
+         "David Alan Grier",
+         "Alan Tudyk",
+         "Newell Alexander",
+         "Elle Fanning",
+         "Pilar Flynn"
+      ],
+      "imdbMovieId": "0375568",
+      "originalTitle": "Astro Boy",
+      "genres": [
+         "Animation",
+         "Action",
+         "Family",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "l-hT7dV6290",
+         "xV9PYpi-94E",
+         "V5FXCl_M5cc"
+      ],
+      "plotSummary": "Set in the futuristic Metro City, Astro Boy (Atom) is a young robot with incredible powers created by a brilliant scientist in the image of the son he had lost. Unable to fulfill his creator's expectations, Astro embarks on a journey in search of acceptance, experiencing betrayal and a netherworld of robot gladiators, before returning to save Metro City and reconcile with the father who rejected him.",
+      "tmdbMovieId": 16577,
+      "avgRating": 3.16873,
+      "releaseYear": "2009",
+      "numRatings": 403,
+      "posterPath": "/4kQczIhUFTnDWwG6HKsgCxLoi6.jpg"
+   }
+}

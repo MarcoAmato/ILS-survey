@@ -1,0 +1,2590 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "culture clash",
+            "id": 1463
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "space war",
+            "id": 3386
+         },
+         {
+            "name": "space colony",
+            "id": 3388
+         },
+         {
+            "name": "society",
+            "id": 3679
+         },
+         {
+            "name": "space travel",
+            "id": 3801
+         },
+         {
+            "name": "futuristic",
+            "id": 9685
+         },
+         {
+            "name": "romance",
+            "id": 9840
+         },
+         {
+            "name": "space",
+            "id": 9882
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "tribe",
+            "id": 10148
+         },
+         {
+            "name": "alien planet",
+            "id": 10158
+         },
+         {
+            "name": "marine",
+            "id": 11399
+         },
+         {
+            "name": "soldier",
+            "id": 13065
+         },
+         {
+            "name": "battle",
+            "id": 14643
+         },
+         {
+            "name": "love affair",
+            "id": 14720
+         },
+         {
+            "name": "anti war",
+            "id": 165431
+         },
+         {
+            "name": "power relations",
+            "id": 193554
+         },
+         {
+            "name": "mind and soul",
+            "id": 206690
+         },
+         {
+            "name": "3d",
+            "id": 209714
+         }
+      ],
+      "imdb_id": "tt0499549",
+      "video": false,
+      "title": "Avatar",
+      "recommendations": [
+         49026,
+         14161,
+         1726,
+         24428,
+         10138,
+         49051,
+         120,
+         70160,
+         122,
+         1930,
+         1865,
+         22,
+         37724,
+         58,
+         121,
+         285,
+         10528,
+         1271,
+         425,
+         1771
+      ],
+      "backdrop_path": "/5XPPB44RQGfkBrbJxmtdndKz05n.jpg",
+      "revenue": 2787965087,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 242,
+               "character": "Jake Sully",
+               "gender": 2,
+               "credit_id": "5602a8a7c3a3685532001c9a",
+               "name": "Sam Worthington",
+               "profile_path": "/9XzAE3ZnCnazub4xrSY8YBN7sNq.jpg",
+               "id": 65731,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Princess Neytiri",
+               "gender": 1,
+               "credit_id": "52fe48009251416c750ac9cb",
+               "name": "Zoe Saldana",
+               "profile_path": "/ofNrWiA2KDdqiNxFTLp51HcXUlp.jpg",
+               "id": 8691,
+               "order": 1
+            },
+            {
+               "cast_id": 25,
+               "character": "Dr. Grace Augustine",
+               "gender": 1,
+               "credit_id": "52fe48009251416c750aca39",
+               "name": "Sigourney Weaver",
+               "profile_path": "/gxBIAr3CnBjkNRoPovVJCvEGqP0.jpg",
+               "id": 10205,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Col. Quaritch",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750ac9cf",
+               "name": "Stephen Lang",
+               "profile_path": "/tqF6ibURpLvRPlgvLRvjCQqWaa2.jpg",
+               "id": 32747,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Trudy Chacon",
+               "gender": 1,
+               "credit_id": "52fe48009251416c750ac9d3",
+               "name": "Michelle Rodriguez",
+               "profile_path": "/v37VK0MNuRuJOCKPKJcZAJXRA5r.jpg",
+               "id": 17647,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Selfridge",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750ac9e1",
+               "name": "Giovanni Ribisi",
+               "profile_path": "/jvq2pimmpNdQj8o75Au9RKC7E1z.jpg",
+               "id": 1771,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Norm Spellman",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750ac9dd",
+               "name": "Joel David Moore",
+               "profile_path": "/y6AyGCsQHLoi4LegSS7VRtgRyJe.jpg",
+               "id": 59231,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Eytukan",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750ac9ed",
+               "name": "Wes Studi",
+               "profile_path": "/hIi9rjpOR4az0oJfvlx0FnKSJLv.jpg",
+               "id": 15853,
+               "order": 7
+            },
+            {
+               "cast_id": 249,
+               "character": "Moat",
+               "gender": 1,
+               "credit_id": "5a66a6ea0e0a2619450033a1",
+               "name": "CCH Pounder",
+               "profile_path": "/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg",
+               "id": 30485,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Tsu'Tey",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750ac9e9",
+               "name": "Laz Alonso",
+               "profile_path": "/6zqlURffzAErl4g4d8kiUWYWmoz.jpg",
+               "id": 10964,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Dr. Max Patel",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750ac9f1",
+               "name": "Dileep Rao",
+               "profile_path": "/lsnmeKueImKeToe4oNo4YWie4aM.jpg",
+               "id": 95697,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Lyle Wainfleet",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750ac9f5",
+               "name": "Matt Gerald",
+               "profile_path": "/cmKYaX3eFWp6agzZdnCQtVPTL3F.jpg",
+               "id": 98215,
+               "order": 11
+            },
+            {
+               "cast_id": 32,
+               "character": "Private Fike",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca5b",
+               "name": "Sean Anthony Moran",
+               "profile_path": "/vWCRgfEzCuMqsageHGpE2HD3lo3.jpg",
+               "id": 154153,
+               "order": 12
+            },
+            {
+               "cast_id": 33,
+               "character": "Cryo Vault Med Tech",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca5f",
+               "name": "Jason Whyte",
+               "profile_path": "/yIT9TmIerjcoBXLvaHI8YdLttx7.jpg",
+               "id": 397312,
+               "order": 13
+            },
+            {
+               "cast_id": 34,
+               "character": "Venture Star Crew Chief",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca63",
+               "name": "Scott Lawrence",
+               "profile_path": "/hxXSHaiMTxRcakxKGqQ97wpLt6R.jpg",
+               "id": 42317,
+               "order": 14
+            },
+            {
+               "cast_id": 35,
+               "character": "Lock Up Trooper",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca67",
+               "name": "Kelly Kilgour",
+               "profile_path": "/5uCKpOjTeeErZ0cMtE9Y8rhGbbg.jpg",
+               "id": 986734,
+               "order": 15
+            },
+            {
+               "cast_id": 36,
+               "character": "Shuttle Pilot",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca6b",
+               "name": "James Patrick Pitt",
+               "profile_path": "/clJrkwWPY7QnfP5NvsiBkJ7JsVd.jpg",
+               "id": 1207227,
+               "order": 16
+            },
+            {
+               "cast_id": 37,
+               "character": "Shuttle Co-Pilot",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca6f",
+               "name": "Sean Patrick Murphy",
+               "profile_path": "/giM7FHH0VZkU6T738Oi6Yn19qNT.jpg",
+               "id": 1180936,
+               "order": 17
+            },
+            {
+               "cast_id": 38,
+               "character": "Shuttle Crew Chief",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca73",
+               "name": "Peter Dillon",
+               "profile_path": "/viOCreF32uEu5R5Zhw0oWuZQhZh.jpg",
+               "id": 1019578,
+               "order": 18
+            },
+            {
+               "cast_id": 39,
+               "character": "Tractor Operator / Troupe",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca77",
+               "name": "Kevin Dorman",
+               "profile_path": "/2r0e3hV5l3vhf3s7RgarvFxH0WT.jpg",
+               "id": 91443,
+               "order": 19
+            },
+            {
+               "cast_id": 40,
+               "character": "Dragon Gunship Pilot",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca7b",
+               "name": "Kelson Henderson",
+               "profile_path": "/3Ezzw4mB6oUBZGyx8jNXQhuLupZ.jpg",
+               "id": 173391,
+               "order": 20
+            },
+            {
+               "cast_id": 41,
+               "character": "Dragon Gunship Gunner",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca7f",
+               "name": "David Van Horn",
+               "profile_path": "/ax7rToAW10zmnRoU3x68octA5NT.jpg",
+               "id": 1207236,
+               "order": 21
+            },
+            {
+               "cast_id": 42,
+               "character": "Dragon Gunship Navigator",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca83",
+               "name": "Jacob Tomuri",
+               "profile_path": "/di0nx350h4m6k0smnktYWUqdUnh.jpg",
+               "id": 215913,
+               "order": 22
+            },
+            {
+               "cast_id": 43,
+               "character": "Suit #1",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca87",
+               "name": "Michael Blain-Rozgay",
+               "profile_path": "/9NxAdcXilvTJ3BUVhwDxio57U5I.jpg",
+               "id": 143206,
+               "order": 23
+            },
+            {
+               "cast_id": 44,
+               "character": "Suit #2",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca8b",
+               "name": "Jon Curry",
+               "profile_path": "/RhyHPh4byhMxP6pwnAitfQ2rOP.jpg",
+               "id": 169676,
+               "order": 24
+            },
+            {
+               "cast_id": 46,
+               "character": "Ambient Room Tech",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca8f",
+               "name": "Luke Hawker",
+               "profile_path": "/fu2xLJHXnPVQDL5wd5RDB3Dw3p7.jpg",
+               "id": 1048610,
+               "order": 25
+            },
+            {
+               "cast_id": 47,
+               "character": "Ambient Room Tech / Troupe",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca93",
+               "name": "Woody Schultz",
+               "profile_path": "/AjzkMGiWGnG27W1JTDWDGYn8TP.jpg",
+               "id": 42288,
+               "order": 26
+            },
+            {
+               "cast_id": 48,
+               "character": "Horse Clan Leader",
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca97",
+               "name": "Peter Mensah",
+               "profile_path": "/4mn8HoKONrRYlZJIizbAgEaaMte.jpg",
+               "id": 68278,
+               "order": 27
+            },
+            {
+               "cast_id": 49,
+               "character": "Link Room Tech",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca9b",
+               "name": "Sonia Yee",
+               "profile_path": "/AbM60ZHkHhFfFUGdbnJTBbDHFSu.jpg",
+               "id": 1207247,
+               "order": 28
+            },
+            {
+               "cast_id": 50,
+               "character": "Basketball Avatar / Troupe",
+               "gender": 1,
+               "credit_id": "52fe48009251416c750aca9f",
+               "name": "Jahnel Curfman",
+               "profile_path": "/8uvnQtuF5eMWCHm3C2hbO1Wv63M.jpg",
+               "id": 1207248,
+               "order": 29
+            },
+            {
+               "cast_id": 51,
+               "character": "Basketball Avatar",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750acaa3",
+               "name": "Ilram Choi",
+               "profile_path": "/p6NmIraf9A22qtrp3p9PnikFWV.jpg",
+               "id": 89714,
+               "order": 30
+            },
+            {
+               "cast_id": 52,
+               "character": "Na'vi Child",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750acaa7",
+               "name": "Kyla Warren",
+               "profile_path": "/vTkGQt1u1wtdf5Id6jkOsqF4U0V.jpg",
+               "id": 1207249,
+               "order": 31
+            },
+            {
+               "cast_id": 53,
+               "character": "Troupe",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750acaab",
+               "name": "Lisa Roumain",
+               "profile_path": "/wtzvCVEBj3owQcPOBolDSXnUHft.jpg",
+               "id": 1207250,
+               "order": 32
+            },
+            {
+               "cast_id": 54,
+               "character": "Troupe",
+               "gender": 1,
+               "credit_id": "52fe48009251416c750acaaf",
+               "name": "Debra Wilson",
+               "profile_path": "/cti0sST91arxQMYzej0rBbmvpDF.jpg",
+               "id": 83105,
+               "order": 33
+            },
+            {
+               "cast_id": 57,
+               "character": "Troupe",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750acabb",
+               "name": "Chris Mala",
+               "profile_path": "/hjXIePzv0Stgg3I4nEpeeM9lZCN.jpg",
+               "id": 1207253,
+               "order": 34
+            },
+            {
+               "cast_id": 55,
+               "character": "Troupe",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750acab3",
+               "name": "Taylor Kibby",
+               "profile_path": null,
+               "id": 1207251,
+               "order": 35
+            },
+            {
+               "cast_id": 56,
+               "character": "Troupe",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750acab7",
+               "name": "Jodie Landau",
+               "profile_path": null,
+               "id": 1207252,
+               "order": 36
+            },
+            {
+               "cast_id": 58,
+               "character": "Troupe",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750acabf",
+               "name": "Julie Lamm",
+               "profile_path": null,
+               "id": 1207254,
+               "order": 37
+            },
+            {
+               "cast_id": 59,
+               "character": "Troupe",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750acac3",
+               "name": "Cullen B. Madden",
+               "profile_path": null,
+               "id": 1207257,
+               "order": 38
+            },
+            {
+               "cast_id": 60,
+               "character": "Troupe",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750acac7",
+               "name": "Joseph Brady Madden",
+               "profile_path": null,
+               "id": 1207259,
+               "order": 39
+            },
+            {
+               "cast_id": 61,
+               "character": "Troupe",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750acacb",
+               "name": "Frankie Torres",
+               "profile_path": null,
+               "id": 1207262,
+               "order": 40
+            },
+            {
+               "cast_id": 62,
+               "character": "Troupe",
+               "gender": 1,
+               "credit_id": "52fe48009251416c750acacf",
+               "name": "Austin Wilson",
+               "profile_path": null,
+               "id": 1158600,
+               "order": 41
+            },
+            {
+               "cast_id": 63,
+               "character": "Troupe",
+               "gender": 1,
+               "credit_id": "52fe48019251416c750acad3",
+               "name": "Sara Wilson",
+               "profile_path": null,
+               "id": 983705,
+               "order": 42
+            },
+            {
+               "cast_id": 64,
+               "character": "Troupe",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acad7",
+               "name": "Tamica Washington-Miller",
+               "profile_path": "/2Lyedbl6HPBx1TJ1DmsVyqxcfPX.jpg",
+               "id": 1207263,
+               "order": 43
+            },
+            {
+               "cast_id": 65,
+               "character": "Op Center Staff",
+               "gender": 1,
+               "credit_id": "52fe48019251416c750acadb",
+               "name": "Lucy Briant",
+               "profile_path": "/dgqpav2Zpc7OIHqRq2AnSVGkXUX.jpg",
+               "id": 1145098,
+               "order": 44
+            },
+            {
+               "cast_id": 66,
+               "character": "Op Center Staff",
+               "gender": 2,
+               "credit_id": "52fe48019251416c750acadf",
+               "name": "Nathan Meister",
+               "profile_path": "/i8XOPuKT04D0bXbczSBCb1e3y22.jpg",
+               "id": 33305,
+               "order": 45
+            },
+            {
+               "cast_id": 67,
+               "character": "Op Center Staff",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acae3",
+               "name": "Gerry Blair",
+               "profile_path": null,
+               "id": 1207264,
+               "order": 46
+            },
+            {
+               "cast_id": 68,
+               "character": "Op Center Staff",
+               "gender": 2,
+               "credit_id": "52fe48019251416c750acae7",
+               "name": "Matthew Chamberlain",
+               "profile_path": "/rTdYqm2Q1OFfTin2qf0acOqw4Va.jpg",
+               "id": 33311,
+               "order": 47
+            },
+            {
+               "cast_id": 69,
+               "character": "Op Center Staff",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acaeb",
+               "name": "Paul Yates",
+               "profile_path": "/4sn8Lj0UtpH7xHPEFQsa4V4twVO.jpg",
+               "id": 1207265,
+               "order": 48
+            },
+            {
+               "cast_id": 70,
+               "character": "Op Center Duty Officer",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acaef",
+               "name": "Wray Wilson",
+               "profile_path": "/kRAKRcRoYvEXFsRJcv9RuwwIxuS.jpg",
+               "id": 1207266,
+               "order": 49
+            },
+            {
+               "cast_id": 71,
+               "character": "Op Center Staff",
+               "gender": 2,
+               "credit_id": "52fe48019251416c750acaf3",
+               "name": "James Gaylyn",
+               "profile_path": "/ynZVceoV6AbAUy9tVICGXERt6KH.jpg",
+               "id": 54492,
+               "order": 50
+            },
+            {
+               "cast_id": 72,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acaf7",
+               "name": "Melvin Leno Clark III",
+               "profile_path": "/xqEC8as2SfO6O2i09OtyYNsYA3T.jpg",
+               "id": 1207267,
+               "order": 51
+            },
+            {
+               "cast_id": 73,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acafb",
+               "name": "Carvon Futrell",
+               "profile_path": null,
+               "id": 1207268,
+               "order": 52
+            },
+            {
+               "cast_id": 74,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acaff",
+               "name": "Brandon Jelkes",
+               "profile_path": "/ocXSXoscb6GG7qcBGF9HRwzC8iI.jpg",
+               "id": 1207269,
+               "order": 53
+            },
+            {
+               "cast_id": 75,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb03",
+               "name": "Micah Moch",
+               "profile_path": "/xgjCN8mTSMUPzphqE8yniCDjYFO.jpg",
+               "id": 1207270,
+               "order": 54
+            },
+            {
+               "cast_id": 76,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb07",
+               "name": "Hanniyah Muhammad",
+               "profile_path": null,
+               "id": 1207271,
+               "order": 55
+            },
+            {
+               "cast_id": 77,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb0b",
+               "name": "Christopher Nolen",
+               "profile_path": "/jqb7MpimsL2D9txjUW9mGfNsPGI.jpg",
+               "id": 1207272,
+               "order": 56
+            },
+            {
+               "cast_id": 78,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb0f",
+               "name": "Christa Oliver",
+               "profile_path": "/aayUWCEbRtPvnRdlCHps8EEFbsO.jpg",
+               "id": 1207273,
+               "order": 57
+            },
+            {
+               "cast_id": 79,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb13",
+               "name": "April Marie Thomas",
+               "profile_path": "/rW3ieqIMXtfFU3GR2rlQQm703gh.jpg",
+               "id": 1207274,
+               "order": 58
+            },
+            {
+               "cast_id": 80,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb17",
+               "name": "Bravita A. Threatt",
+               "profile_path": "/oOFxzhC0ysYCeVxmrf59sTZlpLk.jpg",
+               "id": 1207275,
+               "order": 59
+            },
+            {
+               "cast_id": 81,
+               "character": "Mining Chief (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb1b",
+               "name": "Colin Bleasdale",
+               "profile_path": null,
+               "id": 1207276,
+               "order": 60
+            },
+            {
+               "cast_id": 82,
+               "character": "Veteran Miner (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb1f",
+               "name": "Mike Bodnar",
+               "profile_path": "/tmMN1SWDfNAAxeLfIAadGUXSmD3.jpg",
+               "id": 107969,
+               "order": 61
+            },
+            {
+               "cast_id": 83,
+               "character": "Richard (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb23",
+               "name": "Matt Clayton",
+               "profile_path": "/c723SPBGHRI3mubqeR77lHbi3kk.jpg",
+               "id": 1207278,
+               "order": 62
+            },
+            {
+               "cast_id": 84,
+               "character": "Nav'i (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe48019251416c750acb27",
+               "name": "Nicole Dionne",
+               "profile_path": "/7UmaoVYIwnY1c7H6LsVJaQe4OeE.jpg",
+               "id": 147898,
+               "order": 63
+            },
+            {
+               "cast_id": 85,
+               "character": "Trooper (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb2b",
+               "name": "Jamie Harrison",
+               "profile_path": null,
+               "id": 1207280,
+               "order": 64
+            },
+            {
+               "cast_id": 86,
+               "character": "Trooper (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb2f",
+               "name": "Allan Henry",
+               "profile_path": "/ma3ZFzGiF4ANlEym3ACFOG0n7qV.jpg",
+               "id": 1207281,
+               "order": 65
+            },
+            {
+               "cast_id": 87,
+               "character": "Ground Technician (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe48019251416c750acb33",
+               "name": "Anthony Ingruber",
+               "profile_path": "/cFN50vtqZyYQSs07EvVYIRCIdCJ.jpg",
+               "id": 1207282,
+               "order": 66
+            },
+            {
+               "cast_id": 88,
+               "character": "Flight Crew Mechanic (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb37",
+               "name": "Ashley Jeffery",
+               "profile_path": "/hYgCSvYOkOCnQDJo0VKZdWi21zL.jpg",
+               "id": 1207283,
+               "order": 67
+            },
+            {
+               "cast_id": 14,
+               "character": "Samson Pilot",
+               "gender": 0,
+               "credit_id": "52fe48009251416c750ac9f9",
+               "name": "Dean Knowsley",
+               "profile_path": "/uLBD2u1xuAUo9Fbxe6Jla9jEIEx.jpg",
+               "id": 98216,
+               "order": 68
+            },
+            {
+               "cast_id": 89,
+               "character": "Trooper (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb3b",
+               "name": "Joseph Mika-Hunt",
+               "profile_path": "/qXSDkIsO8K4mTxhXbRtLbZvvZom.jpg",
+               "id": 1201399,
+               "order": 69
+            },
+            {
+               "cast_id": 90,
+               "character": "Banshee (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe48019251416c750acb3f",
+               "name": "Terry Notary",
+               "profile_path": "/hIwDLupV2EOi6EqpHa1DNjrNRZU.jpg",
+               "id": 236696,
+               "order": 70
+            },
+            {
+               "cast_id": 91,
+               "character": "Soldier (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb43",
+               "name": "Kai Pantano",
+               "profile_path": "/pXR5aOovzm2OF8BvBuJ30j0wNGj.jpg",
+               "id": 1207287,
+               "order": 71
+            },
+            {
+               "cast_id": 92,
+               "character": "Blast Technician (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb47",
+               "name": "Logan Pithyou",
+               "profile_path": "/rtjXKbQHWjDSBEDd2HER8ijs1Ab.jpg",
+               "id": 1207288,
+               "order": 72
+            },
+            {
+               "cast_id": 93,
+               "character": "Vindum Raah (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb4b",
+               "name": "Stuart Pollock",
+               "profile_path": null,
+               "id": 1207289,
+               "order": 73
+            },
+            {
+               "cast_id": 94,
+               "character": "Hero (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb4f",
+               "name": "Raja",
+               "profile_path": "/1nbG9zOGqwhQ9EcZqClgQFuLMJ8.jpg",
+               "id": 584868,
+               "order": 74
+            },
+            {
+               "cast_id": 95,
+               "character": "Ops Centreworker (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb53",
+               "name": "Gareth Ruck",
+               "profile_path": "/t6pi1fYbbyYAqje6eto8SuZZzxI.jpg",
+               "id": 1207290,
+               "order": 75
+            },
+            {
+               "cast_id": 96,
+               "character": "Engineer (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb57",
+               "name": "Rhian Sheehan",
+               "profile_path": "/eEMF0snLJvpE64RRt0Hvnu8oFN.jpg",
+               "id": 1062463,
+               "order": 76
+            },
+            {
+               "cast_id": 97,
+               "character": "Col. Quaritch's Mech Suit (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb5b",
+               "name": "T. J. Storm",
+               "profile_path": "/kio8ukD9QyQEoLxzXOUwswZP5Rz.jpg",
+               "id": 60656,
+               "order": 77
+            },
+            {
+               "cast_id": 98,
+               "character": "Female Marine (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb5f",
+               "name": "Jodie Taylor",
+               "profile_path": null,
+               "id": 1207291,
+               "order": 78
+            },
+            {
+               "cast_id": 99,
+               "character": "Ikran Clan Leader (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe48019251416c750acb63",
+               "name": "Alicia Vela-Bailey",
+               "profile_path": "/kVuyn6sS7ZSBlXVjjxq0LSE3k4I.jpg",
+               "id": 1186027,
+               "order": 79
+            },
+            {
+               "cast_id": 100,
+               "character": "Geologist (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb67",
+               "name": "Richard Whiteside",
+               "profile_path": "/g6lB4GzULZuFJotXrjLWh1QB4YX.jpg",
+               "id": 1207292,
+               "order": 80
+            },
+            {
+               "cast_id": 101,
+               "character": "Na'vi (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe48019251416c750acb6b",
+               "name": "Nikie Zambo",
+               "profile_path": "/ezRRJjH3o6ayHKI1Z6B70jhfaSe.jpg",
+               "id": 103259,
+               "order": 81
+            },
+            {
+               "cast_id": 102,
+               "character": "Ambient Room Tech / Troupe",
+               "gender": 1,
+               "credit_id": "52fe48019251416c750acb6f",
+               "name": "Julene Renee",
+               "profile_path": "/gONOL0vTflEd5yH1x3hcr2maFV5.jpg",
+               "id": 42286,
+               "order": 82
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe48009251416c750ac9c3",
+               "name": "James Cameron",
+               "profile_path": "/zy2foCd8PEtvCcsX48cROdQdDLB.jpg",
+               "id": 2710,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48009251416c750ac9d9",
+               "name": "James Cameron",
+               "profile_path": "/zy2foCd8PEtvCcsX48cROdQdDLB.jpg",
+               "id": 2710,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48009251416c750ac9ff",
+               "name": "Ilram Choi",
+               "profile_path": "/p6NmIraf9A22qtrp3p9PnikFWV.jpg",
+               "id": 89714,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca05",
+               "name": "Woody Schultz",
+               "profile_path": "/AjzkMGiWGnG27W1JTDWDGYn8TP.jpg",
+               "id": 42288,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca11",
+               "name": "Mauro Fiore",
+               "profile_path": null,
+               "id": 18265,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca17",
+               "name": "James Cameron",
+               "profile_path": "/zy2foCd8PEtvCcsX48cROdQdDLB.jpg",
+               "id": 2710,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca1d",
+               "name": "John Refoua",
+               "profile_path": "/qvWv4ohokCGX6PxVqJhVugZNRqI.jpg",
+               "id": 58871,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca23",
+               "name": "Stephen E. Rivkin",
+               "profile_path": null,
+               "id": 1721,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca29",
+               "name": "James Cameron",
+               "profile_path": "/zy2foCd8PEtvCcsX48cROdQdDLB.jpg",
+               "id": 2710,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca2f",
+               "name": "Jon Landau",
+               "profile_path": null,
+               "id": 8529,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe48009251416c750aca35",
+               "name": "Chiling Lin",
+               "profile_path": null,
+               "id": 72201,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca3f",
+               "name": "James Cameron",
+               "profile_path": "/zy2foCd8PEtvCcsX48cROdQdDLB.jpg",
+               "id": 2710,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48009251416c750aca45",
+               "name": "Terry Notary",
+               "profile_path": "/hIwDLupV2EOi6EqpHa1DNjrNRZU.jpg",
+               "id": 236696,
+               "department": "Crew",
+               "job": "Motion Capture Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe48009251416c750aca4b",
+               "name": "Margery Simkin",
+               "profile_path": "/dCyAWZGEaW1OlGgh5ALiqGfsbpb.jpg",
+               "id": 6347,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48009251416c750aca51",
+               "name": "Mayes C. Rubeo",
+               "profile_path": null,
+               "id": 17675,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe48009251416c750aca57",
+               "name": "Deborah Lynn Scott",
+               "profile_path": "/lYYxq6AxOMYqc934V80ez9Cmfwj.jpg",
+               "id": 8527,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "539c47ecc3a36810e3001f87",
+               "name": "Rick Carter",
+               "profile_path": "/nIkkWGDlvAuZUAmVQZOIKew9kxw.jpg",
+               "id": 496,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "539c482cc3a36810c1002062",
+               "name": "Robert Stromberg",
+               "profile_path": "/gqP1k0dJxRVj08xudosdROOn2UK.jpg",
+               "id": 1032536,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "539c485bc3a368653d001a3a",
+               "name": "Nick Bassett",
+               "profile_path": null,
+               "id": 132585,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "539c4891c3a36810ba002147",
+               "name": "Simon Bright",
+               "profile_path": null,
+               "id": 33303,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "539c48a7c3a36810b5001fa7",
+               "name": "Robert Bavin",
+               "profile_path": null,
+               "id": 1330561,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "539c4903c3a368653d001a74",
+               "name": "Jill Cormack",
+               "profile_path": null,
+               "id": 132596,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "539c4937c3a36810ba002194",
+               "name": "Sean Haworth",
+               "profile_path": null,
+               "id": 9618,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "539c4967c3a368653d001a94",
+               "name": "Andy McLaren",
+               "profile_path": null,
+               "id": 132604,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "539c4987c3a36810ba0021a4",
+               "name": "Andrew Menzies",
+               "profile_path": null,
+               "id": 7236,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "539c49b6c3a36810c10020e6",
+               "name": "Kim Sinclair",
+               "profile_path": null,
+               "id": 12653,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "539c49f1c3a368653d001aac",
+               "name": "Mike Smithson",
+               "profile_path": null,
+               "id": 1202850,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "539c4a3ac3a36810da0021cc",
+               "name": "Miranda Rivers",
+               "profile_path": null,
+               "id": 1016177,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "539c4a4cc3a36810c9002101",
+               "name": "Mali Finn",
+               "profile_path": null,
+               "id": 1262,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "539c4a71c3a36810da0021e0",
+               "name": "Anthony Almaraz",
+               "profile_path": null,
+               "id": 1330567,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "539c4a8ac3a36810ba0021e4",
+               "name": "Carolyn M. Fenton",
+               "profile_path": null,
+               "id": 1330570,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "539c4ab6c3a36810da0021f0",
+               "name": "Beth Koenigsberg",
+               "profile_path": null,
+               "id": 1330574,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "539c4adfc3a36810e300203b",
+               "name": "Lisa Lovaas",
+               "profile_path": null,
+               "id": 1319844,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "539c4b65c3a36810c9002125",
+               "name": "John Harding",
+               "profile_path": null,
+               "id": 1071680,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570b6f2f9251413a0e00020d",
+               "name": "Kim Sinclair",
+               "profile_path": null,
+               "id": 12653,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570b6f419251417da70032fe",
+               "name": "Kevin Ishioka",
+               "profile_path": null,
+               "id": 6878,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570b6f519251412c74001b2f",
+               "name": "Stefan Dechant",
+               "profile_path": null,
+               "id": 957889,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570b6f62c3a3680b77007460",
+               "name": "Todd Cherniawsky",
+               "profile_path": null,
+               "id": 959555,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54491837c3a3680fb1001c5a",
+               "name": "C. Scott Baker",
+               "profile_path": null,
+               "id": 1376887,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491878c3a3680fb4001c9d",
+               "name": "Luke Caska",
+               "profile_path": null,
+               "id": 1376888,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "544918dac3a3680fa5001ae0",
+               "name": "David Chow",
+               "profile_path": null,
+               "id": 1376889,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "544919110e0a267486001b68",
+               "name": "Jonathan Dyer",
+               "profile_path": null,
+               "id": 1376890,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5449194d0e0a26748f001b39",
+               "name": "Scott Herbertson",
+               "profile_path": null,
+               "id": 42281,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491967c3a3680faa001b5e",
+               "name": "Joseph Hiura",
+               "profile_path": null,
+               "id": 1376891,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491997c3a3680fb1001c8a",
+               "name": "Rebecca Jellie",
+               "profile_path": null,
+               "id": 1376892,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "544919ba0e0a26748f001b42",
+               "name": "Robert Andrew Johnson",
+               "profile_path": null,
+               "id": 1376893,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "544919d9c3a3680fc30018bd",
+               "name": "Tex Kadonaga",
+               "profile_path": null,
+               "id": 1339441,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "544919f40e0a26748c001b09",
+               "name": "Tammy S. Lee",
+               "profile_path": null,
+               "id": 1352962,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491a4dc3a3680fc30018ca",
+               "name": "Karl J. Martin",
+               "profile_path": null,
+               "id": 92359,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54491a6c0e0a26748c001b19",
+               "name": "Richard F. Mays",
+               "profile_path": null,
+               "id": 14350,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491ab70e0a267480001ba2",
+               "name": "Sam Page",
+               "profile_path": null,
+               "id": 1336191,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491b1dc3a3680faa001b8c",
+               "name": "Mike Stassi",
+               "profile_path": null,
+               "id": 1376895,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491b79c3a3680fbb001826",
+               "name": "John Villarino",
+               "profile_path": null,
+               "id": 1376897,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54491baec3a3680fb4001ce6",
+               "name": "Jeffrey Wisniewski",
+               "profile_path": null,
+               "id": 1376898,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491c89c3a3680fb4001cf7",
+               "name": "Christopher Boyes",
+               "profile_path": "/qPYrAJif2AYqgUckgE9bEkjrdVw.jpg",
+               "id": 900,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491cb70e0a267480001bd0",
+               "name": "Christopher Boyes",
+               "profile_path": "/qPYrAJif2AYqgUckgE9bEkjrdVw.jpg",
+               "id": 900,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491cf50e0a267483001b0c",
+               "name": "Kim Foscato",
+               "profile_path": null,
+               "id": 1352422,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491d2fc3a3680fb4001d07",
+               "name": "Cheryl Nardi",
+               "profile_path": null,
+               "id": 1376899,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491d58c3a3680fb1001ccb",
+               "name": "Dennie Thorpe",
+               "profile_path": null,
+               "id": 8160,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491d6cc3a3680fa5001b2c",
+               "name": "Jana Vance",
+               "profile_path": null,
+               "id": 8163,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491d86c3a3680fa5001b2f",
+               "name": "Marshall Winn",
+               "profile_path": null,
+               "id": 1376901,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491d9dc3a3680faa001bb0",
+               "name": "Gwendolyn Yates Whittle",
+               "profile_path": null,
+               "id": 1376902,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491dc10e0a267486001bce",
+               "name": "William Stein",
+               "profile_path": null,
+               "id": 1376903,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54491edf0e0a267489001c37",
+               "name": "Carla Meyer",
+               "profile_path": null,
+               "id": 122607,
+               "department": "Crew",
+               "job": "Dialect Coach"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54491f500e0a26747c001c07",
+               "name": "Lula Washington",
+               "profile_path": null,
+               "id": 1376909,
+               "department": "Crew",
+               "job": "Choreographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549595dd92514130fc002d79",
+               "name": "Jennifer Teves",
+               "profile_path": null,
+               "id": 1401784,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549596009251413af70028cc",
+               "name": "Brigitte Yorke",
+               "profile_path": null,
+               "id": 1401785,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549596239251417a81001eae",
+               "name": "Janace Tashjian",
+               "profile_path": null,
+               "id": 1234266,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549596e892514130fc002d99",
+               "name": "Ken Fischer",
+               "profile_path": null,
+               "id": 1401786,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959706c3a3686af3003e81",
+               "name": "Shannon Mills",
+               "profile_path": null,
+               "id": 8159,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5495971d92514132ed002922",
+               "name": "Tim Nielsen",
+               "profile_path": null,
+               "id": 1394129,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54959734c3a3686ae10045e0",
+               "name": "Christopher Scarabosio",
+               "profile_path": null,
+               "id": 1400906,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5495976fc3a36811530026b0",
+               "name": "Addison Teague",
+               "profile_path": null,
+               "id": 1360103,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549598229251412c4e002a1c",
+               "name": "Iain Hutton",
+               "profile_path": null,
+               "id": 1401787,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549598349251416e2b00432b",
+               "name": "Steve Ingram",
+               "profile_path": null,
+               "id": 1401788,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549598c3c3a3686ae9004383",
+               "name": "Jill Brooks",
+               "profile_path": null,
+               "id": 6690,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959905c3a3686ae3004324",
+               "name": "Joyce Cox",
+               "profile_path": null,
+               "id": 1401789,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549599239251412c4e002a2e",
+               "name": "Chris Del Conte",
+               "profile_path": null,
+               "id": 1391692,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5495994b92514132ed002951",
+               "name": "Jenny Foster",
+               "profile_path": null,
+               "id": 1401790,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5495999ec3a3686ae100460c",
+               "name": "Alain Lalanne",
+               "profile_path": null,
+               "id": 1204668,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549599cbc3a3686ae1004613",
+               "name": "Christopher Marino",
+               "profile_path": null,
+               "id": 1401791,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549599f2c3a3686ae100461e",
+               "name": "Jim Milton",
+               "profile_path": null,
+               "id": 1401792,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54959a0dc3a3680ff5002c8d",
+               "name": "Steve R. Moore",
+               "profile_path": null,
+               "id": 58188,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959a329251416e2b004355",
+               "name": "Thomas Nittmann",
+               "profile_path": null,
+               "id": 1394750,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959a51c3a3686af3003eb5",
+               "name": "Cyndi Ochs",
+               "profile_path": null,
+               "id": 1401793,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959a7cc3a36811530026f4",
+               "name": "Lucas Putnam",
+               "profile_path": null,
+               "id": 1401794,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959b579251416e2b004371",
+               "name": "Jonathan Fawkner",
+               "profile_path": null,
+               "id": 1327028,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959b91c3a3680ff5002cb4",
+               "name": "Anthony 'Max' Ivins",
+               "profile_path": null,
+               "id": 1401795,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54959bb69251412c4e002a5f",
+               "name": "John Knoll",
+               "profile_path": null,
+               "id": 1401796,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959bdf9251412c4e002a66",
+               "name": "Dan Lemmon",
+               "profile_path": null,
+               "id": 1394070,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959c069251417a81001f3a",
+               "name": "Richard Martin",
+               "profile_path": null,
+               "id": 113145,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54959c529251416e2b004394",
+               "name": "Steven Quale",
+               "profile_path": null,
+               "id": 93214,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959c859251416e1e003efe",
+               "name": "Stephen Rosenbaum",
+               "profile_path": null,
+               "id": 1271932,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54959ca3c3a3686ae300438c",
+               "name": "Jonathan Rothbart",
+               "profile_path": null,
+               "id": 957874,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54959cbbc3a3686ae3004391",
+               "name": "Eric Saindon",
+               "profile_path": null,
+               "id": 1401799,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959cdfc3a3681153002729",
+               "name": "Lucas Salton",
+               "profile_path": null,
+               "id": 1206410,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959d06c3a3686ae90043f6",
+               "name": "Wayne Stables",
+               "profile_path": null,
+               "id": 1401800,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959d259251416e1e003f11",
+               "name": "David Stinnett",
+               "profile_path": null,
+               "id": 1401801,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54959d54c3a36831b8001d9a",
+               "name": "R. Christopher White",
+               "profile_path": null,
+               "id": 1391695,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959d6dc3a3686ae9004401",
+               "name": "Edson Williams",
+               "profile_path": null,
+               "id": 1394755,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959db49251413af7002975",
+               "name": "Guy Williams",
+               "profile_path": null,
+               "id": 1401803,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959de4c3a3681153002750",
+               "name": "Stuart Thorp",
+               "profile_path": null,
+               "id": 1401804,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54959e02c3a3680fc60027d2",
+               "name": "Garrett Warren",
+               "profile_path": null,
+               "id": 956198,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959e6692514130fc002e4e",
+               "name": "Roberto De Angelis",
+               "profile_path": null,
+               "id": 1177364,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959e7b9251416e1e003f3e",
+               "name": "David Emmerichs",
+               "profile_path": null,
+               "id": 1398970,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54959ed592514130fc002e5d",
+               "name": "Richard Bluck",
+               "profile_path": null,
+               "id": 33302,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959ef2c3a3680fc60027f2",
+               "name": "Giles Coburn",
+               "profile_path": null,
+               "id": 1401805,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54959f07c3a3680fc60027f9",
+               "name": "Mark Fellman",
+               "profile_path": null,
+               "id": 1401806,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959f47c3a3681153002774",
+               "name": "Scott Sprague",
+               "profile_path": null,
+               "id": 1401807,
+               "department": "Lighting",
+               "job": "Lighting Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959f8cc3a36831b8001df2",
+               "name": "Jeremy Hollobon",
+               "profile_path": null,
+               "id": 1401808,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959fa0c3a36831b8001dfb",
+               "name": "Orlando Meunier",
+               "profile_path": null,
+               "id": 1401809,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959fb6c3a3686af3003f54",
+               "name": "Taisuke Tanimura",
+               "profile_path": null,
+               "id": 1401810,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959fd2c3a36831b8001e02",
+               "name": "Lilia Mishel Acevedo",
+               "profile_path": null,
+               "id": 1401812,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54959ff9c3a3686ae300440c",
+               "name": "Alejandro M. Hernandez",
+               "profile_path": null,
+               "id": 1401814,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5495a08fc3a3686ae300441c",
+               "name": "Christine Carr",
+               "profile_path": null,
+               "id": 1394953,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5495a0ddc3a3686ae10046fe",
+               "name": "Marvin Hall",
+               "profile_path": null,
+               "id": 1401815,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5495a0fac3a3686ae9004468",
+               "name": "Dick Bernstein",
+               "profile_path": null,
+               "id": 6883,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5495a115c3a3680ff5002d71",
+               "name": "Denny Caira",
+               "profile_path": null,
+               "id": 1357070,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5495a12f92514130fc002e94",
+               "name": "James Waitkus",
+               "profile_path": null,
+               "id": 1357071,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5495a1f7c3a3686ae3004443",
+               "name": "Judy Alley",
+               "profile_path": null,
+               "id": 1401816,
+               "department": "Production",
+               "job": "Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551906889251415aab001c88",
+               "name": "Paul Tobin",
+               "profile_path": null,
+               "id": 1447524,
+               "department": "Art",
+               "job": "Art Department Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5525d5809251417276002b06",
+               "name": "Eric Oliver",
+               "profile_path": null,
+               "id": 1447362,
+               "department": "Crew",
+               "job": "Visual Effects Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d3c109251415852001318",
+               "name": "Arun Ram-Mohan",
+               "profile_path": null,
+               "id": 1453938,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55402d659251413d6d000249",
+               "name": "John Bruno",
+               "profile_path": null,
+               "id": 1395269,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554427ca925141586500312a",
+               "name": "Matsune Suzuki",
+               "profile_path": null,
+               "id": 1447503,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5544ee3b925141499f0008fc",
+               "name": "James Horner",
+               "profile_path": "/oLOtXxXsYk8X4qq0ud4xVypXudi.jpg",
+               "id": 1729,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55491e1192514104c40002d8",
+               "name": "Seth Engstrom",
+               "profile_path": null,
+               "id": 1438901,
+               "department": "Art",
+               "job": "Conceptual Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592aefb92514152de0010f5",
+               "name": "Linda DeVetta",
+               "profile_path": null,
+               "id": 29067,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592af28c3a368775a00105f",
+               "name": "Frankie Karena",
+               "profile_path": null,
+               "id": 1310064,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592af4692514152d5001355",
+               "name": "Georgia Lockhart-Adams",
+               "profile_path": null,
+               "id": 1457305,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592af8492514152cc0010de",
+               "name": "Roxane Griffin",
+               "profile_path": null,
+               "id": 1452643,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592afa492514152de00112c",
+               "name": "Linda DeVetta",
+               "profile_path": null,
+               "id": 29067,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b032c3a36877450015f1",
+               "name": "Brad Alexander",
+               "profile_path": null,
+               "id": 1483220,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b05592514152d80012f6",
+               "name": "Shadi Almassizadeh",
+               "profile_path": null,
+               "id": 1483221,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b090c3a36877570010b5",
+               "name": "Simon Clutterbuck",
+               "profile_path": null,
+               "id": 1483222,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b0dbc3a368774b00112c",
+               "name": "Graeme Demmocks",
+               "profile_path": null,
+               "id": 1483223,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b0fe92514152db0010c1",
+               "name": "Adrian Fernandes",
+               "profile_path": null,
+               "id": 1483224,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b11f9251415df8001059",
+               "name": "Mitch Gates",
+               "profile_path": null,
+               "id": 1483225,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b15dc3a3687745001645",
+               "name": "Jerry Kung",
+               "profile_path": null,
+               "id": 1483226,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b18e925141645a0004ae",
+               "name": "Andy Lomas",
+               "profile_path": null,
+               "id": 1483227,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b1bfc3a368775d0010e7",
+               "name": "Sebastian Marino",
+               "profile_path": null,
+               "id": 1483228,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b2049251415df8001078",
+               "name": "Matthias Menz",
+               "profile_path": null,
+               "id": 1483229,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b23a9251415df8001081",
+               "name": "Andrew Morley",
+               "profile_path": null,
+               "id": 1426854,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b25792514152cc0011aa",
+               "name": "Michael Mulholland",
+               "profile_path": null,
+               "id": 1394286,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b27b92514152d800136a",
+               "name": "Sergei Nevshupov",
+               "profile_path": null,
+               "id": 1483230,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b29fc3a36869d100002f",
+               "name": "Mike Perry",
+               "profile_path": null,
+               "id": 1418381,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b2c3c3a36869e800003c",
+               "name": "Philippe Rebours",
+               "profile_path": null,
+               "id": 1483231,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b2eac3a36877470012a5",
+               "name": "Thrain Shadbolt",
+               "profile_path": null,
+               "id": 1466035,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b317c3a36877470012af",
+               "name": "Michael Takarangi",
+               "profile_path": null,
+               "id": 1483232,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b345c3a36877470012bb",
+               "name": "David Weitzberg",
+               "profile_path": null,
+               "id": 1483233,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5592b37cc3a368775100113b",
+               "name": "Ben White",
+               "profile_path": null,
+               "id": 1483234,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56928cf4c3a3684cff0025c4",
+               "name": "Laeta Kalogridis",
+               "profile_path": "/vfC4zu2BU6zAABpQZTnzbya2OGU.jpg",
+               "id": 20294,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "573c8e2f9251413f5d000094",
+               "name": "Min Windle",
+               "profile_path": "/oHmGwzTngt9dkYimlabYylTKFZ5.jpg",
+               "id": 1621932,
+               "department": "Crew",
+               "job": "Stunts"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 58.087609,
+      "production_countries": [
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 19995,
+      "vote_count": 14419,
+      "budget": 237000000,
+      "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "similar": [
+         18,
+         157336,
+         339964,
+         348,
+         126889,
+         8077,
+         602,
+         34851,
+         9016,
+         1865,
+         49529,
+         54138,
+         44943,
+         667,
+         679,
+         137113,
+         228161,
+         7453,
+         10530,
+         792
+      ],
+      "original_title": "Avatar",
+      "runtime": 162,
+      "poster_path": "/kmcqlZGaSh20zpTbuoF0Cdn07dT.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Ingenious Film Partners",
+            "id": 289,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Dune Entertainment",
+            "id": 444,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Lightstorm Entertainment",
+            "id": 574,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2009-12-10",
+      "vote_average": 7.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/9s4BM48NweGFrIRE6haIul0YJ9f.jpg",
+         "name": "Avatar Collection",
+         "id": 87096,
+         "poster_path": "/nslJVsO58Etqkk17oXMuVK4gNOF.jpg"
+      },
+      "tagline": "Enter the World of Pandora.",
+      "adult": false,
+      "homepage": "http://www.avatarmovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["James Cameron"],
+      "runtime": 162,
+      "synopsis": "Opening scene: a camera sweeps high across the treeline of a lush, green world. Intercut is a sequence of images of Jake Sully ( Sam Worthington), a crippled war veteran and former Marine. He wakes up in a giant spaceship on its way to Pandora, a lush Earth-like moon orbiting Polyphemus, a blue planet similar to Jupiter. He is one of a large number of passengers, all waking up after almost six years of cryosleep en route to Pandora. Drifting out of his sleeping pod in zero G he's tended by the ship's staff. He opens his locker, which is marked SULLY T. Then, through voice-over and flashback with hospital and military officials, we learn that Jake has a deceased twin brother -- Tom, a scientist -- who was to be part of a high-level program overseen by corporate and military strategists. Because Jake and his brother are an exact genetic match, he was presented with a unique opportunity: take over his brother's contract with a corporate-military entity and travel light years away to an outpost on the previously glimpsed world, Pandora. Acknowledging the notions of \"being free\" and having a \"fresh start,\" Jake agrees to the deal as his brother's body is cremated. Now being transported from the spaceship to Pandora via a shuttle, Jake is one of many soldiers and civilian personnel about to touch down on Pandora, some 4.3 light years from Earth. We catch views of the base and its construction and immense mining machines digging up the soil in a large quarry as Jake ponders his new role. The passengers are all instructed to wear a full-face breathing mask since the atmosphere of the planet will not support human life; 20 seconds of exposure to the poisonous atmosphere of the planet causes unconsciousness, with death occurring about four minutes later. While the other passengers disembark and take their first steps onto the base, called \"Hell's Gate,\" which is surrounded by a huge perimeter fence. Jake follows them in his wheelchair, earning the moniker \"Meals on Wheels\" from a few haughty Marines. He acknowledges through voice-over that he lost the use of his legs during one of his tours of duty on Earth, and while a spine can be fixed, that \"takes money,\" which is tough to come by in the present economy. Jake goes immediately to a military briefing where Colonel Miles Quaritch ( Stephen Lang) is addressing the assembled soldiers and a few civilians who have come along. He reminds them they're \"not in Kansas any more,\" and he tells them about Pandora's indigenous population, the Na'vi. Quaritch, sporting a heavy set of scars on the side of his head, says they are \"hard to kill\" and practically everything \"out there\" will try to kill you. And, while it's his job to keep his people alive, he says he will not succeed in this task -- \"not with all of you.\" If they wish to survive, he continues, they will have to follow \"Pandora rules.\" Jake goes to a science lab where he meets biologist Norm Spellman ( Joel David Moore) and Dr. Max Patel ( Dileep Rao), two members of the Avatar Program. As Jake gets his first look at his own avatar, we learn about the program itself: humans are unable to breathe Pandora's air, but the Avatar Program enables a human to link with their own avatar, a genetically-bred human-Na'vi hybrid, and function as if they were a Na'vi native. In his avatar body, Jake will be able to walk again and breathe the atmosphere. Jake and Norm enter the science department just about the time Dr. Grace Augustine ( Sigourney Weaver), the program's science lead, awakens in a specially designed pod that links her to her avatar and flips open the top. Norm says to Jake he hears she likes \"plants better than people.\" She arises from her pod and converses in Na'vi with Norm. Satisfied with Norm's command of the language, she turns to Jake. She tells him she needs his brother Tom, the PhD who trained 3 years for the Pandora mission, but she doesn't need him, since Jake has no lab experience and has never been linked to an avatar. Grace storms off to the base's control room to confront Parker Selfridge ( Giovanni Ribisi), base commander and representative for the Resources Development Administration, an organization that oversees all military and other personnel on the colony. He tells her Jake will serve as a security escort on her team while they're on the planet's surface. Grace tells Parker she needs a researcher, not a \"jarhead dropout.\" She doubts Jake will be of any use to her botanical research. Parker replies, \"Grace, you know how much I enjoy these conversations with you,\" but in this case he disagrees, saying they \"lucked out\" with Jake. Since he's a perfect genetic match for the avatar intended for his twin brother, they can use his military skills in an avatar body toward the overall objective of the operation -- mining the mineral unobtanium, a potent source of energy that sells for many millions a kilo, and can bring cheap power back to a dying Earth. Parker tells Grace one way to help accomplish this objective is to win the hearts and minds of the natives, to obtain their cooperation. Grace argues that many of the Na'vi have been killed by the military under the auspices of Selfridge's operation. Back in the lab next morning, Jake and Norm are linked to their avatars for the first time. Jake, in his avatar, wakes up in a different room with other avatars and staff. Within a few moments, Jake is making his handlers nervous because, overjoyed with his ability to move his legs again, he is moving too quickly and trying to walk, the first time he has been able to do so since becoming a paraplegic. The human lab workers cannot stop him; a Na'vi is over 10 feet tall, sometimes closer to 12 feet, and far stronger than humans. When his long tail knocks over instruments, a staff member tells him to stop and lie down again. Jake ignores him and bursts out of the room and into the daylight. He finds himself in a recreation area where other avatars are playing sports and staff, in their protective gear, are performing various duties. Jake meets Grace's avatar, who, better-tempered than human Grace, accompanies Jake to the barracks where he is eventually encouraged to rest. Before he lies down to sleep, Jake inspects his neural queue, a long appendage that looks like a braid of hair. At the end of his queue is a cluster of hidden tendrils. When the avatar sleeps, the link is broken and Jake himself awakens. Jake later meets Trudy Chacon ( Michelle Rodriguez), a retired Marine pilot with whom he'll spend several weeks getting used to his avatar and exploring Pandora. Jake will serve as the door gunner on her crew. Jake reunites with Col. Quaritch, who is lifting weights. The Colonel tells Jake he's looked up his service record and was impressed with what he accomplished on some of his tours, including one in Venezuela. The Colonel warns Jake about the dangers awaiting him on Pandora. He also states his belief that the Avatar Program is a joke but that it offers an opportunity for a unique reconnaissance mission: If Jake can find out and tell the Colonel what he wants to know about the natives (how to persuade them to move away from the unobtainium ore deposits and how to hit them hard if they won't), the Colonel will see to it that Jake gets the surgery he needs to regain use of his legs. Because, the Colonel says, he takes care of his own. The Colonel climbs into an AMP suit -- a bipedal exoskeleton used for missions on Pandora -- and moves off. Relinked with his avatar, Jake flies over Pandora's surface in Trudy's gunship, along with Grace, Norm, and others. The team lands in a forest, where Grace and Norm begin to take samples of the flora and make measurements. Jake is distracted by his surroundings and wanders into a field of helicoradian flowers, which are quite tall and shrink at Jake's touch. Trouble arrives when a titanothere -- a heavily-armored dinosaur-like creature -- confronts Jake. Grace orders him to stand his ground and not shoot, or else the animal will get angry and charge. His armor is too thick for guns to have any effect anyway. Jake successfully holds his ground, but only because a larger creature, a thanator, has approached him from behind and has caused the titanotheres to retreat. The thanator then turns to Jake. Grace tells him to run, and he's pursued by the thanator in a chase that separates Jake from his crew. He loses his gun and is downed by the animal, but frees himself by releasing his backpack. Ultimately, the chase leads to a waterfall, where Jake jumps to safety, leaving the thanator alone above him. Jake's crew searches for him but Trudy says they'll have to return to base since night ops are not allowed. Grace says he won't last the night. It's now night and we see Jake sharpening a long stick into a spear Jake is being watched from above, this time by a Na'vi. The Na'vi aims an arrow at Jake and is about to shoot, but decides against it when small, ethereal, luminescent creatures land on her bow. (Later we learn they are \"very pure spirits,\" also known as the \"seeds of Eywa\", the Na'vis all-powerful god.) The archer retreats. Jake is stalked by a pack of viperwolves. He dips the end of his spear into a combustible pitch-like liquid. He lights the end and uses it as a a torch against the viperwolves, who encircle him, teeth bared, jaws gnashing. The animals attack Jake; he fights back, kills some, and is taken down by others. Then the archer who was observing Jake joins the battle on his side. She kills some viperwolves and causes the rest to flee. She tenderly puts out of their misery some whimpering wounded animals and says prayers over them. Jake attempts to thank her for helping him fight off the attackers. She meets his thanks with scorn, tells him all this is his fault, that they did not need to die, and that he should \"go back\" to where he came from. Jake asks if she feels that way, why she helped him. \"You have a strong heart. No fear,\" she explains. \"But stupid!\" Jake attempts to follow his rescuer up into a tree, asks for her help, and says he wants to learn. He's repulsed and told to \"go back,\" that sky people can't be taught. Just then, the seeds of Eywa reappear and start to land on Jake. He asks what they are. \"Very pure spirits,\" she replies, and Jake is covered by them, making an impression on his companion. When the seeds drift off, she relents and tells him to come with her. As Jake tries to keep up with his rescuer, Neytiri ( Zoe Saldana), he is felled by a bolo thrown by a patrol of Omaticayan warriors. Their leader is Tsu'Tey ( Laz Alonso), next in line to the throne and the man Neytiri is expected to marry. Neytiri stops them from harming Jake by telling them \"there has been a sign from Eywa.\" Tsu'Tey tells his men to \"bring him\" along to \"tashik\" (father, approximate spelling) and \"eywa\" (mother). Jake is presented to Neytiri's parents, Eytukan ( Wes Studi) and Mo'at ( CCH Pounder), who are the king and queen of the tribe, respectively. Jake tells the elders that he is a warrior -- a \"dreamwalker\" -- and his intention is to learn from them. Mo'at tastes Jake's blood from a wound on his forehead and decrees it is the will of Eywa for him to live with the Omaticaya, and for Neytiri, however reluctantly, to be his teacher in their ways and customs. After a ritual gathering, Jake is brought to his bed, a leaf high up in the \"Hometree\" that encircles him like a cocoon. As he falls asleep, human Jake is revived. At morning chow, all the scientists, including Grace, are focused on everything Jake has to say. Norm seems very disappointed and sullen; he was Grace's original choice to bond with the Omaticaya. Even the military and corporate reps have warmed to Jake. Hometree sits atop a massive deposit of unobtainium so Jake appears to be their best shot at convincing the Omaticaya to move -- or advising the Colonel on how to force them to do so. He's informed that he has three months to achieve his objective before the bulldozers arrive. The next scenes revolve around avatar Jake's training with Neytiri and human Jake's reports on his experiences via the videolog he dictates after every day's activity. He bonds with his direhorse, an important animal to the Na'vi. Jake must learn to mount the animal and connect his neural queue to its antenna. Human Jake continues to report on the Hometree's infrastructure and other Na'vi details. Sensing that Jake is being manipulated by Quaritch, Selfridge and the rest of the military section of the mining operation, Grace decides to take her operation \"out of Dodge.\" She moves them into the Hallelujah Mountains, a remote region of immense, floating islands that are sacred to the Na'vi and are also rich in unobtanium. Grace wants her turf away from the RDA officials and military types at the base. In his next videolog, Jake discusses his language lessons and says his time with the Na'vi is like \"field-stripping a weapon.\" Enough repetition and you can't help but learn it. This is intercut with scenes of his continued training with Neytiri, who teaches him about the Na'vi-forest connection. She tells Jake that all energy is borrowed and one day we have to give it back. Jake seems to comprehend this, and as he says a prayer for an animal he hunted and just killed, Neytiri says that he is ready for an important rite of passage: to bond with and ride a \"declan\" -- a flying mountain banshee. To reach the banshee's nesting grounds, Jake must accompany Neytiri, Tsu'Tey and two other Na'vi trainees to the highest region of the Hallelujah Mountains. Several factors (the height, the ferocity of the untamed banshees) make this a dangerous lesson, but Jake's lack of fear and successful bond with his banshee earn him the grudging respect of the Na'vi warriors present, even Tsu'Tey. He makes the bond with the tendrils in his queue, and as he rides the flying animal he remarks that he's not much of a horseman but he was \"born to do this.\" Jake, Neytiri, and the others ride together to the Tree of Souls, the most sacred place to the Na'vi. While flying on a hunting sortie, Jake and Neytiri are suddenly pursued and attacked by a creature known to the Na'vi as toruk, a giant and brightly-colored flying mountain banshee with murderous intentions toward everything that flies. Neytiri says its name means \"last shadow\" -- the toruk's shadow, once seen, is usually the \"last shadow one ever gets to see,\" as its attack is almost always fatal. Back at Hometree, Neytiri shows Jake the skeleton of a precursor of the present toruk. She tells him the last person to ride a toruk was her grandfather's grandfather, who used the animal to unite the five Na'vi tribes in a time of great sorrow. Such a person would earn the title Toruk Mato, \"Rider of the Last Shadow.\" When Jake comes back to his human form, it's clear he's been changed by this latest experience, for he says, \"out there is the real world ... in here is the dream.\" The Colonel comes over to him to tell him his mission is accomplished and he's to return to Earth that day. And good to his word, the Colonel has arranged for Jake to get the treatment he needs to regain use of his legs. Jake wishes to delay his departure because he says he's right at the point at which he's to be initiated into the tribe and accepted as one of them, and then would have the status to negotiate with the Na'vi to relocate. The Colonel acquiesces. Jake attends a Na'vi ceremony, where he learns the Na'vi believe that every person can be born twice. Neytiri leads Jake to a place of prayer, the \"tree of voices,\" where they use their queues to bond with the tree. Neytiri tells Jake he can make a bow from the tree ... and that he can choose a woman. Jake tells Neytiri that he has already chosen her, and she says that she has chosen him. They sleep together under the tree and Jake wakes up back in the lab. In the morning, Neytiri awakens to falling trees, then the presence of bulldozers. Soldiers are advancing as the forest falls around Neytiri, who is dragging and carrying Jake to safety. When he finally revives, Jake climbs onto one of the bulldozers and tries to stop it, eventually blinding its camera system and drawing some gunfire. Other Na'vi warriors arrive, while the Colonel, reviewing films back at the base, recognizes Jake in his avatar form as the person who tried to stop their mission. The bulldozers continue their operation, wiping out the sacred ground. At Hometree, the Na'vi want war. Grace and Jake argue against it. There's an intense debate. Tsu'Tey tries to kill Jake, having learned that Jake and Neytiri are mated for life. Jake declares he is a Na'vi and deserves the right to speak. Suddenly, both Grace and Jake's avatars fall unconscious as the links between them and their human forms are abruptly broken by the enraged Colonel. Grace and Jake face off with RDA and military brass. Grace reveals that Pandora's trees form a network that has more neural connections than exist in the human brain and that the Na'vi can tap into that network. Consequently, the Omaticaya will never leave Hometree. Parker and the Colonel discuss options. Gas out the Na'vi ... turn gunships on Hometree ... Jake presses to be allowed to return to the Omaticaya to try to convince them to leave, and he's granted one hour to achieve that objective. Jake and Grace are not welcomed back. Neytiri rejects Jake. Both Jake and Grace are bound and left behind by the Omaticaya, who are preparing to fight against the humans, who have arrived in a large fleet of flying ships. The fleet launches gas canisters into Hometree and the surrounding area. As the battle escalates, most of the weaponry is targeted at the root structure of Hometree, which is toppled by a series of explosions and heavy artillery. Many Omaticaya are killed. Mo'at frees Jake and Grace and asks them to save the tribe. Jake arrives and is rejected again by Neytiri when he tries to console her. Neytiri's father Eytukan is killed by a large piece of shrapnel; his dying wish is for Neytiri to take his sacred bow and assume leadership of their people. The destruction seems endless, and, suddenly, Jake and Grace return to their human bodies and are promptly placed under arrest for treason. Norm is also arrested for trying to prevent soldiers from disabling their avatar forms. Some time has passed, and, Hometree having fallen, the Na'vi gather at the Tree of Souls. Trudy arrives at the cell which holds Jake, Grace, and Norm. She dupes their guard by saying she wants nothing to do with them, only to knock out the guard an instant later. As they prepare to flee the base, Grace is shot and wounded by the Colonel. The team flies Trudy's ship to the remote lab in the floating mountains. Jake returns to his avatar body. The hopeful reunion with the Omaticaya is not to be, initially. Jake is an outcast, an alien. So he makes a bold decision. He realizes that to regain the trust of the Na'vi, he has to take things to a higher level. He summons his banshee and sets off to find the toruk. His strategy is simple but can result in death; Jake believes that the toruk never looks for an attack above himself and thus he can be approached that way. Jake jumps off his banshee and onto the back of the toruk. We next see him arrive riding the toruk at the Tree of Souls in the middle of an Omaticayan ceremony. Jake successfully bonded with the toruk. The Omaticaya are stunned to see their greatest legend come true. Jake dismounts and makes his way through the crowd of Na'vi, who, awed, part before him. When he reaches Neytiri, each holds out an arm to the other and she says \"I see you.\" Tsu'Tey, who is now tribe leader, concedes Jake's new role of Toruk Mato. He accords Jake much respect. Jake convinces Mo'at to help Grace, who is dying. Mo'at begins the preparations, which involve getting Grace's human and avatar bodies in place at the Tree of Souls. The idea is to permanently transfer Grace's consciousness to her avatar. Mo'at lets it be known that Grace must pass through the eye of Eywa, and that the great mother might choose to let her pass through to her avatar self, or she might opt to have Grace remain with her. The ritual is not successful, though before she dies, Grace tells Jake that she has seen Eywa. Jake, heartbroken and furious, speaks as Toruk Mato and says it's time to 'send a message' to the sky people that this is their, the Na'vi's, land. But to do so, they first must go to each of the Na'vi clans to ask them to come and fight as one. The human military have picked up the infusion of Na'vi into the area, from a few hundred to 2000 within a day. At this rate, the Colonel says as he addresses his troops, the Na'vi will soon total 20,000, at which point their perimeter will be overrun. Rather than let that happen, he continues, they must stage a pre-emptive attack while they still can. Their plan is to turn a space shuttle into the carrier of a massive bomb. Their target is the Tree of Souls, and the attack is planned for 0600 the next day. They believe that if they destroy the Tree of Souls, the Na'vi will go away and never come near this place again. Jake is busy rallying the Omaticaya. At the Tree of Souls, he asks Eywa to look into Grace's memories, and stresses that humankind killed their mother (Earth), the entity that protects the balance of life. Neytiri appears and tells Jake that Eywa does not take sides. The story jumps to the day of the final battle. The military forces are close and the bombship is moving toward the Tree of Souls. The united Na'vi force begins to arrive from the sky and on the ground. Jake on his toruk, Tsu'Tey, and other warriors engage in battle with the military aircraft, mainly Scorpion assault ships. Casualties mount on both sides. The gunships have unmatched firepower, but are no match for the declans, who grab hold of them and smash them against each other.. A flurry of main-character action: Jake, riding the toruk, is pursued and shot at by Col. Quaritch's ship; Trudy arrives and opens fire on the Colonel's command ship; Neytiri's banshee is shot down and killed; Norm's avatar is mortally wounded and he jumps back to his human form; Tsu'Tey takes on the bombship and is killed in the attempt; Trudy dies when her ship is blown up. Neytiri watches this action from the ground. Jake attempts to contact Tsu'Tey and is unsuccessful, as is his attempt to reach Trudy. Meanwhile, the bombship closes in on the Tree of Souls. Jake tells Neytiri via communicator to disengage from the fight. Suddenly, through what's left of the surrounding forest, a battalion of Titanotheres, Pandora's heavily armored dinosaur-like animals, arrives and engages the Earth forces. They quickly lay waste to infantry and soldiers in AMP suits. Neytiri observes this and tells Jake that his prayer to Eywa for help has been heard as the animals rout the humans on the ground. Jake and his toruk take to the sky to confront the bombship as the military's ground forces retreat in disarray. Approaching from above, Jake grenades the bombship. It crashes in flames and explosions well away from the Tree of Souls. Jake also throws explosives into vulnerable parts of the command ship. It begins to burn and go down. Col. Quaritch puts on an AMP suit and jumps free of the command ship before it disintegrates in a ball of flames. He makes his way to the temporary camp set up by Grace and the others when they moved operations away from the base. Human Jake, of course, is inside the camp and linked to his avatar. Quaritch, set on killing Jake, is now attacked by a thanator that carried Neytiri to the site, Neytiri having bonded with the animal. With the aid of his AMP suit the Colonel kills the thanator and Neytiri is trapped underneath it. Before the Colonel has a chance to kill Neytiri as well, avatar Jake arrives. The two engage in combat, the Colonel in his AMP suit and Jake as his avatar, armed only with a piece of pipe. Jake smashes the suit's plastic canopy, the Colonel pops it off, dons a breathing mask, and, before he moves off toward the structures that house the pods, asks Jake how it feels to have betrayed his race. \"You think you're one of them? Time to wake up,\" he taunts, as he smashes into the mobile lab, looking for Jake's pod, intent on destroying it and human Jake. The battle resumes. Jake is grabbed by an arm of the AMP suit and hangs from his queue before the Colonel. Meanwhile, Neytiri has almost freed herself. The Colonel now moves Jake closer to him and reaches for his knife, intending to finish Jake by slitting his throat. Suddenly, Neytiri shoots an arrow at the Colonel that penetrates deeply into the center of his chest. The Colonel, reeling, is unable to continue his attack on Jake. Neytiri's second arrow lodges right next to the first. It brings the Colonel in the AMP suit to the ground. However, much damage has been done to the lab, which is leaking oxygen. Human Jake is awake but having difficulty both breathing and trying to get a mask on. Neytiri arrives and helps Jake on with his mask. Cradling human Jake, she says, \"I see you.\" It's the first time they have seen each other face-to-face. Cut to the former military base, which is now under Na'vi control. Most of the remaining humans are being marched into a shuttle to be shipped back to Earth; however, a select few Earth people, such as Norm and Dr. Patel, are invited to stay on Pandora. Jake signs off in his final videolog, where we learn that he has chosen to transfer his consciousness to his avatar for good. In a ceremony similar to Grace's, Jake passes through the eye of Eywa ... and wakes up in his avatar with Neytiri watching over him.",
+      "writers": ["James Cameron"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0499549/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Sam Worthington, Zoe Saldana, Sigourney Weaver | See full cast and crew »"],
+      "reviews": [
+         "I was lucky to see Avatar at a pre-screening a few hours ago. It completely blew me and the whole room away and i dare to say it will do so to 80% of any audience anywhere. The remaining 20%, who always finds something to complain about, will whine about character development, dialog, story or the pop-corn. Well, let me tell you: they went to this movie with the wrong expectations. You have most likely met Cameron's previous work(s): Aliens, Terminator 1 & 2, The Abyss, Titanic (!), just to name a few. So WHAT should you expect from Avatar??? MORE of the same!!! More of revolutionary film-making, more of grandiose new ideas, more of never-before-seen special effects, more of 150 minutes without relapsing, more of the James Cameron genius... I am very happy that the trailers didn't give the full story away. Lots of emotions are waiting for the viewer, laughter and tears also. Cameron was very smart keeping the teasers as teasers, nothing more... as the full movie will take your breath away. You will practically not notice that you are watching a non-existing world, it is sooo real. Attention to detail is superb. You computer geeks will know what I am talking about. This move was not rushed in the making. No wonder it could not have been done before - not having the proper computing power. The wild life, the jungle, the animals, the Na'vi-s, or the dragon-like flying creatures are all so life-like, they almost pop-off the screen (and in 3D they actually do :) . The sound effects were so well done, that when I saw at the credits that Skywalker Sound was behind it, i could only think of \"yessss... now THAT makes sense.\" Cameron is a visionaire - and again, he delivers, with full blast. A certain character says in the movie that Pandora (the planet where the story takes place) became his real world. My advice to you: let Pandora become YOUR real world for two and a half hours, let it make you completely forget about your life and problems, let it entertain you, move you, let it carry you away. Because THAT is what i expect as an exchange for my ticket. And a few hours ago i got tens of tickets worth of that.",
+         "Well, I just saw Avatar this morning, one of the press premieres which are running on these days. My opinion: you've seen this story a hundred times, but never like this. Finally 3D is what it's supposed to be, an instrument at the service of the movie. You'll enjoy the visual experience, no doubt. As for the story, some of the \"inspirations\" are so huge and so obvious that mentioning two or three of them would REALLY ruin the movie for you, and I'm not willing to do that. Lots of mysticism and ecology, if you like that stuff. If you're 15 or so, you'll have a great time thinking that it's the first time somebody makes something like this. If you're an experienced movie watcher, better leave your skepticism at the door, bring lots of pop corn and enjoy with the usual action-flick-with-moral-and-loads-of-clichés. I liked it, however: \"the movie that re-invents movies\"??? No way.",
+         "I had the rather intense privilege to view James Cameron's much anticipated $400 million budget return to the directing scene, Avatar, at the Empire Leicester Square in London. Where to begin! The visuals in this pieces was groundbreaking. He did it with the Terminator series and then Titanic, so one would expect Cameron to deliver... and HE DID! The visual are by far some of the sharpest CGI I have seen. You could almost say that there is a disquiet that follows Cameron's soul, as there is no other possibility of this strong and intensified quality. Its production design and visual effects are both noteworthy and it will get its praise upon official release. What it was lacking that really should have shaped the movie is its character/story. I was expecting a complex and believable plot, but was left with a movie with mostly strong visuals. What most sci-fi lovers desire is mind-bending philosophies, fantasy and exploration and limitations of our or outer species. If it was not for this factor, I would give this a 9.5 vote. Avatar will be a success, not only because of Cameron's legacy, but by very intelligent and viral marketing. Avatar have had a powerful marketing technique that assembles other successful blockbusters, such as The Blair Witch project (you all remember it), The Dark Knight (Joker invades the world) and also, the current production The Artifice (the-artifice.com) that is intelligently targeting the market. Kudos to Cameron, Avatar is one of the (if not The) movie of the year. I could get in trouble for sharing this with you guys so early, so please click Yes on \"Was the above comment useful to you?\" as a thank you. ;)",
+         "I saw this epic last night at the Empire Leicester Sq in London, which is a superb venue in which to view this film. Huge screen, excellent sound and an extraordinary Dolby, 3 dimensional image. The whole effect is mind blowing. This is a 'Must see' movie, innovative, and extraordinary. I think it will be regarded by most cinema goers as another milestone in the history of the art. The level of realism achieved is remarkable, and although the film is relatively long in real time, it retains it's excitement and holds the audience's attention to the end. Performances are good, but this is not the sort of film that dwells on big star value for the actors, although Sigorney Weaver does shine and delivers a very convincing performance, as do the rest of the cast. But as there is so much entertainment and action value on screen the human element does not dominate in the usual way. As Writer/Director, James Cameron deserves high praise for this creation and in my opinion it will break box office records. I thoroughly enjoyed this film.",
+         "Forgive me, I'm going to jump from professional to fan boy for a while here. I haven't had the jitters after a film the way I've had for Avatar in quite sometime. James Cameron's Avatar is the most entertaining and enthralling cinematic experiences of my life. It is incredible, simply put. What Cameron has done here is the most passionate film project put out since Steven Spielberg released Schindler's List. His attention to detail and his zeal for pushing the envelope is so admirable to any filmmaker or actor who will ever do another film from this point on. Avatar is the story of Jake Sully, a paraplegic marine, who replaces his brother on a secret mission to infiltrate the Na' vi, the colony of beings that sit on the planet of Pandora, where there is a precious ore, that sells at a ridiculous amount. When Jake learns the ways of the Na' vi, his feelings and learnings will put him and the people he trusts in dangerous jeopardy. The performances here, in the sense of reacting, becoming, and understanding what Cameron has written are astounding. Not to be confused with a sensational bravura performance from some of the centuries best such as Marion Brando, Tom Hanks, or Diane Keaton; these actors along with the director inhabit these visual transformations with special effects as if they are have lived these beings all their lives. This is all based on character movements and reactions. Sam Worthington, as Jake Sully, is an actor who's on his way to becoming a star. Though he has problems with his Aussie accent often enough in the film, he gets the job done. Zoe Saldana, who plays Neytiri, a Na' vi huntress, is thrilling and electrifying. Stephen Lang, as the rock hard Colonel Miles, takes on a villainous turn to a new level in science fiction. He offers actual emotion and emotes evil to the audience and gains our hatred easily. Sigourney Weaver as the beautiful Dr. Grace, is sufficient enough to have on screen again teamed with Cameron. She lives inside her role with effortless ease, but suffers from some of the typical James Cameron cheesy lines. Narratively the film works perfectly on the cinematic level. The first forty minutes or so require patience and hope as it is the weakest part of the film and offers some dreariness, but when the second act takes off, it's sky high with no limits for James Cameron. Avatar delivers the best action sequences put on film of all time. That is the boldest statement I have ever made in all my years of criticism. I sat on this for two days before charging it out, but I mean it. It is the best visual experience of my life, period. Other than those visuals, the film pops with all the other technical aspects thrown into one. Art Direction is killer as the two worlds blend in perfectly for an acceptable time. The Film Editing is the crowning achievement of the film as it also offers the perfect blend of the two worlds, enticing the viewer and shifting us around. Mauro Fiore is the threat for a Cinematography Oscar this year. It was if the viewer sat down in a chair, put on glasses, and was literally placed on Pandora, spaceships, and floating mountains. The viewer can feel so engulfed by the imagery, you feel like you can smell the leaves from the trees. Avatar is utterly hypnotizing. James Horner's score is some of the best work done in his career. It offers a variable of devastation that moves the viewer to near tears. It goes back to his work on Titanic, where the musical instruments lifted the material immensely. The entire sound team is also locked and loaded for Oscar recognition as the feeling of animals, machines, and arrows buzzing by your head leave you imprisoned in Cameron's exquisite film. James Cameron has come back home ladies and gentlemen Cameron is back, bigger, badder, and mature in his crowning work of his career. Terminator 2: Judgment Day and Titanic do not even compare anymore. This is the film that can blend the fans of those two films together and lock Cameron into your heart. He's a definite spoiler for a directing bid for the Academy Awards. You have admire the raw, natural talent the man has. How could you ever conceive such an experience and put that much effort and work into it and have it pay off? The box office success will surely keep him in the minds of voters for various critics' awards. His screenplay, leaps and bounds better than 1997's Best Picture Winner, is primed, developed and ripe for the taking. Though, you do acquire the tacky and atypical dialogue you expect from a science fiction director of this caliber, you can appreciate the effort and the honesty of it all. James Cameron is everything Michael Bay wishes he was, to put it bluntly. Avatar will bring also great actors putting their best foot forward such as Giovanni Ribisi, who is as underrated as they come. Michelle Rodriguez who exudes sexy like any woman starring in a sci-fi epic. Joel Moore, showing his range outside of his comedic work in Dodgeball: An Underdog Story. And the classy veteran actors, CCH Pounder and Wes Studi, who just simply don't work enough. Avatar is one of the best films of the year. The most exciting, thrilling, and superb work you'll feast your eyes on in any theater this century. Cinema, forever, will remember the benchmark that James Cameron placed not only for himself, but for any man, daring to change the game, the way Cameron did. Avatar is a movie experience to be remembered, and please experience in a movie theater first. ***½/****",
+         "Let me preface this by saying I am a huge James Cameron fan. I think \"Terminator\" is a masterpiece of sci-fi and the single best edited film of all time, \"Aliens\" is easily the best sequel not from the original director and I personally like it a lot more than the original. \"Abyss\" created an interesting world and was racked with tension, \"Terminator 2\" is an action tour-de-force and has what I believe the best sound editing/design of all time, \"True Lies\" is goofy fun, more poignant than most give it credit for with a boffo ending, and finally \"Titanic\" was far better than anyone expected it to be and has one of the most believable romances in a movie. So then there was the 12 year wait for \"Avatar\". No reviews, word of mouth, ticket price or natural disaster would keep me from the midnight IMAX 3D screening. I went with moderate expectations, which the film matched exactly. While this kept me from being disappointed it wasn't a good thing. Movie fans were on edge because if \"Avatar\" flops, it'll mean the death of creativity in a remake-happy Hollywood. That's a valid concern but the problem is nothing in \"Avatar\" is creative whatsoever. It is literally \"Dances with Wolves\" in space, right down to having a \"Wind in his Hair\" character as a foil to the \"new guy\". As the movie progressed it caused the worst of all bad reactions for me as a viewer - I started thinking about other things. Then I kept thinking \"well the end battle is supposed to be awesome\". SPOILER WARNING! (if for some reason you can't guess how this movie ends) End battle comes and the movie switches from being \"Dances with Wolves\" to Disney's \"Atlantis\" (but that's unfair since both of those movies contained far, FAR better musical scores) Gunship windows that were impervious to arrows a few scenes ago (to show Na'vi desperation) suddenly become brittle and break easily (to show Na'vi heroism). The battle isn't nearly as long as you'd expect, and nowhere near as epic / engaging as the finale of Return of the King. Finally there's a Robo-suit vs Navi fight and it is admittedly pretty good. Unlike 95% of directors these days Cameron knows enough to pull the camera back and let us SEE the fight. However it's an odd choice to spend millions on 10 foot tall \"creatures\" and then rarely even have them in the same frame as humans. And of course there's the obligatory scene where characters are dying in slow motion as Middle Eastern vocal music plays (see Gladiator or Munich) Wouldn't have been so bad if I hadn't said to my friend on the way there \"How much you wanna bet there's a part where characters die in slow motion over Middle Eastern music?\" As with most movies these days \"Avatar\" is far too long, glossing over important details (why is Earth dying, what does Unobtainium do, etc) and instead spending time on flight scenes, mystic ceremonies, spirit trees and nature bonding. Ultimately I just did not care. Since the dawn of cinema Hollywood recycles old ideas every few decades and slaps on a bigger budget / new stars / better effects so you won't notice. I can see re-doing \"Ben Hur\" with color and sound, but why do we need \"Dances with Wolves\" with 20 times the budget and blue Native Americans? No amount of impressive visuals, robo-suits, gunship battles, perfect character CGI or Sigorney Weaver can change the fact that I've seen this movie 100 times before. I could even accept the weak story if there were any characters to give a rat's ass about. This film is also dreadfully humorless, a stark contrast to \"Titanic\" where humor was one of its many surprises. Regarding 3D... I've seen many films in it now and honestly you don't even notice after the few minutes. It doesn't make the money any better or worse, just more expensive. Citizen Kane, The Robe, Sound of Music, Jaws, Star Wars, Batman, Toy Story, The Matrix... these movies changed movies. We can say that looking back now. \"Avatar\" saying it would ahead of time is pure hubris, \"unsinkable Titanic\"-like poppycock. But if expensive motion-capture being used to cover up a weak, generic story is the future of cinema then count me out, I'll stick with my PS3.",
+         "It has been 12 years since Cameron unleashed the phenomenon that was Titanic and real fans would have to look as far back as 1991's Terminator 2 for their last proper dose of his incredibly epic action (True Lies, while fun, really doesn't count). So the anticipation for Avatar has long since reached fever pitch and beyond. Thankfully for the patient masses, Avatar has turned out to be the biggest and best event movie of the year, perhaps the decade. The story is pure Cameron simplicity � a paraplegic ex-marine is given a chance to walk again through the use of a unique alien body, called an Avatar. It is his job to gain the trust of the natives so that a greedy corporation can steal the precious metal from their lush moon. Jake's (Sam Worthington) crippled main character is the perfect point of contact for the audience � not only is he new to the visual delights of Pandora but his disability means that every moment in his Avatar body is one of glorious freedom from the confinement of his chair. When the Corporations intentions become more sinister, Jake must choose between his new found place with the natives and his own race and fight for what he believes in. Avatar combines parts of Pocahontas and Braveheart with a liberal dose of Space Marines into an epic whole that takes nearly three full hours to unfold. We could criticise that length, the weak story and the hammy dialogue. We could attack its thinly-veiled ecological message or the frankly bizarre spirituality in its second half but honestly nothing can spoil the experience while you are enveloped in it. And a large part of that is down to the brilliant use of 3D � which is both subtle and incredibly effective. Til now, we have been making movies with 3D elements, Avatar is the first truly 3D film and might well prove to be one of the most significant things to happen to blockbuster film-making since Star Wars. Cameron is also pushing the envelope with truly photo-real CG � something which has been promised for years but has finally been delivered with Avatar. The interactions of the characters with the environment is incredible and the detail on the faces of the motion-captured leads (Worthington and Star Trek's Zoe Saldana) bring them to life. You will believe totally in their performances, representing another quantum leap in tools which have rarely been used for anything other than spectacle. Make no mistake, Avatar is an important film from a technical standpoint but it is also great entertainment. The world of Pandora is a stunning spectacle from scene to scene and as Jake learns more about the Na'vi the film approaches the kind of light hearted adventure story which has been absent from movie theatres for years. Then the final act explodes into tragedy and desperate action, with the final half hour a blistering life or death struggle that has to be seen to be disbelieved. Over the coming days you will be hearing a lot about Avatar, and some of the critical reaction is bound to focus on its weaknesses in a bid to appear appropriately reserved and objective. But this is not a film to be dissected or examined, rather one to be experienced with a warm crowd, a great sound system, in 3D as you bask in the knowledge that the movie-making master is back!",
+         "A film with the scope of James Cameron's Avatar was always going to be a risk both artistically and financially, especially in today's economic climate. Whether it will pay off monetarily is a question only time can answer, but this viewer can at the very least attest to it being an artistic triumph. Avatar brings us as close as cinema ever has to actually visiting an alien world. The beautiful environs, the exotic creatures and incredibly lifelike natives of Pandora arrest the senses, visually, aurally and emotionally. The world in Avatar is the true star of the show. The amount of detail and work that has gone into bringing this new world alive is seriously impressive, and it will be a while before we see anything that overtakes it in scope and quality. WETA Workshop and ILM have truly outdone themselves. Relative newcomer, Aussie Sam Worthington provides a solid human heart amongst all the science-fiction/fantasy beauty and Zoe Saldana gives an impressive performance as the 8 foot tall Na'vi, Neytiri. Even though the characters they both play are blue, giant, catlike aliens, they managed to evoke a chemistry and likability that pierces through the special effects. That's not to say that everything is perfect. The story is basic and dare I say, clichéd and predictable. We have seen it plenty of times in all forms of media. The bad guys are cartoonishly evil, and sadly paper thin. The love story, while charming, is also clichéd despite being between man and alien. But in the face of these shortcomings, Avatar is a success because its storytelling lies in the brilliant visuals. Avatar is a beautiful piece of film and a true event. It does exactly what cinema was always intended to - it takes us away from our problems and worries for a few hours and gives us memorable images which will undoubtedly and deservedly enter into the cultural lexicon to stay for the foreseeable future. 9.5/10",
+         "Nobody directs like James Cameron. Ten years in the works, and every minute was worth it. It is the Star Wars of the 21st century. Though the plot is derivative and bears some pretty close resemblance to Dances with Wolves and a little bit of The Last Samurai, it does not ruin a mind-blowing experience. Avatar has a great future ahead of it and, possibly another Oscar for the mighty James Cameron. Jake Sully, is an ex-marine, bound to a wheel chair. He seeks to make a fresh start on the moon Pandora where his brother worked. The moon has a military run mining colony. The business has brought humans into contact with the local natives, tall blue dudes, called Na'vi. The Na'vi inhabit a part of the moon under which lies a large deposit of valuable minerals, and the humans are trying to get them to relocate. Colonel Quarich who runs the operation, ask Sully to go under cover as a Na'vi, to learn the secrets, to give the humans an advantage. If successful, Sully will get his legs back. The magic of future science and 3-D effects give Sully a handsome genetically engineered Avatar body, and he embarks on his mission. Once on the inside however, his loyalties to the humans start to turn when his heart gets lost to the Na'vi princess Neytiri. Is he willing to fight on the blue side now? The landscape of Pandora is the most creative and inventive of the decade. There are creatures that you might find in your wildest dreams or your worst nightmares. There is flora and fauna that shine with the bioluminescence of a thousand deep sea critters, and also trees which dwarf the Empire State Building. I guess the only noticeable problem with Avatar, is a lack of original story. What you see on the screen will blow you away, but all the tough critics, may come down a bit on the fact that despite being the latest in film technology, Cameron uses a very old archetypal formula, perhaps just a bit too schematic. There are a few badly scripted segments of dialogue, but nothing that makes you wanna blow raspberries at the screen. What is most important is the fact that Cameron's story gets the viewer involved and offers a handful of memorable and likable characters to root for, and some to root against. This is the post- modern era, and originality is rare, but if there is any technical progress to be made in the world of movies and entertainment, there is one name that dwarfs all JAMES CAMERON, and after ten years hiding from the Hollywood mainstream, he is back.",
+         "I actually enjoyed this quite a bit, but I am giving it a 1, because I cannot believe that it deserves an 8.8, which is what it is getting this evening, mostly apparently due to suspicious ratings from countries like Slovakia, India and Australia. Not that I have anything against those countries, it just strikes me as odd that so few good reviews are coming from the United States. I'm not saying that IMDb's ratings are being manipulated by some sort of conspiracy, I am just saying it is odd. Anyways, rather than try and balance my review with what was good (the visuals, the 3D, the sound effects), am just going to say what really sucked. Can I say \"sucked\" in my review? Guess I will find out. 1. \"Unobtainium.\" Really, \"unobtainium?\" Was this a kid's cartoon? 2. Sigourney Weaver's confused and cartoonish scientist character. She's tough, she smokes, she has a heart of gold, and her Avatar dresses like Dora the Explorer. Also, why try and make her look twenty years younger than she is? I can't tell if they used CGI, Botox, or a ton of make-up, but she looked like the female version of the Picture of Dorian Gray. What a waste of talent. 3. Hundres of years in the future, they can create magical avatar clones and transmit brain signals to them, but they still use flimsy wheelchair thingies? 4. Less than a half dozen animals on Pandora, and all but the floating jellyfish are angry and violent. Really? No fish? No birdies? No toads, snails, foxes, puppy dogs, kitty cats, mosquitoes, or anything but those half dozen CGI creature types? Seems like Pandora was populated by a relatively cheap CGI outfit. 5. The trees all communicate through synapses, and this is supposed to be ominous, yet this never turns into anything compelling. Did Jimmy Cameron get tired of his own idea? Or was it to hrd to animate something more interesting? 6. Almost half a billion dollars to make this?!?!?!?!? 7. \"Unobtainium?\" \"Unobtainium?????\" 8. Cartoony tough military guy who does not have a clue how to organize a military campaign. 9. The Na'Vi speak broken English that somehow becomes perfect English on and off throughout the movie. And the Avatars speak perfect English in normal tone of voice, identical to their human voices, although their bone structure is completely non-human?!?!?!? 10. Unobtainium I could go on and on, but you get the picture. This was like an extremely expensive and pretty kiddie cartoon. What a waste, and absolutely NOT deserving of the rating it is getting here."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Twentieth Century Fox Film Corporation",
+         "Dune Entertainment",
+         "Ingenious Film Partners"
+      ],
+      "summaries": [
+         "When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora. There he learns of greedy corporate figurehead Parker Selfridge's intentions of driving off the native humanoid \"Na'vi\" in order to mine for the precious material scattered throughout their rich woodland. In exchange for the spinal surgery that will fix his legs, Jake gathers intel for the cooperating military unit spearheaded by gung-ho Colonel Quaritch, while simultaneously attempting to infiltrate the Na'vi people with the use of an \"avatar\" identity. While Jake begins to bond with the native tribe and quickly falls in love with the beautiful alien Neytiri, the restless Colonel moves forward with his ruthless extermination tactics, forcing the soldier to take a stand - and fight back in an epic battle for the fate of Pandora.",
+         "In the future, Jake, a paraplegic war veteran, is brought to another planet, Pandora, which is inhabited by the Na'vi, a humanoid race with their own language and culture. Those from Earth find themselves at odds with each other and the local culture.",
+         "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
+      ],
+      "budget": 237000000
+   },
+   "movielensId": 72998,
+   "movielens": {
+      "languages": [
+         "English",
+         "Español"
+      ],
+      "releaseDate": "2009-12-10",
+      "dvdReleaseDate": "2010-04-20",
+      "directors": ["James Cameron"],
+      "runtime": 162,
+      "movieId": 72998,
+      "title": "Avatar",
+      "mpaa": "PG-13",
+      "actors": [
+         "Sam Worthington",
+         "Zoe Saldana",
+         "Sigourney Weaver",
+         "Stephen Lang",
+         "Michelle Rodriguez",
+         "Giovanni Ribisi",
+         "Joel David Moore",
+         "Wes Studi",
+         "CCH Pounder",
+         "Laz Alonso",
+         "Dileep Rao",
+         "Matt Gerald",
+         "Sean Anthony Moran",
+         "Jason Whyte",
+         "Scott Lawrence",
+         "Kelly Kilgour",
+         "James Patrick Pitt",
+         "Sean Patrick Murphy",
+         "Peter Dillon",
+         "Kevin Dorman",
+         "Kelson Henderson",
+         "David Van Horn",
+         "Jacob Tomuri",
+         "Michael Blain-Rozgay",
+         "Jon Curry",
+         "Luke Hawker",
+         "Woody Schultz",
+         "Peter Mensah",
+         "Sonia Yee",
+         "Jahnel Curfman",
+         "Ilram Choi",
+         "Kyla Warren",
+         "Lisa Roumain",
+         "Debra Wilson",
+         "Chris Mala",
+         "Taylor Kibby",
+         "Jodie Landau",
+         "Julie Lamm",
+         "Cullen B. Madden",
+         "Joseph Brady Madden",
+         "Frankie Torres",
+         "Austin Wilson",
+         "Sara Wilson",
+         "Tamica Washington-Miller",
+         "Lucy Briant",
+         "Nathan Meister",
+         "Gerry Blair",
+         "Matthew Chamberlain",
+         "Paul Yates",
+         "Wray Wilson",
+         "James Gaylyn",
+         "Melvin Leno Clark III",
+         "Carvon Futrell",
+         "Brandon Jelkes",
+         "Micah Moch",
+         "Hanniyah Muhammad",
+         "Christopher Nolen",
+         "Christa Oliver",
+         "April Marie Thomas",
+         "Bravita A. Threatt",
+         "Colin Bleasdale",
+         "Mike Bodnar",
+         "Matt Clayton",
+         "Nicole Dionne",
+         "Jamie Harrison",
+         "Allan Henry",
+         "Anthony Ingruber",
+         "Ashley Jeffery",
+         "Dean Knowsley",
+         "Joseph Mika-Hunt",
+         "Terry Notary",
+         "Kai Pantano",
+         "Logan Pithyou",
+         "Stuart Pollock",
+         "Raja",
+         "Gareth Ruck",
+         "Rhian Sheehan",
+         "T. J. Storm",
+         "Jodie Taylor",
+         "Alicia Vela-Bailey",
+         "Richard Whiteside",
+         "Nikie Zambo",
+         "Julene Renee"
+      ],
+      "imdbMovieId": "0499549",
+      "originalTitle": "Avatar",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Fantasy",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["5MB3Ea6L-gw"],
+      "plotSummary": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "tmdbMovieId": 19995,
+      "avgRating": 3.65512,
+      "releaseYear": "2009",
+      "numRatings": 24155,
+      "posterPath": "/kmcqlZGaSh20zpTbuoF0Cdn07dT.jpg"
+   }
+}

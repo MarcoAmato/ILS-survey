@@ -1,0 +1,745 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "competition",
+            "id": 271
+         },
+         {
+            "name": "olympic games",
+            "id": 2070
+         },
+         {
+            "name": "sport",
+            "id": 6075
+         },
+         {
+            "name": "rivalry",
+            "id": 9823
+         },
+         {
+            "name": "ice skating",
+            "id": 157168
+         },
+         {
+            "name": "21st century",
+            "id": 209493
+         }
+      ],
+      "imdb_id": "tt0445934",
+      "video": false,
+      "title": "Blades of Glory",
+      "recommendations": [
+         9718,
+         13260,
+         11635,
+         12133,
+         11017,
+         9472,
+         9384,
+         10663,
+         15373,
+         9614,
+         8699,
+         9981,
+         10074,
+         16538,
+         9353,
+         9894,
+         9429,
+         11543,
+         10719,
+         8193
+      ],
+      "backdrop_path": "/4CDaseAR78XCvKPwbKrGOjUjeO6.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 25,
+               "character": "Chazz Michael Michaels",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7387",
+               "name": "Will Ferrell",
+               "profile_path": "/dGxt3uGPlUJKIfHYiLasnEgR90e.jpg",
+               "id": 23659,
+               "order": 0
+            },
+            {
+               "cast_id": 27,
+               "character": "Jimmy MacElroy",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7391",
+               "name": "Jon Heder",
+               "profile_path": "/8UfmspCK5eSRULHyqUzWrKLC0t5.jpg",
+               "id": 53926,
+               "order": 1
+            },
+            {
+               "cast_id": 28,
+               "character": "Stranz Van Waldenberg",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7395",
+               "name": "Will Arnett",
+               "profile_path": "/vHCqn3SHfSV6GOWrxzEtoDaSMoU.jpg",
+               "id": 21200,
+               "order": 2
+            },
+            {
+               "cast_id": 30,
+               "character": "Fairchild Van Waldenberg",
+               "gender": 1,
+               "credit_id": "52fe4550c3a36847f80c739d",
+               "name": "Amy Poehler",
+               "profile_path": "/uMGW762oDZbR8jhFJRImJ1ls5cd.jpg",
+               "id": 56322,
+               "order": 3
+            },
+            {
+               "cast_id": 29,
+               "character": "Katie Van Waldenberg",
+               "gender": 1,
+               "credit_id": "52fe4550c3a36847f80c7399",
+               "name": "Jenna Fischer",
+               "profile_path": "/i8jVPF6H6OxuXcZwKUSNYJjkZJy.jpg",
+               "id": 51856,
+               "order": 4
+            },
+            {
+               "cast_id": 33,
+               "character": "Darren MacElroy",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73a7",
+               "name": "William Fichtner",
+               "profile_path": "/oIGjbztWvTqn4tnolW9rDCjpgxu.jpg",
+               "id": 886,
+               "order": 5
+            },
+            {
+               "cast_id": 34,
+               "character": "Coach",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73ab",
+               "name": "Craig T. Nelson",
+               "profile_path": "/mhKSd2uLhNX7TahlNhwJgDYMRwN.jpg",
+               "id": 8977,
+               "order": 6
+            },
+            {
+               "cast_id": 36,
+               "character": "Jesse",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73b3",
+               "name": "Romany Malco",
+               "profile_path": "/kfdEZJeokoL1dzqPefMl6daJ2Oe.jpg",
+               "id": 71530,
+               "order": 7
+            },
+            {
+               "cast_id": 35,
+               "character": "Hector",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73af",
+               "name": "Nick Swardson",
+               "profile_path": "/hcktZv4YDgZHgbjaV2SkbzXquWF.jpg",
+               "id": 32907,
+               "order": 8
+            },
+            {
+               "cast_id": 41,
+               "character": "Sports Anchor",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73c7",
+               "name": "Scott Hamilton",
+               "profile_path": "/n7bZQ7KHBMYag5lCzZef6Dr7GrQ.jpg",
+               "id": 60939,
+               "order": 9
+            },
+            {
+               "cast_id": 37,
+               "character": "Mountie",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73b7",
+               "name": "Andy Richter",
+               "profile_path": "/8K63ilOwTUO1yh32oLl2zfwjbKs.jpg",
+               "id": 28637,
+               "order": 10
+            },
+            {
+               "cast_id": 40,
+               "character": "Mountie",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73c3",
+               "name": "Greg Lindsay",
+               "profile_path": "/udOX6K2ajXasSviz2ch0vySzzxH.jpg",
+               "id": 60940,
+               "order": 11
+            },
+            {
+               "cast_id": 49,
+               "character": "Bryce",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73df",
+               "name": "Rob Corddry",
+               "profile_path": "/k2zJL0V1nEZuFT08xUdOd3ucfXz.jpg",
+               "id": 52997,
+               "order": 12
+            },
+            {
+               "cast_id": 38,
+               "character": "PA Announcer",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73bb",
+               "name": "Nick Jameson",
+               "profile_path": "/59b6x5nAJHStaktH1rd31nVOrog.jpg",
+               "id": 39214,
+               "order": 13
+            },
+            {
+               "cast_id": 39,
+               "character": "Floor Manager",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73bf",
+               "name": "Tom Virtue",
+               "profile_path": "/qL53J6VThZlY14P8TmZWuggK2OY.jpg",
+               "id": 38709,
+               "order": 14
+            },
+            {
+               "cast_id": 46,
+               "character": "Fox",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73d3",
+               "name": "Ben Wilson",
+               "profile_path": "/aEoSC2MLB8X5I9v6hscth0th3Ex.jpg",
+               "id": 60941,
+               "order": 15
+            },
+            {
+               "cast_id": 48,
+               "character": "Commissioner Ebbers",
+               "gender": 0,
+               "credit_id": "52fe4550c3a36847f80c73db",
+               "name": "William Daniels",
+               "profile_path": "/1SCR6im2maiASfTD5h7r0g9dU78.jpg",
+               "id": 10775,
+               "order": 16
+            },
+            {
+               "cast_id": 45,
+               "character": "Young Jimmy",
+               "gender": 0,
+               "credit_id": "52fe4550c3a36847f80c73cf",
+               "name": "Zachary Ferren",
+               "profile_path": "/o00oiHBotxaw8a81Wb6N42VSymi.jpg",
+               "id": 60943,
+               "order": 17
+            },
+            {
+               "cast_id": 43,
+               "character": "Father St. Pierre",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73cb",
+               "name": "Rémy Girard",
+               "profile_path": "/4OXis57mBuJMxqLkQ31uunkEXCe.jpg",
+               "id": 38526,
+               "order": 18
+            },
+            {
+               "cast_id": 47,
+               "character": "Rink Official World Games",
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73d7",
+               "name": "Steven M. Gagnon",
+               "profile_path": null,
+               "id": 60944,
+               "order": 19
+            },
+            {
+               "cast_id": 50,
+               "character": "Attractive Official",
+               "gender": 1,
+               "credit_id": "53bdf67f0e0a261589002f7a",
+               "name": "Nancy Kerrigan",
+               "profile_path": "/rjwHXsOa1vLdgjFxGG9HJXAh3If.jpg",
+               "id": 166931,
+               "order": 20
+            },
+            {
+               "cast_id": 51,
+               "character": "Sex Class Counselor",
+               "gender": 2,
+               "credit_id": "53bdf6b50e0a261579002d4f",
+               "name": "Luke Wilson",
+               "profile_path": "/n7CRA7h1z3FVOzBJ5EjfSrPQbvl.jpg",
+               "id": 36422,
+               "order": 21
+            },
+            {
+               "cast_id": 52,
+               "character": "Federation Judge",
+               "gender": 2,
+               "credit_id": "53bdf7060e0a26158f002cb3",
+               "name": "Brian Boitano",
+               "profile_path": null,
+               "id": 1226851,
+               "order": 22
+            },
+            {
+               "cast_id": 53,
+               "character": "Federation Judge",
+               "gender": 0,
+               "credit_id": "53bdf71f0e0a261585002dce",
+               "name": "Dorothy Hamill",
+               "profile_path": null,
+               "id": 1226887,
+               "order": 23
+            },
+            {
+               "cast_id": 54,
+               "character": "Federation Judge",
+               "gender": 0,
+               "credit_id": "53bdf7350e0a261576002ed5",
+               "name": "Peggy Fleming",
+               "profile_path": null,
+               "id": 1226343,
+               "order": 24
+            },
+            {
+               "cast_id": 55,
+               "character": "Sasha Cohen",
+               "gender": 1,
+               "credit_id": "53bdf7c10e0a26157f002fc2",
+               "name": "Sasha Cohen",
+               "profile_path": "/cslDcNDtkcs8IhUcIY4UbG6GopK.jpg",
+               "id": 204665,
+               "order": 25
+            },
+            {
+               "cast_id": 56,
+               "character": "Co-Anchor",
+               "gender": 2,
+               "credit_id": "53bdf7f20e0a261589002fd7",
+               "name": "Jim Lampley",
+               "profile_path": null,
+               "id": 942254,
+               "order": 26
+            },
+            {
+               "cast_id": 57,
+               "character": "Female Sex Addict",
+               "gender": 0,
+               "credit_id": "562e683cc3a3681b5400b528",
+               "name": "Katharine Towne",
+               "profile_path": "/33AK0lDtxIhh7125JC7daDWMSkC.jpg",
+               "id": 15012,
+               "order": 27
+            },
+            {
+               "cast_id": 58,
+               "character": "Fire Extinguisher",
+               "gender": 2,
+               "credit_id": "598127b4925141519b00736b",
+               "name": "Kerry Rossall",
+               "profile_path": "/eYQlKt5ZIOWkhDwRkvItd0SBzV1.jpg",
+               "id": 1402117,
+               "order": 28
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c72ff",
+               "name": "Jeff Cox",
+               "profile_path": null,
+               "id": 60924,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7305",
+               "name": "Josh Gordon",
+               "profile_path": "/g316UVVZWfD4cXQpxYirnhgop7U.jpg",
+               "id": 60922,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c730b",
+               "name": "Craig Cox",
+               "profile_path": null,
+               "id": 60926,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7311",
+               "name": "Will Speck",
+               "profile_path": "/sJk2MHa0G6mndPrGKRBnTjNhU8w.jpg",
+               "id": 60923,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7317",
+               "name": "Stuart Cornfeld",
+               "profile_path": "/vBdZqJTDv7PpM6a5dBSO4orV8z1.jpg",
+               "id": 22302,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c731d",
+               "name": "John Jacobs",
+               "profile_path": null,
+               "id": 28635,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7323",
+               "name": "Marty P. Ewing",
+               "profile_path": null,
+               "id": 11655,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4550c3a36847f80c7329",
+               "name": "Busy Philipps",
+               "profile_path": "/uerCtOFqXQlbKG7FvjMDStD961y.jpg",
+               "id": 60928,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c732f",
+               "name": "John Altschuler",
+               "profile_path": "/hZOSff1fIkYUbbicspWa9xMAacK.jpg",
+               "id": 60931,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4550c3a36847f80c7335",
+               "name": "Lara Breay",
+               "profile_path": null,
+               "id": 60929,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4550c3a36847f80c733b",
+               "name": "Dave Krinsky",
+               "profile_path": null,
+               "id": 60932,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7341",
+               "name": "Theodore Shapiro",
+               "profile_path": "/bZfFnlSzyZqeI5zjFwmZPtQkYQc.jpg",
+               "id": 10572,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4550c3a36847f80c7347",
+               "name": "Juel Bestrop",
+               "profile_path": null,
+               "id": 14377,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4550c3a36847f80c734d",
+               "name": "Stephen J. Lineweaver",
+               "profile_path": null,
+               "id": 53811,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7353",
+               "name": "Robert Greenfield",
+               "profile_path": null,
+               "id": 8274,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7359",
+               "name": "Jay Hart",
+               "profile_path": null,
+               "id": 7237,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4550c3a36847f80c735f",
+               "name": "Peter Kohn",
+               "profile_path": null,
+               "id": 2447,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7365",
+               "name": "Seth Yanklewitz",
+               "profile_path": null,
+               "id": 60935,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4550c3a36847f80c736b",
+               "name": "Colin O'Reilly",
+               "profile_path": null,
+               "id": 60933,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4550c3a36847f80c7371",
+               "name": "Patrick Esposito",
+               "profile_path": null,
+               "id": 60934,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4550c3a36847f80c7377",
+               "name": "Julie Weiss",
+               "profile_path": null,
+               "id": 8222,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c737d",
+               "name": "Stefan Czapsky",
+               "profile_path": null,
+               "id": 1919,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c7383",
+               "name": "Ben Stiller",
+               "profile_path": "/o9M2PyoF7QDSMq1OwW0D892fIkV.jpg",
+               "id": 7399,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c738d",
+               "name": "Richard Pearson",
+               "profile_path": null,
+               "id": 9646,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4550c3a36847f80c73a3",
+               "name": "Seth Reed",
+               "profile_path": null,
+               "id": 60937,
+               "department": "Art",
+               "job": "Art Direction"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 10.101449,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 9955,
+      "vote_count": 698,
+      "budget": 53000000,
+      "overview": "When a much-publicized ice-skating scandal strips them of their gold medals, two world-class athletes skirt their way back onto the ice via a loophole that allows them to compete together as a pairs team.",
+      "similar": [
+         9472,
+         585,
+         9291,
+         2300,
+         86130,
+         2395,
+         11977,
+         11287,
+         10637,
+         1124,
+         22881,
+         43959,
+         323677,
+         17108,
+         10474,
+         9750,
+         26602,
+         58496,
+         319888,
+         64807
+      ],
+      "original_title": "Blades of Glory",
+      "runtime": 93,
+      "poster_path": "/7vbtLFfN00BaczHjOaPWui4aqg1.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/jCwNupLautLSk6iB28VXrDPUqD8.png",
+         "name": "DreamWorks",
+         "id": 7,
+         "origin_country": "US"
+      }],
+      "release_date": "2007-03-30",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "Kick Some Ice.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Josh Gordon",
+         "Will Speck"
+      ],
+      "runtime": 93,
+      "synopsis": "In the National Figure Skating Assocation, professional ice skaters Chazz Michael Michaels (Will Ferrell) and Jimmy MacElroy (Jon Heder) are rivals in the world championship competition. After each has finished their performance, the scores result in a tie for the gold medal. During their acceptance of the gold medal, the two skaters engage in a public altercation that results in them being banned permanently from the men's figure skating division. A few years pass, and each has seen a disintegation in their skating career. Michaels (Ferrell) finds work in a no-name children's production and MacElroy (Heder) finds himself working in a retail store fitting others for ice skates amongst other things. While working at the retail shop, an obsessed fan of MacElroy comes to him and pleads with him to continue his dream of being a champion figure skater. He points out a technicality that would allow MacElroy to re-enter the National Figure Skating Assocation, not in the men's division, but in the pair's division. The only problem is he needs to find a partner. A short time later MacElroy and Michaels end up encountering one another during MacElroy's search for a partner and proceed to have another televised brawl. MacElroy's former coach (Craig T. Nelson), happens to see the highlights from the brawl on the evening news, and while he's watching the two men engaged in their scuffle, an idea occurs to him that the two skaters could very well partner with each other. After some convincing, Michaels and MacElroy begrudgingly agree to partner and they soon sign up for the World Championship Pair's Division. Not without their share of problems, they start rehearsals and soon begin to work out the kinks not only in their physical performance, but in their relationship with each other as well. However, just when all seems harmonious, a rival pair in the competition(Will Arnett & Amy Poehler) began a scheme to get Michaels and MacElroy out of the competition. Through a series of manipulations and a kidnapping, the rival pair almost succeed, but can't quite stop the pair from making it to the championship. Michaels and MacElroy manage to complete their performance, including a death defying original move created by their coach, and proceed to win the gold medal after all.",
+      "writers": [
+         "Jeff Cox",
+         "Craig Cox"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0445934/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY3MDMyMTYxMl5BMl5BanBnXkFtZTcwMjk0NzI0MQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Will Ferrell, Jon Heder, Amy Poehler | See full cast and crew »"],
+      "reviews": [
+         "Blades of Glory is the story of Chazz Michael Michaels (Ferrel) and Jimmy MacElroy (Heder), two rival ice skaters banned from competition after a podium brawl at an \"Olympic\" event. After Jimmy's stalker finds a loophole in the rulebook (yes, you read that right), the pair join forces to reclaim their rightful position at the top of the skating rankings. While it follows the predictable rise, fall, and rise again pattern of most comedies, Blades of Glory is different enough to be memorable. The costumes are ridiculous, the set-pieces are brilliant (including a very awkward chase sequence involving a crossbow and an unfortunate mascot), and the performances, what these films hinge on, are excellent. The Ferrel-Heder exchanges are drenched with homoeroticism, and their struggles to come to terms with each other's lifestyles (Ferrel: \"I'm a sex addict. It's my cross to bear\" and Heder: \"If you can dream it, you can do it!\") are funny enough to carry the film for large sections. The supporting performances of the Waldenbergs (Will Arnett, Amy Poelher, and Jenna Fischer) fill in the gaps successfully, their conversations charged with an unusual mix of villainy and incestuous desire. Then of course there are the skating scenes, which are quite a sight to behold, in all their spandex-and-diamonds splendour. Overall, Blades of Glory is hilarious. Pretty much every aspect of it is fantastically overblown, and it keeps you laughing quite steadily for its 90-minute running time. Boom!",
+         "When I first saw the trailer for this film I didn't think much of it. It looked as if it were just trying to cash in on the popularity of Will Ferrel after the success of Talladega Nights. Well, I was wrong, big time wrong. First off, almost every scene in this film is hilarious and the trailer does it no justice. Don't get me wrong, I love Will Ferrel films for the most part but this one looked like it would be an exception. Instead this film fits perfectly with my taste in comedies like Talladega Nights, Zoolander, Anchorman, Water Boy, Old School and Billy Madison. If you like these kinds of films you will love this film.",
+         "I saw the press screening of Blades of Glory last night, and I have to say...I haven't laughed so much at a movie for quite some time. Jon Heder shines in his role and portrays a character that seems carefully written to avoid any similarities with Napoleon Dynamite; I was actually surprised that there weren't any references to ND (that I noticed), since there were a few Ferrell lines that reminded me of Anchorman (which was just fine!). Ferrell and Heder work wonderfully together; the ice skating scenes are pulled off very well; and, of course, there are tons of quotable lines. Overall, a funny, satisfying movie (especially if you're into ice skating or Anchorman/Talledega Nights-type humor).",
+         "I saw the preview several days ago and figured it was just another case of, \"put the funniest parts of the movie in the trailer to hook the public and then be disappointed later\", but I was surprised and the comedic cohesion between John H. and Will F.. The dialouge was some of the funniest I've heard in awhile and the physical comedy was timed perfectly. This is not just another mediocre performance from Heder and Will that we have grown accustomed to. This movie really delivers and there were plenty of great cameos. Including Jenna Fisher from the office and even Nancy Carrigan. If you truly have an eye for good comedy, they you'll love this movie. I think it was the best comedy I have seen in awhile.",
+         "I saw this movie last night and I have to say that I was impressed. I went with a friend to see this and I didn't think it would be that funny. The trailers were hilarious, but I thought they had used up all the funny jokes in the trailer and left nothing for the movie, boy was I wrong. If I went more than 5 minutes without laughing, there were very few times I did. The story is quick and is fast paced, I was never once bored or wondering what time it was and when it was over, I wanted to go back and watch it again! I have never been much of a Will Ferrel fan, but now I am, he was absolutely hilarious and it was a great match to put him with Jon Hede. They played off of each other wonderfully and just a random argument between them had you rolling on the floor with laughter. The movie stayed pretty fresh and I didn't feel like it was mindless humor and I even really felt for the characters. It was a funny and interesting plot and unique and you couldn't really, entirely predict the ending, so it kept me guess. What was great,was that it started off really strong and ended strong as well and the ending left you pretty satisfied. For a comedy, it surpassed my expectations and I simply loved it! I recommend anyone and everyone to see this movie! I loved it!!! 5/5 stars!!",
+         "From the very first second I laid eyes on the absolutely hilarious poster for this film, in my neighborhood multiplex a few months ago, I knew with extreme certainty that I'd be seeing it the very first week it opened. Caught it on Wednesday and I'm here to say the movie most definitely delivers on the promise of the poster, big time. Jon Heder finally gets a role he can have some fun with for a change (which hasn't really happened since Napoleon Dynamite), and he's superbly cast as the sheltered and phobic Jimmy MacElroy, the perfect foil for Ferrell's sex machine on skates, Chazz Michael Michaels. Ferrell is fast becoming more and more adept at portraying genuine characters in his movies, not merely hollow caricatures, and he is clearly in his element here. The beginning of the movie, the set-up, is wonderfully written, and the over-the-top tone that's established in these opening scenes is successfully carried throughout. The energy level stays high, the plot never gets tedious or bogged down, and, best of all, the routines that the two of them perform together as partners are truly hilarious and original. I was left wanting more, and that speaks volumes.",
+         "I wasn't expecting much from this movie for two reasons: a) Heder hasn't done anything funny since Napoleon Dynamite and b) I thought Will Ferrel's shtick would start to run thin. Both actors played the type of character I expected from them. Heder gave something similar to the Napoleon Dynamite character and Will Ferrell was Will Ferrell. What I didn't expect was the humor. Ferrel carried the show and played the funniest character by far, but Heder didn't drag him down like I thought he would and the two worked well together. Heder was Jack Lemmon to Ferrell's Walter Matthau. As far as the supporting cast, Poehler and Arnett were good as the Machiavellian doubles team that are the skating rivals to Ferrell and Heder's characters, but no one else really stood out. Jenna Fischer was lackluster as Heder's love interest and Craig T. Nelson did not make for a funny or interesting character either. Two people I thought would have been able to shine in larger roles were Andy Richter and Rob Corddry. Both are funny guys, much funnier than Nelson or Malco, and were underutilized in this film. The humor was low brow to be sure, just like in every other project Ferrell does, but I happen to like that sort of humor, so I enjoyed it.",
+         "What can I say? The whole theater laughed during this whole movie. There were a few cheap laughs and some very obvious jokes thrown in, but the delivery was par for the course as far as Farrell is concerned. In other words, if Farrell is your kind of comedic character, you'll love this movie. If, say, Hugh Grant is your idea of a comic character, you'll probably hate this movie. Will Farrell's character was essentially Ron Burgundy on ice skates, which is a great idea. Ron Burgundy was, of course, the embodiment of the so-called \"alpha-masculine\" persona of the '70s and '80s. - unabashedly proud, sexist, and narcissistic. Put him into a sport that in many peoples' eyes in inherently effeminate and you've got a sure-fire crowd pleaser. Jon Heder was a little less Napolean Dynamite-ish in this movie. He is still the same innocent, ignorant, nerdy, awkward person as in his debut character. That said, he is a little more image-aware in this character, and as the movie progressed I saw less Napolean Dynamite (a major problem in his career until now, IMO), and I saw more of this \"other\" character. Heder's character is hard to describe other than to say it is Napolean Dynamite combined with Derek Zoolander - a lovable ignorant narcissist. Put that on ice skates opposite Ron Burgundy the figure skater and you have 93 minutes of great fun. What really makes this film work is Farrell's willingness to do anything in a movie and Heder's reluctance to do such things. They are polar opposites as far as comedic actors and their comedic emphasis are concerned. But those two personalities really work well to complement each other on screen in this film. 8/10",
+         "This movie is a must see. If you enjoy Ferrell you will love this film. It is just a feel good laugh out loud comedy. There is not a bad performance in the movie. I didn't care for the Hector (Nick Swardson) story line. It was mildly funny in a sort of creepy/annoying way. That is the only blemish on this hilarious movie though. Ferrell and Heder play very well off each other. I am glad to see Heder play something a little different then Dynamite. Yes he sounds very similar but thats his voice. Poehler and Arnett make a great pair that you love to hate. Its great to see Craig T. Nelson doing what he does best, playing a coach. The end of this film rides the line of being either so stupid or comic genius, For my money its GENIUS!! This film is a must see. Especially if you are a Ferrell fan. It is great. Full of new lines destined to become classics quoted by the teens of America.",
+         "Will Ferrell and John Heder (Napoleon Dynamite) as figure skating partners. Sounds like a bad SNL skit? Right? I wasn't expecting much from this comedy whose trailers looked dull and uninspired. It seemed sure to bore. So when I sat down in the theater, I went in prepared to hate this movie. But then the credits began to roll, I was pleasantly surprised by the roll of names: William Fichtner, Craig T. Nelson, Amy Poehler, Will Arnett (Gob on Arrested Development), Rob Corddry, Jenna Fischer (The Office), and Romany Malco (The 40 Year Old Virgin). So I knew that even if the movie stunk, it would be fun to see the actors together on the screen. Also surprising was to see that Busy Philipps (Freaks and Geeks) had a role in creating the story. The story is simple: arch rivals Chazz (Will Ferrell) and Jimmy (Jon Heder) are forced to become figure skating partners after they are banned from competing in singles skating. With the help of their coach Craig T. Nelson--in David Carradine mode--the men try to put aside their differences and compete for gold. Will Ferrell does another variation on his Ron Burgundy/Ricky Bobby character: clueless egotist full of machismo. But he does it incredibly well and this time adds the wrinkle of being an insatiable sex addict. Not surprisingly, he gets the movie's biggest laughs and successfully carries the movie. Jon Heder is okay. He doesn't get in the way of Ferrell and surprisingly, given his monotone acting, scores a few laughs as a cherubic man-child. Amy Poehler and Will Arnett compliment the movie well with their absurd comic turns as brother and sister skating partners and arch-enemies to Chazz and Jimmy. The film has a surprisingly light touch and at times feels like a live action feel gooder from Disney. But Ferrell as sex-addled Chazz dispels any notion that Blades is family fare. The movie is instantly disposable, but very funny. Audiences are gonna enjoy this one."
+      ],
+      "genres": [
+         "Comedy",
+         "Sport"
+      ],
+      "productionCompanies": [
+         "DreamWorks SKG",
+         "Red Hour Films",
+         "Smart Entertainment"
+      ],
+      "summaries": [
+         "When rivalry between the world's best men's figure skaters - sex addicted, improvisational Chazz Michael Michaels and germophobic, precise Jimmy MacElroy - breaks into a fight on the awards platform, they're banned from the event for life. Three years later, desire for a gold medal and a careful reading of the rules lead them to compete as skating's first male-male pair. Can they overcome mutual dislike, limited time to prepare, their coach's secret past, and the dirty tricks of their main opponents, the Van Waldenberg siblings? The key to victory or defeat may lie in the attraction of the virginal Jimmy toward Katie, the Van Waldenbergs' little sister.",
+         "Chazz Michael Michaels and Jimmy MacElroy are two professional ice skaters, who after getting into a fight, are both banned from mens figures skating. Fortunately, it is soon discovered by an obsessed fan that they are banned from mens singles competition and not doubles competition. Now Chazz and Jimmy must team up as the first double mens team and take on the team of Stranz and Fairchild Van Waldenberg, who are eager to do anything to get the victory.",
+         "In 2002, two rival Olympic ice skaters were stripped of their gold medals and permanently banned from men's single competition. Presently, however, they've found a loophole that will allow them to qualify as a pairs team."
+      ],
+      "budget": 61000000
+   },
+   "movielensId": 52245,
+   "movielens": {
+      "languages": [
+         "English",
+         "日本語"
+      ],
+      "releaseDate": "2007-03-30",
+      "dvdReleaseDate": "2007-08-28",
+      "directors": [
+         "Josh Gordon",
+         "Will Speck"
+      ],
+      "runtime": 93,
+      "movieId": 52245,
+      "title": "Blades of Glory",
+      "mpaa": "PG-13",
+      "actors": [
+         "Will Ferrell",
+         "Jon Heder",
+         "Will Arnett",
+         "Amy Poehler",
+         "Jenna Fischer",
+         "William Fichtner",
+         "Craig T. Nelson",
+         "Romany Malco",
+         "Nick Swardson",
+         "Scott Hamilton",
+         "Andy Richter",
+         "Greg Lindsay",
+         "Rob Corddry",
+         "Nick Jameson",
+         "Tom Virtue",
+         "Ben Wilson",
+         "William Daniels",
+         "Zachary Ferren",
+         "Rémy Girard",
+         "Steven M. Gagnon",
+         "Nancy Kerrigan",
+         "Luke Wilson",
+         "Brian Boitano",
+         "Dorothy Hamill",
+         "Peggy Fleming",
+         "Sasha Cohen",
+         "Jim Lampley",
+         "Katharine Towne",
+         "Kerry Rossall"
+      ],
+      "imdbMovieId": "0445934",
+      "originalTitle": "Blades of Glory",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": ["bCg1HO4UbTA"],
+      "plotSummary": "When a much-publicized ice-skating scandal strips them of their gold medals, two world-class athletes skirt their way back onto the ice via a loophole that allows them to compete together as a pairs team.",
+      "tmdbMovieId": 9955,
+      "avgRating": 3.04414,
+      "releaseYear": "2007",
+      "numRatings": 3251,
+      "posterPath": "/7vbtLFfN00BaczHjOaPWui4aqg1.jpg"
+   }
+}
