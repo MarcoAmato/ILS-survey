@@ -82,8 +82,8 @@ def get_similarities_of_movies(similarities: DataFrame, list_of_movies: List[int
 
     rows_read: int = 0
     for index, similarity_row in similarities.iterrows():
-        if rows_read % 100000 == 0:
-            print(f"{rows_read} rows read")
+        # if rows_read % 100000 == 0:
+        # print(f"{rows_read} rows read")
         rows_read += 1
         if similarity_row.movie1 in list_of_movies and similarity_row.movie2 in list_of_movies:
             # similarity of 2 movies in list_of_movies
@@ -91,7 +91,6 @@ def get_similarities_of_movies(similarities: DataFrame, list_of_movies: List[int
 
     movies_similarities.movie1 = movies_similarities.movie1.astype(int)  # movie1 treated as int
     movies_similarities.movie2 = movies_similarities.movie2.astype(int)  # movie2 treated as int
-    print(movies_similarities)
     return movies_similarities
 
 
@@ -186,7 +185,7 @@ def get_movie_from_top100(movie_id: int) -> DataFrame:
     :param movie_id: id of movie
     :return: dataframe of movie
     """
-    path: str = PATH_TO_TOP_100_MOVIES_JSON + str(movie_id) + ".json"
+    path: str = PATH_TO_TOP_100_SIMILARITIES_JSON + str(movie_id) + ".json"
     return pd.read_json(path)
 
 
@@ -229,15 +228,15 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method
         ILS = similarities_of_movies['similarity'].sum()
     elif method == "plot":
         for movie in list_of_movies:
-            print_movie_with_info(movie, list("overview"))
+            print_movie_with_info(movie, ["overview"])
         ILS = similarities_of_movies['Plot:LDA'].sum()
     elif method == "genre":
         for movie in list_of_movies:
-            print_movie_with_info(movie, list("genres"))
+            print_movie_with_info(movie, ["genres"])
         ILS = similarities_of_movies['Genre:Jacc'].sum()
     elif method == "plot-genre":
         for movie in list_of_movies:
-            print_movie_with_info(movie, ["genres", "plot"])
+            print_movie_with_info(movie, ["genres", "overview"])
         # mean of plot and genre
         ILS = (similarities_of_movies['Plot:LDA'].sum() + similarities_of_movies['Genre:Jacc'].sum()) / 2
 
@@ -304,27 +303,36 @@ def print_ils_top_100_MPG() -> None:
     top_100_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     sample_list_of_movies: List[int] = sample(top_100_movie_ids, MOVIES_LIST_LENGTH)
 
-    ILS_m: float = get_ILS(similarities_df, sample_list_of_movies, "mean")
-    ILS_p: float = get_ILS(similarities_df, sample_list_of_movies, "plot")
-    ILS_g: float = get_ILS(similarities_df, sample_list_of_movies, "genre")
-    ILS_pg: float = get_ILS(similarities_df, sample_list_of_movies, "plot-genre")
+    print_ILS_measures(sample_list_of_movies, similarities_df)
 
+
+def print_ILS_measures(movies: List[int], similarity_df: DataFrame) -> None:
     print("movies: ")
-    print_names_of_movies(sample_list_of_movies)
-    # print(sample_list_of_movies)
-    print("ILD using mean of similarities: ")
+    print_names_of_movies(movies)
+
+    ILS_m: float = get_ILS(similarity_df, movies, "mean")
+    print("ILS using mean of similarities: ")
     print(ILS_m)
-    print("ILD using mean of Plot:LDA: ")
+
+    ILS_p: float = get_ILS(similarity_df, movies, "plot")
+    print("ILS using mean of Plot:LDA: ")
     print(ILS_p)
-    print("ILD using mean of Genre:JACC: ")
+
+    ILS_g: float = get_ILS(similarity_df, movies, "genre")
+    print("ILS using mean of Genre:JACC: ")
     print(ILS_g)
-    print("ILD using mean of Plot and Genre: ")
+
+    ILS_pg: float = get_ILS(similarity_df, movies, "plot-genre")
+    print("ILS using mean of Plot and Genre: ")
     print(ILS_pg)
 
 
-def get_ILS_from_ids():
+def get_ILS_from_ids() -> None:
+    """
+    Takes list of ids as input and prints ILS for the corresponding list
+    """
     done: bool = False
-    list_of_movies: Set[int] = set()
+    set_of_movies: Set[int] = set()
     available_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID)
     while not done:
         print("enter movie ids to get the ILS, enter -1 to stop")
@@ -334,11 +342,16 @@ def get_ILS_from_ids():
             if id_inserted == -1:
                 done = True
             elif id_inserted in available_movie_ids:
-                list_of_movies.add(id_inserted)
+                set_of_movies.add(id_inserted)
                 print("Movie entered correctly")
             else:
                 print(f"The id {id_inserted} is not a valid id. Try again")
         except ValueError:
             print("Please enter an integer")
     print("Finished to enter ids, list:")
-    print(list_of_movies)
+    print(set_of_movies)
+    list_of_movies: List[int] = list(set_of_movies)
+
+    print("Computing_ILS")
+    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+    print_ILS_measures(list_of_movies, similarity_df)
