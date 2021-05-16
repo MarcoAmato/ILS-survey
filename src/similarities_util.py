@@ -146,17 +146,16 @@ def get_similar_movies(movies_dataframes: List[DataFrame]) -> List[int]:
     return list_of_similarities
 
 
-def convert_tbdb_to_movieId(movie_ids_tmbd: List[int]) -> List[int]:
+def convert_tbdb_to_movieId(movie_ids_tmdb: List[int]) -> List[int]:
     """
     Returns the ids in movie_ids_tmdb to the list of the same movies with corresponding in movieId.
-    @param movie_ids_tmbd: List of movie ids to tmbd format.
+    @param movie_ids_tmdb: List of movie ids to tmdb format.
     """
     links_csv: DataFrame = pd.read_csv(PATH_TO_LINK)
-    rows_of_movies: DataFrame = links_csv.loc[links_csv['tmdbId'].isin(movie_ids_tmbd)]
+    rows_of_movies: DataFrame = links_csv.loc[links_csv['tmdbId'].isin(movie_ids_tmdb)]
     print(rows_of_movies)
     movie_ids_movieId: List[int] = rows_of_movies['movieId']
     return movie_ids_movieId
-
 
 
 def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
@@ -211,7 +210,7 @@ def print_movie_with_info(movie_id: int, columns_to_print: List[str]) -> None:
     print("Movie: " + get_name_of_movie(movie_df))
     for column in columns_to_print:
         print("\t" + column)
-        print(movie_df[column])
+        print(movie_df['tmdb'][column])
     print("----------")
 
 
@@ -230,18 +229,21 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method
         ILS = similarities_of_movies['similarity'].sum()
     elif method == "plot":
         for movie in list_of_movies:
-            # TODO print the correct column of plot
-            print_movie_with_info(movie, list(""))
+            print_movie_with_info(movie, list("overview"))
         ILS = similarities_of_movies['Plot:LDA'].sum()
     elif method == "genre":
+        for movie in list_of_movies:
+            print_movie_with_info(movie, list("genres"))
         ILS = similarities_of_movies['Genre:Jacc'].sum()
     elif method == "plot-genre":
+        for movie in list_of_movies:
+            print_movie_with_info(movie, ["genres", "plot"])
         # mean of plot and genre
         ILS = (similarities_of_movies['Plot:LDA'].sum() + similarities_of_movies['Genre:Jacc'].sum()) / 2
 
     # we normalize using the number of similarities
     ILS_normalized: float = ILS / similarities_of_movies.shape[0]
-    return ILS
+    return ILS_normalized
 
 
 def get_similarity(similarity_df: DataFrame, movie1: int, movie2: int) -> float:

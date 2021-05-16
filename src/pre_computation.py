@@ -94,7 +94,6 @@ def write_movie_ids_to_csv(movie_ids: List[int], path: str) -> None:
     movie_ids.sort()  # sort movies
 
     series_ids: Series = Series(movie_ids)
-    print(series_ids)
     series_ids.to_csv(path, index=False)  # save series to path_to_movie_ids
 
 
@@ -154,8 +153,6 @@ def write_top_n_movies_by_popularity(n: int, path: str) -> None:
     print(f"saving top {n} movies by popularity")
     # get dictionary of [movie_id, popularity] sorted by popularity
     popularity_dict: Dict[int, float] = get_popularity_dict()
-
-    print(popularity_dict)
     # get movie_ids sorted by popularity
     movie_ids_sorted_by_popularity: List[int] = list(popularity_dict.keys())
 
@@ -185,8 +182,6 @@ def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str,
     similarities_of_movies: DataFrame = get_similarities_of_movies(similarities, top_n_movies)
     print("finding similarities done")
 
-    print(similarities_of_movies)
-    exit()
     similarities_of_movies.to_csv(path_to_write, index=False)
     print("write_similarities_of_movies done")
 
@@ -210,19 +205,15 @@ def write_top_100_mpg_plus_similarities() -> None:
     top_100_movies_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     # get ids of recommended movies via JSON
     ids_recommended_movies_from_top100: List[int] = get_similar_movies(top_100_movies)
-    print(len(ids_recommended_movies_from_top100))
-    print(ids_recommended_movies_from_top100)
+
     # get ids of top 100 + recommendations without duplicates via set union
     top_100_plus_similarities_tmdb: List[int] = \
         list(set(top_100_movies_ids).union(set(ids_recommended_movies_from_top100)))
 
-    print("length of first")
-    print(len(top_100_plus_similarities_tmdb))
     top_100_plus_similarities_movieId: List[int] = convert_tbdb_to_movieId(top_100_plus_similarities_tmdb)
 
     # write movie ids
     write_movie_ids_to_csv(top_100_plus_similarities_movieId, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID)
-    # TODO this does not work, look for errors
 
     # write similarities
     write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID,
