@@ -1,0 +1,887 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "pirate",
+            "id": 12988
+         },
+         {
+            "name": "swashbuckler",
+            "id": 157186
+         }
+      ],
+      "imdb_id": "tt0033028",
+      "video": false,
+      "title": "The Sea Hawk",
+      "recommendations": [
+         16905,
+         17660,
+         26176,
+         43812,
+         44398,
+         63225,
+         911,
+         142373,
+         142374,
+         124475,
+         26879,
+         33743,
+         117033,
+         43605,
+         29882,
+         11570,
+         43884,
+         40633,
+         17984,
+         22994
+      ],
+      "backdrop_path": "/tSeUcLqKutP53ayyOzu8xgrrFV1.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Captain Geoffrey Thorpe",
+               "gender": 2,
+               "credit_id": "52fe44f3c3a368484e04037b",
+               "name": "Errol Flynn",
+               "profile_path": "/2fd8ZORZMGFJQqMcnoNgSnTOpPS.jpg",
+               "id": 8724,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Doña Maria Alvarez de Cordoba",
+               "gender": 1,
+               "credit_id": "52fe44f3c3a368484e04037f",
+               "name": "Brenda Marshall",
+               "profile_path": "/aKPDtfZJvkNU4Z9BBWKZiKvRJgB.jpg",
+               "id": 94850,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Don José Alvarez de Cordoba",
+               "gender": 2,
+               "credit_id": "52fe44f3c3a368484e040383",
+               "name": "Claude Rains",
+               "profile_path": "/ghieLWQHq15QzAsrxFzkVk1oZ3F.jpg",
+               "id": 4113,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Admiral Sir John Burleson",
+               "gender": 0,
+               "credit_id": "52fe44f3c3a368484e040387",
+               "name": "Donald Crisp",
+               "profile_path": "/vESX6aAjaZlEgHYncLE1y76BFtD.jpg",
+               "id": 8841,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Queen Elizabeth",
+               "gender": 1,
+               "credit_id": "52fe44f3c3a368484e04038b",
+               "name": "Flora Robson",
+               "profile_path": "/dusstA4m1e8EuIJNb4Z5ZlnLTrL.jpg",
+               "id": 30126,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Carl Pitt",
+               "gender": 2,
+               "credit_id": "52fe44f3c3a368484e04038f",
+               "name": "Alan Hale",
+               "profile_path": "/7ZTTJ08iSQYBaDvfgfhmGpqCrtx.jpg",
+               "id": 8729,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Lord Wolfingham",
+               "gender": 2,
+               "credit_id": "52fe44f3c3a368484e040393",
+               "name": "Henry Daniell",
+               "profile_path": "/ciLKakcCO4oQhdHTgzSkSBiwoCj.jpg",
+               "id": 10924,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Miss Latham",
+               "gender": 1,
+               "credit_id": "52fe44f3c3a368484e040397",
+               "name": "Una O'Connor",
+               "profile_path": "/3oK1RaPKfj74bwiBsgcz0TNgvxD.jpg",
+               "id": 2929,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Abbott",
+               "gender": 2,
+               "credit_id": "52fe44f3c3a368484e04039b",
+               "name": "James Stephenson",
+               "profile_path": "/sPBvVV8ooehE9U3X7v09TmLN4nb.jpg",
+               "id": 82382,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Capt. Lopez",
+               "gender": 0,
+               "credit_id": "52fe44f3c3a368484e04039f",
+               "name": "Gilbert Roland",
+               "profile_path": "/ofMih1UHoO2zXXbBhtxRLB66xev.jpg",
+               "id": 29273,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Danny Logan",
+               "gender": 2,
+               "credit_id": "52fe44f3c3a368484e0403a3",
+               "name": "William Lundigan",
+               "profile_path": "/2KwSX3SEpa1rfoEpMGM5gywvSjF.jpg",
+               "id": 18805,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "King Philip II",
+               "gender": 2,
+               "credit_id": "52fe44f3c3a368484e0403a7",
+               "name": "Montagu Love",
+               "profile_path": "/j4lOtL9TTR60lblXCK6McgdIcXe.jpg",
+               "id": 92907,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Oliver Scott",
+               "gender": 0,
+               "credit_id": "57c29fa49251410ebe000350",
+               "name": "Julien Mitchell",
+               "profile_path": null,
+               "id": 588668,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Martin Burke",
+               "gender": 2,
+               "credit_id": "57c29fd29251410f5b000319",
+               "name": "David Bruce",
+               "profile_path": "/xLBWVI64sB6QsKq1skmCmbbz4sj.jpg",
+               "id": 95623,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "William Tuttle",
+               "gender": 0,
+               "credit_id": "57c2a0149251410d3f004d1c",
+               "name": "Clifford Brooke",
+               "profile_path": null,
+               "id": 98445,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Walter Boggs",
+               "gender": 2,
+               "credit_id": "57c2a03a9251410f040003b6",
+               "name": "Clyde Cook",
+               "profile_path": "/loYiy4EW1S0p29cLrP9Fxg5ogrU.jpg",
+               "id": 13557,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Inquisitor",
+               "gender": 2,
+               "credit_id": "57c2a065c3a36846990037ff",
+               "name": "Fritz Leiber",
+               "profile_path": "/1cwoZyUK5XchzNcXgrRhoMXK84r.jpg",
+               "id": 103176,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Monty Preston",
+               "gender": 0,
+               "credit_id": "57c2a0789251410f040003cd",
+               "name": "Ellis Irving",
+               "profile_path": null,
+               "id": 543546,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Kroner",
+               "gender": 2,
+               "credit_id": "57c2a0909251410f270003d2",
+               "name": "Francis McDonald",
+               "profile_path": "/17jRSxdkNutYoRea5fqZrh5QX9J.jpg",
+               "id": 102327,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "Capt. Mendoza",
+               "gender": 2,
+               "credit_id": "57c2a0bbc3a3684656003737",
+               "name": "Pedro de Cordoba",
+               "profile_path": "/8kIq2o5ZljNmCS1u6bKO1bTBlhy.jpg",
+               "id": 103493,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Peralta",
+               "gender": 2,
+               "credit_id": "57c2a0d69251413a870032f5",
+               "name": "Ian Keith",
+               "profile_path": "/19ADvpSyq79YBa2p0vNTgBzuu6g.jpg",
+               "id": 84230,
+               "order": 21
+            },
+            {
+               "cast_id": 32,
+               "character": "Lt. Ortega",
+               "gender": 2,
+               "credit_id": "57c2a0e7c3a36833340003d6",
+               "name": "Jack La Rue",
+               "profile_path": "/hWOwpkNevqBwp2mrjMCrLrxvPsi.jpg",
+               "id": 99347,
+               "order": 22
+            },
+            {
+               "cast_id": 33,
+               "character": "Astronomer",
+               "gender": 2,
+               "credit_id": "57c2a0fb9251410d14004c34",
+               "name": "Halliwell Hobbes",
+               "profile_path": "/nLubN58cxw9GgYnzY5IXFWqmnRz.jpg",
+               "id": 29601,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Chartmaker",
+               "gender": 0,
+               "credit_id": "57c2a10dc3a368533100f8a9",
+               "name": "Alec Craig",
+               "profile_path": "/7dyRAwndi7vby2o0O8Ze3t9W7PW.jpg",
+               "id": 22606,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Gen. Aguirre",
+               "gender": 2,
+               "credit_id": "57c2a11f9251410f2700041f",
+               "name": "Victor Varconi",
+               "profile_path": "/26O0PmzXesPtTJZgrbYPah2l3qL.jpg",
+               "id": 117735,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Frobisher",
+               "gender": 2,
+               "credit_id": "57c2a13a9251410d3f004daf",
+               "name": "Robert Warwick",
+               "profile_path": "/oECcbKS8LLYxiLpizvKvcSHefte.jpg",
+               "id": 33007,
+               "order": 26
+            },
+            {
+               "cast_id": 37,
+               "character": "Slavemaster",
+               "gender": 2,
+               "credit_id": "57c2a14fc3a3684699003888",
+               "name": "Harry Cording",
+               "profile_path": "/gvWWu40cDWcRbhIwDjx7tyfsgJK.jpg",
+               "id": 98052,
+               "order": 27
+            },
+            {
+               "cast_id": 38,
+               "character": "Eph Winters",
+               "gender": 2,
+               "credit_id": "57c2a16fc3a3680b6f005595",
+               "name": "Herbert Anderson",
+               "profile_path": "/hyE7XgQvBSuc8SmWf39qdAYnSbR.jpg",
+               "id": 43823,
+               "order": 28
+            },
+            {
+               "cast_id": 39,
+               "character": "Maid of Honor",
+               "gender": 1,
+               "credit_id": "57c2a31fc3a36847110037d2",
+               "name": "Mary Anderson",
+               "profile_path": "/2Qf7Fiy64RYJgW098lKlTyFEwXO.jpg",
+               "id": 93896,
+               "order": 29
+            },
+            {
+               "cast_id": 40,
+               "character": "Gate Guard at Palace Entrance",
+               "gender": 2,
+               "credit_id": "57c2a335c3a36833340004fd",
+               "name": "Whit Bissell",
+               "profile_path": "/aOe39nPJuZpGYGR3WuRo5PiYGwK.jpg",
+               "id": 13786,
+               "order": 30
+            },
+            {
+               "cast_id": 41,
+               "character": "Ben Rollins",
+               "gender": 2,
+               "credit_id": "57c2a34dc3a36833b50004e9",
+               "name": "Edgar Buchanan",
+               "profile_path": "/iz7cTUzvJZ0C0ZmzvB4CnmhiiQX.jpg",
+               "id": 30512,
+               "order": 31
+            },
+            {
+               "cast_id": 42,
+               "character": "Whipper",
+               "gender": 0,
+               "credit_id": "57c2a3669251410f2700055a",
+               "name": "J.W. Cody",
+               "profile_path": null,
+               "id": 1431758,
+               "order": 32
+            },
+            {
+               "cast_id": 43,
+               "character": "Man Carrying Spear",
+               "gender": 0,
+               "credit_id": "57c2a3b59251410f04000586",
+               "name": "Maurice Costello",
+               "profile_path": "/yMalNKqJyPiXtCY4hEkYYG5Y2AP.jpg",
+               "id": 1142371,
+               "order": 33
+            },
+            {
+               "cast_id": 44,
+               "character": "Sea Hawk",
+               "gender": 2,
+               "credit_id": "57c2a3d19251410f04000590",
+               "name": "Michael Harvey",
+               "profile_path": null,
+               "id": 127629,
+               "order": 34
+            },
+            {
+               "cast_id": 45,
+               "character": "Officer",
+               "gender": 0,
+               "credit_id": "57c2a3e29251410f5b000583",
+               "name": "Leyland Hodgson",
+               "profile_path": null,
+               "id": 30136,
+               "order": 35
+            },
+            {
+               "cast_id": 46,
+               "character": "",
+               "gender": 2,
+               "credit_id": "57c2a3f3c3a36833b5000553",
+               "name": "Stuart Holmes",
+               "profile_path": "/8wfcyeItQHQ49uGxOkzAiUjB0oJ.jpg",
+               "id": 119542,
+               "order": 36
+            },
+            {
+               "cast_id": 47,
+               "character": "Arnold Cross",
+               "gender": 2,
+               "credit_id": "57c2a4009251410d14004dbc",
+               "name": "Charles Irwin",
+               "profile_path": null,
+               "id": 131612,
+               "order": 37
+            },
+            {
+               "cast_id": 48,
+               "character": "Whipper",
+               "gender": 0,
+               "credit_id": "57c2a4149251410ef80005e3",
+               "name": "Dave Kashner",
+               "profile_path": "/pMxFSbYNekWez6kZlSOkrID8WB8.jpg",
+               "id": 1006369,
+               "order": 38
+            },
+            {
+               "cast_id": 49,
+               "character": "Officer",
+               "gender": 2,
+               "credit_id": "57c2a4269251410d14004dd6",
+               "name": "Colin Kenny",
+               "profile_path": null,
+               "id": 120445,
+               "order": 39
+            },
+            {
+               "cast_id": 50,
+               "character": "Lieutenant",
+               "gender": 2,
+               "credit_id": "57c2a4399251410ef80005ff",
+               "name": "Crauford Kent",
+               "profile_path": null,
+               "id": 940628,
+               "order": 40
+            },
+            {
+               "cast_id": 51,
+               "character": "Capt. Ortiz",
+               "gender": 0,
+               "credit_id": "57c2a44fc3a368533400fb02",
+               "name": "Frank Lackteen",
+               "profile_path": "/b06QcR4mZrsrMxyhOz4vhbfMy2P.jpg",
+               "id": 111991,
+               "order": 41
+            },
+            {
+               "cast_id": 52,
+               "character": "Guard Officer",
+               "gender": 2,
+               "credit_id": "57c2a4699251410f270005f6",
+               "name": "Lester Matthews",
+               "profile_path": "/tCUjqHsBSFO4g7NnbdWlX1tTy7g.jpg",
+               "id": 82488,
+               "order": 42
+            },
+            {
+               "cast_id": 53,
+               "character": "Drum Beater",
+               "gender": 2,
+               "credit_id": "57c2a4bcc3a3680b6f00579a",
+               "name": "Art Miles",
+               "profile_path": null,
+               "id": 1022158,
+               "order": 43
+            },
+            {
+               "cast_id": 54,
+               "character": "Spanish Messenger",
+               "gender": 2,
+               "credit_id": "57c2a4db9251410ef8000673",
+               "name": "Gerald Mohr",
+               "profile_path": "/3CJclUBH02N3sSrWCu2gODk79hL.jpg",
+               "id": 51717,
+               "order": 44
+            },
+            {
+               "cast_id": 55,
+               "character": "Castle Sentry",
+               "gender": 2,
+               "credit_id": "57c2a4eb9251410d14004e4b",
+               "name": "Leonard Mudie",
+               "profile_path": "/4CxqJ3QP34J48L71lGXmR0H7ccW.jpg",
+               "id": 101742,
+               "order": 45
+            },
+            {
+               "cast_id": 56,
+               "character": "First Slavemaster",
+               "gender": 2,
+               "credit_id": "57c2a4fbc3a368533100fafe",
+               "name": "Nestor Paiva",
+               "profile_path": "/9QB3l3jN6npImyMvCHKWTMd7H8Y.jpg",
+               "id": 56924,
+               "order": 46
+            },
+            {
+               "cast_id": 57,
+               "character": "",
+               "gender": 2,
+               "credit_id": "57c2a50bc3a3680b6f0057d0",
+               "name": "Jack Richardson",
+               "profile_path": null,
+               "id": 171030,
+               "order": 47
+            },
+            {
+               "cast_id": 58,
+               "character": "Maid of Honor",
+               "gender": 0,
+               "credit_id": "57c2a51e9251410d14004e6b",
+               "name": "Elizabeth Sifton",
+               "profile_path": null,
+               "id": 1671380,
+               "order": 48
+            },
+            {
+               "cast_id": 59,
+               "character": "Native Lookout",
+               "gender": 0,
+               "credit_id": "57c2a530c3a368471100393f",
+               "name": "Jay Silverheels",
+               "profile_path": "/4CiTH9NnF1NVzwdwHXoEzKJikUs.jpg",
+               "id": 1229431,
+               "order": 49
+            },
+            {
+               "cast_id": 60,
+               "character": "Captain of the Guard",
+               "gender": 2,
+               "credit_id": "57c2a544c3a368533100fb2b",
+               "name": "John Sutton",
+               "profile_path": "/sTEet1qqS8onrjtARXpIOamh9DG.jpg",
+               "id": 100589,
+               "order": 50
+            },
+            {
+               "cast_id": 61,
+               "character": "Driver",
+               "gender": 2,
+               "credit_id": "57c2a55cc3a36833b5000632",
+               "name": "David Thursby",
+               "profile_path": "/t3tTg25pjjzz0mQ0SuwKVMyGxOW.jpg",
+               "id": 132701,
+               "order": 51
+            },
+            {
+               "cast_id": 62,
+               "character": "Whipper",
+               "gender": 0,
+               "credit_id": "57c2a56ec3a368471100397f",
+               "name": "Anthony Warde",
+               "profile_path": "/hGsff9B02Lei0Uq61ZUx8ljWRNq.jpg",
+               "id": 33777,
+               "order": 52
+            },
+            {
+               "cast_id": 63,
+               "character": "",
+               "gender": 2,
+               "credit_id": "57c2a5799251410f0400069f",
+               "name": "Leo White",
+               "profile_path": "/wzD5hXyaVXQol86cYGGp3SOzlaq.jpg",
+               "id": 29274,
+               "order": 53
+            },
+            {
+               "cast_id": 64,
+               "character": "Martin Barrett",
+               "gender": 2,
+               "credit_id": "57c2a589c3a368333400066e",
+               "name": "Frank Wilcox",
+               "profile_path": "/m4RmuaNVzSFoPB3pj58eJvaIR2X.jpg",
+               "id": 34625,
+               "order": 54
+            },
+            {
+               "cast_id": 65,
+               "character": "Darnell",
+               "gender": 2,
+               "credit_id": "57c2a59ac3a3684656003a4e",
+               "name": "Frederick Worlock",
+               "profile_path": "/oCQAanAc665NeE5allgEMit3wiY.jpg",
+               "id": 14509,
+               "order": 55
+            },
+            {
+               "cast_id": 66,
+               "character": "Spanish Officer",
+               "gender": 2,
+               "credit_id": "57c2a5a99251410d14004edd",
+               "name": "Harry Worth",
+               "profile_path": "/j9qprSDHfvVGnyBO2QuG7md351c.jpg",
+               "id": 144402,
+               "order": 56
+            },
+            {
+               "cast_id": 67,
+               "character": "Eli Matson",
+               "gender": 0,
+               "credit_id": "57e70a619251412ae300b0ef",
+               "name": "J. M. Kerrigan",
+               "profile_path": "/oOwpXnlFczGmtEg4D93njH9aWx1.jpg",
+               "id": 2099,
+               "order": 57
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44f3c3a368484e04036b",
+               "name": "Michael Curtiz",
+               "profile_path": "/3rQXKSKx1IV7Lg9LwPaJicQdAkC.jpg",
+               "id": 4109,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44f3c3a368484e040371",
+               "name": "Howard W. Koch",
+               "profile_path": "/ocnNi4vGIENHuQFzv2ecoLjP9pB.jpg",
+               "id": 3428,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44f3c3a368484e040377",
+               "name": "Seton I. Miller",
+               "profile_path": null,
+               "id": 67428,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54dbc98892514161a10025a3",
+               "name": "Henry Blanke",
+               "profile_path": null,
+               "id": 14446,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54dbc9a29251415a0d001f6b",
+               "name": "Hal B. Wallis",
+               "profile_path": null,
+               "id": 4123,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54dbc9b1925141618f00265d",
+               "name": "Erich Wolfgang Korngold",
+               "profile_path": null,
+               "id": 67429,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54dbc9c2925141619b002260",
+               "name": "Sol Polito",
+               "profile_path": null,
+               "id": 8714,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54dbc9da92514161950023bc",
+               "name": "Anton Grot",
+               "profile_path": null,
+               "id": 32999,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54dbc9ebc3a368123300287c",
+               "name": "Orry-Kelly",
+               "profile_path": null,
+               "id": 4127,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58fa89b492514163ec002834",
+               "name": "Rafael Sabatini",
+               "profile_path": null,
+               "id": 134865,
+               "department": "Writing",
+               "job": "Novel"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Action",
+         "id": 28
+      }],
+      "popularity": 3.481457,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 26201,
+      "vote_count": 33,
+      "budget": 0,
+      "overview": "Dashing pirate Geoffrey Thorpe (Errol Flynn) plunders Spanish ships for Queen Elizabeth I and falls in love with Dona Maria a beautiful Spanish royal he captures.",
+      "similar": [
+         22,
+         166426,
+         58,
+         1865,
+         285,
+         109424,
+         9016,
+         9340,
+         71805,
+         10693,
+         9313,
+         1572,
+         254,
+         107846,
+         205775,
+         9472,
+         597,
+         810,
+         2493,
+         3131
+      ],
+      "original_title": "The Sea Hawk",
+      "runtime": 127,
+      "poster_path": "/R6wDetIU25scL0WTNmfWjSRF3.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+         "name": "Warner Bros. Pictures",
+         "id": 174,
+         "origin_country": "US"
+      }],
+      "release_date": "1940-07-01",
+      "vote_average": 7.5,
+      "belongs_to_collection": null,
+      "tagline": "Dashing...romantic...Errol Flynn at his thrilling best!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Michael Curtiz"],
+      "runtime": 127,
+      "synopsis": null,
+      "writers": [
+         "Howard Koch",
+         "Seton I. Miller"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0033028/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYwOTE5NTM1NV5BMl5BanBnXkFtZTgwMzU1Njk1MjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Errol Flynn, Brenda Marshall, Claude Rains | See full cast and crew »"],
+      "reviews": [
+         "My favorite Errol Flynn movie has always been The Sea Hawk. Flynn made this in 1940 at the height of his career. All it is missing is Flynn's usual screen partner in that period, Olivia DeHavilland. Errol Flynn plays the fictional privateer Geoffrey Thorpe who with the well known real characters like Drake, Frobisher, and Hawkins, raid the rich Spanish commerce from the New World which is what Europeans of the day were referring to the western hemisphere as. Queen Elizabeth of England gave all knowing wink to their activities and the realm took a cut of their loot. One day Flynn attacks the ship carrying the Spanish ambassador Claude Rains and his niece Brenda Marshall who's English on her mother's side. That's it for Flynn. But Queen Elizabeth has some traitors in her midst. The clever Lord Wolfingham played by Henry Daniell is in the Spanish pay. Daniell was one of the best screen villains ever. He was always a cold and calculating individual and had a voice with a built in sneer. He very cleverly deduces Flynn's future plans and lays a trap for him. See the film and find out, but suffice it to say Daniell is no fool. Jack Warner saw that Flynn's films were always well scored musically. Flynn swashbuckled to some of the best film music ever composed. Here the composer is Erich Wolfgang Korngold, in other films with Warner Brothers, it's Max Steiner. Korngold's score isn't quite on par with the one he did for Robin Hood, but it's one you will not forget. This was the last film Errol Flynn did with director Michael Curtiz. David Niven in his memoirs made of Curtiz a figure of some fun, he was the guy with the fractured English who uttered the memorable phrase that became Niven's title for his memoirs, 'bring on the empty horses.' Flynn in his memoirs hated him with a passion in that Curtiz put his players in some dangerous situations without regard for safety. After this he refused to work with him. But between them, Curtiz and Flynn did some grand entertainment. Curtiz later won an Oscar for directing Casablanca. Flora Robson repeats her role as Queen Elizabeth, she had previously portrayed Elizabeth in Fire Over England back in the old country. It's probably the part she's most identified with in her career. Brenda Marshall who is probably better known for being Mrs. William Holden, pinch hits for Olivia DeHavilland. Olivia was trying to get some better acting roles that she knew she could do and not be a crinolined heroine all the time. Jack Warner refused to see her as anything else for a long time. Others in the cast who stand out are Alan Hale, Una O'Connor, Gilbert Roland and William Lundigan has a death scene that will haunt you for a long time. The Sea Hawk is also a film that made use of a film process known as sepia tone. It's probably the film best known for it. The whole sequence of when Flynn sails his ship, the Albatross, to Panama is photographed in sepia tone. It makes the film come out a kind of brackish yellow. Since Warner Brothers didn't want to spring for full technicolor, this process is effective in demonstrating the jungle heat that Flynn and his men and the Spaniards for that matter operate under. It is also no accident that this film was made in 1940 showing brave England refusing to buckle under to a tyrant from the European continent. Phillip II of Spain, played by Montagu Love, controlled a whole lot of the world's real estate at that point in time and wanted more. The meaning for the audiences of 1940 could not have been more clear. The Sea Hawk is grand entertainment. In my humble opinion Errol Flynn's best film and one of the best of the swashbuckling genre.",
+         "I'm always up for some good, old-fashioned swashbuckler fun, and The Sea Hawk is one of the most amusing entries in that field. Directed by specialist Michael Curtiz and starring the legendary Errol Flynn. They previously worked together on `Captain Blood', the film that started the trend of popular sea adventures. Even though Captain Blood has a lot more range and features more plot-diversity, The Sea Hawk definitely is more spectacular and the swordfight sequences are far more exciting. The cinematography on this action sequences has seemly improved in the period between the two films. Errol Flynn portrays Geoffrey Thorpe, captain of the Albatross. He's a Sea Hawk and those privateers serve and protect the English Queen in their own particular way. The greedy King Phillip of Spain has set his mind to conquering Britain as well and to cover up his plans, he politely sends an ambassador to meet the Queen. However, Captain Thorpe and his crew boycott the Spanish and they righteously foresee a war between the two nations. Things are getting even more complicated when some prominent members of the British counsel turn out to be betrayers and \u0096 of course \u0096 Capt. Thorpe falls in love with the beautiful niece of the Spanish ambassador. Errol Flynn clearly developed more charisma over the years and he already looks a lot more believable in his role of privateer now. He's excellently supported by Alan Hale who plays his first crewmember, Mr. Pitt. Flora Robson seems to make a career out of playing Queen Elizabeth's look-alike, since it already is the third film in which she plays this role. The best actor in the cast (even beating Errol Flynn) obviously is Claude Rains with in his terrific role of the vicious Spanish ambassador. The Galleons (both the Spanish as the British) look great and some historical aspects (like slavery and inquisition) are greatly included. The Sea Hawk is excellent, well-made fun and a must for all the nostalgic movie lovers.",
+         "THE SEA HAWK is usually listed with THE ADVENTURES OF ROBIN HOOD and CAPTAIN BLOOD as Errol Flynn's finest films, an honor it richly deserves. Filmed in 1940, at the peak of Flynn's popularity, before the sensational rape trial and revelations of his hedonistic lifestyle combined to tarnish his reputation and gradually make his screen persona more of a roué and less heroic, the film combined all of the classic 'Flynn' elements; spectacular battles, a chaste but passionate romance, wonderful camaraderie, a thoroughly despicable villain, and a climactic light/shadow sword fight finale to top things off, accompanied by the fabulous music of Erich Wolfgang Korngold. This is a FABULOUS film adventure! Based on the privateering adventures of Sir Francis Drake and the 'Sea Dogs' of Elizabethan times, the WB lifted the title from a Rafael Sabatini novel, and changed the 'Sea Dogs' to 'Sea Hawks' (which DOES sound more romantic!). Flynn is Capt. Geoffrey Thorpe, a brilliant commander in the 'Horatio Hornblower' mold, adored by his crew (led by the irreplaceable Alan Hale, of course!), admired by his fellow Sea Hawks, and even respected by his Spanish adversaries. As the film opens, his ship, the Albatross, having crossed the Atlantic in record time, takes on a giant Spanish galleon carrying the new Ambassador to England (Claude Rains, in a small but memorable role) and his daughter, Maria (played by the luminous Brenda Marshall, who has always been unfairly judged as a 'substitute' for Olivia de Havilland; Miss de Havilland would have been totally wrong in the role of an innocent Spanish girl!) After a breathtaking battle, featuring the kind of cutlass-swinging pandemonium director Michael Curtiz was famous for, Thorpe is victorious, and the Spaniards and their cargo are transferred to the Albatross. (Wonderful Hispanic actor Gilbert Roland has a nice bit as the Spanish captain, granted the right to be the last to leave his sinking ship). Thorpe is immediately smitten by Maria, but, in true Hornblower fashion, is uncomfortable trying to talk to her, much to the amusement of his crew! This discomfort doesn't apply to ALL women, however; to Queen Elizabeth, wonderfully portrayed by Flora Robson (for the second time, as she'd played the Virgin Queen in the earlier FIRE OVER ENGLAND), Thorpe displays a rakish charm that she secretly adores. (This was Flynn's second film in two years dealing with the monarch; as lover/potential usurper to a more neurotic Elizabeth, played by Bette Davis, in 1939's THE PRIVATE LIVES OF ELIZABETH AND ESSEX, she chopped off his head...something Davis, who despised Flynn, would have liked to have done in real life, as well!) Despite the growing love between Maria and Thorpe, he has a brilliant scheme, attacking a Spanish treasure port in Central America by land, so he's off again, with Elizabeth's secret blessings. Unfortunately, traitorous Lord Wolfingham (played to slimy perfection by Henry Daniell), figures out the plan, and warns the Spanish, who defeat Thorpe and his crew in the jungle (a wonderful, sepia-toned sequence), then subjects the survivors to a life chained to the oars of a Spanish galleon. Discovering Wolfingham's duplicity, and ultimate goal of power after the Spanish Armada crushes England, Thorpe and his crew manage to break free of their chains, capture the Spanish ship, and race back to England, culminating in a spectacular climactic duel between Thorpe and Wolfingham, and Elizabeth's rousing \"We'll build an Armada\" speech added to the script to inspire an audience witnessing the beginning of WWII. A rousing adventure, THE SEA HAWK marked the pinnacle of Errol Flynn's rollercoaster career, and is a true classic of the genre!",
+         "This is definitely an Errol Flynn classic, meaning one of his best films and the charismatic star of the mid-'30s to mid-'40s did a number of entertaining ones. He's best known - on screen, that is - as a swordsman from his \"Captain Blood\" and \"Adventures of Robin Hood\" days, but he also was terrific as boxer James J. Corbett in \"Gentlemen Jim\" and as western star \"Wade Hatton\" in \"Dodge City.\" He's great here as pirate \"Geoffrey Thorpe\" and what makes this pirate movie different is that half of the action scenes are on land, not sea. (They on are on island, or back in the castle of Queen Elizabeth). Flynn captains \"The Albatross\" and is a privateering ship captain for her Majesty the queen in the 1500s. They are battling the Spanish in this story. The real bad guys are some of the turncoats in Elizabeth's court. The film is interesting even with its length of over two hours. It keeps a good balance of drama, action, romance and suspense, never overdoing any of those. While it's hard to beat the entertainment duo of Director Michael Curtiz and actor Flynn, Brenda Marshall as \"Doria Maria,\" Thorpe's love interest, doesn't quite cut it. Olivia de Havilland usually played his female interest, and - although that doesn't require she play in every Flynn movie - they could have found someone more attractive and likable than Marshall who, justifiably, had a thin career. Her casting in here is a big mystery to me. Whatever, Flora Robson was fun to watch as \"Queen Elizabeth.\" Claude Rains and Henry Daniell played their normal bad-guy roles well and Thorpe's crew, led by Flynn's best friend Alan Hale, are all entertaining guys. I enjoyed the sepia-tone sequence when Flynn and the boys go for the gold on the Panama island. That was a nice, little visual twist to this black-and-white movie.. Not to be left out is the sweeping score, under the direction of Erich Wolfgang Korngold, which is one of the more magnificent ones you'll hear in a classic film.",
+         "In \"The Sea Hawk\", hero Errol Flynn, director Michael Curtiz, and composer Erich Wolfgang Korngold provide great entertainment very similar to that in their earlier classic that starred Flynn as Robin Hood. Supporting actors Alan Hale, Claude Rains, and Una O'Connor also are back, joined by Brenda Marshall, Flora Robson, and Henry Daniell. The movie provides rousing action, a good story, and some memorable characters. Flynn's character is Geoffrey Thorpe, who is a \"sea hawk\", a privateering ship captain in the late 1500's indulged by Queen Elizabeth (Robson) and allowed to raise havoc with Spanish shipping in a time when Spain's dominance was at its peak. The story in \"The Sea Hawk\", like the action in \"The Adventures of Robin Hood\", is loosely based on historical circumstances, although this time the tone is often more serious. This film is in black-and-white instead of Technicolor, giving it a different feel. (There is a very nice touch when the scenes in the New World are tinted in golden-brown, an effective way of emphasizing the different setting.) There are also extensive scenes of the suffering and humiliation experienced by the English galley slaves imprisoned by the Spanish fleet, instead of the very brief scenes of Saxon suffering in \"Robin Hood\". But the main emphasis is still on the swash-buckling action that made Flynn so popular. There are ship-to-ship fights, chases, escapes, and of course sword fights. Flynn's charisma and infectious good nature are usually enough to carry even far-fetched action, and here the story itself is more than good enough to be worthwhile in its own right. \"The Sea Hawk\" is good, classic entertainment.",
+         "It's Erich Wolfgang Korngold who carries \"The Sea Hawk\". He picks it up at the first frame with a rousing trumpet fanfare; he follows the story all the way from England to Panama, where a kind of syncopated not-jazz-exactly with saxophones makes its way into the score; he even bursts into song (well, not him personally) when Captain Thorpe's and his crew win through to freedom - and, after so much musical participation, that moment when the sailors become a chorus never strikes me as unnatural. Korngold's brisk motion would count for nothing if the actors or the direction or the story were lethargic, of course - and they aren't. Errol Flynn plays an \"I know I'm breaking international law, but hey, I'm charming and dashing and the Spaniards aren't\" role - and hey, he IS charming and dashing, and the Spaniards aren't. A lot of films are described as roller-coaster rides. Many of them are just one thing after another, and don't feel at all like a single ride in a single vehicle. With \"The Sea Hawk\", I'm not sure about the vehicle, but we ARE taken on a single, swift ride. Few adventure films can beat it.",
+         "What really makes \"The Sea Hawk\" good is the great adventurous story. It's filled with action, romance and adventure. A true swashbuckler. Errol Flynn really is one superb hero. Not only has he got the right looks but he also was a very talented actor who unfortunately died far too early at the age of 50. I also love how the rest of the characters are portrayed such as Elizabeth I and the 'gentleman' villains. Also the love story is done good in a non-distractive way and Brenda Marshall really was one beautiful woman! Still its funny to see how much more polite the English are portrayed than the Spanish. Not only do they politely capture all the Spanish soldiers but they also find time to free all the galley slaves and take them ALL on their ship back to England. It really is funny to see how black and white the story is at times. But this is really my only small point of critic about this movie. A very entertaining adventurous swashbuckling movie with some wonderful music by Erich Wolfgang Korngold. After more than 60 years it hasn't lost any of its power and therefor is recommendable to everyone, even those who aren't familiar with 'classics'. 9/10 http://bobafett1138.blogspot.com/",
+         "There a only a couple of things that make this fall short of classic status, and they are not enough to keep it off of anyone's list of favorite/best adventure films. The film is somewhat overproduced. The settings are too opulent, the costumes too magnificent, and the score is almost too rousing. This is particularly true when Flynn and his entire crew start singing, backed up none too discreetly by the entire Warners chorus and orchestra. Who sings while climbing riggings, anyway? The other shortfall is the absence of color. Warners was known for their cost-consciousness, but it is ironic to note that a bit of trimming in the costuming and settings department would have probably allowed them to use the tri-color process, which was used to such spectacular effect in The Adventures of Robin Hood. That said, the Sea Hawk possesses an embarrassment of riches. The semi-historic story line is strong, as are the performances of a truly stellar cast. Flora Robson, Claude Rains are tremendous, and Henry Daniell darn near out-sneers Basil Rathbone as the duplicitous villain. Brenda Marshall is no Olivia de Havilland, but she doesn't have do be; its nice to see Errol flirting with another comely wench. Errol himself is also a treat. This was 1940, before his rape trial and before he got tired of movie making. He is obviously engaged in the production, and is at his most dashing self in pushing it along. Perrenial sidekick (on and off screen) Alan Hale is outstanding as well in his portrayal of...Well, Alan Hale. Best of all is the score, composed by gool old erich Wolfgang Korngold. It is no coincidence that his music is at the heart of Flynn's best movies. It matches the action scene for scene in a manner again reminiscent of Robin Hood. Although I cannot rank this as Flynn's best vehicle, there is a solid minority of Flynnatics who do. A compelling argument can be made for it.",
+         "The boys do know how to swash their buckle! By \"the boys,\" I mean the team that made \"Captain Blood\" in 1935 and \"The Adventures Of Robin Hood\" three years later, in 1938. Two years after Robin Hood, in 1940, the boys then made this wonderful, fun classic. \"The Sea Hawk\" is nothing short of wonderful four-star entertainment. Of course, this team, aka \"the boys,\" was comprised of the greatest swashbuckling star of them all, Errol Flynn (better even than Doug Fairbanks Sr.): the greatest director of swashbucklers in th history of cinema, Michael Curtiz; the finest composer of unforgettable anthemic soundtracks, Erich Wolfgang Korngold; and the happiest, jolliest, laughingest sidekick of them all, Alan Hale, Sr. The lovely Olivia De Havilland would also naturally be included here except that for whatever reason, she was replaced by Brenda Marshall in \"The Sea Hawk.\" Bummer! Marshall is a talented and pretty actress - but she can't tough De Havilland, especially when teamed with ol' \"In Like\" Flynn. Flynn and his \"legal\" pirates are put through their paces in this one, even braving fever in the jungles of Panama as they fight a traitor and the King of Spain (the rat) - oh, and that all-time great rat, good old Claude Rains. ARRRRGGGGGHHHH!!! Swash me buckle, me hearties, Errol Flynn's on watch!",
+         "The most sombre of Errol Flynn's 3 great adventure films (the others are Captain Blood and Robin Hood), this dark movie has none of the sexy romping or witty banter that enliven the other two. It has, however, plenty of passion, if not the romantic kind. The Sea Hawk dramatises the need for the US to enter World War II, with sixteenth-century Spain standing in for Nazi Germany, and analogies to wartime Europe every few minutes. At the beginning, Flynn's privateers board and sink a Spanish ship, freeing its galley slaves (ie, victims of Nazism). The Spanish heroine is horrified when she sets eyes on them for the first time, and Flynn later tells her he realised, when he saw her expression, that she was not as cold as he thought (ie, decent people should sympathise with the conquered nations, not act as if the suffering doesn't exist because they don't see it). There are forceful speeches by Flynn, Queen Elizabeth, and her ministers about England's policy toward Spain, whose king we have heard saying that he wants to conquer the whole world to satisfy his own ambitions. The Queen says that King Philip may not be planning to attack England and she doesn't want to make him angry. Flynn says why would he be building up a navy if he didn't intend to use it. The Spanish ambassador rebukes Flynn for freeing the galley slaves, who he says were properly tried and sentenced under Spanish law. Flynn replies that an Inquisition court and slavery are not what any Englishman would recognise as proper--he seems to stop just short of saying \"cruel and unusual punishment\"! The Queen is warned that England may find herself all alone in a world of enemies. The courtiers who oppose antagonising Spain are shown as doing so because they are profiteering traitors, not because they have different ideas. So the Queen can be regarded as a stand-in not only for Churchill but for Roosevelt. When Flynn and his men are betrayed, and then captured by the Spaniards and made into galley slaves, they manage to slip their chains and then silently wait below decks for the Spanish to pass by, one at a time, and then pull each one down below and overpower him--in other words, they literally become underground fighters. The film ends with a fiery speech from Queen Liz, who says who the hell is King Philip to tell us what to do, and promises to turn all the trees in England into ships to fight those Spanish bastards, with everyone cheering her on. For an utterly persuasive combination of argument and emotion, this was a pitch for the US entering the war that should have won all the Warner Brothers honorary knighthoods."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Romance"
+      ],
+      "productionCompanies": ["Warner Bros."],
+      "summaries": [
+         "Geoffrey Thorpe is an adventurous and dashing pirate, who feels that he should pirate the Spanish ships for the good of England. In one such battle, he overtakes a Spanish ship and when he comes aboard he finds Dona Maria, a beautiful Spanish royal. He is overwhelmed by her beauty, but she will have nothing to do with him because of his pirating ways (which include taking her prized jewels). To show his noble side, he suprises her by returning the jewels, and she begins to fall for him. When the ship reaches England, Queen Elizabeth is outraged at the actions of Thorpe and demands that he quit pirating. Because he cannot do this, Thorpe is sent on a mission and in the process becomes a prisoner of the Spaniards. Meanwhile, Dona Maria pines for Thorpe and when he escapes he returns to England to uncover some deadly secrets. Exciting duels follow as Thorpe must expose the evil and win Dona Maria's heart.",
+         "Captain Geoffrey Thorpe is a privateer, one of several Sea Hawks, who on behalf of Queen Elizabeth I keep the shipping lanes open. When he sinks a Spanish galleon carrying the new Spanish ambassador to England, Don José Alvarez de Cordoba and his niece Doña Maria, the Queen is displeased since they are not at war. Thorpe and his kind are very wary of Spain and urge the Queen to build up the fleet. With the Queen's tacit approval, Thorpe goes to Panama to capture his enemies treasure but they are betrayed. Brought before a Spanish court, he and his men are sentenced to the galleys as slaves. He manages to escape with proof that the Spanish Armada will sail against England.",
+         "Geoffrey Thorpe, a buccaneer, is hired by Queen Elizabeth I to nag the Spanish Armada. The Armada is waiting for the attack on England and Thorpe surprises them with attacks on their galleons where he shows his skills on the sword."
+      ],
+      "budget": 1700000
+   },
+   "movielensId": 25866,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1940-07-01",
+      "dvdReleaseDate": "2005-04-19",
+      "directors": ["Michael Curtiz"],
+      "runtime": 127,
+      "movieId": 25866,
+      "title": "The Sea Hawk",
+      "mpaa": "",
+      "actors": [
+         "Errol Flynn",
+         "Brenda Marshall",
+         "Claude Rains",
+         "Donald Crisp",
+         "Flora Robson",
+         "Alan Hale",
+         "Henry Daniell",
+         "Una O'Connor",
+         "James Stephenson",
+         "Gilbert Roland",
+         "William Lundigan",
+         "Montagu Love",
+         "Julien Mitchell",
+         "David Bruce",
+         "Clifford Brooke",
+         "Clyde Cook",
+         "Fritz Leiber",
+         "Ellis Irving",
+         "Francis McDonald",
+         "Pedro de Cordoba",
+         "Ian Keith",
+         "Jack La Rue",
+         "Halliwell Hobbes",
+         "Alec Craig",
+         "Victor Varconi",
+         "Robert Warwick",
+         "Harry Cording",
+         "Herbert Anderson",
+         "Mary Anderson",
+         "Whit Bissell",
+         "Edgar Buchanan",
+         "J.W. Cody",
+         "Maurice Costello",
+         "Michael Harvey",
+         "Leyland Hodgson",
+         "Stuart Holmes",
+         "Charles Irwin",
+         "Dave Kashner",
+         "Colin Kenny",
+         "Crauford Kent",
+         "Frank Lackteen",
+         "Lester Matthews",
+         "Art Miles",
+         "Gerald Mohr",
+         "Leonard Mudie",
+         "Nestor Paiva",
+         "Jack Richardson",
+         "Elizabeth Sifton",
+         "Jay Silverheels",
+         "John Sutton",
+         "David Thursby",
+         "Anthony Warde",
+         "Leo White",
+         "Frank Wilcox",
+         "Frederick Worlock",
+         "Harry Worth",
+         "J. M. Kerrigan"
+      ],
+      "imdbMovieId": "0033028",
+      "originalTitle": "The Sea Hawk",
+      "genres": ["Action"],
+      "youtubeTrailerIds": [
+         "6_XIJm0_Wgc",
+         "SMkIVt-l8jM"
+      ],
+      "plotSummary": "Dashing pirate Geoffrey Thorpe (Errol Flynn) plunders Spanish ships for Queen Elizabeth I and falls in love with Dona Maria a beautiful Spanish royal he captures.",
+      "tmdbMovieId": 26201,
+      "avgRating": 3.65758,
+      "releaseYear": "1940",
+      "numRatings": 165,
+      "posterPath": "/R6wDetIU25scL0WTNmfWjSRF3.jpg"
+   }
+}

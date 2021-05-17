@@ -1,0 +1,888 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "sibling relationship",
+            "id": 380
+         },
+         {
+            "name": "single parent",
+            "id": 641
+         },
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "mistake in person",
+            "id": 2281
+         },
+         {
+            "name": "bride",
+            "id": 3582
+         },
+         {
+            "name": "talk show",
+            "id": 3741
+         },
+         {
+            "name": "body exchange",
+            "id": 5133
+         },
+         {
+            "name": "motherly love",
+            "id": 6170
+         },
+         {
+            "name": "high school",
+            "id": 6270
+         },
+         {
+            "name": "wedding",
+            "id": 13027
+         },
+         {
+            "name": "psychiatrist",
+            "id": 15106
+         },
+         {
+            "name": "body-swap",
+            "id": 33721
+         },
+         {
+            "name": "music band",
+            "id": 41591
+         },
+         {
+            "name": "teen comedy",
+            "id": 155722
+         },
+         {
+            "name": "child as an adult",
+            "id": 163069
+         },
+         {
+            "name": "adult as a child",
+            "id": 198929
+         }
+      ],
+      "imdb_id": "tt0322330",
+      "video": false,
+      "title": "Freaky Friday",
+      "recommendations": [
+         9820,
+         11007,
+         10096,
+         9880,
+         10025,
+         11132,
+         11247,
+         11451,
+         9641,
+         11130,
+         8835,
+         11674,
+         18736,
+         10625,
+         4523,
+         10830,
+         1493,
+         10054,
+         10137,
+         10022
+      ],
+      "backdrop_path": "/w6TR7kTsKmlBYps2i5hzoukBLCn.jpg",
+      "revenue": 110230332,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 7,
+               "character": "Tess Coleman",
+               "gender": 1,
+               "credit_id": "52fe435a9251416c7500d2d1",
+               "name": "Jamie Lee Curtis",
+               "profile_path": "/c4poMDwQ0nUj81m4WPriiv96ExZ.jpg",
+               "id": 8944,
+               "order": 0
+            },
+            {
+               "cast_id": 8,
+               "character": "Anna Coleman",
+               "gender": 1,
+               "credit_id": "52fe435a9251416c7500d2d5",
+               "name": "Lindsay Lohan",
+               "profile_path": "/gWmiZiDHszxCck7Zh39YdOE9qVg.jpg",
+               "id": 49265,
+               "order": 1
+            },
+            {
+               "cast_id": 9,
+               "character": "Ryan",
+               "gender": 2,
+               "credit_id": "52fe435b9251416c7500d2d9",
+               "name": "Mark Harmon",
+               "profile_path": "/vzthrZ2QidVi1iMMOYFzAohhVpj.jpg",
+               "id": 19728,
+               "order": 2
+            },
+            {
+               "cast_id": 10,
+               "character": "Grandpa",
+               "gender": 2,
+               "credit_id": "52fe435b9251416c7500d2dd",
+               "name": "Harold Gould",
+               "profile_path": "/ntLYtxvSrsuWu2pZHGuSUA4gXLy.jpg",
+               "id": 14833,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Peg",
+               "gender": 1,
+               "credit_id": "52fe435b9251416c7500d2e1",
+               "name": "Haley Hudson",
+               "profile_path": "/4He22Zr4W5w2oHUzqnAnxtNe1fa.jpg",
+               "id": 159985,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Jake",
+               "gender": 2,
+               "credit_id": "52fe435b9251416c7500d2eb",
+               "name": "Chad Michael Murray",
+               "profile_path": "/8lYQrBuk54E5zaEmaBZFtZHY4UA.jpg",
+               "id": 62747,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Dottie Robertson",
+               "gender": 0,
+               "credit_id": "52fe435b9251416c7500d2ef",
+               "name": "Dina Spybey-Waters",
+               "profile_path": "/rA6gMWarWOpxUCFsfYFz4Gcok7o.jpg",
+               "id": 56567,
+               "order": 6
+            },
+            {
+               "cast_id": 38,
+               "character": "Mr. Bates",
+               "gender": 2,
+               "credit_id": "56bc825ac3a36860e4002c8f",
+               "name": "Stephen Tobolowsky",
+               "profile_path": "/fUodC7wMUZLAXnm4ONCxF5haCtC.jpg",
+               "id": 537,
+               "order": 7
+            },
+            {
+               "cast_id": 39,
+               "character": "Maddie",
+               "gender": 1,
+               "credit_id": "56bc826d92514144d7002f47",
+               "name": "Christina Vidal",
+               "profile_path": "/7Th8N0AymiBn5ROxBjPekM8SKMd.jpg",
+               "id": 61904,
+               "order": 8
+            },
+            {
+               "cast_id": 40,
+               "character": "Harry Coleman",
+               "gender": 2,
+               "credit_id": "56bc828ac3a36860e1002a78",
+               "name": "Ryan Malgarini",
+               "profile_path": "/2aPeUXWUaNlYrF81KH7G4kP8A3y.jpg",
+               "id": 137169,
+               "order": 9
+            },
+            {
+               "cast_id": 41,
+               "character": "Pei-Pei",
+               "gender": 1,
+               "credit_id": "56bc82b3c3a36860d9002e3a",
+               "name": "Rosalind Chao",
+               "profile_path": "/uOLgimvgYwSHrjwStNxhzQwVK68.jpg",
+               "id": 74073,
+               "order": 10
+            },
+            {
+               "cast_id": 42,
+               "character": "Pei-Pei's Mom",
+               "gender": 1,
+               "credit_id": "56bc82c2c3a3683ea6002560",
+               "name": "Lucille Soong",
+               "profile_path": "/y5nNpAe0SAfEkxOQldGWWof1fSQ.jpg",
+               "id": 112288,
+               "order": 11
+            },
+            {
+               "cast_id": 43,
+               "character": "Evan",
+               "gender": 2,
+               "credit_id": "56bc82d1c3a36860ec002c9a",
+               "name": "Willie Garson",
+               "profile_path": "/xZ09uKkIMIRWDNqmyhb1AeEOo71.jpg",
+               "id": 1542,
+               "order": 12
+            },
+            {
+               "cast_id": 44,
+               "character": "Stacey Hinkhouse",
+               "gender": 1,
+               "credit_id": "56bc82eec3a36860e4002caa",
+               "name": "Julie Gonzalo",
+               "profile_path": "/hijoTFxL83zgUxoEMdilP8XIxSf.jpg",
+               "id": 68769,
+               "order": 13
+            },
+            {
+               "cast_id": 45,
+               "character": "Same Shirt Girl",
+               "gender": 0,
+               "credit_id": "56bc830392514144cf002eec",
+               "name": "Christina Marie Walter",
+               "profile_path": null,
+               "id": 1575802,
+               "order": 14
+            },
+            {
+               "cast_id": 46,
+               "character": "Detention Monitor",
+               "gender": 0,
+               "credit_id": "56bc83229251411141000072",
+               "name": "Lu Elrod",
+               "profile_path": null,
+               "id": 1433893,
+               "order": 15
+            },
+            {
+               "cast_id": 47,
+               "character": "Gym Teacher",
+               "gender": 1,
+               "credit_id": "56bc834992514174a5001493",
+               "name": "Heather Hach",
+               "profile_path": null,
+               "id": 64829,
+               "order": 16
+            },
+            {
+               "cast_id": 48,
+               "character": "Butcher Woman",
+               "gender": 1,
+               "credit_id": "56bc8372c3a36860d000342e",
+               "name": "Lorna Scott",
+               "profile_path": "/esuLL3MYiVvSbL71nvpebZFTaDf.jpg",
+               "id": 73456,
+               "order": 17
+            },
+            {
+               "cast_id": 49,
+               "character": "Ethan - Drummer",
+               "gender": 0,
+               "credit_id": "56bc838992514144cf002f06",
+               "name": "Chris Carlberg",
+               "profile_path": null,
+               "id": 1575803,
+               "order": 18
+            },
+            {
+               "cast_id": 50,
+               "character": "Scott - Bass Player",
+               "gender": 2,
+               "credit_id": "56bc83cbc3a36860ec002cbe",
+               "name": "Danny Rubin",
+               "profile_path": null,
+               "id": 1526,
+               "order": 19
+            },
+            {
+               "cast_id": 51,
+               "character": "Harry's Friend #1",
+               "gender": 2,
+               "credit_id": "56bc840192514144cf002f23",
+               "name": "Hayden Tank",
+               "profile_path": null,
+               "id": 156927,
+               "order": 20
+            },
+            {
+               "cast_id": 52,
+               "character": "Harry's Friend #2",
+               "gender": 2,
+               "credit_id": "56bc841092514174a50014b1",
+               "name": "Cayden Boyd",
+               "profile_path": "/fUs3Q321AELBrSxxm0W3OZlIhi.jpg",
+               "id": 4741,
+               "order": 21
+            },
+            {
+               "cast_id": 53,
+               "character": "Boris",
+               "gender": 2,
+               "credit_id": "56bc841ec3a36860d6002e0f",
+               "name": "Marc McClure",
+               "profile_path": "/5VPLVH1eAiIQ3s7aNjrgvzwTt3t.jpg",
+               "id": 1067,
+               "order": 22
+            },
+            {
+               "cast_id": 54,
+               "character": "Mr. Waters",
+               "gender": 0,
+               "credit_id": "56bc842dc3a36860ec002cd9",
+               "name": "Chris Heuisler",
+               "profile_path": null,
+               "id": 1213609,
+               "order": 23
+            },
+            {
+               "cast_id": 55,
+               "character": "Depressed Patient",
+               "gender": 2,
+               "credit_id": "56bc843fc3a36860d000345f",
+               "name": "Jeffrey Marcus",
+               "profile_path": null,
+               "id": 1340662,
+               "order": 24
+            },
+            {
+               "cast_id": 56,
+               "character": "Crying Patient",
+               "gender": 0,
+               "credit_id": "56bc844ec3a36860e4002ce4",
+               "name": "Jacqueline Heinze",
+               "profile_path": null,
+               "id": 1346157,
+               "order": 25
+            },
+            {
+               "cast_id": 57,
+               "character": "Diary Reading Patient",
+               "gender": 0,
+               "credit_id": "56bc845d92514144cf002f3d",
+               "name": "Mary Ellen Trainor",
+               "profile_path": "/w5QWW4oyQWNX51hMcnaCUTPToYX.jpg",
+               "id": 23967,
+               "order": 26
+            },
+            {
+               "cast_id": 58,
+               "character": "Harry's Teacher",
+               "gender": 1,
+               "credit_id": "56bc846b92514144cf002f42",
+               "name": "Erica Gimpel",
+               "profile_path": "/t7c99xiMetVSqxrjqf8Nso6ayq9.jpg",
+               "id": 94430,
+               "order": 27
+            },
+            {
+               "cast_id": 59,
+               "character": "Talk Show P.A.",
+               "gender": 0,
+               "credit_id": "56bc847b925141173f000f54",
+               "name": "William Caploe",
+               "profile_path": "/z8DIaLeMR3qZpzftQKcVUexEBs5.jpg",
+               "id": 1124108,
+               "order": 28
+            },
+            {
+               "cast_id": 60,
+               "character": "Makeup Artist",
+               "gender": 2,
+               "credit_id": "56bc848892514174a50014d1",
+               "name": "Daniel Raymont",
+               "profile_path": "/rp7gfIafpH5LzBmuIWReXVjKcj3.jpg",
+               "id": 181876,
+               "order": 29
+            },
+            {
+               "cast_id": 61,
+               "character": "Champagne Waitress",
+               "gender": 0,
+               "credit_id": "56bc8499c3a36860d6002e1f",
+               "name": "Veronica Brooks",
+               "profile_path": null,
+               "id": 1102046,
+               "order": 30
+            },
+            {
+               "cast_id": 62,
+               "character": "Bouncer",
+               "gender": 2,
+               "credit_id": "56bc84aec3a36860d9002e98",
+               "name": "Lee Burns",
+               "profile_path": null,
+               "id": 1175742,
+               "order": 31
+            },
+            {
+               "cast_id": 63,
+               "character": "House of Blues Emcee",
+               "gender": 0,
+               "credit_id": "56bc84bfc3a36860e1002ad1",
+               "name": "Amir Derakh",
+               "profile_path": null,
+               "id": 1575805,
+               "order": 32
+            },
+            {
+               "cast_id": 64,
+               "character": "Wedding Baby",
+               "gender": 0,
+               "credit_id": "56bc84cd92514111410000af",
+               "name": "Zoe Waters",
+               "profile_path": null,
+               "id": 1575806,
+               "order": 33
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe435a9251416c7500d2af",
+               "name": "Heather Hach",
+               "profile_path": null,
+               "id": 64829,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe435a9251416c7500d2b5",
+               "name": "Leslie Dixon",
+               "profile_path": null,
+               "id": 11708,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435a9251416c7500d2bb",
+               "name": "Andrew Gunn",
+               "profile_path": null,
+               "id": 64830,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435a9251416c7500d2c1",
+               "name": "Rolfe Kent",
+               "profile_path": null,
+               "id": 24190,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435a9251416c7500d2c7",
+               "name": "Oliver Wood",
+               "profile_path": null,
+               "id": 11409,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe435a9251416c7500d2cd",
+               "name": "Bruce Green",
+               "profile_path": "/yplxWPVgwK1b33AjvbhM9mWX2Aw.jpg",
+               "id": 12970,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435b9251416c7500d2e7",
+               "name": "Mark Waters",
+               "profile_path": "/ktII2pERp8swsnULZhDPzyfVlf6.jpg",
+               "id": 54050,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832b7c9251417def015f94",
+               "name": "Mary Rodgers",
+               "profile_path": null,
+               "id": 1485215,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56832b8e92514169d0001a59",
+               "name": "Genevieve Tyrrell",
+               "profile_path": null,
+               "id": 935719,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832bad9251414ecb0073d5",
+               "name": "Cary White",
+               "profile_path": null,
+               "id": 1124107,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56832bc592514132db013adf",
+               "name": "Barbara Haberecht",
+               "profile_path": null,
+               "id": 5633,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56832bd49251414ecb0073de",
+               "name": "Maria Baker",
+               "profile_path": null,
+               "id": 1319135,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56832be9c3a36828f500ba6d",
+               "name": "Marci Liroff",
+               "profile_path": "/54uSsUYIdK9UxomSwrwpBYnYyPN.jpg",
+               "id": 599,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56832c1092514132db013af3",
+               "name": "Pamela Alch",
+               "profile_path": null,
+               "id": 1344278,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832c35c3a3682abc00f636",
+               "name": "Lisa Brown",
+               "profile_path": null,
+               "id": 1551698,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832c54925141133400d1b5",
+               "name": "Stephanie M. Casey",
+               "profile_path": null,
+               "id": 1555487,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832c76925141133400d1c1",
+               "name": "Nick South",
+               "profile_path": null,
+               "id": 1367676,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56832c9792514131df013278",
+               "name": "Andrew Silver",
+               "profile_path": null,
+               "id": 1546457,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832cccc3a3684bcc016f9f",
+               "name": "Paul Ledford",
+               "profile_path": null,
+               "id": 1555488,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56832cde9251417def015ff4",
+               "name": "John Kwiatkowski",
+               "profile_path": null,
+               "id": 83087,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832cedc3a36828f500babd",
+               "name": "Charles W. Ritter",
+               "profile_path": null,
+               "id": 91093,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56832cf7c3a36828f500bac0",
+               "name": "Donald J. Malouf",
+               "profile_path": null,
+               "id": 1415618,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832d0392514131df013294",
+               "name": "Todd Toon",
+               "profile_path": null,
+               "id": 83090,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56832d1692514169d0001ad5",
+               "name": "Dean A. Zupancic",
+               "profile_path": null,
+               "id": 83091,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832d2192514169d0001adc",
+               "name": "Terry Porter",
+               "profile_path": null,
+               "id": 74978,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832d54c3a3685f89001a05",
+               "name": "Dawn Ascher-Trevino",
+               "profile_path": null,
+               "id": 1555489,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832d60c3a368607501486f",
+               "name": "Ron Batzdorff",
+               "profile_path": null,
+               "id": 1183391,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832dbe925141133400d21a",
+               "name": "Jimmy Romano",
+               "profile_path": null,
+               "id": 1404697,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56832de7925141133400d224",
+               "name": "Heidi Higginbotham",
+               "profile_path": null,
+               "id": 1324453,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 9.092125,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10330,
+      "vote_count": 1207,
+      "budget": 26000000,
+      "overview": "Mother and daughter bicker over everything -- what Anna wears, whom she likes and what she wants to do when she's older. In turn, Anna detests Tess's fiancé. When a magical fortune cookie switches their personalities, they each get a peek at how the other person feels, thinks and lives.",
+      "similar": [
+         8273,
+         8193,
+         11631,
+         1584,
+         272693,
+         1075,
+         10625,
+         2539,
+         6557,
+         26123,
+         433,
+         50124,
+         8967,
+         24,
+         244772,
+         277216,
+         376867,
+         10054,
+         712,
+         22244
+      ],
+      "original_title": "Freaky Friday",
+      "runtime": 97,
+      "poster_path": "/fBtYKVgpGNoUsmRGy7rLjIQsmpf.jpg",
+      "spoken_languages": [
+         {
+            "name": "普通话",
+            "iso_639_1": "zh"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+            "name": "Walt Disney Pictures",
+            "id": 2,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Casual Friday Productions",
+            "id": 93528,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Gunn Films",
+            "id": 3538,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2003-08-03",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "Mondays are manic. Wednesdays are wild. And Fridays are about to get a little freaky.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Mark Waters"],
+      "runtime": 97,
+      "synopsis": null,
+      "writers": [
+         "Mary Rodgers",
+         "Heather Hach"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0322330/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNDE0NTQwODM5M15BMl5BanBnXkFtZTYwNzQ2Nzk5._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jamie Lee Curtis, Lindsay Lohan, Mark Harmon | See full cast and crew »"],
+      "reviews": [
+         "I admit, I was dragged to this movie by my 12-year-old cousin. At first I thought, \"Lindsay Lohan? Who's that? And Jamie Lee Curtis? Isn't that the 'scream queen'?\" I didn't want to go, but that was that. Within the first few minutes of the movie, I rolled my eyes. I thought it was just a cliche movie about a mom and a daughter that fight a lot. I was bored. But ten minutes later, the magic began. I found my eyes glued to the massive screen, I found myself \"shushing\" anyone that interrupted my connection with the two stars. I was hooked, and that was that. Lindsay Lohan and Jamie Lee Curtis work wonders together. They have wonderful chemistry on screen that make you believe that they have, in fact, switched bodies. Both actresses were brilliant in their roles of switch reversal. Their acting was so real, their expressions so priceless. Awesome, too, was the movie's supporting cast. Enough said. The script was amazingly well written, the directing extraordinary. To sum it up, this movie was \"freakishly good.\" Pure magic, I tell you.",
+         "Look . . . I'm mainly into sci-fi, fantasy, action-thriller, and special effects movies (i.e. Matrix, LOTR, Identity, Star Wars, etc.) and generally try to avoid chic flicks and warm-fuzzy feel-good movies. After watching the current Freaky Friday starring Jamie Lee Curtis and Lindsay Lohan now I understand why. See, I'm a guy, and guys don't cry, well, that's what we've been told. On top of that I'm 48 years old so I'd better have my maturity act together. So, what happened? Besides laughing my butt off at the truly funny scenes (my wife and I caught a few stares from other movie-goers), I had to strain every muscle in my body to keep from bawling like a, no, it can't be true .. . girl. I might have to consult a therapist (Jamie Lee can certainly fill that role anytime) to understand why this movie had such a profound effect on my emotions. Maybe it's because my parents never really understood me (I certainly understand them now) or maybe it's because I have a couple daughters and I've rarely tried to put myself in their shoes. This movie accomplished that for me, big time . . . the ultimate exercise in empathy. The interaction between mother and daughter was superbly acted and very believable especially with the switched roles. Moreover, the supporting characters, from the little brother, to the fiancé, to the grandfather, to even the detention monitor at the school were also outstanding and made this story a real winner. I can honestly say that this is in my top 20 favorite movies of all time and I will most certainly buy the DVD when available. I can't believe I've been saying all this about a movie way out of my usual genre but here it is, in writing. Please watch this movie, and then tell me I'm not losing it. Enjoy!",
+         "This is about the third adaptation of the Mary Rodgers novel. Finally, the team behind this film has gotten it together. It's obvious the original text has been revised in order to include the language of today. But the best thing about the movie is the casting assembled for it, with a sure director's hand behind it. Actually, this is about the first film that has made me laugh since \"Bringing down the house\" that came out earlier this year. Most comedies today seem to forget that the basic premise for their existence is to amuse the audiences and entertain them, at the same time. Mark Waters, the director shows he has a fine sense of how to make things move constantly in this comedy about identity changes. Of course, this film wouldn't be half the fun it is without Jamie Lee Curtis, who has never been as effective in any previous films. Her take on Tess Coleman, the not so cool therapist, strikes the right tone. Her daughter is played with a lot of conviction by Lindsay Lohan, who is totally believable as the typical teen ager working through the pain of losing a father and getting a replacement she is not too fond of. Things move at a rapid pace; there is never a dull moment in the film. It's a perfect summer comedy that will leave the viewer satisfied and happy.",
+         "To make Freaky Friday work perfectly; you would have to believe that Jamie Lee Curtis is Lindsay Lohan and Lindsay Lohan is Jamie Lee Curtis. Although at times it seemed that way, at other times, it just seemed like Lohan was trying to be Curtis and Curtis was trying to be Lohan. Any way you look at it, Freaky Friday is a family-friendly film that tries to please everyone, and does. It pleases shallow teen prep girls because of Chad Michael Murray. It pleases teen boys because of Lindsay Lohan. It pleases older men because of a Jamie Lee Curtis thong shot. It pleases older women because of Mark Harmon. It pleases the whole family, being that they already saw Finding Nemo and it's the only other family movie out there. Tess Coleman (Jamie Lee Curtis) (changed from Ellen Andrews from the novel by Mary Rodgers) is a harried psychiatrist who still has time for her family. Anna Colemen (Lohan) (changed from Annabel Andrews) is supposed to be a typical teenager (but is anything but), and has daily fights with her younger brother Harry (Ryan Malgarini) (changed from Ben Andrews). Tess is going to marry Ryan (Harmon), because her husband died three years ago (can't there be a Disney movie with both parents still alive?), of whom Anna doesn't approve. After a fueled feud, Tess and Anna open fortune cookies that switch bodies: Tess is in Anna's body, and vice versa. Whatever will be done? Although most people have praised Curtis for her accurate portrayal of a typical teen (although with the people at my school, what she does is anything but typical), and she should be, Lohan does better at being an adult. If Lohan, a teenager, could be an adult so well, that's rather scary. I thought at most times Lohan was Tess, but Curtis was having too much fun as Anna to really be thought of as great. Instead of acting like Lohan, Curtis just acts like a young kid who just ate too much ice cream. One part of Freaky Friday that I didn't like is how often we were put in an awkward situation. And when they were there, they just didn't seem plausible. All of a sudden, Anna-as-Tess is a guest on a talk show, talks to someone she has a crush on, and watches Tess-as-Anna perform? Not only were they awkward, they were just not believable. On the other hand, Freaky Friday not only has some genuinely funny moments, but is also quite touching at times. Obviously, it was going to be, and Tess and Anna were going to learn to respect each other, considering it was shown in the trailer. One other part I didn't like was how far it strayed from the book. It only focused on Anna-as-Tess (Annabel-as-Ellen), and how she spent her day. Of course, back then she was a housewife, but now she has to be a successful doctor. I do admire it for changing it, unlike others, which is basically watching the book. Overall, Freaky Friday is a likable, pleasant 90-minute diverter. It won't change your life, but you won't be upset you saw it. My rating: 7/10 Rated PG for mild thematic elements and some language.",
+         "I've been wanting to see this film since the trailers started playing many moons ago. I saw the Jody Foster version when it first came out in 1976 and like that one, the 2003 version is an excellent all ages movie. It reminds me of the great flicks Disney use to release all the time during the 60's and 70's so it was no surprise they reached to the vault to redo \"Freaky Friday\". Jamie Lee Curtis has her best comedy role since \"A Fish Called Wanda\". She was having fun with the part and many of the teen mannerisms she did as Annabell were dead on. Curtis is one of the most underrated actors in the world. Just based on her performance \"Freaky Friday\" was a great ride. Lindsay Lohan made the movie better with her take on Annabell. I have liked Lohan since \"The Parent Trap\" and if she decides to stay with acting she might go on as long as Jody Foster has in the business. Lohan has one thing that actors like Tom Hanks and Julia Roberts have and that is an expressive face. Acting is so much better when the actor can add to their part through the expressions in their face and Lindsay can do that. Watching the movie was a delight for me. I never got the feeling that 35 year old men wrote the script (they didn't) like I do with some of the \"teen\" movies out today. The music used by the movie band \"Pink Slip\" was above average and the other soundtrack music fit the film as well. Now if they would just do a big budget \"Herbie the Love Bug\" feature, I would be even more happy.",
+         "This movie deserves all high ratings. Not only does Jamie Lee Curtis prove to me a great Comedian, but the punch lines are displayed at exactly the right moments and exactly the right way. Curtis as a teenage girl is just as funny as Lindsay Lohan acting out the part of a grown woman trapped in her daughter's body. I loved this movie and it got great laughs out of me. I was actually able to sit in my room alone and laugh to myself without feeling stupid. So far, I've seen it three times and I don't think I will ever get tired of watching it, it just keeps getting funnier and more entertaining each time. Simply a masterpiece and I hope everyone who likes real real funny comedy gets to watch this one! This is gooood!",
+         "Freaky Friday has just the right touch. In making an identity-switch movie, there is always the temptation to overdo things, in both the comedy and the pathos sides. Jamie Lee Curtis has just about the right balance portraying a 15-year-old in a 40-year-old body. On the comedy side, although on occasions coming across as just a little bit too silly, Curtis has on the whole brought out the funny side of the situation without undue exaggeration. The important thing is her success in making the whole thing believable. On the pathos side, her toasting speech in the engagement ceremony is touching performance. Lindsay Logan, on the other hand, has much less opportunity of repeating her brilliant performance in The Parent Trap (1998). The fault is not hers. It's just that it's much less fun watching a 40-year-old in a 15-year-old body than the other way around. While this is obviously the ladies' show, the two beaus provide reliable support. However, it is the fantastic pair of grandpa (Harold Gould) and little brother (Ryan Malgarini) who stole the show, particularly the little guy. I for one would love to see a sequel with this pair swapping bodies. Good flick; well worth the admission price.",
+         "Jamie Lee Curtis and Lindsay Lohan shine in this absolutely wild and wacky comedy that will make you laugh and feel good. In my opinion, the way she and Annabelle (Lindsay Lohan) magically exchanged bodies was really creepy. This was because the earth rumbled when it happened. If you want to know how it happened, you'll have to see the movie. I said that because I don't want to spoil anything. If you ask me, the way Annabelle and Jake (Chad Michael Murray) met was absolutely romantic. Also, to me, he was an absolute charmer. I especially loved it when Tess (Jamie Lee Curtis) scolded Annabelle when she was making trouble. In conclusion, if you like Lindsay Lohan or Jamie Lee Curtis, I highly recommend this absolutely wild and wacky comedy that will make you laugh and feel good.",
+         "This film is an excellent entertainment. I thoroughly enjoyed it and well put-together explaining individual mind-frame and it works. I am sure we easily judge into other people's positive and negative attitudes, but unless we put ourselves into their shoes, we will never know. Hence this film takes us into the journey of a daughter and mother who have complete different personalities. After a while, the daughter and mother switch \"only\" bodies (via some weird Chinese magic), by which they realize each others \"actual life\". This film could have been made in various forms, but the writer and the director chose a way by which they can convey their message to the society while entertaining at the same time, which I personally think is a better option. The film is very light-hearted, well scripted, well directed, excellent costumes, brilliant acting skills, and finally very easy to follow the storyline. Please do yourself a favor and rent this DVD (and order a pizza) and watch it at home with your family - maybe it will do you some good. Enjoy! NEIL BHATIA Score: 8/10",
+         "At first I couldn't understand why this was the version to see. It didn't seem any better than the Shelley Long/Gaby Hoffmann version I enjoyed years ago. Lindsay Lohan was a holy terror and her mom was merely uptight but nothing special. But of course all that changed when the magic spell took effect and Anna woke up horrified. There are many deserving performances, mostly dramatic, that get Oscar nominations each year. It's easier for a movie like this to get recognition when comedy has its own categories. But Jamie Lee Curtis was amazing. Such a bizarre sight, this middle-aged woman acting like a teen! Maybe Oscar would be asking too much because of the competition, but Curtis certainly deserved a Golden Globe nomination. And Lindsay Lohan did a capable job of the mom in a teen's body, trying so hard to fit in at school. Harold Gould's performance also should be noted. He made quite a likable buffoonish grandfather. I liked Rosalind Chao's clueless, almost stereotypical restaurant hostess. Lucille Soong made us notice as Chao's meddling mom who just HAD to help this family. And Jeff Marcus as one of Tess' more troubled patients. Although the musicians showed talent, I will say I agree with the first opinion Tess had of her daughter's music. It was all just noise! I liked the music for the wedding rehearsal. I still want to see the Jodie Foster original, and twice I have been annoyed that someone felt the need to do a remake rather than show the original. But this one was really worth it!"
+      ],
+      "genres": [
+         "Comedy",
+         "Family",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Casual Friday Productions",
+         "Gunn Films",
+         "Walt Disney Pictures"
+      ],
+      "summaries": [
+         "The wide generation gap between Tess Coleman and her teenage daughter Anna is more than evident. They simply cannot understand each other's preferences. On a Thursday night they have a big argument in a Chinese restaurant. Both receive a fortune cookie each from the restaurant owner's mother which causes them to switch bodies next day. As they adjust with their new personalities, they begin to understand each other more and eventually it's the mutual self-respect that sorts the things out.",
+         "Dr. Tess Coleman and her fifteen-year-old daughter, Anna, are not getting along. They don't see eye-to-eye on clothes, hair, music, and certainly not in each other's taste in men. One Thursday evening, their disagreements reach a fever pitch - Anna is incensed that her mother doesn't support her musical aspirations and Tess, a widow about to remarry, can't see why Anna won't give her fiancé a break. Everything soon changes when two identical Chinese fortune cookies cause a little mystic mayhem. The next morning, their Friday gets freaky when Tess and Anna find themselves inside the wrong bodies. As they literally walk a mile in each other's shoes, they gain a little newfound respect for the other's point of view. But with Tess's wedding coming on Saturday, the two have to find a way to switch back - and fast.",
+         "Annabel and her mother Tess are constant quibblers. Tess's fiance is an unacceptable replacement for Anna's dad, and Anna's music, friends, grades and taste in boys (ad nausem) are all unacceptable in her mother's eyes. Then dawns that fateful freaky Friday-- when Anna and Tess switch bodies, and must learn to live in each other's place. It is only then that \"selfless love\" will change them back. A fresh and delightful, if somewhat cheesy, family comedy.",
+         "Tess and her daughter Anna are always fighting and they think each other don't see how hard their life is. Little do they know but help is on the way and this Friday will get Freaky!",
+         "Dr. Tess Coleman and her 15 year old daughter Anna are not getting along. One Thursday evening, at a Chinese restaurant, they read a fortune that switches their bodies and minds. The next morning, their Friday gets really freaky when Tess and Anna find that they have switched bodies. Will they switch back or will they stay in each other's bodies forever?",
+         "An overworked mother and her daughter do not get along. When they switch bodies, each is forced to adapt to the others life for one freaky Friday."
+      ],
+      "budget": 26000000
+   },
+   "movielensId": 6593,
+   "movielens": {
+      "languages": [
+         "普通话",
+         "English"
+      ],
+      "releaseDate": "2003-08-03",
+      "dvdReleaseDate": "2003-12-16",
+      "directors": ["Mark Waters"],
+      "runtime": 97,
+      "movieId": 6593,
+      "title": "Freaky Friday",
+      "mpaa": "PG",
+      "actors": [
+         "Jamie Lee Curtis",
+         "Lindsay Lohan",
+         "Mark Harmon",
+         "Harold Gould",
+         "Haley Hudson",
+         "Chad Michael Murray",
+         "Dina Spybey-Waters",
+         "Stephen Tobolowsky",
+         "Christina Vidal",
+         "Ryan Malgarini",
+         "Rosalind Chao",
+         "Lucille Soong",
+         "Willie Garson",
+         "Julie Gonzalo",
+         "Christina Marie Walter",
+         "Lu Elrod",
+         "Heather Hach",
+         "Lorna Scott",
+         "Chris Carlberg",
+         "Danny Rubin",
+         "Hayden Tank",
+         "Cayden Boyd",
+         "Marc McClure",
+         "Chris Heuisler",
+         "Jeffrey Marcus",
+         "Jacqueline Heinze",
+         "Mary Ellen Trainor",
+         "Erica Gimpel",
+         "William Caploe",
+         "Daniel Raymont",
+         "Veronica Brooks",
+         "Lee Burns",
+         "Amir Derakh",
+         "Zoe Waters"
+      ],
+      "imdbMovieId": "0322330",
+      "originalTitle": "Freaky Friday",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": ["mlmkMeWNmc0"],
+      "plotSummary": "Mother and daughter bicker over everything -- what Anna wears, whom she likes and what she wants to do when she's older. In turn, Anna detests Tess's fiancé. When a magical fortune cookie switches their personalities, they each get a peek at how the other person feels, thinks and lives.",
+      "tmdbMovieId": 10330,
+      "avgRating": 3.0621,
+      "releaseYear": "2003",
+      "numRatings": 4356,
+      "posterPath": "/fBtYKVgpGNoUsmRGy7rLjIQsmpf.jpg"
+   }
+}

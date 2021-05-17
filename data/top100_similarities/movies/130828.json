@@ -1,0 +1,439 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "fbi",
+            "id": 1812
+         },
+         {
+            "name": "bomber",
+            "id": 2532
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "terrorism",
+            "id": 13015
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         }
+      ],
+      "imdb_id": "tt0066156",
+      "video": false,
+      "title": "No Place to Hide",
+      "recommendations": [],
+      "backdrop_path": "/3SCSxlQyUhQR3cssUwitLaIWQcG.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Jerry Savage",
+               "gender": 2,
+               "credit_id": "52fe4d4ac3a36847f8259193",
+               "name": "Sylvester Stallone",
+               "profile_path": "/gnmwOa46C2TP35N7ARSzboTdx2u.jpg",
+               "id": 16483,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "James Henderson",
+               "gender": 2,
+               "credit_id": "533d62a0c3a36878fb003106",
+               "name": "Henry G. Sanders",
+               "profile_path": "/2SU75g2CAIzGWbgfIlNvKZQhYTZ.jpg",
+               "id": 16506,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Tommy Trafler",
+               "gender": 2,
+               "credit_id": "533d62b2c3a36879120030f5",
+               "name": "Tony Page",
+               "profile_path": null,
+               "id": 1095032,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Laurie Fisher",
+               "gender": 0,
+               "credit_id": "533d62c0c3a36878e600316e",
+               "name": "Rebecca Grimes",
+               "profile_path": null,
+               "id": 1306724,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Estelle Ferguson",
+               "gender": 0,
+               "credit_id": "533d62cbc3a36878e6003174",
+               "name": "Vickie Lancaster",
+               "profile_path": null,
+               "id": 1306725,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Ray Brown",
+               "gender": 2,
+               "credit_id": "533d62d6c3a36878f4003148",
+               "name": "Dennis Tate",
+               "profile_path": null,
+               "id": 1055617,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Marlena St. James",
+               "gender": 0,
+               "credit_id": "533d62efc3a36878fb003112",
+               "name": "Barbara Lee Govan",
+               "profile_path": null,
+               "id": 1306726,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "William Decker",
+               "gender": 2,
+               "credit_id": "533d62fcc3a36879120030fd",
+               "name": "Roy White",
+               "profile_path": null,
+               "id": 978012,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Chuck Bradley",
+               "gender": 0,
+               "credit_id": "533d630bc3a3687912003101",
+               "name": "Jed Mills",
+               "profile_path": null,
+               "id": 1219275,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Richard Scott",
+               "gender": 0,
+               "credit_id": "533d6317c3a368791b003155",
+               "name": "David Orange",
+               "profile_path": null,
+               "id": 596917,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Warehouse attendant",
+               "gender": 0,
+               "credit_id": "533d6326c3a36879030032bc",
+               "name": "Joe Kottler",
+               "profile_path": null,
+               "id": 1024558,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Dance teacher",
+               "gender": 0,
+               "credit_id": "533d6332c3a368791b003159",
+               "name": "Linda Adana",
+               "profile_path": null,
+               "id": 1306727,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Dance student",
+               "gender": 0,
+               "credit_id": "533d633dc3a36878ed003234",
+               "name": "Laura Giammarco",
+               "profile_path": null,
+               "id": 1306728,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Dance student",
+               "gender": 0,
+               "credit_id": "533d6348c3a36878e600317d",
+               "name": "Lillian Baley",
+               "profile_path": null,
+               "id": 1306729,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Dance student",
+               "gender": 0,
+               "credit_id": "533d6352c3a36878fb003122",
+               "name": "Susan Glassman",
+               "profile_path": null,
+               "id": 1306730,
+               "order": 14
+            },
+            {
+               "cast_id": 27,
+               "character": "Dance Student (as Susan Mann)",
+               "gender": 1,
+               "credit_id": "58fc5417c3a36879f401a54c",
+               "name": "Suzy Mann",
+               "profile_path": null,
+               "id": 1790822,
+               "order": 15
+            },
+            {
+               "cast_id": 28,
+               "character": "Customer",
+               "gender": 1,
+               "credit_id": "58fc5422c3a36879db01e15e",
+               "name": "Marlene Willoughby",
+               "profile_path": "/nXK4m7DqzJtDZpJqmzYdBZkiH6g.jpg",
+               "id": 98374,
+               "order": 16
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "533d655ec3a36878ed00326f",
+               "name": "Robert Allen Schnitzer",
+               "profile_path": null,
+               "id": 1110543,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "533d6569c3a368790b00303a",
+               "name": "Larry Beinhart",
+               "profile_path": null,
+               "id": 8247,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5486d3ae92514175fc00140b",
+               "name": "Louis Pastore",
+               "profile_path": null,
+               "id": 1223371,
+               "department": "Crew",
+               "job": "Additional Dialogue"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5486d38d925141760f0014a8",
+               "name": "Robert Allen Schnitzer",
+               "profile_path": null,
+               "id": 1110543,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5486d3cf9251417609001537",
+               "name": "Robert Allen Schnitzer",
+               "profile_path": null,
+               "id": 1110543,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5486d3e89251417606001418",
+               "name": "David Appleton",
+               "profile_path": null,
+               "id": 1396837,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5486d3ff9251417606001420",
+               "name": "Joseph Delacorte",
+               "profile_path": null,
+               "id": 1396838,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5486d415c3a3681cfd0018f0",
+               "name": "Marty Knopf",
+               "profile_path": null,
+               "id": 1396839,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5486d428c3a3681cfd0018fa",
+               "name": "LaReine Johnston",
+               "profile_path": null,
+               "id": 42631,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5486d446c3a3681cf6001777",
+               "name": "Felipe Borrero",
+               "profile_path": null,
+               "id": 1396840,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 0.680814,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 174383,
+      "vote_count": 3,
+      "budget": 0,
+      "overview": "In New York in the late 60s, a politically motivated group of students plans bombings of company offices who do business with dictators in Middle American countries. But when they contact a known terrorist and bombing specialist, the FBI gets on their track.",
+      "similar": [
+         8810,
+         2142,
+         298312,
+         261023,
+         948,
+         9331,
+         3134,
+         11564,
+         12162,
+         1571,
+         4771,
+         9659,
+         431,
+         23483,
+         206487,
+         1573,
+         101,
+         205,
+         141,
+         562
+      ],
+      "original_title": "No Place to Hide",
+      "runtime": 80,
+      "poster_path": "/mbF2x2EbDWje74RnjBDeK3nOSUq.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Galaxy Films",
+         "id": 16405,
+         "origin_country": "IN"
+      }],
+      "release_date": "1970-12-22",
+      "vote_average": 5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Robert Allen Schnitzer"],
+      "runtime": 80,
+      "synopsis": null,
+      "writers": [
+         "Larry Beinhart",
+         "Louis Pastore"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0066156/",
+      "coverLink": null,
+      "actors": ["Stars: Sylvester Stallone, Tony Page, Rebecca Grimes | See full cast and crew »"],
+      "reviews": [
+         "Sly plays a sixties radical who must choose between his love for a beautiful country girl and his loyalties to a terrorist group planning to bomb a Manhattan skyscraper. Stallone's performance is to be admired as he delivers lines such as \"a bohhmb.\" Also you can just let the tears fly as Sly or shall I say Jerry Savage takes that final liberating run through a field of green. This could be the greatest movie ever made. Definitely misunderstood.",
+         "First of all, when i saw it listed in the TV guide, the year was listed as 1973. But the movie was re-released in 1980, with some extra footage added. However, the extra footage mostly covers the FBI office scenes. This movie had all unknown actors, including an unknown Sylvester Stallone. Sly looked so youthful and handsome. The film was based on a true story about 1960s radical, Jerry Savage, who infiltrates a terrorist group who plan on blowing up a building in New York. He also falls for a beautiful country girl, who's opposed to his association with the group. It would've been nice for Sly to be the first unknown actor to be nominated for an Oscar for this film. The end is a very emotional one for Sly as he's seen stumbling through fields.",
+         "Plot In A Paragraph: A young Sly Stallone plays a sixties radical who must choose between his love for a beautiful country girl and his loyalties to a terrorist group planning to bomb a Manhattan skyscraper. This movie had all unknown actors, including a then unknown Sly, he looks really youthful and for me his performance shows early promise. It starts with Sly hitchiking, stopping to feed a horse, before finally getting a lift to New York. Real life war footage is mixed with a guy singing a protest song \" what are we fighting for\". A random conversation about hamburger sales that wouldn't look out of place in a Tarantino movie later, Sly meets a guy in the street, it's revealed \"everything is in place\", and that Sly used to have a beard (\"a lot happens in a year\") as a movie It's OK. not great quality on my DVD, and the audio is out in places, which is annoying. It's a bit slow, (I was tempted to turn it off after 20 minutes to do some ironing) despite a short running time it really feels like much, much longer. But it does have a plot, and takes the time to build the tension. With some reworking and a decent soundtrack, this could be a decent 70's thriller, but as it is, it's very cheap and only my devotion to Sly got me all the way through it...wonder if he could actually watch this movie now a days. However Sly's performance is brilliant at conveying the confusion of the times. The end is a very emotional one for Sly as he's seen stumbling through fields, It also has a beautiful soundtrack (not counting the 70's horror music) with some good songs. I can see why some people may not get all the way through this movie, I would like to know how many people actually paid to see this one when it was first released.",
+         "An incredibly sexy handsome young Sly thrown in the political turmoil of the ending sixties, the Vietnam war protests, the anti multi national firms activism. A must see, Stallone on screen from the first to the last second of the movie embodies the disarray of an entire generation, which at some point contemplated terrorism against its own institutions public or private. Sly's performance is brilliant conveying the confusion of the times, as in the wake of 1969 America was on the verge of civil war. Beautiful soundtrack of protest songs. Classic direction by Robert Schnitzer. Look for the fully remastered version of 2006.",
+         "I own this movie under a different title \"REBEL\". It's ok. A bit slow, but it does have a plot. It tells the story of a young man having to choose between his desire to be part of a social movement in the late sixties. Or the love of a country girl, a true \"flower child\" he meets on his way to Manhatten. I liked it because it shows Sly before he became so pretty",
+         "A few days before Sylvester Stallone's latest movie The Expendables came out, I was at the used video store called Grand Cinema Station and stumbled upon this VHS case from Paragon Video Productions that had him on the cover and had the title of Rebel. I bought it right away but I have just now gotten through watching it. In a nutshell, Stallone plays Jerry Savage who is part of an underground terrorist group that's planning to blow up a building in Manhatten. It's interesting watching a film from this time in the late '60s-early '70s and seeing and hearing various news footage of the riots of the Democratic Convention in Chicago in 1968 (where and when I was just a few months old), the speeches of Robert F. Kennedy and Martin Luther King, Jr., and various hit songs of the time. Also interesting is seeing someone later known as more of a conservative figure playing a left-wing radical. Not to mention his reactions when a woman in his group recounts her abortion or another lady from the country he likes argues with him about his bombing methods vs. her more peaceful tranquility living. This is not a great movie but it's certainly a fascinating document of such a turbulent time in U.S. history and of Sylvester Stallone's early contribution to that era.",
+         "I recall the filming of this film in my upstate NY town of Livingston Manor in 1972. So the making date is inaccurate. The scene of them driving up to the country is on Route 17 which is now Interstate 86 at the exit near Parksville,NY. The old boarding house is actually a bed and breakfast now and they make no claims to this pretty awful film. It was definitely a period piece and fun to see how Sly started in this industry. He was a looker even then before all the excesses. Does anyone else remember this film from the Catskills of Sullivan County? The Bed and Breakfast is located on Debruce Road in Livingston Manor and is known as the Debruce Inn. It has been restored but still the structure looks like it did in the film. As I watched this film I realized how much of our area in the country is timeless and other than trees being bigger the road is unchanged. I still would like to know how many people actually paid to see this one?",
+         "Believe it or not, I was pumped up to see this movie after seeing a preview for it on another tape. My hopes, however, were quickly dashed as I found it hard to get through the first 10 minutes with my eyes still open. Dreadfully boring and slow moving, the only redeemable factors are when Sly attacks a chair and his final run through a field......clad head to toe in denim. After watching this, my friends and I took a trip down to the shore and buried it in the sand. That was the only enjoyment we got out of this movie, which is truly one of the worst pieces of work I have ever seen. Enjoyment may be slightly higher if you make bad Stallone impressions while watching it."
+      ],
+      "genres": ["Thriller"],
+      "productionCompanies": ["Galaxy Films"],
+      "summaries": ["In New York in the late 60s, a politically motivated group of students plans bombings of company offices who do business with dictators in Middle American countries. But when they contact a known terrorist and bombing specialist, the FBI gets on their track."],
+      "budget": 0
+   },
+   "movielensId": 130828,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1970-12-22",
+      "dvdReleaseDate": null,
+      "directors": ["Robert Allen Schnitzer"],
+      "runtime": 80,
+      "movieId": 130828,
+      "title": "No Place to Hide",
+      "mpaa": "",
+      "actors": [
+         "Sylvester Stallone",
+         "Henry G. Sanders",
+         "Tony Page",
+         "Rebecca Grimes",
+         "Vickie Lancaster",
+         "Dennis Tate",
+         "Barbara Lee Govan",
+         "Roy White",
+         "Jed Mills",
+         "David Orange",
+         "Joe Kottler",
+         "Linda Adana",
+         "Laura Giammarco",
+         "Lillian Baley",
+         "Susan Glassman",
+         "Suzy Mann",
+         "Marlene Willoughby"
+      ],
+      "imdbMovieId": "0066156",
+      "originalTitle": "No Place to Hide",
+      "genres": [
+         "Drama",
+         "Crime",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "In New York in the late 60s, a politically motivated group of students plans bombings of company offices who do business with dictators in Middle American countries. But when they contact a known terrorist and bombing specialist, the FBI gets on their track.",
+      "tmdbMovieId": 174383,
+      "avgRating": 1.875,
+      "releaseYear": "1970",
+      "numRatings": 4,
+      "posterPath": "/mbF2x2EbDWje74RnjBDeK3nOSUq.jpg"
+   }
+}

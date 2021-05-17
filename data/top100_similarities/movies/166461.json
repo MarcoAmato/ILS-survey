@@ -1,0 +1,2964 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "ocean",
+            "id": 270
+         },
+         {
+            "name": "sailboat",
+            "id": 544
+         },
+         {
+            "name": "sea",
+            "id": 658
+         },
+         {
+            "name": "mythology",
+            "id": 2035
+         },
+         {
+            "name": "island",
+            "id": 2041
+         },
+         {
+            "name": "musical",
+            "id": 4344
+         },
+         {
+            "name": "curse",
+            "id": 10541
+         },
+         {
+            "name": "young girl",
+            "id": 18252
+         },
+         {
+            "name": "sailor",
+            "id": 41599
+         },
+         {
+            "name": "aftercreditsstinger",
+            "id": 179430
+         },
+         {
+            "name": "demigod",
+            "id": 180548
+         },
+         {
+            "name": "polynesia",
+            "id": 180803
+         },
+         {
+            "name": "voyage",
+            "id": 181240
+         },
+         {
+            "name": "pacific  ocean",
+            "id": 206828
+         },
+         {
+            "name": "quest",
+            "id": 207372
+         },
+         {
+            "name": "animal sidekick",
+            "id": 234183
+         }
+      ],
+      "imdb_id": "tt3521164",
+      "video": false,
+      "title": "Moana",
+      "recommendations": [
+         127380,
+         335797,
+         269149,
+         313297,
+         328111,
+         136799,
+         105864,
+         332210,
+         259316,
+         140300,
+         278927,
+         283366,
+         159824,
+         294272,
+         38757,
+         10674,
+         278154,
+         10198,
+         109445,
+         267935
+      ],
+      "backdrop_path": "/1qGzqGUd1pa05aqYXGSbLkiBlLB.jpg",
+      "revenue": 643331111,
+      "reviews": [
+         {
+            "author": "Reno",
+            "id": "58b340cfc3a368525400b1bd",
+            "content": "**Girl finds out the true identity of her people.**\r\n\r\nOkay, I shocked when I heard this film did not get the Oscars nod, except for a song. Now I have seen the film and I come to know why. This is a one liner, but developed into a longer version Except the initial parts, this film is like a limited cast/character film. Most of the film takes place in the sea sailing around fighting evil force to break the curse. But at the end, you would feel this kind of story is not worth for a feature film. It looks a perfect short animation theme.\r\n\r\nDisney never disappoints its fans, well, for me. So I enjoyed it, it was fun and entertaining, but too simple. The characters were cute, this is a wonderful film for kids and some grownups would too enjoy it. But this is not for all, unlike most of the Disney animations are. Dwayne's voice lending for one of the lead characters was good, but the girl steals the show. Especially if you are a kid and/or a girl.\r\n\r\nThe best film since 'Lilo & Stitch' on the similar theme about Pacific islands' people. But it reminded me 'Whale Rider'. Overall, I think the story should have been improved a bit, in particular by including a few more characters at least for the partial appearances. This is not the best animation of the year, also definitely the bad one to skip. If your purpose of the watch is entertainment/timepass, it is good at that.\r\n\r\n_6½/10_",
+            "url": "https://www.themoviedb.org/review/58b340cfc3a368525400b1bd"
+         },
+         {
+            "author": "Gimly",
+            "id": "58e3a55a92514127f601fa3a",
+            "content": "After I watched _Zootopia_ in the middle of 2016, I thought to myself \"Well, that does it, this has to be the best Family Movie of the year!\" I was ready to call it right then and there. It wasn't until December rolled around and I got the chance to see _Moana_, that I realised I had spoken far too soon. For in truth Moana deserved that title!\r\n\r\nMostly I'm just happy that I managed to enjoy two whole Disney movies this year.\r\n\r\n_Final rating:★★★½ - I strongly recommend you make the time._",
+            "url": "https://www.themoviedb.org/review/58e3a55a92514127f601fa3a"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 7,
+               "character": "Moana (voice)",
+               "gender": 1,
+               "credit_id": "569bbe3cc3a36872bb0034e7",
+               "name": "Auli'i Cravalho",
+               "profile_path": "/av5ZZ67BlHCzyWrUBg5xTUNGiWq.jpg",
+               "id": 1564846,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Maui (voice)",
+               "gender": 2,
+               "credit_id": "54d9fd22c3a3687ab90015c7",
+               "name": "Dwayne Johnson",
+               "profile_path": "/akweMz59qsSoPUJYe7QpjAc2rQp.jpg",
+               "id": 18918,
+               "order": 1
+            },
+            {
+               "cast_id": 16,
+               "character": "Gramma Tala (voice)",
+               "gender": 1,
+               "credit_id": "57d91c08c3a36852e00046df",
+               "name": "Rachel House",
+               "profile_path": "/8UGo2lHG5wtnH55lKPDm8oJ0IOk.jpg",
+               "id": 15298,
+               "order": 2
+            },
+            {
+               "cast_id": 15,
+               "character": "Chief Tui (voice)",
+               "gender": 2,
+               "credit_id": "57d91c08c3a36852e00046dd",
+               "name": "Temuera Morrison",
+               "profile_path": "/1ckHDFgKXJ8pazmvLCW7DeOKqA0.jpg",
+               "id": 7242,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Tamatoa (voice)",
+               "gender": 0,
+               "credit_id": "57d91c0792514168de004879",
+               "name": "Jemaine Clement",
+               "profile_path": "/juL82d8Cl1AQ1cUIOgJLRBGuNyY.jpg",
+               "id": 55936,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Sina (voice)",
+               "gender": 1,
+               "credit_id": "57d91c07925141684e004cd4",
+               "name": "Nicole Scherzinger",
+               "profile_path": "/vJksimGKKHXx6NlvqVIBfmo1XQA.jpg",
+               "id": 151246,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Heihei / Villager #3 (voice)",
+               "gender": 2,
+               "credit_id": "5720b516c3a36875f4001962",
+               "name": "Alan Tudyk",
+               "profile_path": "/6QuMtbD8kmhpwWhFKfNzEvHRLOu.jpg",
+               "id": 21088,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Toddler Moana (voice)",
+               "gender": 0,
+               "credit_id": "583fa90c9251417f80004355",
+               "name": "Louise Bush",
+               "profile_path": null,
+               "id": 1716550,
+               "order": 7
+            },
+            {
+               "cast_id": 53,
+               "character": "Chief Tui (singing voice)",
+               "gender": 2,
+               "credit_id": "584c8f769251411e29003d78",
+               "name": "Chris Jackson",
+               "profile_path": "/iczG0WVwwifbOTY5JWvBVz9DVaj.jpg",
+               "id": 1307751,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Fisherman (voice)",
+               "gender": 2,
+               "credit_id": "583fa9319251417f89004361",
+               "name": "Oscar Kightley",
+               "profile_path": "/7yaqZT5e1UlxBmqQ3xpXAUP7SNL.jpg",
+               "id": 89843,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Villager #1 (voice)",
+               "gender": 0,
+               "credit_id": "583fa93ec3a36862df0044d8",
+               "name": "Troy Polamalu",
+               "profile_path": "/51rD9ZZYyXNmk7xiotiVBqhBHqS.jpg",
+               "id": 1349600,
+               "order": 10
+            },
+            {
+               "cast_id": 54,
+               "character": "Villager #2 (voice)",
+               "gender": 0,
+               "credit_id": "5881f1c4925141303e00b63e",
+               "name": "Puanani Cravalho",
+               "profile_path": "/qPxMhzDmrvuIQZCeamiUzynLEFz.jpg",
+               "id": 1742290,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "53a5b73c0e0a26143c0017b1",
+               "name": "Ron Clements",
+               "profile_path": "/lakkEixaHuVflUy5nkqeKI7LMT.jpg",
+               "id": 15810,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53a5b74b0e0a2614320017f4",
+               "name": "John Musker",
+               "profile_path": "/jQCExCN0TcjRkv2EbnbIDH7ycfR.jpg",
+               "id": 15811,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5881f280925141303e00b703",
+               "name": "Chris Williams",
+               "profile_path": "/eE2NDdeKN1DC3XuV6L4xuEbVaS.jpg",
+               "id": 70238,
+               "department": "Directing",
+               "job": "Co-Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5881f30ac3a368146700bd13",
+               "name": "Opetaia Foa'i",
+               "profile_path": "/oxSCA2ZGF446psg77QQABobcEr8.jpg",
+               "id": 1716551,
+               "department": "Sound",
+               "job": "Songs"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5446c34fc3a368216a00105c",
+               "name": "John Lasseter",
+               "profile_path": "/7EdqiNbr4FRjIhKHyPPdFfEEEFG.jpg",
+               "id": 7879,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575693509251416e360023e5",
+               "name": "Mark Mancina",
+               "profile_path": "/lt71bHajcyP9Nk7n18Nuq6NidA8.jpg",
+               "id": 9989,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575694c09251416e2500239c",
+               "name": "Osnat Shurer",
+               "profile_path": null,
+               "id": 1117781,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5881f362c3a368146000c20b",
+               "name": "Lin-Manuel Miranda",
+               "profile_path": "/bbcQoeHiIe3BXwoqI23OkTRrfxb.jpg",
+               "id": 1179651,
+               "department": "Sound",
+               "job": "Songs"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5842af49c3a36876b1006172",
+               "name": "Jared Bush",
+               "profile_path": "/2gIwj1cnqZIKWaFg0ihmZnuZypR.jpg",
+               "id": 1318201,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5842af5a9251417ed0006ee3",
+               "name": "Ron Clements",
+               "profile_path": "/lakkEixaHuVflUy5nkqeKI7LMT.jpg",
+               "id": 15810,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5842af6b9251417ec400716b",
+               "name": "John Musker",
+               "profile_path": "/jQCExCN0TcjRkv2EbnbIDH7ycfR.jpg",
+               "id": 15811,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5842af819251417ecd00725c",
+               "name": "Chris Williams",
+               "profile_path": "/eE2NDdeKN1DC3XuV6L4xuEbVaS.jpg",
+               "id": 70238,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5842af92c3a36876b8007e27",
+               "name": "Don Hall",
+               "profile_path": "/jVevHpWoDaepeNmbNpBYHCktdd5.jpg",
+               "id": 227439,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5842afa59251417ed0006f26",
+               "name": "Pamela Ribon",
+               "profile_path": null,
+               "id": 1232621,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5842afb59251417ed0006f31",
+               "name": "Aaron Kandell",
+               "profile_path": null,
+               "id": 1717774,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5842afc6c3a36876c0006fb1",
+               "name": "Jordan Kandell",
+               "profile_path": null,
+               "id": 1717775,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5842affd9251417ec70071a3",
+               "name": "Jeff Draheim",
+               "profile_path": null,
+               "id": 968327,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b0119251417ec0007464",
+               "name": "Jamie Sparer Roberts",
+               "profile_path": null,
+               "id": 137198,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b023c3a36876b8007ebd",
+               "name": "Rachel Sutton",
+               "profile_path": null,
+               "id": 1717776,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b034c3a36876ae007e11",
+               "name": "Ian Gooding",
+               "profile_path": null,
+               "id": 61420,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b10f9251417ec000751c",
+               "name": "Adam Green",
+               "profile_path": null,
+               "id": 1717777,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b122c3a36876b8007f86",
+               "name": "Jennifer Hager",
+               "profile_path": null,
+               "id": 1717778,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b135c3a36876b4006f7a",
+               "name": "Mack Kablan",
+               "profile_path": null,
+               "id": 1460609,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b1469251417eca007650",
+               "name": "Daniel Klug",
+               "profile_path": null,
+               "id": 1717779,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b15ac3a36876b10062f8",
+               "name": "Malcon Pierce",
+               "profile_path": null,
+               "id": 1717780,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b1c69251417ec00075a7",
+               "name": "Mark Empey",
+               "profile_path": null,
+               "id": 1717781,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b1e4c3a36876c000712a",
+               "name": "Kyle Odermatt",
+               "profile_path": null,
+               "id": 1461357,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b208c3a36876ae007f37",
+               "name": "Adolph Lusinsky",
+               "profile_path": null,
+               "id": 1578644,
+               "department": "Crew",
+               "job": "Lighting Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b2629251417ec7007352",
+               "name": "Shelley Roden",
+               "profile_path": null,
+               "id": 80827,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5842b2759251417ed00070e4",
+               "name": "John Roesch",
+               "profile_path": null,
+               "id": 1116937,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b28dc3a36876bc007b3a",
+               "name": "Tim Nielsen",
+               "profile_path": null,
+               "id": 1394129,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b29e9251417ed30072c8",
+               "name": "Pascal Garneau",
+               "profile_path": null,
+               "id": 1412984,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5842b2b19251417ed30072cc",
+               "name": "Lee Gilmore",
+               "profile_path": "/m3J8KCmSZ2ByrV4gHlbhw9zec2J.jpg",
+               "id": 1360099,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b2c7c3a36876b1006399",
+               "name": "Jonathan Borland",
+               "profile_path": null,
+               "id": 1550780,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b2db9251417ed30072da",
+               "name": "Tim Nielsen",
+               "profile_path": null,
+               "id": 1394129,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5842b2fbc3a36876b800808f",
+               "name": "Sarah Raoufpur",
+               "profile_path": null,
+               "id": 1717782,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5881f263925141303700bdd4",
+               "name": "Don Hall",
+               "profile_path": "/jVevHpWoDaepeNmbNpBYHCktdd5.jpg",
+               "id": 227439,
+               "department": "Directing",
+               "job": "Co-Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f2d1c3a368145b00bbc4",
+               "name": "Nicole P. Hearon",
+               "profile_path": null,
+               "id": 1742294,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5881f323c3a368147d00b186",
+               "name": "Mark Mancina",
+               "profile_path": "/lt71bHajcyP9Nk7n18Nuq6NidA8.jpg",
+               "id": 9989,
+               "department": "Sound",
+               "job": "Songs"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f392c3a368146700bd80",
+               "name": "Marisa X. Castro",
+               "profile_path": null,
+               "id": 1742296,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f3a0925141302e00c010",
+               "name": "Kelly Eisert",
+               "profile_path": null,
+               "id": 1742297,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f3afc3a368144300b9af",
+               "name": "Charlyn Go-Giampa",
+               "profile_path": null,
+               "id": 1742298,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f3be925141303e00b7f8",
+               "name": "Stephanie Hachem",
+               "profile_path": null,
+               "id": 1742299,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f3d9c3a368144900c6c0",
+               "name": "Nicole P. Hearon",
+               "profile_path": null,
+               "id": 1742294,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f3ee925141302800bcf1",
+               "name": "Brandon Holmes",
+               "profile_path": null,
+               "id": 1742300,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f41c925141303400c3e3",
+               "name": "Christopher Kracker",
+               "profile_path": null,
+               "id": 1464405,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f42ac3a368145b00bcb8",
+               "name": "Mayka Mei",
+               "profile_path": null,
+               "id": 1742302,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f448c3a368144300ba27",
+               "name": "Ruth Strother",
+               "profile_path": null,
+               "id": 1742303,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f459c3a368146700be1b",
+               "name": "Kristin Yadamec",
+               "profile_path": null,
+               "id": 1464409,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5881f4abc3a368144f00b77e",
+               "name": "James Woods",
+               "profile_path": null,
+               "id": 1742304,
+               "department": "Visual Effects",
+               "job": "Character Designer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a519708c3a368751c015f3d",
+               "name": "Amy Lawson Smeed",
+               "profile_path": null,
+               "id": 1763128,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa987fa9251410e41003d4d",
+               "name": "Jacob Frey",
+               "profile_path": null,
+               "id": 1569108,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4f8b19251417b0801b772",
+               "name": "Kathleen M. Mullin",
+               "profile_path": null,
+               "id": 2005748,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5ab4f8de0e0a265f2a01efeb",
+               "name": "Della Saba",
+               "profile_path": "/9T1aj0v2p5BxGWYEq8UkYKmww4w.jpg",
+               "id": 1610446,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab4f8e80e0a265f3301b1f2",
+               "name": "Taika Waititi",
+               "profile_path": "/8JBRfEb6mz7GdLwpoKDUOG6B5gy.jpg",
+               "id": 55934,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5ab4fa419251417af601ac2c",
+               "name": "Christina Asher",
+               "profile_path": null,
+               "id": 1128844,
+               "department": "Production",
+               "job": "Local Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4fa959251417afb01b976",
+               "name": "Fiona Collins",
+               "profile_path": null,
+               "id": 1870098,
+               "department": "Production",
+               "job": "Local Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4faac9251417b0801b967",
+               "name": "Asolelei To'alepai",
+               "profile_path": null,
+               "id": 2005753,
+               "department": "Production",
+               "job": "Local Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4fc959251417afb01bab9",
+               "name": "Caitlin Singer",
+               "profile_path": null,
+               "id": 1198064,
+               "department": "Crew",
+               "job": "Actor's Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4fca5c3a368617e01c9ff",
+               "name": "Ray Gordon II",
+               "profile_path": null,
+               "id": 2005755,
+               "department": "Crew",
+               "job": "Actor's Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4fcc39251417afb01badf",
+               "name": "Doug Brunswick",
+               "profile_path": null,
+               "id": 2005756,
+               "department": "Crew",
+               "job": "Legal Services"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4fd099251417af901b868",
+               "name": "Chad Stubblefield",
+               "profile_path": null,
+               "id": 1763054,
+               "department": "Visual Effects",
+               "job": "Character Modelling Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4fdde9251417aff01cdc6",
+               "name": "Jorge Obregon",
+               "profile_path": null,
+               "id": 1994877,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4fdf6c3a368619701e86e",
+               "name": "Don Welty",
+               "profile_path": null,
+               "id": 2005757,
+               "department": "Crew",
+               "job": "Legal Services"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4fe5c0e0a265f3001cfbb",
+               "name": "Katie Amanek",
+               "profile_path": null,
+               "id": 1995074,
+               "department": "Crew",
+               "job": "Other"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4feb59251417af601af35",
+               "name": "Steph Gortz",
+               "profile_path": null,
+               "id": 1998499,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4ff2b0e0a265f2701d370",
+               "name": "Carrie Perry",
+               "profile_path": null,
+               "id": 1994861,
+               "department": "Crew",
+               "job": "Schedule Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4ff450e0a265f2101d6c8",
+               "name": "Far Jangtrakool",
+               "profile_path": null,
+               "id": 2005761,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab4ffd59251417b0b01cdfc",
+               "name": "Manuel Arenas",
+               "profile_path": null,
+               "id": 1125167,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab500000e0a265f3001d119",
+               "name": "Neysa Bove",
+               "profile_path": null,
+               "id": 2005763,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5000e9251417b0801bda5",
+               "name": "Dan Cooper",
+               "profile_path": null,
+               "id": 61422,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50018c3a368615f01c236",
+               "name": "Mehrdad Isvandi",
+               "profile_path": null,
+               "id": 2005764,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5002cc3a368619701ea4c",
+               "name": "Ricky Arietta",
+               "profile_path": null,
+               "id": 1994920,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab500360e0a265f3601f3ec",
+               "name": "Justin Weber",
+               "profile_path": null,
+               "id": 1994962,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5007c0e0a265f3301b7b2",
+               "name": "Robert Christian Huth",
+               "profile_path": null,
+               "id": 1994919,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab500a99251417afb01bdad",
+               "name": "Dave Metzger",
+               "profile_path": null,
+               "id": 61974,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab500b99251417af601b112",
+               "name": "Andrew Edward Harkness",
+               "profile_path": null,
+               "id": 137200,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab501ffc3a368616301f1f4",
+               "name": "Mona Shokrai",
+               "profile_path": null,
+               "id": 2002399,
+               "department": "Crew",
+               "job": "Legal Services"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5024d0e0a265f3601f5f5",
+               "name": "Igelese Ete",
+               "profile_path": null,
+               "id": 2005766,
+               "department": "Crew",
+               "job": "Additional Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5025bc3a368619701eccc",
+               "name": "Pasifika Voices",
+               "profile_path": null,
+               "id": 2005767,
+               "department": "Crew",
+               "job": "Additional Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50267c3a368615f01c46e",
+               "name": "Marlon Espino",
+               "profile_path": null,
+               "id": 2005768,
+               "department": "Crew",
+               "job": "Additional Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50288c3a368617301d0dc",
+               "name": "J.D. Aguilar",
+               "profile_path": null,
+               "id": 1998921,
+               "department": "Sound",
+               "job": "Conductor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab502a0c3a368616c01c7d0",
+               "name": "Brendan Gottlieb",
+               "profile_path": null,
+               "id": 2005769,
+               "department": "Visual Effects",
+               "job": "Fix Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab502a9c3a368617e01cefa",
+               "name": "Boris Maras",
+               "profile_path": null,
+               "id": 2005770,
+               "department": "Visual Effects",
+               "job": "Fix Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab502b20e0a265f3601f676",
+               "name": "Reece Porter",
+               "profile_path": null,
+               "id": 2005771,
+               "department": "Visual Effects",
+               "job": "Fix Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab502c09251417afb01bf9e",
+               "name": "Elena Volk",
+               "profile_path": null,
+               "id": 2005772,
+               "department": "Visual Effects",
+               "job": "Fix Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab502c80e0a265f2a01f9c5",
+               "name": "Amanda ZIma",
+               "profile_path": null,
+               "id": 1460512,
+               "department": "Visual Effects",
+               "job": "Fix Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab503030e0a265f2401ee2e",
+               "name": "Nathan Meade",
+               "profile_path": null,
+               "id": 1741042,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5032c9251417b0801c095",
+               "name": "Diana J. Zeng",
+               "profile_path": null,
+               "id": 1419795,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab50376c3a368615f01c566",
+               "name": "Earl Ghaffari",
+               "profile_path": null,
+               "id": 1341141,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab503939251417b0201afb9",
+               "name": "Daniel Pinder",
+               "profile_path": null,
+               "id": 1400088,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab503b29251417afb01c06f",
+               "name": "James Thatcher",
+               "profile_path": null,
+               "id": 1741194,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab503bb0e0a265f3301ba66",
+               "name": "Andrew Synowiec",
+               "profile_path": null,
+               "id": 1821915,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab503c39251417b0501b6f5",
+               "name": "Wade Culbreath",
+               "profile_path": null,
+               "id": 1821933,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab503cdc3a368617e01cff7",
+               "name": "Cameron Patrick",
+               "profile_path": null,
+               "id": 1113174,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab503db9251417b0b01d1f2",
+               "name": "Paul S. Henning",
+               "profile_path": null,
+               "id": 1800259,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab503ebc3a368619701ee2a",
+               "name": "Serena McKinney",
+               "profile_path": null,
+               "id": 1998503,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab503f50e0a265f3001d4d5",
+               "name": "Tom Pigott Smith",
+               "profile_path": null,
+               "id": 2001871,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50427c3a368619701ee6e",
+               "name": "Bérénice Robinson",
+               "profile_path": null,
+               "id": 1464355,
+               "department": "Production",
+               "job": "Executive In Charge Of Post Production"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab504a0c3a368615b01c5c9",
+               "name": "Danielle Beverson",
+               "profile_path": null,
+               "id": 2005774,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab504ac0e0a265f3301bb41",
+               "name": "Nicholas Ellingsworth",
+               "profile_path": null,
+               "id": 1995078,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab504c59251417b0501b7eb",
+               "name": "Ryan Gilleland",
+               "profile_path": null,
+               "id": 94538,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5051c0e0a265f2d01fb73",
+               "name": "Julie Baner",
+               "profile_path": null,
+               "id": 1998497,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5052d0e0a265f2701d910",
+               "name": "Nicholas Russell",
+               "profile_path": null,
+               "id": 1994831,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5053b0e0a265f3601f8e8",
+               "name": "Scott Sakamoto",
+               "profile_path": null,
+               "id": 2001904,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab505e00e0a265f3001d651",
+               "name": "Liz Marston",
+               "profile_path": null,
+               "id": 2005775,
+               "department": "Crew",
+               "job": "Mix Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab506039251417b0501b8f2",
+               "name": "Stephen Urata",
+               "profile_path": null,
+               "id": 1445837,
+               "department": "Crew",
+               "job": "Mix Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5061dc3a368616c01cab6",
+               "name": "David E. Fluhr",
+               "profile_path": null,
+               "id": 112609,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5062ac3a368616c01cac6",
+               "name": "Ralf Habel",
+               "profile_path": null,
+               "id": 1995172,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab506350e0a265f2701d9ef",
+               "name": "Peter Kutz",
+               "profile_path": null,
+               "id": 1995173,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5063e9251417b0201b1ee",
+               "name": "Yining Karl Li",
+               "profile_path": null,
+               "id": 2005776,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50686c3a368618d01dec4",
+               "name": "Marc Henry Bryant",
+               "profile_path": null,
+               "id": 2005777,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab506940e0a265f2101de25",
+               "name": "Mir Z. Ali",
+               "profile_path": null,
+               "id": 1998526,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab508cd9251417afb01c4b1",
+               "name": "Barry Atkinson",
+               "profile_path": null,
+               "id": 1451226,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab5097e0e0a265f3001d991",
+               "name": "Rob Dressel",
+               "profile_path": null,
+               "id": 1615793,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50993c3a368615f01cae2",
+               "name": "David Okey",
+               "profile_path": null,
+               "id": 1994832,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab509a79251417af901c2bd",
+               "name": "Greg Loskorn",
+               "profile_path": null,
+               "id": 2001712,
+               "department": "Crew",
+               "job": "Score Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab509af9251417b0201b4f3",
+               "name": "Garret Sakura",
+               "profile_path": null,
+               "id": 1995170,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab509b99251417af901c2d7",
+               "name": "Rosie Wacha",
+               "profile_path": null,
+               "id": 1998494,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab509c20e0a265f2701dd35",
+               "name": "Graham B. Whitted IV",
+               "profile_path": null,
+               "id": 1998495,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab509d10e0a265f3301bf1b",
+               "name": "Joanna Zeta",
+               "profile_path": null,
+               "id": 1995171,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab509ddc3a368615b01ca63",
+               "name": "Kimberly M. Rios",
+               "profile_path": null,
+               "id": 1995181,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50a1f0e0a265f2101e15d",
+               "name": "Matt Watson",
+               "profile_path": null,
+               "id": 2005778,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50a450e0a265f2701dda4",
+               "name": "Hank Driskill",
+               "profile_path": null,
+               "id": 1578649,
+               "department": "Crew",
+               "job": "Technical Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50a55c3a368616301fa15",
+               "name": "Dominick Certo",
+               "profile_path": null,
+               "id": 1536029,
+               "department": "Crew",
+               "job": "Temp Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50a610e0a265f3601fdf8",
+               "name": "Tommy Holmes",
+               "profile_path": null,
+               "id": 1995206,
+               "department": "Crew",
+               "job": "Temp Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50a6b0e0a265f2701ddd0",
+               "name": "Adam DesCombes",
+               "profile_path": null,
+               "id": 1994974,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50a779251417b0801c6c6",
+               "name": "Brian Millman",
+               "profile_path": null,
+               "id": 1998407,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50a81c3a368615b01cb11",
+               "name": "Anthony Durazzo",
+               "profile_path": null,
+               "id": 1998517,
+               "department": "Editing",
+               "job": "Associate Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50a8d9251417b0b01d819",
+               "name": "Karen A. White",
+               "profile_path": null,
+               "id": 2001669,
+               "department": "Editing",
+               "job": "Associate Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50a9f0e0a265f2401f5b8",
+               "name": "Ayman Akoshali",
+               "profile_path": null,
+               "id": 2005779,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50aaac3a368618d01e335",
+               "name": "Sung Joon Bae",
+               "profile_path": null,
+               "id": 2005780,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50ac8c3a368616c01cedd",
+               "name": "Alexandre Cazals",
+               "profile_path": null,
+               "id": 1119870,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50ad10e0a265f3301c03f",
+               "name": "Ryan DeYoung",
+               "profile_path": null,
+               "id": 1994888,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50ada9251417b0201b60f",
+               "name": "Justin Dobies",
+               "profile_path": null,
+               "id": 1994887,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50ae4c3a368617301d8cd",
+               "name": "Jeff Gipson",
+               "profile_path": null,
+               "id": 1994885,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50af1c3a368615f01cc18",
+               "name": "Katherine Ipjian",
+               "profile_path": null,
+               "id": 1993416,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50afe0e0a265f2701de64",
+               "name": "Jongo",
+               "profile_path": null,
+               "id": 1994551,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50b22c3a368618d01e3ce",
+               "name": "Mohit Kallianpur",
+               "profile_path": null,
+               "id": 1763026,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50b329251417af901c435",
+               "name": "Kelly Kin",
+               "profile_path": null,
+               "id": 1994884,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50b509251417af601ba16",
+               "name": "Bryan Locantore",
+               "profile_path": null,
+               "id": 2005781,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50b719251417b0b01d8d5",
+               "name": "Angela McBride",
+               "profile_path": null,
+               "id": 1994882,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab50b7a0e0a265f3301c0ea",
+               "name": "Robert L. Miles",
+               "profile_path": null,
+               "id": 1615778,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50b840e0a265f3301c0f7",
+               "name": "Jonathan Navarro",
+               "profile_path": null,
+               "id": 1994879,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50b8c0e0a265f2101e2ea",
+               "name": "Derek Nelson",
+               "profile_path": null,
+               "id": 1994878,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50b950e0a265f2401f6ad",
+               "name": "Stephen Null",
+               "profile_path": null,
+               "id": 1461995,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50b9dc3a368619701f5c3",
+               "name": "Chadwick Orr",
+               "profile_path": null,
+               "id": 1994876,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50ba60e0a265f2401f6b9",
+               "name": "Katie Reihman",
+               "profile_path": null,
+               "id": 1998514,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50bafc3a368617301d984",
+               "name": "Amol Sathe",
+               "profile_path": null,
+               "id": 1995037,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab50bb80e0a265f3301c128",
+               "name": "Wally Schaab",
+               "profile_path": null,
+               "id": 1615797,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50bc2c3a368619701f5f6",
+               "name": "Mark Siegel",
+               "profile_path": null,
+               "id": 1995039,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50bc9c3a368615b01cc37",
+               "name": "Ka Yaw Tan",
+               "profile_path": null,
+               "id": 1994870,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50bf3c3a368615b01cc53",
+               "name": "Andy Wu",
+               "profile_path": null,
+               "id": 2005782,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c000e0a265f2101e35a",
+               "name": "Alina Zepeda",
+               "profile_path": null,
+               "id": 2005783,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c0a9251417b0801c872",
+               "name": "Olun Riley",
+               "profile_path": null,
+               "id": 1462796,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c12c3a368615b01cc82",
+               "name": "Nasheet Zaman",
+               "profile_path": null,
+               "id": 2005784,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c22c3a368615f01cd51",
+               "name": "Elizabeth Willy",
+               "profile_path": null,
+               "id": 1994869,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c2ec3a368617301da21",
+               "name": "Kaori Doi",
+               "profile_path": null,
+               "id": 1994886,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c3b0e0a265f2a020353",
+               "name": "Roger Lee",
+               "profile_path": null,
+               "id": 1994883,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c439251417b0201b766",
+               "name": "Ellen Poon",
+               "profile_path": null,
+               "id": 1127841,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c4fc3a368619701f687",
+               "name": "Gregory Culp",
+               "profile_path": null,
+               "id": 1994889,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c5c9251417b0b01d9d1",
+               "name": "Chris Springfield",
+               "profile_path": null,
+               "id": 1615782,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c650e0a265f3001dc83",
+               "name": "Corey Butler",
+               "profile_path": null,
+               "id": 2001671,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c6dc3a368617e01d7f6",
+               "name": "Jennifer Yu",
+               "profile_path": null,
+               "id": 1999190,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c969251417aff01db4a",
+               "name": "Elizabeth Willy",
+               "profile_path": null,
+               "id": 1994869,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50c9f9251417afb01c821",
+               "name": "Kaori Doi",
+               "profile_path": null,
+               "id": 1994886,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50ca8c3a368617301daaf",
+               "name": "Roger Lee",
+               "profile_path": null,
+               "id": 1994883,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50cb1c3a368616c01d0d6",
+               "name": "Ellen Poon",
+               "profile_path": null,
+               "id": 1127841,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5ab50ccc9251417b0501bf33",
+               "name": "Terri Douglas",
+               "profile_path": "/lECiABogAKm5Zl8Je6niNAoqz5N.jpg",
+               "id": 186605,
+               "department": "Production",
+               "job": "ADR Voice Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab50d5dc3a368615b01cdd8",
+               "name": "Simon Ward",
+               "profile_path": "/35FmkSnifBy6vNT8S6XckFdTHyI.jpg",
+               "id": 1497530,
+               "department": "Production",
+               "job": "Casting Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50f979251417afb01cb62",
+               "name": "Tom Body",
+               "profile_path": null,
+               "id": 1995021,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50fa4c3a368616c01d3cf",
+               "name": "Louis Chieng",
+               "profile_path": null,
+               "id": 2005788,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50fad9251417af601bdd1",
+               "name": "Frank William Knittel",
+               "profile_path": null,
+               "id": 1995022,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50fb90e0a265f2d02072e",
+               "name": "Linda Y. Matsuoka",
+               "profile_path": null,
+               "id": 1995023,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50fd99251417b0201babd",
+               "name": "Caitlin Coons",
+               "profile_path": null,
+               "id": 1348608,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50fe7c3a3686163020015",
+               "name": "Melissa Genoshe",
+               "profile_path": null,
+               "id": 2001701,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab50ffd9251417b0501c208",
+               "name": "Jasmine Gonzalez",
+               "profile_path": null,
+               "id": 2005789,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5100c0e0a265f2701e385",
+               "name": "Derek Manzella",
+               "profile_path": null,
+               "id": 1995080,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab510190e0a265f3301c540",
+               "name": "Laura M. Meredith",
+               "profile_path": null,
+               "id": 1998500,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab510289251417af601be2a",
+               "name": "Kit Turley",
+               "profile_path": null,
+               "id": 2005790,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab510530e0a265f2401fb79",
+               "name": "Yvett Merino Flores",
+               "profile_path": null,
+               "id": 1999218,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab510929251417b0501c26b",
+               "name": "James E. Hasman",
+               "profile_path": null,
+               "id": 1464403,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab510a00e0a265f3001e100",
+               "name": "Leah Latham",
+               "profile_path": null,
+               "id": 1502450,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab511100e0a265f3301c631",
+               "name": "Greg Crawford",
+               "profile_path": null,
+               "id": 80817,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5111e9251417b0201bbb9",
+               "name": "Doc Kane",
+               "profile_path": null,
+               "id": 8157,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab511730e0a265f2a0208e1",
+               "name": "Paul McGrath",
+               "profile_path": null,
+               "id": 2005798,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51199c3a368617e01dd6d",
+               "name": "Lynn Sable",
+               "profile_path": null,
+               "id": 17995,
+               "department": "Sound",
+               "job": "First Assistant Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab511b89251417b0801cdf6",
+               "name": "Matthew Harrison",
+               "profile_path": null,
+               "id": 1530322,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab511c4c3a368618d01ea22",
+               "name": "Marc Daniel Nelson",
+               "profile_path": null,
+               "id": 2005802,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab511d1c3a36861630201f8",
+               "name": "Kevin Connolly",
+               "profile_path": null,
+               "id": 1762004,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab511dc0e0a265f360205ba",
+               "name": "George Doering",
+               "profile_path": null,
+               "id": 1043374,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab511e6c3a3686163020210",
+               "name": "Karl Vincent",
+               "profile_path": null,
+               "id": 1995069,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab511f2c3a368615f01d2b0",
+               "name": "David Boucher",
+               "profile_path": null,
+               "id": 2003674,
+               "department": "Sound",
+               "job": "Scoring Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab511fd9251417b0501c399",
+               "name": "Sam Kriger",
+               "profile_path": null,
+               "id": 1999003,
+               "department": "Sound",
+               "job": "Vocal Coach"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab512070e0a265f2101e956",
+               "name": "Alberto Abril",
+               "profile_path": null,
+               "id": 1994921,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab512149251417b0801ce50",
+               "name": "Abraham Aguilar",
+               "profile_path": null,
+               "id": 1994922,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5122ac3a368618d01ea6b",
+               "name": "Valentín Amador",
+               "profile_path": null,
+               "id": 1461335,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51233c3a368616c01d65c",
+               "name": "Salem Arfaoui",
+               "profile_path": null,
+               "id": 2001555,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab5123d9251417b0501c3cb",
+               "name": "Doug Bennett",
+               "profile_path": null,
+               "id": 1763005,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab512460e0a265f3301c72f",
+               "name": "Tony Bonilla",
+               "profile_path": null,
+               "id": 1994924,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51250c3a368617e01de10",
+               "name": "Joey Brown",
+               "profile_path": null,
+               "id": 1998388,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51259c3a368616c01d670",
+               "name": "Darrin Butters",
+               "profile_path": null,
+               "id": 1763097,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51262c3a368616c01d67d",
+               "name": "Tony Chau",
+               "profile_path": null,
+               "id": 1994925,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5126c0e0a265f2701e5a8",
+               "name": "Andrew Chesworth",
+               "profile_path": null,
+               "id": 1994926,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51275c3a368619701fcb9",
+               "name": "Youngjae Choi",
+               "profile_path": null,
+               "id": 1763101,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5127fc3a368617301e006",
+               "name": "Trent Correy",
+               "profile_path": null,
+               "id": 1994928,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5128c0e0a265f2a0209d9",
+               "name": "Patrick Danaher",
+               "profile_path": null,
+               "id": 1994929,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab512980e0a265f2101e9b4",
+               "name": "Marat Davletshin",
+               "profile_path": null,
+               "id": 1994930,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab512a19251417af901cb5e",
+               "name": "Anthony DeRosa",
+               "profile_path": "/9nCAPM8RO3tXyHujcTbJmpgthkI.jpg",
+               "id": 1447376,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab512abc3a368617301e027",
+               "name": "Riannon Delanoy",
+               "profile_path": null,
+               "id": 1994931,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab512b59251417afb01cdf3",
+               "name": "Renato Dos Anjos",
+               "profile_path": null,
+               "id": 1763014,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab512bec3a368619701fcf5",
+               "name": "Jeffrey Engel",
+               "profile_path": null,
+               "id": 1994933,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab512c79251417b0501c426",
+               "name": "Nathan Engelhardt",
+               "profile_path": null,
+               "id": 1994916,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51303c3a368617e01dea8",
+               "name": "Andrew Feliciano",
+               "profile_path": null,
+               "id": 2005807,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513389251417b0b01e09a",
+               "name": "Isaak Fernandez",
+               "profile_path": null,
+               "id": 1994934,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513479251417af601c0df",
+               "name": "Chadd Ferron",
+               "profile_path": null,
+               "id": 1763106,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513520e0a265f2701e646",
+               "name": "Jason Figliozzi",
+               "profile_path": null,
+               "id": 1994935,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5135dc3a368615b01d2ed",
+               "name": "Andrew Ford",
+               "profile_path": null,
+               "id": 1994937,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513679251417aff01e146",
+               "name": "Michael Franceschi",
+               "profile_path": null,
+               "id": 1994938,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513720e0a265f3001e340",
+               "name": "Derek Friesenborg",
+               "profile_path": null,
+               "id": 1994939,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5137ec3a368617e01df11",
+               "name": "Mario Furmanczyk",
+               "profile_path": null,
+               "id": 1461392,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5138f9251417b0b01e0d5",
+               "name": "Jorge Garcia",
+               "profile_path": null,
+               "id": 1994940,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51398c3a368616c01d786",
+               "name": "Minor Gaytan",
+               "profile_path": null,
+               "id": 1994971,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513a6c3a368617e01df30",
+               "name": "Dave Hardin",
+               "profile_path": null,
+               "id": 1462000,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513af0e0a265f2101ea83",
+               "name": "Ryan Hobbiebrunken",
+               "profile_path": null,
+               "id": 1994942,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513bb9251417b0501c4da",
+               "name": "Morgan R. Kelly",
+               "profile_path": null,
+               "id": 1462002,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513c9c3a368615f01d407",
+               "name": "Bert Klein",
+               "profile_path": null,
+               "id": 1447366,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513d20e0a265f2701e6bd",
+               "name": "Jackie Koehler",
+               "profile_path": null,
+               "id": 1994945,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513dbc3a368615b01d34c",
+               "name": "Andrew Lawson",
+               "profile_path": null,
+               "id": 239495,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513e80e0a265f2401fe75",
+               "name": "Hyun Min Lee",
+               "profile_path": null,
+               "id": 1461402,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab513f20e0a265f3602077d",
+               "name": "Kira Lehtomaki",
+               "profile_path": null,
+               "id": 1994917,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514100e0a265f3001e3f6",
+               "name": "David Lisbe",
+               "profile_path": null,
+               "id": 1194136,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514190e0a265f2a020bab",
+               "name": "Kevin MacLean",
+               "profile_path": null,
+               "id": 1453626,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514249251417b0501c50d",
+               "name": "Kelly McClanahan",
+               "profile_path": null,
+               "id": 1994946,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5142e9251417afb01cf12",
+               "name": "Matthew Meyer",
+               "profile_path": null,
+               "id": 1994947,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514409251417b0801cfe3",
+               "name": "Mark Mitchell",
+               "profile_path": null,
+               "id": 1763017,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514490e0a265f2701e748",
+               "name": "Prothais Nicolas",
+               "profile_path": null,
+               "id": 1994948,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514539251417b0501c51f",
+               "name": "Ivan Oviedo",
+               "profile_path": null,
+               "id": 2005813,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514629251417b0b01e14a",
+               "name": "Ryan Page",
+               "profile_path": null,
+               "id": 1994949,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5146cc3a368616c01d824",
+               "name": "Zach Parrish",
+               "profile_path": null,
+               "id": 1194137,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514779251417af901cc98",
+               "name": "Mitja Rabar",
+               "profile_path": null,
+               "id": 1459735,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514829251417af601c176",
+               "name": "Joel Reid",
+               "profile_path": null,
+               "id": 1994953,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5148d9251417b0201be11",
+               "name": "Jorge Ruiz",
+               "profile_path": null,
+               "id": 1994970,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51497c3a368616c01d84e",
+               "name": "Brian D. Scott",
+               "profile_path": null,
+               "id": 1994954,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514a7c3a368619701fe6e",
+               "name": "Chad Sellers",
+               "profile_path": null,
+               "id": 1994918,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514b60e0a265f36020846",
+               "name": "Benson Shum",
+               "profile_path": null,
+               "id": 1994955,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514c1c3a368617e01e01a",
+               "name": "Justin Sklar",
+               "profile_path": null,
+               "id": 1994956,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514cc0e0a265f3301c94a",
+               "name": "Rastko Stefanovic",
+               "profile_path": null,
+               "id": 1998400,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514d6c3a368617e01e029",
+               "name": "David Stodolny",
+               "profile_path": null,
+               "id": 1994958,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514e7c3a368617e01e03a",
+               "name": "Wes Storhoff",
+               "profile_path": null,
+               "id": 1994959,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab514f50e0a265f3001e4c9",
+               "name": "Philip To",
+               "profile_path": null,
+               "id": 1994960,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51501c3a368619701fecf",
+               "name": "Wayne Unten",
+               "profile_path": null,
+               "id": 1763023,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab515170e0a265f36020895",
+               "name": "Vitor Vilela",
+               "profile_path": null,
+               "id": 1459739,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5154f9251417b0b01e20c",
+               "name": "Amanda Wagner",
+               "profile_path": null,
+               "id": 1994961,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab515599251417af901cd62",
+               "name": "Geoff Wheeler",
+               "profile_path": null,
+               "id": 1994963,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51564c3a368619701ff3f",
+               "name": "Michael Woodside",
+               "profile_path": null,
+               "id": 1994967,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5156ec3a368619701ff45",
+               "name": "Nara Youn",
+               "profile_path": null,
+               "id": 1994968,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5158fc3a36861630204fb",
+               "name": "Shaofu Zhang",
+               "profile_path": null,
+               "id": 1092548,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab515ba9251417b0501c61a",
+               "name": "Eliot Milbourn",
+               "profile_path": null,
+               "id": 1618181,
+               "department": "Crew",
+               "job": "Telecine Colorist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab517170e0a265f2402017d",
+               "name": "Ryan Lang",
+               "profile_path": null,
+               "id": 1611562,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab517630e0a265f240201c3",
+               "name": "James Finn",
+               "profile_path": null,
+               "id": 1447400,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab517d59251417b0801d2a9",
+               "name": "Brien Hindman",
+               "profile_path": null,
+               "id": 1998505,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab517e0c3a368616c01db10",
+               "name": "John Kosnik",
+               "profile_path": null,
+               "id": 2005819,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab517f29251417b0201c0e9",
+               "name": "Nikki Mull",
+               "profile_path": null,
+               "id": 2005820,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab517fec3a36861970201dc",
+               "name": "Matt Schiller",
+               "profile_path": null,
+               "id": 2005821,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51809c3a368616c01db3b",
+               "name": "Chris Carignan",
+               "profile_path": null,
+               "id": 1998519,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab518110e0a265f36020bdc",
+               "name": "Peter DeMund",
+               "profile_path": null,
+               "id": 2001742,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5181a9251417b0501c868",
+               "name": "Joël Einhorn",
+               "profile_path": null,
+               "id": 2005822,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51823c3a368618d01ef6d",
+               "name": "Christopher Hendryx",
+               "profile_path": null,
+               "id": 2001748,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5182ec3a3686197020210",
+               "name": "Aaron James McComas",
+               "profile_path": null,
+               "id": 2005823,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab518370e0a265f2d020f9a",
+               "name": "Seung-hyuk Kim",
+               "profile_path": null,
+               "id": 1086305,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab518410e0a265f3301cc4f",
+               "name": "Yorie Kumalasari",
+               "profile_path": null,
+               "id": 2005824,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5184c0e0a265f2a021013",
+               "name": "Alex Moaveni",
+               "profile_path": null,
+               "id": 2005825,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51858c3a368615b01d732",
+               "name": "Hiroaki Narita",
+               "profile_path": null,
+               "id": 2005826,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab518620e0a265f2101ef56",
+               "name": "Hendrik Panz",
+               "profile_path": null,
+               "id": 1998522,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5186cc3a368618d01efbe",
+               "name": "Rattanin Sirinaruemarn",
+               "profile_path": null,
+               "id": 2005827,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51876c3a368617e01e3a7",
+               "name": "Alexey Stomakhin",
+               "profile_path": null,
+               "id": 1998524,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab518819251417b0201c181",
+               "name": "Le Joyce Tong",
+               "profile_path": null,
+               "id": 2005828,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab51891c3a368617301e5a6",
+               "name": "Zubin Wadia",
+               "profile_path": null,
+               "id": 1998525,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab5189c9251417b0501c8de",
+               "name": "Cong Wang",
+               "profile_path": null,
+               "id": 2005829,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab518a7c3a368617301e5ba",
+               "name": "Zhang Xiao",
+               "profile_path": null,
+               "id": 2001759,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         }
+      ],
+      "popularity": 9.566429,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 277834,
+      "vote_count": 4623,
+      "budget": 150000000,
+      "overview": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
+      "similar": [
+         109445,
+         34584,
+         3933,
+         10882,
+         10530,
+         11970,
+         10020,
+         76285,
+         71805,
+         321612,
+         9479,
+         812,
+         224141,
+         10865,
+         2756,
+         38757,
+         205775,
+         10144,
+         565,
+         11360
+      ],
+      "original_title": "Moana",
+      "runtime": 107,
+      "poster_path": "/z4x0Bp48ar3Mda8KiPD1vwSY3D8.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+            "name": "Walt Disney Pictures",
+            "id": 2,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+            "name": "Walt Disney Animation Studios",
+            "id": 6125,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2016-11-23",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "The ocean is calling.",
+      "adult": false,
+      "homepage": "http://movies.disney.com/moana",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Ron Clements",
+         "John Musker"
+      ],
+      "runtime": 107,
+      "synopsis": "Using a tapa cloth to animate her story, Gramma Tala (Rachel House) tells a group of young children the story of the mother island Te Fiti. With her heart, Te Fiti possesses the power to create life and brings other islands into existence. However, other beings desired the power of her heart but only one was daring enough to take it. The demigod Maui (Dwayne Johnson), using his magical fish hook to shape shift into various creatures, travels to the mother island and steals Te Fiti's heart; a small, green gemstone engraved with a spiral. Without her heart, Te Fiti's island begins to deteriorate and sends forth a terrible darkness. Maui escapes on his boat but is confronted by Te Ka, a demon of lava and fire which rose from the sea like a volcano. Maui boldly engaged Te Ka in battle but was struck from the sky, losing both his hook and Te Fiti's heart to the sea. Gramma Tala finishes her story saying that, a thousand years later, Te Ka and other monsters still hunt for the heart while the darkness continues to spread until, one day, it will consume their island. At this, most of the children either cry or faint, but one girl is spellbound. Gramma Tala then says that, one day, someone will find the heart, journey beyond the island's reef, find Maui, and take him to restore the heart and save everyone. At that moment Chief Tui (Temuera Morrison), the little girl's father, enters and tells the children that there is no darkness or monsters and they are safe on their island as long as they stay within the reef. However, he accidentally hits a post that reveals multiple cloth paintings of monsters, sending the children into a panic. In the chaos the little girl, Moana (Louise Bush), slips away and goes down to the water. She sees a seashell wash up on shore and goes to collect it when she notices a baby sea turtle being menaced by a group of frigate birds. Leaving the shell, Moana shields the turtle with a large leaf and guides it to the water's edge. Once it's safe, a rippling effect washes over the surface of the ocean and the water recedes, revealing a trail of beautiful seashells which Moana gathers in her tiny arms. Within the canyon of water and surrounded by sea life and coral, a wave forms over Moana's head and looks curiously down at her. It plays with her, splashing her and tying her hair in a topknot. Then, in the water, Moana sees a shiny object drifting toward her. She plucks the glowing green stone from the water and trails her finger over the spiral design. Just then, her father calls for her and the ocean returns her to shore on a piece of driftwood, but Moana drops the stone. Before she can find it, Chief Tui picks her up and takes her back to the village along with her mother, Sina (Nicole Scherzinger). She tells Moana that she'll do wondrous things as the future chief. Growing up, Moana learns everything she needs to know about life on her island, Motonui (song: \"Where You Are\"), but she finds herself continuously drawn to the ocean. Every time she goes near it, her parents bring her back and remind her that to her duties and her people are where she belongs; not the sea. Her grandmother, Tala, however, encourages Moana to follow her heart and listen to the 'voice inside'; for that is who she truly is. Chief Tui then takes Moana, now grown, to the sacred peak of their island and shows her a tall pile of flattened stones which he and his forefathers placed to raise the island higher. One day, he says, Moana will place her own stone on the peak. Moana grows into her role as chief in training despite her inner wish to go to the sea and makes her rounds on the island: she fixes a leaking roof, provides support to a man getting a tattoo, and teaches children hula dancing. An elderly man points out a rooster named Heihei (Alan Tudyk) pecking and attempting to eat a rock and wonders if he should be eaten, but Moana says that, in some cases, one's strength is hidden beneath the surface. Then, a woman shows Moana and her parents that the coconut harvest has yielded blackened, rotten fruit. Moana chooses a new location to plant a grove but then a group of fisherman show the chief that their haul of fish has brought in nothing, despite changing their fishing rounds. Moana suggests fishing beyond the reef, but the notion angers her father who storms off. Sina goes to Moana and explains to her that Tui's reservation against the ocean comes from his youth when he took a boat to sea and was wrecked in a storm. His friend, who had begged to go, drowned. Tui doesn't want the same thing to happen to Moana but Sina tells her that she must make her own choices, however hard they are. Conflicted over her duties to her village and her dream to sail the sea (song: \"How Far I'll Go\"), Moana ultimately decides to finally take a canoe out to see if she can find any fish beyond the reef and takes her pet pig, Pua, with her. At first it seems she can sail with ease, but a wave knocks her canoe sideways and sends Pua overboard. Distracted, Moana fails to see another wave rise above her and flip her canoe over. Moana is submerged and gets her foot trapped within some coral but manages to free herself by smashing it with a rock. She makes it to shore, exhausted, and find Pua scared, but alive. Gramma Tala then walks up joking that whatever transpired should be blamed on the pig. Moana tries to hide her bruised ankle, but Tala isn't fooled and takes a look. However, she promises not to tell Moana's father. Moana says that Tui was right about going out there. She tells Tala that she's going to put her stone on the pile. Tala doesn't argue and goes to the water to dance with a school of manta rays, saying that when she dies she'll come back as one, or else she chose the wrong tattoo. Curious as to why her grandmother isn't contradicting her, Moana asks if there's something she wants to tell her. Tala takes Moana to a holed up cavern where, after removing some rocks, Moana finds a passageway. Tala says that Moana has heard all their people's stories but one. She tells her to follow the tunnel and bang the drum to find the answer to the question that's bothered her all her life: who is she meant to be? Moana follows Tala's instructions and finds a small fleet of boats and canoes hidden in the cavern behind a massive waterfall. She bangs the drum on the largest ship and sees a vision of her ancestors within the tapa sail. It reveals that they were voyagers who sailed the ocean finding new islands to inhabit (song: \"We Know The Way\"). Thrilled, Moana asks Tala why they stopped voyaging. Tala explains that when Maui stole the heart of Te Fiti and unleashed the darkness it made sailing too treacherous; boats stopped coming back. To save themselves, Moana's ancestors hid away their boats and decided to remain on Motonui. Tala then shows Moana a portion of their island which appears to have the very life from it being drained to sea. She then tells Moana that her stories were true; that someone will one day restore the heart and save everyone. Then, she presses a green stone into Moana's hand that she'd kept within her necklace, saying that she was there the day the ocean chose Moana to be the one to restore the heart. The ocean then rises up and playfully splashes Moana who was stunned to find out that the memory wasn't just a dream as she thought. Tala shows Moana a constellation of an enormous hook, saying that Maui will be beneath it. Moana laments that she doesn't know how to sail but realizes she knows who does. She runs to the master hut where Tui is addressing the council, trying to assure them they won't run out of food. When Moana interrupts and begs help to restore the heart, Tui leaves in anger and says he should have burned the boats in the cavern ages ago. He takes the stone from Moana's hand, saying it's merely a rock, and throws it into the bushes. When Moana retrieves it, she finds her grandmother's walking stick. Just then, a warrior calls to the chief. Tui and Moana run to their hut to find Tala lying in bed, unwell. Whispering, she tells Moana to take the heart and find Maui. She gives her the necklace to hold the heart in and tells Moana she'll always be with her. Moana leaves and her mother helps her pack. From the cavern, Moana takes the small canoe with a spiral painted on the sail. Once on the water, Moana looks back and sees her grandmother's spirit in the form of a manta ray flying toward her. It illuminates safe passage for her and Moana makes it to the sea. She struggles to sail properly, following the hook constellation, and even discovers that Heihei has stowed away. One night Moana's canoe capsizes just before a storm hits and Moana is washed up on a rocky island. Angry that the ocean didn't help her when she asked, Moana is still relieved that she didn't lose the heart of Te Fiti. Then, she notices hook-shaped marks dotting the rocks on the island and realizes that the ocean has delivered her to Maui. She ducks behind her canoe as Maui approaches, preparing herself, but Maui easily lifts the canoe with one hand, excited to see a boat. Moana confronts him but Maui interrupts and begins boasting about all his exploits (song: \"You're Welcome\"), using his Mini-Maui tattoo to show off his accomplishments displayed as numerous tattoos all over his body. Maui tricks Moana and traps her in the cave he lived in while he plans to commandeer her canoe, despite protests from Mini-Maui. Moana escapes the cave and jumps into the ocean as Maui sails away. Moana tries to catch up and is assisted by the ocean which deposits her quickly onto her canoe. Despite repeatedly throwing her overboard, Moana is returned to the boat by the ocean and she demands of Maui that he help her restore the heart. Maui tries to throw the heart away but the ocean throws it back at him. Then he tries to swim away, but the ocean puts him back. He claims that the stone is not a 'heart' but rather a curse that lost him his hook and that bad things are always trying to find it. At that moment, a spear lands on the boat, just missing Heihei. Behind them a massive object moves out of the fog. Maui recognizes the small coconut creatures and their large ship as Kakamora - tiny, mischievous pirates. Moana begs the ocean to help them, but Maui tells her that the ocean doesn't help; they help themselves. He is shocked to find out Moana can't sail and does all he can to evade the Kakamora, but they latch onto Moana's canoe with their spears and board the craft. They knock Moana down and the heart falls out of her necklace. Heihei gobbles it up but the Kakamora steal him. Maui tries to escape but Moana takes the oar and goes after Heihei. She manages to retrieve him in a flurry of paralyzing blow darts and zip-lines herself back to her canoe. She and Maui just barely escape as the Kakamora's boats collide into each other. Afterward, Maui is still hesitant to return the heart but Moana convinces him by saying that he would be restored to the hero he once was. She agrees to help him retrieve his hook before setting a course for Te Fiti and then asks him to teach her to sail. At first Maui refuses, but the ocean uses a leftover blow dart to paralyze Maui, forcing him to tell Moana what to do. He shows her how to wayfind, using celestial navigation. They make their way to a tall, rocky spire in the middle of the ocean. At the top is the entrance to Lalotai; the realm of monsters. Maui opens the entrance and he and Moana drop into the realm. Moana evades an array of monsters and eventually finds the entrance to the lair of Tamatoa, a creature Maui said would have his hook since he loves to collect shiny and valuable objects. Using her as bait, Maui sends Moana into the lair where Tamatoa captures her. While Maui sneaks up from behind, Moana distracts Tamatoa by inciting him to brag about himself and Tamatoa obliges (song: \"Shiny\"). Maui then takes his hook and attempts to shapeshift, but it's been so long that he can't control his powers. Tamatoa places Moana in a cage and focuses on Maui as he finishes his song. Then, Moana uses some bioluminescent algae to create a false heart of Te Fiti and distracts Tamatoa with it while she and Maui escape. Using a geyser, Maui and Moana are shot back to the surface. Back on top, Maui is sincere for once, humbled by the fact that he can't shapeshift. On the canoe, he tells Moana that they have no chance of defeating Te Ka, even with his hook back. Moana then asks him about a tattoo on his back that he noticed earlier but Maui is hesitant to talk about it. After some persistence, he gives in and tells Moana he earns his tattoos which show up magically. The one on his back was his first; he was born to human parents but they didn't want him and threw him into the sea. The gods took pity on him and made him the demigod Maui, giving him his fish hook. But Moana tells him that it's not the gods who make him Maui - it's him. With this renewed confidence, Maui tries shapeshifting again, starting small, and this time is able to control his powers. He teaches Moana how to sail properly and, by morning, compliments Moana on her abilities just as they reach Te Fiti. With the island in view, Moana gives Maui the heart and wishes him luck. He shifts into a hawk and flies toward the island but Te Ka rises up to confront him. Maui is knocked out of the sky once more and retreats to the canoe. Moana tries to sail past Te Ka despite Maui's protest. Te Ka lunges at them and Maui deflects with his hook but the force sends their canoe hurtling back out to sea. When she comes to, Moana finds Maui brooding over his broken hook. Distraught over this, Maui angrily blames Moana for not listening to him and says that one more hit to his hook will destroy it. He says he's done helping her, transforms into a hawk, and leaves. Saddened, Moana asks the sea why it brought her here and begs it to choose someone else, giving the heart back to it. She breaks down as she watches the heart sink into the depths but then sees a manta ray spirit swimming toward the canoe. Her grandmother appears and offers comfort, saying that if Moana wants to go home, she'll be with her. However, Moana hesitates and realizes that, in her heart, she was meant to do this (song: \"I Am Moana\"). She sees visions of her ancestors and, with their strength, dives into the sea and retrieves the heart. When she surfaces, her ancestors and grandmother are gone but she prepares the canoe, stows Heihei safely in the cargo, and sails back toward Te Fiti. At the barrier islands, she tricks Te Ka and speeds past the rocks, using the water to her advantage since Te Ka can't touch it. Te Ka then sends a giant wave her way, knocking her canoe over and is about to hit her with a blast of fire but Maui appears and defends Moana, giving her enough time to make it to Te Fiti. When she gets there, however, Moana finds that the entire island of Te Fiti is gone; the shape of the goddess gouged beneath the water all that remains. Turning back, she then notices a spiral symbol on Te Ka's chest and realizes the truth. Holding the heart above her, she grabs the attention of Te Ka before it's able to deal a blow to Maui, who has by now completely lost his hook. Moana tells the ocean to clear a path for Te Ka to reach her and goes to meet Te Ka face to face. Moana tells Te Ka that this is not truly who she is. Te Ka's fires go out as she calms down and Moana places the heart back within the spiral on Te Ka's chest. Restored, the lava rock falls away to reveal Te Fiti, lush and green once more. She returns to her island and takes Moana and Maui in her hand. Maui is apologetic for having taken Te Fiti's heart and the goddess rewards him with a brand new fish hook and gives Moana a new canoe to sail in. Then, the goddess is finally able to rest. Moana asks Maui to come back with her since her people will need a master wayfinder. Maui says they already have one and bids Moana farewell. Moana sails back to Motonui where the flowers and fruit are blossoming again since the darkness has been defeated. She is reunited with her people and her parents. The ocean gives her a pink seashell which Moana places on the sacred mountain before helping her people take the fleet of boats out to begin voyaging once again. She teaches them to sail and wayfind and revels in her new role with her grandmother's manta ray spirit guiding her and Maui flying beside her.",
+      "writers": [
+         "Jared Bush",
+         "Ron Clements"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt3521164/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Auli'i Cravalho",
+         "Dwayne Johnson",
+         "Rachel House"
+      ],
+      "reviews": [
+         "Tell me if you've seen this movie: Princess wants to do something a parent doesn't want her to do. Close friend/relative inspires her to be/do it anyway. Princess meets wacky sidekick. Prince and wacky sidekick don't get along but are forced to work together. Princess and wacky sidekick bond. Conflict happens and princess and wacky sidekick part ways. Princess continues on. Wacky sidekick shows up out of nowhere to help princess. Princess and wacky sidekick win, become friends forever. Parent realizes they were wrong, encourages princess to be/do whatever. I felt like I already knew the plot to this film because I had seen it 100 times before. Why didn't I rate it lower? Because it's visually stunning. The style of this film is very unique and I like the way they wove Samoan artistic sense into it. I found myself mesmerized at the water effects and the animals more than anything else. Fun for kids, but nothing you haven't seen before.",
+         "Wow, what a great great movie! The visuals in this movie are breathtaking!! They are so gorgeous! But, besides the visuals there is such a heart and imagination and creativity to this movie. Moana is such a likable, smart, and relatable person. the voice work for Moana is so sweet and so good. The chemistry between Moana and Maui is so great and so natural. The songs in this movie are so charming, catchy and fun! But, How Far I'll Go is such an emotional song and it has such heart...I dare say I like it a little more than Let It Go! The way Moana sings it and you can feel it!! Wow, I just looved this movie and it is great for kids and adults. I will always love it and I wanna see it again!",
+         "Instant classic. Easily ranks among the best from the Disney Studio, and a very worthy successor to Mulan 1998, a similar story equally well done. Oddly also seems to be best work ever from Dwayne Johnson, perhaps not the first name I would have associated with \"voice acting,\" but a star turn nonetheless. If you want to be picky -- which is the reviewer's job, after all -- the momentum slows a little at the top of the third act, but the ultimate themes of redemption, forgiveness and self-discovery at the finale are an absolute joy. As they used to say, \"for children of all ages.\"",
+         "Moana is a return to the classic Disney formula, the clichés and characters ripped from a number of other animated films. However, the pure beauty and skill of the production rises the old story into new heights. Following from the success of Zootropolis, Moana follows a more traditional narrative we know and love; the princess who wishes for something more and is whisked on a supernatural adventure. We know this story so well yet Moana seems fresh and thrilling as if the plot was innovative. Perhaps this is due to the Polynesian setting or the morally ambiguous Maui, played perfectly by Dwayne Johnson, but most likely it is it the simple magic of Disney \u2013 the wonder for both children and adults has reached its peak with the perfection of the classic formula. For once, the clichés make the film more enjoyable. The quality of the animation helps too: it's clear they have reached the pinnacle of blending realistic textures with stylised designs, creating an aesthetic beauty that few other companies can match \u2013 Disney have mastered water to the point it looks better animated than in real life! Even the music has been perfected here, the annoying catchiness of Frozen's tunes replaced by memorable but effective songs that fit the culture and setting of our adventure. A childlike warmth was awakened in me and many other adult members of the audience as the film brought the emotional highs of the Disney renaissance without the modern subversion of the classic tropes. While Moana sometimes threatens this with pop culture references, the film thankfully keeps to mostly traditional values and morals; a step above many children's animated films released today. Moana is good, old fashioned Disney magic; the traditional narrative and morals updated with stellar animation and an awareness that's effective but never overpowering enough to threaten the integrity of the Disney formula. SWEET Visit https://sweetorsaltedmoviereviews.com/ for more.",
+         "2016 has been a particularly strong year for animated films. With the likes of Zootopia, Finding Dory and Kubo & The Two Strings all vying for best animated picture of the year, it seems Moana deserves to be mentioned in the same breath as well. It's no fluke that out of the four movies I just mentioned, 3 of them belong under the house of the mouse. Legend has it that demigod Maui stole a sacred stone, the heart of the goddess Te Fiti. The lava demon confronted him and both the heart and Maui were lost forever. Now, the world is slowly dying and someone must find the heart and force Maui to put it back. But who is this chosen one? It might be Moana, a Polynesian girl who is suppose to be taking over as chief of her tribe, but longs to sail beyond the reef. Featuring new comer Auli'i Carvalho as Moana and the most electrifying man in sports entertainment, Dwayne 'The Rock\" Johnson, as the demigod Maui. It's not surprising that I found myself tapping my feet to the songs in this film because Lin-Manuel Miranda, creator of Hamilton, shares his talent with this film. I can easily see any one of the songs in this piece going up for and winning Best Original Song, giving the man the O in the prestigious PEGOT award circle. He currently has a Pulitzer, Emmy, Tony and Grammy, among more. The songs here remind me of the old-school Disney songs, easy to listen to, fun to play on repeat and important to the story. At first, I felt it was a little too on the nose with some of the lyrics, but eventually he won me over and I've been listening to the soundtrack ever since. The film itself might lack some of the intricacies of plot heavy films like Zootopia, but this journey story is entertaining and heartfelt. The vibrant colours of the green islands and the blue sea help propel the film above and beyond what some others films have to offer. The animation takes a nice little turn for the creative when the characters find themselves under the sea in a side villains lair. We are treated with some bioluminescent sequences with another catchy tune not far behind. Johnson is stellar as Maui, he seems completely comfortable in a voice acting role and surprisingly has the chops to sing a tune. Newcomer Auli'i Carvalho holds her own against a star like Johnson and she really gives a strong voice to a driven female character. I applaud that Disney didn't feel the need to shoehorn in a love story either. This is a tale about self discovery, not some young woman needing to find a man. Disney nods and respects their past while looking to the future with Moana. Princesses no longer need to be the 'love' goal of a man. Moana is a visually beautiful film with great songs and a strong female lead character. There are some visually gags for the kids and a great time for adults. Moana is a great film.",
+         "Henny's Movie Review: Moana (aka Vaiana) In three words: A Fun Movie. With Pixar dropping the ball lately it is good to see that Disney is picking it up with great movies like, Tangled, Zootopia and now Moana. Yes, they made a mediocre over-hyped movie named Frozen, read my previous review for my thoughts about that movie. Moana really doesn't disappoint it has a good pacing, a great cast, and it is BEAUTIFUL. I could just leave my review at this and tell you to go and watch this movie, but let's see \"How Far I'll Go\". Moana is a story that takes place in Ancient Polynesia, when a curse reaches the island Mata Nui a chieftain's daughter is determined to go on a journey, to find a demigod named Maui in order to stop the curse. Like most Disney movies this is a coming of age story. Moana is a chieftain's daughter who is struggling with her love for her people and her love for the ocean. She is determined and a strong character. It is wonderful to see her grow and find herself throughout the movie. She is voiced by Auli'I Cravaljo and it fits like a glove, perfect love her accent. Moana is joined by a demigod named Maui. He starts out as an egotistical/funny character but we quickly learn why and see him change for the better. He is voiced by Dwayne \"The Rock\" Johnson and if you know The Rock YOU know what to expect. You can never go wrong with The Rock. Other supporting characters were there to setup the plot and exposition. The music, as expected, was typically Disney which is a good thing because I love Disney songs. After the movie you just can't get it out of your head. All the scores were very good. It did the basics like underscoring a scene but it also carried the movie for a huge part. The three-act-structure. Moana has a great beginning, good middle, and a great ending. Furthermore, the pacing of this movie is fast in a good way. It doesn't hold on to a scene for too long and the movie knows when to cut. The cinematography was beautiful it really shows that the creators have done their research. I love the bright colors and gorgeous sceneries. It would appear that Disney's new approach to movie making is starting to pay-off, by remaking their old animated movies into real-life and mocking their old movies with their new 3d-animated movies, they are breathing new life into their movies. As aforementioned in the introduction Moana is a must see movie that won't disappoint. I give this movie a 8.5.",
+         "From the opening lyrics to the final shot, Moana was a fun glimpse into Polynesian life. Reminds me of Spirit: Stallion of the Cimarron with its depiction of tribal peoples, people who depend on the land and environment to live. As one of the several catchy songs say, the island gives them everything they need. No need to go beyond the reef. I'm glad that Moana and Zootopia, Disney's two most recent feature films, humorously refer to the archetypal Disney traits that appear in film after film -- i.e. an animal sidekick, the heroine bursting into song, following your dreams. Even if they do year after year, it never gets old. (... Well, maybe a little bit. I'm actually jaded by the happy ending trope in practically every work of film, literature, etc. out there. But that's beside the point.) Even if you can predict the ending of Moana, it's not quite what you expected. Disney has recently been changing things up a bit and having creative endings. Frozen, for example. Even if they weren't slightly creative, the story still enacts the Disney magic -- the ability to inspire, motivate, uplift, and ultimately enlighten further on mankind's communal desire to go beyond the norm. You don't have to do something amazing to make a name for yourself. It's not the hook that defines you, it's what you do that defines you and makes you who you are. Just don't follow hard tradition all the time. If someone says you can't achieve your dreams, he/she is most likely right. HOWEVER. That's only true if you don't give it your all. Those right now who are living their dreams gave it their all. If it's something you really want, after all, then naturally you'll give it the necessary effort and force of will. It won't be easy; life wasn't meant to be easy. It's not as amazing as Zootopia, but Moana is still a genuinely good Disney movie. It has a superb single, a nice accompanying soundtrack, great characters, sublime animation with crystal- clear attention to detail, and wonderful themes and messages. I admit, I was expecting too much from Moana after seeing Zootopia, which is probably why I give Moana a 9. Zootopia hits the 10. If you haven't seen either one, I recommend seeing Moana first.",
+         "I have been largely unimpressed with Disney's recent animated movies, and many of my criticisms with them hold true with Moana. Looking back at Wreck-It Ralph, Zootopia, and Frozen, it seems to me that Disney is more interested in building a visually beautiful world than building a great story. This is true with Moana. The animation is wonderful. The world is gorgeous. The story, however, is rather dull and shallow. The world is by design fairly sparse. There aren't a lot of characters in this movie. So to make up for that, the story or the characters need to be particularly compelling. Unfortunately, they aren't. Disney breaks no new ground with Moana's story. That isn't new for Disney, and to be fair, it isn't necessarily a bad thing. Many good movies are just well-done re-imaginings of classic stories. But Moana isn't even that. At every step of the way, I couldn't shake a feeling that I'd seen it all before. The story never gripped me nor did it leave me feeling fulfilled. Thus, the film just feels empty. If either Moana or Maui were engaging characters, this movie could have been good. Despite a good performance from Auli'i Cravalho, Moana had a very small character arc. She was not that different a person at the end of the film than she was at the beginning. For much of the film, she had very little agency of her own. The plot seemed to carry her along, rather than she driving the plot. Maui did everything he could to cause the plot to stall. This could have been great, as his antagonistic attempts to stop the main character could have worked as the central conflict. But since Moana is rarely actually trying to move the plot forward, the conflict just seems to be her-vs-him, which is mildly interesting at best. It's a shame. Moana could have been such a good movie. But it suffers from the same failings as most recent Disney animated ventures: wonderfully crafted world without a story worthy of that world.",
+         "So I watched Moana and boy, what a lazy movie it was. So full of good ideas, squandered on a passable family movie. And yes, I know it's Disney making a family movie, but it had all these ideas that would make a great story if they were taken more seriously. The premise of the movie is basically the whole world dying because of what someone did and they treat this catastrophic event as an annoyance instead of something actually serious. The protagonist is Moana, an absolutely average Disney princess type of character that wants to say no to being stuck in a life of safety and luxury. We've seen it a thousand times by now, it's nothing that stands out or even something logical in the long run since these types of sheltered characters do not know anything about the outside world and are in effect useless on their own. And I have to point this out about her which is one of the many things they didn't bother to clarify. Why is everybody fine with a girl being their leader? Do they have gender equality on this otherwise primitive island? If they do, they never showed it because any other leader we see in their history was a guy. Combined with how she doesn't drown 1 minute after going into the sea with zero experience further proves this movie is empowerment fantasy for little girls instead of a movie where talent and intelligence matter. But it's OK because the scriptwriter did his worst to plot armor her from any possible danger. Because you see, the gods chose her to be the one who restores the world, thus every time she falls in water, a magical wave takes her on the boat. When she doubts her abilities, the ghosts of her ancestors appear to motivate her. She is essentially a plot device fully controlled by the plot instead of doing what she wants and facing the repercussions of her mistakes. And if you think calling her the chosen one properly excuses all the nonsense, it doesn't because the gods make no sense. Why did they wait a thousand years to do something about a disaster that has killed most of the islands, and of all people why did they choose a little girl with no skills or experience of the outside world? They never explain it. Do you know what else they didn't explain? Why her pet pig doesn't grow up. She begins as a little girl and grows up to a teenager, but the damn thing remains a piglet throughout the whole movie. Nobody in the production team gave a damn. The problems don't even stop there. The first thing she has to do is find Maui, a demigod who has been stuck on a barren island for a thousand years and is the only person who can save the world. He is also the one who doomed it, so that makes sense. Also, for a guy who spent a millennium all alone without something to eat or do on a tiny island, he sure looked fine when she appeared. Disney went so safe and lazy on him that he is nothing but a cool guy who does cool things and has absolutely no sex drive, or psychological trauma for being left alone all this time. Accompanying them on their journey is a retarded chicken. It's the most annoying comic relief animal I have seen in my life. It's not funny, it causes more trouble than aid, and they never eat it although they never seem to have enough food. How the hell did it get on the boat in the first place? Moana didn't take it with her, it just appeared out of nowhere in the secret cave nobody had been in for centuries. Nobody in the production team gave a damn. You probably think I am being too harsh on what is supposed to be a dumb movie for kids, when I'm not since they clearly put effort in fleshing out the characters in a way that demands from the story to be better. Moana's father has a good reason for not letting her out in the sea. Maui has a good reason for why he keeps going on adventures and tries to impress the mortals. Even the villain of the movie has a reason for why she is evil. These are really good stuff, and they are ruined by the lazy script. If the movie was like that in all its aspects, I wouldn't be bothered by it. But when you set it up in a way that obviously raises the bar like that, the disappointment multiplies when you treat your good ideas like a joke. I can easily sum up all these problems as cheap resolutions. Everything is fixed way too fast despite the problems building up for countless years. The father changed his mind way too fast and lets his daughter sail in the sea, Maui changed his mind and returned to help her without even showing us how, and the goddess forgives Maui instantly, despite causing her pain and suffering for a thousand years, as well as wiping out the life of countless islands and filling the sea with monsters. Hell, even the disease that was slowly killing the islands went away in a few seconds despite spreading slowly for centuries. This movie is so freaking lazy. The pay-off is not worth the build-up, its ideas are not used properly, and all you end up getting is a generic Disney princess and a retarded chicken.",
+         "I saw \"Moana\" tonight in the local movie theater. I have been wanting to see it since Thanksgiving and expected the audience to be few. To my amazement the cinema was almost full, and I can see why. \"Moana\" is a fabulous movie--it will certainly leave you crying and smiling. I would imagine most of the folks in the audience now have seen it 3 or 4 times. I served a number of years in the Army in Hawaii, so I was attracted to the movie for that reason, and it was certainly a great movie going experience. The animated graphics capture the magic and beauty of Polynesia, the land and the ocean. And the story is a lot of fun. Highly recommended for all ages.",
+         "Set on the Polynesian islands of the South Pacific. 2016's 'Moana', explore the expedition of a young woman, Moana (Voiced by Auli'i Cravalho), who is chosen by the ocean itself to reunite a mystical life-breathing relic with an island goddess, Te Fiti, when it was stolen by the Demigod Maui (Voiced by Dwayne 'The Rock' Johnson). Without spoiling this fictional movie written and directed by John Musker and Ron Clements, too much; though the film heavily influenced by Polynesian's history, myths, & culture, it is not directly based on any specific native tribe like the 1926's documentary film of the same name. Instead, the film takes specific cultural elements from a variety of native Pacific groups and incorporates them into one generalized portrayal of Polynesian culture, in order to make the audience member to identity the story better. Because of that, certain critics has accuse Disney of cultural misappropriation & exploitation, suitable to spur a profitable capitalist enterprise of music, celebrities and merchandise. While, this is somewhat true. I don't think, Disney had much of a choice. They had to avoid setting off cultural taboos. It was lose-lose catch 22 situation. Somebody was bound to get offended, regardless. However, I don't think, this musical is as degrading as certain people make it out to be. It's pretty harmless, compare to other tropical musicals like 1958's 'South Pacific' whom portray its island people as ugly snake oil-sellers, hags who gives give away their really young daughters to military servicemen to screw. If anything, 'Moana' gives a more positive light. Still, some of the characters of the film were drawn, very insensitive. Maui did look like an obese \"half pig half hippo\" man. He did look kinda offensive. Still, much of that blame, come from the Walt Disney Animation Studios animators trying to lighten their load, by replicate the same awkward-looking art style that their 2002's animation film 'Lilo & Stich' was doing, over 14 years ago. Even back then, not a lot of people were fans of the big nose, the huge tights, oddly body structure, and alien-like eyes, type of a drawing for islanders. So, I really don't know, why they try to copy it. I guess, they wanted to focus more on other drawings like the supernatural elements designs. Even with that, those drawings also felt a little too familiar. If anything, the spirits looks like Disney recycling artwork that was previous, used in films like 2000's 'Fantasia 2000' & 2014's 'Lava'. As for animal sidekicks. As much as I love Hei Hei (Voiced by Alan Tudyk) & Pua. They really weren't needed. It did felt, unneeded animation. Despite that, at least, the island CGI background visuals for 'Moana' were breath-taking beautiful. There is no better example of that, then the 'Where you are' & 'We Know the Way', musical sequences. The other visuals like the action sequences, were equally done well. I just wish this Polynesian Prometheus/Odyssey-like fantasy story was told a little better to match the visuals. The action scenes in this film seem a bit force. Plus, it doesn't make much sense. After all, I get that, Moana was chosen by the water spirit; because how much, she cares about aquatic-life, but it doesn't explain, why the supernatural entity couldn't just do the task, itself. Nor does it explain why, the ocean tries to kill Moana with storms, sea-monsters, and lead them into conflicts with sea raiders, in the course of the film. Did the demigod actions make the ocean, bio-polar, as well? Also, what was the point of even having Maui around? He really doesn't do much; besides put Moana in danger. Let's not overlook that Maui also tried to kill Moana by locking her in a cave to die & trying to drown her in the middle of the ocean. Hero!? He's more like the villain. Another thing about the story, is that much of the flashbacks, book-reading and dream cave sequences could had been cut down in editing. All of them, felt a little too much like filler. The movie tends to repeat itself, multiply times; explaining, how Moana's people were, once- island voyagers, before Maui, cause the ocean to become too dangerous; despite the fact, the ocean, somewhat helps them. All the exposition dump come across, tiresome and very jarring. Another thing, that hurts the movie is the fact that the story of a young native princess tries to break free from the strict confines of her society by seeking out, a mysterious stranger in order to save her land, sounds a little too familiar. After all, we seen heroine's adventures like this, before, in half a dozen, Walt Disney Animation Studios films like 1995's 'Pocahontas'. Even acclaim Pixar films like 2012's 'Brave' had these well-worn elements. Don't get me wrong, it's doesn't make 'Moana' into a bad movie, but its presenting nothing, groundbreaking. In the end, this movie in a couple years, might not stand out, as much, as other films from this generation. Despite that, the movie does offer positive messages for younger viewers, about self-discovery and empowerment. And Moana herself is a great role model, demonstrating perseverance, curiosity, and courage, even when face with danger. Cravalho perform her, very well. She is a great singer and has a passable voice. As for Johnson, not so much. His performance was more mediocre, because how dial down, his personality was. However, Johnson does sings one of the catchiest songs in the movie, \"You're Welcome\"; which is a plus. Besides that song, the funniest song is \"Shiny,\" sung by Jemaine Clement; which also really fun to listen to; along with the power ballad, 'How far I'll go'. All great songs, courtesy of creator Lin-Manuel Miranda. All this music, makes 'Moana' soundtrack, worth listening to. Overall: Although. 'Moana' has many big flaws. It still was entertaining. 'Moana' is truly an adventure worth sailing for. So check it out.",
+         "Oh... my... word... A girl wants to go where her dad won't let her, wants to do what her dad won't let her. Hmm.. sound familiar? Little Mermaid, Aladdin, Poca... Pocahontas, Mulan, Brave and just about every modern Disney. Let's look at gender then Disney, seeing as you're OBSESSED with it: Male characters: Dad - scared, repressive, short-sighted, wrong. Demi-God chap - selfish, conceited, vain, ineffective, emotionally repressed, thief. Crab - as above (I'm assuming he's male). Coconut Pirates - murderous but ineffectual (I'm assuming their male). Female characters: Moana - bright eyed, aspirational, quick learner, visionary, empathetic, brave, strong, amazing, indefatigable, indomitable, perceptive. Granny - as above plus supernaturally gifted. Earth Goddess thingy - was only trying to kill people because the male character had robbed her of her precious. Yawn. Increasingly Disney is working as a SJW - righting perceived inbalances in society. They have obviously perceived a gender imbalance biased towards males in society and have therefore produced their own version of the world where the gender imbalance is biased heavily and totally towards the females. Everything else in the film is nice .",
+         "Personally, I thought this movie was boring, so boring to where there were only a couple jokes I found somewhat funny the entire movie, yes this is one of those more song driven movies that are with very little humor, it also appeared as the people I went with(which one of them was a little kid who was laying on one of our arms for half the movie and it wasn't late either, it started at like 12:50 PM I think) wasn't that into it either. First, about the first hour before she got on her adventure was extremely boring, not much was happening and it was all just her not wanting to go, actually during this time, I was so bored, that I went to the bathroom and took my time(usually I run to get back to the movie) and when I got out, I actually got on my phone and looked at how \"bad\" the reviews would be for this movie, it turns out I was very wrong, it has very good reviews and I was surprised. When I got back in there, a little later it got slightly more interesting after she got on her boat, but it still was pretty boring, I even went to the bathroom a second time even though I probably could've held it. I don't think I've been to a more boring movie in my life, the songs seemed pretty generic and I know at least 1 repeated itself later on the movie. I personally didn't care for Frozen either though which I think is the market this is aimed for. This is honestly making me start to lose hope in Disney, I think they've done messed up TV, and now they're messing up movies it seems. I think it is overrated but that's just my opinion. All I can say is that if you like Frozen, you'd probably like this movie. But if you didn't care for Frozen, you'd probably find this one of the most boring movies of your life. I don't even think it's me outgrowing cartoons, I like cartoons but this is just boring, I think it may be they're all aimed for little kids(probably little girls for this one) now, whatever happened to family movies. This movie was so boring, that I was literally able to tell what kind of plot it has, it has a Hero's Journey plot in case you're wondering, I know a lot of movies have the plot, but it's not supposed to be this plain obvious to where I can tell either while or right after I watched the movie. I also think this being about some fictional religion was just weird, like how were the islanders in trouble when the darkness was like halfway around the world, then why would that goddess be that thing that was trying to kill them, it would make more since if we could've saved 10 minutes by her just saying to give her the thing then and that she was the goddess but no, gotta make it obvious about that Hero's Journey plot, seriously. So overall I wouldn't recommend this movie to hardly anyone unless they like Frozen and I personally find this movie very overrated.",
+         "Animation is good (except surely not all Polynesians are so stocky and have such large cankles???). I liked the Moana character and her outfit was cute. Maui not so much, such an overblown caricature it was ridiculous!!! My 9 year old granddaughter thought his moving tattoos were silly. She and her 7 year old brother enjoyed it OK, but I doubt if they would want to see it again. I know I don't!! The plot was formulaic and none of the characters (except Moana) were memorable. I don't recall any memorable songs, either. The movie needed a MUCH better plot and more in-depth characters. Go back to the drawing board, Disney!! Some of my granddaughter's old Barbie movies (like \"Pegasus\") had better and more memorable stories!!",
+         "Another typical Disney movie of princess, magic, spells, curses, and CONFUSION. I wont spoil it but if you like musical girlie types like FRozen then you'll probably love this. Otherwise, trust me you will be like whats going on? Why is this taking so long? get to the point already. It just drags and drags and drags. It is also somewhat predicable..you'll see what i mean if you go see this. But i HIGHLY recommend you Don't waste your time and money on this movie. If you really want to see it that bad..wait for the DVD...trust me it isn't worth it. At one point in the movie even The Rock says please stop singing. Two good things i can say. The short story before the movie started was outstanding. Its called Inner Workings. Absolutely amazing and well done. Moana also exhibits incredible computer animation. Other than that IT IS A HUGE DISAPPOINTMENT. I warned you!",
+         "This film is absolutely fantastic. Great CGI, great story, great voice cast, great music, and all around great everything. This truly is an instant cult classic that is going to go down in history as one of Disneys best. The CGI is beautifully detailed and polished. The sea and the hair of the characters look almost completely real. The story is absolutely amazing as well. It's not only thought provoking, but it also has everything, such as happiness, bravery, poignancy, and it just goes on a perfect flow that fits perfectly with what this film is about. The music is surprisingly pretty great in this film too. I think the writers did a splendid job with that as well. This film is beautifully animated and written, and I can't recommend this film enough for those who haven't seen it yet. I was pleasantly surprised and I think anyone who hasn't seen it yet will be as well.",
+         "A friend and I went with the kids to watch Moana last night. I loved seeing Polynesian islands in animation again. The scenery is beautiful--much more of it, and more vivid compared to Lilo and Stitch. The storyline was typical Disney, of course. I feel like I've seen this movie a dozen times before. I would add that I am getting tired of seeing male characters portrayed as cowardly, ignorant, and/or irresponsible. This movie succeeds in that aspect, which is disappointing. Having sons, it would be nice to see a movie where a young man is the hero. Instead, we seem to find thattoo many of Disney's children's movies feature a heroine with weak male characters around her. Other than the above-mentioned observation and the glorifying of pagan belief systems, it was an entertaining and uplifting movie.",
+         "Disney is such a cliché. This must be the most over-hyped crap of a movie since Frozen. Was Jar Jar Abrams also involved in this? That's how bad and formulaic this thing is. I cannot believe the people who give this a perfect score. is it the first and only film they have seen? This is an awful movie. The first 2/3 of it are just frantic, predictable cultural jokes, and near the end it becomes an awkward mix between true romance/drama and slapstick heroism with the standard-issue 2015/2016 females lead cliché (Ghostbusters, Maleficient, Frozen, Star Wars, X-Men, etc.). Don't be fooled by the long list of great reviews here...they are not reviews they are indications of low class of the writers who compensate for their inadequacies. I'm not even sure what the merit of yet another Disney princess film is, it's so bad. Not recommended unless you are very easily amused, or a mother who must say it was good to keep up with Joneses after the little bratess wanted to go watch it.",
+         "Unlike \"Bolt\" and \"Zootopia\", Disney tried again another musical, i.e., people singing instead of talking. That apart, unlike other Disney musicals, e.g., \"Mulan\" and \"Tangled\", the songs in this film are very repetitive. I lost count of how many time the main character's song is reprised, with maybe slightly different lyrics every time, but I stopped caring after the second one. The explorer's song, one of the few with Polynesian language thrown-in and that doesn't sound like a cheap Western European cartoon musical, is somewhat \"fine\", although also repeated unnecessarily too many times. Maui's and Tamatoa's songs are happily jazzy and unfitting with the film, but helped me to survive till the obvious ending. Yes, the ending is squarely obvious after the first few minutes, just after the story of Maui's deed is told. The producers tried to make it less obvious by hiding the spiral on Te Ka's chest, but it's a Disney cartoon, who couldn't tell that Maui would come back to help (actually, who couldn't tell he would eventually ditch Moana in the worst possible situation, just to raise the \"thrill\"?), who couldn't tell that it would be Moana to fix everything (and not Maui, despite all his godly powers), who couldn't tell that it would have a perfectly colossal happy ending...?! Even the only character to die returns Obi-Wan-Kenobilistically to help Moana (what just makes sense, I guess, as Disney now owns the Star Wars franchise). Seriously, spoilers? Disney created a type of film which makes all spoilers simply meaningless (like, who couldn't tell the ending of \"Frozen\" just by seen the poster, with the two sisters side by side?) Granted happy ending is not fun, at all (and no, watching \"how\" the characters get there is not enough nowadays for enjoyment, this is not opera, this is cinema). Maui is by far the best character, but just like Indiana Jones in \"Raiders of The Lost Ark\", absolutely unimportant for the plot (except for stealing the heart of Tahiti, oops, \"Te Fiti\", which any other unrelated character could have done, any and everything he did was useless to change the course of the story). Maui's self-conscious line asking Moana not to start singing was funny, but the fun vanished swiftly as the songs restarted filling up the space where actual story should be. I have to regard Heihei, the chicken, funny, although fully useless, too (don't worry, if it wasn't there, the stone would have fallen in the ocean, and it would have returned it to Moana, just like it did before). Why is Moana the main character? There was no need for the character to be female, unlike Mulan or Merida. For the plot, Moana could be a shrimp, it wouldn't make any difference. I guess Disney wants to sell more toys to girls, and that's all. According to psychologists, men have a need to outstand, women have a need to fit in (this is not Wikipedia, you look for the references!) Thus, boys take any crap you throw at them, as long as it has flashy LED's and makes a lot of noise. Girls are usually more picky, they use to choose what appeals to them somehow (even if only because \"everybody at school has one\"). Heroines have a better chance to sell them anything, I suppose, so there comes another female leading character. Do you doubt it? Disney went as far as making Maui literally label Moana as a \"princess\", what she vehemently denies, just to make it sink even deeper in the brains of the young. That's pure evil! Talking about evil, why are the parents always the evil people that don't let the heroine be, well, heroic (or even have a little fun)?! It had to be the fun-funny-and-cool, sweeter-than-honey, always friendly/compassionate, knowing-better-than-the-parents Grandmother the one to help Moana. Granny inflamed her desire to disobey her father's orders, which almost got herself drowned, what was exactly what he was trying to save her from (what is also completely nonsensical, as the ocean for far too many times saves her and others from drowning, to the point I stopped worrying that any character could die). That was a very evil message, that anyone can be a better friend than the parents. Sure, there are bad parents out there, but that was clearly not the case, as he was trying to protect her. Disney poisoning! The plot has so many holes (some of which I have already exposed) that the ending is almost detached from the rest of the film. For example, why didn't the ocean simply return the stone to Te Fiti, why did it need a human to do the job? Moana wouldn't be able to do it without the help of the ocean, which opened a path to Te Ka. The background message, \"don't mess with Nature\", was weak, far below \"Mononoke Hime\" or even \"Over The Hedge\". It's absolutely unbelievable that this film got such high scores. Those scores tell much more about the \"status quo\" of contemporary society than the film's quality. Why do I bother coming here to blemish this film? Because it's an evil film, by an evil corporation, watched by too many children out there.",
+         "The positives: -Great soundtrack. FROZENesque, epic, catchy monologues that repeat in your head. Added with Lion King like incomprehensible but fun tunes with a Hawaiian twist this time. -Beautiful and creative visuals. One in particular I enjoyed a lot was the UNDER underwater world where the ocean served as the sky. The striking beautiful blue/turquoise water with lush green islands were treat for the eyes -No silly, typical Disney, forced romances. -Passes the Bechdel test easily The negatives: -Filled with clichés, unoriginal and overused themes, tropes, characters and dialogue etc.... -A lot of trouble with building engagement early on. All over the place with a lot of shifts -Annoyingly predictable, unfunny characters. Specially Maui with such cringe worthy, lame jokes. Maybe i'm too old to be amazed by easy punch lines, that end of the day are meant for kids -difficulty with tonal focus. -unnecessary, out of place scene with coconut pirates that add nothing to the story -lacked the charm and wonder i expect in a kids movie. My rating: -5/10 -Neither original or interesting but has one or two things going for it to be not disregarded. -Compared to other animated family movies this year, I would rank this below Finding Dory but above The Secret Life of Pets.",
+         "Moana is simplistic plot. Surround a young quasi-islander girl with a big over-weight quasi-demi-god, a few animal \"friends\", a father afraid of going out beyond the reef because his friend drowned? and a need to return a stone to its source because that demi-god stole it? while disrespecting the father/chief? and becoming a leader of the people before the father dies? of which, women weren't allowed to be chiefs? Disney's ability to dilute any folklore is well-known, in order to make a quick buck by selling junk merchandise to kids. The tattoo suit was a terrible idea, but kudos for pulling it off the shelf quickly. Disney has a habit also of producing \"girl power\" movies, which I find to be cookie-cutter style. Disney has found a formula and they rinse-repeat with the characters, music and script. Recently this has been true with movies like Frozen, Tangled and Brave. In the meantime, Disney ignores the male lead role with the ability to change and overcome challenges in life. (12) movies in the past have featured male leads but none of which meet the standards set forth today by Disney standards for female lead roles. No, I don't include Pixar movies. Of those (12) movies, only two have meaningful scripts and two have sad endings. Peter Pan (1953), Sword in Stone (1963), Jungle Book (1967/2016), Black Cauldron (1985), Aladdin (1992), Hunchback (1996), Hercules (1997), Tarzan (1999), Emperor's New Groove (2000), Treasure Planet (2002), Brother Bear (2003), Meet Robinson's (2007). I could really dig deep and trash this movie for all the things they got wrong, but I'm going to skip it and just point out the few things I liked about the movie. (1) The animation is good. (2) The movie is about the Pacific Islanders. (meh) There was one tune I thought was catchy, the rest were crap That's it. The rest of the movie is junk to me. It is a cookie- cutter movie with the same theme, with the same songs, with the same direction. Sure there are some amusing parts of the movie, but over all I really didn't care for it. I also was disappointed in the use of \"Disney staff from the Disney resort\" who are of native heritage for the bonus features. It became obvious to me that Disney was doing a fluff piece to show the general public that \"islanders\" love working on the movie, which is a partial truth. Overall this movie is an amusing production which will satisfy the little kids and the simpletons. If Disney really wanted to make a movie about diversity they could make the same movie about a gay boy trying to be chief after his father dies.",
+         "First I have to admit I do not like the name Moana. It sounds like someone is moaning. Moan-aaaa ahhhh no I really don't understand some people who have voted with ten stars this movie. It was not fun..predictable ..and not respected a lot the need to challenge. I think there is something suspicious is happening with the positive criticism here...simply don't listen to these trolls talking hallelujah about this movie claiming is it perfection - yes 10/10. I just feel sad for those who have give to that film that high rating. They are fooling themselves and I guess they have issues that need to take care of this issues with some professional help. I believe it is so unfair to see that a non entertaining comedy has 9 or 10 rating...and a fan movie has a low rating...all this makes me think that actually the rating system in here is for trash heads. Great job Disney...hope you stop buying votes in the future.",
+         "The most positive thing I can say about this movie is that it adheres to the formula very faithfully and it is not an unapologetic butchery like the new Star Wars. Apparently however, whether because of a lack of creativity or despite it, this film is extremely uncreative. At its best, which is a word one should not use about this film, it's how you imagined it. At its worst, if you've already watched Frozen, Snow White or Little Mermaid, it is frankly boring to watch and may disrupt the fancies of your imagination: I never imagined a girl sailing the ocean with a beefcake. The special effects don't go that far beyond stage play level and certainly don't live up to the reviews' descriptions. This movie has not been released to do anything new, and it's not worth the trouble obtaining watching in the theatre with 50 kids on smartphones around you. Read a book, cook or bake, actually talk to your children and think for yourself, or if you must enjoy some other movie on the same theme.",
+         "I hate this Movie. Ironnicly,as I was walking up the stairs and into my seat, I had HIGH expectations. As I sat down excitement and the movie began...I hated the first few minutes. A few minites later added to the fire of my already burning hatred for it. Add 1 hour and 47 mins to that and I'm already clawing my eyes out. I'm gonna make this sweet and short. I felt like I was watching Frozen all over again, just with even more horrendous singing and somehow an even worse script. None of the jokes made me laugh, the best character in the whole movie was the chicken with the only trait as a character is being stupid and vulnerable and the only reason I didn't leave theatre was because it was new year's eve and I had nothing else to do. Can I say this?... This movie sucks.. 4/20(2/10)",
+         "So Moana was boring. Not entirely a typical family and kids movie, but still very much in the same vein. It's not very funny, it relies on musical numbers more than it should and those musical numbers are mostly boring or annoying. There's a few good singing parts in it, but it's overshadowed by annoying musical numbers. It relies on pop-culture which is really out of place in a movie that's about Polynesian legends. One of the main characters makes a joke about Twitter in the movie which is completely out of taste and just isn't funny. It's a great visual spectacle, but a poor plot, but would hold up on its own it if wasn't throwing strange out of place jokes and very modern character behavior. I had very high hopes for this movie, and it really was a let down. It was boring, and rather shallow. At best from me a 5/10."
+      ],
+      "genres": [
+         "Animation",
+         "Adventure",
+         "Comedy",
+         "Family",
+         "Fantasy",
+         "Musical"
+      ],
+      "productionCompanies": [
+         "Walt Disney Animation Studios",
+         "Walt Disney Pictures"
+      ],
+      "summaries": [
+         "Moana Waialiki is a sea voyaging enthusiast and the only daughter of a chief in a long line of navigators. When her island's fishermen can't catch any fish and the crops fail, she learns that the demigod Maui caused the blight by stealing the heart of the goddess, Te Fiti. The only way to heal the island is to persuade Maui to return Te Fiti's heart, so Moana sets off on an epic journey across the Pacific. The film is based on stories from Polynesian mythology.",
+         "Moana is a daughter of the chief of her tribe. Coming from a long line of navigators she sets off for a fabled island with the demigod Maui. Along the voyage they battle all which the ocean hides, while learning what the power of persistence and faith can accomplish.",
+         "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master wayfinder. Together, they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.",
+         "In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right."
+      ],
+      "budget": 150000000
+   },
+   "movielensId": 166461,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2016-11-23",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Ron Clements",
+         "John Musker"
+      ],
+      "runtime": 107,
+      "movieId": 166461,
+      "title": "Moana",
+      "mpaa": "PG",
+      "actors": [
+         "Auli'i Cravalho",
+         "Dwayne Johnson",
+         "Rachel House",
+         "Temuera Morrison",
+         "Jemaine Clement",
+         "Nicole Scherzinger",
+         "Alan Tudyk",
+         "Louise Bush",
+         "Chris Jackson",
+         "Oscar Kightley",
+         "Troy Polamalu",
+         "Puanani Cravalho"
+      ],
+      "imdbMovieId": "3521164",
+      "originalTitle": "Moana",
+      "genres": [
+         "Animation",
+         "Adventure",
+         "Comedy",
+         "Family",
+         "Fantasy",
+         "Music"
+      ],
+      "youtubeTrailerIds": [
+         "C6PbWhWGUrY",
+         "pylCYlsjEK0",
+         "LKFuXETZUsI",
+         "8vGjmZNbKGE",
+         "xBnMBU1DhFU"
+      ],
+      "plotSummary": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
+      "tmdbMovieId": 277834,
+      "avgRating": 3.86101,
+      "releaseYear": "2016",
+      "numRatings": 2457,
+      "posterPath": "/z4x0Bp48ar3Mda8KiPD1vwSY3D8.jpg"
+   }
+}

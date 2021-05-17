@@ -1,0 +1,2262 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "circus",
+            "id": 291
+         },
+         {
+            "name": "witch",
+            "id": 616
+         },
+         {
+            "name": "magic",
+            "id": 2343
+         },
+         {
+            "name": "hope",
+            "id": 3929
+         },
+         {
+            "name": "illusion",
+            "id": 4662
+         },
+         {
+            "name": "lost",
+            "id": 44451
+         },
+         {
+            "name": "magic trick",
+            "id": 172365
+         },
+         {
+            "name": "wizard",
+            "id": 177912
+         },
+         {
+            "name": "3d",
+            "id": 209714
+         }
+      ],
+      "imdb_id": "tt1623205",
+      "video": false,
+      "title": "Oz: The Great and Powerful",
+      "recommendations": [
+         81005,
+         60304,
+         58595,
+         82690,
+         62177,
+         82654,
+         76492,
+         49519,
+         81188,
+         62764,
+         1930,
+         72710,
+         14869,
+         57800,
+         62213,
+         49529,
+         32657,
+         20352,
+         18823,
+         57165
+      ],
+      "backdrop_path": "/4jv4TsBccZt60ltlPYmL8vaG8cu.jpg",
+      "revenue": 491868548,
+      "reviews": [
+         {
+            "author": "Andres Gomez",
+            "id": "515a0b56760ee35bb4009adf",
+            "content": "Overdone movie for children, with tiring tricks thought for 3D but a poor animation that becomes boring for its colorfulness. If you are a kid, you may enjoy, if you are an adult, better pass ...",
+            "url": "https://www.themoviedb.org/review/515a0b56760ee35bb4009adf"
+         },
+         {
+            "author": "Per Gunnar Jonsson",
+            "id": "5ab3dc190e0a265f3000bb51",
+            "content": "I think I have never seen a movie with such (over)saturated and vibrant colors. Well, that is apart from the first few minutes which are in black and white as some tribute to the \u201coriginal\u201d Wizard of Oz movie. Surprisingly enough it works quite well. The sceneries and landscapes are beautiful to watch in just the right fairy-tale style that you would expect from the land of Oz.\n\nThe story is pretty much a prequel to the original Wizard of Oz story. Something which does not really intrude too much for most part of the movie but becomes painfully obvious in the last couple of scenes. As for the general story it is pretty much okay. It pleased the kids for sure and I would say that is the main goal of this movie. For adults well, as I said it is okay but not really much more.\n\nThe lead character can be infuriating at times with his \u201cdubious ethics\u201d as the blurb words it. Unfortunately he never really manages to convey that likable rascal attitude that one would have hoped for. He somehow just stays a rather bland character with \u201cdubious ethics\u201d. I think this goes for most of the other main characters as well. Except for the dubious ethics of course which for the other characters are either plain good or totally and without a doubt bad ones.\n\nOn the whole I would say that the movie was okay but never really reached any higher than that. For a kid it was probably somewhat better than okay. I did enjoy the movie although this was mostly for the unusual and vibrant colorization and the lovely scenery.",
+            "url": "https://www.themoviedb.org/review/5ab3dc190e0a265f3000bb51"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Oz",
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d19e5",
+               "name": "James Franco",
+               "profile_path": "/m9he3UnbmAAxkV1XH2EmzkNfkaS.jpg",
+               "id": 17051,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Theodora",
+               "gender": 1,
+               "credit_id": "52fe47a1c3a368484e0d19e1",
+               "name": "Mila Kunis",
+               "profile_path": "/6Lp9qPkMO740Hcp8NBYZZLWWvJF.jpg",
+               "id": 18973,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Evanora",
+               "gender": 1,
+               "credit_id": "52fe47a1c3a368484e0d19dd",
+               "name": "Rachel Weisz",
+               "profile_path": "/3QbFXeiUzXUVUrJ7fdiCn7A7ReW.jpg",
+               "id": 3293,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Annie / Glinda",
+               "gender": 1,
+               "credit_id": "52fe47a1c3a368484e0d19e9",
+               "name": "Michelle Williams",
+               "profile_path": "/xaRSSWD3jD1KpyjWgzzDP5lO5DS.jpg",
+               "id": 1812,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Frank / Finley",
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d19ed",
+               "name": "Zach Braff",
+               "profile_path": "/9FlETKKU88h8coz1YJhB7GwJJRZ.jpg",
+               "id": 5367,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Master Tinker",
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d19f1",
+               "name": "Bill Cobbs",
+               "profile_path": "/cP2ETKFdk93z4e1oXZVG0utI3IM.jpg",
+               "id": 8854,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Girl in Wheelchair / China Girl",
+               "gender": 1,
+               "credit_id": "52fe47a1c3a368484e0d19f5",
+               "name": "Joey King",
+               "profile_path": "/Al8fXl18U4AwYP4wMVkHovfXk5n.jpg",
+               "id": 125025,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Knuck",
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d19f9",
+               "name": "Tony Cox",
+               "profile_path": "/5b7fTm33ZblMhMhnwK8KqTJ3nry.jpg",
+               "id": 19754,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Winkie General",
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d19fd",
+               "name": "Stephen R. Hart",
+               "profile_path": "/ug7iJfFhZXTmB7UoBhQKrkB09Ia.jpg",
+               "id": 224723,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "May",
+               "gender": 1,
+               "credit_id": "52fe47a1c3a368484e0d1a01",
+               "name": "Abigail Spencer",
+               "profile_path": "/fgZbOTTcMZzsYFYYgv9XlT2SLQq.jpg",
+               "id": 123725,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Winkie Gate Keeper",
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a05",
+               "name": "Bruce Campbell",
+               "profile_path": "/hZ2fW0gpPIBvXxT5suJzaPZQCz.jpg",
+               "id": 11357,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Skeptic in Audience",
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a09",
+               "name": "Ted Raimi",
+               "profile_path": "/qwul2LI7FzzfypJvo7zth2vvwuR.jpg",
+               "id": 11769,
+               "order": 11
+            },
+            {
+               "cast_id": 48,
+               "character": "Strongman",
+               "gender": 0,
+               "credit_id": "566ada069251415ec5004bd4",
+               "name": "Tim Holmes",
+               "profile_path": "/4KCrNhNa1IuSEzr32PKVFvEIISj.jpg",
+               "id": 150673,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Strong Man's Wife",
+               "gender": 1,
+               "credit_id": "52fe47a1c3a368484e0d1a0d",
+               "name": "Toni Wynne",
+               "profile_path": "/tZF1m5wYTzDDibl4WYyfSD9Vw0I.jpg",
+               "id": 99932,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Firebreather",
+               "gender": 0,
+               "credit_id": "52fe47a1c3a368484e0d1a11",
+               "name": "Rob Crites",
+               "profile_path": "/5ff5zssIwRncmMSkfOIlSeYtUeA.jpg",
+               "id": 1157664,
+               "order": 14
+            },
+            {
+               "cast_id": 47,
+               "character": "Front Gate Barker",
+               "gender": 2,
+               "credit_id": "566ad87bc3a36833b6004e1b",
+               "name": "William Dick",
+               "profile_path": "/fI995EhgmJzIU34RXNkbxxnDOeG.jpg",
+               "id": 36095,
+               "order": 15
+            },
+            {
+               "cast_id": 50,
+               "character": "Wild West Barker",
+               "gender": 0,
+               "credit_id": "5873d6e0c3a368174c010600",
+               "name": "Gene Jones",
+               "profile_path": "/fiKIuNqja9okZmYEo7R0XN4gKNT.jpg",
+               "id": 1194944,
+               "order": 16
+            },
+            {
+               "cast_id": 51,
+               "character": "Oz's Tent Barker",
+               "gender": 0,
+               "credit_id": "5873d7299251410e6800ed7a",
+               "name": "John Lord Booth III",
+               "profile_path": null,
+               "id": 1271755,
+               "order": 17
+            },
+            {
+               "cast_id": 52,
+               "character": "Concessioneer",
+               "gender": 1,
+               "credit_id": "5873d7729251410e7100ec62",
+               "name": "Suzanne Keilly",
+               "profile_path": "/2aDDCg4qAEE9PNzJUPxtmKUIppf.jpg",
+               "id": 220557,
+               "order": 18
+            },
+            {
+               "cast_id": 53,
+               "character": "Girl in Wheelchair's Mother",
+               "gender": 1,
+               "credit_id": "5873d79ac3a368174c0106f0",
+               "name": "Shannon Murray",
+               "profile_path": "/en0fLIVMH66qGSXGpsbhwXPLJ75.jpg",
+               "id": 1454303,
+               "order": 19
+            },
+            {
+               "cast_id": 54,
+               "character": "Girl in Wheelchair's Father",
+               "gender": 2,
+               "credit_id": "5873d7aac3a368174c01070f",
+               "name": "Ralph Lister",
+               "profile_path": "/iCSm0TEPcsBx0r118zVfaO8bphz.jpg",
+               "id": 1494289,
+               "order": 20
+            },
+            {
+               "cast_id": 55,
+               "character": "Disgruntled Kansas Man",
+               "gender": 0,
+               "credit_id": "5873d7bd9251410e6800ee3d",
+               "name": "John Manfredi",
+               "profile_path": "/axRZWTzwxJYDGOweXYBmJyarWKt.jpg",
+               "id": 1018967,
+               "order": 21
+            },
+            {
+               "cast_id": 56,
+               "character": "Disgruntled Kansas Man",
+               "gender": 0,
+               "credit_id": "5873d7cb9251410e6500f6ec",
+               "name": "Robert Stromberg",
+               "profile_path": "/gqP1k0dJxRVj08xudosdROOn2UK.jpg",
+               "id": 1032536,
+               "order": 22
+            },
+            {
+               "cast_id": 57,
+               "character": "Coochie Girl",
+               "gender": 0,
+               "credit_id": "5873d7e1c3a3681770010154",
+               "name": "Channing Pierce",
+               "profile_path": "/zDjI83WRyMAuSQb4dGBg6zF2e3c.jpg",
+               "id": 1735970,
+               "order": 23
+            },
+            {
+               "cast_id": 58,
+               "character": "Clown",
+               "gender": 0,
+               "credit_id": "5873d7f29251410e6500f70b",
+               "name": "Brian Searle",
+               "profile_path": "/fxJ1TaYQHvdWwrCuajzQuz3d9N0.jpg",
+               "id": 1735971,
+               "order": 24
+            },
+            {
+               "cast_id": 59,
+               "character": "Mr. Baum",
+               "gender": 0,
+               "credit_id": "5873d80a9251410e7300f302",
+               "name": "Russell Bobbitt",
+               "profile_path": "/5KW97eHDacxWlBkhtyasBUETJcR.jpg",
+               "id": 1004624,
+               "order": 25
+            },
+            {
+               "cast_id": 60,
+               "character": "Quadling Greeter",
+               "gender": 1,
+               "credit_id": "5873d81f9251410e6b00e7de",
+               "name": "Julie Gershenson",
+               "profile_path": "/k2IawYBbiVkR9vC0MWUDmkuhhNR.jpg",
+               "id": 1735972,
+               "order": 26
+            },
+            {
+               "cast_id": 61,
+               "character": "Quadling Man with Flowers",
+               "gender": 0,
+               "credit_id": "5873d852c3a36817700101da",
+               "name": "Dan Nelson",
+               "profile_path": null,
+               "id": 1735973,
+               "order": 27
+            },
+            {
+               "cast_id": 62,
+               "character": "Quadling Mayor",
+               "gender": 0,
+               "credit_id": "5873d863c3a368174100ea6a",
+               "name": "T.J. Jagodowski",
+               "profile_path": "/kN4BpgUo6ezJTfatIl9kN0xgeP0.jpg",
+               "id": 554395,
+               "order": 28
+            },
+            {
+               "cast_id": 63,
+               "character": "Elder Tinker",
+               "gender": 0,
+               "credit_id": "5873d877c3a368176801162c",
+               "name": "John Paxton",
+               "profile_path": "/bizhhVVs4y8CfHzPfqPYNEvs2eZ.jpg",
+               "id": 19326,
+               "order": 29
+            },
+            {
+               "cast_id": 64,
+               "character": "Quadling Woman with Broom",
+               "gender": 1,
+               "credit_id": "5873d891c3a368175600f70e",
+               "name": "Melissa Exelberth",
+               "profile_path": "/AfsyFFFpdkUhXYZWdrSGRWuiZDS.jpg",
+               "id": 1735974,
+               "order": 30
+            },
+            {
+               "cast_id": 65,
+               "character": "Quadling Farmer",
+               "gender": 0,
+               "credit_id": "5873d8a79251410e7700e8f2",
+               "name": "Steve Forbes",
+               "profile_path": null,
+               "id": 215162,
+               "order": 31
+            },
+            {
+               "cast_id": 66,
+               "character": "Quadling Blacksmith",
+               "gender": 0,
+               "credit_id": "5873d8b8c3a368175e00d22c",
+               "name": "Arnold Agee",
+               "profile_path": null,
+               "id": 1735975,
+               "order": 33
+            },
+            {
+               "cast_id": 67,
+               "character": "Quadling Baker",
+               "gender": 1,
+               "credit_id": "5873d8cac3a3681768011688",
+               "name": "Deborah Puette",
+               "profile_path": "/xBNrEwlyV8DHXjQjDP4Vc6DXQWv.jpg",
+               "id": 1367929,
+               "order": 34
+            },
+            {
+               "cast_id": 68,
+               "character": "Quadling Scarecrow Maker",
+               "gender": 0,
+               "credit_id": "5873d8e29251410e7100eddb",
+               "name": "Julius Kline III",
+               "profile_path": "/2jBnL52BKwebp7bVzICLpkZ5bk0.jpg",
+               "id": 1735976,
+               "order": 35
+            },
+            {
+               "cast_id": 69,
+               "character": "Quadling Seamstress",
+               "gender": 1,
+               "credit_id": "5873d8f89251410e6200f1f6",
+               "name": "Theresa Tilly",
+               "profile_path": "/397OcfzGVZZmdguXA3lS7GVheV4.jpg",
+               "id": 11465,
+               "order": 36
+            },
+            {
+               "cast_id": 70,
+               "character": "Quadling Woman",
+               "gender": 1,
+               "credit_id": "5873d908c3a368174100eafb",
+               "name": "Betsy Baker",
+               "profile_path": "/dKnuMuT5H01UGoVJXeB3HhnvIT5.jpg",
+               "id": 11464,
+               "order": 37
+            },
+            {
+               "cast_id": 71,
+               "character": "Quadling Woman",
+               "gender": 1,
+               "credit_id": "5873d918c3a3681770010283",
+               "name": "Ellen Sandweiss",
+               "profile_path": "/aASlBH7k72WLNTrQOxfWKVB7VQV.jpg",
+               "id": 11462,
+               "order": 38
+            },
+            {
+               "cast_id": 72,
+               "character": "Quadling Child",
+               "gender": 0,
+               "credit_id": "5873d939c3a3681768011714",
+               "name": "Bella Shepard",
+               "profile_path": null,
+               "id": 1591329,
+               "order": 39
+            },
+            {
+               "cast_id": 73,
+               "character": "Quadling Child",
+               "gender": 1,
+               "credit_id": "5873d949c3a368175600f7a9",
+               "name": "Sasha Kida Reynolds",
+               "profile_path": null,
+               "id": 1735977,
+               "order": 40
+            },
+            {
+               "cast_id": 74,
+               "character": "Quadling Child",
+               "gender": 0,
+               "credit_id": "5873d958c3a368174c0108f1",
+               "name": "Ja'Vonne Cousins",
+               "profile_path": null,
+               "id": 1735978,
+               "order": 41
+            },
+            {
+               "cast_id": 75,
+               "character": "Quadling Child",
+               "gender": 0,
+               "credit_id": "5873d9699251410e7100ee57",
+               "name": "Victoria Lurz",
+               "profile_path": "/16syL3vDKIYQBhXDzkAp46p6BHs.jpg",
+               "id": 1283945,
+               "order": 42
+            },
+            {
+               "cast_id": 76,
+               "character": "Quadling Bugle Boy",
+               "gender": 0,
+               "credit_id": "5873d97a9251410e6b00e919",
+               "name": "Dashiell Raimi",
+               "profile_path": null,
+               "id": 1735979,
+               "order": 43
+            },
+            {
+               "cast_id": 77,
+               "character": "Quadling Drummer Boy",
+               "gender": 0,
+               "credit_id": "5873d98d9251410e7100ee86",
+               "name": "Oliver Raimi",
+               "profile_path": null,
+               "id": 1735980,
+               "order": 44
+            },
+            {
+               "cast_id": 78,
+               "character": "Singing & Dancing Munchkin",
+               "gender": 0,
+               "credit_id": "5873d9a29251410e6800f046",
+               "name": "Brandon Hamilton",
+               "profile_path": null,
+               "id": 1735981,
+               "order": 45
+            },
+            {
+               "cast_id": 79,
+               "character": "Munchkin Carriage Driver",
+               "gender": 2,
+               "credit_id": "5873d9e69251410e6200f2df",
+               "name": "Stevie Lee",
+               "profile_path": "/kBeEy85qd7vhCixcC1eEAKst6W5.jpg",
+               "id": 1735983,
+               "order": 46
+            },
+            {
+               "cast_id": 80,
+               "character": "Female Munchkin Rebel",
+               "gender": 0,
+               "credit_id": "5873da2b9251410e6500f968",
+               "name": "Danielle Ragland",
+               "profile_path": null,
+               "id": 1735984,
+               "order": 47
+            },
+            {
+               "cast_id": 81,
+               "character": "Emerald City Man",
+               "gender": 0,
+               "credit_id": "5873da419251410e7100ef35",
+               "name": "Bart McCarthy",
+               "profile_path": null,
+               "id": 1192831,
+               "order": 48
+            },
+            {
+               "cast_id": 82,
+               "character": "Emerald City Man",
+               "gender": 0,
+               "credit_id": "5873da52c3a368174100ec65",
+               "name": "Timothy Patrick Quill",
+               "profile_path": "/uqEBf50uxPVatD20Ct7gnsMHyAk.jpg",
+               "id": 11766,
+               "order": 49
+            },
+            {
+               "cast_id": 83,
+               "character": "Emerald City Boy",
+               "gender": 0,
+               "credit_id": "5873da61c3a36817700103af",
+               "name": "Nicholas Lindsay-Abaire",
+               "profile_path": null,
+               "id": 1735985,
+               "order": 50
+            },
+            {
+               "cast_id": 84,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873da7ac3a368175e00d3a5",
+               "name": "Bill E. Rogers",
+               "profile_path": "/mkvlHQaP21Jor32E74fjY0woF3R.jpg",
+               "id": 1735986,
+               "order": 51
+            },
+            {
+               "cast_id": 85,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873da91c3a368174100eca9",
+               "name": "Dan Hicks",
+               "profile_path": "/p6UEdkL9oJGLRVkMgQtrKvJ3cCl.jpg",
+               "id": 11750,
+               "order": 52
+            },
+            {
+               "cast_id": 86,
+               "character": "Emerald City Citizen",
+               "gender": 1,
+               "credit_id": "5873daa49251410e7700eaaf",
+               "name": "Mia Serafino",
+               "profile_path": "/3dHNl94iOKu3H71udNragyK8Szq.jpg",
+               "id": 87445,
+               "order": 53
+            },
+            {
+               "cast_id": 87,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873dab79251410e7100efb6",
+               "name": "Lanika Wise",
+               "profile_path": null,
+               "id": 1735988,
+               "order": 54
+            },
+            {
+               "cast_id": 88,
+               "character": "Emerald City Citizen",
+               "gender": 1,
+               "credit_id": "5873dacc9251410e6800f190",
+               "name": "Mikayla Bouchard",
+               "profile_path": "/qlfHHBVpx22OLporxCac7xgim62.jpg",
+               "id": 1395067,
+               "order": 55
+            },
+            {
+               "cast_id": 89,
+               "character": "Emerald City Citizen",
+               "gender": 1,
+               "credit_id": "5873daddc3a368174c010ad6",
+               "name": "Nellie Ann Prestine-Lowery",
+               "profile_path": "/dHiHxpwFZroTwW0PBm7INqdI57e.jpg",
+               "id": 1463346,
+               "order": 56
+            },
+            {
+               "cast_id": 90,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873daec9251410e6500fa60",
+               "name": "Emma Raimi",
+               "profile_path": null,
+               "id": 1446431,
+               "order": 57
+            },
+            {
+               "cast_id": 91,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873db01c3a368174100ed22",
+               "name": "Jayne Violassi",
+               "profile_path": null,
+               "id": 1735989,
+               "order": 58
+            },
+            {
+               "cast_id": 92,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873db0fc3a368174100ed33",
+               "name": "Jay Schwalm",
+               "profile_path": null,
+               "id": 1735990,
+               "order": 59
+            },
+            {
+               "cast_id": 93,
+               "character": "Emerald City Citizen",
+               "gender": 1,
+               "credit_id": "5873db20c3a368173100d854",
+               "name": "Wendy Cutler",
+               "profile_path": "/rslz2WoVtcFa1w1GsJIEIN8LhK6.jpg",
+               "id": 1340674,
+               "order": 60
+            },
+            {
+               "cast_id": 94,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873db57c3a368174100ed83",
+               "name": "James Bird",
+               "profile_path": null,
+               "id": 1735991,
+               "order": 61
+            },
+            {
+               "cast_id": 95,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873db6bc3a368175600f9c0",
+               "name": "Kenneth D. Ciszewski",
+               "profile_path": null,
+               "id": 1735993,
+               "order": 62
+            },
+            {
+               "cast_id": 96,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873db7e9251410e7300f66a",
+               "name": "Chester F. Guilmet",
+               "profile_path": null,
+               "id": 1735996,
+               "order": 63
+            },
+            {
+               "cast_id": 97,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873db8fc3a368175600f9db",
+               "name": "Robert Buck",
+               "profile_path": null,
+               "id": 1239388,
+               "order": 64
+            },
+            {
+               "cast_id": 98,
+               "character": "Emerald City Citizen",
+               "gender": 0,
+               "credit_id": "5873db9d9251410e7100f0b7",
+               "name": "Jim Moll",
+               "profile_path": null,
+               "id": 1735999,
+               "order": 65
+            },
+            {
+               "cast_id": 99,
+               "character": "Dancing Munchkin",
+               "gender": 0,
+               "credit_id": "5873dbb29251410e6800f257",
+               "name": "Bernie Allemon",
+               "profile_path": null,
+               "id": 1182345,
+               "order": 66
+            },
+            {
+               "cast_id": 100,
+               "character": "Winkie Guard (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dbd99251410e6d00f67f",
+               "name": "Chidi Ajufo",
+               "profile_path": null,
+               "id": 1285754,
+               "order": 67
+            },
+            {
+               "cast_id": 101,
+               "character": "Kansas Girl (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dbeac3a3681768011a4f",
+               "name": "Talia Akiva",
+               "profile_path": null,
+               "id": 1464485,
+               "order": 68
+            },
+            {
+               "cast_id": 102,
+               "character": "Quadling Girl (uncredited)",
+               "gender": 1,
+               "credit_id": "5873dbffc3a3681768011a67",
+               "name": "AnnMarie Arcuri",
+               "profile_path": "/2EQezoJvMBHE84oEDap4seUZUSM.jpg",
+               "id": 1736003,
+               "order": 69
+            },
+            {
+               "cast_id": 103,
+               "character": "Winkie Guard (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dc1ac3a368173100d935",
+               "name": "Blake Arnold",
+               "profile_path": null,
+               "id": 1736004,
+               "order": 70
+            },
+            {
+               "cast_id": 104,
+               "character": "Emerald City Man (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dc33c3a3681770010596",
+               "name": "Apollo Bacala",
+               "profile_path": null,
+               "id": 1364762,
+               "order": 71
+            },
+            {
+               "cast_id": 105,
+               "character": "Emerald City Woman (uncredited)",
+               "gender": 1,
+               "credit_id": "5873dc4e9251410e7100f15a",
+               "name": "Kelly Bacon",
+               "profile_path": "/eIJYzW7GgQtsIbPkBVS8Axbo1ep.jpg",
+               "id": 1594124,
+               "order": 72
+            },
+            {
+               "cast_id": 106,
+               "character": "Emerald City Resident (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dc719251410e6d00f705",
+               "name": "Barb Baker",
+               "profile_path": null,
+               "id": 1736005,
+               "order": 73
+            },
+            {
+               "cast_id": 107,
+               "character": "Quadling Man (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dc849251410e6b00ec5d",
+               "name": "Ron Baratono",
+               "profile_path": null,
+               "id": 1088597,
+               "order": 74
+            },
+            {
+               "cast_id": 108,
+               "character": "Mayor's Assistant (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dc9a9251410e7300f796",
+               "name": "Cameron Barnett",
+               "profile_path": null,
+               "id": 1092687,
+               "order": 75
+            },
+            {
+               "cast_id": 109,
+               "character": "Quadling #10 (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dcb6c3a3681768011b30",
+               "name": "Robert T. Barrett",
+               "profile_path": null,
+               "id": 1471386,
+               "order": 76
+            },
+            {
+               "cast_id": 110,
+               "character": "Emerald City Man Kevin (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dccd9251410e6200f5b6",
+               "name": "Kevin Wayne Berger",
+               "profile_path": null,
+               "id": 1736006,
+               "order": 77
+            },
+            {
+               "cast_id": 111,
+               "character": "Quadling Child (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dcdb9251410e7700ecd0",
+               "name": "Eric Brakke",
+               "profile_path": null,
+               "id": 1736007,
+               "order": 78
+            },
+            {
+               "cast_id": 112,
+               "character": "Tinker (uncredited)",
+               "gender": 0,
+               "credit_id": "5873dce89251410e6800f3a6",
+               "name": "Wayne Brinston",
+               "profile_path": "/vCufublKaYMYzXWIeAPzdWCWOYf.jpg",
+               "id": 1736008,
+               "order": 79
+            },
+            {
+               "cast_id": 113,
+               "character": "Winkie (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fb6f925141448a00ad9d",
+               "name": "Colin Bryant",
+               "profile_path": "/tsFjeNpGz3qMUYBFQqEO7xIGDJ4.jpg",
+               "id": 1571435,
+               "order": 80
+            },
+            {
+               "cast_id": 114,
+               "character": "Tinker (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fb7ec3a368066c0098cf",
+               "name": "Ron Causey ",
+               "profile_path": null,
+               "id": 146414,
+               "order": 81
+            },
+            {
+               "cast_id": 115,
+               "character": "Quadling Man (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fb93c3a368066c0098dd",
+               "name": "Grady Chambless",
+               "profile_path": null,
+               "id": 1736418,
+               "order": 82
+            },
+            {
+               "cast_id": 116,
+               "character": "Emerald City Citizen (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fbadc3a368067500a468",
+               "name": "Lee Christian",
+               "profile_path": null,
+               "id": 1736419,
+               "order": 83
+            },
+            {
+               "cast_id": 117,
+               "character": "Kansas Magic Show Patron (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fbcb925141448400a212",
+               "name": "Justin Chrzanowski",
+               "profile_path": null,
+               "id": 1736420,
+               "order": 84
+            },
+            {
+               "cast_id": 118,
+               "character": "Emerald City Resident (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fbfe9251414496009498",
+               "name": "Will Clarke",
+               "profile_path": null,
+               "id": 1736422,
+               "order": 85
+            },
+            {
+               "cast_id": 119,
+               "character": "Tinker (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fc0e92514144960094a6",
+               "name": "Michael Clossin",
+               "profile_path": "/wcnPfSP6w9ikZadxTpfHkUIOUQj.jpg",
+               "id": 1558214,
+               "order": 86
+            },
+            {
+               "cast_id": 120,
+               "character": "Kansas Gentleman (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fc23c3a3680686009548",
+               "name": "Zachary Robert Craft",
+               "profile_path": null,
+               "id": 1736424,
+               "order": 87
+            },
+            {
+               "cast_id": 121,
+               "character": "Quadling Carriage Driver (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fc3ac3a3680681009992",
+               "name": "Zac Cunningham",
+               "profile_path": null,
+               "id": 1736425,
+               "order": 88
+            },
+            {
+               "cast_id": 122,
+               "character": "Quadling Farmer (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fc499251414482009d85",
+               "name": "Michael Dault",
+               "profile_path": null,
+               "id": 1736426,
+               "order": 89
+            },
+            {
+               "cast_id": 123,
+               "character": "Winkie (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fc5992514144880099e9",
+               "name": "Omar Diop",
+               "profile_path": "/hdTUeWn6wDzKQYoojreyarFTBiQ.jpg",
+               "id": 18231,
+               "order": 90
+            },
+            {
+               "cast_id": 124,
+               "character": "Emerald City Boy (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fc6b925141448e00941b",
+               "name": "Chase Edwards",
+               "profile_path": null,
+               "id": 1736427,
+               "order": 91
+            },
+            {
+               "cast_id": 125,
+               "character": "Emerald City Girl (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fc7bc3a368067500a515",
+               "name": "Summer Edwards",
+               "profile_path": null,
+               "id": 1736428,
+               "order": 92
+            },
+            {
+               "cast_id": 126,
+               "character": "Theodora's Guard (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fc8c925141448e00942a",
+               "name": "Neil Ellice",
+               "profile_path": null,
+               "id": 1194878,
+               "order": 93
+            },
+            {
+               "cast_id": 127,
+               "character": "Emerald City Girl (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fca4c3a368066c0099a8",
+               "name": "Courtney English",
+               "profile_path": null,
+               "id": 1736429,
+               "order": 94
+            },
+            {
+               "cast_id": 128,
+               "character": "Winkie (uncredited)",
+               "gender": 2,
+               "credit_id": "5874fcb4925141449600955a",
+               "name": "John C. Epperson",
+               "profile_path": "/1jKxIfgKOeQSo3NXxtGzPNYrUsD.jpg",
+               "id": 1154494,
+               "order": 95
+            },
+            {
+               "cast_id": 129,
+               "character": "Mayor of Emerald City (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fccfc3a368067d009b56",
+               "name": "Mike Estes",
+               "profile_path": null,
+               "id": 20251,
+               "order": 96
+            },
+            {
+               "cast_id": 130,
+               "character": "Winkie (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fce19251414482009e10",
+               "name": "Vi Faulkner",
+               "profile_path": null,
+               "id": 1736430,
+               "order": 97
+            },
+            {
+               "cast_id": 131,
+               "character": "Quadling Woman (uncredited)",
+               "gender": 1,
+               "credit_id": "5874fcf59251414488009a9b",
+               "name": "Jessee Foudray",
+               "profile_path": "/qdOqy9oaDEdiQ3yjnWqPdJ7sHc0.jpg",
+               "id": 1207888,
+               "order": 98
+            },
+            {
+               "cast_id": 132,
+               "character": "Emerald City Woman (uncredited)",
+               "gender": 1,
+               "credit_id": "5874fd06c3a368067500a5d3",
+               "name": "Carly Francavilla",
+               "profile_path": "/d1p6kYWkhcldIPkuYky0HxJHieD.jpg",
+               "id": 1736431,
+               "order": 99
+            },
+            {
+               "cast_id": 133,
+               "character": "Tinker (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fd26925141448a00af29",
+               "name": "Logan Fry",
+               "profile_path": "/p50LJCS46Gx52seUQVGguYZFCoF.jpg",
+               "id": 1636759,
+               "order": 100
+            },
+            {
+               "cast_id": 134,
+               "character": "Emerald City Citizen (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fd36925141448e0094e7",
+               "name": "Nesti Gee",
+               "profile_path": null,
+               "id": 1736432,
+               "order": 101
+            },
+            {
+               "cast_id": 135,
+               "character": "Winkie (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fd45c3a368066c009a5b",
+               "name": "Derrick Gilliam",
+               "profile_path": null,
+               "id": 1382396,
+               "order": 102
+            },
+            {
+               "cast_id": 136,
+               "character": "Tinker (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fd559251414491009f03",
+               "name": "Jacob Godzak",
+               "profile_path": null,
+               "id": 1736433,
+               "order": 103
+            },
+            {
+               "cast_id": 137,
+               "character": "Winkie (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fd67925141449400981c",
+               "name": "John D. Green Sr.",
+               "profile_path": null,
+               "id": 1736434,
+               "order": 104
+            },
+            {
+               "cast_id": 138,
+               "character": "Quadling Man (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fd75925141449600964e",
+               "name": "Ryan Groves",
+               "profile_path": null,
+               "id": 1736435,
+               "order": 105
+            },
+            {
+               "cast_id": 139,
+               "character": "Winkie (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fd82c3a368067500a692",
+               "name": "Brice Harris",
+               "profile_path": null,
+               "id": 1736436,
+               "order": 106
+            },
+            {
+               "cast_id": 140,
+               "character": "Quadling Man (uncredited)",
+               "gender": 0,
+               "credit_id": "5874fd909251414496009677",
+               "name": "Nate Hatton",
+               "profile_path": null,
+               "id": 1736437,
+               "order": 107
+            },
+            {
+               "cast_id": 141,
+               "character": "Quadling Woman (uncredited)",
+               "gender": 1,
+               "credit_id": "5874fdcbc3a368067500a709",
+               "name": "Niki Haze",
+               "profile_path": null,
+               "id": 1736438,
+               "order": 108
+            },
+            {
+               "cast_id": 142,
+               "character": "Kansas Man (uncredited)",
+               "gender": 0,
+               "credit_id": "587524efc3a3687c4100189c",
+               "name": "Ron Heisler",
+               "profile_path": null,
+               "id": 1469377,
+               "order": 109
+            },
+            {
+               "cast_id": 143,
+               "character": "Winkie (uncredited)",
+               "gender": 0,
+               "credit_id": "58752504c3a3687c2e001b14",
+               "name": "Hans Ihlenfeldt",
+               "profile_path": null,
+               "id": 1736496,
+               "order": 110
+            },
+            {
+               "cast_id": 144,
+               "character": "Lt. Tinker (uncredited)",
+               "gender": 2,
+               "credit_id": "5875251a9251416aa7001b8e",
+               "name": "Alexander Christopher Jones",
+               "profile_path": "/vEMQgLVlWqehkLvHdR0iVtJDvTD.jpg",
+               "id": 1480067,
+               "order": 111
+            },
+            {
+               "cast_id": 145,
+               "character": "Happy Clown (uncredited)",
+               "gender": 0,
+               "credit_id": "58752531c3a3687c2e001b38",
+               "name": "Roy Kellerman, Jr.",
+               "profile_path": null,
+               "id": 1736497,
+               "order": 112
+            },
+            {
+               "cast_id": 146,
+               "character": "Tinker (uncredited)",
+               "gender": 0,
+               "credit_id": "58752545c3a3687c1d001a8d",
+               "name": "Dennis Kleinsmith",
+               "profile_path": null,
+               "id": 1242060,
+               "order": 113
+            },
+            {
+               "cast_id": 147,
+               "character": "Emerald City Resident (uncredited)",
+               "gender": 0,
+               "credit_id": "5875255dc3a3687c32001b47",
+               "name": "Doug Kolbicz",
+               "profile_path": null,
+               "id": 240758,
+               "order": 114
+            },
+            {
+               "cast_id": 148,
+               "character": "Emerald City Man (uncredited)",
+               "gender": 0,
+               "credit_id": "58752576c3a3687c41001908",
+               "name": "Bryan Lee",
+               "profile_path": null,
+               "id": 1014618,
+               "order": 115
+            },
+            {
+               "cast_id": 149,
+               "character": "Roustabout / Quadling Chimney Sweeper (uncredited)",
+               "gender": 0,
+               "credit_id": "58752589c3a3687c2e001b90",
+               "name": "Kef Lee",
+               "profile_path": null,
+               "id": 1263199,
+               "order": 116
+            },
+            {
+               "cast_id": 150,
+               "character": "Emerald City Man (uncredited)",
+               "gender": 0,
+               "credit_id": "58752596c3a3687c2e001b9e",
+               "name": "Vong Lee",
+               "profile_path": null,
+               "id": 1736498,
+               "order": 117
+            },
+            {
+               "cast_id": 151,
+               "character": "Quadling Woman (uncredited)",
+               "gender": 1,
+               "credit_id": "587525ab9251416aa9001afe",
+               "name": "Amanda Lewan",
+               "profile_path": "/tebU4AzSrJ8bc9nQPkhzkoPKcit.jpg",
+               "id": 1736500,
+               "order": 118
+            },
+            {
+               "cast_id": 152,
+               "character": "Emerald City Resident (uncredited)",
+               "gender": 0,
+               "credit_id": "587525c39251416aad001bd6",
+               "name": "Anna Li",
+               "profile_path": null,
+               "id": 1736501,
+               "order": 119
+            },
+            {
+               "cast_id": 153,
+               "character": "Kansas Popcorn Girl (uncredited)",
+               "gender": 1,
+               "credit_id": "587525e0c3a3687c4100194f",
+               "name": "Linda Linsley",
+               "profile_path": "/odebw1h3gPMeFzHCbADPMhIAo67.jpg",
+               "id": 1736502,
+               "order": 120
+            },
+            {
+               "cast_id": 154,
+               "character": "Emerald City Citizen (uncredited)",
+               "gender": 1,
+               "credit_id": "587525f49251416aaf001bed",
+               "name": "Hannah Madigan",
+               "profile_path": "/litI1leuMwPMIRuqykxvMTYvUz1.jpg",
+               "id": 1736503,
+               "order": 121
+            },
+            {
+               "cast_id": 155,
+               "character": "Emerald City Citizen (uncredited)",
+               "gender": 0,
+               "credit_id": "587526049251416ab6001c39",
+               "name": "Davy J. Marr",
+               "profile_path": null,
+               "id": 1694864,
+               "order": 122
+            },
+            {
+               "cast_id": 156,
+               "character": "Quadling (uncredited)",
+               "gender": 0,
+               "credit_id": "587526159251416ab90019fa",
+               "name": "Johnny Mara",
+               "profile_path": null,
+               "id": 1736504,
+               "order": 123
+            },
+            {
+               "cast_id": 157,
+               "character": "Emerald City Resident (uncredited)",
+               "gender": 0,
+               "credit_id": "587526289251416abc001b22",
+               "name": "Rebecca Mccarthy",
+               "profile_path": null,
+               "id": 1736505,
+               "order": 124
+            },
+            {
+               "cast_id": 158,
+               "character": "Quadling Child (uncredited)",
+               "gender": 0,
+               "credit_id": "5875263e9251416abc001b35",
+               "name": "Julia Metas",
+               "profile_path": null,
+               "id": 1736506,
+               "order": 125
+            },
+            {
+               "cast_id": 159,
+               "character": "Baker (uncredited)",
+               "gender": 0,
+               "credit_id": "5875264e9251416aad001c4d",
+               "name": "Bob Jay Mills",
+               "profile_path": null,
+               "id": 1484161,
+               "order": 126
+            },
+            {
+               "cast_id": 160,
+               "character": "Quadling (uncredited)",
+               "gender": 0,
+               "credit_id": "5875265fc3a3687c29001af3",
+               "name": "Reza Mir",
+               "profile_path": null,
+               "id": 1736507,
+               "order": 127
+            },
+            {
+               "cast_id": 161,
+               "character": "Quadling Woman (uncredited)",
+               "gender": 0,
+               "credit_id": "5875266fc3a3687c410019a1",
+               "name": "Lori Mulligan",
+               "profile_path": null,
+               "id": 1736509,
+               "order": 128
+            },
+            {
+               "cast_id": 162,
+               "character": "Quadling Woman (uncredited)",
+               "gender": 1,
+               "credit_id": "58752680c3a3687c1d001b66",
+               "name": "Jessica Nichole",
+               "profile_path": "/tl8gRrDvDvJdGvkwUZFHiUlW4Ht.jpg",
+               "id": 1561708,
+               "order": 129
+            },
+            {
+               "cast_id": 163,
+               "character": "Emerald City Girl (uncredited)",
+               "gender": 0,
+               "credit_id": "5875269b9251416ab3001b74",
+               "name": "Fionna Noori",
+               "profile_path": null,
+               "id": 1736511,
+               "order": 130
+            },
+            {
+               "cast_id": 164,
+               "character": "Emerald City Resident (uncredited)",
+               "gender": 0,
+               "credit_id": "587526aac3a3687c32001c5f",
+               "name": "Oz Noori",
+               "profile_path": null,
+               "id": 933580,
+               "order": 131
+            },
+            {
+               "cast_id": 165,
+               "character": "Quadling Woman (uncredited)",
+               "gender": 0,
+               "credit_id": "587526bb9251416ab9001a65",
+               "name": "Heather Park",
+               "profile_path": null,
+               "id": 1736512,
+               "order": 132
+            },
+            {
+               "cast_id": 166,
+               "character": "Quadling Woman (uncredited)",
+               "gender": 1,
+               "credit_id": "587526cdc3a3687c2e001ca6",
+               "name": "Jessica Petrik",
+               "profile_path": null,
+               "id": 1736515,
+               "order": 133
+            },
+            {
+               "cast_id": 167,
+               "character": "Quadling (uncredited)",
+               "gender": 1,
+               "credit_id": "587526fac3a3687c20001ac9",
+               "name": "Sage Porter",
+               "profile_path": "/iXyirtF5PWyaMp2XdLySKuJKscA.jpg",
+               "id": 1736517,
+               "order": 134
+            },
+            {
+               "cast_id": 168,
+               "character": "Quadling (uncredited)",
+               "gender": 0,
+               "credit_id": "587527099251416aa7001ce2",
+               "name": "Jor él Quinn",
+               "profile_path": null,
+               "id": 1736518,
+               "order": 135
+            },
+            {
+               "cast_id": 169,
+               "character": "Quadling Man (uncredited)",
+               "gender": 0,
+               "credit_id": "5875272dc3a3687c1d001be5",
+               "name": "Gene Richards",
+               "profile_path": null,
+               "id": 128973,
+               "order": 136
+            },
+            {
+               "cast_id": 170,
+               "character": "Winkie Soldier (uncredited)",
+               "gender": 0,
+               "credit_id": "5875273cc3a3687c41001a31",
+               "name": "Lukas Ridge",
+               "profile_path": null,
+               "id": 1736520,
+               "order": 137
+            },
+            {
+               "cast_id": 171,
+               "character": "Emerald City Resident (uncredited)",
+               "gender": 0,
+               "credit_id": "5875275b9251416aad001d1d",
+               "name": "Nicholas Ritz",
+               "profile_path": null,
+               "id": 935714,
+               "order": 138
+            },
+            {
+               "cast_id": 172,
+               "character": "Fisherman (uncredited)",
+               "gender": 0,
+               "credit_id": "58752788c3a3687c25001aa3",
+               "name": "Ari Rufino",
+               "profile_path": null,
+               "id": 1736521,
+               "order": 139
+            },
+            {
+               "cast_id": 173,
+               "character": "Emerald City Resident (uncredited)",
+               "gender": 2,
+               "credit_id": "5875279fc3a3687c20001b4e",
+               "name": "Anthony J. Sacco",
+               "profile_path": "/nRUNvLCfe43Rs1OEd4GoztuxxED.jpg",
+               "id": 1451618,
+               "order": 140
+            },
+            {
+               "cast_id": 174,
+               "character": "Tinker (uncredited)",
+               "gender": 0,
+               "credit_id": "587527afc3a3687c29001be6",
+               "name": "Keith Schloemp",
+               "profile_path": null,
+               "id": 1736522,
+               "order": 141
+            },
+            {
+               "cast_id": 175,
+               "character": "Tinker (uncredited)",
+               "gender": 0,
+               "credit_id": "587527c19251416aa7001d7f",
+               "name": "David Schwager",
+               "profile_path": null,
+               "id": 1736523,
+               "order": 142
+            },
+            {
+               "cast_id": 176,
+               "character": "Quadling Townsperson #2 (uncredited)",
+               "gender": 1,
+               "credit_id": "587527d19251416aa9001cb3",
+               "name": "Ashley Siloac",
+               "profile_path": "/6knR7GHZIFJkfr8ile4LLJbHFdR.jpg",
+               "id": 1456724,
+               "order": 143
+            },
+            {
+               "cast_id": 177,
+               "character": "Emerald City Resident (uncredited)",
+               "gender": 0,
+               "credit_id": "587527fdc3a3687c41001a9c",
+               "name": "Nikki Smith",
+               "profile_path": null,
+               "id": 1736524,
+               "order": 144
+            },
+            {
+               "cast_id": 178,
+               "character": "Roustabout (uncredited)",
+               "gender": 0,
+               "credit_id": "5875280cc3a3687c32001d70",
+               "name": "Paul J. Spear",
+               "profile_path": null,
+               "id": 1736525,
+               "order": 145
+            },
+            {
+               "cast_id": 179,
+               "character": "Emerald City Citizen (uncredited)",
+               "gender": 0,
+               "credit_id": "587528359251416ab9001b7b",
+               "name": "Rachel Steele",
+               "profile_path": null,
+               "id": 1736526,
+               "order": 146
+            },
+            {
+               "cast_id": 180,
+               "character": "Quadling Angry Townswoman (uncredited)",
+               "gender": 1,
+               "credit_id": "5875284b9251416ab3001ccd",
+               "name": "Amy Sutherland",
+               "profile_path": "/jvR8MgbRZn9RTqv9d6oRZI9O01g.jpg",
+               "id": 1735577,
+               "order": 147
+            },
+            {
+               "cast_id": 181,
+               "character": "Emerald City Resident (uncredited)",
+               "gender": 0,
+               "credit_id": "5875285d9251416aa7001e03",
+               "name": "Eric Adam Swenson",
+               "profile_path": null,
+               "id": 1736528,
+               "order": 148
+            },
+            {
+               "cast_id": 182,
+               "character": "Winkie (uncredited)",
+               "gender": 0,
+               "credit_id": "5875286d9251416abc001cf8",
+               "name": "Stephen Tako",
+               "profile_path": null,
+               "id": 1736529,
+               "order": 149
+            },
+            {
+               "cast_id": 183,
+               "character": "Munchkin (uncredited)",
+               "gender": 2,
+               "credit_id": "5875287ec3a3687c1d001ce2",
+               "name": "Kevin Thompson",
+               "profile_path": "/pUKpoqEjQg7Isu0dJFBtootlWad.jpg",
+               "id": 53760,
+               "order": 150
+            },
+            {
+               "cast_id": 184,
+               "character": "Quadling Child (uncredited)",
+               "gender": 0,
+               "credit_id": "5875288f9251416ab6001e2e",
+               "name": "Lauren Tischler",
+               "profile_path": null,
+               "id": 1736530,
+               "order": 151
+            },
+            {
+               "cast_id": 185,
+               "character": "Quadling Farah (uncredited)",
+               "gender": 0,
+               "credit_id": "5875289fc3a3687c29001c8d",
+               "name": "Francisca Viudes",
+               "profile_path": null,
+               "id": 1736532,
+               "order": 152
+            },
+            {
+               "cast_id": 186,
+               "character": "Tinker (uncredited)",
+               "gender": 0,
+               "credit_id": "587528d4c3a368353f000003",
+               "name": "David Waldman",
+               "profile_path": null,
+               "id": 1736533,
+               "order": 153
+            },
+            {
+               "cast_id": 187,
+               "character": "Guard #1 (uncredited)",
+               "gender": 2,
+               "credit_id": "587528e5c3a3683537000019",
+               "name": "Filip Watermann",
+               "profile_path": "/gNFOViQqF6j5KPwX7v7nVx1nRi3.jpg",
+               "id": 1586918,
+               "order": 154
+            },
+            {
+               "cast_id": 188,
+               "character": "Carriage Coachman (uncredited)",
+               "gender": 0,
+               "credit_id": "587528fbc3a368353d000025",
+               "name": "Michael O. Watkins",
+               "profile_path": null,
+               "id": 1736534,
+               "order": 155
+            },
+            {
+               "cast_id": 189,
+               "character": "Winkie (uncredited)",
+               "gender": 0,
+               "credit_id": "5875290ec3a368354500003e",
+               "name": "Matt Weinglass",
+               "profile_path": null,
+               "id": 1519716,
+               "order": 156
+            },
+            {
+               "cast_id": 190,
+               "character": "Quadling Woman (uncredited)",
+               "gender": 1,
+               "credit_id": "587529209251411b73000054",
+               "name": "Alaina Whitney",
+               "profile_path": "/A78IHTMf1qfdpd5Fy3n9pyji48T.jpg",
+               "id": 1736535,
+               "order": 157
+            },
+            {
+               "cast_id": 191,
+               "character": "Kansas Boy (uncredited)",
+               "gender": 0,
+               "credit_id": "5875293d9251411b66000063",
+               "name": "Jake Williams",
+               "profile_path": null,
+               "id": 1736537,
+               "order": 158
+            },
+            {
+               "cast_id": 192,
+               "character": "Winkie (uncredited)",
+               "gender": 0,
+               "credit_id": "5875294b9251411b66000076",
+               "name": "Otis Winston",
+               "profile_path": null,
+               "id": 1736538,
+               "order": 159
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d19cd",
+               "name": "Sam Raimi",
+               "profile_path": "/uEAaCUJzyMI8N5mOVyLtaOPKoEf.jpg",
+               "id": 7623,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d19d3",
+               "name": "L. Frank Baum",
+               "profile_path": "/71j62WM8z6XN1DXnSv4AWjMUxJS.jpg",
+               "id": 9051,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d19d9",
+               "name": "Mitchell Kapner",
+               "profile_path": null,
+               "id": 21218,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a1b",
+               "name": "David Lindsay-Abaire",
+               "profile_path": null,
+               "id": 23766,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a21",
+               "name": "Danny Elfman",
+               "profile_path": "/pWacZpYPos8io22nEiim7d3wp2j.jpg",
+               "id": 531,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47a1c3a368484e0d1a27",
+               "name": "Grant Curtis",
+               "profile_path": "/4Tvr08aVoDdFkubjPZv3d5CYeMW.jpg",
+               "id": 7628,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a2d",
+               "name": "Joshua Donen",
+               "profile_path": null,
+               "id": 71262,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47a1c3a368484e0d1a33",
+               "name": "Palak Patel",
+               "profile_path": null,
+               "id": 928399,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a39",
+               "name": "Philip Steuer",
+               "profile_path": null,
+               "id": 5541,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47a1c3a368484e0d1a3f",
+               "name": "Joe Roth",
+               "profile_path": "/lUtmB3mtMPrA5hhoEwZBeX1U5uL.jpg",
+               "id": 18311,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a45",
+               "name": "Peter Deming",
+               "profile_path": "/3NgM7E5kRYFMXY5znBPktbeI6qB.jpg",
+               "id": 9573,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a4b",
+               "name": "Bob Murawski",
+               "profile_path": "/fADtjxosjUDT8AyZxTlqFYXUKuY.jpg",
+               "id": 7712,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47a1c3a368484e0d1a51",
+               "name": "John Papsidera",
+               "profile_path": "/quM89TMS6BncoIh4NdlWugXVhuF.jpg",
+               "id": 561,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47a1c3a368484e0d1a57",
+               "name": "Robert Stromberg",
+               "profile_path": "/gqP1k0dJxRVj08xudosdROOn2UK.jpg",
+               "id": 1032536,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47a1c3a368484e0d1a5d",
+               "name": "John Lord Booth III",
+               "profile_path": null,
+               "id": 1271755,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a63",
+               "name": "Todd Cherniawsky",
+               "profile_path": null,
+               "id": 959555,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47a1c3a368484e0d1a69",
+               "name": "Stefan Dechant",
+               "profile_path": null,
+               "id": 957889,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a6f",
+               "name": "Andrew L. Jones",
+               "profile_path": null,
+               "id": 1271756,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe47a1c3a368484e0d1a7b",
+               "name": "Meghan C. Rogers",
+               "profile_path": null,
+               "id": 111052,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a1c3a368484e0d1a81",
+               "name": "Domenic Silvestri",
+               "profile_path": null,
+               "id": 46592,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe47a1c3a368484e0d1a87",
+               "name": "Nancy Haigh",
+               "profile_path": null,
+               "id": 555,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55784486c3a3683953002636",
+               "name": "Gary Jones",
+               "profile_path": null,
+               "id": 543194,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57655243c3a36813dc000004",
+               "name": "Ian McFadyen",
+               "profile_path": null,
+               "id": 1637826,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553ff119c3a3681d9a000014",
+               "name": "Daniele Zannone",
+               "profile_path": null,
+               "id": 1447388,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554682939251414c370048d2",
+               "name": "Kevin Webb",
+               "profile_path": null,
+               "id": 1460607,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55468515c3a3680ce800720c",
+               "name": "Mike Dharney",
+               "profile_path": null,
+               "id": 1455598,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548d04792514155fa002219",
+               "name": "Daniel Erickson",
+               "profile_path": null,
+               "id": 1463178,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554915fa92514104cd00023a",
+               "name": "Elizabeth McClurg",
+               "profile_path": null,
+               "id": 1463185,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554ec619c3a3685ad30000d1",
+               "name": "Joo-Hwan Park",
+               "profile_path": null,
+               "id": 1460655,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b6b8a6925141612900c9df",
+               "name": "Jatinder Singh Manhas",
+               "profile_path": "/yv4nKG2Vsd6WaJxektzMceujYxu.jpg",
+               "id": 1767710,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b6b8b19251412ab1009a07",
+               "name": "VFx Star",
+               "profile_path": "/k9iSdjlMJO24MTXQoNjRjDz1zMb.jpg",
+               "id": 1767709,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 13.674139,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 68728,
+      "vote_count": 3982,
+      "budget": 200000000,
+      "overview": "Oscar Diggs, a small-time circus illusionist and con-artist, is whisked from Kansas to the Land of Oz where the inhabitants assume he's the great wizard of prophecy, there to save Oz from the clutches of evil.",
+      "similar": [
+         675,
+         767,
+         68735,
+         37430,
+         9100,
+         9610,
+         2667,
+         12445,
+         27022,
+         120,
+         121,
+         587,
+         671,
+         672,
+         674,
+         259316,
+         129,
+         68737,
+         76492,
+         57158
+      ],
+      "original_title": "Oz: The Great and Powerful",
+      "runtime": 130,
+      "poster_path": "/7qzLIcYR7ev7iXngY8NKHBZHwwT.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Roth Films",
+            "id": 16314,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+            "name": "Walt Disney Pictures",
+            "id": 2,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2013-03-07",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "In Oz, nothing is what it seems",
+      "adult": false,
+      "homepage": "http://www.ozthegreatandpowerfulmovie.com",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Sam Raimi"],
+      "runtime": 130,
+      "synopsis": "Oscar Diggs (James Franco) is an ambitious illusionist/con man employed by a midwestern traveling circus. Despite being greatly ambitious, Oscar's magic career isn't taking off. His illusions are cheap, his suits are torn and patched, and he's barely making enough money to keep his head above water. Frank (Zach Braff), Oscar's circus assistant, barges into Oscar's caravan as he puts the moves on his latest magician's assistant May (Abigail Spencer). He produces a small wooden music box, which he claims once belonged to his great-grandmother, and gives it to May as a token of his love. Frank reminds Oscar, (or Oz, as he's known), that his next show is about to begin. Frank hands Oz the show's cash takings: an old hat filled with a dozen quarters and nickels. Oz reluctantly plucks a pair of coins from the hat and gives them to Frank, and pockets the rest. Frank is unhappy with how Oz treats him. The magic show begins with Oz striding out onto the stage in a mystical, quasi-oriental robe and turban A young girl in a wheelchair in the front row (Joey King) watches in awe as Oz calls for a volunteer. A dozen hands shoot up, but none belong to May, Oz's assistant and ringer for the show. Oz finally calls May to the stage, much to the bewilderment of the crowd, and she takes the stage. Backstage, Frank produces all of the practical effects for the show: playing music, setting off pyrotechnics, etc. On stage Oz puts May into a deep sleep and causes her unconscious body to float in mid air. An irate voice shouts something from the back: \"I see a wire!\" Another voice joins in: \"Yeah! I see two of 'em!\" Bright lights are cast onto the stage, and sure enough, two very visible wires are seen suspending May's body from the ceiling \"I want my money back you fraud!\" Oz gestures to Frank, who tosses him a scimitar. Oz flicks the scimitar between his hands and then violently cuts the visible wires.... but May remains floating. The crowd gasps and Oz, for the finale, whips the silk sheet off of May's body, revealing empty air. The crowd applauds in unison, and Oz happily accepts the \"Bravos!\" and \"Encores!\", and then a small voice cuts through the cheers: \"Make me walk!\" All goes silent. The little girl in the front row, in the wheelchair, pushes herself toward the stage and repeats her pleas \"Please, Wizard. Make me walk!\" Oz, caught off guard by the unscripted request, seeks a diplomatic or heartfelt response, but all that comes out is \"I'm not that kind of wizard, kid.\" The crowd turns on him, booing and hissing. Oz, who is now being pelted by popcorn and peanut shells, tells Frank to close the curtains. Outside, the circus-folk are hurriedly packing up the traveling circus as gray clouds swirl above them. Frank takes Oz aside and tells him that a certain lady-friend is waiting for him in his caravan. He sidesteps the chaos, enters his caravan and is surprised to see a young blonde woman, and not May, waiting for him. This is Annie (Michelle Williams); one of Oz's old romances he met on the road. She's come to see Oz because another man proposed to her and she wanted to tell him first. The pair's chemistry is obvious, but Oz's philandering has ruined anything they might have had. Outside, May watches as another brunette, close to her age, bursts out of a tent holding a music box identical to the one Oz gave her. She swiftly realizes that Oz used her. Seconds later an angry strong-man, the woman's husband, comes bursting out of the tent, hell-bent on tearing Oz a new one. The strong-man crashes through Oz's caravan wall and chases Oz all through the fairground. Oz manages to sneak aboard a readied hot air balloon and escape the clutches of the strong-man. As he soars away Frank throws Oz his hat and magician's bag, filled with his various illusionary instruments. From above Oz watches as all the circus folk fearfully run away, and then he sees it: a massive tornado which is sucking him in. Oz pins himself as tightly as possible into the balloon's basket as the entire contraption is violently whipped back-and-forth inside the tornado. After nearly being impaled dozens of times, Oz and the balloon escape the violent winds of the twister and emerge in the colorful, widescreen World of Oz. Oz and the balloon luckily avoid hitting the giant mountains surrounding them, but the balloon ultimately crashes, and Oz unceremoniously lands in a shallow river. Oz, bewildered, finds himself surrounded with gigantic sentient plants and small mischievous fairies which peck at his legs. He calls out for help, and through the bushes appears the beautiful and alluring Theodora (Mila Kunis). Theodora answers him and Oz, struck by her beauty, puts on the charm. He tells her that his name is Oz, and she is shocked -- the prophecy foretold that a wizard named Oz (the name of their land) would return to Oz and save them from the Wicked Witch. Oz, jokes that all witches must be green, warted, and must ride a broom, to which Theodora responds \"but I'm a witch.\" She explains that there are good witches and wicked witches, and that she is simply a good witch. Mysterious growling echoes from the forest nearby and Theodora, recognizing the sound of the Wicked Witch's minions tells Oz to hide. The pair disappear into an alcove and watch as a frightening winged howler monkey swoops in and searches for them. Oz, thinking quickly, reaches into his top hat and retrieves a white dove which he releases into the air. The howler monkey, seeing the bird, flies off after it. Oz and Theodora escape and begin their trek to the Emerald City. Oz uses his charms to appeal to Theodora, and she soon falls in love with him. She tells him that as the new Wizard of Oz, he will soon become the land's new king and that, if he will allow it, she will be his queen. As a token of his love, Oz gives Theodora a wooden music box -- the same type of box given to May and countless other women he met over the years. The pair walks toward the Emerald City and soon come across a winged Capuchin monkey tangled in a mass of man eating plants. Theodora implores that Oz help the monkey and Oz, eager to impress his new girl, frees the monkey, named Finley (Zach Braff) from the weeds. Oz soon realizes that the plants were not the true threat. A massive lion appears, about to pounce on Oz and Finley. Oz, without thinking, reaches into his jacket pocket and tosses a handful of powder to the ground. Thick red smoke explodes from the ground and frightens the cowardly lion away. Theodora, now convinced that Oz is the true wizard of the prophecy, hugs him. Finley, thankful for Oz's intervention, offers his servitude to Oz for life. Finley explains that as a debtor to Oz, he must do anything and everything Oz says. Oz immediately tells the shocked Finley that he is not the Wizard that Theodora thinks that he is. He's just a con man, with a few illusions and tricks up his sleeve. Finley is disappointed to hear this news, but doesn't tell Theodora. Oz hands his heavy bag to Finley and tells him to follow them. The trio soon meets a large caravan of horses and soldiers along a yellow-brick road. Their leader, Knuck (Tony Cox) does not believe Oz is the great wizard Theodora says he is. Oz talks down to Knuck, calls him \"sour puss\" and tells him to obey his king. Oz and Theodora jump into a carriage and are whisked away to the Emerald City. Inside the city Theodora introduces Oz to her sister Evanora (Rachel Weisz) -- a young brunette witch with a green sapphire necklace around her neck. Both wise and beautiful, Evanora looks at Oz with skepticism. She and Theodora take him to the throne room, which Oz treats with little reverence. Evanora chides the gullible Theodora for believing that Oz was the wizard from the prophecy, but agrees to humor Oz until she can fully prove that he's a fraud. Evanora takes Oz to the King's vault: a massive chamber overflowing with gold and riches, all property of the King of Oz. Oz excitedly dives into the piles of gold while the ever skeptical Evanora looks on. She reminds Oz that the vault is the property of the King of Oz, which he will be only when he kills the Wicked Witch. Oz, realizing that his Kingship comes with strings attached, drops the gold and begins to believe that he'll never be king. Evanora soothes him and explains that killing the Wicked Witch won't be difficult. All that's required is breaking her wand; break the wand, kill the witch, that's it. Bolstered by this new found information, Oz readies himself to go find the witch. With Finley in tow, Oz heads off to the dark woods to find and kill the Wicked Witch. Along the way the pair happens across a recently devastated town. The entire city is made of porcelain: porcelain houses which look like gigantic teapots, porcelain trees, and porcelain residents. It's all too spooky. They hear crying inside one of the few still-standing houses. Inside they find a tiny, young porcelain girl who, after the attack, was broken. Her legs were separated from her body, and she's unable to move. Oz comforts the China Girl (Joey King) and produces, from his bag, a small bottle of instant-dry glue. He repairs her shattered legs and helps her get to her feet. She happily thanks Oz and Finley and tags along with them on their journey. The trio comes to a fork in the road; turn left for the Emerald City, turn right for the dark woods. Oz tells the China Girl to walk to the Emerald City and tell Evanora that she is a friend of Oz. The China Girl throws a fit, and refuses to leave Oz as her family and friends are broken and dead, and he's the only friend she's got. Oz allows the China Girl to follow them to the dark woods. The Dark Woods are frightening. Twisted, violent plants try to impale the trio as they make their way deeper into the forest. They finally come to a cemetery and see a dark, hooded figure trying to enter. They quickly realize that the figure must be the Wicked Witch, and watch as the figure carefully places its wand onto a pile of boxes nearby. While Finley distracts the figure, Oz sneaks over to the wand, takes it and is about to break it in two when a soothing voice stops him. The hooded figure unveils herself, revealing a beautiful blonde face beneath it, identical to Annie (Michelle Williams). She introduces herself as Glinda and explains that the true Wicked Witch is back at the Emerald City. Evanora, years ago, sought to rule Oz by herself and killed their father, the King, so she could rule uncontested. When rumors swelled that the Wizard of Oz would return and take his place as King, Evanora vowed to never let that happen. She'd trick the Wizard into killing the sister who opposed her, Glinda, and then kill the Wizard herself so that she could rule Oz forever. When Glinda learned of Evanora's treachery, she left the Emerald City and spent every day at her father, the King's, grave. Back in Emerald City Evanora watches, in her crystal ball, as her plans to kill Glinda failed. Angered, Evanora sends out her armies to stop and kill Oz and Glinda. Back in the graveyard, the quartet of Oz, Glinda, Finley and China Girl hear the stomping of boots approaching. Evanora's army marches through the graveyard, intent on killing them. Glinda pleads with Oz to do something magical to stop the army and Oz, being nothing more than a con man illusionist, asks her to take care of it. She takes her wand and draws thick fog out of the ground, blinding the army of Winkies and baboons. The quartet finds themselves at the end of a cliff, hanging over a bottomless pit and Glinda, with no other option, leaps off the cliff. With the army quickly approaching Finley, China Girl, and finally Oz fall after her. The four appear, moments later in gigantic floating soap bubbles, which send them flying miles away. In the distance, Oz sees and inquires about a small city encapsulated within a giant, soapy bubble. Gilda explains that the bubble is a protective barrier, which keeps out anybody with evil or malcontent in their heart. Oz, being both slightly evil and malicious himself, fears that he won't be able to get through. Glinda, Finley and China Girl easily glide through the bubble barrier, and Oz, after bouncing off the of barrier a few times, is finally able to squeak through. In Emerald City, Evanora is not pleased with Oz and Glinda escaping her grasp. She concocts a plan. She invites Theodora into her quarters and magically produces a small wooden music box identical to the one Oz gave Theodora. Theodora, upon seeing the music box, is hurt by Oz's presumed betrayal and returns to her room. She sits in front of her vanity mirror and cries. Her tears are like acid, etching permanent burns into her skin. Glinda introduces Oz to the people of the quaint city within the bubble: farmers, tinkerers, munchkins, etc. They all live in innocent, unspoilt happiness and are very excited to meet and hear from the wizard of myth and prophecy. Oz, now convinced that his rouse has gone too far takes Glinda aside and explains that he is not a real magician. He's a fake, a charlitan, an illusionist who can't perform real magic. Glinda, to Oz's surprise, admits that she knows. She knew from the moment she first met him, but just because she knows doesn't mean that the townspeople need to. With this new information, Oz puts on a show of confidence, convincing the townspeople that he is the wizard they hoped would return to destroy the Wicked Witch. Theodora's anger at Oz is at a boiling point, as is evidenced by her severely disfigured, acid-burnt face. Evanora, now in total control of Theodora convinces Theodora to follow along with her plan and become more powerful than any wizard ever. Evanora produces a small, green apple and tells Theodora that the apple will give her the power to kill Oz. She bites into the apple and soon keels over. Her skin darkes, her voice deepens, and her silhouette grows tall and evil. Theodora grabs a black brimmed hat and laughs maniacally. A mysterious storm cloud appears over Glinda and Oz's town. A red-hot light at the center of the cloud pounds against the \"impenetrable\" bubble surrounding the town. The cloud pounds against the bubble again and again until it breaks like an egg. The red-hot light beams into the city, landing like a meteor in the town square. A glowing evil figure emerges from the crater -- it's Theodora, transfigured into a green-skinned, black-suited old witch. She confronts Oz, and explains that she has become a truly Wicked Witch because of his treachery. She steals a broom from a townsperson and rides away, leaving a trail of black smoke behind her. Amidst the chaos, Glinda searches for Oz, but finds that he's run off. She confronts him in his quarters, where he's quickly packing his bags for a hasty escape. Glinda tries giving Oz the confidence to believe in himself, and to look past the fact that he's not a real wizard. Through soul-searching, Oz formulates a plan. He tells Glinda to gather the town's smartest and strongest. Oz meets with the town's Master Tinker (Bill Cobbs) and his men, the appointed scientists of the city, and together they plan an illusion to trick Theodora and Evanora. Under Oz's guidance the townspeople create elaborate mechanisms for the show. Oz shows the tinkers how to create a movie projector, how to create black powder, and finally how to build a hot-air balloon. Oz asks the head Tinker to keep the balloon a secret. He and Glinda, together, form a battle plan. They look at a map of the Emerald City and its outlying areas. Oz suggests that they enter the city through the Poppy fields, but Glinda explains that the poppy fields will put anyone who breaths in their spores, into an inescapable deep sleep. Oz thinks of a way to use this to their advantage. Finally, Glinda reveals that she has a contact to get them into the city unnoticed. Knuck, AKA Sour puss, appears and reveals himself to be their inside man. The assault on Emerald City begins. Oz, along with Knuck and other munchkins, disguise themselves and sneak past an unwitting Winkie Gate Keeper (Bruce Campbell). They sneak the carriage, filled with the projection equipment and Oz's balloon, into the city. As soon as they pass through the gate, Oz separates himself from the group, with the balloon, and sneaks up to the King's vault, and begins filling the hot-air balloon's basket with gold. Down on the ground, Finley, Knuck and the Master Tinker see that Oz has betrayed them, in favor of escaping with a balloon full of gold, but continue with the plan. Out at the edge of the city Glinda casts a spell which sends thick fog across the landscape. Theodora and Evanora, distracted by the thick blanket of fog, watch as an army of soldiers stomps through the fog, toward the city. The pair of witches sends out their entire army of baboons to stop the incoming force. The baboons tear-into the soldiers, but are shocked to find that they're full of hay. The fog dissipates, revealing that the soldiers are mechanical scarecrows, built by the townspeople, and to make matters worse, the fog was covering the poppy field. Almost all of the baboons fall into a deep sleep, leaving the city mostly defenseless. The townspeople disappear back into the woods as a few conscious baboons go after them. Glinda is suddenly taken hostage by a pair of them. She drops her wand into the field and is taken up into the center of the city. Evanora searches the grass for the wand, but thanks to the China Girl, is unable to find it. Evanora flies back into the city, and at its center is met by Theodora. The pair stand on either side of Glinda, who has been chained to a pair of posts. The angry citizens of Emerald City watch on in horror as Evanora and Theodora torture Glinda with lightning and fire attacks. Above them, Oz's balloon appears. Evanora points at the balloon, and exposes Oz as a greedy fraud, trying to escape with the town's riches instead of defending the town as the prophecy foretold. Evanora angrily shoots fire at the hot air balloon, exploding it, and sending the riches crashing down to the ground in a giant plume of black smoke. Glinda, shocked by Oz's death, cries, and prepares to die. Suddenly a booming voice echoes throughout the city and Oz's ghostly face appears on the plume of smoke. He explains that his death was necessary to become the true Wizard of Oz, and that he is now immortal and all-powerful. Evanora and Theodora are speechless. They fire lightning and fireballs into Oz's ghostly facade, but they do nothing. Secretly, Oz, Knuck, Finley, and the Master Tinker sit huddled in the caravan at the center of the city, projecting a moving image onto the black smoke, putting-on a spectacular illusion. While distracted, the China Girl sneaks Glinda her wand and manages to break her free. Upon finding Glinda gone, the townspeople turning on her, and a massive floating head in the sky, Evanora escapes into the castle, leaving Theodora to deal with the town by herself. Soon Oz, and the townspeople, rain fireworks down onto Theodora, forcing her to escape on her broom. As she trails into the distance, she promises to return and stop Oz for good. Evanora, inside the castle, is confronted by Glinda seated in her father's throne. Evanora shoots lightning at Glinda, but Glinda deflects the attacks with her wand. The fight starts on the ground but ends in the air. Evanora grabs Glinda by the throat, and Glinda grasps at Evanora's chest. Their attacks rebound off one another and the two land, painfully, on the ground. Evanora prepares to deliver the killing blow, but lacks the magic to do so. She reaches for her neck, the emerald necklace that had been around it, the source of her power, is gone; shattered into a thousand pieces on the ground, under Glinda. Evanora suddenly keels over. Her beautiful features disappear. Her nails grow long and dirty, her skin becomes wrinkled and liver-spotted, and an old hag appears in her place. The old, true Evanora lunges at Glinda, but Glinda, with wand in hand, repels her attack and sends her flying through the castle window. She's caught by a pair of flying baboons and carried off into the distance. The Emerald City, now freed of tyranny, celebrates. Glinda walks into the throne room and is greeted by the smokey visage of Oz, hovering over the throne. Finley latches the door. China Girl and Knuck close the curtains and once the coast is clear, Master Tinker switches-off the mechanism and out steps Oz, in the flesh. As thanks for their exemplary work, Oz gives each of them a gift. To Master Tinker, he gives a swiss-army knife, complete with a fork and spoon. To Knuck, (A.K.A.; Sour Puss), he gives a novelty mask with a smile painted on it. To Finley he gives his top hat and friendship, and to China Girl he offers themselves as her new family. Finally, to Glinda, he takes her behind the curtain and plants a giant kiss on her.",
+      "writers": [
+         "Mitchell Kapner",
+         "David Lindsay-Abaire"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1623205/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjMyMzQ1ODM1MF5BMl5BanBnXkFtZTcwMjE2MTQxOQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: James Franco, Michelle Williams, Rachel Weisz | See full cast and crew »"],
+      "reviews": [
+         "Well, let's start with... The Good: The visual effects are 2nd to none. Raimi and his team have given their audience a bright and colorful world of wonder in a much more 'wowing' Land of Oz than that of the original film, and possibly even one that's more visually attractive than any other film to date. A very fun and crafty Rachel Weisz takes the role of Evanora and grips the audience with charm and viciousness in all the right doses. The supporting cast also performs pretty well, sometimes capturing that original 'Wizard of Oz' magic. The Bad: Going into this film with high expectations for the dialogue, & acting is going to leave you very disappointed. Two of the most featured roles of the film, Oz (played by James Franco) & Theodora, (played by Mila Kunis) are surprisingly and inexcusably portrayed very poorly. Franco's Oz is written to be about how you would expect him to be - complete with charm, wit, & deceit. However, the depth that you would expect to come with such an anticipated resurgence of a character is missing, & you can tell that Franco is having trouble buying into the role himself. The character quickly becomes stale at about 45 minutes in, and doesn't ever fully recover. Kunis feels the same - bored & devoid of passion for the lackluster lines given to her. Her character also has an issue with development, and is rushed from high to low so quickly that the audience doesn't have the opportunity to invest in her. The performances aren't the worst thing you'll ever see, but the lifeless script & awkward dialogue make it hard to stay focused. Even with a great script though, I feel as though Franco & Kunis weren't the best choices for their respective roles. The Ugly: The worst part of this movie is the story. It leaves you waiting for some kind of clever & unexpected plot twist, a little divulgence of the characters motivations, or even just some depth for the main focal points of the story. It's also somewhat obnoxious that this film takes elements of the original film that should have been left alone because the original film portrays Dorothy's entire journey as a dream in the end. (Such as transferring characters of \"the real world\" into characters of The Land of Oz) Without saying too much, I can tell you that this film is stuck somewhere between being a fun and family friendly revitalization of the original story and being a serious and intriguing fantasy film for a wide movie-going audience - and the formula just doesn't work. Having said all of that, I do not regret having gone to see Oz: The Great and Powerful, as the visuals do a great job of making up for everything that didn't work. I will warn you though, that the films run time of just over two hours can be difficult to sit through at times. Don't be afraid to take a bathroom break when it gets dry, you probably won't miss too much.",
+         "Mildly entertaining look at the origins of the characters from 'The Wizard of Oz\" has everything down pack. From great visuals to imaginative set pieces, this film has everything. Its does not have however a single interesting character outside of the film's main villain and her good witch sister. Not to mention the fact that its script is as thin as a sheet of paper and the plot reeks of a Star Wars prequel but with out the light sabers. Its main hero Oscar Diggs (Played by James Franco) is not interesting at all and it does not help matters that Franco is miscast and while Oscar is supposed to be a bit of a conman with a heart; Franco comes across more as a degenerate deviant with his performance. While Franco is sputtering out of control performances wise, it falls on his co-stars to pick up his slack and one of them is Rachel Weisz, who plays the oldest witch sister Evanora, who rules Oz with a velvet iron glove. She is manipulative and cunning and in my mind the best thing about this film. While most of the things in this film are mostly kids stuff, Weisz infuses her character with a wickedly sassy seductive charm that elevates this film past most of its problems. Her showmanship with the material is greatly appreciated, especially when after a while; you are getting quite annoyed with most of the characters in this movie, especially the computer generated ones. Another actor who picks up Franco's slack is Michelle Williams, who is very charming in a good girl kind of way and is the only actor in the film who can hold the screen with Weisz performance wise. The movie could have worked much better if it just had Weisz and Williams as the leads but unfortunately, its not and we have to suffer though Franco trying to be charming in a squirmy kind of way and suffer though probably the movie's worse offense, which is the character of Theodora played by Mila Kunis, who redefines the word \"Miscast\". Theodora is supposed to be innocent in this film and gradually lose her innocence to become (Spoiler) the iconic \"Wicked Witch of the West\". Unfortunately, Mila comes across as interesting as a block of wood in this film and her transformation towards the climax ends up being more funny in a very bad sort of way than revealing. It does not help matters that Mila looks as disinterested in her character as the audience is and a better actor with more range could have brought more to it. All and all, it had its moments but its problems weight it down.",
+         "I went into this film prepared to be disappointed. Tim Burton's Alice in Wonderland felt a bit lifeless to me (except for Johnny Depp's Hatter) and I couldn't help but compare this movie to that one in my head. So, I went and saw this one with reservations. I'm a huge Oz fan. I love the original books. I love the movie. I love Wicked (book and musical), Tin Man, Return to Oz, The Wiz (the musical more than the movie), and even Geoff Ryman's oh-so-depressing novel Was. There's no such thing as an \"official\" version of the story anymore, so I don't mind a little pastiche here and there. After all, Baum's Witch was short, wore an eye patch and a very tall hat, and brandished an umbrella, but Margaret Hamilton effectively erased that version in favor of the glorious green-skinned villain we all know and love. So talk of \"the real version of the story\" is pretty much moot at this point. This movie didn't disappoint me at all. Yes, it had some issues, but I didn't really mind overall. I left the theater with a big goofy grin and I'll probably go see it again. It was an enjoyable romp through a gorgeous landscape with enough insider references to merit multiple viewings. It rarely takes itself too seriously, and never tries to step on the toes of any other version of the story. There are references to events in the books which, before now, have never made it into any other adaptations (such as the China Girl), as well as many familiar visual cues from the 1939 film (the guard's outfits, the spiral where one fork of the Yellow Brick Road begins, and even a shot of the Kansas horizon with a scraggly grasping tree seem comfortably familiar). There was even a visual cue that, while it may not have been taken from this source, certainly suggested a character from Tin Man. I felt that Mila Kunis came across as a bit flat. Her character arc seems too forced and we don't really get to see much progression. I didn't mind James Franco, to be completely honest. He was appropriately sleazy when he needed to be and charming in a goofy way when needed. I think he could have invested his character with a bit more depth, but it never really turned me off his character at all. Superficiality is a huge part of his character, and I thought it worked, overall. The side characters were a delight, with some of the best comedic lines coming from Oz's traveling companions. And, of course, Rachel Weisz steals the show with a delicious performance, embodying a great number of classic villains from Snow White's Evil Queen to Star Wars' Emperor Palpatine. Visually, the film is a delight. Sam Raimi turns Oz into its own wonderland without it ever seeming predictable or tired. One criticism I had with Burton's Alice was that it didn't really give the audience a chance to luxuriate in the bizarre landscapes of Underland all that much. It had great character design, but the landscape seemed a bit low- key. Raimi, on the other hand, gives audiences exactly what they're looking for. Gems, flowers, waterfalls, mountains, rock formations, sunsets, etc. that are completely breathtaking. Not only that, but the CGI is crisp and clean. Danny Elfman's score was...OK. One thing I've noticed with him lately is that almost everything he does now sounds less and less unique. We've got the requisite haunting waltz and the spectacular pounding swirling opening credits theme, but other than that, I found almost everything to be a bit forgettable, which is sad because Elfman is one of my favorite film composers. The music isn't bad, but it just doesn't add as much as it could have. But overall, I really enjoyed this movie. It's a delightful romp through a colorful wilderness that asks nothing more from its audience than a chance to have fun. This isn't a thoughtful, complex Oscar-winner nor is it a gritty realistic fantasy a la Lord of the Rings or Game of Thrones. It's a kaleidoscopic portrait that seems at once familiar and new. Children will love it (though very young children may be scared by a few of the antagonistic creatures) adults will enjoy picking out all the loving homages to the books and the 1939 film. It's a fun way to spend an evening, and you won't be disappointed, just don't go in expecting deep, complex high fantasy. If you liked Burton's Alice, you will definitely enjoy this film (and you'll probably enjoy it more, if I may so myself).",
+         "Sam Raimi's prequel to L Frank Baum's Series of children's books plays greatly into Raimi's strengths as a director. A strong imaginary world that is covered in light and darkness and characters that inhabit that world with a quirky feel of childhood imagination. Raimi literally puts his heart and soul into this production and it shows, giving a festival of the senses with the viewer's imagination. While Raimi is working over time to make all of this work, a weak script and bad casting of two very important key roles set him back. The only thing that puts this film back on track is the game performances by two of the film's other actors, one in particular whose performance keeps this film from sinking from its own lack of depth. For what does not work, look no further than the script, which is not very well put together. Yes, it is a kid's film but kids are a lot more sophisticated than some of the dialog here and some of the kids in the audience I was with moaned a bit while hearing it. Moreover, yes, it is a prequel to a story that many people know, so there should not be any real surprises but that is no excuse to be lazy with the script and the scriptwriting is lazy here. What makes the problems with the script jump out here is some of the casting, which is just bad. A good actor is able to make a bad script some how work for their character; a bad actor only magnifies the scripts problems and makes their character look worse. Unfortunately, we have two actors completely wrong for their roles here and it only makes this movie even a bigger chore to sit throw. The first cinematic offense is the main character Oscar Diggs, who is not only the weakest character in the film but has an actor who just not believable in the role. James Franco can be a decent actor when he tries and he can be infuriatingly bad when he just stands there and not care about his performance, which he does here in this film. The character of Oscar Diggs is supposed to be the anchor of this film, a man that has to see the error of his ways in order to be the man that he is destine to be. However, thanks to Franco's lazy performance and the weakness of the script, we really cannot see the good in the character and is not impressed with his changed of heart when the time came to prove himself. Oscar comes across more as a sleazy opportunist than a man conflicted with his inner self and we cannot root for him at all. The character is wasted opportunity and really does not add to the story and thanks to Franco's inability to show sincerity with his role, we really do not care at all about poor Oscar or his problems. Another character we end up not caring for is the character of Theodora, who (Come on, the cat has been out of the bag for a while) becomes the Wicked Witch of the West. Thanks to the script and Mila Kunis inability to show range or any emotion outside of anger, we do not care about how this character loses her innocents to become the evil witch and we do not care what happens afterwords. While both Kunis and Franco fall flat on their faces performance wise, not all the actors fall by the waste side and some of them are able to transcend the weak script in order to gives performances than is able to salvage the good Sam Raimi tries to give to this film. The first one belongs to Michelle Williams, who plays Glenda the good witch and manages to give off the right kind of goodness and decency that her character needed to be believable with out the added fake sweetness. She is genuine and believable and is able to make her character work despite the weakness of the script. It also helps that Williams is an amazing actor with a lot of range and is able to tap into her strengths to achieve this feat. The best performance however belongs to the great Rachel Weisz, who almost single handedly saves this film from all of its shortcomings with a performance that not only transcends its weak script but also manages to be even better technically than the film as a whole. When the script keeps moving south, Its Weisz that keeps moving the film forward. She gives a fun and sassy performance that manages to make the character of Evanora much more than the standard fairy tale villain and manages to give off a level of understanding and complexity that does not talk down to its audience. It is a brilliant performance with a weak script and only the best actors manage to accomplish that feat with out breaking a sweat and Weisz does that effortlessly. While the script is weak and some of the performances pretty bad, it is the efforts of Weisz, Williams and Raimi that keeps it from falling off a cliff. For them only is the reason you should see this movie.",
+         "Sam Raimi's excursion into the Land of Oz is somewhat of a sight to behold, with great sets and wonderful use of CGI that does not over power the senses or your cinematic tastes. Too bad for this film, bad casting decisions on two of the characters and a way too simplistic story sets it back somewhat. Raimi does not throw up too many computerize affects and a great deal of Oz is old school charm with grand sets and costuming. That benefits this film greatly and makes Oz a real cinematic treat. The performances are for the most part spot on with great turns by Rachel Weisz (Weisz has the most fun in her role) Michelle Williams, who gives a noble performance as Glenda the good witch and the third best belongs to the voice over of Zach Braff, who gives a funny performance as a talking monkey sidekick. With these performances and Raimi's technical savvy, the film almost takes off, almost. What keeps it from being any better is the story, which is fine but flimsy and predicable. Yes, it is a sort of prequel and you know what is going to happen but there are no surprises to be found here and most of the so-called surprises are ruined thanks to the marketing if you have been following this movie. Another factor that keeps this movie from soaring to better heights is some of the other casting, which is baffling to say the least. Mila Kunis is disappointing as the younger sister Theodora, who of course becomes the Wicked Witch of the West. No flare in her part and just looks miserable through out the entire film. The biggest casting violation is James Franco who comes across as sleepy and somewhat creepy as the main character Oscar (Oz). He overacts in some parts and under acts in others and is with out a doubt the weakest member of the cast. While there is a lot to admire with this film, the problems it has (Mainly the story and the miscasting of Kunis and Franco) keep it from achieving a better grade from me. B-",
+         "Unbalance prequel to the classic \"The Wizard of Oz\" has a lot to offer thanks to the directorial grace of Sam Raimi and the game performances of both Rachel Weisz and Michelle Williams. Unfortunately, their efforts are almost torpedoed thanks to a bland script that needed a lot more heart and the shocking miscasting of two of its major roles. First we should start with the look of the film, which is to my surprised tame considering the gluttony of CGI in today's films. Sam Raimi gives an old school feel to this film that manages to balance the right tone of epic nostalgia and childlike intimacy with a hint of Raimi's signature manic style of energy. It is a beautiful film to look at and it is very inviting. The character's looks all represent their personalities and the CGI animated effects for the imaginary characters match the feel and look of the film. From the childlike wonder of China Doll to the scary fanged flying baboon, Raimi manages to let them connect on a visual level with their environment and not for once that they over power the seamless look of the film. It is a beautiful, visual affair and that is all thanks to the grace that Sam Raimi and his ability to let the audiences feel their way around this beautiful world. Unfortunately, while this movie is beautiful to look at, not even Raimi's efforts are enough to cover over the fact that the movie's script is as bland as a stale cracker and some of the performances are just flat out bad. The story lacks punch and its barley passable as a narrative. The character's motives are flimsy at best and a hint of irony and complexity could have added a lot more to the film. It is only through the efforts of the movie's best actors (Rachel Weisz and Michele Williams) that give this film the fun, irony and complexity that the script does not manage to even give itself. Unfortunately, while Weisz and Williams are bring more than humanly possible to their perspective roles, both James Franco and Mila Kunis look like they rather not be there are all. The bad part is that both Franco and Kunis are so miscast that it makes you question the mentality of the casting agent who though that they were good choices for their roles. This leads me to the acting of this film, which is disjointed to say the least. James Franco has done good work in past films but here he just looks like he just does not care about his fellow actors or his performance. He looks like someone who just wants to cash a check and just cost by on what little he can do. He lacks charisma, charm and presence in the role of Oscar Diggs and the bad part is that he is the movie's lead character. Franco's attitude is well displayed on screen and it hurts the film and you end up wondering on why he was even cast in the first place. The same goes to Mila Kunis, who tries a bit harder than Franco on her performance but ends up almost as bad. She just does not have it in her to pull off the role of Theodora, who becomes the Wicked Witch of the West and her performance on screen shows that she is well aware of that. Therefore, she just gives up half way and leaves both Weisz and Williams to fend for themselves. This is not a bad thing when you think about it because both of them manage to hold the film above water while the script just falls flat, Franco continues to not care about anyone but himself and Kunis just does not bother. This leads me to the best parts of the movie, which are the performances of Rachel Weisz and Michelle Williams, who both should get overtime pay for keeping the film from self-destructing. Both actresses are probably the best we have working today and in this film, it shows. Weisz plays the oldest sister Evanora, who is the villain of the film and let me tell you, she is so much fun that its criminal and her performance is the best of the film. She gives the character of Evanora such a sassy, fun presence that you do not need Kunis to transform into the Wicked Witch of the west to get a charge, because Weisz does more with less and gets the job done. Her performance keeps the movie afloat and the viewer is more than happy to follow her, which is strange because she is the villain of the film and has more charisma and charm that the hero himself. The second best is Michelle Williams who plays Gilda, the good witch and manages to keep her character from going way too far with the sweetness and have a bit of an edge as well. Williams brings humanity to her performance and the film and gives a perfect foil to Weisz's evil Evanora. If Disney had any sense, a sequel or prequel to this film would have just both Weisz and Williams and leave out Franco and Kunis but I seriously doubt it. You should follow this yellow brick road just to see Sam Raimi give his all to this beautiful world and see on how good actors Rachel Weisz and Michelle Williams are in their roles but this road has potholes (Which are the script and the performances of James Franco and Mila Kunis) that cannot be avoided. Let's just hope you have good wheels to go around them to get to the good this film has to offer.",
+         "To attempt a follow-up to a beloved classic such as 'The Wizard of Oz' would seem entirely foolhardy; yet there is sheer magic in Sam Raimi's 'Oz: The Great and Powerful', an always engaging, consistently entertaining and utterly bewitching fairy tale fable that elegantly evokes the 1939 classic while being entirely in tune with the sensibilities of modern-day audiences. As clear reverence to that legendary picture, it opens in black-and- white and framed in Academy ratio with the traveling magician Oscar Diggs (James Franco) at the Baum Family Circus in 1905 Kansas. It's no secret that Oscar will eventually become the Wizard; all that matters is how he gets there, and what follows is a beautiful journey imagined by screenwriters Mitchell Kapner and David Lindsay-Abaire of how an ordinary man can become a great man with a good heart and a little bit of faith. As such tales do, this one starts with who Oscar isn't � and that is, an honest and reliable person. No doubt as a magician, Oscar will always have a trick up his sleeve; but Oscar hasn't simply been hoodwinking his audience. Instead, the smooth talker has also been fooling any beautiful lady whom he meets; even as one such lady (Michelle Williams) hopes to persuade him in his trailer to marry her, the relative of another broken-hearted woman gives furious chase, forcing him to climb into his hot-air balloon for escape. That is the first of many narrative sleight-of-hands in which fans will immediately recall Victor Fleming's original. Here, a giant tornado whisks him right into its eye, where he watches with wide-eyed horror as every manner of debris flies dangerously around him. Once again taking a cue from the original, this sequence is filmed for maximum thrills � especially so with an added dimension � with an exhilarating ride down a gushing waterfall added in for good measure. As Dorothy was in 'The Wizard of Oz', Oscar is greeted by a kind and beautiful witch, Theodora (Mila Kunis), who is immediately spellbound by the possibility that he could very well be the great and wonderful wizard that an ancient prophecy had foretold. Those familiar with the tale will recall that Theodora is but one of the witches of Oz; besides her, there is her sister Evanora (Rachel Weisz) as well as the supposed evil one called Glinda (Williams again) whom Evanora accuses of murdering her father. The fates of these pivotal witches of Oz is intertwined closely with Oscar's transformation from an opportunistic and self-centred trickster to a revered hero of the people of Oz, and like Dorothy, Oscar is joined on his adventure by two unlikely companions � a flying monkey (Zach Braff) and an all-porcelain China Girl (Joey King). Along the way, fans of both Baum's novels as well as the original will recognise the other cleverly placed narrative sleights � including flying baboons, singing and dancing Munchkins, poisonous-scented poppy fields, and floating magic bubbles. Yet at no point do these plentiful references ever feel slavish; rather, building on a solid foundation from Kapner and Abaire, Raimi creates a visually resplendent world wowing in its lovingly rendered details that feels fresh and original. The effect is, we dare say, just as magical as that audiences in the past were transported on when Fleming's Technicolour visual effects fantasy was first unveiled, and perhaps even more so with the wonder of today's CGI advances put to work. There is of course much more than just visual bombast on display; in fact, Raimi uses these in service of a story that is full of heart and nerve. Cast as an unprepared man whom destiny calls to greatness, the Wizard is a surprisingly poignant character study of a flawed hero who eventually finds it within himself to rise above himself. That change of heart is portrayed in a befittingly heart-stopping climax engineered on illusion and ingenuity, a grand magic show set right in the heart of Emerald City that again brings to mind the revelation at the end of 'The Wizard of Oz' of the Wizard's identity. If there is one blemish to an otherwise outstanding accomplishment, it is James Franco's casting as the Wizard. While he does bring a slippery charm to the Wizard, he lacks the dramatic stature necessary to make the character a more compelling one. Among the three witches, it is Williams and Weisz who steal the show, the former's radiant goodness a perfect complement against the latter's icy malevolence. And though we do not see him after the film's extended prologue, Braff's voice-over for the Wizard's winged companion brings much spirited humour to the proceedings. So like 'The Wizard of Oz', this prequel is good old-fashioned family entertainment. And just because this comes late in Hollywood's recent obsession with fairy tales should not at all deter you from making a beeline for it � because this is hands down the best of them (even better than Tim Burton's 'Alice in Wonderland' in fact). True to its title, it is great and wonderful, an ageless and timeless fantasy deserved to be enjoyed in history with its forbearer.",
+         "Oz the Great and Powerful .. or maybe not so great, but still highly watchable. Franco plays the little man behind the curtain, while Kunis, normally a favourite of mine, appears to be stuck in that tornado. Neither manage to defy gravity but the rest of the cast were pleasant, especially Weisz - even with her Emperor-like green force lightning. It would have been a more visually stunning Oz had the effects been simplified. Conversely, the story lacked depth and with some rather clumsy dialogue (especially for Kunis), it was all perhaps a little too light and \"Disney\". Doesn't quite get the ruby slipper, but maybe 3 out of 5 wands.",
+         "A magician finds himself transported to the magical land of Oz, where witches, flying monkeys and yellow brick roads exist. He is mistaken for the saviour of Oz and must decide whether or not to stay and be king, or leave and find his way home. I love Sam Raimi, the man and his invented work with a camera are what made me want to get into filmmaking in the first place. So to see him handling big projects like this (and Spiderman) was a joy for me to see. Oz the Great & Powerful is a CGI heavy film that demands a creative eye behind the lens. After his work on big budget films like Spiderman, it seemed like an easy choice for Raimi to be the one behind Oz and for the most part, it works. The films shortcomings keep it from being really magical and memorable, like the original from 39, but Oz has enough whimsy to keep the kids entertained and the adults smiling. The land of Oz is indeed magical, with vibrant colours around every corner, memorable spots like the poppy fields and the dark forest for us older viewers, but even in saying all that I can't help but feel how fake it all is. This film suffers from the same troubles that plagued Burton's Alice in Wonderland, the visuals, although great for the story, add no sense of realism to the image. I hate overly used CGI in films to the point of noticing the awkward placement of actors in front of the green screen. The first major offender of this is Star Wars: Attack of the Clones, none of the actors made me believe they were in the settings they were. Both Wonderland and Oz have this same feeling. While I'm getting the negatives out of the way, I must say that what everyone is saying about Mila Kunis is true, she was miscast in this role. I think she was chosen more for her beauty and star power than her acting abilities, which is sad cause it looks like she really is trying here. The story for her character here is a sad one and the second half I think suffers a bit because the threat from her is not really present. I don't really know why I'm tip-toeing around the issue because those who know The Wizard of Oz, know that Dorothy kills one witch with her house and the other with water, leaving Glinda the good witch in a bubble as the saviour. Seeing the Kunis character go in the direction she does didn't really effect me as much as I wanted it to. Consider that the failure of the script more so than the actors. Not enough time is really given to her for her transformation to affect the viewer. The film opens in black & white and and the transformation to colour had a smile on my face. Despite the \"fakeness\" of some of the scenes (not all) Raimi does a decent job of not letting the effects overpower the film. Raimi steers the film in the right direction, but it is James Franco's shoulders it has to rest on. He is the type of actor that comes off as not really caring. It works in some films like Pineapple Express and he does manage to turn in some great performances, look at 127 days or Freaks & Geeks for that. Unfortunately I don't know if he has enough charisma and power to command a film like this. At times it looked like he was in the role, other times it felt like he couldn't care. Maybe it's his acting style, I can't really put my finger on it, but clearly Raimi sees something in him because he has worked with him previously on the Spiderman films. Where the acting does work, marvellously and in every scene is Rachel Weisz and Michelle Williams. Two polar opposites that look like they actually enjoy the characters and the movie they are in. They elevate the material a bit to make the drama more tangible. Whereas without them I think the film would have fallen more flat. The drama and character choices didn't really bring me into the story. The film didn't feel like it took chances, or tried to have complex situations for the characters. It had mapped out beats, hit them and marched on. It was nice seeing some nice Raimi touches in the final product. More than 25 years later and I still smile when I see Bruce Campbell getting hit in the face, knowing full well that it is Sam Raimi on the other end of the camera hitting him. Surprisingly, moments did indeed feel Evil Deadish to me, with the flying witches holding out their hands in a deadite possession form. But I digress. Oz is a good film, with weaknesses that bring it down. Raimi and two witches try their best to elevate some bland material and in the end we are left with a film that is neither great, nor memorable....just satisfactory enough.",
+         "Once again, Hollywood has come out with another horrific \"addition\" to the canon of classic children's stories. This awful prequel should be seen as another blemishment in Sam Raimi's career as a director. Once again, he's splattered cheesy special effects all over the screen in an attempt to impress the audience, but skips out on any type of depth of meaning. He still hasn't figured out that the magic of the movies comes out through the audience becoming engaged with the characters and the storyline, not by being overwhelmed by an over-expansive computer-generated world that looks like its made of plastic. James Franco and Mila Kunis should also be embarrassed by their utter lack of acting in this film. A half-hour into this tragedy and I was ready to leave the theatre. All the characters in the film seem like they're speaking their lines into the camera, probably a result of the fact that everything in the film looks like it was put into the film in post-production. I couldn't help but find it ironic that the screenwriters of Oz have the Kansas magician be tempted by the gold-filled riches of the Emerald City, but find the strength to resist. After viewing the film, all one can think of is how much Roth and Raimi sold out the magical, fantastical world of Oz for the evil riches that came with suckering the poor fans of the imagination of Baum with this over-bloated, horribly-written, poorly acted travesty of a film. They are the ultimate Kansas hucksters. Perhaps they need to look for a little more \"goodness\" and a little less \"greatness.\""
+      ],
+      "genres": [
+         "Adventure",
+         "Family",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Walt Disney Pictures",
+         "Roth Films"
+      ],
+      "summaries": [
+         "Oscar Diggs (James Franco), a small-time circus magician with dubious ethics, is hurled away from dusty Kansas to the vibrant Land of Oz. At first he thinks he's hit the jackpot-fame and fortune are his for the taking. That all changes, however, when he meets three witches, Theodora (Mila Kunis), Evanora (Rachel Weisz), and Glinda (Michelle Williams), who are not convinced he is the great wizard everyone's been expecting. Reluctantly drawn into the epic problems facing the Land of Oz and its inhabitants, Oscar must find out who is good and who is evil before it is too late. Putting his magical arts to use through illusion, ingenuity-and even a bit of wizardry-Oscar transforms himself not only into the great and powerful Wizard of Oz but into a better man as well.",
+         "In 1905, in Kansas, the small-time circus magician Oscar \"Oz\" Diggs is a weak, greedy, selfish and womanizer conman without character. He gives music boxes to the women that he seduces, and when a strong artist finds that his wife has a box in her belongings, he chases Oz through the circus. Oz flees in a balloon, but a tornado strikes his balloon and he lands on the Land of Oz. Oscar meets the gorgeous Theodora and she believes that he is the powerful magician from an ancient prophecy that will release her land from the Wicked Witch. Theodora tells that her sister and she are good witches, but the Wicked Witch had killed the king. Now the people are waiting for the magician to be their new king after defeating the witch. Theodora is seduced by Oz and brings him to the City of Emerald. When he sees the king's treasure, he decides to seek out the Wicked Witch and destroy her magic wand to get rid off her and become the king. Oz meets Glinda, who is supposed to be the Wicked witch, and soon he learns that Theodora's sister Evanora is the evil one indeed. Meanwhile Evanora lures he sister that is jealous and uses a spell to turn her into a wicked witch. Oscar learns that he is the only hope for the inhabitants of Oz that believe that he is a powerful magician and his only chance to defeat Evanora and Theodora is using illusion since he has no magic power.",
+         "A small-time magician is swept away to an enchanted land and is forced into a power struggle between three witches."
+      ],
+      "budget": 215000000
+   },
+   "movielensId": 101112,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2013-03-07",
+      "dvdReleaseDate": "2013-06-11",
+      "directors": ["Sam Raimi"],
+      "runtime": 130,
+      "movieId": 101112,
+      "title": "Oz: The Great and Powerful",
+      "mpaa": "PG",
+      "actors": [
+         "James Franco",
+         "Mila Kunis",
+         "Rachel Weisz",
+         "Michelle Williams",
+         "Zach Braff",
+         "Bill Cobbs",
+         "Joey King",
+         "Tony Cox",
+         "Stephen R. Hart",
+         "Abigail Spencer",
+         "Bruce Campbell",
+         "Ted Raimi",
+         "Tim Holmes",
+         "Toni Wynne",
+         "Rob Crites",
+         "William Dick",
+         "Gene Jones",
+         "John Lord Booth III",
+         "Suzanne Keilly",
+         "Shannon Murray",
+         "Ralph Lister",
+         "John Manfredi",
+         "Robert Stromberg",
+         "Channing Pierce",
+         "Brian Searle",
+         "Russell Bobbitt",
+         "Julie Gershenson",
+         "Dan Nelson",
+         "T.J. Jagodowski",
+         "John Paxton",
+         "Melissa Exelberth",
+         "Steve Forbes",
+         "Arnold Agee",
+         "Deborah Puette",
+         "Julius Kline III",
+         "Theresa Tilly",
+         "Betsy Baker",
+         "Ellen Sandweiss",
+         "Bella Shepard",
+         "Sasha Kida Reynolds",
+         "Ja'Vonne Cousins",
+         "Victoria Lurz",
+         "Dashiell Raimi",
+         "Oliver Raimi",
+         "Brandon Hamilton",
+         "Stevie Lee",
+         "Danielle Ragland",
+         "Bart McCarthy",
+         "Timothy Patrick Quill",
+         "Nicholas Lindsay-Abaire",
+         "Bill E. Rogers",
+         "Dan Hicks",
+         "Mia Serafino",
+         "Lanika Wise",
+         "Mikayla Bouchard",
+         "Nellie Ann Prestine-Lowery",
+         "Emma Raimi",
+         "Jayne Violassi",
+         "Jay Schwalm",
+         "Wendy Cutler",
+         "James Bird",
+         "Kenneth D. Ciszewski",
+         "Chester F. Guilmet",
+         "Robert Buck",
+         "Jim Moll",
+         "Bernie Allemon",
+         "Chidi Ajufo",
+         "Talia Akiva",
+         "AnnMarie Arcuri",
+         "Blake Arnold",
+         "Apollo Bacala",
+         "Kelly Bacon",
+         "Barb Baker",
+         "Ron Baratono",
+         "Cameron Barnett",
+         "Robert T. Barrett",
+         "Kevin Wayne Berger",
+         "Eric Brakke",
+         "Wayne Brinston",
+         "Colin Bryant",
+         "Ron Causey ",
+         "Grady Chambless",
+         "Lee Christian",
+         "Justin Chrzanowski",
+         "Will Clarke",
+         "Michael Clossin",
+         "Zachary Robert Craft",
+         "Zac Cunningham",
+         "Michael Dault",
+         "Omar Diop",
+         "Chase Edwards",
+         "Summer Edwards",
+         "Neil Ellice",
+         "Courtney English",
+         "John C. Epperson",
+         "Mike Estes",
+         "Vi Faulkner",
+         "Jessee Foudray",
+         "Carly Francavilla",
+         "Logan Fry",
+         "Nesti Gee",
+         "Derrick Gilliam",
+         "Jacob Godzak",
+         "John D. Green Sr.",
+         "Ryan Groves",
+         "Brice Harris",
+         "Nate Hatton",
+         "Niki Haze",
+         "Ron Heisler",
+         "Hans Ihlenfeldt",
+         "Alexander Christopher Jones",
+         "Roy Kellerman",
+         " Jr.",
+         "Dennis Kleinsmith",
+         "Doug Kolbicz",
+         "Bryan Lee",
+         "Kef Lee",
+         "Vong Lee",
+         "Amanda Lewan",
+         "Anna Li",
+         "Linda Linsley",
+         "Hannah Madigan",
+         "Davy J. Marr",
+         "Johnny Mara",
+         "Rebecca Mccarthy",
+         "Julia Metas",
+         "Bob Jay Mills",
+         "Reza Mir",
+         "Lori Mulligan",
+         "Jessica Nichole",
+         "Fionna Noori",
+         "Oz Noori",
+         "Heather Park",
+         "Jessica Petrik",
+         "Sage Porter",
+         "Jor él Quinn",
+         "Gene Richards",
+         "Lukas Ridge",
+         "Nicholas Ritz",
+         "Ari Rufino",
+         "Anthony J. Sacco",
+         "Keith Schloemp",
+         "David Schwager",
+         "Ashley Siloac",
+         "Nikki Smith",
+         "Paul J. Spear",
+         "Rachel Steele",
+         "Amy Sutherland",
+         "Eric Adam Swenson",
+         "Stephen Tako",
+         "Kevin Thompson",
+         "Lauren Tischler",
+         "Francisca Viudes",
+         "David Waldman",
+         "Filip Watermann",
+         "Michael O. Watkins",
+         "Matt Weinglass",
+         "Alaina Whitney",
+         "Jake Williams",
+         "Otis Winston"
+      ],
+      "imdbMovieId": "1623205",
+      "originalTitle": "Oz: The Great and Powerful",
+      "genres": [
+         "Fantasy",
+         "Adventure",
+         "Family"
+      ],
+      "youtubeTrailerIds": ["yyywumlnhdw"],
+      "plotSummary": "Oscar Diggs, a small-time circus illusionist and con-artist, is whisked from Kansas to the Land of Oz where the inhabitants assume he's the great wizard of prophecy, there to save Oz from the clutches of evil.",
+      "tmdbMovieId": 68728,
+      "avgRating": 2.92966,
+      "releaseYear": "2013",
+      "numRatings": 1372,
+      "posterPath": "/7qzLIcYR7ev7iXngY8NKHBZHwwT.jpg"
+   }
+}

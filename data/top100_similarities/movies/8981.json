@@ -1,0 +1,844 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "loss of loved one",
+            "id": 697
+         },
+         {
+            "name": "love at first sight",
+            "id": 699
+         },
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "photographer",
+            "id": 1003
+         },
+         {
+            "name": "cheating",
+            "id": 1332
+         },
+         {
+            "name": "lie",
+            "id": 2251
+         },
+         {
+            "name": "forbidden love",
+            "id": 3691
+         },
+         {
+            "name": "tea",
+            "id": 4262
+         },
+         {
+            "name": "lover",
+            "id": 4320
+         },
+         {
+            "name": "kiss",
+            "id": 5091
+         },
+         {
+            "name": "photography",
+            "id": 6025
+         },
+         {
+            "name": "secret love",
+            "id": 7879
+         },
+         {
+            "name": "times square",
+            "id": 8764
+         },
+         {
+            "name": "liar",
+            "id": 9468
+         },
+         {
+            "name": "sexchat",
+            "id": 9606
+         },
+         {
+            "name": "based on play or musical",
+            "id": 10181
+         },
+         {
+            "name": "death of father",
+            "id": 10201
+         },
+         {
+            "name": "falling in love",
+            "id": 13072
+         }
+      ],
+      "imdb_id": "tt0376541",
+      "video": false,
+      "title": "Closer",
+      "recommendations": [
+         5038,
+         462,
+         590,
+         401,
+         2289,
+         24684,
+         9675,
+         1985,
+         1989,
+         116,
+         1440,
+         39781,
+         6964,
+         8055,
+         4148,
+         4566,
+         3558,
+         8874,
+         2898,
+         22947
+      ],
+      "backdrop_path": "/e38KN46fgG0OynnckhN6plVqsIZ.jpg",
+      "revenue": 115505027,
+      "reviews": [{
+         "author": "Vincent",
+         "id": "54d1fa7f9251411b650022cf",
+         "content": "**Menage a Quatre**\r\n\r\nYou may like _Closer_ because of its flawed characters and their doomed relationships. I like it because it's square. The assorted combinations of love and friendship, scorn and resentment, among two males and two females are literally geometrical. Typically, the dependable love triangle pits three characters together, often a heterosexual convention establishing a male lead zig-zagging between two females, or a female lead choosing between two male suitors. What if we include an extra character? How many triangles can be made with four individuals? Four! And _Closer_ expertly covers them all. Next time you see it, draw out a square with each character occupying a corner. Then connect each of the couplings and triangles as they occur, beginning with Julia-Jude-Natalie. Jude falls for Natalie, introduces her to Julia who gets intimate with her camera. The Jude-Clive-Julia triangle is a clever one. Clive is introduced when Jude seduces him online pretending to be Julia who he meets at the aquarium. Often when a movie script or stage play adheres to a strict formula, it turns out flat and predictable. Not _Closer_. Applying a quadrangular network forces each character to cover all the bases, tagging up every way possible, pushing each juncture to the limit.",
+         "url": "https://www.themoviedb.org/review/54d1fa7f9251411b650022cf"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Anna Cameron",
+               "gender": 1,
+               "credit_id": "52fe434ac3a36847f8048f79",
+               "name": "Julia Roberts",
+               "profile_path": "/h13yvG0tRNMTAwciQXxYmQWdYW8.jpg",
+               "id": 1204,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Dan Woolf",
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048f75",
+               "name": "Jude Law",
+               "profile_path": "/4077Cyuo1mw53u1gNjLyQkqeZN0.jpg",
+               "id": 9642,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Alice Ayres",
+               "gender": 1,
+               "credit_id": "52fe434ac3a36847f8048f89",
+               "name": "Natalie Portman",
+               "profile_path": "/rtLTG4yrEcROXhTBGXMrbyiUEC5.jpg",
+               "id": 524,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Larry Gray",
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048f7d",
+               "name": "Clive Owen",
+               "profile_path": "/jm2as6tLcvHCYQvmMYM4VK6JEnr.jpg",
+               "id": 2296,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Customs Officer",
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048f85",
+               "name": "Colin Stinton",
+               "profile_path": "/hQAOFqXtTOrnbx1LYBMDkcAPyop.jpg",
+               "id": 23608,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Taxi Driver",
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048f81",
+               "name": "Nick Hobbs",
+               "profile_path": null,
+               "id": 23607,
+               "order": 5
+            },
+            {
+               "cast_id": 20,
+               "character": "Car driver (uncredited)",
+               "gender": 0,
+               "credit_id": "5498152d9251416e2b0082a2",
+               "name": "Steve Benham",
+               "profile_path": null,
+               "id": 1220476,
+               "order": 6
+            },
+            {
+               "cast_id": 21,
+               "character": "Chatty Exhibition Guest (uncredited)",
+               "gender": 0,
+               "credit_id": "5498154cc3a3686ae9008464",
+               "name": "Elizabeth Bower",
+               "profile_path": null,
+               "id": 1232670,
+               "order": 7
+            },
+            {
+               "cast_id": 22,
+               "character": "Customs Officer (uncredited)",
+               "gender": 0,
+               "credit_id": "54981577c3a3680511001488",
+               "name": "Ray Donn",
+               "profile_path": null,
+               "id": 1392726,
+               "order": 8
+            },
+            {
+               "cast_id": 23,
+               "character": "Coughing Man (uncredited)",
+               "gender": 0,
+               "credit_id": "549815a392514130fc006996",
+               "name": "Daniel Dresner",
+               "profile_path": null,
+               "id": 1402622,
+               "order": 9
+            },
+            {
+               "cast_id": 24,
+               "character": "Bus Passenger (uncredited)",
+               "gender": 0,
+               "credit_id": "549815c29251416e2b0082af",
+               "name": "Rrenford Junior Fagan",
+               "profile_path": null,
+               "id": 1402625,
+               "order": 10
+            },
+            {
+               "cast_id": 25,
+               "character": "Luke (uncredited)",
+               "gender": 0,
+               "credit_id": "549815dec3a3686ae900847c",
+               "name": "Antony Gabriel",
+               "profile_path": "/zd9tycc0hJaotZ8s8viNmFDnMZW.jpg",
+               "id": 1402629,
+               "order": 11
+            },
+            {
+               "cast_id": 26,
+               "character": "Smoking Man (uncredited)",
+               "gender": 2,
+               "credit_id": "57c85892c3a36868d0000080",
+               "name": "Michael Haley",
+               "profile_path": null,
+               "id": 18274,
+               "order": 12
+            },
+            {
+               "cast_id": 28,
+               "character": "Traveler (uncredited)",
+               "gender": 0,
+               "credit_id": "57c858f1c3a368691800008b",
+               "name": "Selena Mars",
+               "profile_path": null,
+               "id": 1617366,
+               "order": 13
+            },
+            {
+               "cast_id": 29,
+               "character": "Bartender (uncredited)",
+               "gender": 0,
+               "credit_id": "57c859309251416270000467",
+               "name": "Steve Morphew",
+               "profile_path": null,
+               "id": 1673059,
+               "order": 14
+            },
+            {
+               "cast_id": 31,
+               "character": "Bodyguard (uncredited)",
+               "gender": 2,
+               "credit_id": "57c85a67c3a36868d0000170",
+               "name": "Peter Rnic",
+               "profile_path": "/zOCtOfOL6w9HNl0OkUlcQDxczFq.jpg",
+               "id": 30450,
+               "order": 15
+            },
+            {
+               "cast_id": 32,
+               "character": "Bouncer (uncredited)",
+               "gender": 0,
+               "credit_id": "57c85abe92514162740005c2",
+               "name": "Robert Stone",
+               "profile_path": null,
+               "id": 1209051,
+               "order": 16
+            },
+            {
+               "cast_id": 62,
+               "character": "Traveller (uncredited)",
+               "gender": 0,
+               "credit_id": "593bb33cc3a3680f8700a935",
+               "name": "Jacqui-Lee Pryce",
+               "profile_path": "/3lp7b4ncDVQYjAkgRmxI3DmBz9L.jpg",
+               "id": 1813935,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048f6b",
+               "name": "Mike Nichols",
+               "profile_path": "/eJgJEVil7iOJ9sTAXLCVRKfeKKM.jpg",
+               "id": 5342,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048f71",
+               "name": "Patrick Marber",
+               "profile_path": "/4Zqbwq3sdeSCmmEeFh5dLMPI87H.jpg",
+               "id": 23606,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048f8f",
+               "name": "Patrick Marber",
+               "profile_path": "/4Zqbwq3sdeSCmmEeFh5dLMPI87H.jpg",
+               "id": 23606,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048f95",
+               "name": "John Calley",
+               "profile_path": "/8k5ZIUIRuH2TCJziry6ZPtvsZpO.jpg",
+               "id": 8406,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048f9b",
+               "name": "Cary Brokaw",
+               "profile_path": null,
+               "id": 6476,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048fa1",
+               "name": "Mike Nichols",
+               "profile_path": "/eJgJEVil7iOJ9sTAXLCVRKfeKKM.jpg",
+               "id": 5342,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048fa7",
+               "name": "Stephen Goldblatt",
+               "profile_path": null,
+               "id": 5582,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe434ac3a36847f8048fad",
+               "name": "Antonia Van Drimmelen",
+               "profile_path": null,
+               "id": 6492,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048fb3",
+               "name": "John Bloom",
+               "profile_path": null,
+               "id": 6491,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048fb9",
+               "name": "Tim Hatley",
+               "profile_path": null,
+               "id": 36695,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe434ac3a36847f8048fbf",
+               "name": "Celia D. Costas",
+               "profile_path": null,
+               "id": 4183,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048fc5",
+               "name": "Robert Fox",
+               "profile_path": null,
+               "id": 8448,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ac3a36847f8048fcb",
+               "name": "Scott Rudin",
+               "profile_path": "/zR8sdlGblto6dneAr2mckTowwEl.jpg",
+               "id": 2997,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c858a79251416cc6000148",
+               "name": "Michael Haley",
+               "profile_path": null,
+               "id": 18274,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c85942c3a36868d00000e1",
+               "name": "Steve Morphew",
+               "profile_path": null,
+               "id": 1673059,
+               "department": "Crew",
+               "job": "Stand In"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c85b66c3a36866e60002cd",
+               "name": "Paul A. Levin",
+               "profile_path": null,
+               "id": 60190,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c85c0c9251416fd1000213",
+               "name": "Michael Haley",
+               "profile_path": null,
+               "id": 18274,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57c85c5b925141627400068a",
+               "name": "Paula Jalfon",
+               "profile_path": null,
+               "id": 1065913,
+               "department": "Production",
+               "job": "Co-Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c85d6f9251417020000288",
+               "name": "Grant Armstrong",
+               "profile_path": null,
+               "id": 67202,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c85e07c3a36868d00002f7",
+               "name": "Hannah Moseley",
+               "profile_path": null,
+               "id": 1337394,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c85e29c3a36866d2000345",
+               "name": "Mark Raggett",
+               "profile_path": null,
+               "id": 49345,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c85e72c3a36868d0000348",
+               "name": "John Bush",
+               "profile_path": null,
+               "id": 66552,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57c85eb292514162810006b5",
+               "name": "Ann Roth",
+               "profile_path": "/cT4EtdqvG0Yq4EQ3LASXiwyndYi.jpg",
+               "id": 5493,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8b3b592514148e0000b0a",
+               "name": "Trefor Proud",
+               "profile_path": null,
+               "id": 1317305,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57c8b422c3a3685c02000b20",
+               "name": "Christine Blundell",
+               "profile_path": null,
+               "id": 1428470,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57c8b4a8c3a3685be6000b67",
+               "name": "Rachel Neale",
+               "profile_path": null,
+               "id": 1407850,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c8b4e092514148e9000b34",
+               "name": "Antoine Douaihy",
+               "profile_path": null,
+               "id": 1648110,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8b56ec3a3685be6000bcc",
+               "name": "Stuart Brisdon",
+               "profile_path": null,
+               "id": 1637823,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8b5ba92514148ee000a9c",
+               "name": "Jennifer Herbert",
+               "profile_path": null,
+               "id": 1459917,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8b66ac3a3685bf8000c2b",
+               "name": "Mark White",
+               "profile_path": null,
+               "id": 1608539,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8b6ae92514148ee000b06",
+               "name": "Ray De-Haan",
+               "profile_path": null,
+               "id": 1393551,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8b703c3a3685bf1000b70",
+               "name": "Sondra James",
+               "profile_path": "/4ZJkBxkwM1Ub6UQ5LFSvzGDFBdX.jpg",
+               "id": 171297,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57c8b80fc3a3685bec000d18",
+               "name": "Nancy Allen",
+               "profile_path": null,
+               "id": 1337468,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8b9c992514148e9000d2c",
+               "name": "Suzana Peric",
+               "profile_path": null,
+               "id": 142165,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57c8ba19c3a3685bf8000db6",
+               "name": "Mary Bailey",
+               "profile_path": null,
+               "id": 1395373,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8ba61c3a3685bfc000cc1",
+               "name": "J. John Corbett",
+               "profile_path": null,
+               "id": 1537443,
+               "department": "Crew",
+               "job": "Title Graphics"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8bb06c3a3685bec000e5c",
+               "name": "Nicole Gregory",
+               "profile_path": null,
+               "id": 1673230,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8bb61c3a3685bf1000cf8",
+               "name": "Pete Cavaciuti",
+               "profile_path": null,
+               "id": 1408354,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8bb88c3a3685bec000e98",
+               "name": "Clive Coote",
+               "profile_path": null,
+               "id": 1541841,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8bbcec3a3685be9000eff",
+               "name": "Andrew Buckland",
+               "profile_path": null,
+               "id": 1533060,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57c8bc0fc3a3685c02000e9e",
+               "name": "Jamie Baker",
+               "profile_path": null,
+               "id": 1553887,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8bcb2c3a3685bf1000d6d",
+               "name": "Doug Spilatro",
+               "profile_path": null,
+               "id": 1673231,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8bcdb92514148e0000eff",
+               "name": "Olaf Wendt",
+               "profile_path": null,
+               "id": 1403876,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "581b84bf92514115d3001aec",
+               "name": "Duncan Reid",
+               "profile_path": null,
+               "id": 65457,
+               "department": "Production",
+               "job": "Co-Executive Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 20.617467,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 2288,
+      "vote_count": 1130,
+      "budget": 27000000,
+      "overview": "A witty, romantic, and very dangerous love story about chance meetings, instant attractions, and casual betrayals. Two couples disintegrate when they begin destructive adulterous affairs with each other.",
+      "similar": [
+         5123,
+         4347,
+         319,
+         858,
+         334,
+         2652,
+         11216,
+         804,
+         258480,
+         806,
+         10691,
+         425,
+         93456,
+         137106,
+         907,
+         1254,
+         26973,
+         859,
+         45772,
+         8390
+      ],
+      "original_title": "Closer",
+      "runtime": 104,
+      "poster_path": "/fGGaokx4k00S0J603VG53Qlr9jz.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+         "name": "Columbia Pictures",
+         "id": 5,
+         "origin_country": "US"
+      }],
+      "release_date": "2004-12-01",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "If you believe in love at first sight, you never stop looking.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Mike Nichols"],
+      "runtime": 104,
+      "synopsis": "Dan (Jude Law) is a young writer walking down a street in downtown London. He spots a young woman (Natalie Portman) walking in the opposite direction and they make eye contact and begin to smile at one another. Not being used to cars drving on the left side of the road in the UK, she steps into traffic and gets hit by a car. Dan runs to her side and she wakes up and says \"Hello, stranger.\" She isn't badly hurt, and Dan takes her to the hospital where they start to get to know each other. As they're leaving the hospital, they pass by a park that Dan remembers from when he was little. They pass a wall and notice that it has the names of firemen, policemen, or anyone else who has given their life to save another person. They get on the bus and continue their conversation. We learn that Dan is a wanna-be writer who daylights as an obituary writer. The young woman introduces herself as 'Alice Ayres'. She's a stripper from New York CIty who has come to London to leave a bad relationship. They finally arrive at Dan's office. He says goodbye and starts to leave and then turns around. When asked if he has a girlfriend, he says \"yes\". One Year Later. Dan is having his photo taken in a small artists studio by Anna (Julia Roberts). Dan and Alice are living together, and Dan has written a novel about his romantic life with Alice. Anna is taken his photo for the dust jacket of his recently published book. Anna is an American photographer who mainly takes portraits of strangers. She mentions that she likes to go to the aquarium and possibly take photos of people there. She reveals to Dan that she's currently separated from her husband. He learns that shes read his book and likes it. They kiss one another and she learns that he's got a girlfriend and the book is based on her. She ends the kiss at the point, while hes professing that he likes her a lot and needs to see her. She tells him to get over it. At this point the doorbell buzzes and its Alice, whos come to meet Dan having gotten off her job at a local coffee shop. He lets her up to the studio where she and Anna meet. Alice asks Anna to take her photograph and Dan leaves so the two of them can be alone. She begins to take her photo and Alice reveals that she heard their conversation on the intercom when she was downstairs. She turns away and Anna begins to apologize. Alice turns back with tears in her eyes and tells her to take the picture. A little later, Dan is in his apartment on his computer. He's in a sex chat room and has logged on as a woman for a joke. He meets another man on the web who's name is Larry (Clive Owen). He's a dermatologist and a sex addic logging on while at work. When he asks Dan for a name, he tells him 'Anna'. They write some hot and heavy stuff back to one another and Dan offers to meet Larry in person as a joke. He tells him to meet him at the aquarium. Larry goes there the next day and Anna is there as a coincidence. He approaches her and they discover that Dan has played a joke on him. He's embarrassed, she's amused, and they start to hit it off. Four months later. Dan and Alice are getting ready to go to Anna's art exhibition. We also learn that Dan's father has passed away, and Dan is going to the funeral in the countryside after the art exhibition. Alice wants to go with him and support him, but he wants to be alone. They go to the exhibition and see the photo that Anna took of Alice with tears in her eyes. While Alice is looking at it, she meets Larry. They have a brief discussion and mild flirtation, and she learns that Larry and Anna are dating. Dan is still infatuated with Anna, and she tells him how she and Larry met, and that they call him cupid. We also learn that Dan's book failed and he is once again an obituary writer. Dan puts Alice in a taxi cab, pretending that he's heading straight to the funeral, when actually he goes back to talk to Anna again. Another Year Later. Dan comes into his apartment at first telling Alice that hes been at a business dinner. Finally, he admits that hes been seeing Anna and that they've been having an affair since the evening at the art exhibition. At the same time, Anna is in her apartment with Larry. They are married now and Larry has just returned from a business trip. She doesn't tell him anything at first. Larry says he can't stand lying to her and admits that he slept with a prostitute on his trip. She simply tells him it's OK and then it comes out that she's been having an affair with Dan. Larry is furious and asks her why she bothered to marry him. She says she tried to end it with Dan when she and Larry decided to get married, but it started up again. Larry wants explicit details about her and Dan and she gives them to him. He's furious and tells her to leave. Back at Dan's apartment, Alice is heartbroken and in tears. Dan tries to comfort her and apologizes for hurting her. Shes leaves the apartment and he has no idea where she's gone. Six Months Later. Larry enters a strip club for a drink and he spots Alice, who's working there as a stripper wearing a skimpy top, G-string and a pink wig. He arranges a private dance with her in room. She gives him one willingly. Afterwards, she flirts and smiles and tells him her name is 'Jane Jones' as part of the act. Larry is torn up about his recent divorce proceedings from Anna and gets frustrated that Alice plays with him and won't take him seriously. He says he wants to sleep with her and she tells him \"no\". Then he asks for a more intimate look at her, she does what he asks. Another Few Months Later. Anna is rushing to meet Dan at a music concert. She apologizes for being late. They sit to have a drink and we learn that she met Larry earlier in the day to have him sign the divorce papers. A few moments later, Dan guesses that Anna slept with Larry that day, and he was right. A flashback shows the meeting earlier, and Larry saying that he will sign the divorce papers if she'll sleep with him one last time, she agrees. Anna says she did it to end the whole thing and that all Larry got was her body. Dan is still upset. Another Few Months Later. Dan storms into Larry's office and angerly reveals that Anna has left him and is back with Larry. Dan tries to confront him and claim that this is all Larry's fault, when Larry reveals that Anna never did file the divorce papers. She is back with Larry because she's doomed to be in rocky relationships because she's a depression junky, but he loves her all the same and wants to be with her. Larry is at first angry with Dan and then begins to pity him because Dan is truly heartbroken and starts to cry. He tells Dan to go back to Alice, and Dan reveals that he doesn't know where she is. Larry tells him about the strip club and assures him that he didn't sleep with Alice when he saw her there. As Dan is leaving, Larry tells Dan that in truth, he did sleep with Alice. Dan goes to the strip club and sees Alice dancing on the stage. They both make eye contact with each other and seem to appear happy to see each other once again. Alice and Dan are in a hotel room near Heathrow Airport. They seem really happy together. She's planning to return to New York and has decided to take him with her as a treat. Alice notes that this is the day when they first met on that London street corner which was four years ago, and Dan remarks how time flies by so fast. Dan asks Alice if she slept with Larry, and she tells him that she didn't. He demands to know the truth. Eventually he leaves the room to get cigarettes and asks Alice for the truth when he gets back. He turns around on his way out and returns to Alice with a flower. She tells him that she's not in love with him anymore. She tells him she stopped loving him just now because he kept pressing about Larry. Finally she admits the truth: she and Larry did sleep together that night after they ran into each other at the strip club. Dan tells her he has known all along and has forgiven her already. He tells her that it doesn't matter and he loves her, but she's fed up and tells him to leave. She starts yelling at him and he slaps her. Shocked by this outburst of violence, Dan leaves the hotel room. Alice arrives back in New York by herself. At the same time, Dan has remained in London. He passes the park from the first day they met and notices one of the names on the wall is 'Alice Ayres'. Back in New York, when \"Alice\" is going through immigration, we see that her real name on her passport is Jane Jones (the name she had given Larry when he had pressed her for her real name in the strip club). Jane/Alice walks down a busy street in New York, and then she crosses a street against the \"Don't Walk\" signal, reminding us of the opening scene when she carelessly crossed a street in London, was struck by a taxi, and met Dan. Nonetheless, she is back in her home country, to face an uncertain future... alone.",
+      "writers": [
+         "Patrick Marber",
+         "Patrick Marber"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0376541/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM5NDM3NDc1OF5BMl5BanBnXkFtZTcwNzE1MzcyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Natalie Portman, Jude Law, Clive Owen | See full cast and crew »"],
+      "reviews": [
+         "I've been hearing lots of negativity about this movie. I think a lot of people have been shocked, frankly, by the raw and rough nature of the film. Having read the play, I've been looking forward to it for about a year now, and it's honestly one of the best plays I've ever read. Mike Nichols presents it in an amazing way, very faithful to the words as they're written (and they should be, for the movie is also written by the man who wrote the play, the brilliant Patrick Marber). It's a brutal topic, sex and love, especially when they're combined. I thought the movie was amazing. It captured all of the vulnerability, caustic harshness, and acerbic flirtation that the play vibrated with. All of the cast brought the movie alive. It uplifts and then brings you way down, but that's the point, and yet at the end, I didn't feel depressed or saddened, just really really awake and curious. It's the feeling you get when you get \"closer\", I suppose. Natalie Portman, in a tour-de-force performance, is the standout by far. Maybe it's because she's the youngest, and not expected to be that awesome, but she is. Anyways, her Alice is flirty and sweet, caustic and manipulative, evasive and yet very open, sexual and gloomy all in one character. She has the best chemistry with the men - whether it be purely sensual with Clive Owen, or innocence and affection with Jude Law. She comes alive with the two guys, and their scenes are ones to look forward to. Julia Roberts, whom everyone looks towards, is not bad in this film. She's very understated and good, but she is outshone in nearly every scene by whomever she's acting with. Clive Owen is absolutely astounding, and he's definitely on everyone's radar screen. As the man of experience and \"simplicity\", as Jude Law's character comments, he's brash and hotheaded, but also extremely clever. Owen perfectly plays the sleazy, unlikeable character, but somehow manages to appeal to the audience and even though he's a disagreeable character, I think many managed to find something all right about him - Owen's human sense in Larry. Jude Law is simply very very good; neither astounding nor bad. The only reason he does not stand out is the fact that we've all expected him to do a good performance. And he does, he has a great performance. He and Portman have amazing scenes together, and he's always on par. Simply put, the movie is not for everyone (especially not for seeing with a parent or young child); it's a mature adult flick, and does not back down from anything. It's high drama - with all the uplifting romance and brutal arguments of relationships. It's a story about people.",
+         "Mike Nichols directed, in my opinion, one of the three best adaptations from stage to screen. \"Who's afraid of Virginia Woolf\" (The other two being Sidney Lumet's \"Long day's journey into night\" and Elia Kazan's \"A Streetcar named Desire) After the extraordinary television adaptation of \"Angels in America\" I also would have pleaded with Mike Nichols to do \"Closer\" Sorry I'm rambling. What I'm trying to say in a rather convoluted way is, simply, thank you Mr. Nichols. Adult themes, conceived and performed by adult artists. I hope it makes zillions of dollars so we can have more of it. Jude Law is a Peter O'Toole without the steroids, Julia Roberts a Jeanne Moreau with an American passport, Clive Owen is a child of John Garfield and Peter Finch and Natalie Portman a Jean Peters with a college degree. I saw the film twice in a row, I hadn't done that in years. Not since \"Drugstore Cowboy\", \"Apartment Zero\" and \"Sex Lies and Videotape\" The unfolding of the dark happens in front of our eyes and it feels chillingly familiar. Lies we tell each other with so much conviction with so much honesty. The only real thing is the pain and the loneliness. It doesn't sound like a very entertaining night out but believe me, it is. Go, see for yourself. You may have to confront something you didn't want to confront. That's part of the process call growing up. Who's afraid of that?",
+         "This film is beautiful, terrible, and real. Sadly, in a world where we're used to hearing stories in the simplest and most easy to swallow terms, I doubt that the average lover of romantic comedies and action flicks will like it. This is a story about the perpetual struggles found in human relationships and if you're used to seeing on-screen romance played out with operatic tragedy, (The English Patient) fable-like tenderness (Like Water for Chocolate), or perfect endings (Officer and a Gentleman), you might be out of luck with this movie. If, however, you think you'd like to see something a little more up-close, complex and real, this might be a movie that will change the way you think about love. This is a film that focuses less on individuals, and more on the relationships between those individuals. If the four characters in Closer were represented by four points on a map, this movie would be a study of the lines that cross between those points, rather than the points themselves. In this way, we can easily see ourselves and each other in what happens on screen: you don't have to be a photographer to relate to Julia Roberts' self-loathing adulterer, because the film doesn't strive to tell the story of where she came from or why she takes pictures. For her character, it strives to tell the story of someone completely overcome both with lust and with the guilt that accompanies it. These two compulsions feed off of each other so feverishly that she cannot find happiness either in acting on her lust or in abstaining. Telling this side and only this side of her story helps it become more universal, as do the stories of her surrounding characters. Patrick Marber made only a few changes in adapting his play to the screen, resulting in distinctly theatre-esquire dialog. This intense stylization helps the unconventional narrative seep into your unconscious: with the characters speaking a slightly altered language, it becomes easier to accept their slightly altered depiction of romantic entanglements. Make no mistake, Closer pulls no punches when it comes to the ugly side of romance, of commitment, of love and of the need to be loved. Marber seems to be preoccupied with the way a slighted lover will beg or even demand to know every excruciating detail about their lover's infidelity. This inexplicable and seemingly masochistic phenomenon pervades Closer on both a literal and thematic level, because Marber has a very simple and universal idea to present. This need to hear these painful truths is the thesis of Closer. What we're soon able to see through the weaving of the characters' relationships is that this desire is a manifestation of any lover's need to possess his or her beloved. The victim of an infidelity grapples not just with the pain of betrayal but also with the inescapable knowledge of a most intimate element of their lover that will never, ever be theirs. In the same way that a man might find himself unable to live with the knowledge of his girlfriend's past sexual encounters (a la Chasing Amy), the cheated-on man or woman has to confront their pain, however irrational, for being unable to think of every element of their partner as their own. Closer revolves around this theme. On the one hand, it does this through the literal story of a man wanting to know the details of how and where and with whom his wife cheated on him, vainly trying to take back those intimate moments and claim them as his own. On the other hand, however, Closer uses this theme in a much more general way. A man may grasp at the lustful experiences of his wife, trying to reverse his exclusion from them, but the way that grasping is employed in Closer shows us that even if it weren't for the infidelity, he would be grasping anyway. We all would. Our need to feel we have complete possession of our lover is what drives us to desperately dig deeper and deeper, trying to gain some secret knowledge of who and what they are at their most pure and uncompromised level. In the end, however, this level doesn't exist. The digging, the struggling and the grasping is futile as no person can be reduced to a singular truth. We are an entirely different thing, practically a different animal, from moment to moment. As Natalie Portman's character so perfectly illustrates by the end, even the most mundane details about who we are can turn out to be transitory or meaningless. That's not a pretty area of human life to shine a light on but Mike Nichols does it and with an unflinching ability. If it's a perspective you're prepared to spend some time considering, Closer might just be the movie to get the ball rolling.",
+         "What a treat. Most of the people who came with me, left, half way through the film. I stayed to the end and I loved it. It moved me. A rarity this days. The face of Jude Law is, still, so full of possibilities. He seems unafraid of darkness. Strong. This is his most grown up performance. I can't wait to see what he'll become. (If he stays away from Hollywood as much as temptations permit, and keeps that purity, that makes his darkness so powerful, as intact as humanly possible). Julia Roberts is wonderful in a performance part Margaret Sullavan, part Jeanne Moreau but all her own. Clive Owen is a force of nature. Dangerous, compelling, human to the hilt. And what about Natalie Portman? Wow. No surprise here. But what a surprise. I'm sure she is going to amaze us for years and years to come. I'm really glad I stayed to the end.",
+         "It's once in a very rare time that I go to the movies and I'm treated as an adult. I see a film that is intelligent, thought provoking, provocative and rawly realistic. Closer is that film. It present an honest portrayal of four severely unlikable characters and they screw with each others love lives back and forth. The film is told in adult sporting complexity through the growing plot points , the way it's filled and it's tasty advancing dialogue. Everyone in the film turns in a powerhouse performance worthy of Oscar consideration. Ms. Portman is wonderful as Alice shedding her blockbuster star wars acting skills and portraying someone multi dimensional with heart and pizazz. Julia Roberts stars as Anna in a cold, subtle performance which will leave audiences appreciating her acting believability as she pounces through each of her scenes with charismatic force. Jude law and Clive Owen are the real surprises here both turning in wonderfully appealing performance. Strong, weak, flawed and memorable. Especially whose last outing was the entertaining but mediocre action summer pic King Arthur. The film has wonderfully tight direction and sports beautifully placid colors and a fine adult score. The film draws dangerously close to being a near perfect film. I only wish it could've gone on for abit longer I wasn't completely satisfied to the ends of the characters on which we were give. but life itself isn't perfect or satisfying and this is a slick of someones life. Rush out and go see Closer! Oner of the best film's of the year!",
+         "This is the most honest film I've ever seen. Although I'm sure there are critics out there who will comment on the explicit language rather than the story, anyone who's ever been in a dysfunctional relationship can relate to at least some part of this film. I for one found it a very personal and shockingly accurate depiction of how human beings use love and sex to unintentionally destroy each other. The performances were magnificent from all angles. Mike Nichols has done it again. This film is \"Carnal Knowledge\" for the new millennium. If the Academy does not recognize \"Closer\" as a Best Picture candidate, then the Academy should no longer be recognized as the authority on achievement in film... yes, it's that good.",
+         "I saw a sneak preview of this film and thought it would be good but was stunned by its unique flavor and strong character arcs that leaves you wondering if you're watching a Mamet play or a classic film. The story gets more and more complex and the acting is so superb that it adds a certain believability to it that would lack with a less reputable cast. Jude Law is as always sensational as a variant of his Alfie charaacter, and Natalie Portman has reached a level of maturity that was truly surprising, not to mention wearing some of the sexiest stripper outfits one can imagine. And Clive Owen is a perfect match for Jude that turns into a perfect ego cock match that creates so much delightful drama that you wonder how far they will push the edge. There are parts of the story that seem a bit far-fetched but its Hollywood baby so with this stellar cast you let a few issues like that fly because you truly are at the edge of your seat wondering how twisted these two pairs of lovers will get. If you happen to have just finished with a relationship or been cheated on recently id highly advise to bring your heart ready for rampage or lots of tissues but its depth is so provocative that you leave the theatre with so many questions about your own personal life - which personally is what makes the difference between a basic movie and a magical one that literally makes one believe you're watching a true story. Enjoy and hope you never run into one of these characters.!",
+         "Closer: A Mike Nichols delivers his best work yet. CLOSER is a well crafted dissertation on art's reflection of the human condition, particularly the dependence on romantic relationships. It delivers an intimate film that actually achieves depths rarely seen on screen. Kubrick's Eye's Wide Shut only scratched the surface of literal naked lies that represent sexual game-playing on screen. His work came off as a freshman treatise on relationships in a pervy, self-obsessed way. Nichols and screenwriter Patrick Marber deliver a full and rich study on the difficulties of love and sexual tension. Without ever showing a sex scene on screen they are able to portray the nasty nature of jealously, lust and obsession without actually exploiting these acts as Kubrick and countless others have done. The result is a pure _expression of the realization that we don't know anything when it comes to assessing truth in character. Alice (Natalie Portman), a former stripper, is hit by a car in London as she forgets to look right. Dan (Jude Law) comes to her rescue and guides her to the hospital before guiding her into his life. Dan writes obituaries but soon finds a novel in himself thanks to Alice. While shooting the photo for his book he falls for the photographer Anna (Julie Roberts) who pulls back from him given that he's with Alice. For light-style revenge Dan sets up Larry (Clive Owen) in an Internet sex chat room to meet Anna thinking this will embarrass him and her. Cupid backfires thus throwing Larry and Anna into a relationship of their own. First impressions, like all art, can only show you broad strokes of character like stereotypes and lies. Alice is presented as a young girl in need of saving, literally. Anna is a strong, independent artist who seems smart in her career and choices. Dan is a struggling, sensitive writer in search of a muse, someone to inspire and rescue. Larry is a sex obsessed dermatologist and self-described caveman. By the end of the film, however, the audience will get a deeper and more profound view of all four characters and realize we just don't know them as well as we think. Acknowledging that film can be art, the screenwriter is skilled with dialog that reflects the illusionary quality that is art. Every piece of conversation, every word has meaning, reflection and sometimes foreboding for what is to come and the gaps in story and exposition brilliantly leads the audience to fill in those elements with their own interpretations. It is those interpretations and broad-stroke impressions that the film is there to question. Alice, in the scene at Anna's photo exhibit, discusses this very concept to Larry when discussing her reaction to the photos and the show. The function is just a big lie, the glossy photos of people's faces don't' show the real person, the fancy people at the party only reflect that same quality. Everything is for surface show - one-dimensional illusions of character. Alice, Anna, Dan and Larry are those photos just in moving form but that makes all the difference. The movement and editing of the film allows us to jump through months and years of their relationships to unpeel parts of the illusion of character and stereotypes. We can explore wrong assumptions about characters and that should make us explore the real-world difficulties of knowing people, really knowing them and not just their image or attitude. Many will just see this film as a sad story of four wounded people making bad relationship choices. This is really sad because this film is truly a great wake-up call to humanity to embrace a new approach and attitude about art and people. Strength can be a weakness. Vulnerability can be empowering. Dependence can be comforting. Nothing can be valued or viewed without bias and prejudice. Great art, like this film, can sometimes achieve a new way to show us how wrong we can be when we let our bias prevent us from just experiencing life and being open to shifts in perception. So take a closer look, at this film and the life around you. You just might find happiness in walking away from the expected.",
+         "Have you ever seen a human heart? It looks like a fist wrapped in blood.... Only in the film Closer can the universal symbol for love and devotion be brutally manipulated into a tool, one whose sole purpose is to express men's vile and barbaric proclivities. But this isn't your ordinary love story, in fact when viewing Mike Nichols newest drama, you can throw everything you thought you knew about modern relationships out the window. In Closer, your best bet is to expect the unexpected. If you are searching for a traditional romance of sorts, this isn't the film to turn to. If you are searching for a film to bolster up your Holiday spirit in anticipation for the Christmas season, then have a Jimmy Stewart marathon. But, if you are open to the idea of seeing a film thick with hostility, brutal honesty and dizzying intellect... then this could be a film that could satisfy your expectations. Let it be said, that at the very least this is a film to be marveled. It is such a well-crafted production, that you can't help but appreciate the obvious talent that went in to making this movie look as glossy and stylish as it does. Not to mention, how splendid the cast is... I only wish I could say the same for the characters that they play... These gorgeous creatures, exude radiance and outer beauty, yet what lies within their psyche is brutal and cold. Based on pre-conceived notions, it's hard to see 'America's Sweetheart', Julia Roberts, or the charming Brit, Jude Law utter such biting, vicious, and somewhat disturbing statements. The character's have virtually no consciences, and care about little more than appeasing their own personal urges and impulses. The men in particular seem to be the most primitive in their acting upon their animalistic instincts. Although, the woman are far from innocent. Each of the four leads harbors a series of secrets they are hesitant to unleash upon their counterparts. This blanket of mystery leads each to act in contemptible ways. The character's are all terribly detestable and obnoxious, yet still put on a facade of refinement. It's unbelievable how articulate and intelligent these characters really are. Every line that comes out of their mouth has an aura of brilliance, and while one may find their comments offensive, you can't deny that there is a lot of truth behind their sentiments. The dialogue drives the film, and serves as another artistic device for the director... it is truly poetic. The entire film is in essence, a critique on the human race... a social commentary that exposes the underbelly of the modern relationship. A disheartening subject to be sure, and Nichols does not shy away from stating it like it is. The story basically revolves around four characters and the ensuing relations between them. It is a very slow moving film driven entirely by the intelligent, cynical and piercing dialogue that spills out of the character's mouths. There are probably only ten scenes in the whole film, which goes to show you how lengthy each episode runs. Yet, I never felt as though time was standing still... I was so wrapped up in the character's lives and their ever present struggles to worry about the scene's length. A technique that was implemented by the veteran director, Mike Nichols is that there is no real sense of time in the film. The story spans over four years, a gimmick which I thought was a brilliant way to disorient the audience into the same dizzying mindset the characters themselves possess. The four leads, are remarkably and perhaps unrealistically witty... Yet, in many instances they use this uncanny intelligence in ways that make you cringe with disapproval. Those with an optimistic attitude, would be best off suspending disbelief while watching this film. An open mind is a must, and if you are easily offended... then you'd be best off watching Disney cartoons or after-school specials. This movie doesn't even attempt at hiding behind MPAA restrictions, and instead pushes the limits by having the entire film revolve around the 'behind closed doors' aspects of a relationship. Sexual slurs, derogatory statements, and painful betrayal all pollute what in an idealistic world would be a text-book perfect relationship. Don't expect a happy ending. But, be sure to expect dialogue that sizzles and pops, and stings those who it is directed at. C|oser is a film that divides audiences like none I have seen before. Love it or hate it, you will be glad you saw it... 3.5/4",
+         "The strength of Closer, both as a play and a motion picture, is the flawless, mature and beautifully crafted dialogue. Patrick Marber's screenplay is a testament to his truly great writing ability, as not much of the original text needed to be adapted in order to work appropriately and effectively on screen. The raw emotion and base convictions of these four tragic characters (all acted exquisitly) is given to us primarily through their words and those words are all we need. If you need more than words and are looking for a feel good love story, steer clear, you will only be disappointed. However, if you are looking for a piece that will intrigue your senses, causing you to examine your own soul, your own convictions, then I highly recommend Closer. Like Shakespeare, Williams, and O'Neil, whose words are a testament to the condition of their lives and times, Marber, through his language and presentation of these four exquisite lost souls, forces the mind to acknowledge and deal with the most base of our natural tendencies, painting a brutally honest portriat of the human condition in the 21st century."
+      ],
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Columbia Pictures",
+         "Inside Track 2",
+         "Aquarium Productions"
+      ],
+      "summaries": [
+         "Smart-but-ineffectual journalist Dan \"We use euphemisms!\" cannot decide between his girlfriend, loving-but-clingy waitress Alice, or his lover cold-but-intellectual photographer Anna; herself indecisive between Dan and honest-but-thuggish \"You're bloody gorgeous!\" doctor Larry. The film, as Tarantino might put it, puts the four leading characters in a box and strips them apart.",
+         "An elaborate character study of two London couples as they engage in an ultimate game of partner swapping. Alice/Jane is a gorgeous young runaway from New York's seedy sex industry; she soon pairs up with Dan, a thoughtful but unsuccessful novelist and journalist, who authors a book about her. Anna is a quietly independent divorce and successful photographer. After Dan makes a move on her during a photo session for the book, she rejects Dan, who retaliates by tricking her into a relationship with Larry, a dermatologist with the lust and manners of a soccer hooligan. The plot revolves around the infatuation of the couples for one another. If they could only treat these dalliances with the silence they deserve, there would be no story here. Instead, they are brutally \"honest\" about their faithlessness, sometimes inventing boinks that never occurred to \"test the love\" of their significant other. Ultimately, each ends up with the partner for whom they are best suited; but has their desire to \"win\" at the game of love diminished their capacity to love and to enjoy its fruits?",
+         "In London, the new arrival Alice Ayres meets the mediocre obituary journalist Daniel and they move together. Dan writes a book, inspired in the life of Alice, and while photographing for the release of the book, he meets the photographer Anna. Dan \"introduces\" the dermatologist Larry to Anna, and they get married. However, Dan and Anna have a passionate affair, complicating the relationship of the couples.",
+         "Set in London, England, good Samaritan Dan Woolf, a struggling writer, takes Alice Ayres, a shady young woman and part-time stripper, to the hospital when she's hit by a car, and they fall in love. One year later, Dan meets photographer Anna Cameron and tries to pick her up, but she rebuffs him. In revenge, Dan sets Anna up for an embarrassing encounter with sex-addicted dermatologist Larry Gray, but the two end up seeing each other. Then another year later, Dan and Anna begin an affair of their own, and relationships between the four collapse. Over the next year, all of them become obsessed with hurting each other and wreak some heavy emotional damage. Will any of them be strong enough to put this destructive sequence of events to a stop?",
+         "The relationships of two couples become complicated and deceitful when the man from one couple meets the woman of the other."
+      ],
+      "budget": 27000000
+   },
+   "movielensId": 8981,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2004-12-01",
+      "dvdReleaseDate": "2005-03-29",
+      "directors": ["Mike Nichols"],
+      "runtime": 104,
+      "movieId": 8981,
+      "title": "Closer",
+      "mpaa": "R",
+      "actors": [
+         "Julia Roberts",
+         "Jude Law",
+         "Natalie Portman",
+         "Clive Owen",
+         "Colin Stinton",
+         "Nick Hobbs",
+         "Steve Benham",
+         "Elizabeth Bower",
+         "Ray Donn",
+         "Daniel Dresner",
+         "Rrenford Junior Fagan",
+         "Antony Gabriel",
+         "Michael Haley",
+         "Selena Mars",
+         "Steve Morphew",
+         "Peter Rnic",
+         "Robert Stone",
+         "Jacqui-Lee Pryce"
+      ],
+      "imdbMovieId": "0376541",
+      "originalTitle": "Closer",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["BdmOjfGTUzQ"],
+      "plotSummary": "A witty, romantic, and very dangerous love story about chance meetings, instant attractions, and casual betrayals. Two couples disintegrate when they begin destructive adulterous affairs with each other.",
+      "tmdbMovieId": 2288,
+      "avgRating": 3.59616,
+      "releaseYear": "2004",
+      "numRatings": 4919,
+      "posterPath": "/fGGaokx4k00S0J603VG53Qlr9jz.jpg"
+   }
+}

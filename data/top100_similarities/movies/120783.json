@@ -1,0 +1,998 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "prison",
+            "id": 378
+         },
+         {
+            "name": "robbery",
+            "id": 642
+         },
+         {
+            "name": "gold",
+            "id": 1321
+         },
+         {
+            "name": "boat",
+            "id": 1422
+         },
+         {
+            "name": "mine",
+            "id": 1960
+         },
+         {
+            "name": "motel",
+            "id": 2669
+         },
+         {
+            "name": "chase",
+            "id": 3713
+         },
+         {
+            "name": "australia",
+            "id": 5657
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "melbourne",
+            "id": 9941
+         },
+         {
+            "name": "heist",
+            "id": 10051
+         },
+         {
+            "name": "car chase",
+            "id": 15483
+         },
+         {
+            "name": "double cross",
+            "id": 33456
+         },
+         {
+            "name": "prison break",
+            "id": 191047
+         },
+         {
+            "name": "prison life",
+            "id": 207445
+         },
+         {
+            "name": "perth",
+            "id": 210108
+         }
+      ],
+      "imdb_id": "tt2452200",
+      "video": false,
+      "title": "Son of a Gun",
+      "recommendations": [
+         245916,
+         154400,
+         266396,
+         265208,
+         244509,
+         227300,
+         252178,
+         254904,
+         284536,
+         169917,
+         241554,
+         334074,
+         246080,
+         241239,
+         157845,
+         266285,
+         243935,
+         190469,
+         253626,
+         255157
+      ],
+      "backdrop_path": "/7UWPr9LUq3GizuZDG3e6PvSlvck.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Brendan Lynch",
+               "gender": 2,
+               "credit_id": "5422364bc3a368087a000643",
+               "name": "Ewan McGregor",
+               "profile_path": "/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg",
+               "id": 3061,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "JR White",
+               "gender": 2,
+               "credit_id": "54223652c3a3680883000691",
+               "name": "Brenton Thwaites",
+               "profile_path": "/dM0m0OxREfW4HxwV2qQeitS8dfO.jpg",
+               "id": 1017347,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Tasha",
+               "gender": 1,
+               "credit_id": "549305309251410918001ac3",
+               "name": "Alicia Vikander",
+               "profile_path": "/q5PMBDNAFdAgeFsLDI2pQ2Fr6a6.jpg",
+               "id": 227454,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Sam",
+               "gender": 2,
+               "credit_id": "54930560c3a3683cf8001a81",
+               "name": "Jacek Koman",
+               "profile_path": "/m6e9KdyLiFzgibCO2CKJvTW2kRJ.jpg",
+               "id": 12210,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Sterlo",
+               "gender": 2,
+               "credit_id": "5493053cc3a3683cfa00145e",
+               "name": "Matthew Nable",
+               "profile_path": "/yE5MHKIUreuzL5bEgh8NTN8bSYe.jpg",
+               "id": 123879,
+               "order": 4
+            },
+            {
+               "cast_id": 23,
+               "character": "Josh",
+               "gender": 2,
+               "credit_id": "559d8eba9251412daf0000ab",
+               "name": "Tom Budge",
+               "profile_path": "/yu5L2Rw36Y6to5YMcjI3JXMfIBH.jpg",
+               "id": 37289,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Chris",
+               "gender": 0,
+               "credit_id": "54930554925141091300192e",
+               "name": "Nash Edgerton",
+               "profile_path": "/1lKEZ4rvjYzfSm5a3W7lIm8k3YN.jpg",
+               "id": 75131,
+               "order": 6
+            },
+            {
+               "cast_id": 6,
+               "character": "Private Wilson",
+               "gender": 2,
+               "credit_id": "5493054bc3a3680efc0004ae",
+               "name": "Damon Herriman",
+               "profile_path": "/kj0LLHPffCPwDb3N4QW24ts5SDV.jpg",
+               "id": 62752,
+               "order": 7
+            },
+            {
+               "cast_id": 22,
+               "character": "Merv",
+               "gender": 0,
+               "credit_id": "559d8eadc3a368080c0000b7",
+               "name": "Eddie Baroo",
+               "profile_path": "/2VA0cPaaqRCDLylXTQCPSLl73AF.jpg",
+               "id": 217046,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Ken",
+               "gender": 0,
+               "credit_id": "559d8f64c3a3680819000085",
+               "name": "Marko Jovanović",
+               "profile_path": "/fT8Oh4ok4294dLqn1VPYcMpO9Mf.jpg",
+               "id": 1317341,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Dave",
+               "gender": 0,
+               "credit_id": "559d8f78c3a368080c0000ce",
+               "name": "Sam Hutchin",
+               "profile_path": "/rhkFNyjwPD10Vv3dbTd41NhYpNH.jpg",
+               "id": 1485596,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "Andy",
+               "gender": 0,
+               "credit_id": "559d8f86c3a368080e0000c6",
+               "name": "Lucas Brown",
+               "profile_path": null,
+               "id": 1485597,
+               "order": 11
+            },
+            {
+               "cast_id": 9,
+               "character": "Swimsuit Girl",
+               "gender": 0,
+               "credit_id": "5493056fc3a3683cf8001a8a",
+               "name": "Jesse McGinn",
+               "profile_path": "/rQiTdhRaM07MXA2lRxGttkPcWI4.jpg",
+               "id": 1400921,
+               "order": 12
+            },
+            {
+               "cast_id": 58,
+               "character": "Prison Officer",
+               "gender": 0,
+               "credit_id": "59b1b8f3c3a3682d8703a27c",
+               "name": "Brendan Kerkvliet",
+               "profile_path": "/9dc33FNvRvIlsh5ddK6NzbsZxPG.jpg",
+               "id": 1883806,
+               "order": 13
+            },
+            {
+               "cast_id": 59,
+               "character": "Prison Officer",
+               "gender": 0,
+               "credit_id": "59b1b927c3a3682e640373f3",
+               "name": "Matt Flannagan",
+               "profile_path": "/2DGVfQwD8sf1LPvzuiVXDE6ufPb.jpg",
+               "id": 234354,
+               "order": 14
+            },
+            {
+               "cast_id": 60,
+               "character": "Prison Officer",
+               "gender": 0,
+               "credit_id": "59b1ba3bc3a3682d8703a3f0",
+               "name": "Geoff Kelso",
+               "profile_path": "/ybdS9MYddWDG3Sl1WiJ2YZt68Xx.jpg",
+               "id": 1883811,
+               "order": 15
+            },
+            {
+               "cast_id": 61,
+               "character": "Prison Officer",
+               "gender": 0,
+               "credit_id": "59b1baa8925141078a091756",
+               "name": "Peter Neaves",
+               "profile_path": "/A2ExkhgnGH0R4HA8vPOmRy63UTV.jpg",
+               "id": 1883813,
+               "order": 16
+            },
+            {
+               "cast_id": 62,
+               "character": "JR's Cellmate",
+               "gender": 0,
+               "credit_id": "59b1bb1292514107650913ec",
+               "name": "Kazimir Sas",
+               "profile_path": "/3CnkUJjk4nRvWVgZmr3bgVZjw9t.jpg",
+               "id": 1238460,
+               "order": 17
+            },
+            {
+               "cast_id": 63,
+               "character": "Dave's Crony",
+               "gender": 0,
+               "credit_id": "59b1bd58c3a3682c62090dd9",
+               "name": "Craig Sparrowhawk",
+               "profile_path": "/lB0woGUGDNkhgryhclKXjqDAzOe.jpg",
+               "id": 1883815,
+               "order": 18
+            },
+            {
+               "cast_id": 64,
+               "character": "Dave's Crony",
+               "gender": 2,
+               "credit_id": "59b1bdeec3a3682c62090e84",
+               "name": "Jared De' Har",
+               "profile_path": "/rLK6oI6MjhBugFFTZstcQ2Bv0oz.jpg",
+               "id": 1883817,
+               "order": 19
+            },
+            {
+               "cast_id": 65,
+               "character": "Gold Room Supervisor",
+               "gender": 1,
+               "credit_id": "59b1cf59c3a3682e64038ae6",
+               "name": "Stephanie Powers",
+               "profile_path": "/rrSjWLAa5OYUx0WmLQnyxdO2e9F.jpg",
+               "id": 1147277,
+               "order": 20
+            },
+            {
+               "cast_id": 66,
+               "character": "Wounded Staff Member",
+               "gender": 0,
+               "credit_id": "59b1d0c79251417e4003ac53",
+               "name": "Warwick Sadler",
+               "profile_path": "/oUQUs9Ci0XZTmQOkOqFBsR4F0TY.jpg",
+               "id": 1871555,
+               "order": 21
+            },
+            {
+               "cast_id": 67,
+               "character": "Old Yacht Man",
+               "gender": 0,
+               "credit_id": "59b1d1139251417e4003ac9a",
+               "name": "Mick Innes",
+               "profile_path": "/w7eaTMdoFPNbW4dVD67Zgn6Q9A7.jpg",
+               "id": 1440647,
+               "order": 22
+            },
+            {
+               "cast_id": 68,
+               "character": "Airport Clerk",
+               "gender": 0,
+               "credit_id": "59b1d155c3a3682c62092303",
+               "name": "Sarah Filippi",
+               "profile_path": "/zoEBKByAbAsYdP64ZjBEosyEXFB.jpg",
+               "id": 1883846,
+               "order": 23
+            },
+            {
+               "cast_id": 69,
+               "character": "Wayne",
+               "gender": 0,
+               "credit_id": "59b1d390c3a3682c48085579",
+               "name": "John Boxer",
+               "profile_path": "/r3Q82vtDNDPbojRFbqhgjchz20Q.jpg",
+               "id": 92714,
+               "order": 24
+            },
+            {
+               "cast_id": 70,
+               "character": "Mick",
+               "gender": 2,
+               "credit_id": "59b1d3df925141079d08c32b",
+               "name": "Russell Kiefel",
+               "profile_path": "/oYzrvpDwYrraj469Sfo9Jrk6L0D.jpg",
+               "id": 61340,
+               "order": 25
+            },
+            {
+               "cast_id": 72,
+               "character": "Guy in Club",
+               "gender": 0,
+               "credit_id": "59b1d554925141079d08c465",
+               "name": "Nick Britton",
+               "profile_path": "/cKbPf63Lqg4r8RC0v9RoauTqRua.jpg",
+               "id": 1883850,
+               "order": 26
+            },
+            {
+               "cast_id": 71,
+               "character": "Motel Clerk",
+               "gender": 0,
+               "credit_id": "59b1d4b9925141078a09325e",
+               "name": "Richard Suliman",
+               "profile_path": "/ciUNz25BmpfcooikjT3L2I4t9bY.jpg",
+               "id": 1883849,
+               "order": 27
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "5446a1c60e0a26632d00b7a9",
+               "name": "Julius Avery",
+               "profile_path": null,
+               "id": 1299642,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5446a1cc0e0a2661af002be5",
+               "name": "Julius Avery",
+               "profile_path": null,
+               "id": 1299642,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "557758779251416ceb000aea",
+               "name": "Timothy White",
+               "profile_path": null,
+               "id": 65595,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "557758a39251416cf100086a",
+               "name": "Nigel Bluck",
+               "profile_path": null,
+               "id": 76845,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "557758d0925141372d00051d",
+               "name": "Jack Hutchings",
+               "profile_path": null,
+               "id": 1185065,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "557758f69251416ceb000af4",
+               "name": "Nikki Barrett",
+               "profile_path": null,
+               "id": 37281,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "557759179251416cfd0007e4",
+               "name": "Fiona Crombie",
+               "profile_path": null,
+               "id": 1172514,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55775933c3a368396c000899",
+               "name": "Sophie Nash",
+               "profile_path": null,
+               "id": 1034192,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5577594d9251416ceb000afd",
+               "name": "Terri Lamera",
+               "profile_path": null,
+               "id": 1431572,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55775985c3a3683955000879",
+               "name": "Peta Hastings",
+               "profile_path": null,
+               "id": 1475734,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5577599f925141372d00053c",
+               "name": "Meredith Hussey",
+               "profile_path": null,
+               "id": 1475735,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "557759c2c3a3683955000884",
+               "name": "Sophie Durham",
+               "profile_path": null,
+               "id": 1475736,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55775a1b9251416ceb000b11",
+               "name": "Kristen Anderson",
+               "profile_path": null,
+               "id": 1475737,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "559d8fa79251412dc000008f",
+               "name": "John Collee",
+               "profile_path": null,
+               "id": 55474,
+               "department": "Crew",
+               "job": "Additional Writing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559d8fb79251412da90000aa",
+               "name": "Jed Kurzel",
+               "profile_path": null,
+               "id": 549315,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559d8fc9c3a368081900008a",
+               "name": "Janelle Landers",
+               "profile_path": null,
+               "id": 1485598,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "559d8fd79251412da90000ac",
+               "name": "John Collee",
+               "profile_path": null,
+               "id": 55474,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559d8feb9251412dac0000b3",
+               "name": "James Dean",
+               "profile_path": null,
+               "id": 1180649,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559d9000c3a368081d00011c",
+               "name": "Richard East",
+               "profile_path": null,
+               "id": 1485599,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559d90129251412db20000ae",
+               "name": "Aaron L. Gilbert",
+               "profile_path": null,
+               "id": 1116278,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559d9021c3a36808200000b1",
+               "name": "Bryce Menzies",
+               "profile_path": null,
+               "id": 75939,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559d90319251412dba00009b",
+               "name": "Aidan O'Bryan",
+               "profile_path": null,
+               "id": 1317049,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559d903ec3a36808100000ec",
+               "name": "Michael Spiccia",
+               "profile_path": null,
+               "id": 1292272,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "585002f9c3a3682dfe009b2d",
+               "name": "John Fox",
+               "profile_path": null,
+               "id": 1308569,
+               "department": "Crew",
+               "job": "Armorer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58500311c3a3682fb800ab74",
+               "name": "Melissa Hayward",
+               "profile_path": null,
+               "id": 1722220,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5850034dc3a3682e43008dca",
+               "name": "Natalie Wall",
+               "profile_path": null,
+               "id": 1485232,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585003809251416fad009037",
+               "name": "Jim Frater",
+               "profile_path": null,
+               "id": 1722221,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "585003939251416f63009725",
+               "name": "David Dare Parker",
+               "profile_path": null,
+               "id": 1698856,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585003a4c3a3683150008cef",
+               "name": "Jim Frater",
+               "profile_path": null,
+               "id": 1722221,
+               "department": "Camera",
+               "job": "Underwater Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585003bbc3a3683150008d0e",
+               "name": "Jean Vandermeiren",
+               "profile_path": null,
+               "id": 1722222,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585003e5c3a3682dfe009c82",
+               "name": "Adam Hunter",
+               "profile_path": null,
+               "id": 1722223,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58500416c3a36831ce0094ae",
+               "name": "Laurie Hughes",
+               "profile_path": null,
+               "id": 1411239,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58500440c3a3682fb800ad2d",
+               "name": "Peter Stubbs",
+               "profile_path": null,
+               "id": 1560423,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585004559251416e4b0096a4",
+               "name": "Mark Holman Harris",
+               "profile_path": null,
+               "id": 1568853,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58500473c3a3682fb800ad81",
+               "name": "Leah Katz",
+               "profile_path": null,
+               "id": 1722224,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585004dd9251416e4b009744",
+               "name": "Dan Johnston",
+               "profile_path": null,
+               "id": 1722225,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5850053e9251416cd0009212",
+               "name": "Trevor Hope",
+               "profile_path": null,
+               "id": 1654520,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5850055ec3a3683150008e96",
+               "name": "Stuart Morton",
+               "profile_path": null,
+               "id": 117235,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5850057b9251416f63009957",
+               "name": "Sam Hayward",
+               "profile_path": null,
+               "id": 1722226,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585005a19251416f1000933d",
+               "name": "Robert Mackenzie",
+               "profile_path": null,
+               "id": 1410551,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585005cec3a3683123008f17",
+               "name": "William Ward",
+               "profile_path": null,
+               "id": 600368,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585005e8c3a3682fb800aeed",
+               "name": "Matthew T. Griffin",
+               "profile_path": null,
+               "id": 1410561,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585005fa9251416e4b00980f",
+               "name": "Katherine Heads",
+               "profile_path": null,
+               "id": 1410559,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58500617c3a3682dfe009ead",
+               "name": "Wendy De Waal",
+               "profile_path": null,
+               "id": 76088,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 10.196686,
+      "production_countries": [
+         {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+         },
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 294652,
+      "vote_count": 323,
+      "budget": 0,
+      "overview": "Locked up for a minor crime, 19 year old JR quickly learns the harsh realities of prison life. Protection, if you can get it, is paramount. JR soon finds himself under the watchful eye of Australia's most notorious criminal, Brendan Lynch, but protection comes at a price.",
+      "similar": [
+         9654,
+         1572,
+         949,
+         36349,
+         10536,
+         4771,
+         9679,
+         562,
+         339692,
+         8810,
+         769,
+         8067,
+         398175,
+         8292,
+         10651,
+         483,
+         11576,
+         1571,
+         4141,
+         1991
+      ],
+      "original_title": "Son of a Gun",
+      "runtime": 108,
+      "poster_path": "/pJoofuXXnEsDu5U4L1L48qkgUPf.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+            "name": "A24",
+            "id": 41077,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Media House Capital",
+            "id": 13235,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Altitude Film Entertainment",
+            "id": 19638,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Daydream Productions",
+            "id": 36148,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bridle Path Films",
+            "id": 41636,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Southern Light Films",
+            "id": 55251,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "WBMC",
+            "id": 55254,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2014-10-16",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "Everyone gets what they deserve",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Australia",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Julius Avery"],
+      "runtime": 108,
+      "synopsis": null,
+      "writers": [
+         "Julius Avery",
+         "John Collee"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2452200/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg4MjUxODczM15BMl5BanBnXkFtZTgwMDY4MjY0MzE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Ewan McGregor, Brendan Kerkvliet, Brenton Thwaites | See full cast and crew »"],
+      "reviews": [
+         "This film gave me shivers and not just because of the intense first act which sees us locked in a prison with some pretty ruthless men but because I regained hope for a flailing Australian film industry. I feel obliged to support my industry so often I go to the cinema reluctantly and am thoroughly disappointed by the lack of respect for the audience the filmmakers have, they believe first and foremost they must get their unworthy stories on screen and then I'm left out of pocket and dissatisfied. This time was a different story, Son of a Gun has given us a MOVIE!!! Finally, an actual movie which I could disengage and go on a ride with the characters. This isn't trying to be a groundbreaking heist film and yet it is groundbreaking for Australia, it is so well made, performances are stellar and the score is epic. We have space for our kitchen sink dramas but we also should make way for these type of films and also judge it as an Australian film. That's why I gave it 10 out of 10 because this film should be judged like all other Australian films are judged and not judged harshly because it has a big star and feels like a bigger story. I highly recommend this film.",
+         "This is a 'heist' movie with a fairly standard story and the usual range of characters and events. One little difference is that it is set in Australia. But one large difference is the pacing of the movie. It never gets bogged down and it never goes OTT - so we don't see people flying through the air, in slow motion, shooting two guns at once. The acting is of a level where it well represents the sort of randomness found in such characters as well as offering up a hero for the audience to follow. If you want a fun action movie with enough of a story to follow and which moves along and keeps the interest up - this one is for you, my son.",
+         "There's a lot of pressure on debuts for filmmakers and I think they can often take the route of keeping it small and contained to lessen all the things that can go so terribly wrong but this director has taken the opposite route and I think while it's far from perfect it is a killer debut that will set him up as a talent to watch for sure. Ewan Mcgregor is probably the sexiest I have ever seen him, playing the bad boy and the young lead is extremely handsome and does a great job next to such a big star. The film has lots of twists and a love story, all the things you expect and want in this genre and the location is really exciting and fresh, this is not set in a casino, it is set in a gold mine in desert... doesn't get any more Australian than that.",
+         "I loved this film. The direction reminded me of Jean Pierre Melville, the grand master of french crime films. It had a tight front story which gave little away. The back story (search for an honest father figure/young man relationship) was solid, but subtle. The sound was absolutely realistic. When a gun goes off in a room, it is so loud, it dominates the consciousness of all those in it. The film hit that mark, unlike a lot of movies that aren't realistic. It was great to see JR recoil from such noise and violence as he did, as most people would do. the violence in prison was visceral but realistic. It could be described as hyper realistic but it's a bloody jail, so it's a rough place. Editing was excellent, direction was superb and Brenton Thwaites gave more of himself to his role than any other movie I've seen him in. Ewan was outstanding as was Damon Herriman. The film was tough, hard nosed but well constructed and balanced.",
+         "Chess is an endlessly intriguing game, both to play, to watch, and even to read about. Perhaps the greatest achievement from debut feature-director Julius Avery (who has had much success at Cannes with his short films, not to mention having worked closely with cinematographer Adam Arkapaw, who not only shot Aussie thrillers ANIMAL KINGDOM and SNOWTOWN, but also recently shot the acclaimed TRUE DETECTIVE television series), apart from the impressively massive scope of this thrilling ride, are the subtleties of the film. What is even better is that some of these subtle shots prove to be extremely relevant, while others seamlessly fit into the film but aren't particularly relevant overall. For example, a close-up shot of a chess piece, naturally a King, lying on its side. To some this may say nothing, but in this film it really is the epitome of the old saying that a picture can say many words. What makes this particular shot memorable is the fact that almost all of this movie can be seen as a sweeping allegory alluding to a competitive and unpredictable game of chess played by two very skilled players. To say that this is yet more extremely impressive debut work from another up-and-coming Australian director would be a vast understatement. This film seems to have it all: tension that will not let up, characters that will keep you guessing until those credits roll, not to mention some incredible action sequences that put most Hollywood blockbusters to shame, and a dark, heavy plot that unfolds with just the right pace, the perfect amount of twists, along with the perfect amount of heart. This here is one memorable film, and I can't help but be proud of my fellow countryman for offering up a feast of a movie that yet again rivals the best that the rest of the world has to offer. We are introduced to young JR during the opening minutes, who is serving time for a minor offense. The emotion on his face is not only impeccable, it is real - the prison scenes of this movie were actually shot in a prison, with real inmates a part of the background. Despite barely being an adult at 19, JR has attitude, and takes it upon himself to act out when he witnesses what is happening to his cell-mate of only a few days. But this is prison, and every action has its consequence - much like every move made in a game of chess. It is the game of chess that introduces JR to hardened criminal Brendan (Ewan McGregor in one of his best roles to date); JR boldly proclaiming that Brendan is three moves away from checkmate. After proving himself to be on the ball, Brendan takes interest. When JR's attempt to help his cell-mate leads to him being the new target, he is offered protection by Brendan's 'crew'. He is offered what is essentially a deal with the devil. Protection, for a price that he has no idea about. Before he can decide, his mind is made up for him when he is attacked and promptly saved by Brendan and co. in savage fashion. What must be noted here is the camera-work during these fisticuffs: avoiding the pitfalls of too many action movies to count: the action is filmed without the camera jerking and moving all over the place, while also using a minimal amount of shots; avoiding the Hollywood standard of cramming as many different shots into an action scene as possible. The result of this is that each blow, each punch, each gunshot hits you squarely in the gut, jumping off the screen in its ferocity. Suddenly, JR is in another very different type of prison. This protection obviously affects JR, an orphan who perhaps unwittingly is desperate for a father figure of any sort. Brendan's complete trust in JR, as well as his defense of him as the rest of the crew don't take such a shining to him, further entrenches these fatherly feelings. As the film progresses however, it becomes clear that there is mistrust within the group. How much exactly, and what will result in this mistrust, is one of the many elements of tension that this movie provides. In addition to this, despite Brendan's constant defense and protection of JR, we can't help but wonder what his true intentions are. He seems to like JR, but doesn't trust him as far as he could throw him, and the rest of the crew aren't his biggest fans either. What ensues during the organised heist - the deal that JR didn't actually agree to - and its aftermath, is again akin to a mental game of chess. Each character holds their cards close. It becomes evident that there are many secrets hidden, but how many, and whether these will affect JR is another fantastic element of tension. Each move that JR and Brendan make is calculated thoroughly, both being skilled chess-players after all, and it becomes wonderfully immersive as we wonder: Will JR become food for the fishes? Is he a target of Brendan, despite all that he has done for JR? Is he safe? More importantly, is there anyone that he can truly trust? It quickly becomes apparent that JR is once again imprisoned, perhaps check-mated. He can't leave. JR's thoughts begin to spiral, particularly about Brendan and his true intentions. Will he simply let JR go after their heist? Or is there some sort of catch? Again, more mental chess-playing ensues, as each character progressively takes the other's pieces to move further towards their goal of check-mate. This polished thriller will fill you with tension until the final scene, as finally our many questions are answered, and the mental game of chess between Brendan and JR finally ends. The winner? You will be guessing and changing your mind more than once, I assure you. An incredibly polished, thrilling movie by a debut feature-filmmaker. Bravo sir.",
+         "I just want to clarify the rating, 8 is well above average movie for me. It's worth having in your movie collection, along with classics of the genre. I really wasn't expecting much from this one, but it turned out to be a surprise, and a good one too. I loved the action scenes where you can actually see the direction where character is shooting as well as damage being done by shots, I think this is extremely important for any serious action movie, but strangely a lot of action flicks fail at this. Whole cast did they job flawlessly, they are serious, tough criminals, there are no silly jokes, or something that would mellow down their characters (which is way too often in action movies today I must add), I loved it. Tashas accent was a bit too strong, but I guess it's a minor mistake. The romance part could have been a bit different, Tasha could be the one falling in love and wanting to get away with him, and he could be the one not being sure about it, but eventually going for runaway with her, I think that would hit the spot even better than this one. One glitch, I get the monkey metaphor in the movie, but I really think that if you want to crowd control people falling from the ceiling, you ought to pick some better mask than an ape one. I wish there was more action in urban setting but hey, maybe in next movie. The ending was (bitter) sweet. Son of a Gun restored my hope for true old school serious-to-the- bone action movies, and I think this is the direction which action movie directors ought to follow, this is what real action movies are about,thumbs up for Aussies.",
+         "Movie packed with a little scent of action-drama of the 1970s. This Australian movie gets better as it is unfolded. Good acting, good photography and a brief dose of humanity and thriving. Even if the script is nothing out of the normal, the film itself shows us a fast-driven story of convicted criminals trying to live under a small \"mafia\" organization - Love, lust, betrayal, death and commiseration will be the ingredients to cook up this story. PS-> Don't watch the trailer because it sucks and deviates you from seeing a good movie. (I avoided myself from viewing trailers years ago for any movie) - They are simple a pure commercial beacon that use the best scenes as a vehicle of opportunism to forge you into seeing something that ultimately it does not translate into what you are expecting.",
+         "Films depicting prison environments and heists tend to consist of recurrent topics and scenes, and the quality depends on how the viewers perceive them - as clichés or as characteristics. Luckily, Son of a Gun does with the latter, and skillful direction, several twists and versatile ending make this an okay film, where one can not always guess how the things go or what happens next, and all this is carried out without ridiculous shifts. The cast is international, from a Scot till a Swede, plus locals, of course, and this provides the film with additional value (although the events take place in Australia only). Ewan McGregor as Brendan Lynch is certainly the best of them, outperforming the other main character - JR (performed by a local heartthrob Brenton Thwaites whose apparent intention was showing his torso as much as possible :)); the latter's relationship with Tasha (nicely performed by Alice Vikander) is a perfunctory link at times - although the pre-ending rounds it up again... But anyway, if you like intense heist films with witty solutions, Son of a Gun is definitely for you.",
+         "Right, let's do a quick rundown: Lots of gunfights? Check. Unshaven men who say \"f***\" a lot? Check. Double-crosses? Check. Tart with a heart - also the only main female character? Check. That's right - 'Son of a Gun' is your typical gangster thriller, only it's set in Australia - so that's something unusual, then. Sporting an embarrassing teenage beard, young criminal 'JR' (the well-muscled Brenton Thwaites) arrives at prison for his first spell inside. He soon attracts the attention of the prison rapists, but once old lag Brendan (Ewan McGregor) lets it be known JR is under his protection, the bullies leave him alone (possibly repulsed by McGregor's horrendous goatee, although being thrown off the balcony probably had something to do with it too). Once back on the outside, JR quickly becomes part of Brendan's plans for a gold heist. But can Brendan be trusted, even after he shaves off the goatee? So, nothing original. Plot points are telegraphed well in advance - for instance, once it is revealed that JR cannot swim (I thought all Australians were *born* knowing how to swim?), you may think you know which element will be involved in the denouement, and you'll be right. Thwaites makes a personable and sexy hero (although he could have tried to look a bit less bewildered some of the time). McGregor plays the role of dodgy father-figure as well as anyone else who's ever played it. Watch with your brain in neutral, and enjoy the ride.",
+         "Greetings from Lithuania. \"Son of a Gun\" (2014) is kinda average crime thriller. It shows nothing original, nothing new or anything special, yet i watched the whole movie and wasn't disappointed or bored. The performances are OK, nothing special or worth mentioning. The plot is not bad - \"Son of a Gun\" starts like a prison drama, but then it goes beyond that, but not in a highly new territory. \"Son of a Gun\" is a nice movie for seeing it once, after, you will forget it kinda quickly. Worth mentioning nice soundtrack at the end of the movie, will going to definitely check it out who was the singer. Overall, \"Son of a Gun\" is not a bad crime / action / thriller for one viewing. It doesn't show nothing original in craftsmanship of the movie, nor the plot is very original, yet if you like the genre, you can check this one out for yourself - it will do it's job for one boring evening."
+      ],
+      "genres": [
+         "Action",
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Altitude Film Entertainment",
+         "Bridle Path Films",
+         "Daydream Productions"
+      ],
+      "summaries": [
+         "Locked up for a minor crime, 19 year old JR quickly learns the harsh realities of prison life. Protection, if you can get it, is paramount. JR soon finds himself under the watchful eye of Australia's most notorious criminal, Brendan Lynch. But protection comes at a price. Lynch and his crew have plans for their young protegee. Upon release, JR must help secure Lynch's freedom, staging a daring prison break. As a reward, he's invited to join the crew as they plan a gold heist that promises to deliver millions. However, as things start to go wrong, a deadly game of cat and mouse ensues. JR finds himself unsure of whom he can trust and on a collision course with his former mentor.",
+         "JR busts out of prison with Brendan Lynch, Australia's most notorious criminal, and joins Lynch's gang for a gold heist that soon pits the two men against one another."
+      ],
+      "budget": 0
+   },
+   "movielensId": 120783,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2014-10-16",
+      "dvdReleaseDate": null,
+      "directors": ["Julius Avery"],
+      "runtime": 108,
+      "movieId": 120783,
+      "title": "Son of a Gun",
+      "mpaa": "R",
+      "actors": [
+         "Ewan McGregor",
+         "Brenton Thwaites",
+         "Alicia Vikander",
+         "Jacek Koman",
+         "Matthew Nable",
+         "Tom Budge",
+         "Nash Edgerton",
+         "Damon Herriman",
+         "Eddie Baroo",
+         "Marko Jovanović",
+         "Sam Hutchin",
+         "Lucas Brown",
+         "Jesse McGinn",
+         "Brendan Kerkvliet",
+         "Matt Flannagan",
+         "Geoff Kelso",
+         "Peter Neaves",
+         "Kazimir Sas",
+         "Craig Sparrowhawk",
+         "Jared De' Har",
+         "Stephanie Powers",
+         "Warwick Sadler",
+         "Mick Innes",
+         "Sarah Filippi",
+         "John Boxer",
+         "Russell Kiefel",
+         "Nick Britton",
+         "Richard Suliman"
+      ],
+      "imdbMovieId": "2452200",
+      "originalTitle": "Son of a Gun",
+      "genres": [
+         "Action",
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["v6LQzRBDjA0"],
+      "plotSummary": "Locked up for a minor crime, 19 year old JR quickly learns the harsh realities of prison life. Protection, if you can get it, is paramount. JR soon finds himself under the watchful eye of Australia's most notorious criminal, Brendan Lynch, but protection comes at a price.",
+      "tmdbMovieId": 294652,
+      "avgRating": 3.17222,
+      "releaseYear": "2014",
+      "numRatings": 90,
+      "posterPath": "/pJoofuXXnEsDu5U4L1L48qkgUPf.jpg"
+   }
+}

@@ -1,0 +1,1821 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "wife",
+            "id": 4183
+         },
+         {
+            "name": "investigation",
+            "id": 5340
+         },
+         {
+            "name": "marriage crisis",
+            "id": 5809
+         },
+         {
+            "name": "disappearance",
+            "id": 10941
+         },
+         {
+            "name": "cheating husband",
+            "id": 11513
+         },
+         {
+            "name": "crime",
+            "id": 14536
+         },
+         {
+            "name": "missing person",
+            "id": 156091
+         },
+         {
+            "name": "search party",
+            "id": 169962
+         },
+         {
+            "name": "criminal lawyer",
+            "id": 191199
+         },
+         {
+            "name": "wife murder",
+            "id": 199073
+         },
+         {
+            "name": "murder suspect",
+            "id": 207431
+         },
+         {
+            "name": "missing wife",
+            "id": 222665
+         }
+      ],
+      "imdb_id": "tt2267998",
+      "video": false,
+      "title": "Gone Girl",
+      "recommendations": [
+         242582,
+         194662,
+         146233,
+         244786,
+         85350,
+         152532,
+         205596,
+         1949,
+         168672,
+         120467,
+         152601,
+         87492,
+         106646,
+         76203,
+         137113,
+         205587,
+         156022,
+         264660,
+         37799,
+         109424
+      ],
+      "backdrop_path": "/bt6DhdALyhf90gReozoQ0y3R3vZ.jpg",
+      "revenue": 369330363,
+      "reviews": [
+         {
+            "author": "Andres Gomez",
+            "id": "556988f7c3a36875ef000d75",
+            "content": "Good cast and decent story, although the end is not very convincing.\r\n\r\nThe cut of the movie is really good and Rosamund Pike is genuinely scary.\r\n\r\nNot a master piece but quite good given the lack of passable movies lately.",
+            "url": "https://www.themoviedb.org/review/556988f7c3a36875ef000d75"
+         },
+         {
+            "author": "VanVliet",
+            "id": "59f26e909251416a9e03e646",
+            "content": "Rosamund Pike is outstanding as the wronged wife and Ben Affleck is very good as the husband. It is convoluted, and you do start to think is this just going over the top, but the end just shows Pike's character to be a damaged high-functioning psychopath. So at the final sequence, even if it's a tad far fetched even if you feel that Affleck deserves everything coming to him, the look she gives to the camera is that of an pure evil. As my youngest daughter used to say when she was a kid, she's got scary eyes.",
+            "url": "https://www.themoviedb.org/review/59f26e909251416a9e03e646"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 7,
+               "character": "Nick Dunne",
+               "gender": 2,
+               "credit_id": "52fe4d7fc3a368484e1ec763",
+               "name": "Ben Affleck",
+               "profile_path": "/lowyjtC3tZcNEGrxCGoEwjqgdvk.jpg",
+               "id": 880,
+               "order": 0
+            },
+            {
+               "cast_id": 8,
+               "character": "Amy Elliott Dunne",
+               "gender": 1,
+               "credit_id": "52fe4d7fc3a368484e1ec767",
+               "name": "Rosamund Pike",
+               "profile_path": "/wevcai4tcGA5niawACntEzgZsKN.jpg",
+               "id": 10882,
+               "order": 1
+            },
+            {
+               "cast_id": 27,
+               "character": "Margo Dunne",
+               "gender": 1,
+               "credit_id": "542f5d5d0e0a264f07000b82",
+               "name": "Carrie Coon",
+               "profile_path": "/aX7kfLrSYWK7s9KvjldO1JYCbPv.jpg",
+               "id": 1308445,
+               "order": 2
+            },
+            {
+               "cast_id": 10,
+               "character": "Desi Collins",
+               "gender": 2,
+               "credit_id": "52fe4d7fc3a368484e1ec76f",
+               "name": "Neil Patrick Harris",
+               "profile_path": "/3GJBcsLf6Kfy0x5DeSXKsIqcctP.jpg",
+               "id": 41686,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Tanner Bolt",
+               "gender": 2,
+               "credit_id": "52fe4d7fc3a368484e1ec76b",
+               "name": "Tyler Perry",
+               "profile_path": "/fdBvkrv4lSKZ97eDLpmjlK1Tnbx.jpg",
+               "id": 80602,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Detective Rhonda Boney",
+               "gender": 1,
+               "credit_id": "52fe4d7fc3a368484e1ec77b",
+               "name": "Kim Dickens",
+               "profile_path": "/yIXBljS46WXvRk2gma3ravVBBgU.jpg",
+               "id": 21165,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Detective Jim Gilpin",
+               "gender": 2,
+               "credit_id": "52fe4d7fc3a368484e1ec777",
+               "name": "Patrick Fugit",
+               "profile_path": "/37RM0m1mDJ4YxC3n7QgwpXSUpkp.jpg",
+               "id": 11663,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Ellen Abbott",
+               "gender": 1,
+               "credit_id": "52fe4d7fc3a368484e1ec773",
+               "name": "Missi Pyle",
+               "profile_path": "/gjJiT50eCgPMRsIKl03v64CJOPf.jpg",
+               "id": 1294,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Andie Fitzgerald",
+               "gender": 1,
+               "credit_id": "52fe4d7fc3a368484e1ec793",
+               "name": "Emily Ratajkowski",
+               "profile_path": "/docuaCSX0LJBA6tBnvbWq6UkWu.jpg",
+               "id": 1186505,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "Noelle Hawthorne",
+               "gender": 1,
+               "credit_id": "52fe4d7fc3a368484e1ec78b",
+               "name": "Casey Wilson",
+               "profile_path": "/pS81iG4Dt64I8ibh3teGzigi3eu.jpg",
+               "id": 83872,
+               "order": 9
+            },
+            {
+               "cast_id": 26,
+               "character": "Greta",
+               "gender": 1,
+               "credit_id": "53ff85f50e0a2658db0006f1",
+               "name": "Lola Kirke",
+               "profile_path": "/A15rofklzp6kuH6zfvVzBp6Iwnz.jpg",
+               "id": 1345418,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Jeff",
+               "gender": 2,
+               "credit_id": "52fe4d7fc3a368484e1ec79b",
+               "name": "Boyd Holbrook",
+               "profile_path": "/531YOKa2usleWCA55t6Db4MZhT3.jpg",
+               "id": 467645,
+               "order": 11
+            },
+            {
+               "cast_id": 87,
+               "character": "Rand Elliott",
+               "gender": 2,
+               "credit_id": "5502e07fc3a3685b9b004293",
+               "name": "David Clennon",
+               "profile_path": "/sUZ6eL77Eh0aNYSx2NaB9NEZeCf.jpg",
+               "id": 15412,
+               "order": 12
+            },
+            {
+               "cast_id": 88,
+               "character": "Marybeth Elliott",
+               "gender": 1,
+               "credit_id": "5502e0e69251413da80048b6",
+               "name": "Lisa Banes",
+               "profile_path": "/rXBe8lx88ESRIoKLqUMIYWpfoCq.jpg",
+               "id": 52878,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Tommy O'Hara",
+               "gender": 2,
+               "credit_id": "52fe4d7fc3a368484e1ec797",
+               "name": "Scoot McNairy",
+               "profile_path": "/8BScej2gtxRObcIyR46p2CAffRH.jpg",
+               "id": 59233,
+               "order": 14
+            },
+            {
+               "cast_id": 28,
+               "character": "Sharon Schieber",
+               "gender": 1,
+               "credit_id": "54b556b8c3a368094e009afd",
+               "name": "Sela Ward",
+               "profile_path": "/87ojeHcrqVWtImOOOzRAwFpvl4A.jpg",
+               "id": 6068,
+               "order": 15
+            },
+            {
+               "cast_id": 17,
+               "character": "Shawna Kelly",
+               "gender": 1,
+               "credit_id": "52fe4d7fc3a368484e1ec78f",
+               "name": "Kathleen Rose Perkins",
+               "profile_path": "/1BGldxkKa8p5xPG105QNSVrF4hg.jpg",
+               "id": 149334,
+               "order": 16
+            },
+            {
+               "cast_id": 29,
+               "character": "Police Officer",
+               "gender": 2,
+               "credit_id": "54b5571cc3a368094000972e",
+               "name": "Lee Norris",
+               "profile_path": "/sE16s5VE42RuTJvRZA5wuDzTDYB.jpg",
+               "id": 166897,
+               "order": 17
+            },
+            {
+               "cast_id": 90,
+               "character": "Bill Dunne",
+               "gender": 0,
+               "credit_id": "5502e93cc3a3685b9e0041ca",
+               "name": "Leonard Kelly-Young",
+               "profile_path": "/m6FeP3hJl5Dkbou9YYh2TOg3W9p.jpg",
+               "id": 1438995,
+               "order": 18
+            },
+            {
+               "cast_id": 89,
+               "character": "Donnelly",
+               "gender": 2,
+               "credit_id": "5502e8139251413d9f0047a8",
+               "name": "Jamie McShane",
+               "profile_path": "/clBmHn1I4WzawHYm5jGPfX44ysp.jpg",
+               "id": 79079,
+               "order": 19
+            },
+            {
+               "cast_id": 91,
+               "character": "Walter",
+               "gender": 0,
+               "credit_id": "5502ebeec3a3685bab004303",
+               "name": "Pete Housman",
+               "profile_path": "/9mov1X4C7KescyDcaQm1NqNIuPb.jpg",
+               "id": 1439007,
+               "order": 20
+            },
+            {
+               "cast_id": 152,
+               "character": "Kelly Capitono",
+               "gender": 1,
+               "credit_id": "5888fa9592514162f501359b",
+               "name": "Lynn Adrianna",
+               "profile_path": "/1p5K0J4SEnGoD9haqk0KqLxL5S1.jpg",
+               "id": 549831,
+               "order": 21
+            },
+            {
+               "cast_id": 102,
+               "character": "Maureen Dunne",
+               "gender": 0,
+               "credit_id": "55030badc3a3685ba20052e2",
+               "name": "Cyd Strittmatter",
+               "profile_path": "/2o9gT6QOJ94KFhqWvzQiUkU2H9X.jpg",
+               "id": 1367129,
+               "order": 22
+            },
+            {
+               "cast_id": 108,
+               "character": "Jason",
+               "gender": 0,
+               "credit_id": "55031399c3a36826b9002fa9",
+               "name": "Ricky Wood",
+               "profile_path": "/xNo1lBz1tguwv9NV451MGf1UWb3.jpg",
+               "id": 1439192,
+               "order": 23
+            },
+            {
+               "cast_id": 111,
+               "character": "Lauren Nevens",
+               "gender": 0,
+               "credit_id": "550316dac3a3685ba20053a4",
+               "name": "Donna Rusch",
+               "profile_path": "/wpr3PoPDPuiTfFktzK42lOKJByZ.jpg",
+               "id": 1439207,
+               "order": 24
+            },
+            {
+               "cast_id": 93,
+               "character": "FBI",
+               "gender": 0,
+               "credit_id": "5502f479c3a3685bab0043ed",
+               "name": "Mark Atteberry",
+               "profile_path": "/nFHzunT4sOFOyi0pH2TGjDFTqSg.jpg",
+               "id": 1192412,
+               "order": 25
+            },
+            {
+               "cast_id": 94,
+               "character": "Mustached Man",
+               "gender": 2,
+               "credit_id": "5502f7b5c3a3685b9b004440",
+               "name": "Darin Cooper",
+               "profile_path": "/ewACr0jcusD6d3psRFpVdjAq4La.jpg",
+               "id": 1235973,
+               "order": 26
+            },
+            {
+               "cast_id": 95,
+               "character": "Above-It-All Journalist",
+               "gender": 0,
+               "credit_id": "5502ff1fc3a3687b69003e25",
+               "name": "Kate Campbell",
+               "profile_path": "/pDQwNRcXhquim1MmPf9INU3zjqR.jpg",
+               "id": 1439089,
+               "order": 27
+            },
+            {
+               "cast_id": 96,
+               "character": "Nervous Intern",
+               "gender": 0,
+               "credit_id": "5503018292514174f6000f8f",
+               "name": "Brett Leigh",
+               "profile_path": "/nl4eus0kRy4L1i6uma88zDpS9uZ.jpg",
+               "id": 1439098,
+               "order": 28
+            },
+            {
+               "cast_id": 97,
+               "character": "Security Guard",
+               "gender": 0,
+               "credit_id": "550302bf9251413da8004b2b",
+               "name": "Antonio St. James",
+               "profile_path": "/nzzozryKaKgEe2FYm3iFOUJr5nF.jpg",
+               "id": 1439105,
+               "order": 29
+            },
+            {
+               "cast_id": 98,
+               "character": "Fashionista",
+               "gender": 0,
+               "credit_id": "5503042bc3a3687b69003e92",
+               "name": "Lauren Glazier",
+               "profile_path": "/bvpmxumWqD9K5MoNzGtEvavlQXu.jpg",
+               "id": 118592,
+               "order": 30
+            },
+            {
+               "cast_id": 99,
+               "character": "Female Officer",
+               "gender": 0,
+               "credit_id": "5503059f92514174f6000fc8",
+               "name": "Julia Prud'homme",
+               "profile_path": "/4t39UeNsXOVq5hlcuYAFXin9eCX.jpg",
+               "id": 1439112,
+               "order": 31
+            },
+            {
+               "cast_id": 100,
+               "character": "Doctor",
+               "gender": 2,
+               "credit_id": "550308bdc3a3685b96004b4e",
+               "name": "Cooper Thornton",
+               "profile_path": "/A0rZn1YC69t2iRcBmyqbQNeiof2.jpg",
+               "id": 162828,
+               "order": 32
+            },
+            {
+               "cast_id": 101,
+               "character": "Earnest Girl",
+               "gender": 0,
+               "credit_id": "550309d4925141282f003d39",
+               "name": "Casey Ruggieri",
+               "profile_path": "/cbiC792SXkzeW6fWt4j0FCdUY7h.jpg",
+               "id": 1439125,
+               "order": 33
+            },
+            {
+               "cast_id": 103,
+               "character": "Friend 1",
+               "gender": 0,
+               "credit_id": "55030cc2925141282f003d7f",
+               "name": "Ashley Didion",
+               "profile_path": "/uklcsbamATGDeRInYmmun7Zcuuq.jpg",
+               "id": 1439141,
+               "order": 34
+            },
+            {
+               "cast_id": 104,
+               "character": "Friend 2",
+               "gender": 0,
+               "credit_id": "55030e4bc3a36826b9002f53",
+               "name": "Lexis Nutt",
+               "profile_path": "/wcY6qyOzHyHWNOtR7dQFvdHcrbZ.jpg",
+               "id": 1439150,
+               "order": 35
+            },
+            {
+               "cast_id": 105,
+               "character": "Guard",
+               "gender": 0,
+               "credit_id": "55030f6b9251413d9f004ab4",
+               "name": "L.A. Williams",
+               "profile_path": "/3GfO8WCTcKtczysg4w1N3tPAjRL.jpg",
+               "id": 1439155,
+               "order": 36
+            },
+            {
+               "cast_id": 106,
+               "character": "Tweaker Teen 1",
+               "gender": 0,
+               "credit_id": "5503103dc3a3685b96004bcf",
+               "name": "Blake Sheldon",
+               "profile_path": "/7nLPErsyKII2x2QP9dxRNzJdnPi.jpg",
+               "id": 1439167,
+               "order": 37
+            },
+            {
+               "cast_id": 107,
+               "character": "Tweaker Teen 2",
+               "gender": 0,
+               "credit_id": "5503128d9251413d9f004ae6",
+               "name": "Sean Guse",
+               "profile_path": "/qAnjjbWMexiRUsQFFGF9I5spAU0.jpg",
+               "id": 1439180,
+               "order": 38
+            },
+            {
+               "cast_id": 109,
+               "character": "Airport Traveler",
+               "gender": 2,
+               "credit_id": "550314d29251413da1004405",
+               "name": "Fred Cross",
+               "profile_path": "/8IVRSHVKBvXTE8JNt20JyKAwZyM.jpg",
+               "id": 969294,
+               "order": 39
+            },
+            {
+               "cast_id": 110,
+               "character": "Producer",
+               "gender": 0,
+               "credit_id": "550315879251413d9f004b2d",
+               "name": "Scott Takeda",
+               "profile_path": "/boNzT15JQ92aKHkHJkLc4Cwx5p0.jpg",
+               "id": 1439204,
+               "order": 40
+            },
+            {
+               "cast_id": 113,
+               "character": "Reporter",
+               "gender": 2,
+               "credit_id": "550317c0c3a3685b96004c4e",
+               "name": "Mark T Anderson",
+               "profile_path": "/iswbwgE5Gv3uRftrOSypwz6Dyqr.jpg",
+               "id": 1439213,
+               "order": 41
+            },
+            {
+               "cast_id": 112,
+               "character": "Reporter One",
+               "gender": 0,
+               "credit_id": "550317799251413d9b0048a1",
+               "name": "Kathy Sweeney-Meadows",
+               "profile_path": null,
+               "id": 1439208,
+               "order": 42
+            },
+            {
+               "cast_id": 114,
+               "character": "Casino Patron (uncredited)",
+               "gender": 2,
+               "credit_id": "55e3f85fc3a3684185002e52",
+               "name": "Marc Abbink",
+               "profile_path": "/wxShQ6tTyTWNJguDU4WIdeSeww5.jpg",
+               "id": 1406682,
+               "order": 43
+            },
+            {
+               "cast_id": 115,
+               "character": "Airport Passenger (uncredited)",
+               "gender": 1,
+               "credit_id": "55e3f85fc3a3684188002d37",
+               "name": "Christina Alex",
+               "profile_path": null,
+               "id": 1400270,
+               "order": 44
+            },
+            {
+               "cast_id": 116,
+               "character": "Casino Customer (uncredited)",
+               "gender": 0,
+               "credit_id": "55e3f85f92514137da003211",
+               "name": "Samuel Baca",
+               "profile_path": "/qqaVlPeXvZEXfTPfWsyoefAoLhn.jpg",
+               "id": 1502378,
+               "order": 45
+            },
+            {
+               "cast_id": 117,
+               "character": "Press Reporter (uncredited)",
+               "gender": 2,
+               "credit_id": "55e3f85f92514137e0002ee6",
+               "name": "Bill Blair",
+               "profile_path": "/4KOzgrH3foqk5NBbfWFtNKsfGUf.jpg",
+               "id": 1048963,
+               "order": 46
+            },
+            {
+               "cast_id": 118,
+               "character": "Limo Driver (uncredited)",
+               "gender": 0,
+               "credit_id": "56d09998c3a3681e4a0064c3",
+               "name": "Thomas R. Baker",
+               "profile_path": "/mfVU6sGHzPcaCOnVhwyDkeMqKOs.jpg",
+               "id": 1436357,
+               "order": 47
+            },
+            {
+               "cast_id": 119,
+               "character": "Needs a Fix (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0f623c3a3681e3c008413",
+               "name": "Gregoer Boru",
+               "profile_path": "/7lAE72WXLibZ6cfN7PRrXB0fEgv.jpg",
+               "id": 1564312,
+               "order": 48
+            },
+            {
+               "cast_id": 120,
+               "character": "Black Jack Dealer (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0f6a1c3a3681e36007217",
+               "name": "Will C.",
+               "profile_path": "/7za9xUGfIy0Ho3CJoD7KP4KPcFT.jpg",
+               "id": 139191,
+               "order": 49
+            },
+            {
+               "cast_id": 121,
+               "character": "Waitress (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0f6ebc3a3681e3c008448",
+               "name": "Caroline Clements",
+               "profile_path": "/7lPwwpl34y5qLfIkYXPd4BGW4JN.jpg",
+               "id": 1331193,
+               "order": 50
+            },
+            {
+               "cast_id": 122,
+               "character": "Flight Attendant (uncredited)",
+               "gender": 1,
+               "credit_id": "56d0f7ae9251413e6800781c",
+               "name": "Nancy DeMars",
+               "profile_path": "/o5iL2oiIqfcaHvEkXWjpHIwpfTG.jpg",
+               "id": 1554512,
+               "order": 51
+            },
+            {
+               "cast_id": 146,
+               "character": "Reporter (uncredited)",
+               "gender": 1,
+               "credit_id": "5704f9fe925141069400165a",
+               "name": "Davina Joy",
+               "profile_path": "/lT4kefEBFHZjLZyDd4lqZHC9xSx.jpg",
+               "id": 93242,
+               "order": 52
+            },
+            {
+               "cast_id": 124,
+               "character": "CSI Photographer (uncredited)",
+               "gender": 2,
+               "credit_id": "56d0f9de9251413e5f007546",
+               "name": "Michael Kelly",
+               "profile_path": "/pyF8eGwGRxCq3PVQm2whgasYRl.jpg",
+               "id": 1454084,
+               "order": 53
+            },
+            {
+               "cast_id": 125,
+               "character": "High roll dealer (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fa18c3a3681e3e008602",
+               "name": "Elester Latham",
+               "profile_path": "/1IlxOuvptLb7pH2j0t1KLQukzdG.jpg",
+               "id": 1080064,
+               "order": 54
+            },
+            {
+               "cast_id": 126,
+               "character": "Sharon's Assistant (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fa74c3a3681e440086b2",
+               "name": "Aaron Massey",
+               "profile_path": "/y9C8aAImPDFEapxfVmNNYLwWjJ8.jpg",
+               "id": 1283330,
+               "order": 55
+            },
+            {
+               "cast_id": 127,
+               "character": "Coffee Cop (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0faf4c3a3681e50006a61",
+               "name": "Orion McCabe",
+               "profile_path": "/o43G6iYRiZzou7RUxdoEQn6O18y.jpg",
+               "id": 1583389,
+               "order": 56
+            },
+            {
+               "cast_id": 128,
+               "character": "Hostess (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fbbac3a3681e57007774",
+               "name": "Roz McHenry",
+               "profile_path": "/rjvlqkLhDcstwScpukRHqpzfxKP.jpg",
+               "id": 1505171,
+               "order": 57
+            },
+            {
+               "cast_id": 129,
+               "character": "Truck Stop Cook (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fc1bc3a3681e57007783",
+               "name": "Bryan McKinley",
+               "profile_path": "/5CyRIhz8LyaNJBBq0AL34UuZWPk.jpg",
+               "id": 1583390,
+               "order": 58
+            },
+            {
+               "cast_id": 130,
+               "character": "Dealer (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fc3a9251413e6800792a",
+               "name": "Teebone Mitchell",
+               "profile_path": "/dplhzHkATBtyUeaAo7T2aHbaGA.jpg",
+               "id": 1411659,
+               "order": 59
+            },
+            {
+               "cast_id": 131,
+               "character": "Amish Musician (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fc9bc3a3681e36007362",
+               "name": "Justin Nesbitt",
+               "profile_path": "/6xkISBqCGVzFy7nlHl0ZV6cEsJX.jpg",
+               "id": 1419130,
+               "order": 60
+            },
+            {
+               "cast_id": 132,
+               "character": "Bartender (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fd31925141340200337c",
+               "name": "Mark Parrish",
+               "profile_path": "/bwmwvqF2Di9LvD4tpBdpNqyrPi4.jpg",
+               "id": 239758,
+               "order": 61
+            },
+            {
+               "cast_id": 133,
+               "character": "Pedestrian (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fe0192514134020033a8",
+               "name": "Jaclyn Rose",
+               "profile_path": "/evh7mXdb8j9kVBqmYJcPSjznzt0.jpg",
+               "id": 1439921,
+               "order": 62
+            },
+            {
+               "cast_id": 134,
+               "character": "Gate Agent (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fe26c3a3681e360073a4",
+               "name": "Sahlima",
+               "profile_path": "/ghP8i5zNAyWRQEbnp4QqJnEppjk.jpg",
+               "id": 1349942,
+               "order": 63
+            },
+            {
+               "cast_id": 135,
+               "character": "Bike Messenger (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fe72c3a3681e3c008616",
+               "name": "Joel Shock",
+               "profile_path": "/q1dCgFesKImOzvp1sd2zQ1hu5WG.jpg",
+               "id": 74510,
+               "order": 64
+            },
+            {
+               "cast_id": 136,
+               "character": "Williamsburg Musician (uncredited)",
+               "gender": 0,
+               "credit_id": "56d0fecfc3a3681e57007812",
+               "name": "Robert Tarpinian",
+               "profile_path": null,
+               "id": 1302210,
+               "order": 65
+            },
+            {
+               "cast_id": 137,
+               "character": "Police Station Woman (uncredited)",
+               "gender": 1,
+               "credit_id": "56d0ff239251415ad9000f3e",
+               "name": "Tracy Weisert",
+               "profile_path": "/5TWjcFCFceYR29HCi6VokKc8c5O.jpg",
+               "id": 1256257,
+               "order": 66
+            },
+            {
+               "cast_id": 153,
+               "character": "Makeup (uncredited)",
+               "gender": 1,
+               "credit_id": "5888fe45c3a36859ec011da8",
+               "name": "Michelle Winters",
+               "profile_path": "/mKmUgBEA34zIzCWirUk75xJzFU5.jpg",
+               "id": 1590738,
+               "order": 67
+            },
+            {
+               "cast_id": 154,
+               "character": "Press Reporter (uncredited)",
+               "gender": 0,
+               "credit_id": "58890357c3a36859f30129a4",
+               "name": "Tracy Brotherton",
+               "profile_path": "/fHaAqoPxZ3s1UX8FMxwb2bs0Aqz.jpg",
+               "id": 1745193,
+               "order": 68
+            },
+            {
+               "cast_id": 155,
+               "character": "Kissing Girl (uncredited)",
+               "gender": 0,
+               "credit_id": "5889079f9251416300012f4d",
+               "name": "Matilde Matteucci",
+               "profile_path": "/wLD3kOzfWT4lwUj4VlxHOq6W9bk.jpg",
+               "id": 1661085,
+               "order": 69
+            },
+            {
+               "cast_id": 156,
+               "character": "Librarian (uncredited)",
+               "gender": 0,
+               "credit_id": "58aca7579251416f67000605",
+               "name": "Dale Shane",
+               "profile_path": "/y3eIN7e2VnlgDBYlJpGQT99jyHd.jpg",
+               "id": 1709744,
+               "order": 70
+            },
+            {
+               "cast_id": 157,
+               "character": "Police Administrator (uncredited)",
+               "gender": 1,
+               "credit_id": "5917ddc8c3a368426904067e",
+               "name": "Leslie A. Hughes",
+               "profile_path": "/ihhstLzFqzYCICREPSEvSJvW5NF.jpg",
+               "id": 1816403,
+               "order": 71
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4d7fc3a368484e1ec741",
+               "name": "David Fincher",
+               "profile_path": "/dcBHejOsKvzVZVozWJAPzYthb8X.jpg",
+               "id": 7467,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d7fc3a368484e1ec747",
+               "name": "Gillian Flynn",
+               "profile_path": null,
+               "id": 1194205,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d7fc3a368484e1ec74d",
+               "name": "Gillian Flynn",
+               "profile_path": null,
+               "id": 1194205,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4d7fc3a368484e1ec753",
+               "name": "Reese Witherspoon",
+               "profile_path": "/a3o8T1P6yy4KWL7wZG6HuDeuh5n.jpg",
+               "id": 368,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4d7fc3a368484e1ec759",
+               "name": "Leslie Dixon",
+               "profile_path": null,
+               "id": 11708,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d7fc3a368484e1ec75f",
+               "name": "Bruna Papandrea",
+               "profile_path": null,
+               "id": 52993,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d7fc3a368484e1ec781",
+               "name": "Jeff Cronenweth",
+               "profile_path": null,
+               "id": 7479,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d7fc3a368484e1ec787",
+               "name": "Kirk Baxter",
+               "profile_path": "/6ZXVD6C5BW42FAJ13qLWVOdt9BB.jpg",
+               "id": 964726,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5319be0192514177b7002650",
+               "name": "Laray Mayfield",
+               "profile_path": null,
+               "id": 7481,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5319be2892514177b1002677",
+               "name": "Trent Reznor",
+               "profile_path": "/aVecBZuztMlT4WXUcZuiXZE41BS.jpg",
+               "id": 3186,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5319be3392514177bc0025dc",
+               "name": "Atticus Ross",
+               "profile_path": "/1xZS7AAwf5etQMPkCCM8v8yNEvI.jpg",
+               "id": 142391,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5319be4592514177bf0025ce",
+               "name": "Donald Graham Burt",
+               "profile_path": null,
+               "id": 20209,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5319be5292514177b400267f",
+               "name": "Trish Summerville",
+               "profile_path": "/mBLxulkFOaMzFqagJNpOKTtHO9a.jpg",
+               "id": 1002919,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54d09b8e9251417c1a002ae2",
+               "name": "Dawn Swiderski",
+               "profile_path": null,
+               "id": 66689,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09ba59251417c1a002ae6",
+               "name": "Douglas A. Mowat",
+               "profile_path": null,
+               "id": 10958,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09bc99251417c20002a5f",
+               "name": "Cheryl Beasley Blackwell",
+               "profile_path": null,
+               "id": 1325235,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54d09c2bc3a3684321002c5d",
+               "name": "Anita Louise Brown",
+               "profile_path": null,
+               "id": 1422398,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09c3fc3a368431e002ce9",
+               "name": "Paul Corricelli",
+               "profile_path": null,
+               "id": 1399321,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09c66c3a3684318002f80",
+               "name": "Tom Macdonald",
+               "profile_path": "/1IUGgpG0aE5rLOopO0fkmzSRsXd.jpg",
+               "id": 1422400,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09c819251417c0b002a94",
+               "name": "Lauren Winchester",
+               "profile_path": null,
+               "id": 1422401,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09cb39251417c1d002984",
+               "name": "Kim Santantonio",
+               "profile_path": null,
+               "id": 1404306,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09cccc3a3684310002c2f",
+               "name": "Sheryl Blum",
+               "profile_path": null,
+               "id": 31556,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09cf0c3a368430a002fd1",
+               "name": "Jose Zamora",
+               "profile_path": null,
+               "id": 1420642,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54d09d12c3a368430d002cf2",
+               "name": "Stacey Morris",
+               "profile_path": null,
+               "id": 92330,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09d30c3a3684321002c8e",
+               "name": "Kate Biscoe",
+               "profile_path": null,
+               "id": 229801,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09d4ec3a368431e002d07",
+               "name": "Wanda Patterson",
+               "profile_path": null,
+               "id": 80807,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09d6ec3a368430d002d0a",
+               "name": "Deborah Rutherford",
+               "profile_path": null,
+               "id": 1414539,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09de59251417c1a002b31",
+               "name": "Aurora Bergere",
+               "profile_path": null,
+               "id": 1017340,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54d09e11c3a3684314002b08",
+               "name": "Gary J. Tunnicliffe",
+               "profile_path": "/myqqCxYqCNMjbolTX73IwYUQYXX.jpg",
+               "id": 62824,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09e7f9251417c1d0029c1",
+               "name": "Michael LaCorte",
+               "profile_path": null,
+               "id": 1422403,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09e97c3a3684318002fc2",
+               "name": "Molly Reinhardt",
+               "profile_path": null,
+               "id": 1422404,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09ec7c3a3684321002cd5",
+               "name": "Cara Brower",
+               "profile_path": null,
+               "id": 1422406,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09eebc3a368430a00300a",
+               "name": "Mark Robert Taylor",
+               "profile_path": null,
+               "id": 1364239,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09f2e9251417c1a002b60",
+               "name": "Robert J. Carlyle",
+               "profile_path": null,
+               "id": 1398118,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09f4e9251417c1d0029d3",
+               "name": "Kirk Corwin",
+               "profile_path": null,
+               "id": 1413090,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09fcec3a3684314002b39",
+               "name": "Alex Sessing",
+               "profile_path": null,
+               "id": 1400855,
+               "department": "Art",
+               "job": "Greensman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d09ffbc3a3684314002b3f",
+               "name": "Tim Croshaw",
+               "profile_path": null,
+               "id": 1360093,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54d0a015c3a368431e002d66",
+               "name": "Barbara Mesney",
+               "profile_path": "/ymEEHKFnP32ZVVkO0wsfstCsGDx.jpg",
+               "id": 1378224,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a047c3a3684321002cfa",
+               "name": "Jane Wuu",
+               "profile_path": null,
+               "id": 1411509,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a0c79251417c0b002b2a",
+               "name": "Alyson Dee Moore",
+               "profile_path": null,
+               "id": 1397823,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54d0a0dc9251417c160028db",
+               "name": "John Roesch",
+               "profile_path": null,
+               "id": 1116937,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a0fac3a3684321002d0f",
+               "name": "Daniel Laurie",
+               "profile_path": null,
+               "id": 16344,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a11a9251417c20002b0c",
+               "name": "Ren Klyce",
+               "profile_path": "/tMDHEVa05pe3od1NMpfplPVPnxD.jpg",
+               "id": 7763,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a12e9251417c1d002a16",
+               "name": "Ren Klyce",
+               "profile_path": "/tMDHEVa05pe3od1NMpfplPVPnxD.jpg",
+               "id": 7763,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a1549251417c0d002b2b",
+               "name": "Malcolm Fife",
+               "profile_path": null,
+               "id": 1415464,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a169c3a3684314002b5a",
+               "name": "David C. Hughes",
+               "profile_path": null,
+               "id": 1399117,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a18bc3a3680f370010f7",
+               "name": "Al Nelson",
+               "profile_path": null,
+               "id": 1422411,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54d0a1ddc3a368430a00307c",
+               "name": "David Parker",
+               "profile_path": null,
+               "id": 1406614,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a1ff9251417c20002b25",
+               "name": "Michael Semanick",
+               "profile_path": null,
+               "id": 1378828,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a2189251417c20002b2d",
+               "name": "Ron Bolanowski",
+               "profile_path": null,
+               "id": 1422412,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a271c3a3684321002d3d",
+               "name": "Carlos Anaya",
+               "profile_path": null,
+               "id": 1422413,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a28cc3a368431e002da2",
+               "name": "Robin L. D'Arcy",
+               "profile_path": null,
+               "id": 1348006,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a2a99251417c1a002bc1",
+               "name": "Gabriela Hickman",
+               "profile_path": null,
+               "id": 1422414,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a2c19251417c1d002a41",
+               "name": "Brice Liesveld",
+               "profile_path": null,
+               "id": 1367826,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a2f2c3a3680f37001120",
+               "name": "James Pastorius",
+               "profile_path": null,
+               "id": 1367827,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a311c3a368430a0030ae",
+               "name": "Eric Barba",
+               "profile_path": null,
+               "id": 1415487,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a33dc3a368430d002dad",
+               "name": "Charlie Iturriaga",
+               "profile_path": null,
+               "id": 1348005,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a355c3a3684318003059",
+               "name": "Marco Maldonado",
+               "profile_path": null,
+               "id": 1422415,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a3789251417c1d002a54",
+               "name": "Steve Preeg",
+               "profile_path": null,
+               "id": 1415490,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a3a0c3a3684318003069",
+               "name": "Mickey Giacomazzi",
+               "profile_path": "/pKeZNewK7yJvOV4feKUXZcD8LMa.jpg",
+               "id": 1122560,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54d0a3c5c3a3684321002d68",
+               "name": "Peter Rosenfeld",
+               "profile_path": null,
+               "id": 1399877,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54d0a3e59251417c20002b65",
+               "name": "Merrick Morton",
+               "profile_path": null,
+               "id": 1172443,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a4299251413e0b001421",
+               "name": "Matt Blackshear",
+               "profile_path": null,
+               "id": 1396825,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a4409251417c14002a7a",
+               "name": "Emily Eddey",
+               "profile_path": null,
+               "id": 1406317,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a45d9251417c1d002a78",
+               "name": "Jonathon Stevens",
+               "profile_path": null,
+               "id": 1422418,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a4739251417c1a002c02",
+               "name": "Robert E. Dingle",
+               "profile_path": null,
+               "id": 1422420,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a4b9c3a3680f3700114d",
+               "name": "John Cefalu",
+               "profile_path": null,
+               "id": 1422421,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54d0a4e49251417c1a002c12",
+               "name": "Carla Meyer",
+               "profile_path": null,
+               "id": 122607,
+               "department": "Crew",
+               "job": "Dialect Coach"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d0a4fdc3a3684314002bac",
+               "name": "Richard Schuler",
+               "profile_path": null,
+               "id": 132616,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "570bd8e39251413c8e000401",
+               "name": "Sue Chan",
+               "profile_path": null,
+               "id": 33455,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d1e21e9251413e5f00981a",
+               "name": "Arnon Milchan",
+               "profile_path": "/5crR5twLRcIdvRR06dB1O0EQ8x0.jpg",
+               "id": 376,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d1e2479251417468001e32",
+               "name": "Ceán Chaffin",
+               "profile_path": null,
+               "id": 7475,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d1e3619251413e59009842",
+               "name": "Joshua Donen",
+               "profile_path": null,
+               "id": 71262,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d1e459925141799e006dac",
+               "name": "David Witz",
+               "profile_path": null,
+               "id": 74567,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d1e4bdc3a3681e3600965f",
+               "name": "Courtenay Miles",
+               "profile_path": null,
+               "id": 1583700,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d1e544c3a3681e3600966f",
+               "name": "Dean Hathaway",
+               "profile_path": null,
+               "id": 1463411,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56d1e5bbc3a3681e4a0092f1",
+               "name": "Jessica Harbeck",
+               "profile_path": "/jKZNNDJ7Eu1CTbT6kyGGQtAEeOM.jpg",
+               "id": 1583701,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56e218cb92514131670003d6",
+               "name": "Max Leonard",
+               "profile_path": null,
+               "id": 1384375,
+               "department": "Visual Effects",
+               "job": "VFX Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "571e4692c3a3683393000175",
+               "name": "Thom Brennan",
+               "profile_path": null,
+               "id": 1478854,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5727e027c3a3682148001d63",
+               "name": "Tyler Nelson",
+               "profile_path": "/7yszfgYEPEzqaLOo3HMx98n51Sl.jpg",
+               "id": 1614502,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "574f62dd9251414316000155",
+               "name": "Luca Marco Paracels",
+               "profile_path": null,
+               "id": 1477203,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579cdd06925141069c00043b",
+               "name": "Patty Majorczak-Connolly",
+               "profile_path": null,
+               "id": 1535105,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a7d0cd60e0a2632f301ed81",
+               "name": "Bob Gilles",
+               "profile_path": "/sUwaxqzahhNQPFKB5Um8BtzRcJC.jpg",
+               "id": 1797207,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 71.614213,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 210577,
+      "vote_count": 7461,
+      "budget": 61000000,
+      "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "similar": [
+         75780,
+         11423,
+         2275,
+         4771,
+         65754,
+         392044,
+         346364,
+         10559,
+         49524,
+         1939,
+         1923,
+         21484,
+         357096,
+         6973,
+         8012,
+         769,
+         949,
+         1586,
+         320,
+         189
+      ],
+      "original_title": "Gone Girl",
+      "runtime": 145,
+      "poster_path": "/gdiLTof3rbPDAmPaCf4g6op46bj.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+            "name": "Regency Enterprises",
+            "id": 508,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/hNuGhsKVlmhnwSRcmOejDBDjh6w.png",
+            "name": "New Regency Pictures",
+            "id": 10104,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Pacific Standard",
+            "id": 15829,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "id": 22213,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Artemple - Hollywood",
+            "id": 60682,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2014-10-01",
+      "vote_average": 7.9,
+      "belongs_to_collection": null,
+      "tagline": "You don't know what you've got 'til it's...",
+      "adult": false,
+      "homepage": "http://www.gonegirlmovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["David Fincher"],
+      "runtime": 149,
+      "synopsis": "Nick Dunne (Ben Affleck) is stroking the hair of his wife Amy (Rosamund Pike), saying through a voiceover that he'd like to crack her skull and pick apart her brain to answer that eternal question married couples have: What are you thinking? July 5, 2012 Nick takes out the garbage early in the morning, and looks around at the quiet neighbourhood. He then goes to a bar he co-owns with his sister Margo (Carrie Coon). He brings her a Mastermind board game that she throws in with a pile of others. He asks for a drink, and she pours one for each of them. It's the morning of Nick and Amy's 5th wedding anniversary, and he expects another scavenger hunt. Nick seems distressed, not wanting to be there at all. January 8, 2005 Nick and Amy first meet at a party in New York. He writes for a men's magazine and she writes personality quizzes for another. She makes a comment on the cleft of his chin making him look untrustworthy. He puts two fingers over the cleft so he'll appear more trusting. They take a walk and pass through a bakery that is getting a sugar delivery. Sugar is floating around everywhere as Nick and Amy walk through it. Nick tells Amy he has to kiss her now. He wipes some sugar off her lips and kisses her. They are later seen in bed with her lying on her back in her underwear and him performing oral sex on her. Present Day. Nick gets a call from a neighbor, telling him that his cat is outside. He returns home and calls for Amy. No answer. He goes into the living room and sees a table flipped over and the glass top is shattered on the floor. Nick screams Amy's name, startling a neighbor. Nick calls the police. Arriving at his home are Detective Rhonda Boney and Officer Jim Gilpin (Kim Dickens and Patrick Fugit). They inspect the place. Rhonda sees a small splatter of blood in the kitchen above the range. In the living room, they see a wall with pictures of \"Amazing Amy\", a book series written by Amy's parents. Rhonda comments that she loves the books and is surprised to learn that Nick is married to Amazing Amy herself. February 24, 2007 Nick and Amy go to a party held by her parents Rand and Marybeth (David Clennon and Lisa Banes). It is to celebrate the latest Amazing Amy book, where Amy gets married. As Nick and Amy discuss the exhibitions at the party, it becomes clear that the parents' fictional Amazing Amy character is a dramatically \"improved\" version of their real daughter that is sold it to the public. (For example, they gave Amazing Amy a dog, but refused one for their real daughter. They made Amazing Amy a prodigy cellist when real the Amy dropped out.) Rand asks Amy to go sit with some reporters so they can interview her. She does, and they ask her mundane questions such as why she's not married yet (to which she replies that Amazing Amy has always been one step ahead of her). Nick comes in pretending to be a reporter. He asks her more personal questions, leading up to a marriage proposal - opening his notebook to reveal an engagement ring. He mentions that she has a world class vagina. Present Day Nick is brought into the police station for questioning about Amy's disappearance. Rhonda and Jim find it odd that he seems rather indifferent and passive when answering questions and the fact that he doesn't know if Amy has any close friends or her blood type. He goes to call Amy's parents. Her mother asks to speak to Rhonda. In the next room, Nick finds that his father Bill (Leonard Kelly-Young) is in there after the police found him wandering around town, having left his assisted living facility (he suffers from Alzheimer's). Nick drives him back to the facility. Nick stays at Margo's house while the police inspect his home. A pregnant neighbor, Noelle Hawthorne (Casey Wilson), who claims to be Amy's best friend, comes by and asks about Amy. In the upstairs bedroom, Officer Gilpin says that he found \"it\" in the drawer of \"unmentionables.\" Detective Boney pulls out an envelope, labelled \"Clue One.\" July 5, 2009 Nick and Amy have been happily married for two years. On their anniversary, another of Amy's scavenger hunts takes them to the library to have sex in a quiet area. Amy gives Nick a gift. He opens the box to find a package of very high quality bed sheets. She refers to a private joke they had about how their sex was too good for ordinary sheets. He laughs and pulls out a gift for her - the same sheets. Present Day When questioned about this \"clue\", Nick says Amy always prepares a treasure hunt for their anniversary. The first clue leads him and Rhonda to his office, with another envelope on his desk labelled \"Clue Two.\" Detective Boney finds a pair of red panties in the office. Nick is surprised by this discovery, as it doesn't seem directly related to the clue. The second clue mentions a brown house, but tells the detective that he doesn't understand it. Nick goes to his father's old home, which is painted blue. He arrives, but sets off the alarm. He enters the code twice to disarm the alarm, but it doesn't work. The phone rings, and it is the alarm monitoring company investigating the alarm. As he starts to explain that it's his father's house, the detectives arrive, so he figures they must be following him. He finds the third clue there but only has time to tuck it into his back pocket, hiding it from the police. The detectives question him as to why he's there. He says he comes by once a week to make sure the place doesn't burn down. Amy's parents fly in from New York as a press conference is held to spread awareness of Amy's disappearance. Nick asks others for help, but he appears emotionless. He is asked to pose next to a poster of Amy, and a photographer captures the brief moment when a smile appears on his face. Nick and Amy's parents meet with Rhonda to determine some possible suspects. Rand names an ex-boyfriend of Amy's, Desi Collings, who apparently tried to commit suicide after Amy broke up with him. They also mention a former classmate named Tommy O'Hara who was convicted of sexually assaulting Amy. People go to the volunteer center to help find Amy. One person there is Desi Collings (Neil Patrick Harris), but he leaves without saying anything. Nick tries to come off as friendly to others, but Jim doesn't buy it. Even Marybeth thinks he is acting like a \"homecoming king.\" Nick is approached in a hallway by a woman who extends her sympathy and offers to make him a chicken-Frito pie casserole. She stands next to him and takes a selfie of the two of them, telling him to say \"chicken-Frito pie.\" He makes a fake smile as she takes the photo and he immediately realizes this was a mistake and asks her to delete the photo. She refuses, and he asks her not to share it with anyone. She replies, \"I'll share it with anyone I please\" as she walks away. The photo goes viral. Consequently, the media starts analyzing Nick. TV personalities like Ellen Abbott (Missi Pyle) paint him as an unempathetic sociopath. 2010 Amy's diary explains how both she and Nick lose their jobs. Amy talks about the troubles they are having, then says, \"But that's all background noise.\" She says that none of it matters as long as they have each other. Then Amy tells Nick that her parents are having financial problems and asked her for her trust fund money, which is nearly a million dollars. Nick is shocked that she would do that without talking to him first. Amy explains that the money is really their money anyway, and then says, \"This is the part where you say, 'It's all background noise.'\" He appears to calm down, and repeats the phrase. Later on, Nick has started losing interest in the marriage and has begun overspending on electronics like video games and a new laptop. Amy thinks he is trying to make her look like a cold, bitchy wife. To make matters worse, Nick and Margo's mother Maureen (Cyd Strittmatter) has been diagnosed with breast cancer, forcing Nick and Amy to move back to his hometown in Missouri. Amy feels a bit upset because Nick didn't even discuss the decision to move to Missouri with her, although she does support it. In general, Amy feels left out. She says he is just using her for sex. Nick is getting ready to go out with his old friends one evening when Amy tries to persuade him to stay with her, but he refuses. Then she offers to join him, but he also refuses, saying how she won't enjoy it. Then Any makes the suggestion that they have a child. He starts to get angry, asking why couldn't they have had this argument four hours prior, instead of when he is about to leave. The argument escalates as they go down the stairs, and at the bottom of the stairs Nick grabs Amy and throws her down, and she strikes the bannister post and falls to the floor. He immediately looks shameful. Present Day A few nights after Amy disappears, Nick is at Margo's house. It's late and Margo has gone to bed. Nick gets a text saying, \"I'm outside.\" Nick opens the back door. A young woman, Andie Fitzgerald (Emily Ratajkowski), comes in and starts kissing Nick. He tells her to be quiet while Margo is sleeping. He makes sure that Andie hasn't said anything to anybody about her affair with Nick or that he has mentioned wanting to divorce Amy. He asks her if she left some red panties in his office, and she is doubtful, but not 100% sure. They continue kissing and have sex. Nick has Andie slip out the door early in the morning, thinking Margo is still asleep. However, Margo appears in the kitchen and angrily berates her brother for lying to her, knowing what would happen if the cops or media were to find out about this. At night, there is a vigil for Amy. Nick stands alongside her parents, and tries to seem more empathetic and anxious to find Amy, telling the crowd how he truly loves his wife. Andie is clearly visible up front in the crowd and mouths the word \"asshole\" in a way that only he can see. Noelle walks by and calls out to Nick, asking him if he knew that Amy was six weeks pregnant. The reporters chase Nick all the way to the police car as they escort him away. Margo presses Nick about the pregnancy bombshell. He says he did not know she was pregnant, but that he did want kids and Amy didn't. He shows her a letter from a fertility clinic that they were going to, stating that they were going to dispose of a semen sample they had left there, unless someone came to retrieve it. Rhonda and Jim meet Nick back in his home and explain that the results of a light test showed that someone wiped up a large pool of blood in the kitchen. Nick also doubts that Amy knew Noelle, until Rhonda shows him photographs of the two of them together, along with Noelle's kids. She even hands Nick a document of recent expensive transactions from his credit card, mentioning items including golf clubs and a Stratocaster guitar, though Nick says he never bought any of those items. Additionally, Rhonda presses Nick about the fact that he upped Amy's life insurance policy earlier that year to over a million dollars. He barks back, \"because she told me to!\" Rhonda gets a call confirming Amy's urine sample analysis indicate that she was indeed pregnant. Nick remembers the third clue in his pocket, and tries to decipher it. Rhonda and Jim continue their investigation, checking out the abandoned mall, now frequented by prostitutes and drug dealers. They find a local dealer and show him a picture of Amy. He tells Rhonda that she came by and tried to buy a gun from him. He had a clear memory of the event; it was Valentine's Day and she had been wearing a pink dress. They go back to Nick's father's home, wondering why Nick went there in the first place so soon after Amy's disappearance. In the furnace in the basement, they find Amy's diary hidden in the furnace, burnt slightly. Nick, meanwhile, figures out that the third clue refers to a wood shed outside Margo's home. He discovers a large pile of items from the credit card purchases stored there, as well as a gift-wrapped box in the middle of it all. Amy's Version: July 5, 2012 We go back to \"the morning of\", and we learn the truth - Amy is alive and she staged everything to lead up to her disappearance. She is seen driving away from Missouri with her arm bandaged up with a blood spot evident on the inside of her elbow. Amy had used a variety of pens to make recent diary entries appear as if they were written over the past 5 years, and periodically threw each one out the car window. It documents a happy marriage deteriorating to the point where she buys a gun because she is afraid that Nick may kill her. She even faked her pregnancy by befriending pregnant Noelle and making her think that Nick was hurting her. Amy drained her toilet and offered Noelle lemonade until she had to use the bathroom. Amy then stole her urine and used it to submit it for the pregnancy test. On their fifth anniversary, Amy told Nick to take a walk and really think about their marriage, knowing full well he would go for a walk in his favorite isolated spot along the beach and thus have no alibi. Meanwhile she set up a crime scene to make Nick look guilty. Her plans included suicide so that her body would be found to completely frame Nick. To make sure she's not found out, she cuts her hair, dyes it, and makes herself look unkempt and disheveled. She begins eating large amounts of junk food to gain weight. She hides out at a small resort under the name Nancy, even hitting herself in the face with a hammer to sell the idea that she is hiding from an abusive boyfriend. She befriends a woman named Greta (Lola Kirke). Amy tells her how she came across Nick leaving the bar with Andie during a snowy night, wiping her lips before he kissed her the same way he kissed Amy when they first met (this part is true). With her plan working perfectly, she postpones her suicide for another month. Back to Nick Nick brings the gift box inside and opens it to find Punch and Judy dolls, with the Judy doll holding a baby and missing a mallet. Together, he and Margo deduce that Amy has framed Nick for her disappearance. Nick goes to New York to find Tanner Bolt (Tyler Perry), a lawyer specializing in tough, high-profile cases who has been following Nick's story in the media. He agrees to help Nick in his defense. He gives Nick the contact information of Tommy O'Hara (Amy's second boyfriend, who was charged with sexual assault) so that Nick can ask him questions. Nick meets Tommy (Scoot McNairy) in a bar. Tommy says he and Amy dated for a while, but he could see that she was using him. He gave her some space, hoping she'd break off the relationship. One day, she seduced him, and told him she wanted rough sex. She staged a scene where she had marked her wrists and left neckties tied to the bed to make it appear he had tied her up. She went to the police, and claimed he had raped her. He pleaded guilty to a reduced charge to avoid prison time. Now he is a registered sex offender and has not been able to get a job. He warns Nick about how evil and manipulative she is. Nick later visits Desi after finding his address from a letter he wrote to Amy. After Nick asks Desi about his side of the story regarding his attempted suicide, Desi closes the door on him and walks back inside his house without confirming or denying the things she told Nick about him. At the resort, Amy plays mini-golf with Greta and her friend Jeff (Boyd Holbrook). At one point, she jumps up and drops her fanny pack full of money. Greta and Jeff notice. The next day, as Amy is cleaning the room meticulous to prepare to leave, they force their way into her room and start searching for the money. Amy threatens to call the police. Greta says that she doesn't know what she's up to, but has dyed hair and she doesn't think she's ever been hit. Greta says, \"You won't call the police.\" They find the money under her dress, and take it. Now penniless, she calls the Missing Amy tip line, and reports suspicious activity at Margo's wood shed. She then places a call from a pay phone. Tanner goes to Missouri to help Nick and Margo clear up Nick's image. Nick tells Tanner what he thinks has been going on with Amy, dropping clues that only he would really know. For instance, the reason he knew that the \"brown house\" in the treasure hunt clue was his dad's house was because they used to pretend that his dad was a spy called Mr. Brown. Nick also admits to the affair, which Tanner says he ought to tell the cops about so that it gives them one less reason to think Nick had a motivation to kill Amy. Nick later books an interview on TV with Sharon Schieber (Sela Ward) to tell his side of the story. Tanner coaches him to make him seem more likeable by having Nick admit that he's been unfaithful and dishonest, which would earn him some possible points in the media. On the day of the interview, Tanner keeps trying to get Nick to come off less smug and more genuinely upset by pelting him with gummy bears in his dressing room when Nick appears too smug or untrustworthy. At the same time, Desi meets Amy at a casino. She never mentions getting her money stolen, but she continues to play up the abused wife angle. They leave for Desi's lake house. As Nick meets Sharon, a bombshell hits the news: Andie has confessed to her affair with Nick at a press conference, with Amy's parents. Desi and Amy see the news while Sharon gets wind of it at the same time. Marybeth tells reporters that her and Rand's love for Nick has ended then and there. Desi and Amy watch Nick's interview with Sharon, while Nick is watching with Margo. Nick convincingly comes off as remorseful for the affair, but he insists that he did not kill his wife. Sharon lets him speak directly into the camera to say something to Amy. He says he loves her and mentions the woodshed (figuratively, apparently as a secret message to Amy) before putting two fingers on his chin, knowing Amy would recognize that. Margo checks the Internet and sees that Nick is trending positive with the public. Things take an unfortunate turn when Rhonda and other officers show up at Margo's home with a search warrant due to the call about the woodshed. They find all the merchandise from the credit card bill. Both Nick and Margo are taken into custody. Rhonda reads to Nick the pages of Amy's diary, which ends with \"This man may truly kill me.\" Jim brings in the missing Judy mallet from the puppets. It has been burned in their fireplace, but traces of Amy's blood are found on it. Rhonda now has a murder weapon, and arrests Nick. He protests, but Tanner shuts him up. At Desi's home, Amy learns that Desi has security cameras installed all over the property. She is virtually a prisoner in his home. While he's out at work, she stages what looks like a brutal rape. She soaks her nightgown in red wine, binds her hands and feet, then crawls to the camera, crying, making it look like she's just been raped. Nick and Margo are released on bond. The media continues to hound them on the way out, now that everyone is convinced Nick is a cold monster. Nick quietly whispers to himself, \"Come home, Amy. I dare you.\" Amy waits for Desi to come home. She gets a wine bottle and puts it in herself to create injuries. When Desi gets home, Amy seduces him and agrees to run off with him to Greece once the trial is over. They go into the bedroom. She starts taking his clothes off, tearing his shirt open, and they start having sex. Amy demands it to be harder. Desi is caught off guard, once he gives over to the moment, lifting his head to the ceiling, Amy grabs a box cutter she concealed beneath the pillows and slashes his throat. She is drenched in his blood as he dies underneath her. She does look upset about what she's just done. Nearly a month after Amy's disappearance, Nick looks out his window and sees Amy drive up, still covered in blood. The reporters and neighbours are shocked and begin clamoring around Nick and Amy as she walks up to him. He whispers to her, \"You fucking bitch\", before she collapses in his arms. At the hospital, Amy is interviewed by a roomful of police and weaves a story about how Desi kidnapped and raped her before she made her heroic escape. Rhonda asks her questions about the items in Margo's woodshed, but Amy deflects the question and returns to her rape story, while also being heavily medicated on painkillers. The reporters follow her and Nick home, happy that she's alive and that Nick is now vindicated. However, Nick knows something is wrong, and asks her what really happened. Amy forces Nick to disrobe to prove he's not wearing a wire. She goes to the shower to wash off the copious amounts of Desi's blood still covering her. In the shower with Nick, she all but confesses that she framed Desi and murdered him in order to return to Nick as he had requested (and presumably also to make her return seem heroic). Nick sleeps in a separate room and locks the door behind him. Nick meets with Tanner, Margo, and Rhonda (who now trusts Nick) about this revelation, though without sufficient evidence and with everyone on Amy's side, they cannot prove that she murdered Desi. Nick and Amy make their first public appearance together at the volunteer center, posing as a happily reunited couple. They are even set to have an interview with Ellen Abbott in their home. As they are getting ready, Amy gives Nick a gift, which is a pregnancy test. It's positive. Nick first says it can't be his, and he'll demand a blood test. Then he realizes that she has retrieved his semen sample, and is using this as a ploy to keep him with her. The tension escalates and he grabs her and slams her head against the wall, calling her a cunt. She tells him she's the same cunt he fell in love with. And she's the only cunt that ever made him feel like a man. Reluctantly, Nick joins Amy hand-in-hand for the interview. During the interview, Amy prods Nick and he says they're going to be parents, when Ellen appears overjoyed and hugs Amy. Margo later finds out about the pregnancy and cries for her brother, and is distraught that he plans to stay with her for the sake of the child for the next 18 years. The film concludes with a similar shot as the opening, Nick stroking Amy's hair again, wondering to himself just what she's thinking.",
+      "writers": [
+         "Gillian Flynn",
+         "Gillian Flynn"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2267998/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Ben Affleck, Rosamund Pike, Neil Patrick Harris | See full cast and crew »"],
+      "reviews": [
+         "One of the most ridiculous spectacles of bad storytelling I have ever seen in my entire life. \"Gone Girl\" gets its title I think, from the fact that she was supposed to be done away with (murdered and disposed of) but is really \"gone\" psychologically�she is a pure psychopath. The movie tries to tell you that she is highly intelligent, and meticulously plans to fake her own murder and frame her husband for it. Here's the pathetic execution of her plan: 1. he leaves the house one morning, and she springs into action. 2. she breaks the glass coffee table, pours about a half quart of her own blood in one puddle, in front of the kitchen sink. That much blood from a violent attack would be all over the room. 3. she flees, leaving the front door open. 4. A nosy neighbor notices the door ajar and calls the husband (somehow the neighbor knows exactly where he is.) But no one saw the wife leave. 5. The husband comes home. He has not a scratch on him. 6. he is totally co-operative with the police. 7. They eventually find her diary In a wood stove at the husbands father's house. The wood stove door is ajar and the diary is only partially burned; it really makes you wonder how that played out�that the husband put the diary in there to burn but just left it singed, all that work, cleaning up the blood at home, but not to burn the book, as if he needed to make a special trip to his dad's house to dispose of a stupid book. and the only thing incriminating that she wrote was on one page which he could've simply torn out. 8. When the wife runs away, she only changes her appearance slightly and then, instead of secluding herself, she makes friends with some low-lifes, with whom she sits and watches her story unfold on TV. 9. she murders the Neil Harris character in an attempt to switch the blame to him. That would then imply he was the one that drained so much blood from her back at her home, he cleaned it up and he put her diary in the wood stove (?!) His car wasn't seen at her house. He then kept her a prisoner, starved and raped her.Yet she found the opportunity and strength to kill him, but didn't call the police from his house to come rescue her. rather she jumps in his car and drives all the way home. 10. upon returning home she has no wounds consistent with the bloodletting at her original house or at the hands of her alleged kidnapper. 11. There is no visit to or investigation of the alleged kidnapping crime scene�house on the lake. 12. The hospital sends her home in a nurses uniform, underneath which she is still caked in blood. This movie is just about the lamest piece of S**** I have ever seen.",
+         "If this had been written and played as a straight-out dark comedy - and if it had been at least half an hour shorter - perhaps it would have passed as a run of the mill movie. But since it has been presented as a serious mystery, it has committed the cardinal sin of filmmaking - that of disrespecting the intelligence and/or perspicacity of the audience. For us, the film represents a significant achievement in that it contains more and larger plot holes than any other movie we have ever seen - and we've seen many! This was even worse than Babel! That said - and a warning that reading further will take you deep into spoiler territory - the following is by no means a comprehensive list of the major holes in the plot. So ladies and gentlemen, start your engines and drive your semis straight through an impressive array of plot stupidity: 1. Amy buys a car listed on Craigslist for cash so there's no record of the purchase. How about title and license? Where does she keep the car until she needs it? How does she get to it when she needs it without being seen? 2. Amy buys lots of tech toys and crams her sister-in-law's shed with them. How does she get into and out of the shed without her sister-in-law (who doesn't like her) noticing? 3. The shed is where her husband sometimes has liaisons with another woman. They don't notice the accumulating gadgets? 4. The gadgets are bought online. Who is signing for them? 5. When the gadgets are investigated, whose fingerprints will be all over them - if there are any? 6. Desi is supposed to have broken into the house, beat her bloody and kidnapped her. There's blood all over the kitchen, but none where she would have been dragged out of the house? 7. As he supposedly leaves the house with an at best barely conscious Amy, Desi picks up her diary, takes it to her father-in-law's place and attempts to burn it in the furnace. Why? 8. How does Desi know where Amy's father-in-law lives? 9. Several days elapse from the time of the supposed kidnapping until Amy winds up at Desi's lake house. Can nobody attest to Desi's being at home during the time he was supposed to be kidnapping Amy? 10. What will be made of the video cameras at the lake house not showing anyone there for the first several days? 11. Desi was supposed to be holding her prisoner. Did nobody at the casino notice them there - including the man who thought she looked familiar? 12. Where does Amy's car wind up? 13. Phone records I: Amy makes the anonymous phone call tipping the police off to the contents of the shed. No record of that? 14. Amy scores a hole in one at miniature golf and jumps up and down for joy - which causes her money belt to fall off. This apparently was an Acme money belt on loan from Wile E. Coyote. 15. A couple robs Amy of all her money. Being the psycho she is, are we to believe that she is going to let them get away with it? 16. Phone records II. What is going to be made of Amy's phone call to Desi? Sure it was from a pay phone, but isn't it going to raise any flags? 17. Amy self-inflicts wounds - supposedly in the bathroom out of sight of cameras - to make it seem as though she has been bound and raped. Yet wouldn't the cameras show her entering the bathroom without wounds and emerging with wounds? 18. Amy winds up in the hospital upon her return. They put wristbands on her and one guesses they examine her - but they don't bother to wash the blood off of her. 19. Do they also fail to notice that there is no evidence of the injuries that would have occurred had she lost copious amounts of blood at the initial kidnapping? 20. Nick knows that Amy tried to set him up for her murder, thus opening him up to a possible death sentence. He also knows that when her plan blows up, she elects to murder someone who has never wronged her (other than being male) in order to cover up her actions which, until that point, may have been criminal - but not capital - offenses. Why does Nick elect to live in the same county as this woman, let alone in the same house? I could go on, but I realized before the movie was halfway over that I had already wasted too much of my life on it.",
+         "Dark and twisted, David Fincher's stylish new mystery thriller was derived from Gillian Flynn's intriguingly slick tale from her complex and suspenseful novel. By far one of the best acting performances to have come from Ben Affleck, 'Gone Girl' boasts some strong yet disturbing portrayals from Rosamund Pike, Neil Patrick Harris, Tyler Perry and Affleck. Fincher has garnered fame and recognition as a mainstream director, that is not only able to engulf the audience within the picture, but actually make them part of the scenario. Fincher exercises upon his trademarks with the swift and stunning cinematography, the chilling score and tight editing, all of which makes 'Gone Girl' a movie full of great visual storytelling.",
+         "Please do not waste your time or money on this nonsense. Oh boy where do I start. OK for me the worst thing is when she gets back and tells everyone that Neil Patrick Harris \"kidnapped\" her (Rosamund). He did this by bludgeoning her and she lost a large amount of blood which he cleaned up. Then he takes her diary to her husbands fathers house to burn!!!!! (how does he even know of this location)?????? But he makes such a p!$$ poor attempt to burn it which would take 5 min to do properly as opposed to the 30+ to clean the blood. and no one questions this even once!!!!!!!!!!!!!!!!!!!! No one even looks for any wounds or asks about her wellbeing and she is not treated for any wounds. Oh and the hospital sends her home covered I mean a copious amount blood. No flipping way, the hospital would clean her looking for wounds especially with this much blood.I could go on and on but just read the other truthful reviews they will point out most of the other glaring mistakes and downright intelligence insulting nonsense. I really wish IMDb would have a 0 or negative review number as this does not even rank a 1. I give this -5 for utter bull$h1*.",
+         "Just seen the film Gone Girl. I really struggled with the book and found it incredulous so never finished it but the film was getting good reviews so I thought I'd give it a go. What a pile of crap! Two and a half hours of my life wasted. The story is just unbelievable. Neither character makes you like them or hate them. They are just bland and, well, unbelievable. By the end I just wanted someone to firebomb the house and kill the pair of them. I would have stood up and cheered. As it happened it has a really lame ending. A waste of my life. Utter tripe!",
+         "I have NEVER wrote a review in my life. EVER. But I feel compelled to do so for this film. I'm utterly shocked, just shocked this movie has an 8.4 rating. What on earth are people thinking? Seriously? I could go on and on about how the plot is a complete joke. But I'll just point out the MOST obvious of all that TOTALLY shatters any believably that this film ever had. Okay Amy said Desi came to her house and kidnapped her that morning. HUH? She had no clue what he was really doing that morning. NONE! What if he had a meeting with ten other people that could account for him not being at her house? What if he was having breakfast with someone that morning? OK next. Now how about the diary? So did Desi kidnap her then grab the diary and bring it to a house he had no clue even existed and burn only about 20% of it? Next! When she pretends to be screaming with blood on her dress against the window so the surveillance cameras would see her. Seriously? What about ALL the other footage those cameras captured? For example, her and Desi sitting together on a couch watching TV. Oh she deleted that footage? Well what the hell is her explanation for ALL the footage being erased except the 20 seconds of her screaming. This is not me nitpicking the film and looking super hard to try and find problems. I get it, a lot of movies have plot holes here and there and I'm okay with that. But people! These are HUUUUGE holes in the story. Plot holes are in tons of movies all the time. But not usually a major motion picture with a major director and a major movie star. And please! don't tell me shes nuts and that's why she didn't cover her tracks worth a damn. I am talking about the fact that she gets away with it to all the law enforcement. This belongs on Lifetime, those movies you can just shrug off. What baffles me and actually really upsets me is the fact it has a rating of 8.4. So please people, help me understand this. What on Earth gives this such a high rating? What were people thinking? What?",
+         "I really cannot figure out why this movie is so highly reviewed. Everything it sells itself as is a lie. For starters, it is portrayed as this suspenseful thriller where there are constant twists and turns and you never really know what is truly happening. Well, that is a total lie. There is no suspense, there are no serious or intelligent twists, just a litany of idiotic contrived absurdities. Spoilers below: You clearly see what is happening in very beginning with Nick (Ben Affleck) and you pretty much know he did not kill his wife 30 minutes in. Your initial sense is that she is not dead and he did not kill her, and you are right. There are no more \"twists. \"The \"twist\" is that she is insane, and the movie descends into 2 more hours of ever increasing idiocy and farcical garbage. Amy (Rosamund Pike) goes off into a series of illogical and irrational behaviors, including consorting with some random trash at a trailer park, despite having faked her own death and being the subject of a massive manhunt. The story just gets more and more absurd, with more illogical stupidity and unbelievable actions by other characters, which include police getting a search warrant on a house based on an \"anonymous tip,\" Nick and his sister being apparently the dumbest people on Earth who would not move any of the loot out of the shed before the cops find it, the police engaging in the largest manhunt ever for a missing person after about 6 hours, etc. The movie starts out decent but gets continually worse as it goes on, and just starts getting worse and worse at a faster rate as it continues. The acting is decent to middling, with Affleck probably giving one of the better performances overall, and Tyler Perry actually being an enjoyable aside. The other characters are largely unlikeable, unbelievable or just stilted caricatures. The last 30 minutes are, as others have noted, unbelievably ridiculous and moronic. The woman who so carefully plans out her own death with a massive amount of preplanning, somehow commits a savage crime of passion, which is a story FILLED with holes, but somehow is supposed to have gotten away with it. Also, apparently even though she plotted all along to have her husband executed, she somehow had the presence of mind to save the sperm sample, keep it, then AFTER he is exonerated and she has to alter her plans to return to him last minute after murdering someone else, has the means to get it successfully implanted in herself. Oh, she is an absolute psychic apparently. The ending is ludicrous, the characters are unrealistic farces that only someone who desperately wants to love this movie would believe, the story is overrun with artificial plot devices and deus ex machinas that serve only to advance nonsensical story lines, and the movie is in no way a twisting, changing thriller. Its just a predictable drama where the only \"unexpected\" things are unexpected because they are absolute nonsense that are make about as much sense as random dog running on stage and relieving itself. One of the worst movies I have seen in years.",
+         "i got pulled in at the start it turned out like any other mystery, action movie all the clues and other attributes etc... but there was so many thing that just are so IDIOTIC that it pisses me off. I have had so much tension on this from the book thinking it will be amazing but it all went away half way through the movie. Spoilers: The part when she actually tries to make up the part of rape and when she puts wine on her skirt and whatever was so STUPID, WHAT ABOUT THE BLOODY CAMERAS YOU IDIOTS. And if you're going to say she disabled them, the what about the actual fake rape scene. she sucked his dick and was wearing lingerie for gods sake who wears lingerie randomly. if they looked at the cameras to watch the rape then what about the dick sucking and shirt tearing and pulling him in on you, then pulling a knife out from under the pillow. But what finished it for me was the ending. WHAT MAN LIKE HIM IN THEIR OWN MIND WOULD STAY WITH A MURDERING BITCH LIKE THAT AND STILL LOVE HER. This was my opinion you don't have to agree but i just found it so stupid.",
+         "Actually a good well acted movie till the end. Ben Affleck was excellent and Rosamund Pike had me 100% convinced she was evil incarnate. Carrie Coon as Ben's twin sister and Kim Dickens as the lead detective also gave excellent performances. As for the story, I can deal with sad endings where the hero dies like Braveheart, Cool Hand Luke, and endless others. When the credits came up on Gone Girl, I could only regret spending over 2 hrs to watch a movie that left me that angry. I would have preferred she had just killed Ben Affleck and gotten away with it. Assuming the book had the same ending I would have thrown it across the room upon finishing it. I enjoyed the movie up till the end but that completely ruined it for me.",
+         "Thought this would be a good thriller, but ultimately it was draining and depressing. Would think any man who sees this film would never want to have sex again......it portrayed woman/women as being monstrous and men as passive, sex-crazed zombies. The story had so many loose ends and unbelievable scenes, such as where she returns home covered in blood.....then she's at the hospital - there had to be an exam, then giving an interview to detectives, then comes home still covered in blood....how much time elapsed during these scenes, and who would allow her to drive around, carry on, covered in blood for all that time? With great emphasis on crass words for women, violent sex scenes, and a score that sounded like a synthesizer importing screeches from an airport runway, this was one depressing film. The only place it was believable was in its depiction of the media and how they revel in tragedy and perversion. If this becomes our prime form of entertainment we are in big trouble. Need to watch a pre-1960 film or musical now."
+      ],
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Twentieth Century Fox Film Corporation",
+         "Regency Enterprises",
+         "TSG Entertainment"
+      ],
+      "summaries": [
+         "On the occasion of his fifth wedding anniversary, Nick Dunne reports that his wife, Amy, has gone missing. Under pressure from the police and a growing media frenzy, Nick's portrait of a blissful union begins to crumble. Soon his lies, deceits and strange behavior have everyone asking the same dark question: Did Nick Dunne kill his wife?",
+         "Nick Dunne, a small town guy who made good in the big city as a magazine writer blames the recession and the loss of his job for the decline of his marriage to his intellectually superior wife with a substantial trust fund. Questions of his motives and character begin to arise after his wife's disappearance on the morning of their fifth anniversary. As the search for his missing wife plays out over the ensuing days, guilty suspicions are fueled into a national frenzy by the media circus camped outside his house. Is this idyllic, everyman truly capable of murdering his wife?",
+         "Nick and Amy Dunne are a couple living in a small town in Missouri. Nick calls the authorities when she goes missing but something is off about his behavior. Is he hiding something? Is he sad or distraught enough? While the police continue their investigation, Nick is battling a media frenzy and the people who believe his innocence is dwindling by the minute.",
+         "A Missouri couple had a great life in their house with no kid, but it all changed when their 5th wedding anniversary occurs. Nick, the husband now realizes that his wife, Amy has gone missing. He calls the local authorities for reporting the situation. Along with the time and the local searching program, the progress becoming blurred between Nick's version of the story or the new investigation result - that Nick suspected of killing his wife. Now, Nick struggles for convincing the media, telling them if he didn't kill his wife, and probe the cryptic clues from his own wife.",
+         "A husband and wife have a normal life until one day when his wife disappears. During the course of the investigation the case gets murkier and the husband becomes the prime suspect. Is he responsible for the disappearance? Or is he innocent? Only time will tell.",
+         "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+      ],
+      "budget": 61000000
+   },
+   "movielensId": 112556,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2014-10-01",
+      "dvdReleaseDate": null,
+      "directors": ["David Fincher"],
+      "runtime": 145,
+      "movieId": 112556,
+      "title": "Gone Girl",
+      "mpaa": "R",
+      "actors": [
+         "Ben Affleck",
+         "Rosamund Pike",
+         "Carrie Coon",
+         "Neil Patrick Harris",
+         "Tyler Perry",
+         "Kim Dickens",
+         "Patrick Fugit",
+         "Missi Pyle",
+         "Emily Ratajkowski",
+         "Casey Wilson",
+         "Lola Kirke",
+         "Boyd Holbrook",
+         "David Clennon",
+         "Lisa Banes",
+         "Scoot McNairy",
+         "Sela Ward",
+         "Kathleen Rose Perkins",
+         "Lee Norris",
+         "Leonard Kelly-Young",
+         "Jamie McShane",
+         "Pete Housman",
+         "Lynn Adrianna",
+         "Cyd Strittmatter",
+         "Ricky Wood",
+         "Donna Rusch",
+         "Mark Atteberry",
+         "Darin Cooper",
+         "Kate Campbell",
+         "Brett Leigh",
+         "Antonio St. James",
+         "Lauren Glazier",
+         "Julia Prud'homme",
+         "Cooper Thornton",
+         "Casey Ruggieri",
+         "Ashley Didion",
+         "Lexis Nutt",
+         "L.A. Williams",
+         "Blake Sheldon",
+         "Sean Guse",
+         "Fred Cross",
+         "Scott Takeda",
+         "Mark T Anderson",
+         "Kathy Sweeney-Meadows",
+         "Marc Abbink",
+         "Christina Alex",
+         "Samuel Baca",
+         "Bill Blair",
+         "Thomas R. Baker",
+         "Gregoer Boru",
+         "Will C.",
+         "Caroline Clements",
+         "Nancy DeMars",
+         "Davina Joy",
+         "Michael Kelly",
+         "Elester Latham",
+         "Aaron Massey",
+         "Orion McCabe",
+         "Roz McHenry",
+         "Bryan McKinley",
+         "Teebone Mitchell",
+         "Justin Nesbitt",
+         "Mark Parrish",
+         "Jaclyn Rose",
+         "Sahlima",
+         "Joel Shock",
+         "Robert Tarpinian",
+         "Tracy Weisert",
+         "Michelle Winters",
+         "Tracy Brotherton",
+         "Matilde Matteucci",
+         "Dale Shane",
+         "Leslie A. Hughes"
+      ],
+      "imdbMovieId": "2267998",
+      "originalTitle": "Gone Girl",
+      "genres": [
+         "Mystery",
+         "Thriller",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [
+         "2-_-1nJf8Vg",
+         "JU9PdgB3rsk",
+         "ZoEGFZtJE9M",
+         "5KNvRccCgME"
+      ],
+      "plotSummary": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "tmdbMovieId": 210577,
+      "avgRating": 3.93016,
+      "releaseYear": "2014",
+      "numRatings": 12078,
+      "posterPath": "/gdiLTof3rbPDAmPaCf4g6op46bj.jpg"
+   }
+}

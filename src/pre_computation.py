@@ -212,10 +212,10 @@ def write_top_100_mpg_plus_similarities() -> None:
     # get ids of top 100 recommendations without duplicates via set union
     top_100_similarities_tmdb: List[int] = list(set(ids_recommended_movies_from_top100))
     # convert tmdb id to movieId
-    top_100_plus_similarities_movieId: List[int] = convert_tbdb_to_movieId(top_100_similarities_tmdb)
+    top_100_similarities_movieId: List[int] = convert_tbdb_to_movieId(top_100_similarities_tmdb)
 
     top_100_plus_similarities: List[int] = \
-        list(set(top_100_movies_ids).union(set(top_100_plus_similarities_movieId)))
+        list(set(top_100_movies_ids).union(set(top_100_similarities_movieId)))
 
     # write movie ids
     write_movie_ids_to_csv(top_100_plus_similarities, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID)
@@ -226,7 +226,7 @@ def write_top_100_mpg_plus_similarities() -> None:
                                  path_to_similarities=PATH_TO_SIMILARITY_MPG)
 
     # copies json of movies
-    copy_movies(top_100_plus_similarities_movieId,
+    copy_movies(top_100_plus_similarities,
                 PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON)
 
     print("top 100 mpg plus similarities done")

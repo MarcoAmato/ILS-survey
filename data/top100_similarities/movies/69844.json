@@ -1,0 +1,1025 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "witch",
+            "id": 616
+         },
+         {
+            "name": "magic",
+            "id": 2343
+         },
+         {
+            "name": "broom",
+            "id": 3872
+         },
+         {
+            "name": "school of witchcraft",
+            "id": 3884
+         },
+         {
+            "name": "apparition",
+            "id": 10164
+         },
+         {
+            "name": "teenage crush",
+            "id": 10791
+         },
+         {
+            "name": "werewolf",
+            "id": 12564
+         },
+         {
+            "name": "wizard",
+            "id": 177912
+         }
+      ],
+      "imdb_id": "tt0417741",
+      "video": false,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "recommendations": [
+         675,
+         674,
+         12444,
+         672,
+         673,
+         12445,
+         671,
+         285,
+         58,
+         411,
+         1865,
+         425,
+         809,
+         559,
+         808,
+         12155,
+         950,
+         9738,
+         558,
+         557
+      ],
+      "backdrop_path": "/kRyojLYtWPsBKfDhphhhl1FdM5a.jpg",
+      "revenue": 933959197,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Harry Potter",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fa73",
+               "name": "Daniel Radcliffe",
+               "profile_path": "/kMSMa5tR43TLMR14ahU1neFVytz.jpg",
+               "id": 10980,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Ron Weasley",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fa6f",
+               "name": "Rupert Grint",
+               "profile_path": "/dFVVJufva2zUSP6WS0pFfR7g8uN.jpg",
+               "id": 10989,
+               "order": 1
+            },
+            {
+               "cast_id": 1,
+               "character": "Hermione Granger",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fa6b",
+               "name": "Emma Watson",
+               "profile_path": "/s77hUycSJ4x8RJWHDC9WPgotgxE.jpg",
+               "id": 10990,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Draco Malfoy",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fa77",
+               "name": "Tom Felton",
+               "profile_path": "/1lzM9lcwuZynxX3WEfzJqAAxVag.jpg",
+               "id": 10993,
+               "order": 3
+            },
+            {
+               "cast_id": 30,
+               "character": "Albus Dumbledore",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb09",
+               "name": "Michael Gambon",
+               "profile_path": "/k6VxRs7xcG6DLEVM1izjb3UWSyC.jpg",
+               "id": 5658,
+               "order": 4
+            },
+            {
+               "cast_id": 27,
+               "character": "Horace Slughorn",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fafd",
+               "name": "Jim Broadbent",
+               "profile_path": "/50TV6UKJKjmqdn1GQNuuCIYHLzP.jpg",
+               "id": 388,
+               "order": 5
+            },
+            {
+               "cast_id": 40,
+               "character": "Bellatrix Lestrange",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb2d",
+               "name": "Helena Bonham Carter",
+               "profile_path": "/rHZMwkumoRvhKV5ZvwBONKENAhG.jpg",
+               "id": 1283,
+               "order": 6
+            },
+            {
+               "cast_id": 29,
+               "character": "Rubeus Hagrid",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb05",
+               "name": "Robbie Coltrane",
+               "profile_path": "/u07QKPs7wvXxzjXi1UUBSGjjmQm.jpg",
+               "id": 1923,
+               "order": 7
+            },
+            {
+               "cast_id": 31,
+               "character": "Minerva McGonagall",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb0d",
+               "name": "Maggie Smith",
+               "profile_path": "/kkMNu2iqkBPkbjhNBmDaUX7FHr.jpg",
+               "id": 10978,
+               "order": 8
+            },
+            {
+               "cast_id": 32,
+               "character": "Severus Snape",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb11",
+               "name": "Alan Rickman",
+               "profile_path": "/zOJgiaztnrnB7TSdGYU3uwpgivl.jpg",
+               "id": 4566,
+               "order": 9
+            },
+            {
+               "cast_id": 42,
+               "character": "Peter Pettigrew",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb35",
+               "name": "Timothy Spall",
+               "profile_path": "/yMClxMrLdOXk37RGvrqJEWjg9ko.jpg",
+               "id": 9191,
+               "order": 10
+            },
+            {
+               "cast_id": 48,
+               "character": "Remus Lupin",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb4d",
+               "name": "David Thewlis",
+               "profile_path": "/lWCGcTKvr4QUi8MvFBleMw8xY8.jpg",
+               "id": 11207,
+               "order": 11
+            },
+            {
+               "cast_id": 5,
+               "character": "Molly Weasley",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fa7b",
+               "name": "Julie Walters",
+               "profile_path": "/f88FYv3EYWvbXaeTXyO56dWCbez.jpg",
+               "id": 477,
+               "order": 12
+            },
+            {
+               "cast_id": 33,
+               "character": "Neville Longbottom",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb15",
+               "name": "Matthew Lewis",
+               "profile_path": "/v9Ow0JEtJZCaKDMvdKXNnzEzmy1.jpg",
+               "id": 96841,
+               "order": 13
+            },
+            {
+               "cast_id": 35,
+               "character": "Luna Lovegood",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb19",
+               "name": "Evanna Lynch",
+               "profile_path": "/s804JPcHj9UvoOgZhch0E7TuYkk.jpg",
+               "id": 140367,
+               "order": 14
+            },
+            {
+               "cast_id": 39,
+               "character": "Ginny Weasley",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb29",
+               "name": "Bonnie Wright",
+               "profile_path": "/1QzCiWSbESJVANYGHA1RwqZpzD0.jpg",
+               "id": 10991,
+               "order": 15
+            },
+            {
+               "cast_id": 43,
+               "character": "George Weasley",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb39",
+               "name": "Oliver Phelps",
+               "profile_path": "/kTvYxfFxkyXtljCxTxB6q6OYOY4.jpg",
+               "id": 140368,
+               "order": 16
+            },
+            {
+               "cast_id": 44,
+               "character": "Fred Weasley",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb3d",
+               "name": "James Phelps",
+               "profile_path": "/9HaWV5c8Dvraicjjc9N4Z1nyWsm.jpg",
+               "id": 96851,
+               "order": 17
+            },
+            {
+               "cast_id": 50,
+               "character": "Arthur Weasley",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb55",
+               "name": "Mark Williams",
+               "profile_path": "/mDcipTHC41LIHMx0UJxpF6YOQGw.jpg",
+               "id": 20999,
+               "order": 18
+            },
+            {
+               "cast_id": 46,
+               "character": "Filius Flitwick",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb45",
+               "name": "Warwick Davis",
+               "profile_path": "/4LjgmjD9nKOgL3gGRhIS5EkI0a.jpg",
+               "id": 11184,
+               "order": 19
+            },
+            {
+               "cast_id": 49,
+               "character": "Nymphadora Tonks",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb51",
+               "name": "Natalia Tena",
+               "profile_path": "/vpjfd4ueiuOmBaSWPzC4KdWEhBt.jpg",
+               "id": 3300,
+               "order": 20
+            },
+            {
+               "cast_id": 36,
+               "character": "Cho Chang",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb1d",
+               "name": "Katie Leung",
+               "profile_path": "/qKqgHfyFQZ5oCu7R9JxxSb0lqkO.jpg",
+               "id": 234933,
+               "order": 21
+            },
+            {
+               "cast_id": 37,
+               "character": "Fenrir Greyback",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb21",
+               "name": "Dave Legeno",
+               "profile_path": "/rIpPm8VIxhTHbTFFFkdJ9Ht4Gyf.jpg",
+               "id": 60348,
+               "order": 22
+            },
+            {
+               "cast_id": 38,
+               "character": "Lily Potter",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb25",
+               "name": "Geraldine Somerville",
+               "profile_path": "/fgPi5cmDbJbMmQIA7AE901jhB3x.jpg",
+               "id": 10988,
+               "order": 23
+            },
+            {
+               "cast_id": 41,
+               "character": "Narcissa Malfoy",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb31",
+               "name": "Helen McCrory",
+               "profile_path": "/jKBqL7Y6ToKRKSQ9kkgo7rOjMHS.jpg",
+               "id": 15737,
+               "order": 24
+            },
+            {
+               "cast_id": 45,
+               "character": "Cormac McLaggen",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb41",
+               "name": "Freddie Stroma",
+               "profile_path": "/w27DmU5PKwLNsr8fu85u2IRd9bp.jpg",
+               "id": 234934,
+               "order": 25
+            },
+            {
+               "cast_id": 47,
+               "character": "Argus Filch",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb49",
+               "name": "David Bradley",
+               "profile_path": "/5BPFRv4io7U1zxkYHtKaE9a8FDD.jpg",
+               "id": 11180,
+               "order": 26
+            },
+            {
+               "cast_id": 51,
+               "character": "Tom Riddle (16 Years)",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb59",
+               "name": "Frank Dillane",
+               "profile_path": "/jdNfDnobcHRrw424GWwmkkktE5x.jpg",
+               "id": 964834,
+               "order": 27
+            },
+            {
+               "cast_id": 53,
+               "character": "Tom Riddle (11 Years)",
+               "gender": 0,
+               "credit_id": "52fe4273c3a36847f801fb61",
+               "name": "Hero Fiennes-Tiffin",
+               "profile_path": "/pA98PBT1v0gQ5n7THb4o3OQaBzP.jpg",
+               "id": 1114487,
+               "order": 28
+            },
+            {
+               "cast_id": 52,
+               "character": "Poppy Pomfrey",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb5d",
+               "name": "Gemma Jones",
+               "profile_path": "/doDUez5AkN0bfqmZWB0bKO9mcJe.jpg",
+               "id": 9138,
+               "order": 29
+            },
+            {
+               "cast_id": 54,
+               "character": "Padma Patil",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb65",
+               "name": "Afshan Azad",
+               "profile_path": "/ovwinysgr5rEdequY3q2gffu0Ry.jpg",
+               "id": 234926,
+               "order": 30
+            },
+            {
+               "cast_id": 55,
+               "character": "Parvati Patil",
+               "gender": 0,
+               "credit_id": "52fe4273c3a36847f801fb69",
+               "name": "Shefali Chowdhury",
+               "profile_path": "/ePIslH8V2yJV4gRU3tbZEn9FaMB.jpg",
+               "id": 234925,
+               "order": 31
+            },
+            {
+               "cast_id": 56,
+               "character": "Katie Bell",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb6d",
+               "name": "Georgina Leonidas",
+               "profile_path": "/oCYzJGj7CxeUg8dOiUbuNYeGJmN.jpg",
+               "id": 174398,
+               "order": 32
+            },
+            {
+               "cast_id": 57,
+               "character": "Seamus Finnigan",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb71",
+               "name": "Devon Murray",
+               "profile_path": "/pDbBXnpL6XjlPHDO1UzpX53voI0.jpg",
+               "id": 234922,
+               "order": 33
+            },
+            {
+               "cast_id": 58,
+               "character": "Romilda Vane",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb75",
+               "name": "Anna Shaffer",
+               "profile_path": "/uldkREhKYbfdAUpAXkPUWI746CE.jpg",
+               "id": 234929,
+               "order": 34
+            },
+            {
+               "cast_id": 59,
+               "character": "Gregory Goyle",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb79",
+               "name": "Josh Herdman",
+               "profile_path": "/hebwDG5XsbfMaEaWJ0X6OrvlXwW.jpg",
+               "id": 11212,
+               "order": 35
+            },
+            {
+               "cast_id": 60,
+               "character": "Vincent Crabbe",
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fb7d",
+               "name": "Jamie Waylett",
+               "profile_path": "/nvw2IgN2BcpT2MczUuwSaTYuqZK.jpg",
+               "id": 956224,
+               "order": 36
+            },
+            {
+               "cast_id": 61,
+               "character": "Pansy Parkinson",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb81",
+               "name": "Scarlett Byrne",
+               "profile_path": "/7W8KCN8KlCzzbSEW35ul237HlvU.jpg",
+               "id": 234928,
+               "order": 37
+            },
+            {
+               "cast_id": 64,
+               "character": "Lavender Brown",
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fb8d",
+               "name": "Jessie Cave",
+               "profile_path": "/kLHwb3fNyqc7H0War8DQfCqQv87.jpg",
+               "id": 234924,
+               "order": 38
+            },
+            {
+               "cast_id": 62,
+               "character": "Blaise Zabini",
+               "gender": 0,
+               "credit_id": "52fe4273c3a36847f801fb85",
+               "name": "Louis Cordice",
+               "profile_path": "/9AiVxQgmjI38wOfYVJwxIlAcczN.jpg",
+               "id": 234927,
+               "order": 39
+            },
+            {
+               "cast_id": 63,
+               "character": "Dean Thomas",
+               "gender": 0,
+               "credit_id": "52fe4273c3a36847f801fb89",
+               "name": "Alfie Enoch",
+               "profile_path": "/6nYFyikxLbqKp2oyt2oBr10M4f7.jpg",
+               "id": 234923,
+               "order": 40
+            },
+            {
+               "cast_id": 80,
+               "character": "Marcus Belby",
+               "gender": 0,
+               "credit_id": "58f1b3e1c3a3682ece0033f1",
+               "name": "Robert Knox",
+               "profile_path": null,
+               "id": 1796454,
+               "order": 41
+            },
+            {
+               "cast_id": 81,
+               "character": "Nigel Wolpert",
+               "gender": 2,
+               "credit_id": "58f1b44c9251412fc0003b62",
+               "name": "William Melling",
+               "profile_path": "/g98wNtNTHVm2XkftxpOIx0zUeXv.jpg",
+               "id": 568374,
+               "order": 42
+            },
+            {
+               "cast_id": 82,
+               "character": "Eldred Worple",
+               "gender": 2,
+               "credit_id": "58f1b463c3a3682e9500355e",
+               "name": "Paul Ritter",
+               "profile_path": "/v9QLaCWeLsJXTPkRbNRwtioZQLX.jpg",
+               "id": 52888,
+               "order": 43
+            },
+            {
+               "cast_id": 83,
+               "character": "Leanne",
+               "gender": 0,
+               "credit_id": "58f1b495c3a3682ee2003405",
+               "name": "Isabella Laughland",
+               "profile_path": "/6i6UbJU9kcJvoCLfa7JQeKxQ6LC.jpg",
+               "id": 234930,
+               "order": 44
+            },
+            {
+               "cast_id": 79,
+               "character": "Amycus Carrow",
+               "gender": 2,
+               "credit_id": "58f1b379c3a3682ece0033b9",
+               "name": "Ralph Ineson",
+               "profile_path": "/zqvpAuiocN9hHjg6f9Dqu2S8y9x.jpg",
+               "id": 202032,
+               "order": 45
+            },
+            {
+               "cast_id": 84,
+               "character": "Alecto Carrow",
+               "gender": 1,
+               "credit_id": "58f1b4d89251412fdf003c1d",
+               "name": "Suzanne Toase",
+               "profile_path": "/c3s1FwTgeocEYyBIpaNINQ9eiVF.jpg",
+               "id": 568378,
+               "order": 46
+            },
+            {
+               "cast_id": 85,
+               "character": "Thorfinn Rowle",
+               "gender": 2,
+               "credit_id": "58f1b514c3a3682ea7003715",
+               "name": "Rod Hunt",
+               "profile_path": "/vqLNvySU92nqAwROsNeJHsZ0LvD.jpg",
+               "id": 234919,
+               "order": 47
+            },
+            {
+               "cast_id": 28,
+               "character": "Waitress",
+               "gender": 0,
+               "credit_id": "52fe4273c3a36847f801fb01",
+               "name": "Elarica Gallacher",
+               "profile_path": "/zGDEpuTSOV6TF6crY07cVWlUZ9s.jpg",
+               "id": 89387,
+               "order": 48
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fa81",
+               "name": "David Yates",
+               "profile_path": "/sCjOa6Yt5o4YeyB7t8LZwNVvtSw.jpg",
+               "id": 11343,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fa87",
+               "name": "Steve Kloves",
+               "profile_path": "/nhHzMwSiVse15WF1Qi7xfVBoo7A.jpg",
+               "id": 10967,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fa8d",
+               "name": "J.K. Rowling",
+               "profile_path": "/gZXoZrYxcn4d3XDcVcRE39RFZmL.jpg",
+               "id": 10966,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fa93",
+               "name": "David Barron",
+               "profile_path": null,
+               "id": 65614,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fa99",
+               "name": "David Heyman",
+               "profile_path": "/1Vvlw01hls1ctuuwActyrLRnAJK.jpg",
+               "id": 10968,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fa9f",
+               "name": "Tim Lewis",
+               "profile_path": null,
+               "id": 89320,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4273c3a36847f801faa5",
+               "name": "Lionel Wigram",
+               "profile_path": "/hwJ5bRA307egY7XwpTdlwGHrR0w.jpg",
+               "id": 41289,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4273c3a36847f801fab1",
+               "name": "Bruno Delbonnel",
+               "profile_path": "/gpk1nZExjlsZPIfrBuxz97f7xdb.jpg",
+               "id": 2423,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fab7",
+               "name": "Mark Day",
+               "profile_path": null,
+               "id": 11345,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801fabd",
+               "name": "Fiona Weir",
+               "profile_path": null,
+               "id": 11295,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4273c3a36847f801fac3",
+               "name": "Stuart Craig",
+               "profile_path": "/iI9F5WDkTrkxMHlAdq9XVXkfP3i.jpg",
+               "id": 5491,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801faf3",
+               "name": "Stephanie McMillan",
+               "profile_path": null,
+               "id": 5331,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4273c3a36847f801faf9",
+               "name": "Jany Temime",
+               "profile_path": null,
+               "id": 11227,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a77c7ac3a36819d000365f",
+               "name": "Gary Tomkins",
+               "profile_path": null,
+               "id": 11225,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a77c9ec3a36819da003242",
+               "name": "Hattie Storey",
+               "profile_path": null,
+               "id": 89385,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a77cb89251412a04003164",
+               "name": "Tino Schaedler",
+               "profile_path": null,
+               "id": 89384,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a77cd192514129f500318d",
+               "name": "Alastair Bullock",
+               "profile_path": null,
+               "id": 11296,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a77d0b92514129fb003270",
+               "name": "Sloane U'Ren",
+               "profile_path": null,
+               "id": 89386,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a77d26c3a36819ce003335",
+               "name": "Molly Hughes",
+               "profile_path": null,
+               "id": 89383,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57090677c3a3681d3a0030ff",
+               "name": "Andrew Ackland-Snow",
+               "profile_path": null,
+               "id": 10710,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a77f5092514129f100344b",
+               "name": "Jaap Buitendijk",
+               "profile_path": null,
+               "id": 1393448,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a77c58c3a36819de002ec8",
+               "name": "Nicholas Hooper",
+               "profile_path": "/kSvqq7PeHSX3IIvHptFQBklXE54.jpg",
+               "id": 11344,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56a77d80c3a36819cb003104",
+               "name": "Anna Worley",
+               "profile_path": null,
+               "id": 1389548,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a77dc292514130e7000bc6",
+               "name": "Hermione Byrt",
+               "profile_path": null,
+               "id": 1473175,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a77dddc3a36819da003271",
+               "name": "Kate Baird",
+               "profile_path": null,
+               "id": 1408843,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a77e0c92514129ef003102",
+               "name": "Stuart Wilson",
+               "profile_path": null,
+               "id": 1568519,
+               "department": "Sound",
+               "job": "Production Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "595bf7d6c3a36825e8057170",
+               "name": "Richard Davies",
+               "profile_path": null,
+               "id": 1551777,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a2e013bc3a3680b9315ca82",
+               "name": "Tim Burke",
+               "profile_path": "/y7MpmVGaZknYvVRT9QdRKrJ9lxf.jpg",
+               "id": 1404221,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 33.392337,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 767,
+      "vote_count": 7032,
+      "budget": 250000000,
+      "overview": "As Harry begins his sixth year at Hogwarts, he discovers an old book marked as 'Property of the Half-Blood Prince', and begins to learn more about Lord Voldemort's dark past.",
+      "similar": [
+         675,
+         672,
+         673,
+         674,
+         671,
+         68735,
+         37430,
+         68728,
+         9100,
+         9610,
+         12444,
+         12445,
+         27022,
+         16859,
+         120,
+         121,
+         257445,
+         259316,
+         129,
+         68737
+      ],
+      "original_title": "Harry Potter and the Half-Blood Prince",
+      "runtime": 153,
+      "poster_path": "/bFXys2nhALwDvpkF3dP3Vvdfn8b.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+            "name": "Heyday Films",
+            "id": 437,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "2009-07-07",
+      "vote_average": 7.5,
+      "belongs_to_collection": {
+         "backdrop_path": "/wfnMt6LGqYHcNyOfsuusw5lX3bL.jpg",
+         "name": "Harry Potter Collection",
+         "id": 1241,
+         "poster_path": "/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg"
+      },
+      "tagline": "Dark Secrets Revealed",
+      "adult": false,
+      "homepage": "http://harrypotter.warnerbros.com/harrypotterandthehalf-bloodprince/dvd/index.html",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["David Yates"],
+      "runtime": 153,
+      "synopsis": "Scarred by his experience at the Ministry of Magic with Voldemort, Harry is reluctant to return to Hogwarts. Dumbledore encourages him to continue, after transporting him to see a former professor, Horace Slughorn, hoping that Slughorn would return to Hogwarts and take Harry under his wing. Meanwhile, Death Eaters begin to wreak havoc both towards Muggles, destroying the Millennium Bridge, and Wizards, kidnapping the wandmaker Mr. Ollivander and destroying his Diagon Alley shop. Bellatrix Lestrange entreats Severus Snape to enter an Unbreakable Vow with Draco Malfoy's mother, Narcissa, assuring that he will complete the task assigned to Draco should Draco fail and that he will protect him and make sure he doesn't get hurt. Harry, Ron and Hermione, while in Diagon Alley, spot Draco entering Borgin and Burkes and taking part in a ritual with other Death Eaters, and become suspicious of his actions. At Hogwarts, the school is under tight security to prevent the Death Eaters from entering the school. With Slughorn back to teach Potions, Snape is given Defense Against the Dark Arts. Harry and Ron are encouraged by Professor McGonagall to take up Potions now that Slughorn, with lower standards, is teaching the class; however, as neither was expecting to take the course, they have to find textbooks for themselves in the bookcase. Harry's book is annotated with more exact instructions to complete potions, giving him an edge over the other students; he finds that it once belonged to the \"Half-Blood Prince\", a term Hermione cannot figure out. Meanwhile, Ron becomes the successful Gryffindor's Quidditch goalie, attracting the love of Lavender Brown, much to Hermione's chagrin. Harry is also upset over Ginny's attraction to Dean Thomas. During the Christmas Break while Harry and Ron are at the Burrow, the Death Eaters with Bellatrix in charge come intending to kidnap Harry, but are forced to retreat after they are outnumbered by Order of the Phoenix members. Before they leave they set fire to the Burrow, and the Weasleys are gathered outside the house, leaving Harry regretting the evil that he has brought down upon people he cares about. Dumbledore reveals to Harry through the Pensieve memories of Tom Riddle (Voldemort's original name), including a false memory from Slughorn, when Riddle asked him about a certain restricted Dark Art. The memory fails to reveal this art, and Dumbledore believes that the key to defeating Voldemort is to learn what Dark Art Riddle asked about, and instructs Harry to further confide himself to Slughorn. Using a Luck potion he won earlier in the school year, Harry is able to bring Slughorn to be intoxicated with Hagrid and convinces the professor in his stupor to give him the true memory. This memory reveals that Riddle inquired about the creation of Horcruxes, devices that store a portion of the creator's soul to allow them to live indefinitely. Dumbledore reveals that Riddle's diary and his mother's ring were two of seven Horcruxes that Riddle had created, and that they must track these down and destroy them to make Voldemort mortal. Meanwhile, Harry continues to be suspicious of Draco's actions, following him around the school but no success in determining what he seeks. Harry believes Draco to be behind two indirect attempts on Dumbledore's life, one through a cursed necklace that Katie Bell, under an Imperius Curse, was bringing to Dumbledore as a gift, and another through a bottle of poisoned wine that Slughorn, similarly cursed, planned to give to the professor. The latter is discovered accidently when Ron ingests the poison; though he recovers with medical treatment, he unconsciously mumbles Hermione's name in front of Lavender, sending her away crying. After this incident, Harry corners Draco in the toilets and after a short fight casts the Sectumsempra curse from the Half-Blood Prince's book, severely harming Draco. Snape arrives knowing that he let Draco get hurt and that he broke one of the promises and heals him. Ginny convinces Harry to hide the book in the Room of Requirement to prevent him from using it again; there, they discover, unknown to them, a Vanishing Cabinet, which Draco has been attempting to repair, but think nothing of it further. Ginny also reveals her love for Harry, and they kiss after she hides the book. Dumbledore implores Harry to help him recover another Horcrux, the location of which he recently learned. The two transport themselves to a seaside cliff, and enter a cave where the Horcrux is located. On a small crystalline island, Dumbledore forces Harry to make him drink a mind-altering liquid in order to reveal the Horcrux. While Dumbledore recovers from the liquid, Harry recovers the Horcrux, a small pendant. Harry tries to help Dumbledore recover, but they are attacked by numerous inferi. Dumbledore recovers in time to set them aflame, and the two return to the Astronomy Tower at Hogwarts. Dumbledore, still weakened by the trial, instructs Harry to go to get Snape. However, before Harry can go, footsteps are heard, and Dumbledore tells Harry to hide on the lower floor. The footsteps belong to Draco, who prepares to kill Dumbledore, but cannot bring himself to do so. Meanwhile, with the Vanishing Cabinet fixed, Bellatrix and other Death Eaters are able to invade Hogwarts through a similar cabinet at Borgin and Burkes, and join Draco in the tower. Snape silently arrives on the lower floor, indicating to Harry to stay quiet, and then goes upstairs, joining the other Death Eaters. Snape then casts the killing spell Avada Kedavra on Dumbledore, throwing him over the side of the Tower and killing him. Snape, Draco, and the other Death Eaters depart the school, Bellatrix casting the Death Eaters' sign over the school, destroying the Great Hall and setting fire to Hagrid's hut in glee. Harry tries to stop them with the Sectumsempra spell, but Snape deflects it and stuns him. As he departs, he explains to Harry that he is the Half-Blood Prince and the creator of the spell. Harry returns to the school to find the staff and students mourning over Dumbledore's death. Harry walks over to Dumbledore's body lying in front of them, grieving as Ginny comforts him. When he returns to the late headmaster's office one last time, McGonagall confronts him and asks him to open up to her, but he does not comply and leaves. A portrait of Dumbledore can be seen hanging on a wall behind them. Harry reveals to Ron and Hermione that the Horcrux they got was a fake, containing a message from an \"R.A.B.\" that stated he had already taken it, but is also seeking to end Voldemort's life. Harry tells his friends that he does not plan to return next year, instead seeking out R.A.B. and the other Horcruxes so that he may put an end to Voldemort; Ron and Hermione remind Harry that they are his friends and will help alongside him in his goal.",
+      "writers": [
+         "Steve Kloves",
+         "J.K. Rowling"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0417741/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Daniel Radcliffe, Emma Watson, Rupert Grint | See full cast and crew »"],
+      "reviews": [
+         "This film has possibly the worst ending of any HP film, and wandered the furthest from the books. If you are a fan of the books, this is for you: Remember that cool battle at Hogwart's at the end of the book? It's not here. None of it. Remember the important plot setup with the tiara? Not here. Remember all the background and memories about Tom Riddle? Not here. Remember Bill Weasley? Not here. Remember Bill getting wounded by a certain werewolf? Not here. Remember Fleur? Not here. Remember Snape's important parting words to Harry? Not here. Remember the funeral? Not here. Remember the touching conversation Harry had with Ginny at the end? Not here. Remember Scrimgeour? Not here. Remember the Burrow burning down? No? Oh, because that IS here. In short, this film is great if all you took out of the book was the romance and funny bits. If you're more invested in the bigger story, you'll be disappointed.",
+         "As an avid Harry Potter fan who has read the books multiple times and of course seen the movies repeatedly, I was extremely excited to see this movie at the midnight showing. Half-Blood Prince is my favorite book and other than 7, the darkest book in the series. That being said, I was so disgusted with this movie. Yates & company literally turned it into Harry Potter comedy hour. I'm not sure how anyone thought this movie was amazingly dark when the theater was cracking up laughing the entire time at trite jokes. The only thing that should have been funny in this entire movie was Lavender & Won Won's obsession w/ each other. The movie emphasized the unrequited love/snogging/Ron & Lavender romance over the major plot line which was learning about Tom Riddle's background. With the exception of Dumbledore's first meeting w/ Tom & Tom asking about how to make Horcruxes, all of the background was left out. That's essentially three quarters of the book omitted. What was the point of not having Tonks find Harry on the train? How can you have Tonks call Remus sweetie and not explain all the drama between them and how they got together? How can you leave out Madam Rosmerta's involvement? What was the point of the burning of the Burrow scene? The ending was horrific. It was completely different than the book. So now Dumbledore is the only one who can apparate on Hogwarts grounds? Malfoy spends all this time working on this cabinet only to have the Death Eaters walk through, Bellatrix (who is not present in the book) encourage him to kill Dumbledore, Snape kills Dumbledore, and they kindly saunter off the grounds in no hurry. No battle... no fear of being caught...nothing. What was the point of the cabinet in the movie? It was completely anti-climatic and they didn't even have the funeral scene which is a must-have. The worst part ever was the very end...Harry and Hermione are talking about Dumbledore's death and going searching for horcruxes and she randomly chimes in that Ron is OK w/ Ginny and Harry. WHAT?! It was so awkward. And can someone please tell me how they are going to explain Dobby and Kreacher in the Deathly Hallows movies when they have essentially been omitted from the subsequent movies after being introduced? I honestly would like a do-over. They really need to re-shoot this movie and try again because it was bad. For the real fan, it leaves you cold and empty, with no tears for Dumbledore because you are so confused, and wondering why Yates and Co. cared about Lavender being funny more than the back story of Tom Riddle.",
+         "This segment of HP will disappoint all who read the novel. The Burrow burns down during x-mas break due to Bellatrix and Fenrir (who is never described as a werewolf) perhaps for the lack of action at the end of the movie...the Dursleys are completely cut from the movie, meaning when Dumbledore picks Harry up for the summer it's at the train station for some apparent reason...The Ginny/Dean/Harry dichotomy is skewed, there was no break up between Ginny and Dean and Harry is clearly in love with her from the start of the movie which eliminates his confusion on his feelings during the school year...Hermoine prematurely spills the beans on her feelings for Ron which was only speculation in the novels...Lavender Brown becomes a obsessive and crazed girlfriend rather than simply over-affectionate (a reminiscent Unis from She's the Man)...the battle scene is missing from the end giving Dumbledore's death an anticlimactic feel making it all the more unemotional and disappointing...Harry hides under the floor simply holding his wand looking like a coward while Dumbledore dies, Snape sees him hiding rather than Harry being frozen under his cloak compliments of Dumbledore ...There is no funeral or break up with Ginny at the end of it (there is no relationship between the two either simply a kiss)...Hagrid is basically deleted from the movie as is Neville...Pensive trips are deleted and the Horocruxes are never explained, not even slightly...Luna finds Harry on the Hogwarts Express rather than Tonks...The Slug Club simply makes a cameo rather than a proper introduction and explanation...the Inferi look more like skeletons compared to the white bodies described in the book...I'm sure more discrepancies are present, however I can only remember so many of them. It is absolutely a horrible interpretation of the book and I hope that they look at all of the mistakes and gaps left for the next movie and fill them in with more than humor (they are supposed to be in the middle of an all out war aren't they?) I mean I didn't even feel emotional when Dumbledore was killed, I was too busy trying to figure out why Harry was acting like a stunned coward under the floor boards and not doing something, isn't that his thing...doing seemingly impossible rescue missions?!?! I am utterly disappointed in this installment of HP!!",
+         "SPOILERS AHEAD The beginning of the Half Blood Prince starts with the Death Eaters attacking London and destroying everything in sight. After a great opening, Harry, Ron, and Hermoine return for their sixth year at Hogwarts and then, nothing.... We get two slow hours of Ron's potion making, and teenage angst, with little mention of Tom Riddle's memories, or Harry and Dumbledore's hunt for his horcruxes. The Weasley's house is burned, and then instead of the DD funeral, they change the ending. Harry just stars under the floor, while Snape kills Dumbledore. Harry cries, and the students all wave their wands at the sky to erase the dark marks. Then Harry, Ron and Hermoine leave Hogwarts. Too many things cut out, too little action, too much fluff, and, at the end, I didn't care whether or not there was a DD funeral. Definitely the weakest film yet, too many things taken out, and too many silly things put back in. Too little Tom Riddle also. The movie was just plain AWFUL! If David Yates screws up Deathly Hollows half as badly as he screwed up Order of the Phoenix, and Half Blood Prince, then he will be the one to blame for taking the Potter series seriously downhill. It was the first time I have seen an audience actually fall asleep during a Harry Potter movie and after the ending, only two people clapped. There were a lot of very disappointed people after the movie ended. I have never heard the statement \"I want my money back\" from a Harry Potter movie until now. Consider me highly disappointed in that this is by far the weakest film of the series, and that's saying something after the extremely dull Order of the Phoenix. David Yates is bad luck for the Potter films.",
+         "Last night I had gone to the midnight showing of the movie. This morning I wrote a review (below) b/c I wanted to express how disappointed I was. However, I still had tickets to go see it this afternoon. I certainly did not want to sit there for another 2 hours hating it so I had to find a way to like it. I really, really wanted to like this movie. I love HP, afterall! I decided to try another approach, to watch the movie without thinking of the book at all. And I'll be da*ned if it didn't work! I realized that I had spent so much time picking apart what the movie DID NOT have, that I never allowed myself to enjoy what it DID have. Once I did that, and accepted that this movie is merely \"based on\" the book, I was able to enjoy it! Suddenly, the love story did not seem to dominate as much as it did on my first viewing.....Honestly, I never really thought that changing the way I approached the movie would work, but it did. So, if your a really big fan of the books and cd's, and you really want to find some way to enjoy this movie, I suggest you leave all the knowledge you have of the books at home, sit back, and watch! I started reading reviews last week, so I was aware that all the really good stuff in the book wasn't going to be in the movie. Still I was excited and stood in line for almost 3 hours to see this movie. When I left I felt very, very disappointed. I couldn't believe what I watched, this was a joke, right? Sure that other Harry Potter fans felt the same way, I started to read the fan reviews. Now I'm wondering....did I miss something? How is it this movie is getting such rave reviews?? Did anyone not notice all the plot moments that were changed or left out completely? SPOILERS************************************************ I so wanted to see Dumbledore give the Dursley's their due. And how about Harry and Dumbldore going on the journey to view the Marvolos and Voldomorts father? And lets not even talk about the best part of the book, the fight at the castle. I read somewhere that the director did not want to do the fight because of the fight in book 7. I mean really, come on, that's probably the lamest excuse I've ever heard. Ya know, I never even shed a bloody tear when they killed Dumbledore. There was no emotional work up to it, in my opinion, it was really weak. When I read the book, I cried for days! Well, maybe that's why I did not during the movie....I already mourned him :-) I knew their had to be a lot of things that did not make it in the movie, I just assumed it would be the teenage love angst. Especially given the action films this movie is competing against. But then again, it's getting great reviews, so I think I'm part of the minority of people who were really, really hoping to get a Harry Potter movie that would make JK Rowling proud, at least when she cared. The movie was funny, absolutely. But that's all it was, except for the last 30 minutes. The last 30 minutes, like the 5th movie, is the best part, IMO. But, that's not saying much.",
+         "Oh god. This movie butchered the magic of the book. I seriously wasn't sure if this was the same movie... Why didn't Dumbledore pick Harry up from the Dursleys and give them a piece of his mind? Where was the Slug Club? Why didn't Harry know that Sirius' house was now his? not to mention Kreacher? It plays a big part in the next movies! Why weren't the lessons with Dumbledore fully developed? You find out almost NOTHING about Voldemort's past. Where were Bill and Fleur? Where was the twins' shop? (Blink and you miss it) Where was Hagrid? Where was Neville? Where was Quiditch? Where was Tonks' and Lupin's relationship??? What, am I just supposed to believe that they get married out of nowhere in the next book? Where was Madam Rosmerta's role? Where were apparition lessons? How are the trio meant to move from place to place in the next books? Magic Carpet?!?!?! Where was Dumbledore's funeral? Where was Harry's and Ginny's relationship and break-up? Where was Scrimgeour? Where was the big fight at the end? Where was the set up with the diadem? Where was Fenrir Greyback? WHY for the love of all that's holy, did Harry just STAND there while Snape murdered Dumbledore before his very eyes? He was meant to be PETRIFIED (literally)!!! And not only that, but Snape actually SEES Harry, and does nothing about it. Won't Harry find it kinda odd that a Death Eater sees him, practically defenceless, and doesn't do anything about it? Harry is meant to believe that Snape is a full fledged Death Eater, yet he lets Harry get off scott free? That is a SERIOUS oversight in the plot of the book! All these things listed above, the major plot points, weren't there! I couldn't find them! What I COULD find however was: The burning down of the burrow...?!? Dumbledore seeming to only JUST realize that Voldemort used Horcruxes even though he was meant to have already destroyed one... and not only that but I also explicitly heard Dumbledore say: \"They could be anything\"!!! In the book, he clearly points out that they WOULDN'T be just anything, that Riddle liked collecting things. In the movie, he makes out as if it could be any old thing, a shoe, a can, a piece of paper... (better get searching then Harry, I found the ring, because \"Magic leaves traces\", but when I die, you're screwed!!!) Some random waitress in some random diner... A rock concert tribute to Dumbledore... A revealing of Hermione's love for Ron... and i DEFINITELY found Ron's and Lavender's relationship and... sexual innuendo?? OK, the Ron and Lavender subplot in the book was quite nice and funny but in the movie, it completely shadowed the ACTUAL story! they were snogging all over the place! it was impossible to focus on anything else with them popping up everywhere! It turned the movie into some sickly rom-com! and then I was shocked to find sexual innuendo! yup, believe it or not. And i know I wasn't the only one because i heard laughs and hoots all around the theater. The scene where Ginny bends down to tie Harry's shoelaces... what is up with that? Hey hang on a minute, isn't Harry's cloak meant to be a hallow? Good thing Luna CHARMED it off him then!!! MASSIVE SPOILERS AHEAD So, not only did they destroy the capodopera that this movie could have been, but they also didn't set up the next movie/s. How are Harry, Ron and Hermione going to start looking for the Horcruxes if they don't even know what they COULD be? How are the contents of Dumbledore's will going to be passed along if Scrimgeour doesn't even exist? How is Harry going to remember that Xenophilius was wearing the symbol of the Hallows at the wedding if the WEDDING CAN'T EXIST??? And HOW is Voldemort going to get the wand from Dumbledore's tomb if 1. the TOMB Isn't THERE and 2. THE WAND Isn't IN THE TOMB ANYWAY!!! How is Harry meant to remember where the diadem was if he NEVER BLOODY SAW IT!!!! How are they going to use Grimmauld Place and Kreacher, not to mention Dobby if there was never even a whisper about what happened to them??? This movie was thoroughly disappointing, and I really think they should... remake it basically!!! Because not only was THIS movie bad, but it's set to ruin the next ones as well. The only slim ray of hope (because hope springs eternal) left for the next movies is that they include what they missed out in HBP at the start of the first seventh one. They've got like 5 hours for the rest of the Harry Potter story so they could fit it in.",
+         "I have been counting down the days since they moved this movie from its original release date. As the characters have grown older, the story line gets better, and I was hoping the same would go for the sixth movie. However, I am still completely confused about the decisions made for this movie. The movie is two and a half hours of ridiculousness. Yes, it has fantastic effects, and humor about the raging hormones, but who cares if the integrity of the story is completely diminished. Let's make a list of everything they cut out: 1. The introduction of the new Minister of Magic and all that happens between him and Harry. 2. Dumbledore coming to the Dursley's house to give them a piece of his mind. 3. Harry, Ron and Hermione seeing Draco in the dress shop, and Harry getting his first idea that Draco had been branded into the Death Eaters. 4. The invisibility cloak was absent in almost every important scene besides the train. 5. Slughorn's parties (the first of which that was on the train when Ginny gets her first invite.) 6. Tonks finding Harry on the train. 7. Tonks and Lupin's relationship 8. Several key memories that help Harry find the horcruxes in the 7th book. Also the awkward arguments between Dumbledore and Harry about Dumbledore's whereabouts and what happened to his hand. 9. Hagrid and Thwarp 10. Harry finding out that everything that Sirius owned now belongs to him (including the house that serves as the hiding place in the 7th book) 11. Several of the Quidditch matches and how Harry ends up in trouble and has to miss the final match. THIS is when Harry and Ginny have their first kiss when she becomes the seeker for the team and helps the team win. 12. Harry and Ginny's relationship 13.Fleur and Bill's engagement, and are completely absent in the movie. 13. Madam Rosmerta's role 14. Moaning Myrtle's role 15. THE FIGHT IN THE CASTLE!!!! ARE YOU KIDDING ME! The best part of the book and they cut it out. They deserved to be fired in my opinion. How could Rowling sign off on them doing this!? 16. Dumbledore's funeral 17. Harry telling Ginny he could no longer see her...they couldn't have this scene considering they never showed them to be in a relationship. I'm sure there is a lot more, but you get the idea. All of these scenes were cut to add those that never even happened in the book. If you are an actual fan of the book, be prepared to be disappointed. If you haven't read the book, I'm sure it'll be great.",
+         "My favorite part of the novel Harry Potter and the Halfblood Prince, which was probably my favorite novel in the series, was all of the subplots. We had the drama behind the Minister Magic and relations with the Muggle government. We had the quite humorous interactions between Dumbledore and the Dursleys. We had the whole memory of Voldemort's family - really quite crucial to the seventh book - and the memories of Voldemort finding the other Hogwarts founder items to use as Horcruxes. We had Bill and Fleur's relationship. We had Tonks's depression and patronus change, which led to Tonks and Remus's relationship. We had lots of interaction and conflict between Harry's house elves. We have Snape's constant suspicion of Harry. We have the complications with Madame Rosmerta. And we had so much in the end - Harry being trapped under the Invisibility Cloak during Dumbledore's death, an entire battle at Hogwarts, and Dumbledore's elaborate and meaningful funeral. All of that was completely and entirely omitted from the movie. What we do have is a weak plot involving an old Potions textbook that is featured about two times before Harry's friends convince him to do away with the book. Snape never punishes Harry, only reveals his identity in a brief scene at the end. The Order of the Phoenix is not mentioned at all throughout the entire movie, and neither is Grimmauld. We have a nearly sickening amount of teenage hormonal relationships - while some moments like harry comforting Hermione and Ron whispering Hermione's name in the hospital wing were well done, the growing relationship between Ginny and Harry was awkwardly portrayed. Additionally, they cut out the entire end scene - battle and all. One would think that a battle scene would attract even more moviegoers to the film, and the battle provided filmmakers a chance to show minor characters who weren't heavily featured. No, the movie ends with a weak scene showing the three main characters in a tower talking about next year. The same amount of foreshadowing could have been done within canon - Harry telling Ginny that they couldn't see each other anymore at Dumbeldore's funeral. But that certainly didn't happen. Oh, and do you remember the Burrow burning down? No? Well, it happens. It's a great scene, actually, very well done, but not remotely canon. The Burrow is integral to the plot of the seventh book. Let's see how they pull that one off. Actually, they seem to have been pretty obsessed with fire in this film. Hagrid's hut burns down as well. The cinematography, though, was excellent. One of my favorite scenes showed Harry walking up a staircase and Draco walking up a parallel staircase in the background. The lighting is effective, the various focus effects are absolutely magnificent, and the soundtrack, as always, is excellent. The film is a visual pleasure - perhaps lacking in action, but it is one of those films that one could watch several times extracting details from the masterful sets.",
+         "I was lucky enough to see a preview of Half-Blood Prince three days before opening day. I saw it a second time with my son who is not quite ten, but who is generally mature for his age and doesn't scare easily. The two viewings give me the unique advantage of both the adult and the child perspective on the movie. I only recently started counting myself a true Harry Potter fan after my son introduced me to the movies a couple of years ago. I finished the last book only three weeks before seeing the movie adaptation of Half-Blood Prince the first time. With all the book details very fresh in my mind, I had high expectations of the movie. And Yates, the production crew and the cast definitely delivered. The movie impresses on many levels from an artistic point of view. The stripped landscapes and washed out colors convey a constant feeling of dread and foreboding. The standard train trip to Hogwarts was particularly stark, seen against a landscape scorched by a hot summer sun and dotted with dark pools of water. The usual lush greenery and joyous train ride are nowhere to be seen. Personally, I felt the pace was spot-on and that the movie elegantly made time for all key plot points. But only if you enjoy a plot line driven by character and emotion. For the younger lot, looking for frightening wizard duels and attacks by magical creatures, the first hour and a half of the movie drags on a bit. My son certainly became fidgety, and didn't appreciate the finesse and sophistication of the plot and cinematic approach. Most of the threatening and darkening tone of the movie was also lost upon him, whereas I reveled in the finer details contributing to a general sense of ever-encroaching darkness. There are worse things in life to be afraid of than big hairy spiders. My son missed seeing those - I was a lot more intrigued by the ominous undercurrents made palpable by the indomitable trio of David Yates (director), Steve Kloves (screenplay) and Delbonnel (photography). Some people feel that the romantic comedy aspects played too large a role in the movie, but I felt this aspect added some much-needed lightness and human drama to the movie. Harry (Daniel Radcliffe), Hermione (Emma Watson) and Ron (Rupert Grint) all find themselves dealing with the vagaries of young love - from dealing with unwanted advances to finding love in unexpected places. The romance was aimed perfectly at the young teen market, and I found myself cringing ruefully at some of Lavender Brown's love-obsessed stunts and smiling wistfully at the tenderness between Harry and Ginny. Haven't we all been there at some stage of our lives? All in all, Harry Potter is growing up. And so is the market for these movies. If you've seen all the movies up to now or read all the books, and your are at an age to appreciate the adult themes and movie techniques, this movie should fall pitch-perfect on your ear. You are likely to leave the cinema filled with a heart-wrenching sadness for innocence lost. Purist fans will most certainly complain bitterly about numerous sub-plots, events and characters that were cut from the movie and the odd scene that doesn't exist in the book. But Yates' truly gutsy adaptation really works and brings a depth and clarity to the main themes of the book that is quite extraordinary. He manages to capture the lingering lightness of that time before the serious business of adulthood sets in, alongside the relentless buildup to the final showdown between The Dark Lord and The Chosen One. And the lack of closure at the end of the movie is no accident, I believe. Just like the book, this movie leaves you aching to see how it all ends (never mind the fact that you already know). I must also commend the acting. The young leads have all matured in pace with the maturing content of the books and their acting shows it. Rupert Grint shines brightly in the somewhat Shakespearean love comedy he finds himself in, and makes the most of his new-found sport hero popularity. Emma Watson hits the spot, portraying Hermione's emotional vulnerability with gentle confidence and softness. As for Radcliffe, it's easy to miss the evolution he's undergone as Harry, since there are other actors ostensibly given more to do in this outing, like Tom Felton and Bonnie Wright, both of whom get the opportunity to take their characters to a new level. Tom Felton, especially, does a remarkable job. But Radcliffe's task of playing the steadfast and courageous, yet not flashy or arrogant hero, remains a difficult one. Especially on second viewing, it becomes clear how his understated and controlled performance speaks very much to the type of man Harry Potter is shaping up to be. A man who is left with a tremendous responsibility at the end of this movie and takes it up without flinching. The boy-wizard is no more. Of the older guard, Alan Rickman's Snape was a consummate performance, ... obviously. And Michael Gambon's portrayal of Dumbledore never felt more right than in this movie. Jim Broadbent's Slughorn is deliciously played with just the right mix of off-putting sycophancy and endearing pathos. All in all - a triumph all around!",
+         "If you love the series like I do you will know that in every movie they have to cut parts of the book out. Most of the time they manage it without compromising the integrity of the film. This time they fall very short of the mark. For those that have not read the book this movie will impress. The effects are top notch and it is a very engrossing film. I understand the need to cut the movie in order to fit it into a realistic time frame. In doing so, it seems as if they cut key parts in order to allow for more comedy. They also cut out a large action scene at the end of the movie. This scene could have been added if not for the adding of a scene in the middle that was not part of the original book. Furthermore, the scene makes no sense because during which they destroy something that is key to the book in the seventh volume. Not only do they cut scenes, but they change others to suit what purpose you might ask? The unfortunate answer is I don't know. Another minor point that I noticed during the movie is, although there is not as much violence as previous movies the overall film includes adult content that in my opinion warrants the pg-13 rating. Do not misunderstand me. I recommend seeing the movie as it is enjoyable, but trying to change a masterpiece like J.K. Rowling's book is a mistake and I think this movie suffered from it. If I didn't have the book to reference I would've rated this movie an 8, but the simple fact is I do and it unfortunately falls short."
+      ],
+      "genres": [
+         "Adventure",
+         "Family",
+         "Fantasy",
+         "Mystery"
+      ],
+      "productionCompanies": [
+         "Warner Bros.",
+         "Heyday Films"
+      ],
+      "summaries": [
+         "In the sixth year at Hogwarts School of Witchcraft, and in both wizard and muggle worlds Lord Voldemort and his henchmen are increasingly active. With vacancies to fill at Hogwarts, Professor Dumbledore persuades Horace Slughorn, back from retirement to become the potions teacher, while Professor Snape receives long awaited news. Harry Potter, together with Dumbledore, must face treacherous tasks to defeat his evil nemesis.",
+         "In Harry Potter's sixth year at Hogwarts School of Witchcraft, Harry finds a book marked mysteriously, \"This book is the property of the Half Blood Prince,\" which helps him excel at Potions class and teaches him a few dark and dangerous ones along the way. Meanwhile, Harry is taking private lessons with Dumbledore in order to find out about Voldemort's past so they can find out what might his only weakness.",
+         "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as \"the property of the Half-Blood Prince\" and begins to learn more about Lord Voldemort's dark past."
+      ],
+      "budget": 250000000
+   },
+   "movielensId": 69844,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2009-07-07",
+      "dvdReleaseDate": "2009-12-08",
+      "directors": ["David Yates"],
+      "runtime": 153,
+      "movieId": 69844,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "mpaa": "PG",
+      "actors": [
+         "Daniel Radcliffe",
+         "Rupert Grint",
+         "Emma Watson",
+         "Tom Felton",
+         "Michael Gambon",
+         "Jim Broadbent",
+         "Helena Bonham Carter",
+         "Robbie Coltrane",
+         "Maggie Smith",
+         "Alan Rickman",
+         "Timothy Spall",
+         "David Thewlis",
+         "Julie Walters",
+         "Matthew Lewis",
+         "Evanna Lynch",
+         "Bonnie Wright",
+         "Oliver Phelps",
+         "James Phelps",
+         "Mark Williams",
+         "Warwick Davis",
+         "Natalia Tena",
+         "Katie Leung",
+         "Dave Legeno",
+         "Geraldine Somerville",
+         "Helen McCrory",
+         "Freddie Stroma",
+         "David Bradley",
+         "Frank Dillane",
+         "Hero Fiennes-Tiffin",
+         "Gemma Jones",
+         "Afshan Azad",
+         "Shefali Chowdhury",
+         "Georgina Leonidas",
+         "Devon Murray",
+         "Anna Shaffer",
+         "Josh Herdman",
+         "Jamie Waylett",
+         "Scarlett Byrne",
+         "Jessie Cave",
+         "Louis Cordice",
+         "Alfie Enoch",
+         "Robert Knox",
+         "William Melling",
+         "Paul Ritter",
+         "Isabella Laughland",
+         "Ralph Ineson",
+         "Suzanne Toase",
+         "Rod Hunt",
+         "Elarica Gallacher"
+      ],
+      "imdbMovieId": "0417741",
+      "originalTitle": "Harry Potter and the Half-Blood Prince",
+      "genres": [
+         "Adventure",
+         "Fantasy",
+         "Family"
+      ],
+      "youtubeTrailerIds": [
+         "JYLdTuL9Wjw",
+         "v0TLZFFAVUg",
+         "Jrx8zZveyVU",
+         "lcNtt0f6KdM",
+         "DgeDDXcw--I"
+      ],
+      "plotSummary": "As Harry begins his sixth year at Hogwarts, he discovers an old book marked as 'Property of the Half-Blood Prince', and begins to learn more about Lord Voldemort's dark past.",
+      "tmdbMovieId": 767,
+      "avgRating": 3.8491,
+      "releaseYear": "2009",
+      "numRatings": 13181,
+      "posterPath": "/bFXys2nhALwDvpkF3dP3Vvdfn8b.jpg"
+   }
+}

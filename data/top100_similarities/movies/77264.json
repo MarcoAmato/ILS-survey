@@ -1,0 +1,774 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "dancing",
+            "id": 246
+         },
+         {
+            "name": "ballet",
+            "id": 10551
+         },
+         {
+            "name": "orphan",
+            "id": 13014
+         },
+         {
+            "name": "based on children's book",
+            "id": 15101
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt1083845",
+      "video": false,
+      "title": "Ballet Shoes",
+      "recommendations": [
+         26290,
+         36996,
+         60517,
+         27016,
+         11065,
+         38878,
+         68995,
+         96279,
+         258514,
+         50327,
+         48287,
+         37432,
+         19965,
+         41007,
+         58467,
+         42755,
+         51532,
+         15088,
+         13248,
+         7985
+      ],
+      "backdrop_path": "/bvAWDh5CpRDN0HAm4oDS9V2PQ7G.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Pauline Fossil",
+               "gender": 1,
+               "credit_id": "52fe43e9c3a368484e005729",
+               "name": "Emma Watson",
+               "profile_path": "/s77hUycSJ4x8RJWHDC9WPgotgxE.jpg",
+               "id": 10990,
+               "order": 0
+            },
+            {
+               "cast_id": 13,
+               "character": "Petrova Fossil",
+               "gender": 1,
+               "credit_id": "52fe43e9c3a368484e005745",
+               "name": "Yasmin Paige",
+               "profile_path": "/pTfhNCqWwMavUkkBfe5UA7nM8Qo.jpg",
+               "id": 81571,
+               "order": 1
+            },
+            {
+               "cast_id": 14,
+               "character": "Posy Fossil",
+               "gender": 1,
+               "credit_id": "52fe43e9c3a368484e005749",
+               "name": "Lucy Boynton",
+               "profile_path": "/jJqnAsKnu518xwjo3DgyX6CXQ3r.jpg",
+               "id": 86232,
+               "order": 2
+            },
+            {
+               "cast_id": 1,
+               "character": "Sylvia Brown",
+               "gender": 1,
+               "credit_id": "52fe43e9c3a368484e005725",
+               "name": "Emilia Fox",
+               "profile_path": "/vqXS3yoTuChLjs89gfluMGfLIFX.jpg",
+               "id": 6639,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Nana",
+               "gender": 1,
+               "credit_id": "52fe43e9c3a368484e005739",
+               "name": "Victoria Wood",
+               "profile_path": "/57zU1SUHjv4gdIoq8Z8IjP4SZYo.jpg",
+               "id": 138175,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Mr. Simpson",
+               "gender": 2,
+               "credit_id": "52fe43e9c3a368484e00573d",
+               "name": "Marc Warren",
+               "profile_path": "/q1B4nq8YDMldLpkxA9VwwNnXb2Z.jpg",
+               "id": 70903,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Great Uncle Matthew",
+               "gender": 2,
+               "credit_id": "52fe43e9c3a368484e005741",
+               "name": "Richard Griffiths",
+               "profile_path": "/hUHiJYtXgGgYt7UkHA7YgEiGNYC.jpg",
+               "id": 10983,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Theo Dane",
+               "gender": 1,
+               "credit_id": "53de1254c3a3686c49000f01",
+               "name": "Lucy Cohu",
+               "profile_path": "/oXaT4xAAZ8UNgX7wlDwmwO9nWBT.jpg",
+               "id": 29235,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Dr. Jakes",
+               "gender": 1,
+               "credit_id": "53de1275c3a3686c45000ea5",
+               "name": "Gemma Jones",
+               "profile_path": "/doDUez5AkN0bfqmZWB0bKO9mcJe.jpg",
+               "id": 9138,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Dr. Smith",
+               "gender": 1,
+               "credit_id": "53de127dc3a3686c45000ea7",
+               "name": "Harriet Walter",
+               "profile_path": "/vfpIPsC27D1ONVres7j3DgWYzdN.jpg",
+               "id": 17477,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Madame Fidolia",
+               "gender": 1,
+               "credit_id": "53de128fc3a3686c51000ed2",
+               "name": "Eileen Atkins",
+               "profile_path": "/lLT7M1hjhWS2z2sZLIdl910LjNM.jpg",
+               "id": 20300,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Winifred Bagnall",
+               "gender": 1,
+               "credit_id": "54780e2ec3a36852b900080b",
+               "name": "Heather Nicol",
+               "profile_path": "/7qSEvvJiRcLCHuB2AzgT7ZqkBLi.jpg",
+               "id": 1390290,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Miss Jay",
+               "gender": 1,
+               "credit_id": "54780e3e92514103b800140c",
+               "name": "Mary Stockley",
+               "profile_path": "/qZoonSZOKTmUN2WmkYSBkSeJaDs.jpg",
+               "id": 40672,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Clara",
+               "gender": 0,
+               "credit_id": "54780e4bc3a368716a000223",
+               "name": "Teresa Churcher",
+               "profile_path": "/dlKw52MzIUC9sSOYSCQZabnkCk5.jpg",
+               "id": 3550,
+               "order": 13
+            },
+            {
+               "cast_id": 22,
+               "character": "Young Sylvia",
+               "gender": 1,
+               "credit_id": "54780e5c9251416136004cec",
+               "name": "Skye Bennett",
+               "profile_path": "/u4V4iHFIi2qubr6BZVX1pVhUPh3.jpg",
+               "id": 60415,
+               "order": 14
+            },
+            {
+               "cast_id": 23,
+               "character": "Sir Donald Houghton",
+               "gender": 2,
+               "credit_id": "57c26666c3a3680b6f00290f",
+               "name": "Peter Bowles",
+               "profile_path": "/hNwYfBMeGG1bYnuWOODogRnw7Ax.jpg",
+               "id": 15202,
+               "order": 15
+            },
+            {
+               "cast_id": 24,
+               "character": "Mr. French",
+               "gender": 2,
+               "credit_id": "57c267ec9251413aba000856",
+               "name": "Don Gallagher",
+               "profile_path": "/vEpYoP4HoXIJuhf1m8mj3qFRFFV.jpg",
+               "id": 56099,
+               "order": 16
+            },
+            {
+               "cast_id": 25,
+               "character": "Titania",
+               "gender": 1,
+               "credit_id": "57c26a62c3a3680b6f002bd8",
+               "name": "Emma Darwall Smith",
+               "profile_path": "/24xLPCdpqCLn3Qjs4cmBuaqDnCF.jpg",
+               "id": 1671250,
+               "order": 17
+            },
+            {
+               "cast_id": 26,
+               "character": "Cobweb",
+               "gender": 1,
+               "credit_id": "57c26e7a9251413af7000d0c",
+               "name": "Isabella Parriss",
+               "profile_path": "/gwV1N6jsJU2uR3IK4oprJgUSoa.jpg",
+               "id": 1671252,
+               "order": 18
+            },
+            {
+               "cast_id": 27,
+               "character": "Mr. Sholsky",
+               "gender": 2,
+               "credit_id": "57c26f69c3a3684699000f41",
+               "name": "Adrian Lester",
+               "profile_path": "/oeTSuzejXQ6vpzKdLRFO2SHiLXp.jpg",
+               "id": 76215,
+               "order": 19
+            },
+            {
+               "cast_id": 28,
+               "character": "Mr. Montague",
+               "gender": 2,
+               "credit_id": "57c26f7e9251413b1d000e7e",
+               "name": "Tim Wallers",
+               "profile_path": "/uD6U2PQD5kmFmHP2Q7cjHMpTXPr.jpg",
+               "id": 1650261,
+               "order": 20
+            },
+            {
+               "cast_id": 29,
+               "character": "Leopold Neville",
+               "gender": 2,
+               "credit_id": "57c2703e9251410d1400298b",
+               "name": "Gresby Nash",
+               "profile_path": "/hldVQIoAY6nBeAHwJ0MSBjWzLOi.jpg",
+               "id": 176186,
+               "order": 21
+            },
+            {
+               "cast_id": 30,
+               "character": "Valentin Manoff",
+               "gender": 2,
+               "credit_id": "57c27237c3a36846990011b4",
+               "name": "Ebe Sievwright",
+               "profile_path": "/dcjAo0RFL4BmYFcksZWGeC3zMPX.jpg",
+               "id": 1511403,
+               "order": 22
+            },
+            {
+               "cast_id": 31,
+               "character": "Featured Dancer",
+               "gender": 1,
+               "credit_id": "57c274eac3a368533100d844",
+               "name": "Ruth Brill",
+               "profile_path": "/ysQf8yYuc5m0EPF3TwDPJqYJoX.jpg",
+               "id": 1671262,
+               "order": 23
+            },
+            {
+               "cast_id": 32,
+               "character": "Featured Dancer",
+               "gender": 1,
+               "credit_id": "57c275bb9251410d3f002f88",
+               "name": "Natasha Mould",
+               "profile_path": "/au8vPSsrrgpCQtt7qWa1ghT6En.jpg",
+               "id": 1671266,
+               "order": 24
+            },
+            {
+               "cast_id": 33,
+               "character": "Featured Dancer",
+               "gender": 2,
+               "credit_id": "57c27719c3a36846560015d6",
+               "name": "Jack Thorpe-Baker",
+               "profile_path": "/pmu0OUaOGio4sXyn1fxayLHmGeo.jpg",
+               "id": 1671272,
+               "order": 25
+            },
+            {
+               "cast_id": 41,
+               "character": "Moth",
+               "gender": 0,
+               "credit_id": "599fc0e7c3a368478f00a93a",
+               "name": "Jade Longley",
+               "profile_path": null,
+               "id": 1876475,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe43e9c3a368484e00572f",
+               "name": "Sandra Goldbacher",
+               "profile_path": null,
+               "id": 226493,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43e9c3a368484e005735",
+               "name": "Heidi Thomas",
+               "profile_path": "/p3sKWoXpuaGwAylXmEHNuQUlTtC.jpg",
+               "id": 158768,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c27bf2c3a3680b6f003912",
+               "name": "Noel Streatfeild",
+               "profile_path": null,
+               "id": 1671300,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c27c19c3a3680b6f003933",
+               "name": "Kevin Sargent",
+               "profile_path": null,
+               "id": 1402851,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c27c3bc3a3680b6f00394c",
+               "name": "Peter Greenhalgh",
+               "profile_path": null,
+               "id": 1168795,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c27c4dc3a36846d3001b2b",
+               "name": "Jeff Tessler",
+               "profile_path": null,
+               "id": 1671303,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c27c5dc3a3684699001a75",
+               "name": "Paul Gilpin",
+               "profile_path": null,
+               "id": 1042810,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c27c75c3a3684699001a91",
+               "name": "Sheena Napier",
+               "profile_path": null,
+               "id": 77697,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c27cadc3a3684711001857",
+               "name": "Susie Parriss",
+               "profile_path": null,
+               "id": 1467001,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "599fc174925141778100aeed",
+               "name": "Matthew Hamilton",
+               "profile_path": null,
+               "id": 1840603,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fc2a4925141779f00b05b",
+               "name": "Adam Recht",
+               "profile_path": "/pHmyTG9t5l9OvM8Kdnm3kXHxmau.jpg",
+               "id": 937415,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fc2d5c3a368481e00b108",
+               "name": "Alice Hopkins",
+               "profile_path": null,
+               "id": 1876483,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "599fc315c3a36847e500acf9",
+               "name": "Bea Millas",
+               "profile_path": null,
+               "id": 41546,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fc3dd925141779f00b17f",
+               "name": "Luca Saccuman",
+               "profile_path": null,
+               "id": 1430467,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fc421925141779a00b3dc",
+               "name": "Sue Wyburgh",
+               "profile_path": null,
+               "id": 1339645,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fc463c3a36847f600b0a3",
+               "name": "Marco Ciglia",
+               "profile_path": null,
+               "id": 1876493,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fc4b2c3a36847c500bb4c",
+               "name": "Bruce Gordon",
+               "profile_path": null,
+               "id": 1816126,
+               "department": "Art",
+               "job": "Sculptor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fc519925141774b00b9d9",
+               "name": "Jim Grindley",
+               "profile_path": null,
+               "id": 1876495,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fc578c3a368483000af4e",
+               "name": "Chris Nuttall",
+               "profile_path": null,
+               "id": 1876500,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fc5f2c3a36847f600b21e",
+               "name": "Anna Sulley",
+               "profile_path": null,
+               "id": 1425877,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "599fc61fc3a368483000afd4",
+               "name": "Graham Longhurst",
+               "profile_path": null,
+               "id": 34554,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fc687c3a368483000b051",
+               "name": "Jonathan Hills",
+               "profile_path": null,
+               "id": 587309,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fcfa2c3a36847d400b487",
+               "name": "Catherine Ashmore",
+               "profile_path": null,
+               "id": 1876521,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fcfde925141775b00bd6d",
+               "name": "Jeremy Gee",
+               "profile_path": null,
+               "id": 1464527,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fd01bc3a368483000ba15",
+               "name": "Gavin Walters",
+               "profile_path": null,
+               "id": 1816162,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fd066925141774f00bce3",
+               "name": "Natalie Humphries",
+               "profile_path": null,
+               "id": 1442308,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fd0a7925141779a00c102",
+               "name": "Matthew Streatfield",
+               "profile_path": null,
+               "id": 1808371,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fd149925141775b00bf03",
+               "name": "Seanine Joyce",
+               "profile_path": null,
+               "id": 1876525,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fd1a9925141774b00c6f8",
+               "name": "Jane Burrows",
+               "profile_path": null,
+               "id": 1830968,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599fd1f1925141779f00bf87",
+               "name": "Sammy Murray",
+               "profile_path": null,
+               "id": 1767271,
+               "department": "Crew",
+               "job": "Choreographer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "TV Movie",
+            "id": 10770
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 7.810321,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 20497,
+      "vote_count": 126,
+      "budget": 0,
+      "overview": "An unusual explorer named Gum and his kindly niece adopt three orphans -- Pauline, Petrova and Posy -- and raise them as sisters in 1930s London. But the girls must fend for themselves when Gum doesn't return from one of his adventures. Together, they nurture their passions for acting, aviation and ballet in this charming TV adaptation of Noel Streatfield's novel.",
+      "similar": [
+         9762,
+         342473,
+         634,
+         20352,
+         433,
+         1826,
+         11236,
+         2252,
+         10545,
+         44214,
+         112160,
+         858,
+         866,
+         141,
+         118,
+         242224,
+         122906,
+         283366,
+         17130,
+         44683
+      ],
+      "original_title": "Ballet Shoes",
+      "runtime": 85,
+      "poster_path": "/6ToVeBxxJVMbXnLktGcuTuALcxU.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Granada Television",
+            "id": 14063,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/16fY7pucCzn7WSOYxOGRHlAayL3.png",
+            "name": "British Broadcasting Corporation (BBC)",
+            "id": 3324,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "2008-08-26",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "Dreams do come true.",
+      "adult": false,
+      "homepage": "http://www.balletshoesdvd.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Sandra Goldbacher"],
+      "runtime": 85,
+      "synopsis": null,
+      "writers": [
+         "Noel Streatfeild",
+         "Heidi Thomas"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1083845/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMzU0MDkwNjA0Ml5BMl5BanBnXkFtZTcwMDczMjQ4MQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Emma Watson, Yasmin Paige, Lucy Boynton | See full cast and crew »"],
+      "reviews": [
+         "This reminded me of the Sunday afternoon dramas that the BBC used to show when I was young. There was nothing to dislike about this; it had charm, an improbable story, over-the-top characters and a real feel of the period it was set in - the thirties. There were lots of familiar faces; it was good to see Peter Bowles back on TV and anything with Victoria Wood has to be good. Emma Watston sustained the reputation she built up in the Harry Potter films - she is definitely going to be a big-name actress in the future. My personal accolade of Best Actress, however, went to Yasmin Paige who played Petrova, the girl who wants to be the aviator. You heard it here first folks - she is going to be a famous actress - and I'm not even her mother!",
+         "This is a TV film based on the book Ballet Shoes. It is about three adopted girls just after the First World War who all have different ambitions for the future. This may come as a shocking statement to some, but I think this deserved to be in the cinemas just as much as Spiderman 3, Enchanted and that sort of thing. I like those films as well of course, but this is really something. I like this for the brilliant acting from Emma Watson etc, the similarity to the Noel Streatfield book, a lot of the humour and the end of the story, it is one of my favourite parts of the film. It may miss bits out from the book, but those bits are the unnecessary parts and the parts left in are well-chosen. I cannot properly explain how and why I like this (the previous part of the paragraph was not totally what I meant), but I just recommend it to anyone who likes the book and people who like Emma Watson. At the very beginning of the film, a young girl with no surviving relatives other than her uncle, goes to live with him in his huge house of fossils. Her life becomes happier, but it soon turns out to be hard work again when on his travels around the world, the uncle sends her three baby girls. These girls grow up to have bright personalities and mixed interests and talents. Enjoy \"Ballet Shoes\"! :-)",
+         "One of my favourite books ever, having trained as a dancer and having children training as dancers we were glued to the box this evening, even though it was boxing day. Not exactly following the story of the book I loved it, and what is more, my adolescent children, cynical and critical, also loved it. Emma Watson is great, as are her 'adopted sisters', not one personage is out of place, and it filmed with loads of love and an eye for beauty and respect to Noel Streatfeild. I still slightly remember the 1975 series and this was just as sweet and nice. The dancing scenes are well executed, the dilemma's the girls are facing as well as those of Narnie are depicted in a good way. As in the book it is very much done with a slight tongue in cheek, never exaggerated feeling of love and harmony. Can't wait for the release of the DVD.",
+         "I'm an American and I always enjoy the productions that the BBC plays. I was really excited about Ballet Shoes. I read the book when I was younger, my copy was destroyed in Katrina so I didn't have time to re-read it. So this review will be short and sweet and about the film itself. The film itself was well done, very seamless and didn't seem to leave any big gaps of unexplained information. The music really help set the mood. Tchaikovsky's Dance of the Sugar Plum Fairies set the mood for all the dancing, which as a dancer was pretty impressive for the three leads, especially Lucy Boyton. And Gershwin Along with Theo's radio help send in the time period (loved Theo!). The costumes and the sets were great. The acting was also fantastic. I don't remember a lot of the book, but I loved Madame Fidolia and Eileen Atkins was superb. I also loved Emilia Fox who is completely lovable and does a great job of bringing Sylvia alive. Richard Griffiths was adorable (horrible word choice, but that's how I feel) in an eccentric paleontologist way. I especially loved Theo and the Dr.'s, they were brought to life and very fun to watch. As for the young fossil girls I have to say Lucy Boyton was my favorite. She was spunky, funny and very Posy. She showed a maturity far beyond her years. Yasmin Page was very intense as Petrova and appeared very thoughtful and intelligent. She was fantastic. Emma Watson was a little inconsistent. She had moments where she did great, the audition scene was very good, and when she acted like a prima donna she really shone, otherwise it appeared she was just reading off of a piece of paper, her performance was a little wooden and didn't do it for me. All together the three girls had a great amount of chemistry along with Nana and Sylvia they felt like a family. Overall I thought an enjoyable, CLEAN, family film. Worth seeing.",
+         "It is a rare treat to view a film like \"Ballet Shoes.\" It's one of the those films where everyone has a piece of the cake of a happy ending but more importantly the film steers away from fluffy clichés and mushiness. The story takes place during the 1930s in a small house in London. Sylvia Brown (the luminous Emilia Fox), the niece of eccentric, traveling paleotolongist Great Uncle Matthew aka \"Gum\" who brings along from his travels three orphaned baby girls and it is Sylvia and her plucky Nana (Victoria Wood) that raise the three girls who grow up into fine young ladies with dreams and aspirations. The eldest is Pauline (Emma Watson aka \"Hermoine Granger\") dreams and aspires to be an actress, Petrova (Yasmin Paige) is the tomboyish one of the three and wants to become an aviator, and finally, Posy, the youngest and boldest one of the three has ambitions to become a ballet dancer. But this small family are facing harsh financial times and set their house for room and board. Enter the tenants that impact the girls' and Sylvia's lives: Mr. Simpson (the expressive Marc Warren), a man with a tragic past but a keen interest in cars and airplanes. He is someone Petrova can talk to; The retired scholarly professors Drs. Jakes and Smith (Gemma Jones and Harriet Walter) who take on the task of tutoring the girls; Theo Dane (Lucy Cohu), a professional dancer and actress, who makes the most profound influences on Pauline and Posy. The film tells how the girls struggle with Sylvia to save their home and at the same time pursue their dreams. To add to their struggles, Sylvia is ill and the girls do all they can to provide for her as well. The words I have to describe this little gem are charming and smart. With a wonderful cast delivering equally endearing performances. Emilia Watson is as always lovely and sweet as Sylvia a woman who selflessly gives and gives without ever once asking for repayment with Victoria Wood as Nana providing as a strong front for her and the household. The girls are wonderful: Emma Watson as Pauline is wonderful. She proved me wrong that she really can act and she definitely is more than the Harry Potter franchise. This is a performance that will hopefully carry her even further. Yasmin Paige as the big hearted and adventurous Petrova is a star in the making. Every scene she conveys such honesty and most of all she is real. Lucy Boynton as Posy is very lovely. She brings her character to life as the bold and daring young lady with such grace and maturity. Her scenes with Eileen Atkins, who plays Madame Fidolia a Russian dance instructor and head of a prestigious dance school, are wonderfully done and acted together. The film is sweet, smart, wonderfully acted and written without the added fluff and mumbo jumbo of made for TV films. The only tragedy was that this film wasn't released in the U.S.A theatrically or at least on HBO. This is a little gem I hope to own on DVD.",
+         "It's hard for me to judge how this would go down as a drama in its own right to someone who hadn't read the book; as an adaptation it's heavily 'sexed-up' in several senses at once, and I'm afraid thoroughly irritated me by the end. Filming novels about people growing up is always going to be a problem, and I accept that the timescale is inevitably going to have to be compressed if you want to avoid casting multiple children in each role. It's probably unfair to object to sallow, high-boned Petrova being cast as a dumpy, pallid child; given modern standards of beauty, 'too fat' is probably the equivalent to the 'too thin' given as unattractive in Streatfield's era. If you've decided to cast Emma Watson, it's probably impossible to portray Pauline as making her stage success playing a plausible boy in Shakespeare's Princes in the Tower; the novel's Pauline is short and physically immature at fourteen, while Emma is all too obviously none of the above. And it's perhaps impossible to show the single-minded Posy on screen without making her appear hopelessly unpleasant... although Pauline doesn't come across too well here either, thanks to plot changes and excisions... But this adaptation for me seemed to miss out on the very atmosphere of the book, while introducing a lot of extraneous sexual plot lines to compensate for all the childhood material they decided to miss out. It ceases to be a story about growing up; it becomes a story about pairing-off, with some heavy modern politics added in. (Poor Mr Simpson loses his wife and comfortable middle-class lifestyle as a planter in Malaya, and becomes a tragic figure born into deepest poverty; the theme of the children's own poverty is excised -- confusing and largely obliterating the Winifred plot line -- and replaced by the device of inflicting Sylvia with tuberculosis as a requirement for earning money; Theo Dane becomes an ageing man-mad flapper; Posy's various nude impersonations (which I wouldn't expect to be kept in) are instead supplanted by the two older girls playing a gratuitous nude scene in a shared bath; the Hollywood director is improbably black; etc.) The production is clumsily 'period' in a way that the original story never is, trying far too hard to establish its setting by shoe-horning in props and references in the manner of a bad historical novel. (Re-reading the book afterwards to judge whether my irritation was justified, I was however amused to note that Noel Streatfield makes a single allusion to Amy Mollison, whom it is now apparently unthinkable to refer to -- as her contemporaries actually did -- by her married name...) I suppose I just felt resentful that a book I'd liked as a child had seemingly been hijacked by someone with an 'agenda'. An unfair judgement, I expect, but it really did put my back up, and lost most of the story's charm along the way. It's been rewritten as 21st-century girly drama, which the original really wasn't.",
+         "This was a fairly enjoyable adaptation of Streatfeild's Ballet Shoes. In the beginning there were a few minor details that strayed from the novel, which didn't bother me too much, as they made little difference to the plot overall. However, as the film progressed there were more little things, and a couple of big things that differed from the plot that bothered me. The only big change that did not overly bother me, that I in fact quite liked, was Mr Simpson being a widower, and his slow burn relationship with Sylvia (Garnie). It added something to the storyline, which I feel was probably a helpful addition in the transition from novel to film. The casting was quite good (although Nanna did not age much...). I found Emma Watson looked exactly as I'd imagined Pauline, when reading Ballet Shoes as a child. Her performance was good, better than others make it out to be. Lucy Boynton was appropriately precocious as Posy. I rather enjoyed Emilia Fox's portrayal of Garnie/Sylvia. The other cast were all pleasing enough in their roles. The film on the whole is family friendly, and if you're not very familiar with the book, it should be quite enjoyable.",
+         "Yes, I wanted to watch this movie because of Emma Watson. She is a few month older than I am and I've liked Harry Potter since the first movie came out. Well... Now I'm 17 and I'm not really interested in Harry Potter anymore, but I'll still watch the other movies after they come out. I've never red \"Ballet Shoes\" nor heard of Noel Streatfeild. I am not from the UK so don't judge me for that. After watching this movie, I'm going to see if I can find this novel, the movie was really interesting. At first, I thought Emma is horrible and she has so little screen time and I expected so much more... but after the first 20 minutes, I was thrilled with the story and I completely forgot I was watching it for Emma's performance. I almost forgot it was Emma at all. She did a good job acting, she really got out of Hermione, considering this is her first role apart from Harry Potter. I am sure she will be even better in the future, if she will be playing different characters. The rest of the cast was good, also, I really liked Emilia Fox and I've never seen anything with her before. The director did a really good job and the costumes were wonderful. The feelings the movie sent me were also powerful, I've never shed a tear during a movie in years....",
+         "Having loved the book growing up, I was bound to see this. I had bought the 1975 BBC version and found it to be absolutely terrible, as it completely mishandled the adaptation. What is surprising is that the 1975 version ran longer and could be argued as being more faithful to the book. Having said that, this version of Ballet Shoes captures the spirit of the story much better. I loved Emilia Fox's Sylvia and the entire cast did very well. I had been a little apprehensive of Emma Watson as Pauline since I'd never seen her as anything but Hermione from the Harry Potter series, but I was pretty happy with the performance after all. I won't recap the story here, but basically; I love the book, and the movie brought out the reasons why I loved it, so that's good enough for me. I hope you all enjoy it too.",
+         "I was able to see this on Netflix streaming movies. I was interested mainly because Emma Watson is in it, right in the middle of the many Harry Potter movies. I was curious to see how she acted in a quite different role, and she did very well. It is set in 1930s London and the costumes, makeup, and cinematography give it an authentic 1930s feel. A nice gentleman who seems only to explore the world inherits a young niece whose parents drown, and as she grows to young adulthood gradually 3 more girls are added. She becomes the legal guardian of them and sees to it that they grow up polite and successful. The younger girls are given the last name of Fossil. Emilia Fox is the guardian, Sylvia Brown. Emma Watson is Pauline Fossil. She is the oldest of the 3 younger orphans and develops with an interest and a flair for acting. Yasmin Paige is the next as Petrova Fossil. She is the left-brain one, more interested in science and particularly aviation. And the youngest, who was my favorite actress here, is red-head Lucy Boynton as Posy Fossil. The only thing she brought with her as a baby were ballet shoes, and with that apparently in her blood becomes obsessed with being a world-famous ballerina. Fine British character actor Richard Griffiths is the Great Uncle Matthew, affectionately called 'GUM'. This is a very nice, pleasant PG movie. It shows the bonding within a family unit when none of them are actually related to each other. It also shows how children can become 'bratty' when they get the big head of success. In the end everyone seems on a very happy track in life. SPOILERS: Sylvia is having a difficult time keeping up with the expenses of Gum's house, and no one has heard from him in 12 years. So she has him declared dead and sells the house. Soon after that he shows up, at the same time that Pauline is offered a movie contract that requires her to move to Hollywood. She is hesitant but does it so that she can help Posy afford to travel to a school for ballet. It turns out Gum had become friends with a famous female pilot who taught him to fly in Argentina, and he teaches Petrova. And to top it all off the nice male boarder marries Sylvia and they head to Hollywood to be with Pauline."
+      ],
+      "genres": [
+         "Drama",
+         "Family"
+      ],
+      "productionCompanies": [
+         "British Broadcasting Corporation (BBC)",
+         "Granada Television"
+      ],
+      "summaries": [
+         "Pauline, Petrova, and Posy Fossil live with Sylvia Brown, their guardian. Money is tight and as the story opens, three boarders - a garage owner, a retired English professor, and a dance teacher - come to stay. Theo Dane, the dance teacher, has the girls accepted at her school by the formidable Madame, and the three go on the stage to help raise money. Each discovers her talents - Pauline as an actress, Petrova in fixing engines, and Posy as a dancer.",
+         "Set in Thirties London, Ballet Shoes tells a tale of orphans Pauline, Petrova and Posy Fossil, who are adopted by an eccentric explorer, Gum, and raised as sisters by his selfless niece. The story revolves around each girl's struggle to fulfill her dreams: Pauline longs to be an actress, Petrova yearns to be an aviator, and Posy seems born to be a ballerina. But when Gum disappears, the money runs out - and the girls have a fight on their hands. They struggle to balance personal ambition with the need to survive physically, emotionally, and financially.",
+         "The story of three orphan girls (Pauline, Petrova, and Posy), adopted by an eccentric explorer, Great Uncle Matthew, and his niece Sylvia, in 1930s London."
+      ],
+      "budget": 0
+   },
+   "movielensId": 77264,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2008-08-26",
+      "dvdReleaseDate": "2008-09-02",
+      "directors": ["Sandra Goldbacher"],
+      "runtime": 85,
+      "movieId": 77264,
+      "title": "Ballet Shoes",
+      "mpaa": "PG",
+      "actors": [
+         "Emma Watson",
+         "Yasmin Paige",
+         "Lucy Boynton",
+         "Emilia Fox",
+         "Victoria Wood",
+         "Marc Warren",
+         "Richard Griffiths",
+         "Lucy Cohu",
+         "Gemma Jones",
+         "Harriet Walter",
+         "Eileen Atkins",
+         "Heather Nicol",
+         "Mary Stockley",
+         "Teresa Churcher",
+         "Skye Bennett",
+         "Peter Bowles",
+         "Don Gallagher",
+         "Emma Darwall Smith",
+         "Isabella Parriss",
+         "Adrian Lester",
+         "Tim Wallers",
+         "Gresby Nash",
+         "Ebe Sievwright",
+         "Ruth Brill",
+         "Natasha Mould",
+         "Jack Thorpe-Baker",
+         "Jade Longley"
+      ],
+      "imdbMovieId": "1083845",
+      "originalTitle": "Ballet Shoes",
+      "genres": [
+         "TV Movie",
+         "Drama",
+         "Family"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "An unusual explorer named Gum and his kindly niece adopt three orphans -- Pauline, Petrova and Posy -- and raise them as sisters in 1930s London. But the girls must fend for themselves when Gum doesn't return from one of his adventures. Together, they nurture their passions for acting, aviation and ballet in this charming TV adaptation of Noel Streatfield's novel.",
+      "tmdbMovieId": 20497,
+      "avgRating": 3.30405,
+      "releaseYear": "2008",
+      "numRatings": 74,
+      "posterPath": "/6ToVeBxxJVMbXnLktGcuTuALcxU.jpg"
+   }
+}

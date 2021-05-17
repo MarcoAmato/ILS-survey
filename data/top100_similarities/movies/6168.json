@@ -1,0 +1,654 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "detective",
+            "id": 703
+         },
+         {
+            "name": "evidence",
+            "id": 2620
+         },
+         {
+            "name": "victim",
+            "id": 4399
+         },
+         {
+            "name": "police",
+            "id": 6149
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "stalking",
+            "id": 10333
+         },
+         {
+            "name": "serial killer",
+            "id": 10714
+         },
+         {
+            "name": "los angeles",
+            "id": 12670
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "killer",
+            "id": 15127
+         },
+         {
+            "name": "guilt",
+            "id": 33720
+         },
+         {
+            "name": "journal",
+            "id": 46954
+         }
+      ],
+      "imdb_id": "tt0085121",
+      "video": false,
+      "title": "10 to Midnight",
+      "recommendations": [
+         26172,
+         14373,
+         26263,
+         24873,
+         34746,
+         19380,
+         4988,
+         37923,
+         42551,
+         7988,
+         37626,
+         11767,
+         11564,
+         163087,
+         59201,
+         55699,
+         37835,
+         48686,
+         26690,
+         26522
+      ],
+      "backdrop_path": "/8UkJSL5hlwGh3uSC5tyoaqhHQh7.jpg",
+      "revenue": 7175592,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Leo Kessler",
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cd5f",
+               "name": "Charles Bronson",
+               "profile_path": "/hxZR2w0LXX47VKtxibDyZDsTAkH.jpg",
+               "id": 4960,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Laurie Kessler",
+               "gender": 1,
+               "credit_id": "52fe47889251416c7509cd63",
+               "name": "Lisa Eilbacher",
+               "profile_path": "/kyiePU42bPqcGCRJfta1Ev2m7if.jpg",
+               "id": 779,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Paul McAnn",
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cd67",
+               "name": "Andrew Stevens",
+               "profile_path": "/jaWFCqWahZeUimpEU2GJStm6pKI.jpg",
+               "id": 21479,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Dave Dante",
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cd6f",
+               "name": "Geoffrey Lewis",
+               "profile_path": "/8BABD0pjhefIFpKEZwNnLrkn0wl.jpg",
+               "id": 18071,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Warren Stacy",
+               "gender": 0,
+               "credit_id": "52fe47889251416c7509cd6b",
+               "name": "Gene Davis",
+               "profile_path": "/Ag8kyMM9I5CdebS0I3xHjwQGzne.jpg",
+               "id": 94766,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Captain Malone",
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cd73",
+               "name": "Wilford Brimley",
+               "profile_path": "/t0TLF4qXgXiroirvjVWWP88B0GD.jpg",
+               "id": 11065,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Nathan Zager",
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cd77",
+               "name": "Robert F. Lyons",
+               "profile_path": "/33GfkGHwpoTt942epr4g6VB0udS.jpg",
+               "id": 51519,
+               "order": 6
+            },
+            {
+               "cast_id": 35,
+               "character": "Mrs. Johnson",
+               "gender": 1,
+               "credit_id": "58d9c49fc3a368121b06ffa5",
+               "name": "Sydna Scott",
+               "profile_path": "/qn8I1POIyGAZqniswMgfIF2UoYr.jpg",
+               "id": 1784982,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Mr. Johnson",
+               "gender": 0,
+               "credit_id": "52fe47889251416c7509cd7b",
+               "name": "Bert Williams",
+               "profile_path": null,
+               "id": 49938,
+               "order": 8
+            },
+            {
+               "cast_id": 36,
+               "character": "Bunny",
+               "gender": 0,
+               "credit_id": "58e8f075925141354c026fbb",
+               "name": "Iva Lane",
+               "profile_path": null,
+               "id": 1792066,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Ola",
+               "gender": 1,
+               "credit_id": "52fe47889251416c7509cd83",
+               "name": "Ola Ray",
+               "profile_path": null,
+               "id": 926,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Doreen (as Kelly Palzis)",
+               "gender": 1,
+               "credit_id": "52fe47889251416c7509cd87",
+               "name": "Kelly Preston",
+               "profile_path": "/kxTQVsfZkI3DdzBqutw4zZapRB.jpg",
+               "id": 11164,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Dudley",
+               "gender": 2,
+               "credit_id": "550ee61592514164ac000b71",
+               "name": "Cosie Costa",
+               "profile_path": null,
+               "id": 73584,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Lab Technician",
+               "gender": 0,
+               "credit_id": "550ee6259251416bd1000a8d",
+               "name": "Paul McCallum",
+               "profile_path": null,
+               "id": 1185099,
+               "order": 13
+            },
+            {
+               "cast_id": 25,
+               "character": "Karen (as Jeana Tomasina)",
+               "gender": 0,
+               "credit_id": "550ee634c3a368488600a6e1",
+               "name": "Jeana Keough",
+               "profile_path": null,
+               "id": 101657,
+               "order": 14
+            },
+            {
+               "cast_id": 26,
+               "character": "Betty",
+               "gender": 0,
+               "credit_id": "550ee63f9251416bd1000a93",
+               "name": "June Gilbert",
+               "profile_path": null,
+               "id": 1443999,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "Judge",
+               "gender": 0,
+               "credit_id": "550ee64fc3a3683f39002d27",
+               "name": "Arthur Hansel",
+               "profile_path": null,
+               "id": 1059550,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "Minister",
+               "gender": 2,
+               "credit_id": "550ee661925141073d002e88",
+               "name": "Sam Chew Jr.",
+               "profile_path": null,
+               "id": 105622,
+               "order": 17
+            },
+            {
+               "cast_id": 29,
+               "character": "Tina",
+               "gender": 0,
+               "credit_id": "550ee66d925141065c002e29",
+               "name": "Katrina Parish",
+               "profile_path": null,
+               "id": 1444000,
+               "order": 18
+            },
+            {
+               "cast_id": 30,
+               "character": "Peg",
+               "gender": 1,
+               "credit_id": "550ee679c3a368487400b1d6",
+               "name": "Shawn Schepps",
+               "profile_path": null,
+               "id": 65001,
+               "order": 19
+            },
+            {
+               "cast_id": 37,
+               "character": "Mrs. Byrd",
+               "gender": 1,
+               "credit_id": "58e8f0adc3a36872ee066e9f",
+               "name": "Barbara Pilavin",
+               "profile_path": "/edlxXNzP7ZEZ58m62ia6B54TxT6.jpg",
+               "id": 39468,
+               "order": 20
+            },
+            {
+               "cast_id": 38,
+               "character": "Desk Sergeant",
+               "gender": 2,
+               "credit_id": "58e8f0b892514134eb027da2",
+               "name": "Beau Billingslea",
+               "profile_path": "/3Ooz7bdkkSwwbzOs9SPXIXvGKYQ.jpg",
+               "id": 78494,
+               "order": 21
+            },
+            {
+               "cast_id": 39,
+               "character": "Tim Bailey",
+               "gender": 0,
+               "credit_id": "58e8f0c392514134eb027da9",
+               "name": "Breck Costin",
+               "profile_path": null,
+               "id": 103575,
+               "order": 22
+            },
+            {
+               "cast_id": 40,
+               "character": "Hotel Clerk",
+               "gender": 2,
+               "credit_id": "58e8f0d3c3a368731a067015",
+               "name": "Carmen Filpi",
+               "profile_path": "/a1XRRqiUDBC4Wlg5fklVhfvnWLx.jpg",
+               "id": 154073,
+               "order": 23
+            },
+            {
+               "cast_id": 41,
+               "character": "Dale Anders",
+               "gender": 2,
+               "credit_id": "58e8f0dcc3a36872f606257b",
+               "name": "Deran Sarafian",
+               "profile_path": "/1EQbGieH0GYE3adw9UvwEKw5Ipd.jpg",
+               "id": 45645,
+               "order": 24
+            },
+            {
+               "cast_id": 42,
+               "character": "Margo",
+               "gender": 1,
+               "credit_id": "58e8f0e4c3a36872ee066ec8",
+               "name": "Jeane Manson",
+               "profile_path": null,
+               "id": 40285,
+               "order": 25
+            },
+            {
+               "cast_id": 43,
+               "character": "Murder Victim (uncredited)",
+               "gender": 1,
+               "credit_id": "58e8f0fec3a3684aa4052ebb",
+               "name": "Anne Lockhart",
+               "profile_path": "/c2gcaCg9q9uBEyieeaxSWWlrhN1.jpg",
+               "id": 41227,
+               "order": 26
+            },
+            {
+               "cast_id": 44,
+               "character": "Party Girl",
+               "gender": 1,
+               "credit_id": "5a6829ad0e0a2653b5006142",
+               "name": "Patti Tippo",
+               "profile_path": "/68mCQgI46gAO4YdVnbaZGnXW8gZ.jpg",
+               "id": 1196132,
+               "order": 27
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cd55",
+               "name": "J. Lee Thompson",
+               "profile_path": "/cVHgJwHOh4j7q1tn3vQEcopblrJ.jpg",
+               "id": 18669,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cd5b",
+               "name": "William Roberts",
+               "profile_path": null,
+               "id": 14521,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cd8d",
+               "name": "J. Lee Thompson",
+               "profile_path": "/cVHgJwHOh4j7q1tn3vQEcopblrJ.jpg",
+               "id": 18669,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cd9f",
+               "name": "Lance Hool",
+               "profile_path": null,
+               "id": 57154,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cda5",
+               "name": "Pancho Kohner",
+               "profile_path": null,
+               "id": 237036,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cdab",
+               "name": "Robert O. Ragland",
+               "profile_path": null,
+               "id": 98606,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47889251416c7509cdb1",
+               "name": "Adam Greenberg",
+               "profile_path": "/te3aqArBCPkza8DeJpDx0Rncen8.jpg",
+               "id": 2723,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47889251416c7509cdb7",
+               "name": "Peter Lee-Thompson",
+               "profile_path": null,
+               "id": 70750,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "550ee6a1c3a3681db2009900",
+               "name": "John Crowther",
+               "profile_path": null,
+               "id": 136419,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "550ee6aec3a3681db2009903",
+               "name": "Jim Freiburger",
+               "profile_path": null,
+               "id": 1444002,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "550ee6c692514164ac000b8a",
+               "name": "Yoram Globus",
+               "profile_path": "/bKbeXNvErtCQiK3pEEnFgmR9cvo.jpg",
+               "id": 33009,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "550ee6d3c3a3683eb8002b33",
+               "name": "Menahem Golan",
+               "profile_path": "/qGtHMLd4E7tRyw75H4lWTRelW7B.jpg",
+               "id": 33008,
+               "department": "Production",
+               "job": "Executive Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 3.93423,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 18587,
+      "vote_count": 45,
+      "budget": 4520000,
+      "overview": "Based on the real-life Richard Speck murders, amoral, nearly psychotic killer Warren Stacey (Gene Davis) is a serial killer who has murdered a number of women; he stabs them while they are naked to minimize leaving any physical evidence. Police detective Leo Kessler (Charles Bronson) is convinced of Stacey\u2019s guilt and, over the objections of his partner, plants evidence to get him behind bars. When Stacey is released on a technicality, he threatens to go after Kessler and his family, leaving Kessler to defend himself against a killer with little help from the police.",
+      "similar": [
+         357096,
+         15069,
+         96,
+         984,
+         11423,
+         8090,
+         4771,
+         281,
+         75780,
+         948,
+         807,
+         3597,
+         3600,
+         445954,
+         306,
+         58625,
+         21484,
+         1266,
+         10651,
+         2749
+      ],
+      "original_title": "10 to Midnight",
+      "runtime": 101,
+      "poster_path": "/bJiLyz6g8vsFgJ5oAdMWlQAWY4T.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Y & M Productions",
+            "id": 49219,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/5jvFLUVXGXxkyszL9cqJN5hNhJ6.png",
+            "name": "Cannon Group",
+            "id": 1444,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "City Films",
+            "id": 10720,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1983-03-11",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "A cop... A killer... A deadline.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["J. Lee Thompson"],
+      "runtime": 101,
+      "synopsis": null,
+      "writers": ["William Roberts"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0085121/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc3NzY4NjQ5MV5BMl5BanBnXkFtZTcwNjQ3MzcyNA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Charles Bronson, Lisa Eilbacher, Andrew Stevens | See full cast and crew »"],
+      "reviews": [
+         "One user comment sums this movie up as \"standard fare\"?! When push comes to shove there really isn't anything standard about \"10 to Midnight.\" The villain is a young, deeply disturbed man who turns on by knifing people to death in the nude, and needless to say the movie is filled with a large amount of nudity. The hero is a veteran homicide detective who decides to stop at nothing to get his man, even if it means fabricating evidence. The latter part is portrayed by the grand-daddy of all tough action heroes, Sir Charles Bronson (OK, I know he wasn't a Sir, I just wanted to see how it looked :) Compared to most of the other movies Bronson did with director J. Lee-Thompson here he really turns in a memorable performance as detective Leo Kessler. Take for instance the scene where he finds the chief-suspects electric vagina, the look on Bronson's face is worth the price of admission alone! And the interrogation scene later where Bronson confronts the suspect with his sex toy: priceless! The finale deserves notice for being both disturbing and downright scary, with it's echoes of the real-life Richard Speck-massacre in 1966. If you are a Bronson-fan you are almost guaranteed to like \"10 to Midnight\", one of his best from the 1980's.",
+         "A very solid movie! Charles Bronson is absolutely great in this film. The fact that the killer was a handsome guy really emphasized that he was a sociopath and all around creep (smart character development). Lisa Eilbacher is damn cute! A good psychological action/thriller! I do not understand why people consider this a \"cheesy?\" movie or a \"rip-off\" of Death Wish. Leo Kessler is a hardened cop. Paul Kersey was an architect who took on the role of vigilante after a life changing event. The two characters really aren't that similar at all. I wonder what Lisa Eilbacher is up to nowadays.",
+         "In Los Angeles, the rookie Detective Paul McAnn (Andrew Stevens) teams up with the veteran Detective Leo Kessler (Charles Bronson) to investigate the murder of Betty Johnson (June Gilbert) and her boyfriend that were stabbed by a naked serial-killer in a park. Detective Kessler recognizes the victim, who lived in the same neighborhood many years ago and childhood friend of his daughter Laurie Kessler (Lisa Eilbacher). The killer Warren Stacy (Gene Davis) goes to the funeral and overhears Betty's father telling Detective Kessler that his daughter had a diary. Warren breaks in Betty's apartment and stabs and kills her roommate Karen Smalley (Jeana Tomasina) trying to find the diary. But Karen had already delivered the journal to Detective Kessler. Leo Kessler is sure that Warren is the serial-killer and her plants a false evidence in his apartment. However, Warren's defense lawyer presses Detective McAnn accusing him of perjury and Warren is released. Now the Warren is stalking Laurie to revenge against her father. \"10 to Midnight\" is a classic thriller from the 80's and among the best movies of Charles Bronson. I saw this film two or three times in the past and I have just seen it again. The unexpected reaction of Detetctive Leo Kessler is the climax of this great film and gives an unforgettable conclusion to the story. My vote is eight. Title (Brazil): \"Dez Minutos para Morrer\" (\"Ten Minutes to Die\")",
+         "From the director who brought us The Guns of Navarone and Cape Fear in the 60's, comes this interesting and suspenseful cop thriller. Charles Bronson plays a veteran cop who's with a young idealist cop is after a very smart and dangerous killer who likes to slice pretty and innocent chicks. The most interesting aspect of the film is that we know from the beginning who the killer is and for the rest of the film it's a mind game between Bronson and the killer who knows very well how to manipulate the system. This is definitely not to the squeamish one's because this is fairly a brutal film but from the intelligent kind. I'm familiar with Bronson's works and this is surely his best from the 80's. Anyone who looks for some highly entertaining film shouldn't miss it. Never mind the user's ratings because it's one of those underrated gems. Recommended",
+         "A very exciting cop movie, which picks up where Dirty Harry left off and raises very similar moral questions. Bronson is in top form and the villain is one of the most interesting of the eighties. Don't just take my word for it. Gene Siskel liked it, and Joe Bob Briggs picked it as one of the years top films.",
+         "I don't think Bronson ever made another movie like this one. Some of the language in this movie is sick, yet it seems so real. As usual Bronson is his old DEATH WISH self as he tracks down serial murderer Gene Davis. The script by William Roberts is decent, but the casting of Davis as the psycho seems odd to me. The reason they give for him killing women is that he's always being rejected by chicks, yet when you look at him, he's not ugly, stupid or retarded. There is no way in the world this guy would have trouble getting chicks. I could see an ugly guy in the role who couldn't score because he didn't have any looks, but Davis does, and this puts a big hole in Roberts' script. The cat and mouse game between Bronson and Davis is exciting, because Chuck knows from the beginning who is slicing and dicing those hot girls. And speaking of hot, Lisa Eilbacher is a fox. Score, 8 out of 10 Stars",
+         "Charles Bronson and director J. Lee-Thompson made nine movies together, and 10 To Midnight certainly makes a worthy attempt at being the kinkiest, sleaziest and most violent of the lot. I expected this to be a real bottom-of-the-barrel entry considering the subject matter, and the fact that Bronson was appearing in one tired revenge-fantasy after another at this point of his career, but Ten To Midnight isn't a total loss. It has a few entertaining set pieces, an interesting moral core, a modicum of suspense during some of the murder sequences, and a decent enough soundtrack courtesy of Robert O. Ragland. Alas, when all is said and done, it is still a fundamentally unpleasant exploitation piece in which the slaying of nubile \u0096 and often nude - young women, by a naked knife-wielding psycho no less, is served up for our viewing pleasure. It's not exactly art\u0085 it's one of those movies you need to come into accepting for what it is. Weird and voyeuristic office youth Warren Stacy (Gene Davis) has a real problem with women, especially when his overbearing advances are met with rejection and humiliation. However, he gets his revenge by tracking down any women that have refused him and brutally murdering them with a huge knife. Rather perversely, he commits these killings in the nude to avoid leaving any fibres or other incriminating evidence at the crime scene. Old-fashioned cop Leo Kessler (Charles Bronson) is assigned to catch the killer, and partnered with inexperienced rookie Paul McAnn (Andrew Stevens). It doesn't take them long to figure out that Stacy is their man, but pinning evidence on him proves a much trickier challenge. Ultimately Kessler decides to plant incriminating evidence to get the killer jailed, but his plan goes awry and Stacy is soon back on the streets feeling meaner than ever. With Kessler's daughter Laurie (Lisa Eilbacher) the next in line to be killed, it becomes a race against time to stop the psycho before he strikes again\u0085 10 To Midnight is not an especially well-acted film. Bronson is in his typically wooden '80s mode; Stevens spends the movie looking handsome but vacant; and Davis looks physically powerful as the bad guy but sounds kind of goofy as soon as he speaks in his peculiar \"idiot-drawl\". Of the main characters, Eilbacher at least does OK as Kessler's daughter and the killer's potential next target. There are some lulls between the murders and action bits, and the film struggles to maintain much interest when it isn't focusing on these sensational aspects. But fans of Bronson's unique style of squalid, simple, blood-and-thunder action flicks will probably come away satisfied, while the rest of us are left to pick at occasional morsels of quality in an otherwise exploitative potboiler.",
+         "A crossbreed of a typical Bronson cop flick and a typical slasher entry, this low-budget thriller is routine but strangely watchable. Bronson himself seems rather indifferent this time, and he even gets less screen time than the mad killer he pursues. (**)",
+         "... Could a tag-line possibly sound more Bronson-like? J. Lee Thompsons \"10 To Midnight\" of 1983 starring the great late Charley, is a decent cop flick, not nearly one of the most memorable Bronson flicks, but still a pretty suspenseful little thriller that will highly entertain all my fellow fans of everybody's favorite no-nonsense ass-kicker. Warren Stacy (Gene Davis) is a psychopathic serial killer who gets his kicks by running around naked and stabbing his victims to death. He does not randomly select his victims, but kills, because he wants to get back at the women who have rebuffed his advances. Leo Kessler (Charles Bronson) is a tough and experienced cop, who doesn't hesitate to use unorthodox methods to get justice done. When Kessler investigates the murders he has to find out that the latest victim was a close friend of his daughter's (Lisa Eilbacher). Accompanied by his rookie colleague Paul McAnn (Andrew Stevens), Kessler soon finds out who the murderer is. Warren Stacy is quite smart, however, and never leaves any evidence. Things quickly get personal between Kessler and Stacy, and you know Charley B. - he's probably not the guy you wanna mess with. \"10 To Midnight\" differs from the majority of other Cop vs. Serial Killer thrillers, since the viewer knows from the very beginning who the killer is. The movie focuses on the strife between Bronson and the serial killer, and builds up suspense by focusing on the serial killer and his possible victims. Since Bronson has to use illegal methods in order to get justice done (\"Forget What's Legal... Do What's Right!\") the film is, of course, politically incorrect as hell; But isn't that exactly what we love about Charlie Bronson? The man takes the law in his own hands and doesn't mind the bad guys getting hurt - If you don't like it, stop whining. Bronson is great as always and Gene Davis delivers a great performance as the serial killer, very wooden and therefore very creepy. Lisa Eilbacher, who play's Bronson's daughter, is very cute, and Geoffrey Lewis is great as the killer's sleazy lawyer. Some folks complain about poor editing in this movie, I don't really see why. One of the things I didn't like was the fact that the killer was rather one dimensional. \"10 To Midnight\" may lack depth, but it is a suspenseful film, certainly no masterpiece, but nonetheless a decent thriller that Bronson fans should like. I recommend to watch this, and to have a beer doing so.",
+         "you'll have to forgive me for that outburst of enthusiasm, but there really is no other way i could be summarizing this comment. It's not a Charles Bronson vehicle, because it has a lot of good elements by which this movie could still work very well if Bronson weren't playing the leading role. Kevin Bacon look-a-like Warren Stacy as the psycho killer switches swiftly between cruelty and self-piteous anxiety, with a funny Hispanic accent. which makes the dirty talk he delivers a treat. The manhunt and the killings are well interwoven until the finale, which would look fine in a slasher flick if only it were gorier. That resemblance - together with the hard-boiled style of action film-making nowadays replaced by bullet-time and the soundtrack - gives this movie that cool 80's feeling so refreshing to a child of the 90's. Charles Bronson is in great shape as the investigating detective, possibly because he sort of reprises his signature role, Paul \"Death Wish\" Kersey. On one hand his position as a law enforcer gives him more tricks to keep up his sleeve (such as planting evidence), on the other he's obliged to catch psychopaths by the book. However, he wouldn't be Bronson if he didn't book the book in the end and solved the case with a .38 solution. We end the movie by staring into the barrel, which brings me to my biggest frustration: we didn't have to wait 90 minutes to see Bronson take out scum like that in Death Wish. Give me a good investigation any time, but don't leave it to born gunslingers such as Bronson or Schwarzenegger."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Cannon Group",
+         "City Films",
+         "Y & M Productions"
+      ],
+      "summaries": [
+         "In Los Angeles, the rookie Detective Paul McAnn teams up with the veteran Detective Leo Kessler to investigate the murder of Betty Johnson and her boyfriend that were stabbed by a naked serial-killer in a park. Detective Kessler recognizes the victim, who lived in the same neighborhood many years ago and childhood friend of his daughter Laurie Kessler. The killer Warren Stacy goes to the funeral and overhears Betty's father telling Detective Kessler that his daughter had a diary. Warren breaks in Betty's apartment and stabs and kills her roommate Karen Smalley trying to find the diary. But Karen had already delivered the journal to Detective Kessler. Leo Kessler is sure that Warren is the serial-killer and her plants a false evidence in his apartment. However, Warren's defense lawyer presses Detective McAnn accusing him of perjury and Warren is released. Now the Warren is stalking Laurie to revenge against her father.",
+         "In Los Angeles, the rookie Detective Paul McAnn teams up with the veteran Detective Leo Kessler to investigate the murder of Betty Johnson and her boyfriend that were stabbed by a naked serial-killer in a park. Detective Kessler recognizes the victim, who lived in the same neighborhood many years ago and childhood friend of his daughter Laurie Kessler. The killer Warren Stacy goes to the funeral and overhears Betty's father telling Detective Kessler that his daughter had a diary. Warren breaks in Betty's apartment and stabs and kills her roommate Karen Smalley trying to find the diary. But Karen had already delivered the journal to Detective Kessler. Leo Kessler is sure that Warren is the serial-killer and her plants a false evidence in his apartment. However, Warren's defense lawyer presses Detective McAnn accusing him of perjury and Warren is released. Now Warren is stalking Laurie to revenge against her father.",
+         "A serial killer gets his kicks by knifing his victims while naked. A veteran cop, Leo Kessler believes that he has found the killer and plants fake evidence to obtain a conviction. When this \"evidence\" is discovered the killer is released, and plans his revenge by stalking Kessler's daughter...",
+         "Leo Kessler attempts to stop a serial killer that's terrorizing a college dormitory. In his attempts, he finds the law isn't always on his side.",
+         "A LAPD detective is on the trail of a very handsome young man who had been seducing and slashing many young women to death."
+      ],
+      "budget": 4520000
+   },
+   "movielensId": 6168,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1983-03-11",
+      "dvdReleaseDate": "2003-02-04",
+      "directors": ["J. Lee Thompson"],
+      "runtime": 101,
+      "movieId": 6168,
+      "title": "10 to Midnight",
+      "mpaa": "R",
+      "actors": [
+         "Charles Bronson",
+         "Lisa Eilbacher",
+         "Andrew Stevens",
+         "Geoffrey Lewis",
+         "Gene Davis",
+         "Wilford Brimley",
+         "Robert F. Lyons",
+         "Sydna Scott",
+         "Bert Williams",
+         "Iva Lane",
+         "Ola Ray",
+         "Kelly Preston",
+         "Cosie Costa",
+         "Paul McCallum",
+         "Jeana Keough",
+         "June Gilbert",
+         "Arthur Hansel",
+         "Sam Chew Jr.",
+         "Katrina Parish",
+         "Shawn Schepps",
+         "Barbara Pilavin",
+         "Beau Billingslea",
+         "Breck Costin",
+         "Carmen Filpi",
+         "Deran Sarafian",
+         "Jeane Manson",
+         "Anne Lockhart",
+         "Patti Tippo"
+      ],
+      "imdbMovieId": "0085121",
+      "originalTitle": "10 to Midnight",
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["v8y0YIQrhNw"],
+      "plotSummary": "Based on the real-life Richard Speck murders, amoral, nearly psychotic killer Warren Stacey (Gene Davis) is a serial killer who has murdered a number of women; he stabs them while they are naked to minimize leaving any physical evidence. Police detective Leo Kessler (Charles Bronson) is convinced of Stacey\u2019s guilt and, over the objections of his partner, plants evidence to get him behind bars. When Stacey is released on a technicality, he threatens to go after Kessler and his family, leaving Kessler to defend himself against a killer with little help from the police.",
+      "tmdbMovieId": 18587,
+      "avgRating": 2.73394,
+      "releaseYear": "1983",
+      "numRatings": 109,
+      "posterPath": "/bJiLyz6g8vsFgJ5oAdMWlQAWY4T.jpg"
+   }
+}

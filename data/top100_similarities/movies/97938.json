@@ -1,0 +1,811 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "ocean",
+            "id": 270
+         },
+         {
+            "name": "zoo",
+            "id": 2172
+         },
+         {
+            "name": "shipwreck",
+            "id": 2580
+         },
+         {
+            "name": "hindu",
+            "id": 4096
+         },
+         {
+            "name": "tiger",
+            "id": 4809
+         },
+         {
+            "name": "faith",
+            "id": 6150
+         },
+         {
+            "name": "zebra",
+            "id": 7639
+         },
+         {
+            "name": "zookeeper",
+            "id": 12971
+         },
+         {
+            "name": "india",
+            "id": 14636
+         },
+         {
+            "name": "teenage boy",
+            "id": 18068
+         },
+         {
+            "name": "hyena",
+            "id": 18136
+         },
+         {
+            "name": "meerkat",
+            "id": 18153
+         },
+         {
+            "name": "cargo ship",
+            "id": 158022
+         },
+         {
+            "name": "lifeboat",
+            "id": 163000
+         },
+         {
+            "name": "injured animal",
+            "id": 163014
+         },
+         {
+            "name": "storm at sea",
+            "id": 168683
+         }
+      ],
+      "imdb_id": "tt0454876",
+      "video": false,
+      "title": "Life of Pi",
+      "recommendations": [
+         37724,
+         68734,
+         82693,
+         62177,
+         59967,
+         82690,
+         68728,
+         14161,
+         44115,
+         56292,
+         70981,
+         44826,
+         83542,
+         41154,
+         49051,
+         10528,
+         1930,
+         87502,
+         17578,
+         10191
+      ],
+      "backdrop_path": "/2Zvd5gKOSvUGJpWtmpsFQvfPd2z.jpg",
+      "revenue": 609016565,
+      "reviews": [
+         {
+            "author": "Andres Gomez",
+            "id": "539eff1f0e0a2667f9000106",
+            "content": "Visually, this movie traps yourself from the beginning to the end.\r\n\r\nThe story is really deep and moving and the performances are plainly good.\r\n\r\nA must to be seen.",
+            "url": "https://www.themoviedb.org/review/539eff1f0e0a2667f9000106"
+         },
+         {
+            "author": "Ibraheem...",
+            "id": "59e7196fc3a36851990090bc",
+            "content": "Perfectly written, amazingly filmed, and surprisingly ended. Definitely, going in my amnisa list.",
+            "url": "https://www.themoviedb.org/review/59e7196fc3a36851990090bc"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 15,
+               "character": "Pi Patel (16 / 17 Years)",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0c1",
+               "name": "Suraj Sharma",
+               "profile_path": "/uGr7a2wICCzuvna2YDhjtOGrKQd.jpg",
+               "id": 933160,
+               "order": 0
+            },
+            {
+               "cast_id": 13,
+               "character": "Pi Patel (Adult)",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0b9",
+               "name": "Irrfan Khan",
+               "profile_path": "/9O71WSILj1af9smwuN44nGd198Q.jpg",
+               "id": 76793,
+               "order": 1
+            },
+            {
+               "cast_id": 17,
+               "character": "Pi Patel (11 / 12 Years)",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0c9",
+               "name": "Ayush Tandon",
+               "profile_path": "/lF1gIGzEZWZJJsQmIJpBzT9SYOW.jpg",
+               "id": 935504,
+               "order": 2
+            },
+            {
+               "cast_id": 25,
+               "character": "Pi Patel (5 Years)",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0e3",
+               "name": "Gautam Belur",
+               "profile_path": "/bbVao6AG13Aw9haRlZm3DwLfugF.jpg",
+               "id": 1133846,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "Santosh Patel",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0c5",
+               "name": "Adil Hussain",
+               "profile_path": "/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg",
+               "id": 227849,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Gita Patel",
+               "gender": 1,
+               "credit_id": "52fe49db9251416c910bb0bd",
+               "name": "Tabu",
+               "profile_path": "/6XIVS1BIceOpTxzgu7R8Xw0esFg.jpg",
+               "id": 55062,
+               "order": 5
+            },
+            {
+               "cast_id": 51,
+               "character": "Ravi Patel (7 Years)",
+               "gender": 0,
+               "credit_id": "544cd9110e0a2608be00209f",
+               "name": "Ayaan Khan",
+               "profile_path": null,
+               "id": 1377778,
+               "order": 6
+            },
+            {
+               "cast_id": 38,
+               "character": "Ravi Patel ( 13/ 14 years)",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb103",
+               "name": "Mohd Abbas Khaleeli",
+               "profile_path": null,
+               "id": 1133848,
+               "order": 7
+            },
+            {
+               "cast_id": 28,
+               "character": "Ravi Patel (18/19 years)",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0e7",
+               "name": "Vibish Sivakumar",
+               "profile_path": "/eZJvIx1M59rP4gyVYxsY82tH4QB.jpg",
+               "id": 1133849,
+               "order": 8
+            },
+            {
+               "cast_id": 21,
+               "character": "Writer",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0d3",
+               "name": "Rafe Spall",
+               "profile_path": "/7ucsDEWvcMU4SpxtZEaYErPpXHh.jpg",
+               "id": 28847,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Cook",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0b5",
+               "name": "Gérard Depardieu",
+               "profile_path": "/kWGuy8UI8y3uqqCVoFvBVBe8w0J.jpg",
+               "id": 16927,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "Older Insurance Investigator",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0d7",
+               "name": "James Saito",
+               "profile_path": "/vrZz8dPmYLK25F910luCvYMwEnW.jpg",
+               "id": 77155,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Younger Insurance Investigator",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0db",
+               "name": "Jun Naito",
+               "profile_path": "/zuMqxes5OnJyZSLsCqwV7QRcivb.jpg",
+               "id": 121702,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Priest",
+               "gender": 1,
+               "credit_id": "52fe49db9251416c910bb0df",
+               "name": "Andrea Di Stefano",
+               "profile_path": "/nIB8fSk0yJN7PWGJZoNcyM0hJ7l.jpg",
+               "id": 40541,
+               "order": 13
+            },
+            {
+               "cast_id": 39,
+               "character": "Anandi",
+               "gender": 0,
+               "credit_id": "52fe49db9251416c910bb107",
+               "name": "Shravanthi Sainath",
+               "profile_path": "/6d5chiLUcVJJ9SXyx8x8UOWXCZR.jpg",
+               "id": 1271647,
+               "order": 14
+            },
+            {
+               "cast_id": 40,
+               "character": "Mamaji",
+               "gender": 0,
+               "credit_id": "52fe49db9251416c910bb10b",
+               "name": "Elie Alouf",
+               "profile_path": null,
+               "id": 1271648,
+               "order": 15
+            },
+            {
+               "cast_id": 41,
+               "character": "Dance Master",
+               "gender": 0,
+               "credit_id": "52fe49db9251416c910bb10f",
+               "name": "Padmini Ramachandran",
+               "profile_path": "/e5awRVSfLMgv62DTT4du0akkJl0.jpg",
+               "id": 1271649,
+               "order": 16
+            },
+            {
+               "cast_id": 42,
+               "character": "Science Teacher",
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb113",
+               "name": "T.M. Karthik",
+               "profile_path": "/lY4zfm4ouCx2UmlMzJn6xEwLAV1.jpg",
+               "id": 1271650,
+               "order": 17
+            },
+            {
+               "cast_id": 43,
+               "character": "Indian History Teacher",
+               "gender": 0,
+               "credit_id": "52fe49db9251416c910bb117",
+               "name": "Amarendran Ramanan",
+               "profile_path": "/yPG0vns6j24VxGygNqCiy9y7sj9.jpg",
+               "id": 1271651,
+               "order": 18
+            },
+            {
+               "cast_id": 44,
+               "character": "Librarian",
+               "gender": 0,
+               "credit_id": "52fe49db9251416c910bb11b",
+               "name": "Hari Mina Bala",
+               "profile_path": null,
+               "id": 1271652,
+               "order": 19
+            },
+            {
+               "cast_id": 50,
+               "character": "Buddhist Sailor",
+               "gender": 0,
+               "credit_id": "53436f450e0a2679a40051de",
+               "name": "Wang Bo-Chieh",
+               "profile_path": "/n8n4jh6I2VsTX2y3glVdvegPJiM.jpg",
+               "id": 966327,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb08d",
+               "name": "Ang Lee",
+               "profile_path": "/uTX0uIBLl3JIQunuAMDRHLorffh.jpg",
+               "id": 1614,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe49db9251416c910bb093",
+               "name": "Yann Martel",
+               "profile_path": null,
+               "id": 935501,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb099",
+               "name": "Gil Netter",
+               "profile_path": null,
+               "id": 25455,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe49db9251416c910bb09f",
+               "name": "David Womark",
+               "profile_path": null,
+               "id": 42736,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0a5",
+               "name": "Mychael Danna",
+               "profile_path": "/uGkvVeKZspg3BwgRmdCIENT7Sqm.jpg",
+               "id": 5359,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe49db9251416c910bb0ab",
+               "name": "Avy Kaufman",
+               "profile_path": "/yQPGktsmkKkhkOQAUlmYlxHJOiJ.jpg",
+               "id": 2952,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0b1",
+               "name": "David Gropman",
+               "profile_path": null,
+               "id": 5329,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0cf",
+               "name": "David Magee",
+               "profile_path": null,
+               "id": 12996,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0ed",
+               "name": "Adil Hussain",
+               "profile_path": "/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg",
+               "id": 227849,
+               "department": "Crew",
+               "job": "Production Office Assistant"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0f3",
+               "name": "Al Hobbs",
+               "profile_path": null,
+               "id": 935503,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0f9",
+               "name": "Claudio Miranda",
+               "profile_path": null,
+               "id": 51333,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb0ff",
+               "name": "Marcelo Pont Vergés",
+               "profile_path": null,
+               "id": 960435,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb121",
+               "name": "Dean Georgaris",
+               "profile_path": null,
+               "id": 20516,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49db9251416c910bb127",
+               "name": "Tim Squyres",
+               "profile_path": null,
+               "id": 1635,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe49db9251416c910bb12d",
+               "name": "Anna Pinnock",
+               "profile_path": null,
+               "id": 8384,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe49db9251416c910bb139",
+               "name": "Arjun Bhasin",
+               "profile_path": null,
+               "id": 6506,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55fec985c3a368132c003908",
+               "name": "Terry Lewis",
+               "profile_path": null,
+               "id": 1512383,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5523f08ec3a3680bb6002dcc",
+               "name": "Anthony Di Ninno",
+               "profile_path": null,
+               "id": 1355894,
+               "department": "Crew",
+               "job": "Digital Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5537f1019251412d910031a9",
+               "name": "Aravind Jayaraman",
+               "profile_path": null,
+               "id": 1455463,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55467d02c3a368573b004309",
+               "name": "Rohit Kolhe",
+               "profile_path": null,
+               "id": 1460611,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55468029c3a3680cd70075bd",
+               "name": "Alexander Fernandes",
+               "profile_path": null,
+               "id": 1453021,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55468202c3a368573b004373",
+               "name": "Sachin Bangera",
+               "profile_path": null,
+               "id": 1453019,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548df1bc3a368788c0020f5",
+               "name": "Dixie Pizani",
+               "profile_path": null,
+               "id": 1459734,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554a18e59251412bb400146e",
+               "name": "Julie D'Antoni",
+               "profile_path": null,
+               "id": 1460621,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554ae127c3a3685e5e000c5a",
+               "name": "Sagar Patil",
+               "profile_path": null,
+               "id": 1460634,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579d00f9c3a36837ea000f8c",
+               "name": "Kevin Kaska",
+               "profile_path": "/azlSu8Sz9QGeK3xgQS9p3ZvR9q9.jpg",
+               "id": 68016,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a1caf9c3a36829200051c5",
+               "name": "Ian Blum",
+               "profile_path": null,
+               "id": 1642697,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f2403e9251416ac103a30d",
+               "name": "Claudio Miranda",
+               "profile_path": null,
+               "id": 51333,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Action",
+            "id": 28
+         }
+      ],
+      "popularity": 51.009592,
+      "production_countries": [
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         },
+         {
+            "iso_3166_1": "TW",
+            "name": "Taiwan"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 87827,
+      "vote_count": 6879,
+      "budget": 120000000,
+      "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
+      "similar": [
+         205775,
+         700,
+         10527,
+         9836,
+         14372,
+         551,
+         20416,
+         15927,
+         31703,
+         41968,
+         5319,
+         2989,
+         27727,
+         211086,
+         198727,
+         24704,
+         185338,
+         150247,
+         185345,
+         32429
+      ],
+      "original_title": "Life of Pi",
+      "runtime": 127,
+      "poster_path": "/sLYdcz7easaS7CmJGwQcVVYZqiF.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "हिन्दी",
+            "iso_639_1": "hi"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         },
+         {
+            "name": "普通话",
+            "iso_639_1": "zh"
+         },
+         {
+            "name": "தமிழ்",
+            "iso_639_1": "ta"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Fox 2000 Pictures",
+            "id": 711,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Dune Entertainment",
+            "id": 444,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Ingenious Media",
+            "id": 290,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "Haishang Films",
+            "id": 13480,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Big Screen Productions",
+            "id": 10893,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Ingenious Film Partners",
+            "id": 289,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2012-11-20",
+      "vote_average": 7.2,
+      "belongs_to_collection": null,
+      "tagline": "Believe The Unbelievable",
+      "adult": false,
+      "homepage": "http://www.lifeofpimovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Ang Lee"],
+      "runtime": 127,
+      "synopsis": "Pi Patel (Irrfan Khan), an immigrant from Pondicherry in India living in Montreal, Canada, is approached by a local novelist (Rafe Spall) who has been referred to him by his \"uncle\" (a family friend), believing that Pi's life story would make a great book. Pi relates an extended tale: His parents had named him Piscine Molitor after a swimming pool in France. He changes his name to \"Pi\" (the mathematical symbol,) when he begins secondary school (Gautam Belur), even repeating numerous digits of pi, because he is tired of being taunted with the nickname \"Pissing Patel\". His family owns a local zoo, and Pi takes an interest in the animals, especially a Bengal tiger named Richard Parker because of a clerical error. Pi tries to feed the tiger, endangering himself to being attacked, and to teach him the reality of the tiger's nature as a carnivore, Pi's father, Santosh Patel (Adil Hussain) forces him to witness it killing a goat. He is raised Hindu and vegetarian, but at 12 years old, he is introduced to Christianity and then Islam, and starts to follow all three religions as he \"just wants to love God.\" When asked if he is also Jewish, he replies that he lectures in Kabbalah at the university. When Pi is 16 (Ayush Tandon), his father decides to close the zoo and move his family to Canada, and sell the zoo animals, to ensure a good future for his children. They book passage with their animals (to be sold in North America) on a Japanese freighter named the Tsimtsum. On board the ship, Pi's father gets into an argument with the ship's cook (Gerard Depardieu) when he speaks to Pi's mother, Gita Patel (Tabu) rudely. One night, the ship encounters a heavy storm and begins to sink while Pi is on deck marveling at the storm. He tries to find his family, but a crew member throws him into a lifeboat; from the rough sea, he watches helplessly as the ship sinks, killing his family and its crew. After the storm, Pi finds himself in the lifeboat with an injured zebra, and is joined by an orangutan, named Orange Juice, who lost her offspring in the shipwreck. A spotted hyena emerges from the tarp covering half of the boat, and kills the zebra. To Pi's distress, the hyena also mortally wounds the orangutan in a fight. Suddenly Richard Parker emerges from under the tarp, and kills and eats the hyena. Pi finds emergency food and water rations on the boat. He builds a small raft of flotation devices so that he can stay at a safe distance from the tiger. Realizing that he must feed the tiger to protect himself, Pi begins fishing, with some success. He also collects rain water for both to drink. At one point, he makes a board ladder for the tiger to climb back into the boat after it had jumped off to hunt fish. In a nighttime encounter with a breaching whale, Pi loses much of his supplies. Faced with starvation, he eats raw fish. After many days at sea, Pi realizes that he can no longer live on the tiny raft and trains the tiger Richard Parker to accept him in the boat. He also realizes that caring for the tiger is keeping him alive. After weeks longer at sea, near the end of their strength, they reach a floating island of edible plants, supporting a forest, fresh water pools, and a large population of meerkats. Both Pi and Richard Parker eat and drink freely and regain strength. But at night the island transforms into a hostile environment, with the fresh water turning acidic, digesting all the dead fish that died in the pools. The tiger returns to the lifeboat at night. Pi finds a human tooth inside a plant flower and concludes that the plants are carnivorous, requiring them to leave the island. The lifeboat eventually reaches the coast of Mexico. Finally back on land, Richard Parker stumbles away from Pi and stops at the edge of the jungle. Pi expects that the tiger will turn toward him and acknowledge him, but instead he looks into the jungle for a while and goes in. Pi, too weak to follow, lies in the sand. He is rescued by a group who carry him to hospital, but he weeps that the tiger had walked away without him. In hospital, insurance agents for the Japanese freighter come to hear his account of the incident. They find his story unbelievable, and ask him to tell them what \"really\" happened, if only for the credibility of their report. He answers with a less fantastic but detailed account of sharing the lifeboat with his mother, a sailor with a broken leg, and the cook. In this story, the cook kills the sailor to use him as bait and food. In a later struggle, Pi's mother pushes him to safety on a smaller raft, and the cook stabs her as she falls overboard to the sharks. Later, Pi returns to grab the knife and kills the cook. In the present, the writer notes parallels between the two stories: the orangutan was Pi's mother, the zebra was the sailor, the hyena was the cook, and Richard Parker, the tiger, was Pi himself. Pi asks him which story the writer prefers; he chooses the one with the tiger because it \"is the better story\", to which Pi responds, \"And so it is with God\". Glancing at a copy of the insurance report, the writer notices a closing comment about the remarkable feat of surviving 227 days at sea, especially with a tiger - meaning that the agents chose that story as well.",
+      "writers": [
+         "Yann Martel",
+         "David Magee"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0454876/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Suraj Sharma, Irrfan Khan, Adil Hussain | See full cast and crew »"],
+      "reviews": [
+         "Saw this the other night at the NYFF. Wow. It's an incredible film, a true cinematic achievement, possibly a classic and maybe will be the first 3D movie to break through and win the Best Picture Oscar. Some of the images were so beautiful that the audience gasped at many of them. I felt transported and like I was seeing a movie for the very first time. I haven't felt that sort of magic in a movie theater in a long, long time. I read the book and liked it and the film may even improve upon it which is kind of a miracle considering it's kids, animals and water just about all the time. The spiritual themes are simple and deep and raise more questions about faith and belief than answer anything. No preaching going on here and there could be. Without giving anything away, it's a wonderful story about storytelling and how telling our stories can get us through the most horrible life experiences and to help deal with the aftermath of them. It's an incredible film experience. Go see it!",
+         "The movie narrates an incredible story using the most beautiful special effects and great actors. It is more that a survival story and it is not about friendship. This story is about faith. Director Ang Lee use all the tools he have to make this movie about a solitary young man not a boring one. It is narrated by both, young Pi and the Adult Pi, it uses music all the time so there is not space for uncomfortable silents and the rhythm of the scenes is fast. The result a very entertained film. The most important thing of this film is it character. It is obvious because we are seeing for almost 2 hours just one character. So it is not only important to have a great character that appeals to the audience feelings, but to have an actor that portray this person the right way. Suraj Sharma was brilliant as Pi. He can make happy scenes as equal as sad, desperate, hopelessness, exhaustion and anger ones. Very few movies allow an actor represent so many emotions. But if Pi is a good character, Richard Parker can only be describe as unique. The tiger as personality of it's own. Not many films can make an animal with so many human features and yet never stop being a wild animal. This tiger is computed animated but the audience will barely notice, because the way it walks, eats, its factions, the eyes. It doesn't matter if it is computer animation, Richard Parker is alive and is his own character just as important as Pi is. If you think that \"Rise of the Planet of the Apes\" have good animal effects, you have to see how this people make a zebra, a hyena and a orangutan. All this, combine with a photography created by the same guy that make \"Tron: Legacy\" looks so cool and \"The Curious Case of Benjamin Button\" so beautiful, Claudio Miranda, makes it an incredible experience to see. This movie is definitely an Oscar runner for Special Effects, Cinematography, Director and Movie of the year.",
+         "I was lucky enough to see Pi in full 3D Imax at a pre-viewing in San Diego last night, and as a huge fan of the book, I was intensely satisfied. Believe it or not, I was more impressed with the the casting choices and performances of the players than by the effects. Granted, the movie was very beautiful, but in the end, Life Of Pi was more character driven than anything. Suraj Sharma as the young Pi was charming, funny, and incredibly engaging, while Irrfan Khan as the older Pi was fantastically genuine and warm. Adil Hussain as Pi's father was also a joy to watch. The characters are so rich and full of life that you really can't help but fall in love with them. I would also like to add, as someone who spends time with tigers on a daily basis, the animators did a wonderful and accurate job of bringing Richard Parker to life and making him the active and vital character that is so incredibly essential to the success of this story. I would recommend seeing Pi in 3D, but I don't think that's it's essential to your viewing enjoyment. The 3D just takes a beautiful film and makes it a little bit nicer. Also, if you've read the book and are concerned that the story you loved may have been compromised in anyway, worry no longer. This is easily, one of the best book to film adaptations I have ever seen. Happy viewing folks. I hope you enjoy this film as much as I did. I'll be seeing it again in theaters very soon.",
+         "''I had to tame him,'' (Pi) realizes. ''It was not a question of him or me, but of him and me. We were, literally and figuratively, in the same boat.\" From Life of Pi by Yann Martel. You will see no more imaginative film this year than Life of Pi, whose conceit of a young Indian boy stranded with a Bengal Tiger in a lifeboat amid the Pacific Ocean is fantastical yet real in its metaphoric implications. While the framing device of a story told to a stranger uses the old flashback, the lonely lifeboat is as new as any story told in the last century. The film begs interpretation from the multiplicity of religions to the place of mankind in a hostile, Darwinian world. Ultimately the benign brotherhood of beasts and humans is affirmed not so much by lofty philosophy but by the necessity of man and beast working together to survive. The digital rendering of animals, especially the Bengal Tiger, is beautiful to behold. The opening scene in Pi's family zoo could be right out of Terence Malick's visionary camera, a montage of nature gorgeous in its simplicity. The several formalistic shots of the boat at night are worthy of the best lighting in the best aquariums in the world. Together with the impressive use of 3D, director Ang Lee has visually taken us from the opulence of Crouching Tiger and the minimalism of Brokeback Mountain into a fusion world of fancy and reality. The images are stunning. In the end, Lee is interested in the individual's place in the universe as he struggles to harness nature and yet live in harmony with these elements. The conflict with the gross cook aboard the Japanese cargo ship taking Pi's family and animals to Canada is emblematic of the challenges facing the gifted with the groundlings. Pi's relationship with tiger \"Richard Parker\" represents all mankind's struggle to live in harmony with the forces it cannot control. \"Believing in everything is the same as believing in nothing,\" says Pi's father because Pi samples religions from Hinduism and Buddhism to Catholicism and Judaism and wants them all. Although it is not given to us to have them all, Pi's piety practically makes us believers in the universal brotherhood. The Life of Pi is everyone's life; the film is one of the best of the year and, even remembering the greatness of The Old Man and the Sea, Moby Dick, and Billy Budd, the best you will ever see about a boy, a tiger, and a boat.",
+         "Few movies will leave a lasting impression on you..Life of Pi is one of those. Not even a single moment is dull, in fact the story is woven so tightly that you never realize that the script is so simple. It is beautifully directed and kudos to Ang Lee, not only was he able to capture the beauty of India, he was also able to get the best of the actors. Though it does not rank too high on 3D, its just visually mesmerizing. My trust and faith in Ang Lee has gone up to the highest level after watching this movie..Luckily I was able to catch the premiere show and will continue to relish the after effects of the movie for the next few days!",
+         "With his latest movie, \"Life of Pi\", Ang Lee further establishes himself as one of the greatest contemporary movie directors. Starting from his Taiwanese beginnings, and his highly enjoyable, family-harmonizing \"Father Knows Best\" trilogy (1992-1994), through his Academy Award winning works on gracefully choreographed, highly spiritualized Far East martial arts tour de force \"Crouching Tiger, Hidden Dragon\" (2000, best foreign-language film) and on an uncommon yet nostalgic portrayal of the Old West in \"Brokeback Mountain\" (2005, best director), to his other titles like \"Sense and Sensibility\" (1995), \"The Ice Storm\" (1997), and \"Lust, Caution\" (2007), quality and Kubrick-like versatility shown in his movies offer continuous attraction for wide audience of his admirers. Lee's latest and, so far, easily, greatest movie, \"Life of Pi\" is based on a screenplay adapted from the acclaimed fictional adventure novel written by Canadian author Yann Martel. Throughout his childhood, due to matching pronunciation of French word \"piscine\" (pool, swimming pool) and English word \"pissing\", Piscine Molitor Patel, named that way after later abandoned Parisian swimming pool, so predictably suffers from being nicknamed \"Pissing Patel\". In order to avoid it, once in high school he finally shortens his name to Pi Patel... Nowadays middle-aged Pi tells the story of his life to a visiting writer, apparently a book author Yan Martel's alter ego, who is seeking for the literal inspiration. Retrospectively, Pi divides his childhood and adolescence into three segments. In the first segment he gives shorter account of his life until the age of 16, describing his interaction with his family and schoolmates, in particular his relationship with his father and a girlfriend, concentrating on his exploits of God and spirituality, meandering between multitude of religious practices� while in the last one he briefs about his testimonial given to officials from the Japanese Ministry of Transport, investigating the reasons why the ship his family was relocating on from India to Canada sank. Most detailed, and therefore the longest, is recollection of his 227 days in a lifeboat, an extraordinary ordeal he went through after the ship has capsized and everybody else, crew and passengers, died� �Well, everybody human, but not everybody living. Namely, a number of terrestrial animals from their discontinued family zoo, offered for sale and brought along with other family belongings, have survived, too. But, not for long, because, while confined in the most limited space as they were, surrounded by vastness of the ocean, the law of the \"survival of the fittest\" prevails, takes its tall, and pretty soon Pi finds himself in a company of a single one topping the food-chain, a Bengal tiger curiously named Richard Parker. Not to reveal the story further, it is with greatest pleasure to inform that cinematic excellence has been achieved in several categories: in an engaging tale�whether allegory or depiction of realistic, believable events, filled with protagonist's rarely matched curiosity, imagination and his often reasonably unanswered doubts, encouraging the same in viewers�of an uncommon character, indeed, brought to on-screen life by outstanding performances from two contributing leads, remarkably presented via ubiquitous, yet inconspicuous animation, exceptional, CGI aided visuals and superb usage of 3D photography, all along complemented with an uplifting score. All these assets work seamlessly together in unfolding an intense relationship between Pi and Richard Parker, complex yet basic, difficult yet simple, initially charged with Pi's dreadful fear, swiftly shifting to respectful care, instantly boosting his never overbearing confidence and relentlessly improving his survival skills. Wholesome artistic experience reaches and maintains its pinnacle particularly in clever tactics and constructive survival techniques 16-year old Pi uses�amply benefiting from his instructive lifestyle of a zoo owner's attentive son, certainly well acquainted with animal psychology�to suppress the fear and convincingly impose himself as an equal to the one of the most elaborate \"killing machines\" among mammals, desperately striving for his own survival, nevertheless, generously, for survival of his seemingly sufficiently tamed companion, but still, initially and ultimately, magnificent adversary, Richard Parker, as well. \"Life of Pi\" is, certainly, one of the most impressive movies of 2012, year that has just come to a close.",
+         "Just finished watching the Midnight Premiere. Did not disappoint one bit. The Acting is incredibly believable, and the ending ties it all together. The story sorta drags in the beginning, but Ang Lee did a good job keeping my attention to the film. The Animation is incredibly realistic. I couldn't tell the difference between what was real and what wasn't. Not one moment did I doze off. Definitely worth 127 minutes of your life. Ang Lee, you did an outstanding job. To the Cast, you all did excellent. I am very satisfied! Although there were a lot of pros, there were some cons. At one point the Format of the Film switched from 16:9 to 4:3, but that might have been the projector at the Cinemark I attended. I also noticed some of the animations of animals started to go off screen and you could see the animated objects in the black area of the Wide Screen part (I'm assuming that was for the 3D, but I watched it in 2D so it looked sketchy). But it's minor. An average viewer won't even notice it, I'm an aspiring filmmaker, and I notice the little things!! I enjoyed the film, and you will too. 9/10. Worth it.",
+         "Ang lee's life of pi is an adaptation of a 'Man booker prize winner' novel by the same name, written by Yann Martel. It's a story set in the late seventies of an Indian teenager (Pi Patel) who is stranded on a life boat in the pacific. What distinguishes this tale of survival from the rest is that the author dishes out a delicious slice of creativity in giving the castaway, a tiger for a companion. Yes, like the posters and trailers have you believe, there is a boat on which a man and a tiger have to live! This makes 'life of pi' not only a story of human struggle against nature but also a profound tale that questions 'what separates man from beast?'. More interestingly, 'when does man become a beast'? But worry not, Ang Lee's movie does not force you think on these lines , instead it's a film that lets you enjoy it on so many levels. If you are just looking for a beautiful 3D movie to feast your eyes , Life of pi can be it. If you are in a mood for a thrilling adventure epic on weekend, this is the right ticket. If indeed, you want to experience something thoughtful, Life of pi never forces you on a particular thought, instead it whispers ever so slightly to think about matters of human disposition and finding comfort in convention while caressing your senses with fabulous visuals and background score. Suraj Sharma debuts as pi with utter sincerity while Irfan Khan(as adult pi) and Tabu(as mother) do justice to their parts. The rest of the supporting cast blend in perfectly too. Ang lee helms the film with difficult source material with absolute grace and expertise. However there are two true heroes that make Life of Pi work. Firstly the studio and creative director behind the magnificent CGI. The Bengal tiger is perhaps the best animated animal ever created! The angry green eyes, richly textured orange �white striped skin and every hair on its fur look rich and full of life in 3D.And then when your hear the thunderous roar for the first time, you will realize this is as real as it can get! The rest of the animals (a Zebra, an orangutan) look great too. The lovely blue ocean and its resident creatures are the jewel in the crown. The other hero is the writer David Magee(screenplay) who adapts the novel with near perfection. One gripe the fans of the novel might have is the lack of all the gore descriptions and a particular chapter that deals with the surviving 'French cook'. The addition of these might have pleased the audience who sought for the philosophical undertones from the story but the film would have lost out on the large PG-13 crowd (a fair deal considering the enormous budget). Life of Pi, is a rare masterpiece that stands as a prototype not only for a perfect book adaptation and a 3D movie( sorry avatar, you have just been replaced), but also for a movie based on intricacies of human nature . Now that is simply an impressive triumph of film-making!",
+         "According to mythology the journey of life is splayed with different forms of hurdles, the path to salvation lies in standing tall against such hurdles even if the Gods are callous to your understanding. By maintaining hope we try to live up to their expectation, knowing that God will guide us if we keep fighting on our endeavor for greater good. That's pretty much the whole and soul of the movie. Opened first time in India at IFFI 2012 Goa, I was in the mix of lucky few who got to watch the repeat show of this 3D movie adapted from Yann Martel's book of same title. Piscine Molitor(Pi) Patel as he was named after a swimming pool by his dear uncle apparent by his ardent love for the same. Piscine is born Hindu in Pondicherry India, but as he levels a understanding he begins to peek into other religion and sooner he starts endorsing Christianity and Islam also. His father, a zoo owner pounces upon a chance of relocating the zoo to Canada. On their way to far west with animals on a Japanese ship, tragedy struck on a murderous stormy night capsizing the ship with Pi and a Royal Bengal Tiger left to see the remains. And so the adventures journey of innocent young boy with life threatening feline animal begins. There was the thunderous applause from the audiences when the tiger gives his first appearance in the safety boat. Spending months to produce the Tiger didn't go waste too, he looked inch perfect and the way he has been handled in the movie is exquisite. The first few scenes are reminiscent of old India with bullock carts, later the landscape changes and so do the people. The characters of hot blooded modern day father, the supporting mother and the story involving the tender love between the protagonist and the girl are delightful however short they may be. The innocence of young Pi through his school years and his introduction to motley of faiths sets up the foundation to his uncanny characterization. But the real fun starts when they are both lost at sea and Pi tries assortment of ideas to keep him as well as the Tiger alive. The movie is never complete without the mention of adequately yet delicately used VFX. It would really be a shame to put into words those magnificently shot sequences and the scale on which the art work is done. This movie epitomizes the correct com-mixture of story with special effects. I could gather so many 'wows' while I was myself devouring on the same scenes. The humor is well prevalent and does lighten up the few still scenes between the two. Suraj Sharma plays the most significant role in the movie with all his efforts and he wins it in the end. The guy is awesome handling some tough intense scenes in the movie. Irfan Khan playing the narrator as well as the older Pi shows his maturity in the business, patient with the small parts he never misses his character and his narration and dialog's delivery is to die for. Adil Hussain as Pi's father is superb with his character and does contribute a hell lot. Other actors contribute evenly including the computer generated zoo animals. Real salute to the art directors of the movie for putting up such beautiful pictures on screen. Ang Lee is as always incomparable with his cinema, he has definitely reached shore with this movie and a more versatile director in my book. The older promises the character he is narrating that he will prove him that God exists, well did he or not? For that you have to wait for that amazing climax scene. This is art, storytelling and VFX at his best in a single movie. Who would want to miss that??",
+         "Let's be honest here: Life of Pi is a pretty looking movie with a rather dismal plot, and a pretentious religious subtext thrown in there for good measure. Life of Pi might not be a bad movie. Realistically it would get maybe a 4 or 5 out of 10, but seeing as there's so many positive reviews here and all of them seem to be from either fanboys of the book, or people who haven't seen very many movies at all, I figured a 1 would be best to balance things out. No doubt the film has some humorous moments that are indeed very funny, like the tiger peeing in Pi's face, Pi's \"rules\", and what not, and the film has tons of pretty visuals. A lot of the film takes place on a boat, and at times it looks like they used a real ocean to film it on. Not to mention the jellyfish scene was pretty, it was almost like James Cameron's Avatar. But... the plot is just so vapid and pretentious, it defies description. Basically, the film throws around a lot of religious references, and it takes up a good portion of the plot, but dear LORD most of the time, the religious references were as subtle as bricks in a drying machine. At times it's like the writers are smacking you across the face with a bible. And when he father asked Pi (as a child) early in the film \"how many more religions are you going to convert to?\" (or something like that), I should have taken that as an indication as how the rest of the movie would be. Oh and the many random moments which included (but weren't limited to): the strange 2:35.1 Aspect ratio change where suddenly a bunch of fish start flying out of the water into the boat (including WINGED fish that seemed like a Michael Bay wet dream), a carnivorous island full of meerkats (though to be fair, the meerkats scene was like a cuteness overdose), and humpback whale bit. Yeah. There were parts of the film I enjoyed, but it honestly was just not a very good movie. It was like eating a platter full of candy and sugary sweets. Lots to indulge in and munch down on, but you've devoured nothing of substance by the end, and you're left with a stomach ache. And throwing a religious subtext in it doesn't mean the film is good or anything... It's just pretentious. So yeah, like I said. Realistically my rating would be a 4 or 5 out of 10, but the 8.4 rating and amounts of 10/10 reviews here is just ridiculous."
+      ],
+      "genres": [
+         "Adventure",
+         "Drama",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Fox 2000 Pictures",
+         "Dune Entertainment",
+         "Ingenious Media"
+      ],
+      "summaries": [
+         "In Canada, a writer visits the Indian storyteller Pi Patel and asks him to tell his life story. Pi tells the story of his childhood in Pondicherry, India, and the origin of his nickname. One day, his father, a zoo owner, explains that the municipality is no longer supporting the zoo and he has hence decided to move to Canada, where the animals the family owns would also be sold. They board on a Japanese cargo ship with the animals and out of the blue, there is a storm, followed by a shipwrecking. Pi survives in a lifeboat with a zebra, an orangutan, a hyena and a male Bengal tiger nicknamed Richard Parker. They are adrift in the Pacific Ocean, with aggressive hyena and Richard Parker getting hungry. Pi needs to find a way to survive.",
+         "An aspiring Canadian author interviews the Indian storyteller Pi Patel to hear the firsthand account of his adventures. Pi recounts his upbringing in French-occupied India, where his father owned a zoo. When Pi's family business fails, they embark on a sea voyage to Canada to begin a new life. One night aboard their Japanese cargo ship in the middle of the ocean, a violent and deadly storm hits and sinks nearly all that Pi holds dear. He survives in a lifeboat with several of their zoo animals, including a fearsome Bengal tiger. In a struggle to survive, Pi and the tiger forge an unexpected connection that gives him daily motivation to live. Life of Pi is a tale of faith, hope, and the fight to survive.",
+         "The survival story of a boy and a tiger on a life boat at open sea. After surviving a ship wreck on his way from India to Canada with his parents, a brother and their zoo animals, the boy learns to survive by feeding the tiger with fish in order not to become the last meal of the tiger.",
+         "A writer, looking for a story idea, is visiting with South Asian-Canadian Pi Patel. They were brought together by Pi's deceased father's longtime friend Francis, who Pi calls Mamaji, who knew Pi's family when they lived in Pondicherry, India, where the writer met Mamaji. Mamaji felt Pi telling the writer his story would be karmic as the writer was a Canadian in French India, and Pi an Indian man in French Canada. Pi proceeds to tell him his life story, which starts in Pondicherry as the son of zookeepers, the zoo property where he grew up: how he was given his full name of Piscine Molitor Patel largely on Mamaji's suggestion which included Mamaji teaching him how to swim, why at age eleven he made a concerted and extraordinary effort to shorten his name to Pi, his concurrent belief in several religions as he was growing up which affected his relationships not only with humans but what he wanted it to be with the animals at the zoo, and his mid-teen burgeoning relationship with a dancer named Anandi just before his family decided to make the move to Canada. But the largest and most fascinating part of his story concerns how he ended up on a lifeboat in the middle of the Pacific with the zoo's Bengal tiger named Richard Parker, and the progression of their time and understanding of each other during that close connection, Richard Parker to who he attributes his survival despite they being initial adversaries as a human and a wild carnivorous beast.",
+         "Based on the best-selling novel by Yann Martel, is a magical adventure story centering on Pi Patel, the precocious son of a zoo keeper. Dwellers in Pondicherry, India, the family decides to move to Canada, hitching a ride on a huge freighter. After a shipwreck, Pi finds himself adrift in the Pacific Ocean on a 26-foot lifeboat with a zebra, a hyena, an orangutan and a 450-pound Bengal tiger named Richard Parker, all fighting for survival.",
+         "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger."
+      ],
+      "budget": 120000000
+   },
+   "movielensId": 97938,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français",
+         "हिन्दी",
+         "日本語",
+         "普通话",
+         "தமிழ்"
+      ],
+      "releaseDate": "2012-11-20",
+      "dvdReleaseDate": null,
+      "directors": ["Ang Lee"],
+      "runtime": 127,
+      "movieId": 97938,
+      "title": "Life of Pi",
+      "mpaa": "PG",
+      "actors": [
+         "Suraj Sharma",
+         "Irrfan Khan",
+         "Ayush Tandon",
+         "Gautam Belur",
+         "Adil Hussain",
+         "Tabu",
+         "Ayaan Khan",
+         "Mohd Abbas Khaleeli",
+         "Vibish Sivakumar",
+         "Rafe Spall",
+         "Gérard Depardieu",
+         "James Saito",
+         "Jun Naito",
+         "Andrea Di Stefano",
+         "Shravanthi Sainath",
+         "Elie Alouf",
+         "Padmini Ramachandran",
+         "T.M. Karthik",
+         "Amarendran Ramanan",
+         "Hari Mina Bala",
+         "Wang Bo-Chieh"
+      ],
+      "imdbMovieId": "0454876",
+      "originalTitle": "Life of Pi",
+      "genres": [
+         "Adventure",
+         "Drama",
+         "Action"
+      ],
+      "youtubeTrailerIds": ["j9Hjrs6WQ8M"],
+      "plotSummary": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
+      "tmdbMovieId": 87827,
+      "avgRating": 3.7026,
+      "releaseYear": "2012",
+      "numRatings": 7226,
+      "posterPath": "/sLYdcz7easaS7CmJGwQcVVYZqiF.jpg"
+   }
+}

@@ -1,0 +1,941 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "dc comics",
+            "id": 849
+         },
+         {
+            "name": "transformation",
+            "id": 4375
+         },
+         {
+            "name": "superhero",
+            "id": 9715
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "alien infection",
+            "id": 15250
+         },
+         {
+            "name": "magical object",
+            "id": 15252
+         },
+         {
+            "name": "protector",
+            "id": 15254
+         },
+         {
+            "name": "super power",
+            "id": 33637
+         },
+         {
+            "name": "origin",
+            "id": 202540
+         },
+         {
+            "name": "3d",
+            "id": 209714
+         }
+      ],
+      "imdb_id": "tt1133985",
+      "video": false,
+      "title": "Green Lantern",
+      "recommendations": [
+         1979,
+         9738,
+         20526,
+         18823,
+         57165,
+         1452,
+         38356,
+         49529,
+         40805,
+         9543,
+         14869,
+         39254,
+         1927,
+         46529,
+         8373,
+         9480,
+         1250,
+         8247,
+         44833,
+         11253
+      ],
+      "backdrop_path": "/gulyiqtyuzFRJCnvNwD6Z786kQi.jpg",
+      "revenue": 219851172,
+      "reviews": [{
+         "author": "John Chard",
+         "id": "55f54f2bc3a3686d03005b67",
+         "content": "Lean, Green, Pudding Machine.\r\n\r\nGreen Lantern does an efficient job for someone like me who was after a colourful bit of noisy entertainment. No expectation levels are set other than to not be insulted, so by and large this does a job. This falls more in line with a comic book adaptation that has no desire to set up a broody and conflicted hero, no hidden agendas or metaphors in the villain ranks, so yes! It's got a little campy flavouring to it. Which is fine if that is what you ordered.\r\n\r\nThe effects work is very effective, though the sequences involving one of the villains, Parallax, are hindered by it being quite simply a very silly looking being. The story has some credible complexities about it, but the writers strain to keep it simple enough for a younger audience - which is both a blessing and a curse since it becomes uneven and corny whilst still retaining a watchable fun factor. The acting is only fine, but again this is because the script is never sure when to give emotional heft to the characters, or when to add some dramatic vulnerability.\r\n\r\nIt's a safe superhero film, a creamy desert to satisfy the sweet palate, maybe one that is flavoured with Chartreuse? In other words it fills a gap for a while and is then quickly vanished from the memory. 6/10\r\n\r\nFootnote: extended cut recommended as a preference since it puts more flesh on the human bones.",
+         "url": "https://www.themoviedb.org/review/55f54f2bc3a3686d03005b67"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Hal Jordan / Green Lantern",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109e9d",
+               "name": "Ryan Reynolds",
+               "profile_path": "/h1co81QaT2nJA41Sb7eZwmWl1L2.jpg",
+               "id": 10859,
+               "order": 0
+            },
+            {
+               "cast_id": 7,
+               "character": "Carol Ferris",
+               "gender": 1,
+               "credit_id": "52fe46a3c3a36847f8109ea1",
+               "name": "Blake Lively",
+               "profile_path": "/3ac8khocFw9Hc87vuNW9RvVq4yc.jpg",
+               "id": 59175,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Hector Hammond",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109ea5",
+               "name": "Peter Sarsgaard",
+               "profile_path": "/dGoUlDEJumPY0CFlT7eM6KVdLUu.jpg",
+               "id": 133,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Senator Hammond",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109ea9",
+               "name": "Tim Robbins",
+               "profile_path": "/7pirFsBQe93TSfzu404Hgcj1YWj.jpg",
+               "id": 504,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Sinestro",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109ead",
+               "name": "Mark Strong",
+               "profile_path": "/svq7VWJqKN4Fq8ZJK1Yd8W711rn.jpg",
+               "id": 2983,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Abin Sur",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109eb1",
+               "name": "Temuera Morrison",
+               "profile_path": "/1ckHDFgKXJ8pazmvLCW7DeOKqA0.jpg",
+               "id": 7242,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Carol Ferris at 11",
+               "gender": 1,
+               "credit_id": "52fe46a3c3a36847f8109eb5",
+               "name": "Jenna Craig",
+               "profile_path": "/9420cGmShU7q6uOdsNJEs3owuy.jpg",
+               "id": 109942,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Martin Jordan",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109eb9",
+               "name": "Jon Tenney",
+               "profile_path": "/fiG1bW6DX1szsRDPIYjfIKPQ0kV.jpg",
+               "id": 4602,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Jack Jordan",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109ebd",
+               "name": "Mike Doyle",
+               "profile_path": "/bO1QCPRvbKu8ZxlbQDgjlncWcCn.jpg",
+               "id": 27107,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Jim Jordan",
+               "gender": 0,
+               "credit_id": "52fe46a3c3a36847f8109ec1",
+               "name": "NicK Jandl",
+               "profile_path": "/oVvs1izMeaJz6s0kkRf15oPdPtP.jpg",
+               "id": 147719,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Jason Jordan",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109ec5",
+               "name": "Dylan James",
+               "profile_path": "/i12Jt9fRrEBveRw4PYLu7v5v2ZQ.jpg",
+               "id": 147720,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Janice Jordan",
+               "gender": 1,
+               "credit_id": "52fe46a3c3a36847f8109ec9",
+               "name": "Leanne Cochran",
+               "profile_path": "/1KufAW7u77KHnei4eSzg6cXbgy8.jpg",
+               "id": 60887,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Dr. Amanda Walker",
+               "gender": 1,
+               "credit_id": "52fe46a3c3a36847f8109ed9",
+               "name": "Angela Bassett",
+               "profile_path": "/tHkgSzhEuJKp5hqp0DZLad8HNZ9.jpg",
+               "id": 9780,
+               "order": 12
+            },
+            {
+               "cast_id": 31,
+               "character": "Tom Kalmaku",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109f19",
+               "name": "Taika Waititi",
+               "profile_path": "/8JBRfEb6mz7GdLwpoKDUOG6B5gy.jpg",
+               "id": 55934,
+               "order": 13
+            },
+            {
+               "cast_id": 32,
+               "character": "Kilowog (voice)",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109f1d",
+               "name": "Michael Clarke Duncan",
+               "profile_path": "/A0fXStrmFubDRFS8UeRW7xvcf6S.jpg",
+               "id": 61981,
+               "order": 14
+            },
+            {
+               "cast_id": 33,
+               "character": "Tomar-Re (voice)",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109f21",
+               "name": "Geoffrey Rush",
+               "profile_path": "/5h91WHSK80YtqTk1bMiar2IZzO2.jpg",
+               "id": 118,
+               "order": 15
+            },
+            {
+               "cast_id": 34,
+               "character": "Parallax (voice)",
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109f25",
+               "name": "Clancy Brown",
+               "profile_path": "/xBVifBW0riMSbedEQ27hObjPqVw.jpg",
+               "id": 6574,
+               "order": 16
+            },
+            {
+               "cast_id": 38,
+               "character": "Four Star General Caven",
+               "gender": 0,
+               "credit_id": "54e8796ec3a3684ea6001187",
+               "name": "Deke Anderson",
+               "profile_path": "/cRQAksi2LKMj6EvEySjDDtWSj19.jpg",
+               "id": 1195675,
+               "order": 17
+            },
+            {
+               "cast_id": 70,
+               "character": "Young Hal",
+               "gender": 2,
+               "credit_id": "5627432f92514137bb0017f1",
+               "name": "Gattlin Griffith",
+               "profile_path": "/mGrBIqw8invKPFfOf5G05V0cdKs.jpg",
+               "id": 117885,
+               "order": 18
+            },
+            {
+               "cast_id": 71,
+               "character": "Mom",
+               "gender": 0,
+               "credit_id": "56a7d4999251413c29001c1e",
+               "name": "Tiffany Morgan",
+               "profile_path": "/qYe3S0zDcMu4Szk2YVONyLk3hwR.jpg",
+               "id": 223027,
+               "order": 19
+            },
+            {
+               "cast_id": 72,
+               "character": "Jessica Jordan",
+               "gender": 1,
+               "credit_id": "56a7d4c59251413c22001d39",
+               "name": "Amy Carlson",
+               "profile_path": "/7eADbK4RSna5D94Oap7xAl7nT7A.jpg",
+               "id": 81321,
+               "order": 20
+            },
+            {
+               "cast_id": 73,
+               "character": "Party Guest #1",
+               "gender": 1,
+               "credit_id": "56a7d56b9251413c34001bfb",
+               "name": "Laura Cayouette",
+               "profile_path": "/l12w7F4ouOPctma3Wvls0FYHXDs.jpg",
+               "id": 565498,
+               "order": 21
+            },
+            {
+               "cast_id": 74,
+               "character": "Tomar-Re (uncredited)",
+               "gender": 2,
+               "credit_id": "56e59cd8c3a36807b20008a8",
+               "name": "Dorian Kingi",
+               "profile_path": "/7ToA4SXygZmWZRQ1z1V1XKODlMK.jpg",
+               "id": 62735,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109e99",
+               "name": "Martin Campbell",
+               "profile_path": "/qhx0AySf8yH3kiHrinWknUJbr1y.jpg",
+               "id": 10702,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109ecf",
+               "name": "Greg Berlanti",
+               "profile_path": "/AbocIYSo4KXx7nT6lz2dj3qMD8H.jpg",
+               "id": 88967,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109ed5",
+               "name": "Michael Goldenberg",
+               "profile_path": "/qU4WTFJN8z7w3VYYDbl9EH3ifNn.jpg",
+               "id": 10296,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109edf",
+               "name": "James Newton Howard",
+               "profile_path": "/5UTEMYS7rydwe7ooOmj2dLRFuu2.jpg",
+               "id": 1213,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe46a3c3a36847f8109ee5",
+               "name": "Heidi Brook Myers",
+               "profile_path": "/698UIdhsOHOublJTXY4LuF8PiAm.jpg",
+               "id": 229345,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109eeb",
+               "name": "Greg Berlanti",
+               "profile_path": "/AbocIYSo4KXx7nT6lz2dj3qMD8H.jpg",
+               "id": 88967,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109ef1",
+               "name": "Donald De Line",
+               "profile_path": null,
+               "id": 58470,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109ef7",
+               "name": "Herb Gains",
+               "profile_path": null,
+               "id": 62739,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109efd",
+               "name": "Andrew Haas",
+               "profile_path": null,
+               "id": 66567,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109f03",
+               "name": "Geoff Johns",
+               "profile_path": "/xkaRZu1o1NILQ4PcRXqnjOrJ0Y0.jpg",
+               "id": 211962,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109f09",
+               "name": "Dion Beebe",
+               "profile_path": "/q24Jkyu8VclqhdYhPpti7fXoSkS.jpg",
+               "id": 647,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe46a3c3a36847f8109f0f",
+               "name": "Pam Dixon",
+               "profile_path": null,
+               "id": 18457,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109f15",
+               "name": "Grant Major",
+               "profile_path": null,
+               "id": 1314,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109f2b",
+               "name": "Marc Guggenheim",
+               "profile_path": "/1nCTlHZ37IjpUlJbQv68iizYdX5.jpg",
+               "id": 171830,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46a3c3a36847f8109f31",
+               "name": "Michael Green",
+               "profile_path": "/oXmMv1vlJf2G9xWwCXBPrRY50EV.jpg",
+               "id": 191937,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53381bb49251417da40029d7",
+               "name": "Ngila Dickson",
+               "profile_path": null,
+               "id": 1322,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55422ae1c3a3681d98003de5",
+               "name": "Hugo Dominguez",
+               "profile_path": null,
+               "id": 1447543,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55467ea3c3a36856e500455b",
+               "name": "Joel Foster",
+               "profile_path": null,
+               "id": 1453022,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548dba9c3a3687877002430",
+               "name": "Jessica Wolff",
+               "profile_path": null,
+               "id": 1463183,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5549141b92514104c0000212",
+               "name": "Aaron Williams",
+               "profile_path": null,
+               "id": 1463182,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55495404c3a36841bf000829",
+               "name": "Andrew Malesky",
+               "profile_path": null,
+               "id": 1459752,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "554f41a09251414a49000436",
+               "name": "Andrew L. Jones",
+               "profile_path": null,
+               "id": 1271756,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f41b4925141402a006cc5",
+               "name": "Iain McFadyen",
+               "profile_path": null,
+               "id": 1465618,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "554f41c6c3a368225400389b",
+               "name": "Scott Plauche",
+               "profile_path": null,
+               "id": 960282,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "554f41dac3a3687f63001301",
+               "name": "Anne Kuljian",
+               "profile_path": null,
+               "id": 8706,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f423fc3a36818700043da",
+               "name": "Cathrine A. Marcotte",
+               "profile_path": null,
+               "id": 1428584,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f425cc3a36822540038ad",
+               "name": "Dee Leveque",
+               "profile_path": null,
+               "id": 1465622,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f427fc3a36879530017ee",
+               "name": "Kelvin R. Trahan",
+               "profile_path": null,
+               "id": 1428582,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f42da9251413fbc000bff",
+               "name": "Rod Ortega",
+               "profile_path": null,
+               "id": 1465623,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f42f8c3a3687b7d00165d",
+               "name": "Felicity Bowring",
+               "profile_path": null,
+               "id": 1319843,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f431d92514162f20011d9",
+               "name": "Heather Mages",
+               "profile_path": null,
+               "id": 1432033,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f4336c3a3687953001808",
+               "name": "Elaine L. Offers",
+               "profile_path": null,
+               "id": 1415333,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f435bc3a36822540038d3",
+               "name": "Natasha Ladek",
+               "profile_path": null,
+               "id": 1409824,
+               "department": "Costume & Make-Up",
+               "job": "Wigmaker"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f43709251416984003f53",
+               "name": "Khanh Trance",
+               "profile_path": null,
+               "id": 1465624,
+               "department": "Costume & Make-Up",
+               "job": "Wigmaker"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f438c9251413fcf006960",
+               "name": "Heather Elwell",
+               "profile_path": null,
+               "id": 1414993,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "554f43acc3a368259400672a",
+               "name": "Elizabeth Hershberger Gray",
+               "profile_path": null,
+               "id": 1465625,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f43d9c3a36822540038e3",
+               "name": "Chere Theriot",
+               "profile_path": null,
+               "id": 1337643,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f441292514110bd001c11",
+               "name": "Robert Fechtman",
+               "profile_path": null,
+               "id": 8281,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "554f4443c3a3681950004413",
+               "name": "Rosa Palomo",
+               "profile_path": null,
+               "id": 983446,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554f44a19251414a49000485",
+               "name": "Anna Rane",
+               "profile_path": null,
+               "id": 1345635,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "554f44c9925141402a006d34",
+               "name": "Pam Fuller",
+               "profile_path": null,
+               "id": 1406137,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554fd2f292514162f20024e1",
+               "name": "John Hoskins",
+               "profile_path": null,
+               "id": 1389131,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554fd3ae9251413fbc001efe",
+               "name": "Ed Natividad",
+               "profile_path": null,
+               "id": 575766,
+               "department": "Art",
+               "job": "Conceptual Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554fd3dcc3a3687b7d0029b9",
+               "name": "Jeff Julian",
+               "profile_path": null,
+               "id": 1357052,
+               "department": "Art",
+               "job": "Conceptual Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554fd47fc3a368522100080c",
+               "name": "Andrew Petrotta",
+               "profile_path": null,
+               "id": 1335066,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570b90049251413a0e0007f3",
+               "name": "François Audouy",
+               "profile_path": null,
+               "id": 39923,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57d2da14c3a3684291000b0d",
+               "name": "Scheryl W Brown",
+               "profile_path": "/Aqxl93JmTMqhxVmo7q3QTyxRxkG.jpg",
+               "id": 1676849,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a13de0cc3a3684f0e002702",
+               "name": "Wayne Dalglish",
+               "profile_path": "/qPD5xOssHAEis6u7XgMj0X7pdOX.jpg",
+               "id": 1226495,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa54c350e0a26074d0220d6",
+               "name": "Rick Newsome",
+               "profile_path": null,
+               "id": 1996002,
+               "department": "Art",
+               "job": "Storyboard Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 22.051231,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 44912,
+      "vote_count": 3114,
+      "budget": 200000000,
+      "overview": "For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.",
+      "similar": [
+         1452,
+         1924,
+         49521,
+         8536,
+         9531,
+         13640,
+         155,
+         1927,
+         9738,
+         1979,
+         141052,
+         209112,
+         297762,
+         30061,
+         287947,
+         251519,
+         14011,
+         65291,
+         11411,
+         263115
+      ],
+      "original_title": "Green Lantern",
+      "runtime": 114,
+      "poster_path": "/zUSEYp9G7Hk9GZIfbPoOiSHvwHV.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "id": 9993,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "De Line Pictures",
+            "id": 2609,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2011-06-16",
+      "vote_average": 5.1,
+      "belongs_to_collection": null,
+      "tagline": "In our darkest hour, there will be light.",
+      "adult": false,
+      "homepage": "http://greenlanternmovie.warnerbros.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Martin Campbell"],
+      "runtime": 114,
+      "synopsis": "Millions of years before the Earth was formed, a group of beings called the Guardians of the Universe used the green essence of willpower to create an intergalactic police force called the Green Lantern Corps. They split the universe into 3,600 sectors, with one Green Lantern per sector. One such Green Lantern, Abin Sur (Temuera Morrison) of Sector 2814, defeated the fear-essence being Parallax (voiced by Clancy Brown) and imprisoned him in the Lost Sector on the ruined planet Ryut. However, in the present day, Parallax escapes from his prison. Six months later, after killing four Green Lanterns and destroying two planets, Parallax attacks Sector 2814 and mortally wounds Abin Sur, who escapes and crash-lands on Earth. The dying Abin Sur commands his ring to find a worthy successor on the planet. Ferris Aircraft test pilot Hal Jordan (Ryan Reynolds) is chosen by the ring and transported to the crash site, where Abin Sur appoints him a Green Lantern, by telling him to take the lantern and speak the oath. At home he says the oath of the Green Lanterns while under trance from the glow of the lantern. After he's attacked while leaving a bar Jordan swings to punch one of his attackers, letting out a huge fist of green energy. Afterward, Jordan is whisked away to the Green Lantern Corps home planet of Oa, where he meets and trains with Tomar-Re (voiced by Geoffrey Rush) and Kilowog (voiced by Michael Clarke Duncan). He encounters Corps leader Sinestro (Mark Strong), who is not pleased that a human which is primitive compared to other species has become a Green Lantern. With Sinestro seeing him as unfit and fearful, Jordan quits and returns to Earth, keeping the power ring and lantern. Meanwhile, after being summoned by his father Senator Robert Hammond (Tim Robbins) to a secret government facility, scientist Hector Hammond (Peter Sarsgaard) performs an autopsy on Abin Sur's body. A piece of Parallax inside the corpse inserts itself inside Hammond, mutating the scientist and giving him telepathy and telekinetic powers, at the cost of his sanity. After discovering that he was only chosen due to his father's influence, Hammond resentfully attempts to kill his father by telekinetically sabotaging his helicopter at a party. However, Jordan uses his ring to save the senator and the party guests, including his childhood sweetheart, Ferris manager and fellow test pilot Carol Ferris (Blake Lively), who later recognizes Jordan under the suit and mask. Shortly afterward, Jordan encounters Hammond, who succeeds in his second attempt to kill his father by burning him alive. Both Jordan and Hammond realize Parallax is on his way to Earth. Back on Oa, the Guardians tell Sinestro that Parallax was once one of their own, until he desired to control the yellow essence of fear, only to become the embodiment of fear itself. Believing the only means to fight fear is by fear itself, Sinestro requests for the Guardians to forge a ring of the same yellow power, preparing to concede Earth's destruction to Parallax in order to protect Oa. However, Jordan appears and tells Sinestro not to use the yellow ring and for the Corps to help him protect his planet from Parallax's imminent invasion. They deny his request, but allow Jordan to return and protect his home planet. Upon returning to Earth, Jordan saves Ferris from being injected with Parallax's essence by Hammond. Parallax then arrives, consuming Hector's life force for failing to kill Jordan, and then wreaking havoc on Coast City. Jordan lures Parallax away from Earth and toward the Sun, using the Sun's gravity to pull and disintegrate the entity. He loses consciousness after the battle, but is saved by Sinestro, Kilowog, and Tomar-Re. Later the entire Green Lantern Corps congratulates him for his bravery. Sinestro tells Jordan he now bears the responsibility of protecting his sector as a Green Lantern. Sometime later when he is alone, Sinestro, still in possession of the yellow ring, places it on his finger, causing his green suit to change to yellow along with his eyes.",
+      "writers": [
+         "Greg Berlanti",
+         "Michael Green"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1133985/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTMyMTg3OTM5Ml5BMl5BanBnXkFtZTcwNzczMjEyNQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Ryan Reynolds, Blake Lively, Peter Sarsgaard | See full cast and crew »"],
+      "reviews": [
+         "Now let me begin by saying this film is not an amazing film. It is definitely not an awful film, like most critics are saying. I think critics might have raised their expectations due to Thor and X-Men: First Class. They should not compare the Green Lantern with those films. It is ranked now 24% on Rotten Tomatoes, which is way too low. It would probably be in the high 60s, if it was released before Thor and X-Men: First Class. The acting in the film is good and not terrible at all. Ryan Reynolds is great as Hal Jordan and extremely likable. He definitely fits the role as Hal Jordan really well. Blake Lively is great and extremely sexy, she's not just a pretty face as most are suggesting. Peter Sarsgaard is a great actor and he plays the villainous Hector Hemmond really well and interesting. Overall everyone tries their best and at the end of the day do a really great job, certainly no Oscar worthy performances, though. The special effects are pretty superb and extremely worthwhile to say the least. Although it sometimes feel a little CGIish, but it doesn't get too big of a distraction. I have to say I was a little disappointed how Parallax looked like, it felt a little fake at times, but it is not horrible in any sense of the way. Also the film did not take itself seriously which is kind of refreshing. Which could be the reason why critics disliked it so much. They want another sad, personal and serious story. Unlike Thor and X-Men, The Green Lantern is more kids friendly. The main problem of the film was that they were trying to cram stuff in from the comics and the personal lives of the other characters. It seems that there could be so many sequels for the other characters. It did kind of focus on too many characters. Also the editing gets to be a little distracting at times, they certainly needed to have done a better job, but the editing is mediocre at best. Overall the Green Lantern was a fun summer flick. Although it is nowhere near the realm of The Dark Knight, it didn't need to be. The 3D was actually really good and the special effects were memorable. No doubt, the critics were extremely tough on the Green Lantern and it is unfair. At the end of the day, don't listen to the critics. Make up your mind and see this film. At the end of the day, it should be only your opinion that matters to you. You might agree with the critics or you might not. However don't skip this movie because of the low Rotten Tomatoes score.",
+         "I just have to do it, I just have to correct all the haters out there... No summary, no spoilers, just points on what makes a movie. Storyline: 8/10 Was it award winning? No, but what super hero movie is? The becoming a Green Lantern of Hal Jordan follows the original comics perfectly. If you know the comics, you know the beginning. If you never read them, then you learn a lot real fast. The story introduces only characters necessary to the plot and nothing more. Hal, Carol, Senestro, Parallax, the Guardians, Abin Sur, Tomar-Re, and Kilowog. They easily could have introduced way too many guardians, way too fast, but they didn't. Parallax's origins are changed a little but it works out for the better, remember not everything that works in a book works on screen. All in all, storyline was good, it kept a good pace. Always remember it is an origins story so the 2 hours isn't completely filled with action but neither Casee nor I got bored. Acting: 8/10 No Ryan R. did not screw up Hal Jordan. Alright, I'll admit Hal may not be as witty as Ryan played him but Hal was sure as hell a smart ace in the comics. I thought it fit. I went in thinking, \"This is going to be great, or really going to suck.\" Luckily, casting was very well done. Carol: Blake did a fine job. I do agree with another review that said they wished someone a little more intellectual/mature would play Carol, but in the long scheme of things, Blake didn't get a terrible amount of screen time to prove herself. Maybe as Star Sapphire she may pull out. Lantern Corp: Sinestro 10/10 Tomar-Re: 10/10 Kilowog: 10/10 Abin Sur: 10/10 I can't say much else besides that these characters lived up to the comics perfectly. I loved them all. Graphics/CGI: 8/10 Why 8? Eh, there were a few, just a few I tell you, parts where the graphics pulled the cartoon look of Spiderman 3. PLEASE! don't be afraid by this, all in all the graphics were awesome. Oa was beautiful, just a couple notches below Asgard in Thor. Green Lantern Ring effects were great, all around solid. Costumes/sets: 9/10 First, short and sweet. Live action sets: average. Skylines just like any other city, Ferris Airforce Base: good enough. Nothing spectacular but it wasn't the center of the movie. Costumes: STOP HATING ON THE CGI COSTUMES!!!!!!! Even the the comics the suits were made from energy and that is what the movie did. A powerful ring of willpower isn't going to POOF put anyone in spandex or rubber armor. The mask appears when the identity of a Lantern needs to be protected and eye color changes as well. PERFECT to me. Length: 7/10 Although, as I said before there were a few slow parts, I would have liked to see the movie for a few minutes longer. Towards the end, yes, a little rushed but it didn't ruin the whole movie. 10-15 minutes longer to put it just at the 2 hour mark would have been perfect for an origins story to me. Took off a couple points here. Overall: 8/10 By all means it is not as bad as Catwoman or Daredevil as some are writing. Those who make that comment are probably the ones who think Transformers is somehow an epic movie. Anyways, it is a good solid super hero movie. Maybe, not one of the greats like Batman Begins, Dark Knight, and Thor, but still a great movie that wouldn't be bad to take the mature enough younger kids. Parallax is a little scary and there are a few curse words, but by all means, this is not a racy film. Remember: Stay after the credits...",
+         "A decent comic book adaptation of the DC comic book character Green Lantern. It's certainly not as bad as some critics have made it out to be. It's fun, the action sequences are flashy and exciting. The acting is all top notch and the humor is done really well. Green Lantern is unpretentious, probably even one of the most unpretentious superhero movies ever made. It embraces its inherent goofiness and excludes much of the angst and over-seriousness that we seen in other comic book movies like Batman and Spiderman. The after-credits scene is awesome. A real fan pleaser and hopefully they will make a sequel.",
+         "As someone who's followed Green Lantern a little bit of a decent amount (not big but fairly decent, for DC character), I liked some things about the movie; but I definitely say that it could have been made better, both for casual fans, non-GL fans or hard core ones. Good points... 1. It stuck fairly consistently with the mythos of the origin and Planet OA; 2. Ryan Reynolds did decently as Hal Jordan (though he fits more with the Kyle Rayner/Guy Gardner type than Jordan) -- but I wish he was more serious; though non-GL fans couldn't care less about this; 3. Blake Lively was eye candy; super hot, but not much else; 4. Green Lanterns Tomar Re, Kilowog and Abin Sur were damn good but didn't have enough screen time to be significant; 5. Mark Strong's Sinestro was excellent! 6. Hector Hammond was well portrayed by Peter Saarsgard (though it lacked a proper finish) 7. Good supporting cast from Tim Robbins (Sen. Hammond) to Angela Bassett (Amanda Waller); 8. Green Lantern's costume was wicked; 9. Visual/CGI effects were pretty good Bad Points... > It tried to fit too much into one movie, moving back and forth from Earth and outer space/OA, thus there was no proper flow... (like when there was a build up of momentum, things go slow or boring; or from serious to funny without proper pacing); too many stories were crammed into one movie > Humor was misplaced at times (good peg is Thor which had it in the flow rather than contrived/forced) > Parallax looked comical; scary at times but only a couple of times > Like Iron Man 2, I wish the fight scenes were so much more; they spent too much on the set-up that the fights were short and could have been so much more and elaborate. > Some scenes and even some characters were not necessary (Hal's best friend, even some scenes with Blake's Carol Ferris were not needed); they should have added more action instead Summary, visual effects, actors, GL base story good. But the way the writers and director put things together were a mixture of various plots and subplots crazy glued into one movie for pure entertainment. Kids will enjoy it, but adults likely will not. This is a summer of superheroes, with 3 down and one more to go (well, technically 5 with Transformers if you're thinking comic book stories), so it's quite impossible not to compare them to each other. The director is known to direct good flicks like Goldeneye and Casino Royale (two good movies), but I wish he did more; studied more, had split up more stories to be more single- minded and not work on a cluttered material.",
+         "For a comic book movie, Green Lantern had the potential to be great. If the writers of the movie even watched the animated movie First Flight, they would've been able to come up with a better script than what they did. I think the cast did the best that they could with the corny lines and terrible writing. Ryan Reynolds was believable as Hal Jordan, Blake Lively was exceptional in her role (which primarily involved looking pretty which she is good at) and Mark Strong as Sinestro was flawless. Though I thoroughly disliked what the writers did to this movie, I do hope the GL series isn't written off. There is still enough in the story of Green Lantern for a sequel, but for the love of Oa the old script writers need to go and a brand new team needs to bring something to the table. Mark Strong is an acting powerhouse and as we have seen in the Dark Knight, it is the villain and not the hero that makes an exceptional comic book movie! Sinestro has to do for GL what the Joker did for Batman! Thats my 2 cents",
+         "We are getting decent and compelling superhero movies these days, which is a great thing that happened to the genre. Now \"Green Lantern\" is one of those films that also needs to be powerful, but it ends up being a generic cheesy cinema. \"Green Lantern\" is not perfectly horrible or the worst superhero movie ever but it's just too much exposition and a whole lot of green cheese. \"Green Lantern\" has a great concept. Just like the other superhero films, the storytelling also needs to be compelling. Unfortunately, the film gets lazy to tell the story so they just threw a lot of narration and even the ones that are not quite necessary to narrate. The action is not very amazing. it's just showing us how eye-candy the effects are. At least the movie is loyal to its corniness. Hal Jordan's wacky imagination and the aliens' zany looking faces. The CGI is pretty. The performances were entertaining enough. Ryan Reynolds is doing his same old thing. Mark Strong didn't appear so much (which is disappointing) but still he's awesome. It's disappointing because they're making the interesting villains into uninteresting. Example, Parallax should be terrifying and menacing. Instead he's a scrambled egg who eats fear. Not really terrifying nor menacing. Peter Sarsgaard's mad scientist performance was pretty good but the only thing he did in this film is crying in agony and use his telekinesis powers in a lame way. \"Green Lantern\" just wanted to show its beautiful visuals. It's not a very bad thing but the filmmakers doesn't take its storytelling so seriously. It can be entertaining for some reason but it can also be forgettable. It's good to see it in the big screen for the visuals but you don't want to see it again after that. This might be the weakest superhero movie of the year. Even \"The Green Hornet\" is better than this. \"Thor\" might be the best superhero film of 2011 so far in my opinion because even though the action isn't great, at least there is a compelling storytelling. The sad thing is, both the action and the storytelling are not compelling in \"Green Lantern\". 3D? Very dark!",
+         "I went to see Green Lantern because a friend of mine was boycotting DC for such a long time because there has been no release of a Green Lantern movie. Sure, there were plenty reincarnations of Batman and Superman, but where's Green Lantern? Someone out there listened to his plea, and the result is this..... A mess. I will go on record to say that it's at least enjoyable. Even though the movie seems to be everywhere in its storytelling, with characters being underdeveloped and random things just happening. I would say that during this movie, I had a hard time finding a bathroom break. I was at least interested to see where the movie is going. Let me try to explain this movie: There is this elite group of Green Lanterns led by Sinestro (well played by Mark Strong) who are having a hard time beating this giant alien in the Milky Way called The Parallax. So when their alien friend who's name I cannot remember falls to earth and dies, his ring is sent out to choose a new victim, and somehow it chooses Ryan Reynolds. Mr. Reynolds discovers that he has a new ability, and that he is the earth's only hope, but he can't handle that until the end of the movie. Not only that, but some doctor guy turns into an evil alien which, I guess, is controlled by Parallax, and Ryan has to stop him too. I must say that I was intrigued by the doctor subplot where he is not accepted by his father (Tim Robbins) and slowly goes insane until he turns into John Travolta from Battlefield: Earth. I also liked seeing Ryan Reynolds in the movie because he brings energy to what could otherwise be a boring movie, and I was enjoying both stories that were coming along. The problem is that the whole movie felt disjointed, and not only did scenes felt random, but events turn random too. Like the scene where Reynolds is chosen by the ring. It just happens out of nowhere. One minute he's talking to this kid (which never served much purpose to the film) and then all of a sudden he's walking and gets carried away in green light to that dying alien dude. This happened in more than one occasion. Also the CGI was all over the place, even on Reynold's outfit, and it's rather distracting. It's very vibrant and colorful (which is good), but it looked very cartoonish and took me out of the film. I also mentioned that the characters are underdeveloped, which goes a lot to Sinestro and that Parallax thing they are trying to fight. Heck, even the love interest felt underdeveloped. By the end of the film, I felt like I barely knew the characters, with just a likable performance by Ryan Reynolds. However, Green Lantern isn't boring, just purely average. I think the reason why I sort of liked this film was that I went into it not expecting much. I already had groups of people telling me that this film is awful before its release, so I ended up getting a little more than I expected. Just a little. It was still entertaining, to say the least.",
+         "Back in 1977 when George Lucas told a story in the frame of Joseph Campbells Heroes Journey, it was unique. When Sam Raimi told a super hero story with the same structure in 2002, there was still plenty it added a new filter. And, when Jon Favreau did it again in 2008, he added enough unique touches to the tale to reinvigorate what was becoming a tired formula. The writers of Green Lantern felt it was enough to skim cliffnotes of Campbell and write the film based on their notes of the reading and half remembered recollections of reading comic books when they were 12. There is nothing new in this film. A man is given a magic ring which takes him out of the world of the ordinary and makes him a hero. We don't grow to care about him because he doesn't grow or change... he simply goes through the motions because the script tells him to. Ryan Reynolds tries his best with a weak and contrived script, but he still comes off too snarky to be the overconfident jet pilot he's supposed to be. It's not all his fault, as the script is much more content to tell us what the cast is feeling or thinking instead of letting the actors convey it through their actions, inflections or looks. It is as if the writers had no faith in their cast or direction, let alone their audience, and dumbed the entire affair down below even the cartoon portrayals of the character. The visuals are nice, but never have weight, leading to the effect that Ryan Reynolds head if occasionally floating through a video game. It's sad to think it's been six years since Gollum, and this is the best Warner Brothers can offer us in a tent pole film. It's also a shame to think this is the best they could do with only 37 million dollars less than Avatar. Again, it just shows that the production staff was lazy, never pushing it to look better, and instead setting for the \"they'll think it looks cool\" effect. We should demand better from comic book films. After having Dark Knight and Iron Man in a single year, we should not be subjected to subpar outings like this. Fun is one thing, mind numbingly dumb and lazy is another. Skip this in the theater. Wait for it to come to NetFlix and then forget to put it in your cue. You'll thank me.",
+         "I'm comic book fan who's read Green Lantern since the late 80's and was privileged to see this movie early with a friend, who is a non-comic book fan in general. So what you're getting in this review are 2 fan perspectives: STORY: The story was told very simple. Those familiar with the comic, it follows very closely to the Secret Origins (2008) arc written by Geoff Johns, more so than the original Hal Jordan story back in the Silver Age revival. The film is 90% story setup and 10% action sprinkled throughout the film, most of them at the end with a short and uninspired final battle (a gripe similar to Fantastic Four film in 2005). This film could've used a LOT more action; most of it already revealed from the trailers, believe it or not. The pacing felt unbalanced. My friend thought the movie tried to fit in a lot of plots and stories like Spider-Man 3 did with the transition from earth to space, back to earth, back to space, back to earth... a little foreboding when the better space scenes were few and far between. There's a post credit scene too. SPECIAL EFFECTS: This film is very heavy in that department. It's a hit or miss. It works, but some may think it's a little silly. A gripe we had was that the CGI on some of the movements of the characters were so outdated like almost 10 years aka Spider-Man (2002). You would think after all these years we could see better CGI animation especially when it transitions from live action Hal Jordan to CGI Hal Jordan. Also, Hal Jordan's constructs in this movie were a little too \"cartoony\". He basically created everything from a flamethrower, gatling gun, artillery gun, a SWAT shield, catapult, jetplanes, and even a cadillac dragster complete with it's own green speedway to drive on to! For a live action movie, just felt a little over the top silly. Not even the Justice League TV animated series, John Stewart, ever made these kinds of constructs. Also, my buddy made a point in that the power of the ring was too godlike for non-comic book fans to grasp - the \"McGyver of rings\". Once Hal Jordan completed his short training (yes, short), you knew he was just going to be unstoppable. No problem with comic fans, but it might be a little bit of a turn-off to the casual viewer since it made the villain look pale in comparison, especially in the anti-climactic final battle, which the trailers actually gave a hint to on how it would end. I mean, how else would you kill off space tentacles? ACTING: Mark Strong definitely was the best cast of the film. He played the cool and calculated Sinestro better than I'd imagine. Although they were not really \"buddies\" in the comics, a missed opportunity I thought was that it would've been better if they had played more on the relationship between Hal Jordan and Sinestro as something a bit more than just mentor to student, in order to build up a stronger emotional bond when the \"inevitable\" heel turn happens to strengthen a sequel, i.e. think of Peter Parker and Norman Osborne. Yes, every 9 year old kid can point that out Senestro will be evil just based on the name. Peter Sarsgaard who plays Hector Hammond was average; nothing really memorable in terms of acting. Another missed opportunity I believe was the fact they could've played more of the \"Norman Osborne / Spider-Man as Peter Parker identity\" relationship on this one too; will not spoil the film so I'll leave it at that. Blake Lively played the typical bossy childhood girl (friend) who plays hard to get, but changes her heart once the hero saves the day. One of my least favorite characters in the film actually, with some of the most corniest lines. The romance almost felt like it was just there to give the film a romance plot that really could've been done without. Don't expect anything too deep like Peter Parker & Mary Jane chemistry-wise, or even that of Thor & Jane Foster. Ryan Reynolds was a mixed bag. My buddy thought he was \"okay\" as Hal Jordan (not knowing anything about the comics), while I thought some of the inner monologue jokes from him were more appropriate coming from Guy Gardner (another Green Lantern) or even Wally West the Flash. Actually, most of it was simply Ryan Reynolds just being Ryan Reynolds (see Van Wilder) and made me wonder how much ad-lib he had in the script? Overall I wasn't impressed, but not disappointed either. But unlike what Christopher Reeve brought to the big screen as Clark Kent/Superman, or what Hugh Jackman brought as Wolverine, Robert Downey Jr as Tony Stark, and even Chris Hemsworth as Thor... Ryan Reynolds didn't quite bring it as real comic book fans would know Hal Jordan. SUMMARY: All in all this movie was a decent summer movie. The pacing was off, and you don't really have any emotional pull for the characters. The final battle ends before you knew it even started. It's not as good as this year's other comic book predecessors in X-Men 1st Class, and Thor. Don't come expecting deep character developments or you may be disappointed, as the movie doesn't take itself way too seriously as it should. For a 105 minute movie, the best parts were near the end in the last 15 mins of the film. The real winners in the audience are definitely the kids, because it is a good kid's movie. Green Lantern may not be the best summer movie of this year, but this movie may brighten your day. RATING: 6/10",
+         "They say that if you've seen one superhero movie, you've seen them all. That's not entirely true, but if every superhero movie were like Green Lantern, then it would be true. Green Lantern is your typical superhero movie, so if you've seen quite a few superhero movies (like I have), you'll know what's ahead. This is the problem with Green Lantern, it's too predictable and does nothing new to make it stand out from the crowd. That's not necessarily a bad thing though, but it's not a good thing either. There are 3 good things in this movie. One, Peter Sarsgaard as Hector Hammond is delightfully hammy and fun to watch. Two, the SFX are cool and what they do with the Green Lantern ring is also cool, and Parallax's design suits its evilness. Third, the fight between Hal and Parallax is the best scene in the movie. Other than those things, it's average. If you've never seen a superhero movie and/or are a Green Lantern fan, this movie is worth seeing. Everyone else should see X-Men: First Class."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Romance",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Warner Bros.",
+         "De Line Pictures",
+         "DC Entertainment"
+      ],
+      "summaries": [
+         "In a mysterious universe, an elite defense force of peace and justice have existed for centuries. Cocky test pilot Hal Jordan acquires superhuman powers when he is chosen by \"the Ring\", the willpower-fed source of power, of the Green Lantern Corps. Reluctantly at first, he takes on the challenges these other superheroes face. Putting his self-doubts aside, and spurred on by his sense of duty and love for his beautiful, intellectually equal, colleague, Carol Ferris, he is soon called to defend mankind from Parallax, a powerful, evil being who feeds on fear. He is the universe's last chance, as many Green Lanterns have been killed and the Corps is weakened. And he might just be the right Green Lantern for the job of keeping the world safe from harm. Based on the characters of DC Comics series \"Green Lantern\".",
+         "The Guardians of the Universe have divided the universe into 3,600 space sectors, each one protected by one powerful Green Lantern, selected among fearless beings and supplied by a ring fed by the willpower from the planet Oa. When the evil force Parallax that is fed by fear destroys several Green Lanterns, Abin Sur flees in his spacecraft but crashes on Earth. Mortally wounded, his green ring seeks out a successor for him and finds the reckless but efficient test pilot Hal Jordan. Hal Jordan learns about the Green Lanterns and is bestowed with the powers of the ring. Meanwhile, scientist Hector Hammond is summoned to conduct an autopsy of Abin Sur and is possessed by Parallax. Hal Jordan is insecure about his fears and uses his powers for the first time in a party to save the life of people from a Ferris Aircraft helicopter damaged by Hector and later he discloses his identity to his former colleague Carol Ferris, who is the beautiful daughter of Carl Ferris and his love. When Parallax threatens Earth, the Green Lantern Hal Jordan is the last hope to defend his planet from destruction.",
+         "Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers that inducts him into an intergalactic police force, the Green Lantern Corps."
+      ],
+      "budget": 200000000
+   },
+   "movielensId": 87430,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2011-06-16",
+      "dvdReleaseDate": "2011-10-11",
+      "directors": ["Martin Campbell"],
+      "runtime": 114,
+      "movieId": 87430,
+      "title": "Green Lantern",
+      "mpaa": "PG-13",
+      "actors": [
+         "Ryan Reynolds",
+         "Blake Lively",
+         "Peter Sarsgaard",
+         "Tim Robbins",
+         "Mark Strong",
+         "Temuera Morrison",
+         "Jenna Craig",
+         "Jon Tenney",
+         "Mike Doyle",
+         "NicK Jandl",
+         "Dylan James",
+         "Leanne Cochran",
+         "Angela Bassett",
+         "Taika Waititi",
+         "Michael Clarke Duncan",
+         "Geoffrey Rush",
+         "Clancy Brown",
+         "Deke Anderson",
+         "Gattlin Griffith",
+         "Tiffany Morgan",
+         "Amy Carlson",
+         "Laura Cayouette",
+         "Dorian Kingi"
+      ],
+      "imdbMovieId": "1133985",
+      "originalTitle": "Green Lantern",
+      "genres": [
+         "Adventure",
+         "Action",
+         "Thriller",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "W7w07MLhhb4",
+         "tRplNRHOtS0",
+         "f8ZPg8uaoR0"
+      ],
+      "plotSummary": "For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.",
+      "tmdbMovieId": 44912,
+      "avgRating": 2.5247,
+      "releaseYear": "2011",
+      "numRatings": 2470,
+      "posterPath": "/zUSEYp9G7Hk9GZIfbPoOiSHvwHV.jpg"
+   }
+}

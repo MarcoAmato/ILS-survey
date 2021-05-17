@@ -1,0 +1,535 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "diving",
+            "id": 269
+         },
+         {
+            "name": "ocean",
+            "id": 270
+         },
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "treasure",
+            "id": 1454
+         },
+         {
+            "name": "shipwreck",
+            "id": 2580
+         },
+         {
+            "name": "bermuda",
+            "id": 6330
+         },
+         {
+            "name": "suspense",
+            "id": 9937
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "scuba diving",
+            "id": 10503
+         },
+         {
+            "name": "underwater",
+            "id": 14785
+         },
+         {
+            "name": "drugs",
+            "id": 14964
+         },
+         {
+            "name": "shark",
+            "id": 15097
+         },
+         {
+            "name": "caribbean",
+            "id": 167861
+         }
+      ],
+      "imdb_id": "tt0075925",
+      "video": false,
+      "title": "The Deep",
+      "recommendations": [
+         10863,
+         14441,
+         26578,
+         40820,
+         10859,
+         5968,
+         22160,
+         42149,
+         10765,
+         9051,
+         47359,
+         28124,
+         16922,
+         43821,
+         11558,
+         6341,
+         10875,
+         2990,
+         31618,
+         9930
+      ],
+      "backdrop_path": "/1Wg8AmasOfb3HvkaS33AzJ6puph.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Romer Treece",
+               "gender": 2,
+               "credit_id": "52fe43e6c3a368484e0049cf",
+               "name": "Robert Shaw",
+               "profile_path": "/jJpquJQB2XGqZ1Mrc35VmgT2UcR.jpg",
+               "id": 8606,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Gail Berke",
+               "gender": 1,
+               "credit_id": "52fe43e6c3a368484e0049d3",
+               "name": "Jacqueline Bisset",
+               "profile_path": "/ys2YfG4d26jUiGvok0jplWgUhzP.jpg",
+               "id": 14061,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "David Sanders",
+               "gender": 2,
+               "credit_id": "52fe43e6c3a368484e0049d7",
+               "name": "Nick Nolte",
+               "profile_path": "/o6O7WP3vokKstxJFMiiyRMNyPsH.jpg",
+               "id": 1733,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Henri Cloche",
+               "gender": 2,
+               "credit_id": "52fe43e6c3a368484e0049db",
+               "name": "Louis Gossett, Jr.",
+               "profile_path": "/ggWZg5ADOjhMLqfr9canl7gNTGD.jpg",
+               "id": 20959,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Adam Coffin",
+               "gender": 2,
+               "credit_id": "52fe43e6c3a368484e0049df",
+               "name": "Eli Wallach",
+               "profile_path": "/nRoyZzUjzY7iGdnp2V2kOgrMMFi.jpg",
+               "id": 3265,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Slake",
+               "gender": 2,
+               "credit_id": "52fe43e6c3a368484e0049f5",
+               "name": "Dick Anthony Williams",
+               "profile_path": "/wibb1X9fvfiLADMFtfwuTb9UIUI.jpg",
+               "id": 1911,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Kevin",
+               "gender": 0,
+               "credit_id": "5452cafc0e0a265f190003a1",
+               "name": "Robert Tessier",
+               "profile_path": "/bkfxcqDN0d927EWWJplISwxHsPg.jpg",
+               "id": 76065,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Wiley",
+               "gender": 2,
+               "credit_id": "562e1a969251414ab7008999",
+               "name": "Bob Minor",
+               "profile_path": "/jwCeTNiNZcAQYohUksglnNYJezJ.jpg",
+               "id": 156869,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Ronald",
+               "gender": 2,
+               "credit_id": "5452c6a10e0a265f16000347",
+               "name": "Earl Maynard",
+               "profile_path": null,
+               "id": 90540,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "le Capitaine du Port",
+               "gender": 0,
+               "credit_id": "5452c9510e0a265f25000340",
+               "name": "Teddy Tucker",
+               "profile_path": null,
+               "id": 1379723,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Johnson",
+               "gender": 0,
+               "credit_id": "5452cb3ac3a368092b00037a",
+               "name": "Lee McClain",
+               "profile_path": null,
+               "id": 1379724,
+               "order": 10
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43e6c3a368484e0049e5",
+               "name": "Peter Yates",
+               "profile_path": "/skBRJxvtvkylZXk6zjNPvwytr5S.jpg",
+               "id": 12804,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e6c3a368484e0049eb",
+               "name": "Peter Benchley",
+               "profile_path": "/AgPS8DEEI3epXydkrbJSvJ5Wgb4.jpg",
+               "id": 8554,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e6c3a368484e0049f1",
+               "name": "Peter Benchley",
+               "profile_path": "/AgPS8DEEI3epXydkrbJSvJ5Wgb4.jpg",
+               "id": 8554,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5762bcebc3a36859b0000175",
+               "name": "Tracy Keenan Wynn",
+               "profile_path": null,
+               "id": 41139,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5762bcfe92514102ff000174",
+               "name": "Peter Guber",
+               "profile_path": "/ndfEiDJFkjAHojchBDjOshZIxwz.jpg",
+               "id": 3804,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5762bd119251410306000163",
+               "name": "George Justin",
+               "profile_path": null,
+               "id": 5259,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5762bd22c3a368599c000167",
+               "name": "John Barry",
+               "profile_path": "/9NyieJO78xbwKIBZ1589WfdRPV8.jpg",
+               "id": 2289,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5762bd37c3a368599c000174",
+               "name": "Christopher Challis",
+               "profile_path": null,
+               "id": 30923,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5762bd42c3a36859aa000177",
+               "name": "David Berlatsky",
+               "profile_path": null,
+               "id": 69954,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5762bd5192514103150001a0",
+               "name": "Jane Feinberg",
+               "profile_path": null,
+               "id": 597,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5762bd5cc3a36859a10001c5",
+               "name": "Mike Fenton",
+               "profile_path": null,
+               "id": 598,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5762bd69c3a36859aa00019a",
+               "name": "Anthony Masters",
+               "profile_path": "/32OGKBShuM420L7FxP1XfXfjqBz.jpg",
+               "id": 12510,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5762bd7a92514103080001d3",
+               "name": "Jack Maxsted",
+               "profile_path": null,
+               "id": 10188,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5762bd85c3a36859990001ff",
+               "name": "Vernon Dixon",
+               "profile_path": null,
+               "id": 10498,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5762bd90c3a36859a60001c5",
+               "name": "Ron Talsky",
+               "profile_path": null,
+               "id": 960058,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5762bd9e92514103020001ac",
+               "name": "Edouard F. Henriques",
+               "profile_path": null,
+               "id": 1323090,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5762bdaa92514102ff0001dc",
+               "name": "Patricia McDermott",
+               "profile_path": null,
+               "id": 14750,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5762bdc2c3a36859aa0001c7",
+               "name": "George Justin",
+               "profile_path": null,
+               "id": 5259,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5762bde2c3a36859a1000225",
+               "name": "Ira Anderson Jr.",
+               "profile_path": null,
+               "id": 1588035,
+               "department": "Crew",
+               "job": "Special Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 7.184238,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 20416,
+      "vote_count": 76,
+      "budget": 0,
+      "overview": "A pair of young vacationers are involved in a dangerous conflict with treasure hunters when they discover a way into a deadly wreck in Bermuda waters...",
+      "similar": [
+         302,
+         4771,
+         169917,
+         336843,
+         8012,
+         274,
+         11542,
+         2502,
+         949,
+         2756,
+         578,
+         189,
+         793,
+         562,
+         75780,
+         207932,
+         109421,
+         101299,
+         298312,
+         392044
+      ],
+      "original_title": "The Deep",
+      "runtime": 123,
+      "poster_path": "/mEd0GbC1rt3R8JfbatHYo4QBTBD.jpg",
+      "spoken_languages": [
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "EMI Films Ltd.",
+            "id": 538,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Casablanca Filmworks",
+            "id": 15058,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1977-06-17",
+      "vote_average": 5.8,
+      "belongs_to_collection": null,
+      "tagline": "Is anything worth the terror of ... The Deep.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Peter Yates"],
+      "runtime": 123,
+      "synopsis": "While scuba-diving near shipwrecks off Bermuda, vacationing couple David Sanders (Nick Nolte) and his British girlfriend Gail Berke (Jacqueline Bisset) recover a number of artifacts, including an ampule of amber-colored liquid and a medallion bearing the image of a woman and the letters \"O.P.N.S.C\" (meaning Ora pro nobis, Santa Clara) and a date, 1714. Sanders and Berke seek the advice of lighthouse-keeper and treasure-hunter Romer Treece (Robert Shaw) on the origin of the medallion, who identifies the item as Spanish and takes an interest in the young couple. The ampule is noticed by the man who had rented diving equipment to Sanders and Berke, which in turn attracts the attention of Henri Cloche (Louis Gossett, Jr), a local drug kingpin for whom the shop owner works, who wants to buy the ampule with no luck and then begins to terrorize the couple with Haitian black magic. Upon further examination by Treece, the ampule contains medicinal morphine from the Goliath, a ship that sank during World War II with a cargo of munitions and medical supplies. The wreck of the Goliath is considered dangerous and is posted as off-limits to divers due to the danger of explosions. Treece concludes that a recent storm has exposed her cargo of morphine and unearthed a much older wreck containing Spanish treasure. Treece makes a deal with Cloche, so they can dive in peace making him believe he will get the ampules for a million dollars, while his real plan is to have the chance to find the treasure. Cloche gives him three days to recover them. Over the next two days, Sanders, Berke, and Treece make several dives to the wrecks, recovering thousands of morphine ampules from Goliath and several additional artifacts from the Spanish wreck. Adam Coffin (Eli Wallach), the only survivor from Goliath, joins to help in the boat but his loyalty is not very clear when they get attacked by sharks and he only says \"that he probably fell asleep\" without noticing they were in trouble. Through research in Treece's library, they reconstruct the history of the lost treasure ship, locate a list of valuable items, including a metallic jar with the letters \"EF\" engraved on it, and learn the identity of the noblewoman (Isabella Farnese) for whom they were made by the king of Spain. Sanders is determined to locate at least one item on the list to establish provenance; since without it there is no value to the treasure. Treece wishes to destroy the Goliath to put the morphine out of reach of Cloche; and Cloche interferes with their efforts so that he can recover the morphine for himself. During a running series of conflicts Treece's friend Kevin (Robert Tessier) is murdered by one of Cloche's henchmen and Adam, betrays them and is killed when he triggers a booby-trap while trying to steal the recovered morphine. A climactic battle during the final dive ensues, with Cloche and his divers being killed by a large morey eel residing in the wreck. The conflict also results in the destruction of the Goliath when its explosive cargo is detonated. Neverless, Sanders, Berke, and Treece survive and recover a gold dragon necklace that will provide the needed provenance of the treasure.",
+      "writers": [
+         "Peter Benchley",
+         "Peter Benchley"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0075925/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM4MTM1MjA1NV5BMl5BanBnXkFtZTYwMDk4MTA5._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jacqueline Bisset, Nick Nolte, Dick Anthony Williams | See full cast and crew »"],
+      "reviews": [
+         "Films like 'The Deep' are few, sporadic, and are usually not accepted by many audience members, but are usually the films that end up meaning the most in the end. I found that this film had a charm that I could not put my finger on, upon viewing it for the first time. The book, written by well known Peter Benchley (of 'Jaws' fame) was released on the heels of 'Jaws' success, so the film was released a year later, in '77, and was easily brandished as being a 'money film' but I assure you it is much more. Loosely taken from the book, the film captures the essence of the title. When David Sanders(well played by newcomer Nick Nolte) is on Holiday with his lover(the ALWAYS beautiful and aesthetic Jacqueline Bisset, of whom the film rests well on) Gail Berke, the two uncover items while diving: a small bottle of some sort, sufficient with morphine, and an unrecognizable piece of jewelry, worn by sea and time. Naive to Bermuda, the two continue their holiday, with many people after what is in the bottle, and just who wants it, who should get it, and what ELSE is down in the deep. Genuinely frightening, and appropriately paced, this film not only relies on the situation to keep interest, but psychological undertones to further tell the story. One of the biggest things this film has going is the underwater photography, shot with beautiful landscapes of coral, fish, and dedication to what the actors explorations achieve. Filmed in Panavision widescreen, this film delivers the whole underwater experience, as each scene is carefully timed and arranged photographically. The fact that filming was done creatively without CGI is all the more fascinating, and you feel like you are actually there, underwater, experiencing. This is buttressed by John Barry's positively breathtaking score. Each note whispers a feeling under and above water, springing in the air, and whooshing through the water, like an animal. The theme is gorgeous and reflects not only the characters attitudes, but the theme of the sea and the deep itself. It is at times violent, and at other times soft and peaceful. The writing can be said something for as well, as the scenes are like a ballet, with carefully choreographed actions, and dialog through the special masks they wear, that a whole scene could take place under water, and does. Benchley adapted from his book, and the story works well. The acting of the film could not be better. Nick Nolte is very believable as the rambunctious and adventurous David Sanders, and he is played with such prowess and eagerness, something that could be found in all of us, toward the ocean. We really learn to feel why David feels so much about the ocean, more so in the extended television version. Jacqueline Bisset is hauntingly gorgeous as Gail Berke, the conscience and voice of reason of the film. Gail is torn by morality midway through the film, something else we all can relate to. And as the danger caresses, so to does Gail toward what she believes in, and her love for David. Romber Treece is played out with spunk and passion by the late great Robert Shaw, fresh off the celluloid of Jaws, and makes the role his own. Treece, being an islander, knows the bad, and goods of the material they have found under sea, and acts more or less as a guide to keep the two out of danger, while achieving his own satisfaction to the sense of desire he has to the call of the sea. The supporting cast is really great as well. Louis Gosset is daring and intimidating as the main villain Henri Bondourant, one who kills at will, and who provides the three main characters with plenty of conflict, and Eli Wallach is sleazy and perfect as the only survivor of a wreck, that later became the site of the treasure and drugs. The main three do their best to help with the psychological undertones of the film, part of the real charm. 'The Deep' is more than just a deep sea adventure, but a psychological study of three human beings: One, an adventurous, intrepid young man, fascinated by what is dangerous and unknown to him; The other, his lover, a woman of strong passion, strength, and beauty on the inside and out, who is drawn to those she cannot access or comprehend; The third, a man who has been to hell and back, who still feels obliged to his place of comfort, the ocean. The chemistry between these characters, is what builds the undertone. Gail, is fascinated by Treece, because he has been through so much, and feels drawn to his reclusiveness and relevance. David is drawn to danger, and cannot be denied his goal, needs the pleasure of experience, and Treece, fascinated by both their innocent drives, can only help them thusly. The actually deep, a character itself, is the combination of their lively psyches coming together. When they are deep inside, they face danger in the form deadly animals, explosions rigged in the wreck, and most appropriately, themselves. They are forced to look inside themselves, further explored in the book and television version, and the resolution to the film is felicitous. So when you look at it, 'The Deep' is a clever look into the deep of our minds, as well as our dreams, our fantasies, and our weaknesses as humans. If there is any way to uncover any of it, this film more or less shows the way, and all the more with the entertainment it delivers, gives us a true experience of what any 'Deep' is like.",
+         "Peter Yates directed this beautiful escape from reality adventure in which our protagonists Nick Nolte and Jacqueline Bissete team up with the silver screen legend Robert Shaw to find a sunken treasure off the beaches of Bermuda. Unfortunately they encounter competition who would go at great lengths to get what they want - even if it means murder - unless our protagonists' intrepid assistant (Robert Shaw) uses his valuable knowledge to keep the tables turned and remain one step ahead. This film is a delight from start to finish. From the opening sequences of clearing clouds and Bermuda coming into focus and the astonishing underwater photograpy to the action packed adventurous finally, you simply can not take your eyes off the screen. The music from the one and only John Barry (who bought you the unforgettable themes from James Bond and Born Free) is mesmerizing and suits the picture elegantly. The cinematography is beautiful and gives you a lust for the holiday destination. Most importantly, the plot (written by the man who bought you 'JAWS') is original and riveting and high in adventure - I truly recommend this to all adventure fans. Cast selection was genius. At the time, Nick Nolte was a new face to the silver screen and brought an unforgettable performance as an obsessed husband clearly hypnotized by the idea of Gold. Jacqueline Bissete is, well, how can I put this? - I would have liked to have been there with her on her holiday (gosh is she beautiful or what?). It was Robert Shaw I believe, who brought the most to the film. He is witty, ignorant, a know-it-all and a man who isn't afraid of anything and this is what people come to see adventure films for. I can't imagine anybody else nailing the role like he has. Pure brilliance from a great British actor. Now how does a film with an interesting, ORIGINAL plot, great cast (including a legend), calm and mesmerizing music, golden cinematography and a great 'quotable' screenplay come to such underrated status is beyond Bermuda's Triangle. The current rating that IMDb gives to this film will never do it justice. I only hope for those who haven't seen it to overlook the score it has been given and take some time to sit back and escape to the fantastic world of \"The Deep\" - an experience I will be taking for many years to come. For me, a classic adventure of pure escapism!",
+         "The film opens with Nick Nolte and Jacqueline Bisset diving in the waters off Bermuda, exploring a sunken wreck... They soon find themselves drawn into a sea of jeopardy and intrigue involving a cargo of dangerous drugs, a fortune in Spanish treasure, ocean predators and ruthless drug smugglers accompanied by black magic voodoo... The adventure begins when they discover a strange ampule containing liquid, and a coral-encrusted Spanish medallion near the wreck of a World War II freighter.. Henry Cloche (Lou Gossett), a local underworld figure with a hand of menace, offers to buy the ampule, then changes to unrefined tactics, for he knows that the small glass vessel holds the clue to a rumored cargo of morphine, convertible into a fortune... As Nolte and Bisset try to discover some light to the mystery, they unite in an alliance with Romer Treece (Robert Shaw), a strong ocean-expert recluse, who wants to punish Cloche whom he believes responsible for the death of his wife... Motivated by their own personal welfare, the trio dive depths, racing against the ticking time bomb of Cloche's vicious and relentless pressure in an effort to recover the Spanish treasure and to prevent the morphine from falling into his hand... The dramatic events culminate in a final explosion beneath the sea... If you love to see our quiet photogenic Bisset swimming around half-naked in a breathtaking wet-T-shirt, well, don't hesitate to join our innocent heroes in their efforts to wrest the treasure from the bottom of the ocean in their dangerous underwater battle in the deep...",
+         "This movie has it all. I remember seeing this movie when it came out on TV.At the time I didn't know why I liked it so much, but now I know it was the ocean, the adventure, mystery, and intrigue. I just loved this movie. And I can't help it, I still do. I love the ocean scenes, and Nick Nolte's acting (not to mention Jacqueline's). I just ran across the DVD at Wally World for $5.50 and I had to buy it. I got a lot of enjoyment out of this movie and I have to give it a 10/10. I felt that all the acting was just fine including Robert Shaw's. I think that anyone who likes islands, adventure, scuba diving for gold, and beautiful woman will enjoy this movie.",
+         "Saw this on HBO with my parents one vacation. I like this movie, it has a story which includes suspenses, horror, mystery and action. Not too many movies have this combination. Great acting by Shaw, his role is on par with Jaws. The under water filming is the best of any under water film. Then tension and fear with the under water scenes leave an impression on one's mind. A classic shown on TBS late night, I will tape the next time I see it on. They usually show the movie The Island afterwards, I never seen that one; I wonder if it is any good being the second feature. Rent it, tape it, or buy it! You will not be disappointed. 8/10",
+         "I have the movie on Video, would buy it on DVD, I have read all the other reviews and surprised nobody mentioned the great music by John Barry. The theme made it to the radio top hits in 1977 For me, the music makes this movie, together with the three main stars including Shaw, Nolte and the beautiful Jacqueline Bisset. Is there an actress today quite so stunning? Don't think so... The Deep probably did not have the impact of Peter Benchley's Jaws but I like it just as much. The music is more melodic, the warmer location Bermuda, in contrast to the cooler Cape Cod of Jaws. I always appreciate a good treasure hunt anyway, Spanish doubloons and the possibility of reef predators adds interest. Watch it just to see Bisset in skimpy scuba swimsuit... you won't be disappointed",
+         "In spite of its many shortcomings (lazy direction, over-the-top acting, gratuitous violence, to name a few), you really HAVE to love this movie! Two years removed from the sensational release of JAWS, THE DEEP in many ways had some very big shoes to fill. For me, THE DEEP is JAWS-lite -- a kind of melodramatic, soap-opery version of JAWS. For all its flaws, allow me to wax poetic about the many virtues of this sublime cinematic guilty pleasure: 1) That amazing opening aerial montage of Bermuda - maybe the greatest opening establishing shot in the history of cinema. All the Bermuda based location work in this movie is top notch, adding a rich and handsome texture to the otherwise middling narrative. 2) Robert Shaw. While his performance is slightly overbaked (while also channeling and lazily riffing on Quint), his performance still manages to be larger than life - the delightful glue that keeps this movie together. What an amazing run he had over the last five years of his life, highlighted by THE STING in '73, THE TAKING OF PELHAM 1-2-3 in '74, JAWS in '75, BLACK Sunday in '76 and THE DEEP in '77. Amazing. 3) A 32 year old Jacqueline Bisset. As a 13 year old boy, I can assure you that she made a pretty indelible impression on me. 4) The great supporting turns from Eli Wallach and Lou Gossett, Jr. I could go on but suffice it to say that watching this movie from time to time is sorta like taking a warm bath in the dead of winter. It's one of those movies that somehow never gets stale and always manages to entertain despite its shortcomings.",
+         "Nick Nolte and Jacqueline Bisset star in this solid \"B\" movie, meant to entertain not challenge the average movie goer. Allow your mind to suspend reality for a couple of hours, and enjoy \"The Deep\" for what it is. Fans of Robert Shaw, Louis Gossett, Jr. and Eli Wallach will be pleased to see them on screen, but less than satisfied with their weak parts. When first released, the scenery above and below the water in \"The Deep\" proved to be amazing. Jacqueline Bisset appeared draped in a wet t-shirt, causing audience members everywhere to either gasp, gulp or sigh. Accompanied by multiple tropical fish, Ms. Bisset's underwater scenes are just as satisfying. My recollections of seeing \"The Deep\" for the first time in the theater, include sitting in the front row with head bent backwards, watching oversize tropical fish swimming back and forth across the screen. I get a hint of a stiff neck every time I review the movie in my head! I do recommend you rent or buy \"The Deep.\" Pop up some popcorn, put your feet up and just let yourself be immersed in this entertaining and gorgeous at times, movie. -- M. Nels Pearson",
+         "In Bermudas, while diving for pleasure, David Sanders (Nick Nolte) and Gail Berke (Jacqueline Bisset) find a submerged vessel, and they bring a couple of objects withdrawn from the ship. They look for the advice of Romer Treece (Robert Shaw), an expert in treasures and old ships, and they realize that indeed there were two vessels in the same location: a French one, from the Eighteenth Century, with a treasure in jewels, and another one, from the war, with a load of morphine. David and Gail associate to Treece, trying to recover part of the underwater wealth. Meanwhile, the powerful Haitian drug dealer Henri Cloche (as Louis Gossett Jr.) menaces the group, trying to get the drugs. \"The Deep\" is a very linear adventure, without any plot point or surprises. The wonderful locations, the magnificent photography, the good cast and the amazing beauty of Jacqueline Bisset support this movie, which is recommended for killing time only. My vote is six. Title (Brazil): \"O Fundo do Mar\" (\"The Bottom of the Sea\")",
+         "At first sight, \"The Deep\" has it all! A wonderful location, a treasure hunt, a hot chick and cool heroes with a nasty villain. How they managed to combine this elements into one of the most boring movies I ever saw is beyond me. \"The Deep\" is slow. Excruciatingly slow! The characters are empty shells. I could care less about them. The underwater scenes while beautifully shot are tedious after a while. Jacqueline Bisset has one good scene in a wet t-shirt but is then wasted for the rest of the film. Nick Nolte seems bored. Robert Shaw is basically the \"guy from Jaws\" once again. Louis Gosset Jr. is hardly in the movie but he tries his best. Eli Wallach is the nasty little bastard traitor we all love to hate, and as always he's great! They're the only saving grace of the movie. It's not that \"The Deep\" is insultingly bad! It's just that its so bland, dull and unemotional that I was pretty much indifferent to the whole thing. So if you're expecting a big, exciting adventure look elsewhere. The only thing about \"The Deep\" worth mentioning really is Jacqueline Bisset's hard nipples."
+      ],
+      "genres": [
+         "Adventure",
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Casablanca Filmworks",
+         "EMI Films"
+      ],
+      "summaries": ["A pair of young vacationers are involved in a dangerous conflict with treasure hunters when they discover a way into a deadly wreck in Bermuda waters. Featuring extended underwater sequences and a look into the affairs of treasure hunting. Based on a novel by Peter 'Jaws' Benchley."],
+      "budget": 9000000
+   },
+   "movielensId": 41411,
+   "movielens": {
+      "languages": [
+         "Français",
+         "English"
+      ],
+      "releaseDate": "1977-06-17",
+      "dvdReleaseDate": "1998-12-22",
+      "directors": ["Peter Yates"],
+      "runtime": 123,
+      "movieId": 41411,
+      "title": "The Deep",
+      "mpaa": "PG",
+      "actors": [
+         "Robert Shaw",
+         "Jacqueline Bisset",
+         "Nick Nolte",
+         "Louis Gossett",
+         " Jr.",
+         "Eli Wallach",
+         "Dick Anthony Williams",
+         "Robert Tessier",
+         "Bob Minor",
+         "Earl Maynard",
+         "Teddy Tucker",
+         "Lee McClain"
+      ],
+      "imdbMovieId": "0075925",
+      "originalTitle": "The Deep",
+      "genres": [
+         "Mystery",
+         "Thriller",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": ["-LQzTL2RZyY"],
+      "plotSummary": "A pair of young vacationers are involved in a dangerous conflict with treasure hunters when they discover a way into a deadly wreck in Bermuda waters...",
+      "tmdbMovieId": 20416,
+      "avgRating": 2.95763,
+      "releaseYear": "1977",
+      "numRatings": 118,
+      "posterPath": "/mEd0GbC1rt3R8JfbatHYo4QBTBD.jpg"
+   }
+}

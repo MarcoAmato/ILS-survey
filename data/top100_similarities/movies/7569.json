@@ -1,0 +1,593 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "japan",
+            "id": 233
+         },
+         {
+            "name": "england",
+            "id": 392
+         },
+         {
+            "name": "assassination",
+            "id": 441
+         },
+         {
+            "name": "helicopter",
+            "id": 720
+         },
+         {
+            "name": "vulkan",
+            "id": 746
+         },
+         {
+            "name": "assassin",
+            "id": 782
+         },
+         {
+            "name": "asia",
+            "id": 1293
+         },
+         {
+            "name": "secret identity",
+            "id": 1308
+         },
+         {
+            "name": "nasa",
+            "id": 1432
+         },
+         {
+            "name": "island",
+            "id": 2041
+         },
+         {
+            "name": "russia",
+            "id": 2139
+         },
+         {
+            "name": "missile",
+            "id": 2534
+         },
+         {
+            "name": "war ship",
+            "id": 2770
+         },
+         {
+            "name": "ninja fighter",
+            "id": 3075
+         },
+         {
+            "name": "secret base",
+            "id": 3268
+         },
+         {
+            "name": "secret mission",
+            "id": 3269
+         },
+         {
+            "name": "secret organization",
+            "id": 3271
+         },
+         {
+            "name": "secret intelligence service",
+            "id": 3272
+         },
+         {
+            "name": "phantom",
+            "id": 3284
+         },
+         {
+            "name": "villain",
+            "id": 3289
+         },
+         {
+            "name": "sumo ringer",
+            "id": 3346
+         },
+         {
+            "name": "volcano",
+            "id": 3347
+         },
+         {
+            "name": "funeral",
+            "id": 3739
+         },
+         {
+            "name": "space",
+            "id": 9882
+         },
+         {
+            "name": "soldier",
+            "id": 13065
+         },
+         {
+            "name": "killer",
+            "id": 15127
+         },
+         {
+            "name": "secret service",
+            "id": 41249
+         },
+         {
+            "name": "blast",
+            "id": 222423
+         }
+      ],
+      "imdb_id": "tt0062512",
+      "video": false,
+      "title": "You Only Live Twice",
+      "recommendations": [
+         660,
+         681,
+         253,
+         682,
+         668,
+         691,
+         699,
+         700,
+         657,
+         707,
+         698,
+         708,
+         646,
+         709,
+         658,
+         36670,
+         36643,
+         714,
+         710,
+         36669
+      ],
+      "backdrop_path": "/jahBdYTAGMJaEove9l9hzYpDKJD.jpg",
+      "revenue": 111584787,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "James Bond",
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bb93",
+               "name": "Sean Connery",
+               "profile_path": "/ce84udJZ9QRSR44jxwK2apM3DM8.jpg",
+               "id": 738,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Aki",
+               "gender": 1,
+               "credit_id": "52fe4267c3a36847f801bb97",
+               "name": "Akiko Wakabayashi",
+               "profile_path": "/5LRNvjMLVJjWfESGbnfkhcoQ6fS.jpg",
+               "id": 10068,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Helga Brandt",
+               "gender": 1,
+               "credit_id": "52fe4267c3a36847f801bba7",
+               "name": "Karin Dor",
+               "profile_path": "/OKzRenG0MDFrvPDIQwzDFTATrx.jpg",
+               "id": 10073,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Kissy Suzuki",
+               "gender": 0,
+               "credit_id": "52fe4267c3a36847f801bb9b",
+               "name": "Mie Hama",
+               "profile_path": "/ihCZ9ls8bsT7HJWwMp5Q3XrTMjM.jpg",
+               "id": 10070,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Tiger Tanaka",
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bb9f",
+               "name": "Tetsurō Tamba",
+               "profile_path": "/lrWc0QjdAaP1VOWhwzczakdaEq.jpg",
+               "id": 10071,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Mr. Osato",
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bba3",
+               "name": "Teru Shimada",
+               "profile_path": "/uuIjelPPEOUGcG68HNzme1xhUzc.jpg",
+               "id": 10072,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Ernst Stavro Blofeld",
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbab",
+               "name": "Donald Pleasence",
+               "profile_path": "/fr9lf679ZsHbDZsbcpKZfbFO1Pu.jpg",
+               "id": 9221,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "M",
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbaf",
+               "name": "Bernard Lee",
+               "profile_path": "/vCLXqcJNAijcVrRrJuoduc5VnSd.jpg",
+               "id": 9874,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Miss Moneypenny",
+               "gender": 1,
+               "credit_id": "52fe4267c3a36847f801bbb3",
+               "name": "Lois Maxwell",
+               "profile_path": "/uQneO3fT5H7vmjxusi3lJmm3xT3.jpg",
+               "id": 9878,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Q",
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbb7",
+               "name": "Desmond Llewelyn",
+               "profile_path": "/6dYMQoMSZ6iVZTbcgjpzypTZ2pr.jpg",
+               "id": 9906,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Dikko Henderson",
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbbb",
+               "name": "Charles Gray",
+               "profile_path": "/czTISDAqwpOUGDdO3wT1fgkLUAz.jpg",
+               "id": 10074,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Ling",
+               "gender": 1,
+               "credit_id": "52fe4267c3a36847f801bbbf",
+               "name": "Tsai Chin",
+               "profile_path": "/2icB7ENqRRXxqzirAH3PupzTyqQ.jpg",
+               "id": 10075,
+               "order": 11
+            },
+            {
+               "cast_id": 24,
+               "character": "Spectre 3",
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bc05",
+               "name": "Burt Kwouk",
+               "profile_path": "/7s1Sul5L6NU2TEfgLarBqrde65v.jpg",
+               "id": 21944,
+               "order": 12
+            },
+            {
+               "cast_id": 26,
+               "character": "Spectre 4",
+               "gender": 0,
+               "credit_id": "5405a329c3a36843660082e1",
+               "name": "Michael Chow",
+               "profile_path": "/284hrxXjhtI9k4vv57pciQqMS8N.jpg",
+               "id": 21631,
+               "order": 14
+            },
+            {
+               "cast_id": 27,
+               "character": "Hans",
+               "gender": 0,
+               "credit_id": "5405a33bc3a3682d980069fa",
+               "name": "Ronald Rich",
+               "profile_path": null,
+               "id": 1231323,
+               "order": 15
+            },
+            {
+               "cast_id": 28,
+               "character": "Bond's Masseuse",
+               "gender": 1,
+               "credit_id": "5405a352c3a3685b74003b96",
+               "name": "Jeanne Roland",
+               "profile_path": "/9BBK1wD77B49KRsauUCjbECfQbX.jpg",
+               "id": 199904,
+               "order": 16
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbc5",
+               "name": "Lewis Gilbert",
+               "profile_path": "/e3uN45oGDEf1LaZiVqy4nbqt9RE.jpg",
+               "id": 10076,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbcb",
+               "name": "Ian Fleming",
+               "profile_path": "/3Pld5n7f5AAVjP0HdsAkgSvrlJg.jpg",
+               "id": 9856,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4267c3a36847f801bbd1",
+               "name": "Roald Dahl",
+               "profile_path": "/me3PtcT5mw88y3e3AYG3exuOO99.jpg",
+               "id": 1299,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbd7",
+               "name": "Albert R. Broccoli",
+               "profile_path": null,
+               "id": 9861,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbdd",
+               "name": "Harry Saltzman",
+               "profile_path": null,
+               "id": 9863,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbe3",
+               "name": "John Barry",
+               "profile_path": "/9NyieJO78xbwKIBZ1589WfdRPV8.jpg",
+               "id": 2289,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbe9",
+               "name": "Monty Norman",
+               "profile_path": null,
+               "id": 9864,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbef",
+               "name": "Freddie Young",
+               "profile_path": null,
+               "id": 10079,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbf5",
+               "name": "Ken Adam",
+               "profile_path": null,
+               "id": 9869,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bbfb",
+               "name": "Harry Pottle",
+               "profile_path": null,
+               "id": 10081,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4267c3a36847f801bc01",
+               "name": "David Ffolkes",
+               "profile_path": null,
+               "id": 10082,
+               "department": "Art",
+               "job": "Set Decoration"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 18.965132,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 667,
+      "vote_count": 675,
+      "budget": 9500000,
+      "overview": "A mysterious space craft kidnaps a Russian and American space capsule and brings the world on the verge of another World War. James Bond investigates the case in Japan and meets with his archenemy Blofeld. The fifth film from the legendary James Bond series starring Sean Connery as the British super agent.",
+      "similar": [
+         657,
+         691,
+         708,
+         646,
+         668,
+         682,
+         699,
+         6637,
+         146216,
+         1620,
+         19995,
+         3176,
+         186,
+         616,
+         707,
+         714,
+         137094,
+         253,
+         121856,
+         249070
+      ],
+      "original_title": "You Only Live Twice",
+      "runtime": 117,
+      "poster_path": "/7dnsJZniZK1Hbc9mOFDYa5W0dHi.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         },
+         {
+            "name": "Pусский",
+            "iso_639_1": "ru"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/czmPjPlpsJwsWuuTub2iATe2sgR.png",
+         "name": "Eon Productions",
+         "id": 7576,
+         "origin_country": "GB"
+      }],
+      "release_date": "1967-06-12",
+      "vote_average": 6.5,
+      "belongs_to_collection": {
+         "backdrop_path": "/6VcVl48kNKvdXOZfJPdarlUGOsk.jpg",
+         "name": "James Bond Collection",
+         "id": 645,
+         "poster_path": "/HORpg5CSkmeQlAolx3bKMrKgfi.jpg"
+      },
+      "tagline": "You Only Live Twice...and Twice is the only way to live!",
+      "adult": false,
+      "homepage": "http://www.mgm.com/view/movie/2347/You-Only-Live-Twice/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Lewis Gilbert"],
+      "runtime": 117,
+      "synopsis": "Orbiting over the Earth is Jupiter 16, a US space capsule manned by two astronauts. As they maintain radio contact with bases in Hawaii and Houston, one of the astronauts ventures outside to make routine repairs, when radar picks up another spacecraft closing fast. Radio contact is lost and the spacecraft opens up and swallows Jupiter 16, in the process severing the other astronaut's lifeline and leaving him to die in space. In Hong Kong, James Bond is enjoying a romantic encounter with a Chinese woman. She leaves the bed a pushes a button that levers it into the wall. Two men burst into the room with machine guns and spray the bed. When the police arrive, the woman has disappeared and Bond is found dead. A contentious meeting between US and Russian diplomats follows, brokered by a member of Britain's foreign service. The US believes the pirate spacecraft is Russian in origin, having tracked the ship in orbit before it ventured into the atmosphere; the US is to launch another capsule in three weeks and will regard interference with the ship as an act of war, and will launch a military attack on Russia should the capsule come under attack itself. Great Britain, however, believes the alien ship landed in the Sea of Japan based on tracking of the ship from a station in Singapore, and that a British official in Hong Kong is following this lead. MI6's best agent, James Bond, is ordered to investigate. His assassination in Hong Kong was a ruse to trick his enemies into believing he was dead so he can continue his mission undetected. He is ordered to Japan to meet with members of Japan's SIS. One, a beautiful woman named Aki, takes him to the home of Dikko Henderson, a British intelligence official living in Japan who has discovered information about the rogue spacecraft. Henderson theorizes that a third power is using Osato Chemicals, a vast multinational corporation, to launch spacecraft from Japan to attack US and Russian spacecrafts and trigger war between the two superpowers. However, Henderson is stabbed to death before he can reveal more. James subdues Henderson's killer, then takes his place and infiltrates Osato Chemicals to find more information. He battles with a large bodyguard and defeats him before he finds a safe containing paperwork and a film negative that he takes before being pursued by security guards. James is rescued by Aki, but he is now mistrustful. When Aki stops her car near a subway entrance James chases her, only to fall into a \"trap\" set by \"Tiger\" Tanaka, the head of Japanese SIS and the most secretive official in Tokyo. After verifying Tanaka's credentials via a codeword, James works with him and they examine the paperwork found in Osato's safe. It details the smuggling of LOX - technical shorthand for liquid oxygen for rocket fuel and which is also the name for smoked salmon, and the perfect cover. The film negative is of a supertanker, the Ning Po, the picture coming from an American tourist killed by whoever works for Osato Chemicals; the picture shows not only the ship but a small boat of fishing women, indicating the area is an outer island on the way to Shanghai. James theorizes that the international criminal consortium SPECTRE has a role in the space hijackings given their history of using private organizations for the actual legwork of a conspiracy in the service of other foreign powers. James spends the night at Tanaka's house, where he is given exotic hospitality in the form of being bathed by \"very sexiful\" young ladies and given a relaxing massage by one. James' massage is taken over by the shapely and scantily-dressed Aki, who has fallen in love with him, a love the two consummate. The next day James is arranged to meet with Mr. Osato in the guise of businessman Jim Fisher to negotiate a bulk-purchase of important chemicals. Osato surreptitiously X-rays James, finding he is armed, and James is given a drink by Osato's secretary, Helga Brandt, who is more than just an efficient aide-de-camp. Osato orders hitmen to kill James, but he and Aki escape and Tanaka dispatches the hitmen via a transport chopper sporting a giant magnet. Tanaka radios James and orders James and Aki to Kobe, where the Ning Po is being loaded for departure. James then urges Tanaka to contact M in London to dispatch \"Little Nellie\" and her father - a minicopter gunship built under the supervision of Major Geoffrey \"Q\" Boothroyd. After arriving at Kobe, James and Aki find tanks of liquid oxygen but the two are attacked by a gang of dockworkers. James fights them off to allow Aki to escape, and it appears James himself will get away - until he is ambushed and knocked unconscious. He is bound to a chair in Helga's room on the Ning Po, where she questions him about snooping around the dock and holds a plastic surgeon's instrument dangerously close to James to pry information from him. But she is also aroused by James' masculinity and allows herself to be seduced by him; after consummating their arousal she flies James in a private plane, then bails out and locks him in, but James manages to escape, land the crippled plane, and escape before it explodes. Returning to Tiger's house, James is given photos of the Ning Po showing she stopped at an outer island and offloaded an enormous stockpile of equipment, shown by a vastly lower waterline. The threesome meet \"Q\" and Little Nellie is assembled by Q's crew of specialists. Sporting a variety of powerful weapons aboard Little Nellie, James overflies the area islands and is attacked by four gunships which he shoots down and which leave no doubt as to the presence of SPECTRE. A scheduled Russian space shot, meanwhile, goes off, and is grabbed by the enemy rocket, which is tracked by the US Air Force before disappearing, seeming to confirm to the US that the Russians are behind the space hijackings and will now use the excuse of losing their own spacecraft to shoot down the next Jupiter launch. Both Osato and Helga Brandt meet with their leader in his headquarters after the rogue craft returns to it's base. The man's face is not shown however he holds a white cat and finishes a meeting with two scientists who designed the radar jamming system that has cloaked the location of the villain's base. Both men demand more money but acquiesce after his bodyguard, Hans, shows them his leader's pool of piranha. The two scientists leave and the mysterious villain flashes the x-ray showing Bond's Walther PPK and expresses his disappointment in both Osato and Brandt for failing to kill him. Both accuse each other of failure. The villain orders Brandt to leave and drops her into the piranha pool as she walks across its bridge; she is eaten alive. He then sharply orders Osato to kill Bond immediately. Bond is ordered to report to Tiger's palatial estate which also doubles as a ninja training camp. Tiger's plan is to use his army of men to infiltrate a fishing village on the island where the Ning Po last made port. Bond himself will be disguised as a Japanese man and will train with the rest of Tiger's ninja army; the army will later hide in the island's largest village as local fishermen. Bond will also take a wife; to his dismay, Aki will not be the woman because she is not from the village. After the procedure which disguises him, Bond and Aki spend the night together. While they sleep, an assassin sneaks into the rafters above their bed and lowers a needle on the end of a thread. He trickles a powerful poison down the thread, his target being Bond. Bond, however, shifts in his sleep. Aki also shifts at the same moment and the poison drips onto her mouth. As she struggles and dies, Bond wakes up and shoots the assassin dead. Tiger comes in and Bond tells him what happened. Bond seems more urgent than ever to investigate the plot but Tiger tells him he needs a few more days of training. The next day during a staff match, Bond is attacked again by another assassin who tries to stab him with a knife hidden in his weapon. Bond kills the man and Tiger identifies him, saying he's not one of his men. The next day Bond is wed to a lovely young woman from the fishing village, Kissy. The settle into a small house in the village and Kissy rejects Bond's advances to consummate their marriage. The two also notice a small funeral being held for a young girl who'd been exploring a nearby cave along the shoreline. When the girl's boat floated out of the cave, she was mysteriously dead. At early morning, Tiger warns Bond that the Americans are launching their next spacecraft today with a last warning to the Soviets! Bond becomes interested in the cave; the next morning, he and Kissy drift away from the fishing fleet and explore the cave. When they enter it, Bond immediately notices that a poison gas has been released in the cave and they jump over the side of their boat and swim inside. The come ashore and hike up to the volcano's caldera. They see a helicopter fly down into the basin but it disappears. A closer investigation reveals that the surface of the crater's lake is actually a gigantic metal cover that hides a secret base where the rogue rocket has been hiding after swallowing the USA and Russian spacecraft. Bond sends Kissy back to find Tiger and his men, while Bond himself sneaks into the crater. Inside the volcano, Bond locates the missing astro- and cosmonauts being held prisoner. They subdue a few guards and imprison the astronauts that are next to fly into space and capture the next spacecraft launched by the USA. Bond takes the place of one of them, in the hopes that can sabotage the next capture, however, as he prepares to enter the rogue rocket, he's stopped at the last moment and taken to the volcano's command center. There he meets the mysterious villain; Ernst Stavro Blofeld, leader of SPECTRE, a vast criminal organization. Bond's personal effects are confiscated and Blofeld reveals his plan; the capture of both American and Russian spacecraft will trigger a nuclear war between the two, eliminating them from the world stage. Presumably China would move in and seize control of the world from the two superpowers. As Blofeld's craft moves into position, Bond asks for a cigarette, one of the weaponized ones given to him by Tiger. He kills one of Blofeld's men with the miniature rocket inside and escapes from the control room as Tiger's ninja army arrives at the crater. A fierce battle erupts. Bond and Tiger's men eventually gain the upper hand in battle. Bond finds a way into the control room through Blofeld's private quarters. There Bond battles briefly with Hans until the henchman is thrown into his boss' pool of piranha. Bond reaches the control room and struggles briefly with the detonator for Blofeld's spacecraft until he is able to destroy the craft. Relieved, the POTUS calls off the nuclear run. Blofeld himself escapes after killing Osato and triggers a self-destruct device that cause the volcano to erupt. Tiger, Bond, Kissy and the ninja army escape into the sea. Bond and Kissy find a life raft waiting nearby and board it. Bond asks Kissy if it's OK to take their \"honeymoon\" now and she agrees. As they kiss, a British sub surfaces underneath them and the raft is caught on the fore section of the sub. Inside, M orders Moneypenny to tell Bond to report.",
+      "writers": [
+         "Harold Jack Bloom",
+         "Roald Dahl"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0062512/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk4NTU2Mzk1OV5BMl5BanBnXkFtZTcwMzY5MDg0NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Sean Connery, Akiko Wakabayashi, Mie Hama | See full cast and crew »"],
+      "reviews": [
+         "It's not the best but it most certainly is one of the most entertaining Bond movies to watch. Because of that reason, \"You Only Live Twice\" is one of my favorite Bond movies. Basically the movie is just simple silly fun. The story is very simple and at the same time also totally unbelievable but also because of this the movie is extremely entertaining to watch. As an action movie this movie is really great. The movie is truly filled with many spectacular, if a tad over-the-top action sequences. Most action sequences don't even make sense that they occur in the movie, once you really start thinking about it but that is all part of the charm of this entertaining movie. It's a very imaginative movie that has some unforgettable sequences in it, that are both thrilling as well as spectacular. The movie is mostly set in the culturally rich Japan. It works as a perfect backdrop for the movie and the strange unusual culture helps to make the movie an imaginative filled one. Also sequences like with 'Little Nellie' and the end fight set in the hollowed-out volcano add to the adventurous and imaginative feeling of the movie. Ken Adam is also one of the reasons why everything in the movie works so well. As a production designer he made the right backdrops for the story and made several elements of the movie work out surprising well, such as mainly all of the sequences in the hollowed-out volcano. Also the musical score by John Barry and the cinematography by Freddie Young are worth mentioning. Sean Connery is good and fun as always as James Bond and he still showed good form in this movie. This time Ernst Stavro Blofeld was played by legendary actor Donald Pleasence. He takes the movie to an even higher level. He plays the best Blofeld out of the long series of Bond movies, along with Telly Savalas who played the villainous character in \"On Her Majesty's Secret Service\". This is a fantastic fast paced, action filled movie, that has some spectacular and unforgettable sequences in it, especially toward the ending. One of my personal favorite Bond movies, of which I never grow tired of watching it. 8/10 http://bobafett1138.blogspot.com/",
+         "This one is a triumph for Ken Adam's sets. The volcano base is the most memorable feature of the film. Oh, the story is fun and the gadgets are cool, but those sets really sell the film. They would inspire countless imitations and variations throughout the years. Finally, we get to see Bloefeld, and it's a bit of a letdown. Donald Pleasance is a fine actor, but he's not quite supervillain material; more of the serial killer variety, in the mold of Peter Lorre. Still, he is by far the superior on-screen version. The Japanese cast are all outstanding. Special mention should be made of Peter Maivia, grandfather of Dwayne Johson, aka The Rock. He and the stuntmen create a brutal fight scene, second only to the train fight in FRWL, although this is perhaps more inventive. As for gadgets, outside of the jetpack from Thundrball and Goldfinger's Aston Martin, Little Nellie is the coolest ride. The aerial scenes are spectacular and are one of the highpoints of the whole series. This film really marks the end of the ultra-cool Bond films. After this, they tend to go down in quality, taken as a whole. Some have better stories and villains, some have better stunts, but they are never the complete package that the earlier films were. Still, this one (along with Goldfinger and Thunderball) would inspire every spy work that would follow; from The Man from U.N.C.L.E. to Our Man Flint, Marvel Comics' Nick Fury, Agent of S.H.I.e.L.D., to the X-Men. Everyone stole an idea from here.",
+         "This particular 007 entry (which was intended to be Sean Connery's last before he would agreed to return one more time for his sixth shot as 006 in 'Diamonds are Forever (1971)' and lets not the forget the unofficial 'Never Say Never Again' in 1983) was the first Bond film I encountered and from that it has always remained a total favourite. \"You Live Only Twice\" we see Bond travel to the land of the rising sun (Japan) in what is quite an expansive concept (dazzling set-designs with spectacular non-stop action) and very well-budgeted effort that lingers on a extremely comic-book-like tone (thanks largely to Roald Dahl's industriously well-guided screenplay that plays its cards close to the chest) with its characters, atmospherics and set-pieces that for me would make it one of the most creative and exciting inclusions to the series. Bond heads to Japan racing to uncover the true mastermind behind the space-jacking that could see another world war, as British sources believe that the mysterious rocket ship which has seized American and Russian space shuttles originates from there, but those countries believe otherwise than each other for the acts. Couple of things which made it more the memorable would be that it's the first chance we get to see arch villain SPECTRE Agent #1 Ernst Blofeld's face, than just the hand stroking the cat\u0085 although the first hour we get enough of that. It's a devilishly meaty Donald Pleasence who just seemed the part of Blofeld. Now who didn't love the hidden lair that was in an inactive volcano, and of course Blofeld's pool of pet piranhas. The inventive gadget novelty was really making a mark, just look the deadly mini-copter named 'Nelly' and the dangerous effects of smoking around others. Strangely enough the (witty) script seemed to spit out a few self-knowing quips involving cigarettes, which became rather odd. Director Lewis Gilbert (who would go on to control the very similar in story-structure \"The Spy Who Loved Me\" and then following that the plain goofy \"Moonraker\") does a tersely capable job with a fast moving pace that shifted from one well organized set-piece to another (like the chase on-top of a rooftop in a fishing docks that's masterfully captured by cinematographer Freddie Young) to finally finish on a barnstorming climax (with none other than ninjas) and then a familiarly fitting final frame. Sean Connery might look a little tired (a bit funny trying to make himself look like Japanese under make-up), but remains just as charismatic and fittingly lean when it came to getting down and dirty (Bond and his tussle with Blofeld's massive henchman Hans comes to mind). The bond girls shape up nicely in the form of Akiko Wakabayashi, Mie Hama and the stunning German redhead Karin Dor. Tetsurô Tanba was good as Bond's Japanese counterpart. Bernard Lee, Lois Maxwell and Desmond Llewelyn treat us to their iconic roles. John Barry's classy music score has a smoothly oriental touch, which can get actively copious when called for and theme song \"You Only Live Twice\" is enticingly sung by Nancy Sinatra.",
+         "I notice this movie has warranted much criticism and some people have gone as far as dubbing it as the worst of the Connery Eon productions ! What you mean it's worse than DIAMONDS ARE FOREVER ? I don't think so and it's certainly better than than THUNDERBALL which spends most of its time with Connery - Or more likely a stuntman - submerged under water . At least with this movie we get to see Connery's manly handsome features I do agree there are certain flaws to the screenplay . One is the plot which lacks logic . Spectre are manipulating the superpowers into starting a nuclear war ! Can anyone see what a ridiculous idea this is ? There is some historical context to this since Mao thought because of the large population of China if there was a third world war his country would come up trumps and if I remember correctly he stated in the mid 1960s that \" Even if we lose 300 million of our citizens China would still survive \" which just goes to show that he wasn't perhaps the cleverest of people . It's insinuated heavily without being spelt out that China is paying Spectre to cause the war but what is Blofeld getting out of this apart from 100 million dollars in gold bullion ? At least in THE SPY WHO LOVED ME you can understand why the villain would want to see a nuclear holocaust but Blofeld seems entirely ignorant that you wouldn't be able to trade or spend anything after world war three . There's also a few other little irritants . Much of the movie is beautifully paced but Bond's burial at sea is again illogical and holds up the story . I mean why don't the Royal Navy just dump a weighted down dummy into the sea and come to think of it doesn't the \" Bond is dead \" charade just seem entirely stupid in the first place ? How if Bond was alive the Hong Kong police say he was dead ? Were they part of the conspiracy ? For an intricate plot it seems to involve a ridiculous number of people for it to work effectively . Same as the Bond pretends to be a Japanese fisherman subplot . Couldn't the Japanese secret service just land him on the island via boat instead of putting him in a ninja training camp ? There's also something else that is totally unexplained : Bond rescues two Soviet cosmonauts and an American astronaut then one of these characters disappears from the narrative when Bond and the two others knock out the Spectre spacemen then these two characters likewise disappear from the story . It might sound anal of me but I was very annoyed that I never found out what happened to the three space kidnap victims Despite these flaws YOU ONLY LIVE TWICE is a tremendously entertaining movie . As I said from one or two unnecessary elements ( This would become a serious problem in the latter movies ) it's beautifully paced and contains some great set pieces with special mention going to the chase scene on top of a warehouse and this is the movie where we finally get to see the face of Blofeld . Again I notice that some people aren't all that impressed with Donald Pleasence's performance but I think it's an excellent portrayal of a megalomaniac , he's aloof and attached , almost Hitlerite and compare it to the campy style other actors have played him in Perhaps not as good as DOCTOR NO or GOLDFINGER but this Bond film is much better than most other in the franchise",
+         "You Only Live Twice is pure Comic Book entertaiment. James Bond is very much the superhero character he was in Goldfinger, and every scene is like a panel in a Comic Book and filled with entertaining excitement. In truth, it is though the feel and style that was vibrant throughout Goldfinger [1964] leapfrogged the dull Thunderball [1965] and found it's way to Japan. Twice is a beautiful looking and sounding addition to the Bond movies, and one is glad Sean Connery didn't really resign from the role of Bond and did indeed Live Twice. By jettisoning most of Ian Flemmings original story You Only Live Twice, in wich an amnesiac Bond Hunts down Blofeld in Japanese castles, Broccoli and Saltzman have ridden themselves of the same problem evident in Thunderball : Slow Movement, Uninterested Audiences. Thunderball may have been a success, but this was probably due to the Bondmania wich raged through the mid sixties like a giant inferno. Luckily for the fans of the eye popping spectacles the Bond series is famous for, You Only Live Twice contains no such problems of dreary moments of boardom. In its place we have a Space Age actioneer written by childrens author Roald Dahl, and an entertaining and swift director in Lewis Gilbert, who seems more suited to Bond than any director yet. It has been said before, but the real star of the show is Ken Adams sets. His wondefull Volcano set wich Blofeld uses is one of the most memorable in Cinema history. Add to this the Japanese sets, the Submarines [M's Offices], Tanaka's Lair, and the real sense of Japanese authenticy. Adam deserves an Oscar for this movie alone. For his total contributions to Bond and other movies, there is no Award yet created. Donald Pleasence makes a very creepy Blofeld. He is perhaps the ultimate Blofeld. His scenes with the other cast members show the complete acting skills of a fine actor. Twice also contains one of Desmonde Lywellyn's funniest performances as Q,and one of Q's finest creations, the Little Nellie Helicopter. Little Nellie is every Bond fans dreams, personally i think it would be lovely to soar above rural England in Nellie, let alone Japan! Some guys have all the luck! Twice also has one of John Barry's most beautiful themes,and songs sung by Nancie Sinatra. The only real let down this time is Sean Connery. He makes any Bond film look good, but this time doesn't look as though he is enjoying himself all that much. This is a petty bacause Twice itself is a very impressive and enjoyable Bond movie, with some of the best sets, Action sequences and Acting in the entire series.",
+         "Throughout Bond's career, the SPECTRE chief had lurked behind the scenes, masterminding horrific crimes and dispensing ruthless punishments to those who disappointed him\u0085 The \"You Only Live Twice\" mission revealed that evil had a human face\u0085 Blofeld's love of animals extended beyond his white Persian cat: he also kept piranhas\u0085 His fishy friends, capable of stripping a person to a skeleton in minutes, were not just for show\u0085 'You Only Live Twice' takes place entirely in Japan... The script is a return to a 'From Russia with Love' type plot in which SPECTRE, backed by Red China, enters the space race by playing off the Russians and Americans... The agent of his plans is a specially designed Intruder rocket which captures spacecraft and returns them to SPECTRE chief Blofeld's secret Japanese volcano hideout... To trick SPECTRE into lowering his guard on British Secret Service activities in Japan, Bond manages to fake his own death... Under the eye of SPECTRE agents, he is given a proper Naval burial at sea aboard a destroyer in Hong Kong, and his body is sent to the bottom of the harbor where a team of frogmen recover it and bring it to a waiting submarine... Bond, wearing his full Commander's uniform, is alive, thanks to a special aqualung, and he reports to M aboard the submarine...To avoid further detection, he is placed in one of the submarine's torpedo tubes and fired towards the Hong Kong shore to investigate the missing satellites... His contact is Henderson (Charles Gray\u0097who later played Blofeld in 'Diamond Are Forever'), who informs Bond of Tiger Tanaka (Tetsuro Tamba), the youthful head of the Japanese Secret Service... Tanaka forged a strong working relationship with Bond\u0085 The centers of his operation were an underground Tokyo HQ with its own subway train, an ancient castle, and a training school for his Ninja force\u0085 Although the film does develop a flavor for the Far East\u0097with its beautiful women, emerging technology, and ancient customs\u0097the movie's story is a less than compelling one\u0085 Impressive set pieces take over center stage at the expense of a sustained dramatic structure\u0085 And \"You Only Live Twice\" jumps up from villain to villain, escapade to escapade, until the final assault on the volcano rocket base puts 007 up against Blofeld for the first time\u0085 In spite of pushing aside a bowl of oysters, and drinking his favorite martini 'stirred, not shaken,' plus Russian vodka and Japanese sake, Bond\u0097lacking his usual charm\u0097 is given little to do in the story\u0085 The women in the film are actually much more interesting than him\u0085 Aki and Kissy are the advance guard of the new Bond girl\u0097less breathless females who have more equality on the firing line\u0085 In other words, they hold their own with Bond and help him out of more than a few scrapes with death\u0085 Aki (Akiko Wakabayashi) is 007's guardian angel in Tokyo\u0085 She drives an exotic Toyota 2000 sports car, and wears fancy Western outfits\u0085 Kissy (Mie Hama) managed to resist Bond's advances\u0097at least until the mission was accomplished\u0085 Helga Brandt (Karin Dor) turns out to be totally unaffected by Bond's charm... Schooled in the Fiona Volpe-style of assassination, she decides to give Bond a taste of what she has to offer before leaving him to figure a way to escape the falling plane... Nevertheless 'You Only Live Twice' isn't a bad film, and it does star the best Bond... It also holds off high points: John Barry's most romantic musical sequences, Freddie Young's cinematography, and Moneypenny\u0097very smart in naval uniform\u0097connives to have Bond say 'I love you,' a password chosen for this mission...",
+         "You Only Live Twice is directed by Lewis Gilbert and written by Roald Dahl. It stars Sean Connery, Tetsuro Tamba, Teru Shimada, Akiko Wakabayashi, Mie Hama, Karin Dor and Donald Pleasence. Music is scored by John Barry and cinematography by Freddie Young. Bond 5 and Connery once again tackles the role of 007. With American and Soviet space craft mysteriously vanishing from space, both nations are laying the blame at the other's door. Sensing a nuclear war could break out, M assigns Bond to Japan to investigate if there might be a third party stirring the hornets nest. Teaming up with the Japanese secret service, Bond uncovers evidence that SPECTRE is behind the plot to pitch the East and the West against each other. This organisation does not tolerate failure. Thunderball had broke box office records for Bond, gadgetry, outlandish stunts and a quip on the tongue had proved most profitable. It was planned originally that On Her Majesty's Secret Service would be number 5 in the series, but a change of tack to go for You Only Live Twice as the story gave producers Broccoli & Saltzman the scope for a giganticus enormous production. However, it may be set in Japan and feature a Bond/Blofeld conflict, but Roald Dahl's script bares little resemblance to Ian Fleming's source novel. Although a massive financial success with a Worldwide gross of over $111 million, Bond 5 took $30 million less than Thunderball. Strange since this is a better film. Can we attribute the drop to it being a space age saga? Maybe, the rebirth of sci-fi was a few years away, and of course Bond had lost some fans who had grown tired, like Connery, of 007 relying on gadgets instead of brains and brawn to complete his missions. There was also the rival Casino Royale production, as bad as it was, to contend with, while the spy boom created by Bond had been overkilled elsewhere and was on the wane. Extortion is my business. Go away and think it over, gentlemen. I'm busy. True enough that You Only Live Twice has flaws, though they are far from being film killers if you like the gadgets and hi-techery side of the franchise? Connery announced once production was over that he was leaving the role of Bond behind. He had been close to breaking point after Thunderball, but finally the media circus, typecasting, the fanaticism and the character merely being a cypher for outrageous sequences, led Connery to finally call it a day. His displeasure shows in performance, oh it's professional, very much so, but the swagger and machismo from the earlier films has gone. Although Dahl's script tones down the \"cheese\" dialogue and unfolds as a plot of considerable World peril worth, characterisations are thinly drawn, making this reliant on production value and action sequences. Thankfully both are top dollar. And the ace up its sleeve is the long awaited face to face meeting of Bond and Blofeld. The firing power inside my crater is enough to annihilate a small army. You can watch it all on TV. It's the last program you're likely to see. Ken Adam's set design is fit to grace any epic in film history, as is Freddie Young's photography around the Japanese locales, Barry lays a beautiful Bond/Oriental score all over proceedings and Nancy Sinatra's title song is appealingly catchy. The action is excellently constructed by Gilbert (helming the first of three Bond movies on his CV), with the final battle at Blofeld's volcano crater base full of explosions, flying stunt men, expert choreography and meaty fights. Along the way we have been treated to Ninjas, Piranhas, poison, aeroplane peril and the awesome Little Nellie versus the big boy copter smack down! Then there's that Bond/Blofeld confrontation. Well worth the wait, with Pleasence visually scary with bald head (setting the marker for bald villainy to follow in TV and cinema it seems) and scar across his eye. Pleasence is also very low key with his menace, which is perfect, we don't want pantomime and the scenes with Bond work wonderfully well. It made less than the film before it and it has fierce critics in Bond and Fleming circles. But it's a Bond film that pays rich rewards on revisits, where the artistry on show really shines through in this HD/Upscale age. 8/10",
+         "When I first saw this in a drive-in in 1967, the opening sequence of this with Bond being shot did not make a big impression as this is the first Bond film I had ever seen. After the credits, the snatching of a space craft made an impression as it looked very much like the simulations CBS used to broadcast of the real flights. While this plot & some of the special effects seem a little dated & far fetched now with the passage of time, Sean Connery is great as his usual Bond self in this one. Donald Pleasance is very effective as the heavy Blofeldt, one of several actors who took a turn at it. The scenery of 1960's Toyko, Japan are nostalgic now. The thing which makes this Bond a little special is the understated way the humor is handled. Using \"I Love You\" as a password for one thing. Of course, the irony of the line \"This can save your live - this cigarette,\" is still pretty effective. All the regulars in the series are here with Q much in evidence. This one is still a very pleasant diversion for a rainy afternoon.",
+         "My Take: Another fun Bond entry. Great Bond, fun villains, neat gadgets, and enjoyable action. \"You Only Live Twice\" is business as usual for Bond. Not much new, and Connery seemed bored playing his role (explaining his disappearance in \"On Her Majesty's Secret Service\"). There is a lot to like in this film. Connery in \"You Only Live Twice\" is easily comparable to FROM Russia WITH LOVE and GOLDFINGER, but as Bond, he already has established that he is the best in the business and YOU ONLY LIVE TWICE does give him much to do. This film does carry the original tradition of Bond. This time around, Bond is sent to Japan to investigate the disappearances of American space shuttles. While the United States suspect it's Russian interference and threaten to retaliate, the Brits faked 007's assassination, in order to clear the way for Bond to investigate what really is going on. Some areas of YOLT are pretty campy (some of the patterns for the AUSTIN POWERS parodies are pretty evident), but the camp is part of the fun. It's a throwback to the good ol' not-to-be-taken-seriously adventure espionage fun. This is formula Bond, but loaded with great action, neat gadgetry (\"Little Nellie\" is one of the most beloved Q gadgets) and the glorious sets by the one-and-only Bond veteran Ken Adam make it another high-flying, if not exactly groundbreaking, Bond adventure and one of he series' more fun entries. Rating: **** out of 5.",
+         "An entertaining and fast-paced fifth entry for Sean Connery as James Bond, You Only Live Twice audaciously (and cheekily) chooses to ignore the plot of the original novel and instead hurtles along its own merry route. Working from a screenplay by children's' author Roald Dahl, director Lewis Gilbert fashions a thoroughly enjoyable slice of escapism, brimming over with witty dialogue and outrageous action sequences. Following the \"swallowing up\" of an American space shuttle in orbit by an unmarked enemy shuttle, the U.S angrily accuses Russia of stealing their spacecraft and threatens to declare war if any similar incidents take place during their forthcoming launch. The British remain unconvinced that the Russians had anything to do with the crime, as they suspect the enemy shuttle (the one which swallowed up the American craft) actually came down somewhere in Japan. James Bond (Sean Connery) is sent to Japan to figure out what is going on before it's too late. He quickly establishes that his old adversaries SPECTRE are the masterminds behind the scheme, but try as he might he cannot trace their operations base, which seems to be concealed in a remote volcanic region. Aided by the head of the Japanese Secret Service, Tiger Tanaka (Tesuro Tamba), Bond races against the clock as Armageddon beckons in an effort to find the criminal lair and put an end to SPECTRE's sinister plot. You Only Live Twice is totally different to the first two movies in the series (Dr. No and From Russia With Love) because it is intentionally extravagant and far-fetched. This is more a continuation of the style of Bondage we came to know and love in number 3 (Goldfinger) and number 4 (Thunderball). If anything, this one reaches an apotheosis of sorts in terms of ludicrous set pieces. Connery is brilliant as Bond (he had really had his fill of the character by this point, but was professional enough to hide his boredom while the cameras were rolling). Also, Nancy Sinatra belts out one of the greatest theme tunes ever to grace the series. And Ken Adam deserves to be showered with accolades for his amazing set designs, the pinnacle of which is the volcanic base used by SPECTRE (to this day, it remains the best baddie's lair ever seen in a movie). You Only Live Twice might not be one for the purists, but for anyone wanting to be exhilarated and entertained it really hits the mark."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Eon Productions",
+         "Danjaq"
+      ],
+      "summaries": [
+         "When an American space capsule is swallowed up by what they believe to be a Russian spaceship, World War 3 nearly breaks out. The British Government, however, suspect that other powers are at work as the space craft went down near Japan. S.P.E.C.T.R.E. is the force behind the theft, as James Bond discovers, but its motives are far from clear, and he must first find out where the captured space capsule is held before America and Russia initiate another world war.",
+         "After a mysterious rocket ship seizes manned space missions from Earth's orbit, suspicions mount and the world superpowers are hurled to the brink of war. Their only hope rests with James Bond, who races to stop the space-jackings' true mastermind, Ernst Blofeld. Chief of the evil SPECTRE organization, Blofeld is bent on instigating global warfare from his massive headquarters nestled in an inactive volcano. As the countdown begins, Bond joins forces with luscious Japanese agent Kissy Suzuki and scores of Ninja warriors to mount a daring raid on Blofeld's lair and prevent a calamitous world war.",
+         "During a routine US space mission a manned American rocket mysteriously disappears while in orbit. The Americans naturally suspect the Soviets and threaten retaliation. However, the British are more cautious after one of their tracking stations indicates that the space craft may have come down near the Sea of Japan. James Bond is sent to investigate, but when the Soviets lose one of their space craft in similar circumstances, 007 has only a few days to locate the launch site and prevent the outbreak of World War III.",
+         "In 1967 the US and Soviet Russia reach a new crisis when Jupiter 16, a US space capsule, is captured in Earth orbit by a strange rocket ship. The US accuses the Soviets of the space hijacking, even though Great Britain believes the alien ship landed in the Sea Of Japan. Her Majesty's Secret Service now swings into action by \"killing\" James Bond in Hong Kong - a ruse so Bond can move about Japan unmolested by his enemies. Working with, and enjoying the exotic hospitality of, Japanese SIS and its commander \"Tiger\" Tanaka, James uncovers evidence that a major chemical company is smuggling liquid oxygen for rocket fuel, and his and Tanaka's investigation leads to an extinct volcano that is the source of the space hijacking - just as a Soviet spacecraft is grabbed by the alien rocket and a previously scheduled US launch is pushed upward with America's strategic forces on full battle alert, forcing James and Tanaka to confront the true source of the space hijackings - SPECTRE, and its ruthless leader Ernst Stavro Blofeld.",
+         "Agent 007 and the Japanese secret service ninja force must find and stop the true culprit of a series of spacejackings before nuclear war is provoked."
+      ],
+      "budget": 9500000
+   },
+   "movielensId": 7569,
+   "movielens": {
+      "languages": [
+         "English",
+         "日本語",
+         "Pусский"
+      ],
+      "releaseDate": "1967-06-12",
+      "dvdReleaseDate": "2000-10-17",
+      "directors": ["Lewis Gilbert"],
+      "runtime": 117,
+      "movieId": 7569,
+      "title": "You Only Live Twice",
+      "mpaa": "PG",
+      "actors": [
+         "Sean Connery",
+         "Akiko Wakabayashi",
+         "Karin Dor",
+         "Mie Hama",
+         "Tetsurō Tamba",
+         "Teru Shimada",
+         "Donald Pleasence",
+         "Bernard Lee",
+         "Lois Maxwell",
+         "Desmond Llewelyn",
+         "Charles Gray",
+         "Tsai Chin",
+         "Burt Kwouk",
+         "Michael Chow",
+         "Ronald Rich",
+         "Jeanne Roland"
+      ],
+      "imdbMovieId": "0062512",
+      "originalTitle": "You Only Live Twice",
+      "genres": [
+         "Action",
+         "Thriller",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": [
+         "-gGiYrS2Y1k",
+         "Ovp7MN4tG54",
+         "DEwcWLxfKDg",
+         "KOBqj1wuEXM"
+      ],
+      "plotSummary": "A mysterious space craft kidnaps a Russian and American space capsule and brings the world on the verge of another World War. James Bond investigates the case in Japan and meets with his archenemy Blofeld. The fifth film from the legendary James Bond series starring Sean Connery as the British super agent.",
+      "tmdbMovieId": 667,
+      "avgRating": 3.61039,
+      "releaseYear": "1967",
+      "numRatings": 2781,
+      "posterPath": "/7dnsJZniZK1Hbc9mOFDYa5W0dHi.jpg"
+   }
+}

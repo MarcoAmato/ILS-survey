@@ -1,0 +1,776 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "anti terror",
+            "id": 139
+         },
+         {
+            "name": "terror",
+            "id": 321
+         },
+         {
+            "name": "cia",
+            "id": 591
+         },
+         {
+            "name": "loss of loved one",
+            "id": 697
+         },
+         {
+            "name": "police brutality",
+            "id": 796
+         },
+         {
+            "name": "terrorist",
+            "id": 949
+         },
+         {
+            "name": "war on terror",
+            "id": 1242
+         },
+         {
+            "name": "kidnapping",
+            "id": 1930
+         },
+         {
+            "name": "intelligence",
+            "id": 2051
+         },
+         {
+            "name": "despair",
+            "id": 2300
+         },
+         {
+            "name": "inhumanity",
+            "id": 2614
+         },
+         {
+            "name": "senator",
+            "id": 2944
+         },
+         {
+            "name": "plo",
+            "id": 3047
+         },
+         {
+            "name": "civil rights activist",
+            "id": 4098
+         },
+         {
+            "name": "hijacking",
+            "id": 4245
+         },
+         {
+            "name": "terror cell",
+            "id": 4460
+         },
+         {
+            "name": "politics",
+            "id": 6078
+         },
+         {
+            "name": "politician",
+            "id": 6083
+         },
+         {
+            "name": "government",
+            "id": 6086
+         },
+         {
+            "name": "torture by the police",
+            "id": 7097
+         },
+         {
+            "name": "torture",
+            "id": 13006
+         },
+         {
+            "name": "cruelty",
+            "id": 14624
+         },
+         {
+            "name": "american",
+            "id": 14638
+         },
+         {
+            "name": "surveillance",
+            "id": 18420
+         }
+      ],
+      "imdb_id": "tt0804522",
+      "video": false,
+      "title": "Rendition",
+      "recommendations": [
+         14637,
+         4169,
+         13291,
+         4959,
+         6973,
+         4566,
+         5820,
+         16995,
+         2116,
+         16558,
+         179,
+         4413,
+         13150,
+         1537,
+         10685,
+         10741,
+         11329,
+         1266,
+         65760,
+         9039
+      ],
+      "backdrop_path": "/8K8EwDzFA5fRZdAfldBnVktE7O3.jpg",
+      "revenue": 24748670,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Anwar El-Ibrahimi",
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a6d7",
+               "name": "Omar Metwally",
+               "profile_path": "/dtXSRiNpZRpfsMNPgn5EhOA6o70.jpg",
+               "id": 41309,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Isabella Fields El-Ibrahimi",
+               "gender": 1,
+               "credit_id": "52fe43f5c3a36847f807a6db",
+               "name": "Reese Witherspoon",
+               "profile_path": "/a3o8T1P6yy4KWL7wZG6HuDeuh5n.jpg",
+               "id": 368,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Douglas Freeman",
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a6df",
+               "name": "Jake Gyllenhaal",
+               "profile_path": "/wRgIPBzVzIIhWcdJAduPOKJJHsL.jpg",
+               "id": 131,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Khalid",
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a6e3",
+               "name": "Moa Khouas",
+               "profile_path": "/1whqy0Z3VHMfkvj5CG31TekDGM7.jpg",
+               "id": 41313,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Fatima Fawal",
+               "gender": 1,
+               "credit_id": "52fe43f5c3a36847f807a6e7",
+               "name": "Zineb Oukach",
+               "profile_path": null,
+               "id": 41314,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Abasi Fawal",
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a6eb",
+               "name": "Igal Naor",
+               "profile_path": "/fywzghy8kLToNRH4OvrLkFSuXqA.jpg",
+               "id": 41316,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Lina Fawal",
+               "gender": 0,
+               "credit_id": "52fe43f5c3a36847f807a6ef",
+               "name": "Laila Mrabti",
+               "profile_path": null,
+               "id": 41317,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "William Dixon",
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a6f3",
+               "name": "David Fabrizio",
+               "profile_path": "/rcT4BPhZQDK0a2nIp9WlGn920eG.jpg",
+               "id": 41318,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Lee Mayer",
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a6f7",
+               "name": "J.K. Simmons",
+               "profile_path": "/jPoNW5fugs5h8AbcE7H5OBm04Tm.jpg",
+               "id": 18999,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Corrine Whitman",
+               "gender": 1,
+               "credit_id": "52fe43f5c3a36847f807a6fb",
+               "name": "Meryl Streep",
+               "profile_path": "/uyalVm3tH5DaUoxCmvILS9sUFsR.jpg",
+               "id": 5064,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Alan Smith",
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a6ff",
+               "name": "Peter Sarsgaard",
+               "profile_path": "/dGoUlDEJumPY0CFlT7eM6KVdLUu.jpg",
+               "id": 133,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Senator Hawkins",
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a703",
+               "name": "Alan Arkin",
+               "profile_path": "/gcrKO2z0YVUXBXVeB9V8PndG0IJ.jpg",
+               "id": 1903,
+               "order": 11
+            },
+            {
+               "cast_id": 33,
+               "character": "Omar Adnan",
+               "gender": 0,
+               "credit_id": "52fe43f5c3a36847f807a77f",
+               "name": "Najib Oudghiri",
+               "profile_path": "/qypl5cGpO0pjBWhk54TTW5ATEmh.jpg",
+               "id": 143403,
+               "order": 12
+            },
+            {
+               "cast_id": 51,
+               "character": "Capitol Hill Police",
+               "gender": 2,
+               "credit_id": "56e48c0492514103c5000ef6",
+               "name": "Craig Johnson",
+               "profile_path": "/3zQz9APo9gNMDhJ5d4WUQeoAn9y.jpg",
+               "id": 1589942,
+               "order": 13
+            },
+            {
+               "cast_id": 54,
+               "character": "Layla Fawal",
+               "gender": 1,
+               "credit_id": "57b69e94c3a3685f570026c1",
+               "name": "Reymonde Amsallem",
+               "profile_path": "/oLv0RFkVnQNpTKvGHdb4xb8LgZI.jpg",
+               "id": 1662523,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a709",
+               "name": "Steve Golin",
+               "profile_path": null,
+               "id": 322,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a70f",
+               "name": "David Kanter",
+               "profile_path": null,
+               "id": 41326,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43f5c3a36847f807a715",
+               "name": "Mark Martin",
+               "profile_path": null,
+               "id": 41327,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a71b",
+               "name": "Edward Milstein",
+               "profile_path": null,
+               "id": 41328,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a721",
+               "name": "Keith Redmon",
+               "profile_path": null,
+               "id": 41329,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a727",
+               "name": "Paul Schwake",
+               "profile_path": null,
+               "id": 41330,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a72d",
+               "name": "Michael Sugar",
+               "profile_path": null,
+               "id": 41331,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a733",
+               "name": "Bill Todman Jr.",
+               "profile_path": null,
+               "id": 11000,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a739",
+               "name": "Marcus Viscidi",
+               "profile_path": null,
+               "id": 41332,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a73f",
+               "name": "Paul Hepker",
+               "profile_path": null,
+               "id": 13082,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a745",
+               "name": "Mark Kilian",
+               "profile_path": null,
+               "id": 13083,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a74b",
+               "name": "Dion Beebe",
+               "profile_path": "/q24Jkyu8VclqhdYhPpti7fXoSkS.jpg",
+               "id": 647,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43f5c3a36847f807a751",
+               "name": "Megan Gill",
+               "profile_path": null,
+               "id": 13085,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a757",
+               "name": "Barry Robison",
+               "profile_path": null,
+               "id": 19284,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43f5c3a36847f807a75d",
+               "name": "Tony Noble",
+               "profile_path": null,
+               "id": 41334,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43f5c3a36847f807a763",
+               "name": "Harry Pain",
+               "profile_path": null,
+               "id": 41335,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43f5c3a36847f807a769",
+               "name": "Jille Azis",
+               "profile_path": null,
+               "id": 41336,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a76f",
+               "name": "Michael Wilkinson",
+               "profile_path": "/5363Z5CBR7PoVjyxxnVOuifKrM5.jpg",
+               "id": 5392,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f5c3a36847f807a77b",
+               "name": "Gavin Hood",
+               "profile_path": "/1W4NlD5YpGHnXdD2HGeG9bWSqYV.jpg",
+               "id": 13079,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43f5c3a36847f807a785",
+               "name": "Kelley Sane",
+               "profile_path": null,
+               "id": 1196742,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a391acc3a3681cf0005541",
+               "name": "Madelein Krugell",
+               "profile_path": null,
+               "id": 1486841,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a390b0c3a3681cec004af4",
+               "name": "Bruria Albeck",
+               "profile_path": null,
+               "id": 55049,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55a390c5c3a3681ce70052bc",
+               "name": "Kate Dowd",
+               "profile_path": null,
+               "id": 53346,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55a390d8925141297d005411",
+               "name": "Kathy Driscoll",
+               "profile_path": null,
+               "id": 19156,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55a390ebc3a3681cde004e85",
+               "name": "Francine Maisler",
+               "profile_path": "/7kOKhRSuwDXqyd2Dm2xdWdi18lQ.jpg",
+               "id": 6410,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a391c19251412980005074",
+               "name": "Nezha Aouis",
+               "profile_path": null,
+               "id": 41337,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a391d8925141298000507a",
+               "name": "Eammon Hughes",
+               "profile_path": null,
+               "id": 1486842,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55a391fe9251412979004c33",
+               "name": "J. Roy Helland",
+               "profile_path": null,
+               "id": 32491,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a39223c3a3681cf50052c4",
+               "name": "Fríða Aradóttir",
+               "profile_path": null,
+               "id": 1413224,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a39248c3a3681cec004b11",
+               "name": "Molly Stern-Schlusse",
+               "profile_path": null,
+               "id": 1486843,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a392619251412974005320",
+               "name": "Rebecca Lafford",
+               "profile_path": null,
+               "id": 1414091,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55a3927cc3a3681cde004eab",
+               "name": "Steve Artmont",
+               "profile_path": null,
+               "id": 92329,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a392a9c3a3681cf0005554",
+               "name": "Carol Kiefer",
+               "profile_path": null,
+               "id": 1355529,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a392d49251412974005327",
+               "name": "Robyn Aronstam",
+               "profile_path": null,
+               "id": 6514,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570ab7adc3a3680fc2004517",
+               "name": "Kevin Constant",
+               "profile_path": null,
+               "id": 16467,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570ab7bdc3a36877960051dd",
+               "name": "Keith Pain",
+               "profile_path": null,
+               "id": 8646,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 8.825388,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 5125,
+      "vote_count": 265,
+      "budget": 27500000,
+      "overview": "When an Egyptian terrorism suspect \"disappears\" on a flight from Africa to Washington DC, his American wife and a CIA analyst find themselves caught up in a struggle to secure his release from a secret detention facility somewhere outside the US.",
+      "similar": [
+         8834,
+         4723,
+         1164,
+         954,
+         26389,
+         36557,
+         36955,
+         752,
+         9509,
+         9388,
+         7461,
+         101,
+         562,
+         955,
+         137094,
+         14869,
+         27576,
+         97630,
+         23631,
+         59965
+      ],
+      "original_title": "Rendition",
+      "runtime": 120,
+      "poster_path": "/5vsEosyU3c5pCkjygaFnhilkng4.jpg",
+      "spoken_languages": [
+         {
+            "name": "العربية",
+            "iso_639_1": "ar"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+            "name": "Anonymous Content",
+            "id": 10039,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Level 1 Entertainment",
+            "id": 10040,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "MID Foundation",
+            "id": 20666,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2007-09-07",
+      "vote_average": 6.3,
+      "belongs_to_collection": null,
+      "tagline": "What if someone you love...just disappeared?",
+      "adult": false,
+      "homepage": "http://www.renditionmovie.com",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Gavin Hood"],
+      "runtime": 122,
+      "synopsis": "CIA analyst Douglas Freeman (Jake Gyllenhaal) is briefing his chief in a square in North Africa when a suicide attack kills his boss and 18 other people. The target was interrogator and torturer Abasi, but he is unharmed. Egyptian-born Anwar El-Ibrahimi (Omar Metwally), a chemical engineer who lives in Chicago with his pregnant wife Isabella (Reese Witherspoon) and their young son, is linked to a violent organization by telephone records indicating known terrorist Rashid placed several calls to Anwar's cell phone. While returning to the US from a conference in South Africa, he is detained by American officials and sent to a secret detention facility near the location of the suicide attack depicted earlier. Isabella is not informed and, growing worried, travels to Washington and slowly pieces together details of Anwar's detention. For lack of more experienced staff, Freeman is assigned the task of observing the interrogation of Anwar by Abasi Fawal (Igal Naor). After Freeman briefly questions and tortures Anwar himself, he is convinced of Anwar's innocence. However, his boss insists that the detention continues, justifying such treatments as necessary to save thousands from becoming victims of terrorism. Eventually Anwar confesses to having advised on how to make more powerful bombs, and to have been promised $40,000 in return. However, Freeman believes it is a false confession, which is confirmed when he Googles the names Anwar gives as Rashid's aides and finds out that they are the names of the Egyptian football team from the year Anwar left Egypt. He also expresses doubt as to whether Anwar would be willing to put his life, family and job in danger for $40,000 when he earns $200,000 in his job. He quotes Shakespeare in a discussion on the value of intelligence gathered through torture: I fear you speak upon the rack, Where men enforced do speak anything. Without the consent of his superiors, Freeman orders Anwar's release and lets him escape through a clandestine trip by ship to Spain. Anwar returns to the US and is reunited with his family. Freeman then leaks the details of Anwar's detention to the American press. The story is then found in the newspapers the following day by Corrine Whitman, who ordered Anwar's extraordinary rendition. Another story line is shown in parallel, but at the end of the film it turns out that all this happened before the suicide attack: Abasi's daughter Fatima (Zineb Oukach), has run away from home with her boyfriend Khalid (Moa Khouas), whose brother died in Abasi's prison. Unknown to Fatima, Khalid is a terrorist. He is the one who carries out the suicide attack with Abasi as the target. But Fatima finds out from the photos that Khalid's brother met his death at the hands of her father, and realizes what Khalid is planning. At the town square Fatima begs him not to do it, arguing that the target is her father. After removing the pin of his detonator he hesitates, and is therefore killed by the organizers of the attack. As a result he releases the handle of the detonator, and the bomb explodes, killing Fatima also. The record of a phone call supposedly made by Rashid to Anwar is not explained in the film. However, earlier it was mentioned that phones are sometimes passed on from one person to another, yet despite this reasonable doubt the CIA officials refused to release him. It turned out that in South Africa, while Anwar's phone was off, there had been a call to it from an unknown person. For the scenes of Abasi's private life it is not always clear to which storyline they belong, that before or after the explosion. Abasi learns about Fatima's death only a week later.",
+      "writers": ["Kelley Sane"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0804522/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk2MzcwMTIwOV5BMl5BanBnXkFtZTcwMDc4MjI1MQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Reese Witherspoon, Jake Gyllenhaal, Peter Sarsgaard | See full cast and crew »"],
+      "reviews": [
+         "I saw the movie yesterday and was shocked by it, but even more shocked by some of the comments I have read here. One person wrote that it was ambiguous if the victim of the torture was guilty or not--therefore... One person wrote that since he wasn't an American citizen, therefore... Some people comment that the people in the Middle East hate us and want us dead, therefore... So are we saying then that it is right to torture someone who is guilty of a crime? Are we saying it is right to torture someone who is not an American Citizen? Are we saying that it is right to torture someone who may hate us and want us dead? Are we saying that, as is written in the Geneva Convention, the Declaration of Human Rights and the Constitution of the United States that \"torture is wrong, but some torture is less wrong than others?\" When does it become \"right\" to torture? THAT is why this movie is powerful-- it is ambiguous, but not about torture. Torture is always wrong, and if we are willing to do it, even in the name of justice and \"National Security\" or \"freedom and democracy\" then we are wrong and we are evil; we are doing exactly what we are accusing our enemies of doing (and we are calling them \"wrong\" in the same breath.) My favorite line in the film was \"if you don't want to compromise join Amnesty International.\" Right on.",
+         "Rendition presents a very topical matter in the form of a very tense thriller. It's a gripping, and not a preaching, movie. Seeing it in an Arab country with a mixture of Arabian and European audience gave it an extra level of atmosphere. The audience was totally gripped by the film and gave it a loud applause afterwards. The story of an Egyptian, married to an American, picked up on the suspicion of links to terrorist organizations and shipped to a friendly (with US) Arab country for \"enhanced interrogation (as Meryl Streep's character states in the film: \"we have no torture in the US\") seems to be from the front page of todays news. There is a very neat link between the various characters which appear in the movie and the pace of the film never drops. The movies'message seems to be (as stated by Jake Gyllenhal's character in the film) that by abducting and torturing suspects you create many more terrorists. The acting is uniformly excellent with Streep and Reese Witherspoon the stand outs. Not to be missed.",
+         "I think this was the most outstanding edge-of-your-seat thriller that I have seen in a long time. The research for the film was thorough, the writer Kelly Sane has left no loose ends. The cast was seasoned (fantastic performances all round). Omar Metwally was outstanding. The cinematography is poetic, music enchanting and the overall effect highly satisfying. Rendition goes into territory that even the media fears to tread. It is really a wakeup call for those involved with espionage and the legal web that is the \"War on Terror\". A woman walked out of the theater and asked me \"does this really happen\"? That in itself speaks of Gavin Hood's masterful achievement.",
+         "Imagine you have just been on a plane for 18 hours. You have been on a business trip to South Africa. You are a high-paid professional. You've lived in the US for 20 years. You are in your thirties, you have a wife a little boy and another baby on the way. One thing, even though you have a green card, you are still Egyptian. On transit you are asked to come with 2 security guards, next thing you know you are overpowered, hooded and chained and after a brief ( but still reasonably civil) interrogation you are to be rendered! This is what happens to Anwar el Ibrahimi at the beginning of the movie. His is a story of pain and ( literally )torture. It's one of several story lines. One follows his wife's attempts to get more information. One follows the (cold) bureaucrats behind the rendition. Another story deals with the family of the man who leads the interrogation of Anwar el Ibrahimi. There are some other stories too and by the end they all neatly come together. Though the more famous actors like Reese Witherspoon ( as the distraught pregnant wife ) Jake Gyllenhaal ( as the CIA rookie forced to watch the interrogation in Northern Africa) and Meryl Streep ( as CIA hotshot Corine Whitman) it is really the more unknown actors that carry the story and give it it's heart. For me the actor playing the unfortunate Mr El Ibrahimi ( Omar Metwally ) was the heart and soul of this movie. His portrayal of a man in distress was shockingly well done. It's almost as if he was being tortured for real! Also Israeli actor Yigal Naor was very impressive as the part worried family-man and part extremely cruel chief of torture. Hard to watch and not exactly fun, but still very worthwhile.",
+         "In this day and age in which just about every other news story involves discussions of waterboarding, images of Abu Ghraib, or tales of forced detentions at Guantanamo Bay, Gavin Hood's \"Rendition\" is about as up-to-the-minute and timely a movie as is ever likely to come out of the entertainment mills of mainstream Hollywood. It's not, by any stretch of the imagination, a perfect film, but neither does it merit the caterwauling opprobrium it has received at the hands of critics from all across the ideological and political spectrum. The term \"rendition\" refers to the ability of the CIA to arrest any individuals it suspects of terrorist dealings, then to whisk them away in secret to a foreign country to interrogate and torture them for an indefinite period of time, all without due process of law. Anwar El-Ibrahimi is an Egyptian man who has been living for twenty years in the United States. He has an American wife, a young son and a new baby on the way. He seems a very unlikely candidate for a terrorist, yet one day, without warning or explanation, Anwar is seized and taken to an undisclosed location where he is subjected to brutal torture until he admits his involvement with a terrorist organization that Anwar claims to know nothing about. On the negative side, \"Rendition\" falters occasionally in its storytelling abilities, often biting off a little more than it can chew in terms of both plot and character. The ostensible focal point is Douglas Freeman, a rookie CIA agent who is brought in to observe Anwar's \"interrogation\" at the hands of Egyptian officials. The problem is that, as conceived by writer Kelley Sane and enacted by Jake Gyllenhaal, Freeman seems too much of a naïve \"boy scout\" to make for a very plausible agent, and he isn't given the screen time he needs to develop fully as a character. We know little about him at the beginning and even less, it seems, at the end. He \"goes through the motions,\" but we learn precious little about the man within. Thus, without a strong center of gravity to hold it all together, the film occasionally feels as if it is coming apart at the seams, with story elements flying off in all directions. A similar problem occurs with Anwar's distraught wife, played by Reese Witherspoon, a woman we never get to know much about apart from what we can see on the surface. Gyllenhaal and Witherspoon have both proved themselves to be fine actors under other circumstances, but here they are hemmed in by a restrictive screenplay that rarely lets them go beyond a single recurring note in their performances. What makes \"Rendition\" an ultimately powerful film, however, is the extreme seriousness of the subject matter and the way in which two concurrently running plot lines elegantly dovetail into one another in the movie's closing stretches. It may make for a slightly more contrived story than perhaps we might have liked on this subject, but, hey, this is Hollywood after all, and the film has to pay SOME deference to mass audience expectations if it is to get itself green lighted, let alone see the light of day as a completed project. Two of the supporting performances are particularly compelling in the film: Omar Metwally who makes palpable the terror of a man caught in a real life Kafkaesque nightmare from which he cannot awaken, and Yigal Naor who makes a surprisingly complex character out of the chief interrogator/torturer. Meryl Streep, Alan Arkin and Peter Sarsgaard also make their marks in smaller roles. Special mention should also be made of the warm and richly hued cinematography of Dion Beebe. Does the movie oversimplify the issues? Probably. Does it stack the deck in favor of the torture victim and against the evil government forces? Most definitely. (One wonders how the movie would have played if Anwar really WERE a terrorist). Yet, the movie has the guts to tread on controversial ground. It isn't afraid to raise dicey questions or risk the disapproval of some for the political stances it takes. It openly ponders the issue of just how DOES a nation hold fast to its hard-won principle of \"civil liberties for all\" in the face of terrorism and fear. And just how much courage does it take for people of good will to finally stand up and say \"enough is enough,\" even at the risk of being branded terrorist-appeasing and unpatriotic by those in power? (The movie also does not, in any way, deny the reality of extreme Islamic terrorism). Thus, to reject \"Rendition\" out of hand would be to allow the perfect to be the enemy of the good. \"Rendition\" may not be perfect, but it IS good, and it has something of importance to say about the world in which we now live. And that alone makes it very much worth seeing.",
+         "\"I fear you speak upon the rack, where men enforced do speak anything.\" This Shakespearean line from The Merchant of Venice is echoed again in the new film Rendition which introduces the viewer to the \"enhanced methods of interrogation\", renditions, which began in the Clinton Administration and have become more commonplace since the terror attacks of September 11, 2001. The film features an all-star cast, with Oscar winners Meryl Streep, Alan Arkin, and Reese Witherspoon, as well as Peter Sarsgaard, Jake Gyllenhaal, and Omar Metwally. Supporting roles filled by unfamiliar actors deliver as well, sucking the audience into the plot, and showing how many people can be affected by overseas terror attacks, and our means of investigating them. Rendition follows an Egyptian born terrorism suspect (Metwally) who is taken by U.S. officials following his flight from South Africa to Washington DC to an undisclosed prison overseas. His pregnant wife (Witherspoon) ventures to Washington DC to find out about his disappearance through a family friend and Senator's employee (Sarsgaard). Gyllenhaal plays a young CIA analyst at the overseas detention facility who monitors the violent interrogation. This film follows the emotional plights of the torture victim (Metwally), and those involved in obtaining the supposed information from him. Some, like the CIA analyst (Gyllenhaal), are visibly shaken and horrified by the methods exercised, while others, the stern Senator (Streep) and foreign interrogator (Yigal Naor), see it as necessary and effective. The film may be described by some as a political piece, but is ultimately an emotional one. Metwally's performance as the tortured prisoner is Oscar-worthy. The film does not intend to preach, but rather to question and inform the audience on a topic that does not often have a human face put on it. Renditions have been known to work, but have also been known to produce false information from innocent prisoners. The film simply depicts the emotional struggles of those involved in such grave business, and does so in a way that will affect every viewer differently. The film will keep your interest, and have you engaged in each of the character's plights.",
+         "I liked this movie. I saw it to a packed house at the Toronto International Film Festival the day after the gala opener which must have gone over well. The director, Gavin Hood was supposed to be present for today's screening, but alas his twins were born just hours before, so he had to jet on a flight back. '2 birthings in 24 hours' was how he joked about it. Rendition refers to 'extraordinary rendition' -- a term whereby suspected terrorists in the US can be sent, without the legal consent of their parents nations, to prisons abroad to be questioned and detained. It's fairly predictable -- innocent Egyptian-American man wrongly accused of being a terrorist 'goes missing' while en route from South Africa to Washingon DC. He is sent abroad, while wife at home (Reese Witherspoon) fights to find him and free him. But what makes this movie special are some nice choices in story-telling: 1) a human-touch story of what is going on in the locale where a suicide bomb-detonated; 2) the humanity of a CIA agent trying to understand and be honest with what is really going on; and 3) the chronology of story-telling which makes it a tight, taut tale that moves and jerks at the right moments. Ah -- relief! And a mix of emotions that swirl around as the story fights for an ending. All-around strong acting with Meryl Streep as a standout vixen.",
+         "The film tackles the here and now horror of \"rendition\" with a multi-cast trans-global account of all involved. No-one gets off lightly because we see the blindness of the players as they carve out their own slice of the worldwide game piling hatred and misery on their \"enemies\" and themselves in equal measure. The interplay between the sympathetic Senator's Aide (played in scintillating style by Peter Sarsgaard) and the real Washington power-mongers is electrifying. Meanwhile out in the field, new CIA man (Jake Gyllenhaal) goes through a sea change in his attitude to the USA's new found cosiness with torture. Sudden though his rejection of what he initially tacitly condoned is, one has to ask why on earth would anyone who calls him or herself civilized stand and watch anyone be humiliated and abused in this way? The film has few heroes - perhaps Gyllenhaal's flawed and vacillating CIA man is the exception and a necessary indulgence to make the film offer a sliver of hope. The sad fact of course is that this film isn't fiction at all, but a wake up call to those with a shred of decency left in them. The awful truth is that we in the UK and USA have lost the moral plot and this film shows how low we are prepared to go. All this in the name of freedom! There's a wonderful line in the script that says that torture is a sure way to swell the numbers of our enemies. This is already happening in real life and we should listen to the message that this film delivers and start using our might and money much more intelligently!! The message seems to be that any of us who claim that rendition, torture and the abuse of basic human rights are necessary to protect our way of life are as wrong-headed and stultifyingly stupid as the Jihadists and suicide bombers. All praise to the sensibilities of a talented South African director with a eye on the gross unfairness of how power is exercised, and a cast of principled mainstream actors from the US and beyond. Oh, and by the way, the film has a sting in its tail with the ending a clever and thought provoking surprise (which I won't give away). I saw the film in an early London preview so it has not yet been widely written up but I'm glad to say that the tide of less than glowing reviews seems to be turning. The BBC review has been very strongly in support and they (and I) suspect that much of the negative comments come from those who see the world through the simple specs of Hollywood - where the good guys and the bad guys are cardboard cut-outs. Hence the reason that many of the truly great films of the year are increasingly indie and/or non-US pix.",
+         "Most of this political thriller presented as a mostly run of the mill movie with a somewhat better development of many of the major characters, that was much appreciated, until the BIG twist and powerful climax that recalled twists experienced in \"Silence of the Lambs,\" or \"The Sixth Sense.\" Reese Witherspoon as the distraught wife of the missing Egyptian husband and Yigal Naor as the strong-armed interrogator offer strong performances. Jake Gyllenhaal unfortunately is handed a more two-dimensional character and has to struggled with a stereotypical presentation of the emotionally torn CIA analyst that has been presented many times before in other movies. Early on there is the nice scene with an explosion that resembles a scene at the end of \"Saving Private Ryan,\" the silent scene that was used so effectively in reflecting one consequence of violence. The script also provides a little more glimpse into the mind-set of the \"enemy\" but still doesn't allow the audience really much understanding, again permitting the audience to wallow in stereotypical characterization. The cinematography and photography also is somewhat of a letdown because unlike \"Jarhead,\" or \"Blackhawk Down,\" the crisp, raw visceral presentation is missing not allowing the audience to really be there in the movie, there is some distance that keeps the audience from realizing the intensity of the emotions occurring on the screen. However, overall, the movie redeems itself by the end, offering the audience a measured look into the complexity of the United States' use of rendition and the possible complications and consequences that may occur through its use. Eight out of Ten Stars.",
+         "Think of it as an extreme form of detention without trial. Without commenting and taking a side on the US Foreign Policy, the process of Extraordinary Rendition involves taking persons suspected of terrorist activities to a foreign country, an opposite to an extradition if you wish, to a place where torture is not a crime but a means to illicit information. Instead of staining your soil with blood of potentially innocent parties, you do so on foreign land where such tactics are accepted interrogation techniques. Naturally, given the severity of the tactics and attempts at breaking down a person, sometimes you would get what you want once you pass the resistance, or get nothing, or worst of all, get a confession just because the mind has been broken to the point that the subject will agree to whatever you say. It's an ugly process, and what better way to do it when you're the champion human rights, giving the nod to use whatever means necessary in the name of protecting more lives, in an age where information is key to the battle against terror, and doing so in a country where probably the rights record is questionable. Rendition is this year's Syriana, though in the run up to the new year we do have a number of political thriller contenders to take that crown, with Rendition first of all, followed by the Robert Redford movie Lions for Lambs, starring Tom Cruise and Meryl Streep (again, though now on the other side of the fence), and The Kingdom with Jamie Foxx and Jennifer Garner, though this one would probably turn out to be more action driven. Directed by Gavin Hood, who did Tsotsi and will be helming the new Wolverine spin off, Rendition is a decent thriller with a top notch cast, in a narrative that has been proved quite popular these days - the split, which provides for some ample differential perspectives to be presented through an ensemble cast. Anwar El-Ibrahimi (Omar Metwally), a chemical engineer, gets renditioned en route to going home under the orders of CIA top brass Corrine Whitman (Meryl Streep). At a detention facility outside the US, Jake Gyllenhaal's CIA analyst Douglas Freeman (oh so prophetic) embarks on his very first interrogation session, no doubt being thrust into a position that he didn't sign up for. Back home, a very pregnant Reese Whitherspoon searches frantically for answers to her husband's disappearance, and sought after an ex-flame Alan Smith's (Peter Sarsgaard) assistance, since he's working for Senator Hawkins (Alan Arkin). Throw in J.K. Sinmmons, a terrorist plot investigation and a budding forbidden love story between Fatima (Zineb Oukach) and Khalid (Moa Khouas), you have quite a bit going on in a busy picture. Given a number of casts, locations, timelines and the likes, Rendition wasn't confusing at all, and it plays out with deft handling of the material, never quick to judge, presenting ideas and thoughts from both sides of the equation. Every character has their own agenda, and the unveiling of this agenda engages enough not to bore nor to confuse you. And the best part of it all is how, very truly, they bow down to self-preservation in different forms, and ultimately, in various lose-lose situations unfortunately. It kept you guessing as well - did he or didn't he, and constantly played with your mind as to whether Anwar deserved what he's getting. It utilized one extremely smart sleight of hand which I didn't see coming until it's too late (so there goes the credit), though it did succumb to the usual stereotyping of terrorist militants, and without spending much time in depth to explore their motivations. Perhaps it didn't find a need to, given so many movies out there already touching base on this issue (Paradise Now, Day Night Day Night, Syriana even). While it turned out to be rather one-dimensional (personal tragedy to strapping of bombs to become a suicide bomber), I felt Rendition did right in not providing any saccharine sweet ending, that this fight against negative, destructive ideology, isn't something that can be addressed in a two hour movie, and I'm glad it steered clear such fairy tale implausibilities. What we have instead is a well crafted tale that sets its gun sights on the issue of Rendition, and probably capable enough to spark discussion once the lights come on, on which camp you belong to - do you support inflicting severe pain in interrogation? Yes or No? This is the quintessential question of our time. Yes or No? (OK, I'm already geared for Lions for Lambs)!"
+      ],
+      "genres": [
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Anonymous Content",
+         "Level 1 Entertainment",
+         "MID Foundation"
+      ],
+      "summaries": [
+         "After a terrorist bombing kills an American envoy in a foreign country, an investigation leads to an Egyptian who has been living in the United States for years and who is married to an American. He is apprehended when he's on his way home. The U.S. sends him to the country where the incident occurs for interrogation which includes torture. An American CIA operative observes the interrogation and is at odds whether to keep it going or to stop it. In the meantime, the man's wife raises hell to find him despite being pregnant but the person behind this refuses to help or give her any information.",
+         "When an Egyptian terrorism suspect \"disappears\" on a flight from Africa to Washington DC, his American wife and a CIA analyst find themselves caught up in a struggle to secure his release from a secret detention facility somewhere outside the US.",
+         "A CIA analyst questions his assignment after witnessing an unorthodox interrogation at a secret detention facility outside the US."
+      ],
+      "budget": 27500000
+   },
+   "movielensId": 55284,
+   "movielens": {
+      "languages": [
+         "العربية",
+         "English"
+      ],
+      "releaseDate": "2007-09-07",
+      "dvdReleaseDate": "2008-02-19",
+      "directors": ["Gavin Hood"],
+      "runtime": 120,
+      "movieId": 55284,
+      "title": "Rendition",
+      "mpaa": "R",
+      "actors": [
+         "Omar Metwally",
+         "Reese Witherspoon",
+         "Jake Gyllenhaal",
+         "Moa Khouas",
+         "Zineb Oukach",
+         "Igal Naor",
+         "Laila Mrabti",
+         "David Fabrizio",
+         "J.K. Simmons",
+         "Meryl Streep",
+         "Peter Sarsgaard",
+         "Alan Arkin",
+         "Najib Oudghiri",
+         "Craig Johnson",
+         "Reymonde Amsallem"
+      ],
+      "imdbMovieId": "0804522",
+      "originalTitle": "Rendition",
+      "genres": [
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["IaK-HKIdv1E"],
+      "plotSummary": "When an Egyptian terrorism suspect \"disappears\" on a flight from Africa to Washington DC, his American wife and a CIA analyst find themselves caught up in a struggle to secure his release from a secret detention facility somewhere outside the US.",
+      "tmdbMovieId": 5125,
+      "avgRating": 3.35849,
+      "releaseYear": "2007",
+      "numRatings": 477,
+      "posterPath": "/5vsEosyU3c5pCkjygaFnhilkng4.jpg"
+   }
+}

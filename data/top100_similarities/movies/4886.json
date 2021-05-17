@@ -1,0 +1,4618 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "competition",
+            "id": 271
+         },
+         {
+            "name": "monster",
+            "id": 1299
+         },
+         {
+            "name": "cheating",
+            "id": 1332
+         },
+         {
+            "name": "kidnapping",
+            "id": 1930
+         },
+         {
+            "name": "infant",
+            "id": 3256
+         },
+         {
+            "name": "villain",
+            "id": 3289
+         },
+         {
+            "name": "panic",
+            "id": 4210
+         },
+         {
+            "name": "energy supply",
+            "id": 6107
+         },
+         {
+            "name": "company",
+            "id": 6129
+         },
+         {
+            "name": "portal",
+            "id": 7939
+         },
+         {
+            "name": "rivalry",
+            "id": 9823
+         },
+         {
+            "name": "hijinks",
+            "id": 12011
+         },
+         {
+            "name": "best friend",
+            "id": 12392
+         },
+         {
+            "name": "scream",
+            "id": 13124
+         },
+         {
+            "name": "chameleon",
+            "id": 14569
+         },
+         {
+            "name": "parallel world",
+            "id": 33465
+         },
+         {
+            "name": "conveyor belt",
+            "id": 167106
+         },
+         {
+            "name": "invisibility",
+            "id": 189115
+         },
+         {
+            "name": "energy company",
+            "id": 204006
+         },
+         {
+            "name": "friend",
+            "id": 225061
+         },
+         {
+            "name": "conspirators",
+            "id": 236560
+         }
+      ],
+      "imdb_id": "tt0198781",
+      "video": false,
+      "title": "Monsters, Inc.",
+      "recommendations": [
+         12,
+         862,
+         10193,
+         9806,
+         863,
+         920,
+         2062,
+         8587,
+         808,
+         425,
+         62211,
+         10681,
+         14160,
+         953,
+         10191,
+         20352,
+         809,
+         9487,
+         812,
+         9502
+      ],
+      "backdrop_path": "/eKBUYeSgGVvztO2MZxD5YMcz6kv.jpg",
+      "revenue": 562816256,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 31,
+               "character": "James P. \"Sulley\" Sullivan (voice)",
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f8016903",
+               "name": "John Goodman",
+               "profile_path": "/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg",
+               "id": 1230,
+               "order": 0
+            },
+            {
+               "cast_id": 32,
+               "character": "Michael \"Mike\" Wazowski (voice)",
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f8016907",
+               "name": "Billy Crystal",
+               "profile_path": "/22PBSROMN6GmD7uxHpTNb0Unftt.jpg",
+               "id": 7904,
+               "order": 1
+            },
+            {
+               "cast_id": 34,
+               "character": "Randall Boggs (voice)",
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f801690f",
+               "name": "Steve Buscemi",
+               "profile_path": "/ieDyVKnQHo7eMGu1GOE7YYr2Fk4.jpg",
+               "id": 884,
+               "order": 2
+            },
+            {
+               "cast_id": 35,
+               "character": "Henry J. Waternoose III (voice)",
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f8016913",
+               "name": "James Coburn",
+               "profile_path": "/sEouHlYr1hOzl3u6E4KV6gIJSPd.jpg",
+               "id": 5563,
+               "order": 3
+            },
+            {
+               "cast_id": 36,
+               "character": "Celia Mae (voice)",
+               "gender": 1,
+               "credit_id": "52fe4256c3a36847f8016917",
+               "name": "Jennifer Tilly",
+               "profile_path": "/bNB0BTnPAdAAHuCQSprMk4smBMD.jpg",
+               "id": 7906,
+               "order": 4
+            },
+            {
+               "cast_id": 33,
+               "character": "Mary \"Boo\" (voice)",
+               "gender": 1,
+               "credit_id": "52fe4256c3a36847f801690b",
+               "name": "Mary Gibbs",
+               "profile_path": "/cxnX6F7ZmfXmMKcdLuRXa7GKvGz.jpg",
+               "id": 7905,
+               "order": 5
+            },
+            {
+               "cast_id": 37,
+               "character": "Roz (voice)",
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f801691b",
+               "name": "Bob Peterson",
+               "profile_path": "/13YNM8lBKnK26MYd2Lp3OpU6JdI.jpg",
+               "id": 10,
+               "order": 6
+            },
+            {
+               "cast_id": 38,
+               "character": "Yeti (voice)",
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f801691f",
+               "name": "John Ratzenberger",
+               "profile_path": "/yGechiKWL6TJDfVE2KPSJYqdMsY.jpg",
+               "id": 7907,
+               "order": 7
+            },
+            {
+               "cast_id": 39,
+               "character": "Jeff Fungus (voice)",
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f8016923",
+               "name": "Frank Oz",
+               "profile_path": "/aLH5bYwMIlVxCe4rIDaEsVJqDKn.jpg",
+               "id": 7908,
+               "order": 8
+            },
+            {
+               "cast_id": 352,
+               "character": "Needleman / Smitty (voice)",
+               "gender": 2,
+               "credit_id": "53084060c3a3680b110001ae",
+               "name": "Daniel Gerson",
+               "profile_path": "/amOuK3ytWV7KXeWrpl9joCglRlF.jpg",
+               "id": 7884,
+               "order": 9
+            },
+            {
+               "cast_id": 40,
+               "character": "Jerry Slugworth (voice)",
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f8016927",
+               "name": "Steve Susskind",
+               "profile_path": "/vqgEWGaHtCuwX43TalUv6ySp5Bx.jpg",
+               "id": 7909,
+               "order": 10
+            },
+            {
+               "cast_id": 41,
+               "character": "Ms. Flint (voice)",
+               "gender": 1,
+               "credit_id": "52fe4256c3a36847f801692b",
+               "name": "Bonnie Hunt",
+               "profile_path": "/7spiVQwmr8siw5QCcvvdRG3c7Lf.jpg",
+               "id": 5149,
+               "order": 11
+            },
+            {
+               "cast_id": 42,
+               "character": "Thaddeus \"Phlegm\" Bile (voice)",
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f801692f",
+               "name": "Jeff Pidgeon",
+               "profile_path": "/yLddkg5HcgbJg00cS13GVBnP0HY.jpg",
+               "id": 7882,
+               "order": 12
+            },
+            {
+               "cast_id": 43,
+               "character": "George Sanderson (voice)",
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016933",
+               "name": "Samuel Lord Black",
+               "profile_path": "/vExVkYzIGURQkrEQIRlP4qnPcY1.jpg",
+               "id": 7910,
+               "order": 13
+            },
+            {
+               "cast_id": 338,
+               "character": "Charlie (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e89",
+               "name": "Phil Proctor",
+               "profile_path": "/15jVORFFWoRMcqKoeVJQXyEfLVz.jpg",
+               "id": 61969,
+               "order": 14
+            },
+            {
+               "cast_id": 343,
+               "character": "Pete \"Claws\" Ward (voice)",
+               "gender": 0,
+               "credit_id": "52fe4258c3a36847f8016e9d",
+               "name": "Joe Ranft",
+               "profile_path": "/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg",
+               "id": 7911,
+               "order": 15
+            },
+            {
+               "cast_id": 312,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e21",
+               "name": "Jack Angel",
+               "profile_path": "/qYvR57QBtXpdvj1jm2a8hjh7E4L.jpg",
+               "id": 19545,
+               "order": 16
+            },
+            {
+               "cast_id": 313,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e25",
+               "name": "Bob Bergen",
+               "profile_path": "/8MRcVeLPBvzr368tOhvsLz4BDhl.jpg",
+               "id": 78317,
+               "order": 17
+            },
+            {
+               "cast_id": 314,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e29",
+               "name": "Rodger Bumpass",
+               "profile_path": "/eUmUsemt7pt4msjITyl8jLb2vW5.jpg",
+               "id": 70615,
+               "order": 18
+            },
+            {
+               "cast_id": 315,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e2d",
+               "name": "Gino Conforti",
+               "profile_path": "/7EPicshDcPKxAHnHwjYmcgtg7E.jpg",
+               "id": 74492,
+               "order": 19
+            },
+            {
+               "cast_id": 316,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "52fe4258c3a36847f8016e31",
+               "name": "Jennifer Darling",
+               "profile_path": "/yOOVSrq6pK495FB8kZR5zGOTx8x.jpg",
+               "id": 81843,
+               "order": 20
+            },
+            {
+               "cast_id": 317,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "52fe4258c3a36847f8016e35",
+               "name": "Patti Deutsch",
+               "profile_path": "/6eTkh2shxCOo2R90RavfqSzrEY9.jpg",
+               "id": 91024,
+               "order": 21
+            },
+            {
+               "cast_id": 318,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e39",
+               "name": "Pete Docter",
+               "profile_path": "/r6ngPgnReA3RHmKjmSoVsc6Awjp.jpg",
+               "id": 12890,
+               "order": 22
+            },
+            {
+               "cast_id": 319,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e3d",
+               "name": "Bobby Edner",
+               "profile_path": "/lNuwv1mcwqCC7VWzTWz3sHNrvYS.jpg",
+               "id": 151385,
+               "order": 23
+            },
+            {
+               "cast_id": 320,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "52fe4258c3a36847f8016e41",
+               "name": "Ashley Edner",
+               "profile_path": "/60fg89UxBEqyDHSNQWYat2M2yJH.jpg",
+               "id": 75331,
+               "order": 24
+            },
+            {
+               "cast_id": 321,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e45",
+               "name": "Paul Eiding",
+               "profile_path": "/73yCY9QBAKqFilmVLXATsrIzL2Q.jpg",
+               "id": 86006,
+               "order": 25
+            },
+            {
+               "cast_id": 322,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe4258c3a36847f8016e49",
+               "name": "Katie Scarlettr",
+               "profile_path": "/4QBjiMXMqUSysOEUjxw1Zhcmp2t.jpg",
+               "id": 1268105,
+               "order": 26
+            },
+            {
+               "cast_id": 323,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e4d",
+               "name": "Bill Farmer",
+               "profile_path": "/dhIal4zmxsy7t2Bd6IfjpD8X5Mz.jpg",
+               "id": 84213,
+               "order": 27
+            },
+            {
+               "cast_id": 324,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe4258c3a36847f8016e51",
+               "name": "Keegan Farrell",
+               "profile_path": null,
+               "id": 198810,
+               "order": 28
+            },
+            {
+               "cast_id": 325,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e55",
+               "name": "Pat Fraley",
+               "profile_path": "/AgkuaIlLifSE5i9MzFepIfd8RTw.jpg",
+               "id": 34737,
+               "order": 29
+            },
+            {
+               "cast_id": 326,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "52fe4258c3a36847f8016e59",
+               "name": "Teresa Ganzel",
+               "profile_path": "/4cIwealxv1bizPJks34Gfk7okBF.jpg",
+               "id": 117081,
+               "order": 30
+            },
+            {
+               "cast_id": 327,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe4258c3a36847f8016e5d",
+               "name": "Taylor Gifaldi",
+               "profile_path": "/fKBPTq7D02a2wbcbrEnlZTVngAA.jpg",
+               "id": 167666,
+               "order": 31
+            },
+            {
+               "cast_id": 328,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e61",
+               "name": "Marc John Jefferies",
+               "profile_path": "/zpsC9yA8TzJFFtoSokZvbgcUiAY.jpg",
+               "id": 62646,
+               "order": 32
+            },
+            {
+               "cast_id": 329,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e65",
+               "name": "Joe Lala",
+               "profile_path": "/ssPI0vk4TimoYYrMaHYDcwAO2pq.jpg",
+               "id": 167667,
+               "order": 33
+            },
+            {
+               "cast_id": 330,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe4258c3a36847f8016e69",
+               "name": "Noah Luke",
+               "profile_path": null,
+               "id": 1231571,
+               "order": 34
+            },
+            {
+               "cast_id": 331,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "52fe4258c3a36847f8016e6d",
+               "name": "Sherry Lynn",
+               "profile_path": "/kQDSC2z7sb6S5HcpOH6cmeJokKE.jpg",
+               "id": 214701,
+               "order": 35
+            },
+            {
+               "cast_id": 332,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e71",
+               "name": "Danny Mann",
+               "profile_path": "/28JtvJrUIcHM4s8HV84ncxPD7Uv.jpg",
+               "id": 52699,
+               "order": 36
+            },
+            {
+               "cast_id": 333,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe4258c3a36847f8016e75",
+               "name": "Mona Marshall",
+               "profile_path": "/9BK7xa1tn6lPIuYOR2fPvUxP6fw.jpg",
+               "id": 111466,
+               "order": 37
+            },
+            {
+               "cast_id": 335,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "52fe4258c3a36847f8016e7d",
+               "name": "Laraine Newman",
+               "profile_path": "/ApYftBOqDMBnVColOQwXIodOt5s.jpg",
+               "id": 35159,
+               "order": 39
+            },
+            {
+               "cast_id": 336,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "52fe4258c3a36847f8016e81",
+               "name": "Kay Panabaker",
+               "profile_path": "/5MNxT4alTtYfyck6nmP3LmxpgKF.jpg",
+               "id": 38703,
+               "order": 40
+            },
+            {
+               "cast_id": 337,
+               "character": "Trailer Mom (voice) (as Bret Parker)",
+               "gender": 1,
+               "credit_id": "52fe4258c3a36847f8016e85",
+               "name": "Bret 'Brook' Parker",
+               "profile_path": "/776ZYJGQO4Wer1cDq9XXAZ0z4C1.jpg",
+               "id": 7998,
+               "order": 41
+            },
+            {
+               "cast_id": 339,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe4258c3a36847f8016e8d",
+               "name": "Josh Qualtieri",
+               "profile_path": "/xTZ3I73gw04EqFum07pxRhG34Jw.jpg",
+               "id": 1268117,
+               "order": 42
+            },
+            {
+               "cast_id": 340,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e91",
+               "name": "Guido Quaroni",
+               "profile_path": "/qfnm3XzrMljLhU3HoNfYk0YGoBw.jpg",
+               "id": 15898,
+               "order": 43
+            },
+            {
+               "cast_id": 341,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e95",
+               "name": "Jan Rabson",
+               "profile_path": "/6mfE6PFzOlKb2Qf4dURbKzLrTTC.jpg",
+               "id": 157626,
+               "order": 44
+            },
+            {
+               "cast_id": 342,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "52fe4258c3a36847f8016e99",
+               "name": "Lisa Raggio",
+               "profile_path": "/aYMBogWREezqmVD9PBeJ9y5l8GU.jpg",
+               "id": 152963,
+               "order": 45
+            },
+            {
+               "cast_id": 345,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe4258c3a36847f8016ea1",
+               "name": "Katherine Ringgold",
+               "profile_path": "/se4SkPHGzo7RHi9kXbfgyFvLErH.jpg",
+               "id": 8066,
+               "order": 46
+            },
+            {
+               "cast_id": 351,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe4258c3a36847f8016eb9",
+               "name": "Sophia Ranft",
+               "profile_path": null,
+               "id": 1268123,
+               "order": 47
+            },
+            {
+               "cast_id": 346,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016ea5",
+               "name": "Bob Scott",
+               "profile_path": null,
+               "id": 954958,
+               "order": 48
+            },
+            {
+               "cast_id": 348,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe4258c3a36847f8016ead",
+               "name": "Jim Thornton",
+               "profile_path": "/aaRo50aRLGJCaqRVZCkJyUkHiZY.jpg",
+               "id": 1156411,
+               "order": 49
+            },
+            {
+               "cast_id": 349,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016eb1",
+               "name": "Lee Unkrich",
+               "profile_path": "/bdTCCXjgOV3YyaNmLGYGOxFQMOc.jpg",
+               "id": 8,
+               "order": 50
+            },
+            {
+               "cast_id": 350,
+               "character": "Rex (outtakes) (voice) (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016eb5",
+               "name": "Wallace Shawn",
+               "profile_path": "/oGE6JqPP2xH4tNORKNqxbNPYi7u.jpg",
+               "id": 12900,
+               "order": 51
+            },
+            {
+               "cast_id": 353,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "53084362925141110e0019ee",
+               "name": "David Silverman",
+               "profile_path": "/oatUUj2riEaUSoncMv1Ulheffog.jpg",
+               "id": 197,
+               "order": 52
+            },
+            {
+               "cast_id": 392,
+               "character": "Pete 'Claws' Ward (voice)",
+               "gender": 0,
+               "credit_id": "5aa30b77c3a3683366004dde",
+               "name": "Joe Ranft",
+               "profile_path": "/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg",
+               "id": 7911,
+               "order": 53
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016869",
+               "name": "Darla K. Anderson",
+               "profile_path": null,
+               "id": 7878,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f801686f",
+               "name": "John Lasseter",
+               "profile_path": "/7EdqiNbr4FRjIhKHyPPdFfEEEFG.jpg",
+               "id": 7879,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f8016875",
+               "name": "Andrew Stanton",
+               "profile_path": "/pvQWsu0qc8JFQhMVJkTHuexUAa1.jpg",
+               "id": 7,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4256c3a36847f8016881",
+               "name": "Jill Culton",
+               "profile_path": null,
+               "id": 7881,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f8016887",
+               "name": "Jeff Pidgeon",
+               "profile_path": "/yLddkg5HcgbJg00cS13GVBnP0HY.jpg",
+               "id": 7882,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f801688d",
+               "name": "Ralph Eggleston",
+               "profile_path": "/uUfcGKDsKO1aROMpXRs67Hn6RvR.jpg",
+               "id": 7883,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f8016893",
+               "name": "Andrew Stanton",
+               "profile_path": "/pvQWsu0qc8JFQhMVJkTHuexUAa1.jpg",
+               "id": 7,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f80168a5",
+               "name": "Jim Stewart",
+               "profile_path": null,
+               "id": 7886,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80168ab",
+               "name": "Thomas Porter",
+               "profile_path": null,
+               "id": 7887,
+               "department": "Crew",
+               "job": "Supervising Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80168b1",
+               "name": "Harley Jessup",
+               "profile_path": null,
+               "id": 7888,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f80168b7",
+               "name": "Bob Pauley",
+               "profile_path": null,
+               "id": 7889,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4256c3a36847f80168bd",
+               "name": "Tia W. Kratter",
+               "profile_path": null,
+               "id": 7890,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f80168c3",
+               "name": "Dominique Louis",
+               "profile_path": null,
+               "id": 7891,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f80168c9",
+               "name": "Glenn McQueen",
+               "profile_path": null,
+               "id": 7892,
+               "department": "Crew",
+               "job": "Supervising Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80168cf",
+               "name": "Rich Quade",
+               "profile_path": null,
+               "id": 7893,
+               "department": "Crew",
+               "job": "Supervising Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80168d5",
+               "name": "Jean-Claude Kalache",
+               "profile_path": null,
+               "id": 7894,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80168db",
+               "name": "Rick Sayre",
+               "profile_path": null,
+               "id": 7896,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80168e7",
+               "name": "Sophie Vincelette",
+               "profile_path": null,
+               "id": 7898,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f80168ed",
+               "name": "Gary Rydstrom",
+               "profile_path": "/jZpr1nVfO7lldWI0YtmP1FGw7Rj.jpg",
+               "id": 2216,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80168f3",
+               "name": "Katherine Sarafian",
+               "profile_path": null,
+               "id": 7901,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4256c3a36847f80168f9",
+               "name": "Ruth Lambert",
+               "profile_path": null,
+               "id": 7902,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4256c3a36847f80168ff",
+               "name": "Mary Hidalgo",
+               "profile_path": null,
+               "id": 7903,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016939",
+               "name": "Jonas Rivera",
+               "profile_path": null,
+               "id": 7940,
+               "department": "Art",
+               "job": "Art Department Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f801693f",
+               "name": "Bryn Imagire",
+               "profile_path": null,
+               "id": 7942,
+               "department": "Visual Effects",
+               "job": "CG Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016945",
+               "name": "Glenn Kim",
+               "profile_path": null,
+               "id": 7943,
+               "department": "Visual Effects",
+               "job": "CG Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f801694b",
+               "name": "Laura Phillips",
+               "profile_path": null,
+               "id": 7944,
+               "department": "Visual Effects",
+               "job": "CG Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016951",
+               "name": "Paul Mica",
+               "profile_path": null,
+               "id": 7945,
+               "department": "Visual Effects",
+               "job": "CG Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016957",
+               "name": "Jamie Frye",
+               "profile_path": null,
+               "id": 7946,
+               "department": "Visual Effects",
+               "job": "CG Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f801695d",
+               "name": "Phaedra Craig",
+               "profile_path": null,
+               "id": 7947,
+               "department": "Visual Effects",
+               "job": "CG Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016963",
+               "name": "Yvonne Herbst",
+               "profile_path": null,
+               "id": 7948,
+               "department": "Visual Effects",
+               "job": "CG Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016969",
+               "name": "Robin Cooper",
+               "profile_path": null,
+               "id": 7949,
+               "department": "Visual Effects",
+               "job": "CG Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f801696f",
+               "name": "Mark Cordell Holmes",
+               "profile_path": null,
+               "id": 7950,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016975",
+               "name": "Jason Deamer",
+               "profile_path": null,
+               "id": 7951,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f801697b",
+               "name": "Randy Berrett",
+               "profile_path": null,
+               "id": 7952,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016981",
+               "name": "Paul Mica",
+               "profile_path": null,
+               "id": 7945,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016987",
+               "name": "David Hong",
+               "profile_path": null,
+               "id": 7953,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f801698d",
+               "name": "Gary Schultz",
+               "profile_path": null,
+               "id": 7954,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016993",
+               "name": "Albert Lozano",
+               "profile_path": null,
+               "id": 7955,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016999",
+               "name": "Nathaniel McLaughlin",
+               "profile_path": null,
+               "id": 7956,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f801699f",
+               "name": "Glenn Kim",
+               "profile_path": null,
+               "id": 7943,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169a5",
+               "name": "Bud Thon",
+               "profile_path": null,
+               "id": 7957,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169ab",
+               "name": "Lawrence Marvit",
+               "profile_path": null,
+               "id": 7958,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f80169b1",
+               "name": "Jerome Ranft",
+               "profile_path": "/pmiQZq5JEhCjhdsIuMaP6Fkt0e9.jpg",
+               "id": 7960,
+               "department": "Art",
+               "job": "Sculptor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169b7",
+               "name": "Norm DeCarlo",
+               "profile_path": null,
+               "id": 7961,
+               "department": "Art",
+               "job": "Sculptor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169bd",
+               "name": "Geefwee Boedoe",
+               "profile_path": null,
+               "id": 7925,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169c3",
+               "name": "Ricky Nierva",
+               "profile_path": null,
+               "id": 7927,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f80169c9",
+               "name": "Lou Romano",
+               "profile_path": "/q5BXFPkFZA7RJh9Oj15WRQawMfk.jpg",
+               "id": 7962,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169cf",
+               "name": "Carter Goodrich",
+               "profile_path": null,
+               "id": 7963,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169d5",
+               "name": "Kevin Hawkes",
+               "profile_path": null,
+               "id": 7964,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169db",
+               "name": "J. Otto Seibold",
+               "profile_path": null,
+               "id": 7965,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f80169e1",
+               "name": "Ralph Eggleston",
+               "profile_path": "/uUfcGKDsKO1aROMpXRs67Hn6RvR.jpg",
+               "id": 7883,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4256c3a36847f80169e7",
+               "name": "Jill Culton",
+               "profile_path": null,
+               "id": 7881,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169ed",
+               "name": "Nicolas Marlet",
+               "profile_path": null,
+               "id": 7966,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169f3",
+               "name": "Peter DeSève",
+               "profile_path": null,
+               "id": 7967,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f80169f9",
+               "name": "Oscar Grillo",
+               "profile_path": null,
+               "id": 7968,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4256c3a36847f80169ff",
+               "name": "Bud Luckey",
+               "profile_path": "/pcCh7G19FKMNijmPQg1PMH1btic.jpg",
+               "id": 7918,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016a05",
+               "name": "Lane Smith",
+               "profile_path": null,
+               "id": 7969,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016a0b",
+               "name": "Chris Ure",
+               "profile_path": null,
+               "id": 7970,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4256c3a36847f8016a11",
+               "name": "Jay Ward",
+               "profile_path": null,
+               "id": 7971,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a17",
+               "name": "Andrea Warren",
+               "profile_path": null,
+               "id": 7972,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a1d",
+               "name": "Nick Vlahos",
+               "profile_path": null,
+               "id": 7973,
+               "department": "Art",
+               "job": "Art Department Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a23",
+               "name": "Shawn Brennan",
+               "profile_path": null,
+               "id": 7978,
+               "department": "Crew",
+               "job": "Sequence Leads"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a29",
+               "name": "Gregg Olsson",
+               "profile_path": null,
+               "id": 7979,
+               "department": "Crew",
+               "job": "Sequence Leads"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a2f",
+               "name": "Derek Williams",
+               "profile_path": null,
+               "id": 7980,
+               "department": "Crew",
+               "job": "Sequence Leads"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4257c3a36847f8016a35",
+               "name": "Trish Carney",
+               "profile_path": null,
+               "id": 8001,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4257c3a36847f8016a41",
+               "name": "Ellen Moon Lee",
+               "profile_path": null,
+               "id": 8003,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a47",
+               "name": "Phat Phuong",
+               "profile_path": null,
+               "id": 8004,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a4d",
+               "name": "Dan Sukiennik",
+               "profile_path": null,
+               "id": 8005,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a53",
+               "name": "Elizabeth Tobit",
+               "profile_path": null,
+               "id": 8006,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a59",
+               "name": "David Eisenmann",
+               "profile_path": null,
+               "id": 8007,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a5f",
+               "name": "Mark Sanford",
+               "profile_path": null,
+               "id": 7984,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016a65",
+               "name": "Robert Anderson",
+               "profile_path": null,
+               "id": 7981,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a71",
+               "name": "Jessica Hutchison",
+               "profile_path": null,
+               "id": 8008,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a77",
+               "name": "Sarah Jo Helton",
+               "profile_path": null,
+               "id": 8009,
+               "department": "Visual Effects",
+               "job": "Animation Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a7d",
+               "name": "Doug Sweetland",
+               "profile_path": "/zYxgikK0IBkMUmUBXBppJJDK4ZD.jpg",
+               "id": 8010,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016a83",
+               "name": "Scott Clark",
+               "profile_path": null,
+               "id": 8011,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a89",
+               "name": "Kyle Balda",
+               "profile_path": "/jR8iAP6uC0V42KbUG87qBIUO3Hj.jpg",
+               "id": 8023,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a8f",
+               "name": "Stephen Barnes",
+               "profile_path": null,
+               "id": 8024,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a95",
+               "name": "Michael Berenstein",
+               "profile_path": null,
+               "id": 8025,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016a9b",
+               "name": "Brett Coderre",
+               "profile_path": null,
+               "id": 8026,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016aa1",
+               "name": "Ricardo Curtis",
+               "profile_path": null,
+               "id": 8027,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016aa7",
+               "name": "Doug Dooley",
+               "profile_path": null,
+               "id": 8028,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016aad",
+               "name": "Andrew Gordon",
+               "profile_path": null,
+               "id": 8013,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016ab3",
+               "name": "Jimmy Hayward",
+               "profile_path": "/lTDRpudEY7BDwTefXbXzMlmb0ui.jpg",
+               "id": 8029,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ab9",
+               "name": "Nancy Kato",
+               "profile_path": null,
+               "id": 8030,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016abf",
+               "name": "Shawn Krause",
+               "profile_path": null,
+               "id": 8015,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ac5",
+               "name": "Angus MacLane",
+               "profile_path": "/7U1mEvzHGNJiC07EOhKIKSl3Qiy.jpg",
+               "id": 7929,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016acb",
+               "name": "Alan Barillaro",
+               "profile_path": "/blKbtsPf9yWoiA1cClJ5dGscqls.jpg",
+               "id": 8012,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016ad1",
+               "name": "Bobby Beck",
+               "profile_path": null,
+               "id": 8031,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016add",
+               "name": "Tim Crawfurd",
+               "profile_path": null,
+               "id": 8033,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ae3",
+               "name": "David DeVan",
+               "profile_path": null,
+               "id": 8018,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ae9",
+               "name": "Ike Feldman",
+               "profile_path": null,
+               "id": 8034,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016aef",
+               "name": "Stephen Gregory",
+               "profile_path": null,
+               "id": 8019,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016af5",
+               "name": "John Kahrs",
+               "profile_path": null,
+               "id": 8020,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016afb",
+               "name": "Karen Kiser",
+               "profile_path": null,
+               "id": 8035,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b01",
+               "name": "Wendell Lee",
+               "profile_path": null,
+               "id": 8036,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b07",
+               "name": "Daniel Mason",
+               "profile_path": null,
+               "id": 8037,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b0d",
+               "name": "Amy McNamara",
+               "profile_path": null,
+               "id": 8038,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b13",
+               "name": "Billy Merritt",
+               "profile_path": null,
+               "id": 7995,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b19",
+               "name": "James Ford Murphy",
+               "profile_path": null,
+               "id": 8039,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b1f",
+               "name": "Victor Navone",
+               "profile_path": "/uThaeRVujv9wj7LjL9jTs4jpGn7.jpg",
+               "id": 8040,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b25",
+               "name": "Bobby Podesta",
+               "profile_path": null,
+               "id": 8021,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b2b",
+               "name": "Brett Pulliam",
+               "profile_path": null,
+               "id": 7996,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b31",
+               "name": "Robert H. Russ",
+               "profile_path": null,
+               "id": 8041,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016b37",
+               "name": "Andrew L. Schmidt",
+               "profile_path": null,
+               "id": 8042,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b3d",
+               "name": "Patty Kihm Stevenson",
+               "profile_path": null,
+               "id": 8043,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b43",
+               "name": "David Tart",
+               "profile_path": null,
+               "id": 8044,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b49",
+               "name": "Jon Mead",
+               "profile_path": null,
+               "id": 8045,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016b4f",
+               "name": "Dave Mullins",
+               "profile_path": null,
+               "id": 8046,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b55",
+               "name": "Peter Nash",
+               "profile_path": null,
+               "id": 8047,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4257c3a36847f8016b5b",
+               "name": "Bret 'Brook' Parker",
+               "profile_path": "/776ZYJGQO4Wer1cDq9XXAZ0z4C1.jpg",
+               "id": 7998,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b61",
+               "name": "Sanjay Patel",
+               "profile_path": null,
+               "id": 8048,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b67",
+               "name": "Jeff Pratt",
+               "profile_path": null,
+               "id": 8017,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b73",
+               "name": "Gini Cruz Santos",
+               "profile_path": null,
+               "id": 7999,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b79",
+               "name": "Alan Sperling",
+               "profile_path": null,
+               "id": 8050,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b7f",
+               "name": "Ross Stevenson",
+               "profile_path": null,
+               "id": 8051,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b85",
+               "name": "J. Warren Trezevant",
+               "profile_path": null,
+               "id": 8052,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b8b",
+               "name": "Michael Venturini",
+               "profile_path": null,
+               "id": 8053,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016b91",
+               "name": "Adam Wood",
+               "profile_path": null,
+               "id": 8054,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4257c3a36847f8016b97",
+               "name": "Tasha Wedeen",
+               "profile_path": null,
+               "id": 8055,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016b9d",
+               "name": "Kureha Yokoo",
+               "profile_path": null,
+               "id": 8056,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ba3",
+               "name": "Ron Zorman",
+               "profile_path": null,
+               "id": 8057,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ba9",
+               "name": "Paul Mendoza",
+               "profile_path": null,
+               "id": 8058,
+               "department": "Visual Effects",
+               "job": "Fix Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016baf",
+               "name": "Jenni Tsoi",
+               "profile_path": null,
+               "id": 8059,
+               "department": "Visual Effects",
+               "job": "Animation Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016bb5",
+               "name": "Kathleen Relyea",
+               "profile_path": null,
+               "id": 8061,
+               "department": "Visual Effects",
+               "job": "Animation Fix Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016bbb",
+               "name": "Gabrielle Siegel",
+               "profile_path": null,
+               "id": 8062,
+               "department": "Visual Effects",
+               "job": "Animation Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016bc1",
+               "name": "Marcia Gwendolyn Jones",
+               "profile_path": null,
+               "id": 7912,
+               "department": "Editing",
+               "job": "Editorial Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016bc7",
+               "name": "Ken Schretzmann",
+               "profile_path": "/pGu6ROvz7UC6guMWOfkHi7et7Wi.jpg",
+               "id": 8063,
+               "department": "Crew",
+               "job": "Second Film Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016bd3",
+               "name": "Lee Unkrich",
+               "profile_path": "/bdTCCXjgOV3YyaNmLGYGOxFQMOc.jpg",
+               "id": 8,
+               "department": "Editing",
+               "job": "Additional Editing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016bdf",
+               "name": "Katherine Ringgold",
+               "profile_path": "/se4SkPHGzo7RHi9kXbfgyFvLErH.jpg",
+               "id": 8066,
+               "department": "Editing",
+               "job": "Additional Editing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016be5",
+               "name": "Torbin Xan Bullock",
+               "profile_path": null,
+               "id": 8065,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016c1b",
+               "name": "Luis Alvarez y Alvarez",
+               "profile_path": null,
+               "id": 8075,
+               "department": "Editing",
+               "job": "Additional Editorial Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c21",
+               "name": "Jack Curtis Dubowsky",
+               "profile_path": null,
+               "id": 8076,
+               "department": "Editing",
+               "job": "Additional Editorial Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c33",
+               "name": "Hoon H. Kim",
+               "profile_path": null,
+               "id": 8079,
+               "department": "Editing",
+               "job": "Editorial Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c39",
+               "name": "Renee Steen",
+               "profile_path": null,
+               "id": 8080,
+               "department": "Editing",
+               "job": "Editorial Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c3f",
+               "name": "Atsuko Yamagishi",
+               "profile_path": null,
+               "id": 8081,
+               "department": "Editing",
+               "job": "Editorial Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c45",
+               "name": "Deirdre Warin",
+               "profile_path": null,
+               "id": 8082,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c4b",
+               "name": "Eliot Smyrl",
+               "profile_path": null,
+               "id": 8083,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c51",
+               "name": "Brian Green",
+               "profile_path": null,
+               "id": 8084,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c57",
+               "name": "Christian Hoffman",
+               "profile_path": null,
+               "id": 8085,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c5d",
+               "name": "Mark Adams",
+               "profile_path": null,
+               "id": 8086,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c63",
+               "name": "James Bancroft",
+               "profile_path": null,
+               "id": 8087,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c69",
+               "name": "Paul Aichele",
+               "profile_path": null,
+               "id": 8088,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c6f",
+               "name": "Jason Bickerstaff",
+               "profile_path": null,
+               "id": 8089,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c75",
+               "name": "Andrew Schmidt",
+               "profile_path": null,
+               "id": 8090,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c7b",
+               "name": "Bill Sheffler",
+               "profile_path": null,
+               "id": 8091,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c81",
+               "name": "Kim White",
+               "profile_path": null,
+               "id": 8092,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c87",
+               "name": "Christine Waggoner",
+               "profile_path": null,
+               "id": 8093,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c93",
+               "name": "Sue Maatouk-Kalache",
+               "profile_path": null,
+               "id": 8095,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c99",
+               "name": "Daniel McCoy",
+               "profile_path": null,
+               "id": 8096,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016c9f",
+               "name": "Ben Jordan",
+               "profile_path": null,
+               "id": 8097,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ca5",
+               "name": "Anthony A. Apodaca",
+               "profile_path": null,
+               "id": 8098,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016cab",
+               "name": "James Bancroft",
+               "profile_path": null,
+               "id": 8087,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016cb1",
+               "name": "Byron Bashforth",
+               "profile_path": null,
+               "id": 8099,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016cb7",
+               "name": "David Batte",
+               "profile_path": null,
+               "id": 8100,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016cbd",
+               "name": "Gina Trbovich-Malewicz",
+               "profile_path": null,
+               "id": 8101,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016cc3",
+               "name": "Mark Nielsen",
+               "profile_path": null,
+               "id": 8103,
+               "department": "Lighting",
+               "job": "Lighting Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016cc9",
+               "name": "Janet Lucroy",
+               "profile_path": null,
+               "id": 8104,
+               "department": "Lighting",
+               "job": "Directing Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ccf",
+               "name": "Joyce Powell",
+               "profile_path": null,
+               "id": 8105,
+               "department": "Lighting",
+               "job": "Directing Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016cd5",
+               "name": "Lauren Alpert",
+               "profile_path": null,
+               "id": 8106,
+               "department": "Lighting",
+               "job": "Master Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016cdb",
+               "name": "Scott Clifford",
+               "profile_path": null,
+               "id": 8107,
+               "department": "Lighting",
+               "job": "Master Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ce1",
+               "name": "Kim White",
+               "profile_path": null,
+               "id": 8092,
+               "department": "Lighting",
+               "job": "Master Lighting Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016ce7",
+               "name": "Tim Best",
+               "profile_path": null,
+               "id": 8109,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ced",
+               "name": "Chad Belteau",
+               "profile_path": null,
+               "id": 8110,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016cf9",
+               "name": "Elizabeth Gonzales-Guerra",
+               "profile_path": null,
+               "id": 8113,
+               "department": "Lighting",
+               "job": "Lighting Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016cff",
+               "name": "Steve May",
+               "profile_path": null,
+               "id": 8115,
+               "department": "Crew",
+               "job": "Sequence Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d05",
+               "name": "Brad Andalman",
+               "profile_path": null,
+               "id": 8124,
+               "department": "Crew",
+               "job": "Software Team Lead"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d0b",
+               "name": "Rob Cook",
+               "profile_path": null,
+               "id": 8125,
+               "department": "Crew",
+               "job": "Software Team Lead"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d11",
+               "name": "Bena Currin",
+               "profile_path": null,
+               "id": 8126,
+               "department": "Crew",
+               "job": "Software Team Lead"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d17",
+               "name": "Thomas Hahn",
+               "profile_path": null,
+               "id": 8127,
+               "department": "Crew",
+               "job": "Software Team Lead"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d1d",
+               "name": "John Alex",
+               "profile_path": null,
+               "id": 8128,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d23",
+               "name": "Ronen Barzel",
+               "profile_path": null,
+               "id": 8129,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d29",
+               "name": "Tom Duff",
+               "profile_path": null,
+               "id": 8130,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d2f",
+               "name": "Brad West",
+               "profile_path": null,
+               "id": 8131,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d35",
+               "name": "Ian Buono",
+               "profile_path": null,
+               "id": 8132,
+               "department": "Crew",
+               "job": "Documentation & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d3b",
+               "name": "Tom Deering",
+               "profile_path": null,
+               "id": 8133,
+               "department": "Crew",
+               "job": "Documentation & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d41",
+               "name": "Perrin Cutting",
+               "profile_path": null,
+               "id": 8134,
+               "department": "Camera",
+               "job": "Camera Department Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d47",
+               "name": "Louis Rivera",
+               "profile_path": null,
+               "id": 8135,
+               "department": "Camera",
+               "job": "Camera Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d4d",
+               "name": "Drew Rogge",
+               "profile_path": null,
+               "id": 8137,
+               "department": "Crew",
+               "job": "Machinist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d53",
+               "name": "Don Conway",
+               "profile_path": null,
+               "id": 8138,
+               "department": "Camera",
+               "job": "Camera Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d59",
+               "name": "David DiFrancesco",
+               "profile_path": null,
+               "id": 8139,
+               "department": "Crew",
+               "job": "Photoscience Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4257c3a36847f8016d5f",
+               "name": "Beth Sullivan",
+               "profile_path": null,
+               "id": 8140,
+               "department": "Crew",
+               "job": "Department Administrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d6b",
+               "name": "Catherine Roehl",
+               "profile_path": null,
+               "id": 8142,
+               "department": "Production",
+               "job": "Production Accountant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d77",
+               "name": "Tricia Andres",
+               "profile_path": null,
+               "id": 8147,
+               "department": "Production",
+               "job": "Production Office Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d7d",
+               "name": "Arik Ehle",
+               "profile_path": null,
+               "id": 8148,
+               "department": "Crew",
+               "job": "Production Office Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d89",
+               "name": "Erik Forman",
+               "profile_path": null,
+               "id": 8150,
+               "department": "Crew",
+               "job": "Information Systems Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016d95",
+               "name": "Paul Cichocki",
+               "profile_path": null,
+               "id": 8153,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016da1",
+               "name": "John Hazelton",
+               "profile_path": null,
+               "id": 8155,
+               "department": "Crew",
+               "job": "Projection"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016da7",
+               "name": "Courtney Bergin",
+               "profile_path": null,
+               "id": 8156,
+               "department": "Crew",
+               "job": "Post Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016dad",
+               "name": "Doc Kane",
+               "profile_path": null,
+               "id": 8157,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016db3",
+               "name": "Michael Silvers",
+               "profile_path": null,
+               "id": 8158,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016dbf",
+               "name": "Shannon Mills",
+               "profile_path": null,
+               "id": 8159,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016dc5",
+               "name": "Dennie Thorpe",
+               "profile_path": null,
+               "id": 8160,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016dcb",
+               "name": "Jana Vance",
+               "profile_path": null,
+               "id": 8163,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016dd1",
+               "name": "Tony Eckert",
+               "profile_path": null,
+               "id": 8164,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016dd7",
+               "name": "Dee Selby",
+               "profile_path": null,
+               "id": 8165,
+               "department": "Crew",
+               "job": "Sound Design Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016ddd",
+               "name": "Juan Peralta",
+               "profile_path": null,
+               "id": 8166,
+               "department": "Crew",
+               "job": "Mix Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016de3",
+               "name": "Brian Magerkurth",
+               "profile_path": null,
+               "id": 8168,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016de9",
+               "name": "Bruno Coon",
+               "profile_path": null,
+               "id": 8172,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016def",
+               "name": "Brenda Heins",
+               "profile_path": null,
+               "id": 8173,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4257c3a36847f8016dfb",
+               "name": "Robert Taylor",
+               "profile_path": null,
+               "id": 94028,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4257c3a36847f8016e01",
+               "name": "Pete Docter",
+               "profile_path": "/r6ngPgnReA3RHmKjmSoVsc6Awjp.jpg",
+               "id": 12890,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4258c3a36847f8016e13",
+               "name": "Michael Parks",
+               "profile_path": null,
+               "id": 1140576,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597ef0b6c3a36854170296ff",
+               "name": "Jon Childress Farmer",
+               "profile_path": null,
+               "id": 8002,
+               "department": "Art",
+               "job": "Set Dresser"
+            },
+            {
+               "gender": 2,
+               "credit_id": "540a8094c3a368799f000a58",
+               "name": "Pete Docter",
+               "profile_path": "/r6ngPgnReA3RHmKjmSoVsc6Awjp.jpg",
+               "id": 12890,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "556b6139c3a36824bc001c6e",
+               "name": "Matthew Jon Beck",
+               "profile_path": null,
+               "id": 61419,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57406d4a92514153a900012f",
+               "name": "Bahram Hooshmand",
+               "profile_path": null,
+               "id": 8112,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "590f90d49251414e8d024a3b",
+               "name": "Greg Snyder",
+               "profile_path": null,
+               "id": 8072,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "590f92aac3a36864ec023264",
+               "name": "Mark Yeager",
+               "profile_path": null,
+               "id": 8074,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "590f9353c3a368646b027a92",
+               "name": "Robert Grahamjones",
+               "profile_path": null,
+               "id": 8064,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "540a8067c3a368799c000a2a",
+               "name": "Daniel Gerson",
+               "profile_path": "/amOuK3ytWV7KXeWrpl9joCglRlF.jpg",
+               "id": 7884,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "556b60d79251412a0c000564",
+               "name": "Karen Dufilho-Rosen",
+               "profile_path": null,
+               "id": 1472578,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "556b60e59251411a42001df6",
+               "name": "Kori Rae",
+               "profile_path": null,
+               "id": 7880,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "556b610ec3a36825d5001d3b",
+               "name": "Randy Newman",
+               "profile_path": "/w0JzfoiM25nrnxYOzosPHRq6mlE.jpg",
+               "id": 7885,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57137859c3a368537800e1aa",
+               "name": "Dylan Brown",
+               "profile_path": null,
+               "id": 231202,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57229847c3a3682d200008c7",
+               "name": "Patrick Lin",
+               "profile_path": null,
+               "id": 7975,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5724de7ec3a368423a0021b3",
+               "name": "Bob Whitehill",
+               "profile_path": null,
+               "id": 1299484,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572e2b069251413cb200103a",
+               "name": "Nicole Paradis Grindle",
+               "profile_path": null,
+               "id": 1485788,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5732774f9251416578000502",
+               "name": "Tom MacDougall",
+               "profile_path": null,
+               "id": 1291315,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57406c0792514153a900010b",
+               "name": "LeighAnna Frostad",
+               "profile_path": null,
+               "id": 1623532,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57406c84c3a368073600222c",
+               "name": "Tony Basso",
+               "profile_path": null,
+               "id": 1623535,
+               "department": "Crew",
+               "job": "Security"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57406cd1c3a368073600223e",
+               "name": "Jessica Donohoe",
+               "profile_path": null,
+               "id": 1623537,
+               "department": "Directing",
+               "job": "Script Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57406ce892514177f4001ffd",
+               "name": "Chris DeLaGuardia",
+               "profile_path": null,
+               "id": 1610869,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57406d77c3a3680720002371",
+               "name": "Bruce J. Nachbar",
+               "profile_path": null,
+               "id": 1623539,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57406dc1925141282b0006c7",
+               "name": "Jonathan Sacks",
+               "profile_path": null,
+               "id": 1623540,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57406ddfc3a3685ee60016de",
+               "name": "Frank Wolf",
+               "profile_path": null,
+               "id": 1623542,
+               "department": "Sound",
+               "job": "Scoring Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57406e65925141359c00157a",
+               "name": "Dan Lee",
+               "profile_path": null,
+               "id": 1623548,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57406eca925141359c00158c",
+               "name": "Nils Erdmann",
+               "profile_path": null,
+               "id": 1623553,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577015739251417c1600037b",
+               "name": "Jeremy Lasky",
+               "profile_path": "/6jue4yNU3XazP4mTMep7fCuK9VR.jpg",
+               "id": 7988,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "590f9366c3a368650a024604",
+               "name": "Chris Vallance",
+               "profile_path": null,
+               "id": 8073,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "590f955f9251414ead0244c9",
+               "name": "Ethan Owen",
+               "profile_path": null,
+               "id": 8094,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597ef0dbc3a368542e02da2d",
+               "name": "Susan Bradley",
+               "profile_path": null,
+               "id": 1458006,
+               "department": "Art",
+               "job": "Title Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "597ef15fc3a368539702f495",
+               "name": "David Silverman",
+               "profile_path": "/oatUUj2riEaUSoncMv1Ulheffog.jpg",
+               "id": 197,
+               "department": "Directing",
+               "job": "Co-Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "597ef185c3a368539702f4d0",
+               "name": "Lee Unkrich",
+               "profile_path": "/bdTCCXjgOV3YyaNmLGYGOxFQMOc.jpg",
+               "id": 8,
+               "department": "Directing",
+               "job": "Co-Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "597ef1b79251415d9802db4e",
+               "name": "Mary Beth Smith",
+               "profile_path": null,
+               "id": 1739962,
+               "department": "Editing",
+               "job": "Negative Cutter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597ef1fc9251415d6102e7b9",
+               "name": "Morten Folmer Nielsen",
+               "profile_path": null,
+               "id": 1357170,
+               "department": "Sound",
+               "job": "ADR Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597ef3349251415d7802cfc1",
+               "name": "Lindakay Brown",
+               "profile_path": null,
+               "id": 1449172,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597ef3be9251415d9802ddac",
+               "name": "George Doering",
+               "profile_path": null,
+               "id": 1043374,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 2,
+               "credit_id": "597ef4f1c3a368542e02df37",
+               "name": "Bud Luckey",
+               "profile_path": "/pcCh7G19FKMNijmPQg1PMH1btic.jpg",
+               "id": 7918,
+               "department": "Visual Effects",
+               "job": "Character Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa30db29251417d4b004d36",
+               "name": "Bob Peterson",
+               "profile_path": "/13YNM8lBKnK26MYd2Lp3OpU6JdI.jpg",
+               "id": 10,
+               "department": "Crew",
+               "job": "Additional Writing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa30dd20e0a260fe10036f3",
+               "name": "David Silverman",
+               "profile_path": "/oatUUj2riEaUSoncMv1Ulheffog.jpg",
+               "id": 197,
+               "department": "Crew",
+               "job": "Additional Writing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa30de30e0a265d72005380",
+               "name": "Joe Ranft",
+               "profile_path": "/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg",
+               "id": 7911,
+               "department": "Crew",
+               "job": "Additional Writing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa30e139251417d4b004d98",
+               "name": "Robert L. Baird",
+               "profile_path": "/okdPZRcL1eZCxBb5BqkLRlTgK5v.jpg",
+               "id": 7931,
+               "department": "Crew",
+               "job": "Additional Writing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa30e470e0a265d720053da",
+               "name": "Rhett Reese",
+               "profile_path": "/5Rxh7zECxKHfu2wCiX7W5D7Lga0.jpg",
+               "id": 7932,
+               "department": "Crew",
+               "job": "Additional Writing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa30e5bc3a368334d004f41",
+               "name": "Jonathan Roberts",
+               "profile_path": null,
+               "id": 7933,
+               "department": "Crew",
+               "job": "Additional Writing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa30ea00e0a265d6c0054c1",
+               "name": "Kent Brown",
+               "profile_path": null,
+               "id": 1556634,
+               "department": "Crew",
+               "job": "Temp Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa30ef69251417d4e004d07",
+               "name": "Patrick Wilson",
+               "profile_path": null,
+               "id": 1994503,
+               "department": "Crew",
+               "job": "Production Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa30f6a9251417d48004c69",
+               "name": "Jeanette Browning",
+               "profile_path": null,
+               "id": 83084,
+               "department": "Writing",
+               "job": "Dialogue"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa30fca9251417d51004e34",
+               "name": "Derek Casari",
+               "profile_path": null,
+               "id": 1432596,
+               "department": "Sound",
+               "job": "Sound Engineer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa3103c9251417d4b004f1c",
+               "name": "Stephen Kearney",
+               "profile_path": null,
+               "id": 1852736,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3109b0e0a265d75005b02",
+               "name": "Gary Summers",
+               "profile_path": null,
+               "id": 1425978,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa310dd0e0a265d7b00555d",
+               "name": "Karen G. Wilson",
+               "profile_path": null,
+               "id": 1446545,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3111b9251417d45004e6b",
+               "name": "John Countryman",
+               "profile_path": null,
+               "id": 1994518,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31179c3a368334d0051e6",
+               "name": "Brian Boyd",
+               "profile_path": null,
+               "id": 1994524,
+               "department": "Lighting",
+               "job": "Master Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa312120e0a265d72005733",
+               "name": "Jenna Capozzi",
+               "profile_path": null,
+               "id": 1994528,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3128b0e0a265d69004f8b",
+               "name": "Onny P. Carr",
+               "profile_path": null,
+               "id": 1994532,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3129cc3a368334d0052be",
+               "name": "Onny P. Carr",
+               "profile_path": null,
+               "id": 1994532,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa312d8c3a368337c004f47",
+               "name": "Lawrence D. Cutler",
+               "profile_path": null,
+               "id": 1994533,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa312e9c3a368338b0050ee",
+               "name": "Lars R. Damerow",
+               "profile_path": null,
+               "id": 1994534,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31308c3a368338b005101",
+               "name": "Cynthia Dueltgen",
+               "profile_path": null,
+               "id": 1994536,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa313560e0a260fe1003b88",
+               "name": "Nousha Emami",
+               "profile_path": null,
+               "id": 1994537,
+               "department": "Lighting",
+               "job": "Chief Lighting Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31380c3a368335c005717",
+               "name": "Jay Faulkner",
+               "profile_path": null,
+               "id": 1994539,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3139b0e0a265d66005386",
+               "name": "Michael Fong",
+               "profile_path": null,
+               "id": 1830791,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa313b50e0a265d66005398",
+               "name": "Michael Fong",
+               "profile_path": null,
+               "id": 1830791,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa314069251417d510051e9",
+               "name": "Michael Fu",
+               "profile_path": null,
+               "id": 1994542,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3143bc3a36833550055d8",
+               "name": "Patrick Guenette",
+               "profile_path": null,
+               "id": 1994544,
+               "department": "Visual Effects",
+               "job": "Visual Effects Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3146a0e0a265d780058b9",
+               "name": "Christina Haaser",
+               "profile_path": null,
+               "id": 1681179,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3147ac3a368337c005081",
+               "name": "Thane Hawkins",
+               "profile_path": null,
+               "id": 1994545,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa314cbc3a3683350005d53",
+               "name": "Daniel Herman",
+               "profile_path": null,
+               "id": 1994547,
+               "department": "Visual Effects",
+               "job": "Additional Effects Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa314e30e0a265d7b0058e2",
+               "name": "Cindy Hong",
+               "profile_path": null,
+               "id": 1994548,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa314f2c3a368338b005291",
+               "name": "Sangwoo Hong",
+               "profile_path": null,
+               "id": 1994549,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3159d9251417d540053e1",
+               "name": "Steven James",
+               "profile_path": null,
+               "id": 1994550,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa316039251417d420051fe",
+               "name": "Jongo",
+               "profile_path": null,
+               "id": 1994551,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3163b9251417d5100539e",
+               "name": "Thomas Jordan",
+               "profile_path": null,
+               "id": 1994552,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3164d9251417d4e0052e8",
+               "name": "Thomas Jordan",
+               "profile_path": null,
+               "id": 1994552,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa316640e0a265d78005a4b",
+               "name": "Michael Kass",
+               "profile_path": null,
+               "id": 1994361,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31672c3a368335c00595e",
+               "name": "Michael Kilgore",
+               "profile_path": null,
+               "id": 1994553,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa316d29251417d3f005242",
+               "name": "Jae Hong Kim",
+               "profile_path": null,
+               "id": 1994554,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa316ebc3a368334d005656",
+               "name": "Lisa Kim",
+               "profile_path": null,
+               "id": 1994555,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa316f9c3a36833660057bb",
+               "name": "Lisa Kim",
+               "profile_path": null,
+               "id": 1994555,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa3172c9251417d450052cd",
+               "name": "Michael R. King",
+               "profile_path": null,
+               "id": 1792389,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa3173a0e0a265d72005b41",
+               "name": "Michael R. King",
+               "profile_path": null,
+               "id": 1792389,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa317800e0a265d6c005c46",
+               "name": "Stephen King",
+               "profile_path": null,
+               "id": 1371609,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa3178fc3a368338b00546d",
+               "name": "Stephen King",
+               "profile_path": null,
+               "id": 1371609,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa317bf0e0a265d72005b97",
+               "name": "Kristifir Klein",
+               "profile_path": null,
+               "id": 1994556,
+               "department": "Lighting",
+               "job": "Chief Lighting Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa318170e0a265d69005382",
+               "name": "Sonoko Konishi",
+               "profile_path": null,
+               "id": 1443471,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3182c0e0a265d78005bb5",
+               "name": "Ivo Kos",
+               "profile_path": null,
+               "id": 1993477,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3183b9251417d3f005353",
+               "name": "Ivo Kos",
+               "profile_path": null,
+               "id": 1993477,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa318560e0a260fe1003f67",
+               "name": "Ana Lacaze",
+               "profile_path": null,
+               "id": 1994558,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31861c3a368337c0053b2",
+               "name": "Ana Lacaze",
+               "profile_path": null,
+               "id": 1994558,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa318d99251417d4b0055d4",
+               "name": "Ken Lao",
+               "profile_path": null,
+               "id": 1994560,
+               "department": "Visual Effects",
+               "job": "Additional Effects Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa318eac3a368338b005567",
+               "name": "Michael Lorenzen",
+               "profile_path": null,
+               "id": 1830793,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa318fa0e0a265d72005cb9",
+               "name": "Felix Mendoza",
+               "profile_path": null,
+               "id": 1994561,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31926c3a3683366005982",
+               "name": "Tom Miller",
+               "profile_path": null,
+               "id": 1994562,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa319379251417d510055e9",
+               "name": "Tim Milliron",
+               "profile_path": null,
+               "id": 1993498,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa319469251417d510055f7",
+               "name": "Josh Minor",
+               "profile_path": null,
+               "id": 1994563,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31958c3a368334d00588d",
+               "name": "Amy Moran",
+               "profile_path": null,
+               "id": 1994564,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31969c3a368335000612e",
+               "name": "Carmen Ngai",
+               "profile_path": null,
+               "id": 1994565,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa319939251417d51005634",
+               "name": "Martin Nguyen",
+               "profile_path": null,
+               "id": 1994566,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31a0e9251417d3f0054f9",
+               "name": "Mirjana Nikolic",
+               "profile_path": null,
+               "id": 1994571,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31a259251417d3f00550f",
+               "name": "Kelly O'Connell",
+               "profile_path": null,
+               "id": 1748710,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31a3e0e0a265d69005529",
+               "name": "Kelly O'Connell",
+               "profile_path": null,
+               "id": 1748710,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31a6f9251417d54005802",
+               "name": "Eileen O'Neill",
+               "profile_path": null,
+               "id": 1994572,
+               "department": "Lighting",
+               "job": "Master Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31ae29251417d5400586b",
+               "name": "Keith Olenick",
+               "profile_path": null,
+               "id": 1994574,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31b030e0a265d6c005f66",
+               "name": "Brandon Onstott",
+               "profile_path": null,
+               "id": 225983,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31b199251417d4e0058b4",
+               "name": "David Orecklin",
+               "profile_path": null,
+               "id": 1508427,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31b58c3a3683355005bab",
+               "name": "Eben Ostby",
+               "profile_path": null,
+               "id": 7897,
+               "department": "Visual Effects",
+               "job": "Character Modelling Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31b85c3a368337c00561e",
+               "name": "Jack Paulus",
+               "profile_path": null,
+               "id": 1994379,
+               "department": "Crew",
+               "job": "Sequence Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31bad0e0a260fe1004225",
+               "name": "Seth Piezas",
+               "profile_path": null,
+               "id": 1994575,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31bbd0e0a265d7500652a",
+               "name": "John Singh Pottebaum",
+               "profile_path": null,
+               "id": 1994576,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31bd00e0a265d7b005e70",
+               "name": "Mitch Prater",
+               "profile_path": null,
+               "id": 1748701,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa31bf60e0a265d66005a4a",
+               "name": "Guido Quaroni",
+               "profile_path": "/qfnm3XzrMljLhU3HoNfYk0YGoBw.jpg",
+               "id": 15898,
+               "department": "Visual Effects",
+               "job": "3D Modeller"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31c079251417d4b005877",
+               "name": "Joshua Reiss",
+               "profile_path": null,
+               "id": 1994577,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31c3fc3a3683355005c4e",
+               "name": "Brian M. Rosen",
+               "profile_path": null,
+               "id": 1748703,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31c4f0e0a265d750065b4",
+               "name": "Dale Ruffolo",
+               "profile_path": null,
+               "id": 1993274,
+               "department": "Lighting",
+               "job": "Master Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31c5a9251417d540059b0",
+               "name": "Dale Ruffolo",
+               "profile_path": null,
+               "id": 1993274,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31c8e9251417d4200571e",
+               "name": "Yun Shin",
+               "profile_path": null,
+               "id": 1453945,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31ca2c3a368338b005889",
+               "name": "Keith Stichweh",
+               "profile_path": null,
+               "id": 1994578,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31cb29251417d42005737",
+               "name": "Jerome Strach",
+               "profile_path": null,
+               "id": 1994579,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31cc5c3a368335c005edf",
+               "name": "Peter Sumanaseni",
+               "profile_path": null,
+               "id": 1993639,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31cdbc3a368335000642f",
+               "name": "Galyn Susman",
+               "profile_path": null,
+               "id": 7899,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31ce90e0a260fe1004330",
+               "name": "Tim Swec",
+               "profile_path": null,
+               "id": 1994580,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31d03c3a368334d005b85",
+               "name": "Shane M. Thomas",
+               "profile_path": null,
+               "id": 1994581,
+               "department": "Crew",
+               "job": "Production Office Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31d140e0a265d75006660",
+               "name": "Richard S.G. Thompson",
+               "profile_path": null,
+               "id": 1994582,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31d250e0a265d69005779",
+               "name": "Allison Torres",
+               "profile_path": null,
+               "id": 1994583,
+               "department": "Visual Effects",
+               "job": "Simulation & Effects Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31d369251417d4e005a32",
+               "name": "Belinda van Valkenburg",
+               "profile_path": null,
+               "id": 1719102,
+               "department": "Visual Effects",
+               "job": "CG Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31d880e0a265d78006028",
+               "name": "John Warren",
+               "profile_path": null,
+               "id": 1994584,
+               "department": "Lighting",
+               "job": "Master Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31da6c3a3683366005da8",
+               "name": "Patrick Wilson",
+               "profile_path": null,
+               "id": 1994503,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31dd89251417d4200582a",
+               "name": "Bill Wise",
+               "profile_path": null,
+               "id": 1994585,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31dee0e0a265d6c0061d8",
+               "name": "Adam Woodbury",
+               "profile_path": null,
+               "id": 1994385,
+               "department": "Visual Effects",
+               "job": "Additional Effects Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31e219251417d3f0057d2",
+               "name": "Elizabeth Del Sol",
+               "profile_path": null,
+               "id": 1994586,
+               "department": "Lighting",
+               "job": "Lighting Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31e6f0e0a265d7b0060a1",
+               "name": "Matthew Martin",
+               "profile_path": null,
+               "id": 1994587,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31e81c3a3683355005e32",
+               "name": "Jon Shlens",
+               "profile_path": null,
+               "id": 1994588,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31ee20e0a265d690058b2",
+               "name": "Chris DiGiovanni",
+               "profile_path": null,
+               "id": 1719095,
+               "department": "Visual Effects",
+               "job": "Animation Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31f0e0e0a265d75006825",
+               "name": "Louis Gonzales",
+               "profile_path": null,
+               "id": 1993387,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31f4fc3a368335c00613b",
+               "name": "Kitt Hirasaki",
+               "profile_path": null,
+               "id": 1539107,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31f68c3a3683355005f06",
+               "name": "Jesse Hollander",
+               "profile_path": null,
+               "id": 1711831,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31f9b0e0a260fe100458c",
+               "name": "Steven Clay Hunter",
+               "profile_path": null,
+               "id": 1406885,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa31fae0e0a265d720062dc",
+               "name": "Steven Clay Hunter",
+               "profile_path": null,
+               "id": 1406885,
+               "department": "Visual Effects",
+               "job": "Character Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa327e60e0a26075a0008cd",
+               "name": "Gabriel Schlumberger",
+               "profile_path": null,
+               "id": 1994623,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa327fcc3a3687c25000923",
+               "name": "Adam Schnitzer",
+               "profile_path": null,
+               "id": 1459760,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3283f0e0a26074d0008a6",
+               "name": "Mickie McGowan",
+               "profile_path": "/k7TjJBfINsg8vLQxJwos6XObAD6.jpg",
+               "id": 84493,
+               "department": "Production",
+               "job": "ADR Voice Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3284e925141277e0007fd",
+               "name": "Terry Claborn",
+               "profile_path": null,
+               "id": 1552873,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa328630e0a26074d0008c8",
+               "name": "Jason Hudak",
+               "profile_path": null,
+               "id": 1994625,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa328d5925141278d0008da",
+               "name": "Bill Kinder",
+               "profile_path": null,
+               "id": 1296572,
+               "department": "Crew",
+               "job": "Post-Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32958925141279000093a",
+               "name": "Timothy Sorensen",
+               "profile_path": null,
+               "id": 1994629,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa329739251412787000a93",
+               "name": "Marc Bonilla",
+               "profile_path": null,
+               "id": 1023366,
+               "department": "Crew",
+               "job": "Additional Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa329899251412790000986",
+               "name": "Tom Boyd",
+               "profile_path": null,
+               "id": 1738137,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa329e20e0a260754000b89",
+               "name": "Mark Eshelman",
+               "profile_path": null,
+               "id": 1994636,
+               "department": "Sound",
+               "job": "Scoring Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa329f10e0a2607600009bd",
+               "name": "Isobel Griffiths",
+               "profile_path": null,
+               "id": 1349080,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32a2dc3a3687c25000c39",
+               "name": "Jason Lloyd",
+               "profile_path": null,
+               "id": 1994638,
+               "department": "Sound",
+               "job": "Scoring Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa32a44c3a3687c32000ada",
+               "name": "Joey Newman",
+               "profile_path": null,
+               "id": 961277,
+               "department": "Sound",
+               "job": "Conductor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32a710e0a26074d000b50",
+               "name": "Charles Paley",
+               "profile_path": null,
+               "id": 1813303,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32aa7c3a3687bff000c4a",
+               "name": "Andrew Page",
+               "profile_path": null,
+               "id": 1994334,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32b10c3a3687bff000cc9",
+               "name": "James Thatcher",
+               "profile_path": null,
+               "id": 1741194,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32b1fc3a3687c06000aba",
+               "name": "Bruce White",
+               "profile_path": null,
+               "id": 1018001,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32b9c925141278d000bd5",
+               "name": "Don Williams",
+               "profile_path": null,
+               "id": 1994641,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32d3e925141277e000ddf",
+               "name": "Kirsten Ames Staubli",
+               "profile_path": null,
+               "id": 1994644,
+               "department": "Production",
+               "job": "Production Accountant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32d6ac3a3687c25001097",
+               "name": "David Baraff",
+               "profile_path": null,
+               "id": 1993253,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32d7b925141277e000e11",
+               "name": "Jennifer Becker",
+               "profile_path": null,
+               "id": 1994645,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32d8a0e0a260760000dd0",
+               "name": "Gabriel Benveniste",
+               "profile_path": null,
+               "id": 1994646,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32db60e0a260760000e07",
+               "name": "James Burgess",
+               "profile_path": null,
+               "id": 1556635,
+               "department": "Crew",
+               "job": "Photoscience Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32df90e0a26075d0011b1",
+               "name": "Will Csaklos",
+               "profile_path": null,
+               "id": 1994647,
+               "department": "Writing",
+               "job": "Script Consultant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32ea70e0a26074d000fdb",
+               "name": "Douglas Epps",
+               "profile_path": null,
+               "id": 1954400,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32ebb925141278d000fc4",
+               "name": "Edward Escueta",
+               "profile_path": null,
+               "id": 1994648,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32f029251412787001101",
+               "name": "Kurt Fleischer",
+               "profile_path": null,
+               "id": 1994360,
+               "department": "Crew",
+               "job": "Software Team Lead"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32f109251412781000f37",
+               "name": "Lisa Forssell",
+               "profile_path": null,
+               "id": 1994649,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32f1e0e0a260760000fc5",
+               "name": "Grant Gatzke",
+               "profile_path": null,
+               "id": 1994650,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32f33c3a3687bff001237",
+               "name": "F. Sebastian Grassia",
+               "profile_path": null,
+               "id": 1994371,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32f490e0a2607570013ea",
+               "name": "Patrick Guenette",
+               "profile_path": null,
+               "id": 1994544,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32f58925141277e00101b",
+               "name": "Bethany Jane Hanson",
+               "profile_path": null,
+               "id": 1994651,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32f730e0a260760001048",
+               "name": "Jisup Hong",
+               "profile_path": null,
+               "id": 1994652,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32f82c3a3687c130010a4",
+               "name": "Ling Hsu",
+               "profile_path": null,
+               "id": 1994653,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32f900e0a26075a001285",
+               "name": "Jason 'Jayfish' Hull",
+               "profile_path": null,
+               "id": 1994654,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32fa2c3a3687c32001163",
+               "name": "Victoria Jaschob",
+               "profile_path": null,
+               "id": 1994655,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa32fb1c3a3687c03001064",
+               "name": "Michael B. Johnson",
+               "profile_path": null,
+               "id": 1994376,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3301ac3a3687c030010d3",
+               "name": "Tom Kim",
+               "profile_path": null,
+               "id": 1994656,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3306e925141278400116f",
+               "name": "Chris King",
+               "profile_path": null,
+               "id": 1994660,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3307e0e0a26075a00139b",
+               "name": "Cory Knox",
+               "profile_path": null,
+               "id": 1994410,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3308dc3a3687c03001173",
+               "name": "Manny Ko",
+               "profile_path": null,
+               "id": 1994663,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa330ad9251412781001135",
+               "name": "Craig Kolb",
+               "profile_path": null,
+               "id": 1994664,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa330d09251412787001300",
+               "name": "David Laur",
+               "profile_path": null,
+               "id": 1994665,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa330fc0e0a260757001623",
+               "name": "Michael Lorenzen",
+               "profile_path": null,
+               "id": 1830793,
+               "department": "Crew",
+               "job": "Sequence Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3310fc3a3687bfc001441",
+               "name": "Tim Milliron",
+               "profile_path": null,
+               "id": 1993498,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa331310e0a26075a001495",
+               "name": "Graham Moloy",
+               "profile_path": null,
+               "id": 1397887,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa33140c3a3687c03001229",
+               "name": "Gary Monheit",
+               "profile_path": null,
+               "id": 1994666,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa331500e0a26075d0015db",
+               "name": "Terry Lee Moseley",
+               "profile_path": null,
+               "id": 1994421,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa33173925141277e00125c",
+               "name": "David Munier",
+               "profile_path": null,
+               "id": 15895,
+               "department": "Visual Effects",
+               "job": "Shading"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3318d0e0a26075d001626",
+               "name": "Peter Nye",
+               "profile_path": null,
+               "id": 1994667,
+               "department": "Crew",
+               "job": "Software Team Lead"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa3325ac3a3687c0c0015c2",
+               "name": "Bob Peterson",
+               "profile_path": "/13YNM8lBKnK26MYd2Lp3OpU6JdI.jpg",
+               "id": 10,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa33268925141279300142a",
+               "name": "Manny Ponce",
+               "profile_path": null,
+               "id": 1994669,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3327d0e0a26075d00172b",
+               "name": "Josh Qualtieri",
+               "profile_path": "/xTZ3I73gw04EqFum07pxRhG34Jw.jpg",
+               "id": 1268117,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa3328ec3a3687c0600129e",
+               "name": "Guido Quaroni",
+               "profile_path": "/qfnm3XzrMljLhU3HoNfYk0YGoBw.jpg",
+               "id": 15898,
+               "department": "Crew",
+               "job": "Sequence Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa332afc3a3687bfc001620",
+               "name": "Sudeep Rangaswamy",
+               "profile_path": null,
+               "id": 1994671,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aa332d7c3a3687bfc00165f",
+               "name": "Kristina Ruud",
+               "profile_path": null,
+               "id": 1994442,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa332ea0e0a26074d0014f5",
+               "name": "Don Schreiter",
+               "profile_path": null,
+               "id": 1994673,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa333150e0a2607570018d0",
+               "name": "Michael Shantzis",
+               "profile_path": null,
+               "id": 1994676,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3332c0e0a26075a00172d",
+               "name": "Patrick Siemer",
+               "profile_path": null,
+               "id": 1994678,
+               "department": "Crew",
+               "job": "Title Graphics"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa33347c3a3687bff001777",
+               "name": "Nelson Siu",
+               "profile_path": null,
+               "id": 1994679,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa33354c3a3687bfc001703",
+               "name": "Brian Smits",
+               "profile_path": null,
+               "id": 1994680,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa333630e0a26075d001846",
+               "name": "Heidi Stettner",
+               "profile_path": null,
+               "id": 1994681,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa33384925141278100149d",
+               "name": "Elle Yoko Suzuki",
+               "profile_path": null,
+               "id": 1994682,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa333d8c3a3687c030014c7",
+               "name": "Andy Thomas",
+               "profile_path": null,
+               "id": 1994684,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa333fe0e0a26075400184c",
+               "name": "Jason Topolski",
+               "profile_path": null,
+               "id": 567732,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3340cc3a3687c0c0017d4",
+               "name": "Tien Truong",
+               "profile_path": null,
+               "id": 1994685,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3341ec3a3687c0c0017ec",
+               "name": "Dirk Van Gelder",
+               "profile_path": null,
+               "id": 1994383,
+               "department": "Crew",
+               "job": "Software Team Lead"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3342ec3a3687c03001524",
+               "name": "Mark T. VandeWettering",
+               "profile_path": null,
+               "id": 1994686,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3343c0e0a260757001a40",
+               "name": "Eric Veach",
+               "profile_path": null,
+               "id": 1994687,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa334570e0a26075a001889",
+               "name": "Christopher C. Walker",
+               "profile_path": null,
+               "id": 1994689,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3346fc3a3687c25001971",
+               "name": "Jay Weiland",
+               "profile_path": null,
+               "id": 1994690,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3347e0e0a26076000164c",
+               "name": "Brad Winemiller",
+               "profile_path": null,
+               "id": 1994691,
+               "department": "Crew",
+               "job": "Sequence Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3348d0e0a260757001b00",
+               "name": "Andy Witkin",
+               "profile_path": null,
+               "id": 1994692,
+               "department": "Crew",
+               "job": "Software Team Lead"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa334a10e0a26074b001954",
+               "name": "Audrey Wong",
+               "profile_path": null,
+               "id": 1994693,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa334b3c3a3687c13001679",
+               "name": "Shannon Wood",
+               "profile_path": null,
+               "id": 1406891,
+               "department": "Directing",
+               "job": "Script Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa334c4c3a3687c060014da",
+               "name": "Wayne Wooten",
+               "profile_path": null,
+               "id": 1994694,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa33503c3a3687c06001527",
+               "name": "David Yu",
+               "profile_path": null,
+               "id": 1994695,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa33517c3a3687c0c00190b",
+               "name": "Sean C. Alvarez",
+               "profile_path": null,
+               "id": 1994696,
+               "department": "Production",
+               "job": "Production Accountant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab3b5b70e0a265f2a00a145",
+               "name": "Roger Rose",
+               "profile_path": null,
+               "id": 2004942,
+               "department": "Visual Effects",
+               "job": "Animation"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 43.98238,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 585,
+      "vote_count": 7650,
+      "budget": 115000000,
+      "overview": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
+      "similar": [
+         62211,
+         55721,
+         1124,
+         275,
+         9955,
+         9691,
+         49022,
+         2312,
+         14144,
+         1956,
+         4629,
+         89185,
+         9721,
+         43867,
+         15895,
+         10078,
+         92397,
+         85188,
+         70500,
+         268042
+      ],
+      "original_title": "Monsters, Inc.",
+      "runtime": 92,
+      "poster_path": "/93Y9BGx8blzmZOPSoivkFfaifqU.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+         "name": "Pixar",
+         "id": 3,
+         "origin_country": "US"
+      }],
+      "release_date": "2001-11-01",
+      "vote_average": 7.6,
+      "belongs_to_collection": {
+         "backdrop_path": "/uzKkKhTWGSEdsN2rYanJTVAyTLi.jpg",
+         "name": "Monsters, Inc. Collection",
+         "id": 137696,
+         "poster_path": "/8xHtCUKfre8b4tkpUWU1y67Cnqr.jpg"
+      },
+      "tagline": "We Scare Because We Care.",
+      "adult": false,
+      "homepage": "http://movies.disney.com/monsters-inc",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Pete Docter",
+         "David Silverman"
+      ],
+      "runtime": 92,
+      "synopsis": "The story takes place in Monstropolis, a city populated entirely by monsters. Monstropolis is not part of the human world, but it can be connected to children's bedrooms through their closet doors. When a door is properly activated, it becomes a portal between the monster world and the human world. The city's power supply is provided by Monsters, Inc., a utility company that employs monsters to scare children and extract energy from their screams. The company has a huge warehouse full of doors, work areas called \"scare floors\" where the doors are activated, and a special training room in which employees practice their scare skills. The company's best scarer is James P. \"Sully\" Sullivan (Goodman), whose assistant is his best friend, Michael \"Mike\" Wazowski (Crystal). Sulley's main rival is Randall Boggs (Buscemi), and the company's CEO is Henry J. Waternoose III (Coburn). Monstropolis is in the middle of an energy crisis because children are harder to scare than they used to be. One day, Sully finds an activated door on his scare floor after the workday has ended. He finds no one in the room behind the door, but a little two-year-old girl (Gibbs) follows him back into the monster world. Far from being scared, she calls him \"Kitty\" and delights in playing with him. Since monsters believe humans are lethally toxic, Sully tries repeatedly to return the girl to her room, but she keeps following him back, and Randall eventually deactivates and stores the door, leaving the girl stuck in the monster world. The girl's presence becomes public knowledge after Sully sneaks her into a restaurant to find Mike, so they hide her in Sully's home while the Child Detection Agency (CDA) searches for her. Sully eventually names the girl \"Boo\", and he slowly bonds with her after realizing that she is not poisonous. He also discovers that her laughter produces even more energy than her screams. The next morning, Sully and Mike disguise Boo in a monster costume and sneak her into work. Randall agrees to help them return her to her bedroom, but when Mike enters the room, Randall captures him in a box, believing he is Boo. Randall intends to kidnap Boo and subject her to a device that extracts her screams. What follows is a sequence of battles, chases, and mishaps in which Sully and Mike attempt to protect Boo from Randall and his scream machine. Waternoose reveals that he is in cahoots with Randall and banishes Sully and Mike to the Himalayas, where they meet the Abominable Snowman (John Ratzenberger), but Sully and Mike return to the monster world through a village at the foot of the mountain, where Randall chases them through the company's roller-coaster-like door-moving system. When the energy in Boo's laughter activates the doors in storage, the chase passes in and out of the human world. Finally, Sully and Boo defeat Randall. Sully throws Randall through the door of a trailer-park trailer, where a woman beats Randall with a shovel, and Mike destroys the door to make sure Randall never comes back. Just as Sully and Mike attempt to return Boo to her home, Waternoose and the CDA call her door to the scare floor, ready to arrest them, but Mike leads the agents away by fleeing with Boo's monster costume, and Sully escapes with Boo and the door. When Waternoose follows Sully and Boo, Sulley attempts to set up and activate the door, and when Waternoose follows them through the door, he tells Sully he is willing to kidnap children in order to save the company. However, Sully had not properly activated Boo's door, causing the three to actually wind up in the adjacent Monsters, Inc. training room, which is equipped with a video monitoring system. Mike has recorded Waternoose's confession, and after he replays the confession, CDA agents arrest Waternoose. With the scream-machine plot foiled, the CDA agents call in their leader, who has been working undercover as Roz (Bob Peterson), the company's bookkeeper. Mike says goodbye to Boo and Sully returns her to her bedroom, then Roz has the door shredded, preventing monsters from ever visiting Boo again. Sully keeps one of the wood splinters as a memento. Some time later, Sully is the CEO of Monsters, Inc., and the company has ended the energy crisis with his policy of making children laugh instead of scaring them. Meanwhile, Mike has collected and reassembled the pieces of Boo's shredded door. When Sully puts his piece in its place, the door is activated again, and when he peeks into Boo's room, she greets him. The credits (theatrical version) or bonus features (home video) include a series of simulated outtakes and an amateur stage performance played by Mike and other Monsters, Inc. employees.",
+      "writers": [
+         "Pete Docter",
+         "Jill Culton"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0198781/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Billy Crystal, John Goodman, Mary Gibbs | See full cast and crew »"],
+      "reviews": [
+         "While monsters in the closet may seem to be a scary reality for some children, `Monsters, Inc.' makes it light hearted by showing them it's all in a night's work. The characters are as charming as the cast that speaks for them. It's a learning experience children get to see how an industry works. Monsters, Inc. is an in-genius corporation that has scientifically learned how to channel children's screams into energy that is used for electrical power. It has monster employees, an assembly line of doors (which give monsters access to children's bedrooms), a top-flight training program and some of the top Monsters in the scaring business. There's a colorful Metropolis, filled with houses, buildings, businesses, cars and everything that makes a city run smoothly along with a population of colorful creatures. One of the colorful groups of creatures is the yellow swat team. Their job is to protect the Metropolis of Monsters, Inc. from human contamination. But what happens when a human child mysteriously gets through the bedroom door and terrorizes the city with screams and boo's. It's wondrous and funny. In the mist of all this is industrial crime, brought on by greed. But, the story ends on a very happy note. John Goodman is the voice of `Sulley' a colorful large blue-green ape like monster who's the star Monsters, Inc. employee. He's some type of monster, cut, cuddly, and he has a conscience that leads him to feelings of regret about scarring children. He becomes attached to Boo (voice of Mary Gibbs) a cute, little big-eyed girl who is mysteriously brought to Monsters, Inc. and in his quest to return her home becomes very attached to her. Sulley's best friend is Mike (voice of Billy Crystal) who's a funny looking green ball with stick legs and one huge eye. His comedy is seen through out the movie. Mike is Sulley's driving force, acting as his agent. Mike's job is to make sure Sulley remains the top Monsters, Inc. employee. But when it comes to laughter Mike proves he's on top. Mike's girl friend Celia (voice of Jennifer Tilley) is the stylish employee who has Mike's best interest at heart. Her job is to keep him out of trouble. I give Monsters, Inc. a ten. It is an animated movie that can be enjoyed by the whole family. It makes for great family fun.",
+         "Monsters, Inc. We were all, at one time, scared of monsters under the bed. Shadows of clothes in the closet. Weird sounds outside in the trees. I remember thinking there were all kinds of monsters in my room - not as much under my bed as in the closet. And once again, Pixar, who brought us \"Toy Story\" 1 & 2, plays on both adults' memories and children's dreams, making it equally enjoyable for both children and adults. John Goodman voices James P. Sullivan, known as \"Sulley\" to friends. He is a big, blue, hairy monster with horns on his head and hands the size of a watermelon. Billy Crystal is Mike Wazowski, his wisecracking, one-eyed best friend. Both of these monsters live in Monstropolis, a world where monsters roam freely. Their city is powered by a rare source of power - children's screams. That is where Monsters, Incorporated comes in. At Monsters, Inc., monsters like Sulley and Mike open portals into children's rooms - through closet doors - and scare the children, capturing their scream in a little yellow bottle. Sulley is the top-scarer, bringing in the most scares. But Randall (the always enjoyable - even when animated - Steve Buscemi), a wormy, multiple-armed lizard-monster with the ability to change appearances to its surroundings, is jealous of Sulley, and will attempt anything to get more scares...even if it means taking a child from the real world and bringing it into Monstropolis. But after the child escapes, Sulley and Mike reluctantly look after it, all the while trying to get it back to the real world before Mr. Waternoose (the late James Coburn) and others find out about the incident... \"Monsters, Inc.\" does for monsters what \"Toy Story\" did for toys. Pixar once again not only expands our mind, but our very worlds. I respect their company and commitment values very much, as you can read in my \"Toy Story\" review. They stick to the values that made Disney films so family-friendly back in the fifties and sixties: Respect for the audience, respect for quality, and respect for the audience's INTELLIGENCE, something Disney, who has recently coughed up a bunch of lousy, thoughtless sequels, has forgotten. Now, I know that LEGALLY Disney is co-creator of \"Toy Story\" and \"Monsters, Inc.,\" but they really are not. They just give Pixar the money and get their name branded on the front box of the film. And even then, I have heard multiple claims that Disney is very mean-spirited towards Pixar (read into sequel trouble for \"Toy Story 3\") and gives them the bare minimum. But that is straying off the subject. \"Monsters, Inc.\" is one of the most enjoyable animated films I have ever had the pleasure of viewing. I didn't enjoy it as much the first time, but I then bought it, and have since watched it many times. It is an instant classic. I will be watching it years from now, when I am old and frail and in a rocking chair. It ranks right up there with \"Toy Story\" 1 & 2, and all the OLDER Disney films from the 50's-70's. It has all the elements of a sweet, charming, emotional and pleasurably good-natured animated film. And, more coudos to Pixar: Thank you for not packing it full of the language and inappropriate content that Disney shoves into the dark recesses of their films nowadays. Not only has Pixar brought back the \"Family Film\" genre to what it should be, but it also redefines it. Pixar's animated films are some of the most thoughtful, imaginative and enjoyable animated films ever - not to mention 100 % family safe. Thank you, Pixar, for getting back on track. 5/5 stars",
+         "You may admire the hair detail on Sully the Yeti's arm, but you will be amazed at the warmth of characterization in `Monsters, Inc.,' surpassing even the great `Shrek' earlier this year. Goodman and Crystal are a comedic team reminiscent of the zaniest Martin and Lewis days. Crystal's Borscht-belt routines brought smiles even to this jaded and admittedly tough-on-comedy critic. I thought Eddie Murphy's donkey in `Shrek' was smart and funny; Crystal's one-eyed monster is even better with its wry and annoying wit. Cleaning the environment of child contamination is a hilarious conceit that turns around the usual fears children have of monsters in closets. It is also a chilling parallel to the challenge of removing anthrax from today's letters. Generally, the allegorical underpinnings of animation are natural for the medium, powerful like the images of the novel `Animal Farm' for political and sociological levels of meaning. For example, the endless-door motif in this film is an ingenious metaphor for the scary and glorious possibilities the present and future hold for kids. Even before you see this feature, Pixar offers the short feature `For the Birds' -- a brilliant takeoff on Hitchcock's memorable film besides being a great commentary on diversity. The expressions around the animated eyes, as the little birds deal with the big bird interloper, are more expressive than those of most contemporary film actors, with the exception of Brando, Pacino, Depp, and Streep. The short trailer for `Star Wars II: Attack of the Clones' may precede the showing as it did ours for an added delight. `Monsters, Inc.' is the best animated feature this year and one of the greatest of all time.",
+         "MONSTERS, INC. (2001) **** (Voices of: Billy Crystal, John Goodman, James Coburn, Jennifer Tilly, Steve Buscemi, Mary Gibbs, Bonnie Hunt, Bob Peterson, John Ratzenberger, Frank Oz, Steve Susskind, Jeff Pidgeon, Sam \"Penguin\" Black, Daniel R. Gerson. (Dir: Peter Docter/Co-directors: David Silverman, Lee Unkrich) There's something undeniably magical about a Disney movie that brings out your inner child and the streak continues to manifest itself in the latest with its fine track record with upstarts Pixar (the \"Toy Story \" films) in delighting children of all ages in one of the year's funniest (and most fun) films. The childhood phenomena of imagining monsters lurking in one's bedroom closet or under the bed is in actuality a reality that exists solely for the world of the monsters to use all the energy extracted from a child's screams as their natural resource to power their communities and subsist in their parallel universe. Specifically Scream Heat (\"We Scare Because We Care\"), the corporate entity that harnesses the youngsters' reactions to its hard-working crew of creatures including our heroes James P. \"Sulley\" Sullivan (marvelously voiced by Goodman) and his best buddy Mike Wazowski (ditto Crystal). Sulley is a bear-like, blue and purple hairy and horned monster and Mike is a cyclopean lime green M&M clone. The two couldn't be more different yet both share their passion for their vocation and the only thing getting in their way is their rival colleague Randall Boggs (Buscemi, at his oiliest menacing), a reptilian nasty who wants to beat Sulley for the all-time factory record of most points racked up in a single day on the job \u0085 at any cost. Watching the proceedings is Sulley's father-figure boss Henry J. Waternoose (Coburn) \u0096 a cross between a crab and Edward G. Robinson \u0096 whose main priority is avoiding any \"rolling blackouts\" (in one of the film's subtle jabs at the current climate in our nation). Mike is in love with cutie pie receptionist Celia (Tilly) who also sports one eye and is afoot taller than him, with a hairdo sporting a Medusa twist (snakes sit atop her head) who wants something from him besides excuses to their frequently put-upon dates together. One day after work Sulley accidentally lets into their world a tiny 4 year old girl \u0096 a big no-no \u0096 legend has it that one touch is toxic and fatal! \u0096 which causes mass havoc wreaked upon the populace as the authorities attempt to corral the tyke while decontaminating the infected workshop's workers (a running gag has the SWAT like DEA agents popping in at a moment's notice whenever a sign of human contact \u0096 i.e. a small cotton white sock attached to an unsuspecting monster \u0096 makes its ugly presence known!) Mike is in a panicky sweat that they will lose their jobs and tells Sulley he can't hide Boo (the nickname the big guy dubs the adorable tot) and they must return her to her bedroom. Easier said than done when Randall gets wind of the partners abetting the unsuspecting crime and he too has his plans to use Boo for his own selfish endeavors\u0085at any cost! The film is a laugh a minute romp and an incredible mix of state-of-the-art computer generated dynamics that truly enhance the candy-colored world of Mike & Sulley with its picture perfect depictions of moveable hair (see how Sulley's locks sway to and fro so naturally! A first for CGI imagery!) and expressiveness given to the one-eyed Mike who works his brow into a real sweat. Never before has voice talent been so perfectly matched and acted to a t than in the comic team of Crystal and Goodman with their characteristics smartly enhanced into their characters with Crystal's liberal use of his \"SNL\" Willy the Masochist (\"Oh I hate when that happens!\") and Goodman's burly, awshucks demeanor fits his soft-hearted meanie like a golden glove. Sulley is the true star of the show with his emotional overload not unlike a kid learning to make a new life transition as he discovers there's more to his existence than meets the eye (same for Mike; pun intended). When he realizes that Boo (by the way, nice job by the producers to use real-life 4 year old Gibbs, in easily the cutest turn by a child performer ever without making an audience gag) is not threatened by his hulking presence. The laughs are largely thanks to Crystal's myopic M&M who is always one-step behind his behemoth buddy and slow on the uptake as the plot proceeds with his sly one-liners, sudden bursts of unrestrained anger and confusion, and slapstick antics leads the film into uncharted territories of hysterical laughter and a great breakneck roller-coaster ride with Mike & Sulley attempting to find Boo's bedroom door with Randall in hot pursuit gives the film a giddy headrush of adrenaline. The film is witty, bright, upbeat and has its shares of incisiveness (I loved the use of HarryHausen's as a local chic eatery that all the monsters are dying to get into; in case of those who don't know Harryhausen, Ray Harryhausen, is the premier stop-motion animator pioneer who gave life to scores of sci-fi creatures including the fabled \"Sinbad\" flicks of the 1960s and 1970s among others) that will undoubtedly have its constituents clamoring for a sequel pronto. Arguably one of the best films and funniest of the year; I loved it and so will you (and your kids if you have any; if not all the more to see it again) An instant classic.",
+         "Until now I couldn't bring myself to believe that computer animation was the equal of either stop motion animation or hand-drawn animation. All computer animated films looked a little (usually more than a little) too sterile, many were animated poorly (\"Antz\", \"Shrek\", \"Final Fantasy\"), and even the single unqualified success (\"Toy Story 2\") provided little evidence that a computer animated film COULD reach the heights other kinds of animation could. \"Toy Story 2\" had flawless character animation, but nothing as inspired as the best in \"Tarzan\" (released the same year, although I could have chosen almost any other Disney cartoon to make my point); effective art direction, but nothing to match \"Fantasia\" or \"The Nightmare Before Christmas\". And I thought that \"Toy Story 2\" was as good as the art was ever going to get. I was wrong. This is far better. And what's more, there's no sense whatever that the script (an unusually rich and uninhibited script) is bumping up against the limits of what the medium will allow. It's now been proven that computer animation CAN be just as good as any other kind. Whether it will be allowed to be in future is another question, but for now, I'm hopeful. What we have here is computer animation's first ENTIRELY unalloyed artistic delight, with every character gracefully and characteristically animated, every virtual set just right and pleasing to look at, and an eye-tickling mastery of colour, light and shade that I thought would forever elude CGI artists. It's not fair to judge anything good as \"Monsters, Inc.\" as though it were a children's movie, but I can't resist comparing it with \"Shrek\" - which emphatically IS a children's movie. \"Monsters, inc.\" is admittedly ABOUT children, in a sort of a way. The inhabitants of Monstropolis rely on children's screams for their energy, and the central story is kicked off when one of the monsters accidentally brings a small child (which he calls \"Boo\") into the city. But we never see things from her point of view. We see things from the point of view of the monsters, who are all adults - and who, like most adults, see children as frightening, almost incomprehensible members of another species. And they ARE. To be sure, Wazowski comes to feel strong affection for Boo, but she never becomes more than a humanoid pet (which is not to demean the relationship). This is a story about adults looking at childhood from the outside. \"Shrek\", of course, is a children's movie through and through. Its attention span is short, it has an unthinking mean streak, and children will have a whale of a time watching the central characters (the bigger they are, the more fun it is) act childishly and make poo-poo jokes. \"Monsters, Inc.\" has too much genuine wit, characters too rich, a world with too much depth, and a story at once too coherent and too complicated, to be PRIMARILY a film for children. This is not to say children won't like it. Maybe they will. (Who can say?) Here's the bonus: if they DO like it, it will (unlike \"Shrek\") actually have a beneficial effect. It will make them less frightened of the dark.",
+         "\"Monsters Inc\" came out on DVD this week, and now I have my own copy!! It is not very useful to try to evaluate this one against others since such an evaluation is so subjective. But I put it in the same superb category that such animated films as \"Toy Story\", \"A Bug's Life\", \"Shrek\", and \"Disney's Tarzan\" are in. First, the quality of the animation and the picture quality. Unbelievably good. I can categorically say it is the best picture quality I have seen on DVD, and the movement and facial expressions of the animated characters makes it almost feel like they are real. Second, the story. How inventive! The only thing separating the monster world from the real world are the doors. The company, Monsters Inc, must have millions of them in inventory, computerized for quick call-up to send in a monster to get screams and charge up their energy cells. The main characters are voiced by John Goodman (big, blue, hairy \"kitty\" with purple spots) and Billy Crystal (short, green, one-eyed monster) and their acting add so much. Plus the great music provided by Randy Newman. Overall and hour and a half of pure edge of your seat entertainment. And that doesn't even include the 3+ hours of extras on the second disk. You can select either standard or widescreen format, and I watched mine widescreen on a 16:9 HDTV with 5-channel surround system with powered subwoofer. Almost like being in a theater!!",
+         "Pixar is the best! Of them all, Monsters, Inc. takes the cake. The realism of the characters' movements & feelings is perfect. The ending is a tear jerker on a happy note. At first I was concerned with the plot of monsters scaring children with a \"business as usual\" attitude, but right away you discover that the monsters are as terrified of the kids as the kids are of monsters.... wonderful juxtaposition throughout the film... a totally enjoyable, feel-good story. Buy it for the kids and let them watch it over and over. (adults may want to sit-in on more than one occasion themselves). Personal Note: For me, a mystery about this film was \"Roz\"; the voice reminded me so strongly of the grandmother in \"Dinosaurs\", and I thought the character drawing was similar as well; upon researching the two, I found they are definitely different actors.",
+         "I thought Billy Crystal and John Goodman were great. I like them anyway, but I can't imagine anyone else in their roles. John Goodman comes across as a warm, fuzzy teddy bear type in so many of his roles, and this time he was actually drawn that way. Crystal and Goodman were great together, even when their characters showed signs of not getting along. And Boo sounded so natural, so childlike. There's no way an adult could have done her lines the way they were executed. And the writing was so intelligent, this movie was not just for kids. There were a lot of clever jokes that kids might not get. Still, the warm and fuzzy qualities of so many of the monsters make this a perfect choice for kids as well as adults, and I really don't get why ABC couldn't give this a TV-G rating. It may have been a little violent or scary at times, but never all that intense. Kids see worse on Saturday morning.",
+         "The best way to describe this movie in one word is; fun! \"Monsters, Inc.\" is a movie you can easily fall in love with. It has some great fun character, some awesome moments and some well placed comical moments. \"Monsters, Inc.\" is entertainment at its bests. The voice cast is amazing. John Goodman and Billy Crystal form a great leading duo. Steve Buscemi is a great villain and James Coburn has a great voice that fits his character perfectly. John Ratzenberger as always is very entertaining this time in a role as banished Yeti. The story itself is pretty simple but thats what makes it easy to follow and so much fun to watch. The movie not only knows how to entertaining but also knows how and when to emote. The combination of fun and emotional things is perfectly balanced and placed within the movie. There is some great dialog but the true power of \"Monsters, Inc.\" are the wonderful characters. Not is there only a wild variety of strange and weird characters but also some characters that are good for some serious laughs and Boo is simply adorable and a pretty fair representation of a kid in real life. Well done Pixar! Pure entertainment for the entire family! 10/10 http://bobafett1138.blogspot.com/",
+         "This is a very entertaining animated film. I've seen it twice and enjoyed even more the second time. Billy Crystal said he enjoyed making this film as much as any film he's ever done, so that's a good testimony that you'll get some laughs and enjoy this movie as an adult, too. Kids will love it, I am sure. The \"monsters\" in here are funny-looking and almost lovable, nothing that would scare your kids (or you). Crystal has a bunch of funny lines but overall I found this to be as much if not more of a human interest story than a comedy. There is a lot of sentimentality to it, even overdone a bit at the end, but that's okay. There is absolutely nothing offensive in here, either. The colors look spectacular, too."
+      ],
+      "genres": [
+         "Animation",
+         "Adventure",
+         "Comedy",
+         "Family",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Walt Disney Pictures",
+         "Pixar Animation Studios"
+      ],
+      "summaries": [
+         "A city of monsters with no humans called Monstropolis centers around the city's power company, Monsters, Inc. The lovable, confident, tough, furry blue behemoth-like giant monster named James P. Sullivan (better known as Sulley) and his wisecracking best friend, short, green cyclops monster Mike Wazowski, discover what happens when the real world interacts with theirs in the form of a 2-year-old baby girl dubbed \"Boo,\" who accidentally sneaks into the monster world with Sulley one night. And now it's up to Sulley and Mike to send Boo back in her door before anybody finds out, especially two evil villains such as Sulley's main rival as a scarer, chameleon-like Randall (a monster that Boo is very afraid of), who possesses the ability to change the color of his skin, and Mike and Sulley's boss Mr. Waternoose, the chairman and chief executive officer of Monsters, Inc.",
+         "James P. Sullivan (AKA \"Sulley\") and Mike Wazowski pick up their paychecks at Monsters Inc., the utility company that generates energy from the goose bumps of children. Sulley, the No. 1 scream-generator at the plant accidentally lets in a little girl into the monster world. Since monsters are actually terrified of children it's a major cause for alarm and a major headache for Sulley and Mike.",
+         "In a land of monsters, James P. Sullivan is king. He and his coworker/ friend Mike Wazowski are two of many monsters that work for Monsters Inc. a utility company that generates power for a very paranoid and nervous city of monsters. This power, oddly enough, is generated from the screams of children, which is produced by scaring them in their sleep. One night, however, Sully uncovers a devious plot to rid Monster city of it's power problems, but in all the wrong ways. Together, ironically, Sully and Mike will fight to protect the innocence of the children they scare every night.",
+         "In the world behind our closet doors, monsters like Mike and Sulley work hard for their income. To be exact, the monster world depends on our children's screams: It is their energy that makes lightbulbs glow and cars drive. Big companies like Monsters, Inc. collect the scream energy, and many monsters work there in shifts. In these times, it is getting harder and harder to shock the kids properly, since they're so spoiled by television, so that there's an energy shortage in the monster world. Sulley, the number one frightener, one day accidentally lets a human child into the monster world. Since kids are supposed to be poisonous and carry loads of diseases, pandemonium ensues. After Mike and Sulley discover that the girl they named Boo actually seems quite harmless, they decide to bring her back through her door into her room. But Boo's presence is more than just a mere accident. Now, Mike and Sulley have to face an enemy within their own ranks.",
+         "James P. Sullivan and his best friend Mike Wazowski work together at Monsters, Incorporated, a mega-company that delivers energy to Monstropolis, the place where they live. Mike and James are the best at what they do: scaring human childs so they can provide them enough screams to produce energy. But just when everything looked perfect, something happens and James releases someone who threatens to destroy not just the company but the whole Monstropolis itself! Will Mike and James be able to save the city by stoping the menace and put it back where it belongs? Or will Monsters, Incorporated come to an end and the days of scaring children be over?",
+         "Monsters generate their city's power by scaring children, but they are terribly afraid themselves of being contaminated by children, so when one enters Monstropolis, top scarer Sulley finds his world disrupted."
+      ],
+      "budget": 115000000
+   },
+   "movielensId": 4886,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2001-11-01",
+      "dvdReleaseDate": "2002-09-07",
+      "directors": ["Pete Docter"],
+      "runtime": 92,
+      "movieId": 4886,
+      "title": "Monsters, Inc.",
+      "mpaa": "G",
+      "actors": [
+         "John Goodman",
+         "Billy Crystal",
+         "Mary Gibbs",
+         "Steve Buscemi",
+         "James Coburn",
+         "Jennifer Tilly",
+         "Bob Peterson",
+         "John Ratzenberger",
+         "Frank Oz",
+         "Steve Susskind",
+         "Bonnie Hunt",
+         "Jeff Pidgeon",
+         "Samuel Lord Black",
+         "Jack Angel",
+         "Bob Bergen",
+         "Rodger Bumpass",
+         "Gino Conforti",
+         "Jennifer Darling",
+         "Patti Deutsch",
+         "Pete Docter",
+         "Bobby Edner",
+         "Ashley Edner",
+         "Paul Eiding",
+         "Katie Scarlettr",
+         "Bill Farmer",
+         "Keegan Farrell",
+         "Pat Fraley",
+         "Teresa Ganzel",
+         "Taylor Gifaldi",
+         "Marc John Jefferies",
+         "Joe Lala",
+         "Noah Luke",
+         "Sherry Lynn",
+         "Danny Mann",
+         "Mona Marshall",
+         "Mickie McGowan",
+         "Laraine Newman",
+         "Kay Panabaker",
+         "Bret 'Brook' Parker",
+         "Phil Proctor",
+         "Josh Qualtieri",
+         "Guido Quaroni",
+         "Jan Rabson",
+         "Lisa Raggio",
+         "Joe Ranft",
+         "Katherine Ringgold",
+         "Sophia Ranft",
+         "Bob Scott",
+         "Jim Thornton",
+         "Lee Unkrich",
+         "Wallace Shawn",
+         "Daniel Gerson",
+         "David Silverman"
+      ],
+      "imdbMovieId": "0198781",
+      "originalTitle": "Monsters, Inc.",
+      "genres": [
+         "Animation",
+         "Comedy",
+         "Family"
+      ],
+      "youtubeTrailerIds": ["8IBNZ6O2kMk"],
+      "plotSummary": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
+      "tmdbMovieId": 585,
+      "avgRating": 3.85539,
+      "releaseYear": "2001",
+      "numRatings": 35952,
+      "posterPath": "/93Y9BGx8blzmZOPSoivkFfaifqU.jpg"
+   }
+}

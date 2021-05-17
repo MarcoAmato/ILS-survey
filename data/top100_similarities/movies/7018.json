@@ -1,0 +1,594 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "loss of loved one",
+            "id": 697
+         },
+         {
+            "name": "lover (female)",
+            "id": 1808
+         },
+         {
+            "name": "investigation",
+            "id": 5340
+         },
+         {
+            "name": "lawyer",
+            "id": 10909
+         },
+         {
+            "name": "courtroom",
+            "id": 33519
+         }
+      ],
+      "imdb_id": "tt0100404",
+      "video": false,
+      "title": "Presumed Innocent",
+      "recommendations": [
+         10675,
+         11364,
+         11060,
+         9869,
+         4105,
+         10083,
+         9331,
+         12618,
+         7007,
+         3525,
+         9281,
+         9013,
+         10551,
+         2990,
+         10859,
+         12235,
+         11352,
+         10998,
+         9061,
+         10631
+      ],
+      "backdrop_path": "/mR9dcm90L8A1jJ9xq9cA0tRpvm0.jpg",
+      "revenue": 221303188,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Rozat \"Rusty\" Sabich",
+               "gender": 2,
+               "credit_id": "52fe43f59251416c75024383",
+               "name": "Harrison Ford",
+               "profile_path": "/7LOTdRfHU1H1qHBxpUv3jT04eWB.jpg",
+               "id": 3,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Raymond Horgan",
+               "gender": 2,
+               "credit_id": "52fe43f59251416c75024387",
+               "name": "Brian Dennehy",
+               "profile_path": "/5OgSljTrXQ3pZvy66WveAGpygnS.jpg",
+               "id": 6197,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Sandy Stern",
+               "gender": 2,
+               "credit_id": "52fe43f59251416c7502438b",
+               "name": "Raúl Juliá",
+               "profile_path": "/nh6jWnEubiTKp61EpEYcB2lFQH0.jpg",
+               "id": 27888,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Barbara Sabich",
+               "gender": 1,
+               "credit_id": "52fe43f59251416c7502438f",
+               "name": "Bonnie Bedelia",
+               "profile_path": "/10JhoIaKHQGG0DNbQECTI4gHNn9.jpg",
+               "id": 7673,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Judge Larren Lyttle",
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243c1",
+               "name": "Paul Winfield",
+               "profile_path": "/6FuLfJh70aDUxggFuPC2oID5Mjg.jpg",
+               "id": 1818,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Carolyn Polhemus",
+               "gender": 1,
+               "credit_id": "52fe43f59251416c750243c5",
+               "name": "Greta Scacchi",
+               "profile_path": "/uHPHNwBnhBIs1z2sJcKQODtaY2n.jpg",
+               "id": 21245,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Det. Lipranzer",
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243c9",
+               "name": "John Spencer",
+               "profile_path": "/9sU5FEzlf921n6NxHmXgJB3994T.jpg",
+               "id": 34691,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Tommy Molto",
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243cd",
+               "name": "Joe Grifasi",
+               "profile_path": "/cesXbWZaKHeOhsSdfbF9mB9750w.jpg",
+               "id": 4887,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Nico Della Guardia",
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243d1",
+               "name": "Tom Mardirosian",
+               "profile_path": "/xWLZyxA7oEjGIbu6pFn2nrO2Ux6.jpg",
+               "id": 118754,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Eugenia",
+               "gender": 1,
+               "credit_id": "52fe43f59251416c750243d5",
+               "name": "Anna Maria Horsford",
+               "profile_path": "/aHGNsdQyfYiMsclGTlEPvvmZw3a.jpg",
+               "id": 54800,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "'Painless' Kumagai",
+               "gender": 0,
+               "credit_id": "52fe43f59251416c750243d9",
+               "name": "Sab Shimono",
+               "profile_path": "/jgbTTB8hCfKARta5yGkHrq2DFB.jpg",
+               "id": 85500,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Jamie Kemp",
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243dd",
+               "name": "Bradley Whitford",
+               "profile_path": "/66brylvzWLg94TRMd6QFrVyMOei.jpg",
+               "id": 11367,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Lydia 'Mac' MacDougall",
+               "gender": 1,
+               "credit_id": "52fe43f59251416c750243e1",
+               "name": "Christine Estabrook",
+               "profile_path": "/ypAbUrQfIZWge9e2cuFmCuHHi8a.jpg",
+               "id": 9047,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Mr. Polhemus",
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243e5",
+               "name": "Michael Tolan",
+               "profile_path": "/9tLDLYucekjPXzR8u0Vr9UYMrEb.jpg",
+               "id": 161650,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Sgt. Lionel Kenneally",
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243e9",
+               "name": "Madison Arnold",
+               "profile_path": "/rbgHUIcP9rD0AwWNliCD3ZR80ep.jpg",
+               "id": 66297,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Wendell McGaffney",
+               "gender": 2,
+               "credit_id": "5719f35a9251414ef4001115",
+               "name": "Joseph Mazzello",
+               "profile_path": "/zsBGvymDqB737PerJTqhS9dPuBd.jpg",
+               "id": 4787,
+               "order": 15
+            },
+            {
+               "cast_id": 25,
+               "character": "Det. Harold Greer",
+               "gender": 2,
+               "credit_id": "5719f36fc3a368525f001add",
+               "name": "Tucker Smallwood",
+               "profile_path": "/4ltM9TUPWDXmZRjqKjNNsDjPC0S.jpg",
+               "id": 92777,
+               "order": 16
+            },
+            {
+               "cast_id": 41,
+               "character": "Glendenning",
+               "gender": 2,
+               "credit_id": "5a6ced100e0a265f0a011f29",
+               "name": "Peter Appel",
+               "profile_path": "/f2iffQFEqefoFvg4G3yC9n8WDzt.jpg",
+               "id": 1005,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "Mr. McGaffney",
+               "gender": 2,
+               "credit_id": "5719f3aa925141115f00195d",
+               "name": "Joseph Carberry",
+               "profile_path": null,
+               "id": 90339,
+               "order": 19
+            },
+            {
+               "cast_id": 28,
+               "character": "Tom",
+               "gender": 0,
+               "credit_id": "5719f3b5925141114a00196e",
+               "name": "Bill Winkler",
+               "profile_path": "/v9RAbGcRixu9eILjXPKHrB5hCV4.jpg",
+               "id": 1385073,
+               "order": 20
+            },
+            {
+               "cast_id": 29,
+               "character": "Arresting Detective Jim",
+               "gender": 2,
+               "credit_id": "5719f3ce9251411155001917",
+               "name": "Ed Wheeler",
+               "profile_path": "/owS4QhSwX7BRvNe0eviW5iCDpZx.jpg",
+               "id": 59162,
+               "order": 21
+            },
+            {
+               "cast_id": 30,
+               "character": "Prosecuting Attorney",
+               "gender": 2,
+               "credit_id": "5719f3e4c3a3682553001139",
+               "name": "Jeffrey Wright",
+               "profile_path": "/wBh9rwK3aRr1hCrSRLxxPHKzGeU.jpg",
+               "id": 2954,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43f59251416c75024395",
+               "name": "Sydney Pollack",
+               "profile_path": "/zxkoU2diKtvarV1Qk4z9He2lJj9.jpg",
+               "id": 2226,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f59251416c7502439b",
+               "name": "Alan J. Pakula",
+               "profile_path": "/vzvxrcoFirt0LJb0hG0ezP64mYr.jpg",
+               "id": 6349,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243a1",
+               "name": "John Williams",
+               "profile_path": "/2Ats98PB1SH2yfEPikiLdhRuXZm.jpg",
+               "id": 491,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243a7",
+               "name": "Frank Pierson",
+               "profile_path": "/qB5v6C0gt4wa8tlxcuG90fF0Ye9.jpg",
+               "id": 13861,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243ad",
+               "name": "Gordon Willis",
+               "profile_path": "/6gOmfatlF7UdhaHi2tPsZMb5vmz.jpg",
+               "id": 3097,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f59251416c750243b9",
+               "name": "Evan A. Lottman",
+               "profile_path": null,
+               "id": 57925,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572d257492514165ee000f62",
+               "name": "Alan J. Pakula",
+               "profile_path": "/vzvxrcoFirt0LJb0hG0ezP64mYr.jpg",
+               "id": 6349,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572d258692514165ec000e43",
+               "name": "Scott Turow",
+               "profile_path": null,
+               "id": 239583,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572d259b92514165f3000e4b",
+               "name": "Mark Rosenberg",
+               "profile_path": null,
+               "id": 50855,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "572d25a392514165fa000ee6",
+               "name": "Susan Solt",
+               "profile_path": null,
+               "id": 70598,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572d25af92514165fa000ee9",
+               "name": "Alixe Gordin",
+               "profile_path": null,
+               "id": 1156,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572d25b9c3a3680fe5000e70",
+               "name": "George Jenkins",
+               "profile_path": null,
+               "id": 6358,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572d25c7c3a3680fe2000e98",
+               "name": "Robert Guerra",
+               "profile_path": null,
+               "id": 4187,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572d25ce9251416601000db1",
+               "name": "Carol Joffe",
+               "profile_path": null,
+               "id": 42406,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572d25d9c3a3680fdb000d90",
+               "name": "John Boxer",
+               "profile_path": "/7i914AsImDLfYAUxQG1kqX2AnhE.jpg",
+               "id": 1075445,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 8.888891,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11092,
+      "vote_count": 200,
+      "budget": 22000000,
+      "overview": "Life takes a nasty twist for D.A. Rusty Sabich when the woman he has been romantically involved with is murdered. He is assigned to investigate the case, but is soon charged with the murder.",
+      "similar": [
+         75780,
+         11423,
+         8954,
+         10900,
+         4771,
+         1586,
+         402,
+         807,
+         1939,
+         445954,
+         984,
+         1923,
+         25376,
+         21484,
+         9411,
+         1645,
+         963,
+         6973,
+         638,
+         10651
+      ],
+      "original_title": "Presumed Innocent",
+      "runtime": 127,
+      "poster_path": "/sE6tuclHXvrst1ZFAYwcPr1OT1L.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Português",
+            "iso_639_1": "pt"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Mirage Enterprises",
+            "id": 932,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1990-07-26",
+      "vote_average": 6.6,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Alan J. Pakula"],
+      "runtime": 127,
+      "synopsis": "Rozat \"Rusty\" Sabich ( Harrison Ford) is a prosecutor in a mid-Western American city and the right-hand man of Kindle County Prosecuting Attorney Raymond Horgan ( Brian Dennehy). Sabich is married with a young son. He arrives at work one day to learn that his colleague Carolyn Polhemus ( Greta Scacchi) has been tortured and murdered in her apartment. Horgan insists that Sabich take charge of the investigation, especially since the election for County PA is due in a few days' time and that Tommy Molto ( Joe Grifasi), the acting head of Homicide, has left to join the rival campaign of Nico Della Guardia ( Tom Mardirosian). Sabich faces a conflict of interest since he had an affair with Polhemus. She dumped him when he showed little ambition, like running for office against Horgan, and will therefore be of little use to her and her own career. Sabich has since made up with his wife, Barbara ( Bonnie Bedelia), though he is still obsessed with Polhemus and finds it hard to get her out of his mind. While Polhemus developed a reputation for aggressively prosecuting rapists and similar criminals, she had become an ambitious career-woman who slept around to advance herself. Although Detective Harold Greer ( Tucker Smallwood) is initially in charge of the case, Sabich instead calls in his friend Detective Lipranzer ( John Spencer) and persuades him to narrow the inquiry to focus on men that she put behind bars, thus excluding his relationship with Polhemus from the investigation. However, Sabich soon realizes that Molto is making inquiries of his own into the case. It becomes evident that some of the evidence suggests that the killer knew something about how police gather evidence and covered it up accordingly - suggesting a cop, a private detective, or even a PA. Semen was found in the victim's body but the sperm is dead, leading the coroner to conclude that the killer is sterile. The killer's blood type was A, the same as Sabich's, but he is a father, and obviously fertile. When Della Guardia wins the election for County PA, he and Molto are quick to accuse Sabich himself of the crime and pull out all the stops to gather evidence against him, including the way he conducted the investigation. The evidence includes a beer glass found in Polhemus' apartment with Sabich's fingerprints on it and fibers matching his home carpet that match fibers found on her body. Things aren't helped by the fact that Horgan suddenly turns against his friend and former protégé and claims that Sabich had insisted on handling the investigation - when in fact he didn't - which the prosecution uses to back their claim of a cover-up by Sabich. Horgan learns of Sabich's affair with Polhemus, just as Polhemus learns that Raymond also had an affair with Polhemus. Called to testify, Horgan doesn't reveal what he knows about Sabich's affair with Polhemus. Sabich calls on Sandy Stern ( Raul Julia), a top defense attorney with whom he has often clashed in court. Stern acknowledges Sabich as his \"toughest adversary\" but agrees to take the case. When the trial begins, the prosecution reveals that the beer glass is missing from the evidence room. It is a crucial piece of the prosecution's case and Stern persuades Judge Larren Lyttle ( Paul Winfield) to suppress the fingerprint evidence. Sabich's wife Barbara is surprisingly supportive throughout the trial. In the course of his investigation, Sabich discovered that Polhemus had acquired a \"B-file\" (meaning bribery) from Prosecuting Attorney Horgan which detailed a bribery case involving a law-enforcement official. It describes a man named Leon ( Leland Gantt) who paid a $1500 bribe to get his case of public indecency thrown out of court. Carolyn Polhemus was his probation officer before she joined the Prosecuting Attorney's office and set up the bribe. The deputy prosecutor in charge of the case was Tommy Molto. The main thrust of Stern's defence is that Molto and Della Guardia have set Sabich up to help Nico Della Guardia's election campaign against Ramond or, Stern hints, as part of a cover-up of a bribery case that involved Molto. He implies that the details are revealed in the missing B-file. Sabich is demanding that he be allowed to testify, but his attorney Stern says he would only implicate himself. Sabitch's friend and fellow detective Lipranzer finds Leon. Leon reveals that the official who took the bribe was in fact Judge Larren Lyttle, the same judge handling Sabich's trial! Stern calls the coroner to the stand and while questioning him, produces contradictory evidence showing that Polhemus had a tubal ligation. He implies that the coroner must have mishandled or even falsified the evidence because a woman with a tubal ligation would not need to use contraceptive jelly like that found in the seminal fluid in her vagina. The prosecution persuades the judge to accept testimony from a fingerprint expert about the fingerprints on the glass, but since they are unable to produce the glass itself, the judge tells the juror that this introduces reasonable doubt into the prosecution's case. The next morning, the judge announces that based on the mishandled seminal fluid and beer glass evidence, and the lack of any proof that Sabitch and Polhemus had a relationship, he dismisses the case. Unknown to the jury, the judge was also influenced by the possibility that the missing B-file, which documented him accepting bribes, might turn up. Sabich presses his defense attorney Stern for information and learns, in private, that both Stern and Prosecuting Attorney Horgan knew that Judge Lyttle had been accepting bribes and that Polhemus was his courier. Lyttle had been going through a bad period after a divorce. He offered his resignation but the County Prosecuting Attorney Horgan believed that he was in fact a brilliant judge and should be given another chance. Stern raised the issue of the bribery investigation during the trail in a way that implied he knew what it revealed, causing the judge to think it's contents might be made public. On the whole, Stern concluded. Judge Lyttle handled the case is a rightful manner. Detective Lipranzer later reveals to Sabich on a boat that he has the missing beer glass. He failed to return it to the evidence room when Molto, in a bureaucratic foul up, signed it as \"returned to evidence\" when in fact it was still in the evidence lab. The evidence lab returned it to Lipranzer after he had already been taken off the case. Since nobody asked for the glass he simply kept it in his desk drawer. As far as Lipranzer was concerned: \"The lady was bad news.\" He gave the glass to Sabitch who tossed it into the water. Sabich is in the clear, though he does not appear to be too pleased about the ways by which this was achieved. Some time later, while doing some work in his garden, Sabich comes across a small combination hammer, hatchet, and nail puller with blood and hair on it. The tool matches the coroner's description of the murder weapon. Sabich realizes that the blood and hair belong to Polhemus. His wife sees him washing the hammer and confesses to the crime. In a detached state, talking in the third person, Barbara confesses that, following his affair, she fell into a depression. She even considered suicide before deciding that it would be better to destroy the destroyer, i.e. Polhemus. She bought beer glasses like those they had given to Polhemus as a house-warming gift. She got Sabich's fingerprints on a glass. She also captured some seminal fluid from her vagina after sex with her husband and froze it. She arranged to meet Polhemus at her apartment, and when her head was turned, struck her and killed her. She used a syringe to insert the seminal fluid into Polhemus' vagina, making it look like her husband had sex with her before she died, implicating him in her death. She claims that she did not actually intend to frame her husband; she assumed that as the investigator he would soon realize that she had killed Polhemus and would file it as an unsolved case. Sabich cannot bring himself to separate his son from his mother and proceeds to cover-up the crime. In the end, justice was served.",
+      "writers": [
+         "Scott Turow",
+         "Frank Pierson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0100404/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg0ODI2NTQ4Ml5BMl5BanBnXkFtZTcwNTQ2OTgyMQ@@._V1_SY317_CR12,0,214,317_AL_.jpg",
+      "actors": ["Stars: Harrison Ford, Raul Julia, Greta Scacchi | See full cast and crew »"],
+      "reviews": [
+         "As a thriller this is top notch; as any kind of a movie it is also top notch. Based on Scott Turow's best-selling novel of the same name (his first), it relies on a well-coordinated directorial effort by Alan J. Pakula (Sophie's Choice 1982, All the President's Men 1976, Klute 1971, etc.), a fine script by Frank Pierson (whose credits include Cool Hand Luke 1967, Dog Day Afternoon 1975, A Star Is Born 1976, etc.), and an experienced, talented and well-directed cast headed by Harrison Ford, Brian Dennehy, Raul Julia, Bonnie Bedelia, Greta Scacchi and Paul Winfield. Ford plays Rusty Sabich, a prosecutor compromised by his sexual obsession with a fellow prosecutor, Caroline Polhemus (Scacchi) who is found murdered as the film opens. We see her in flashback as a conniving mantrap who uses her wiles to further her career. Sabich is assigned to the case by his boss, Raymond Horgan (Dennehy) who is up for reelection. Sabich would like to recuse himself but Horgan demands that he take the case and get the perp \"yesterday\" otherwise they will all be out a job because he will lose the election. Bedelia, looking particularly beguiling, plays Sabich's sexually frustrated and deeply hurt wife, Barbara. When the election is lost the new prosecutors arrest Sabich and charge him with murder. He is defended by the very smooth Raul Julia who plays defense attorney Sandy Stern. Paul Winfield, in a somewhat flamboyant style, plays Judge Larren Lyttle. Because Scott Turow knows the way the law works in practice as well as in theory, he having been a lawyer before he became a best-selling writer, we are treated to wood paneled intrigues and courtroom theatrics that have the unmistakable feel of authenticity. The dialogue is veracious and the character cross-currents vividly real. Ford gives what I think is one of his best performances as a man tormented by his infidelity and caught in a vise of circumstance largely stemming from that infidelity. Dennehy is a big-mouthed and big-headed politician in the familiar Windy City style. Raul Julia's Sandy Stern is cosmopolitan and brilliant, cynical and slick, a kind of Latin Johnny Cochran. Bedelia, whom I recall best as Shirley Muldowney in Heart Like a Wheel (1983) manages a delicate (and slightly unbelievable) persona with just the right amount of forbearance so that when the surprise ending comes we almost believe it. I say \"almost,\" but you might want to judge for yourself. See this for Harrison Ford who plays a foolish and morally compromised man with just the sort of right stuff and disarming vulnerability we've come to expect from one of Hollywood's most popular leading men. (Note: Over 500 of my movie reviews are now available in my book \"Cut to the Chaise Lounge or I Can't Believe I Swallowed the Remote!\" Get it at Amazon!)",
+         "When Carolyn Polhemus, a young prosecutor employed by the District Attorney of an American city, is found murdered, the job of investigating her murder is given to Rusty Sabich, one of her colleagues and her former lover. The DA, who is shortly coming up for re-election, wants quick results, but Sabich seems to be making slow progress. The DA is defeated in the election, and Sabich finds himself arrested by his successor and charged with the murder. The evidence against him initially seems strong, but more questions emerge during his trial. Is he really guilty? Is someone trying to frame him? If so, who? Was the murder connected to an investigation which Carolyn was pursuing into judicial corruption? Or was it connected to her complex sex life? We learn, through flashbacks, the story of her affair with Sabich and that she was promiscuous, sleeping with a number of influential men who could help her career, including not only Sabich but also the DA himself. Besides being a legal thriller, \"Presumed Innocent\" is also a study in contrasts in character- either contrasts between two different persons or between the inner and outer person. Harrison Ford is often good at playing rather stolid individuals who have difficulty in showing their feelings but whose impassive exterior can hide powerful emotions. Norman Spencer in \"What Lies Beneath\" was one such individual; Sabich is another. Both are men whose life spins out of control after they become involved in extramarital affairs. Fortunately for Sabich, he has someone to take control on his behalf, his smooth and fluent defence lawyer Sandy Stern. Ford and Raul Julia, who plays Stern, form a double act in the second half of the film, both playing their parts very well. Sabich and Stern are both lawyers, but with very different characters and different approaches to the law. Sabich is determined to tell the truth as he sees it; the wily Stern sees the law as a game to be won on behalf of his client rather than a search for truth. If winning involves preventing the truth from emerging, so be it. There is also a contrast between Sabich and his former lover Carolyn. While he is undemonstrative but inwardly emotional, she is outwardly seductive and flirtatious but inwardly cold-hearted. Both Sabich's wife Barbara, seemingly noble and forgiving, and the judge who tries his case, may have hidden secrets. Raymond Horgan, the DA, initially seems to be a friend of Sabich, but later turns against him when his self-interest dictates. This concentration on character pays off, raising the film above the run-of-the-mill legal thriller. Contrasts between the various characters, and their inner conflicts, give rise to a gripping courtroom drama, one of the best in recent years. The pace of the film never flagged, and it held my attention throughout. The ending (which I will not reveal) has been criticised as either predictable or implausible. In my view it was perhaps unlikely, but neither completely unbelievable nor inconsistent with what has gone before. I certainly did not predict it. This is a tense and watchable drama. 7/10",
+         "From Scott Turow's successful novel came this tense drama about a man accused of the rape and murder of a legal colleague with whom he had previously had an affair. Alan J. Pakula's direction, along with strong performances by Harrison Ford, Raul Julia, Bonnie Bedelia, Brian Dennehy and all the other supporting cast, contribute strongly to a film that keeps you guessing until the very end; which by the way, will shock the sox off ya. This is a thriller that never gets out of hand, or goes over the top. All credit to Alan J. Pakula and Frank Pierson's adaptation. Great down to earth stuff. Sunday, June 16, 1991 - Video",
+         "Presumed Innocent presents a stiff challenge to its principal actors. Many of them must read their lines and convey body language that is ambiguous, suggesting both guilt or innocence and good or evil. The talented cast accomplishes this superbly. The story (based on a book of the same name which I haven't read) intelligently and knowledgeably examines the morality of the legal system and how it is compromised because of human fallibility. All in all, this was a very engrossing motion picture. Strongly recommended, 8/10.",
+         "Since it's Harrison Ford on trial for the murder of his coworker/mistress, and most everyone loves Harrison Ford, you want to believe he's innocent. But that belief is never a sure thing in \"Presumed Innocent\": a gripping, suspenseful whodunit that keeps you guessing mercilessly. All the leads here are right on target, especially Ford as the mumbling, elusive murder defendant. Most importantly, all the main players are ambiguous in one way or another, and while I certainly will not give away the ending (which is a beauty, I promise you) keep that in mind as you watch. Can you trust anyone?? The final scene was shocking and thought-provoking. And I couldn't help but think of the title, \"Presumed Innocent.\" Naturally.",
+         "Bear with me while I set the context for my review: One of the stunning \"hooks\" in the academy award winning film \"The Sting\" (1973, 10 nominations, 7 awards, including Best Picture, Best Direction, Best Adapted Screenplay) is the shift of the narrative voice from omniscient perspective to a closed third person perspective ... when Johnny Hooker (Redford) and Lt. Snyder (Durning) are fooled by the \"FBI agents\" -- we later find out the FBI scene was set up and scripted by Henry Gondorff (Paul Newman) as the critical step in making the Sting work. That one elegantly smooth, unnoticeable shift is the crowning touch in an otherwise excellent film. In \"Presumed Innocent\" the brilliant change in narrative is the change in voice .. from that of Rusty Sabich (Ford) to that of his wife Barbara (Bedelia) during the final conversation between them in the story. The intricately subtle and carefully staged plot lets us follow Rusty's stream of consciousness as if he was in a trance .. a trance guiding him toward a full understanding of \"what really happened\" in the murder of his colleague -- and a full understanding of his part in those events. It's a movie that you have to see twice to appreciate the excellent acting and direction. And if and when you read Scott Turow's book, you'll want to see the film at least once again .. in which case you'll be more than impressed at how well the (extraordinary) novel was translated to the screen. The spare, unobtrusive score magnifies the most compellingly dense scenes in which Rusty's awareness of \"what really happened\" evolves. If you want to know what John Williams can do with a light touch when he's not making epics like Jaws, Star Wars, Indiana Jones or Harry Potter, you might want to play the film once more, just to focus on tasting and savoring the audio portion of this program. Raul Julia nailed the part of defense attorney Sandy Stern, Harrison Ford is phenomenal as Rusty, and Bonnie Bedelia; Brian Dennehy as District Attorney Raymond Horgan, Rusty's boss; Paul Winfield, the trial judge; and John Spenser as Rusty's friend Detective Lipranzer (West Wing, Leo McGarry) -- all turn in pro performances in support. Some significant credit has to go to the producers for assembling a magical cast. But be forewarned -- this is dark magic. In almost every scene, shadow and darkness is prominent, and the scant few bright daylight scenes only set up contrast with the dimmer, more murky, more obscure moments. The desolate visualization is not bleak, though; to the contrary, it's richly textured. Making hopelessness and forlorn human obsession palatable in a film is no small thing ... and this story is the journey of the soul in the small hours of a sleepless night. It's a story that could have inspired Hemingway to write \"A Clean, Well Lighted Place.\" \"Imagine a dark smoky bar, deep grained cherry wood paneling, where they dole out martinis made from the best 100 proof vodka and iced human tears to richly burdened men and women, each alone with grief and mourning and self-created pain.\" *** Presumed Innocent was nominated for an Edgar (Best Movie, Edgar Allan Poe Award) along with Goodfellas, but lost to The Grifters (Angelica Huston, John Cusack, Annette Bening.) The original music by John Willimas received a BMI Film Music award. *** Trivia Bradley Witford, also a featured player on West Wing (Josh Lyman) plays Jamie Kemp, Sandy Stern's law assistant. This is the first film I know of with a character who is a black gang member and \"in the life, on the lowdown\" as a closeted homosexual. Exercise: When the defense team visits Caroline Polhemus's apartment, note the number of bar glasses present on the countertop.",
+         "This is cracking matinée fare. The cast is a big pool of Hollywood stalwarts as a fine supporting ensemble giving a thoughtful, adult vehicle to a typically thoughtful, adult lead from Harrison Ford. The drama is quite quiet and internal: don't be put off, as the cast handle it in a way decided non-European, investing characters with credible melodramatics and keeping everything entirely engaging. Some of the best courtroom set pieces I can remember. The plot is a detailed psychological thriller that one finds hard to keep absolutely on top of, yet Pakula keeps his eye on the top layer. The story unfolds steadily and inexorably. I watched it for a second time on DVD this morning and even knowing the ending and the twists that bring it about I couldn't see them flagged up at any point in Ford's performance. It's a film about the strengths and weaknesses of law - of civilisation - of the pitfalls of trying to be moral (referred to as 'ideal' throughout). Above all it tries to address humanity and love which it does patiently, accurately and really very entertainingly 8/10",
+         "This is a very good film centering around a murder investigation and trial involving a chief deputy DA and a beautiful, young attorney in his office who is found murdered one morning. The direction, screenplay, and acting are all top notch and you never really know how it's going to turn out til the very end. Harrison Ford is the deputy DA accused of murdering one of the female attorneys in his office. Ford's character is that of a strident upholder of the law who strays into marital infidelity. Caroline Polhemus, played by Greta Scacchi, is beautiful and manipulative, using her sexuality to get what she wants, career advancement and power. Ford is assigned to head the murder investigation team, however, his boss, played by Brian Dennehy, loses his re-election bid a few weeks later and the new district attorney charges Ford with Caroline's murder. He knows Ford had had an affair with the victim and has physical evidence that he was at the murder scene and had been placing phone calls to her apartment in the days prior to her death. The continuing investigation by Harrison Ford's team of lawyers and his friends in the DA's office and the trial highlight the remainder of this film. Events take strange twists and turns and the viewer is taken along for the ride without really knowing where it will take him. The ending is a bit of a surprise and neatly ties everything together. The direction by Alan J. Pakula is tight and suspenseful. I thought it was his best film since the early days when he directed \"Klute\" and \"The Parallax View\" - certainly better than the muddled \"Pelican Brief.\" The overriding theme of the movie is darkness, people hiding secrets from one another, and the direction emphasizes that. There are very few outdoor daytime scenes and most of the interior shots are of dark rooms and corridors. Harrison Ford is good in the role of the besieged deputy DA, but I thought the secondary actors were the ones who made this picture as good as it was. Raul Julia plays Ford's attorney defending him in court and he's excellent (I thought it was his best role in any film). He's urbane and confident, and he steers the defense through a very difficult set of circumstances. Bonnie Bedelia plays Ford's wife and her character is much more complex than that of the supportive wife standing by her man. She also has dark secrets of her own and she plays the part with sly understatement. John Spencer (\"L.A. Law\") plays an investigator in the DA's office helping Ford, Brian Dennehy plays Ford's boss who turns on him, and Paul Winfield plays the judge handling the trial, and all are excellent. My only criticisms would come from Harrison Ford's character, who is so emotionally detached that it makes the circumstances of the affair with Greta Scacchi unbelievable. He's not an easy person to identify with or feel sympathy for, but the film is so well done that you can easily skip over that void and just sit back and enjoy the performances.",
+         "Presumed Innocent is directed by Alan J. Pakula, who also co-adapts for the screen with Frank Pierson from the Scott Turow novel. It stars Harrison Ford, Brian Dennehy, Bonnie Bedelia, Raúl Juliá, Paul Winfield, John Spencer and Greta Scacchi. Music is scored by John Williams and Richard Wolf, and cinematography is by Gordon Willis. Prosecuting attorney Rusty Sabich (Ford) suddenly finds himself a murder suspect after his one time lover, Carolyn Polhemus (Scacchi), is found raped and murdered in her home. As the evidence piles up against him, and his marriage comes under further strain, Rusty hires top lawyer Sandy Stern (Juliá) to represent him when the case goes to trial. Battling the system that he knows inside out, Rusty finds that there's a big can of worms about to be opened. A tip top court room mystery drama that we could do with seeing more of these days. Expertly strung together by the director of All the Presidents Men and Sophie's Choice, Presumed Innocent isn't just a by the numbers legal who done it? The makers get in deep with the political machinations of a district attorney's office, the intricate steps of a police investigation, and of course the legal eagle operations of a court room. In to the mix is an horrendous crime, of which a lawyer himself is charged with committing, he may or may not be guilty of the crime, but wonderfully we are never sure until the astonishing finale plays out. The air of mystery hangs heavy throughout, nagging away like an itch you can't scratch, with Pakula neatly unfolding the drama in a collage of flashbacks, side-plots and present time intricacies. Mood is heightened by the photography of Gordon Willis, who along with Pakula's looming camera work, manages to convey a claustrophobic feel in keeping with an unstable marriage and a court room itself. A great cast is assembled for the picture. Ford expertly plays it low key, brooding intently, he makes us unsure as to his guilt or innocence, and that's a testament to how good his performance is. Bedelia is excellent as the stoic wife, holding it together as the marital cracks begin to appear, and Juliá dominates the second half of the picture as we shift to the court room. Dennehy does a nice line in morally compromised smarm, and Scacchi wonderfully exudes a femme fatale sexuality. Winfield is a mighty presence as the judge presiding over such a tricky case, and Spencer is as reliable as ever. Only disappointments come with the performances of Joe Grifasi and Tom Mardirosian, who as the prosecutors come across as wimpy and hardly brick tight lawyers trying a high profile murder case. An intense and intellectual adult drama, Presumed Innocent is one of the best of its type from the modern era. 8.5/10",
+         "Harrison Ford plays a district attourney who is still obsessed with a co-worker with whom he had an affair, which she broke off. She then is found murdered, and all the evidence points back at Ford. We don't want to think he committed this brutal murder, but do we know for sure? There is a strong moral to this film, which should be obvious to anyone watching. Sometimes our actions have consequences that we never would have believed or intended, but does that make us any less guilty? If you liked this film, you might want to watch Tightrope."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Warner Bros.",
+         "Mirage Enterprises"
+      ],
+      "summaries": [
+         "After his former girlfriend is killed and he becomes the prime suspect, D.A. Rusty Sabich goes on a search to find the real killer and finds out he/she may be closer to him than he thinks.",
+         "Carolyn Polhemus, an up-and-comer in the Kindle County D.A.'s Office, is found viciously murdered in her home. Immediately her boss, D.A. Raymond Horgan and his chief deputy, Rusty Sabich start an investigation. Horgan, however, is in the middle of a campaign to keep his job, which he ultimately loses to former subordinate Nico Della Guardia. Della Guardia and his new deputy, Tommy Molto, decide to prosecute Sabich for Carolyn's murder when it is revealed that Sabich was a former lover of Polhemus. Horgan also turns against his former subordinate, and Rusty soon realizes he has few friends left - except for Sandy Stern, whom he has often faced on the other side of the courtroom, and who will become his new defense lawyer when he is put on trial for murder. Investigation by Stern and his team leads them to think that Rusty was framed for murder - by Molto, who wanted Sabich's job and was trying to punish him for backing Horgan. Is Rusty Sabich innocent...or is he a murderer?",
+         "When a female D.A. is killed, the D.A. assigns his assistant to handle the investigation. Only problem is that he was having an affair with her. And the evidence reveals that he is the killer. So he suspects that the man who wants his boss' job is trying to frame him. He turns to Sandy Stern a highly celebrated defense attorney to represent him.",
+         "When the woman deputy prosecutor R.K. Sabich had an affair with is murdered the prosecutor asks him to lead the investigation. When Sabich digs too deeply he finds himself framed for the murder."
+      ],
+      "budget": 0
+   },
+   "movielensId": 7018,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1990-07-26",
+      "dvdReleaseDate": "1997-12-17",
+      "directors": ["Alan J. Pakula"],
+      "runtime": 127,
+      "movieId": 7018,
+      "title": "Presumed Innocent",
+      "mpaa": "R",
+      "actors": [
+         "Harrison Ford",
+         "Brian Dennehy",
+         "Raúl Juliá",
+         "Bonnie Bedelia",
+         "Paul Winfield",
+         "Greta Scacchi",
+         "John Spencer",
+         "Joe Grifasi",
+         "Tom Mardirosian",
+         "Anna Maria Horsford",
+         "Sab Shimono",
+         "Bradley Whitford",
+         "Christine Estabrook",
+         "Michael Tolan",
+         "Madison Arnold",
+         "Joseph Mazzello",
+         "Tucker Smallwood",
+         "Peter Appel",
+         "Joseph Carberry",
+         "Bill Winkler",
+         "Ed Wheeler",
+         "Jeffrey Wright"
+      ],
+      "imdbMovieId": "0100404",
+      "originalTitle": "Presumed Innocent",
+      "genres": [
+         "Drama",
+         "Thriller",
+         "Crime",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": ["x0cieth6XgE"],
+      "plotSummary": "Life takes a nasty twist for D.A. Rusty Sabich when the woman he has been romantically involved with is murdered. He is assigned to investigate the case, but is soon charged with the murder.",
+      "tmdbMovieId": 11092,
+      "avgRating": 3.65639,
+      "releaseYear": "1990",
+      "numRatings": 1314,
+      "posterPath": "/sE6tuclHXvrst1ZFAYwcPr1OT1L.jpg"
+   }
+}

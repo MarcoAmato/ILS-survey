@@ -1,0 +1,1359 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "gay",
+            "id": 237
+         },
+         {
+            "name": "england",
+            "id": 392
+         },
+         {
+            "name": "world war ii",
+            "id": 1956
+         },
+         {
+            "name": "mathematician",
+            "id": 2303
+         },
+         {
+            "name": "biography",
+            "id": 5565
+         },
+         {
+            "name": "logician",
+            "id": 208394
+         },
+         {
+            "name": "cryptography",
+            "id": 208395
+         }
+      ],
+      "imdb_id": "tt2084970",
+      "video": false,
+      "title": "The Imitation Game",
+      "recommendations": [
+         266856,
+         194662,
+         244786,
+         210577,
+         242582,
+         120467,
+         190859,
+         228150,
+         106646,
+         85350,
+         296098,
+         76203,
+         152532,
+         205587,
+         314365,
+         122917,
+         264660,
+         207703,
+         45269,
+         87492
+      ],
+      "backdrop_path": "/qcb6z1HpokTOKdjqDTsnjJk0Xvg.jpg",
+      "revenue": 233555708,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Alan Turing",
+               "gender": 2,
+               "credit_id": "52fe4d0cc3a368484e1d4157",
+               "name": "Benedict Cumberbatch",
+               "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
+               "id": 71580,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Joan Clarke",
+               "gender": 1,
+               "credit_id": "52fe4d0cc3a368484e1d415b",
+               "name": "Keira Knightley",
+               "profile_path": "/irLxeFMXw2phPH7okxHInBhs6jb.jpg",
+               "id": 116,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Hugh Alexander",
+               "gender": 2,
+               "credit_id": "54519445c3a368023c005180",
+               "name": "Matthew Goode",
+               "profile_path": "/bSGvvLVbgpIFGLKj2CGeojsqOaH.jpg",
+               "id": 1247,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Detective Robert Nock",
+               "gender": 2,
+               "credit_id": "5363bfdbc3a368158d00277c",
+               "name": "Rory Kinnear",
+               "profile_path": "/x6S1iZAHHjtPCCyYKOVMOea6zbU.jpg",
+               "id": 139549,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "John Cairncross",
+               "gender": 2,
+               "credit_id": "5363bfebc3a368159f002834",
+               "name": "Allen Leech",
+               "profile_path": "/ezLSwpml7IWGy4loLpDUwIZ7wM8.jpg",
+               "id": 85718,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Peter Hilton",
+               "gender": 2,
+               "credit_id": "5363bff4c3a368157d00274b",
+               "name": "Matthew Beard",
+               "profile_path": "/Au3fuVoTPE7dDLY2iB52mliIFDL.jpg",
+               "id": 213394,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Commander Denniston",
+               "gender": 2,
+               "credit_id": "5363bfe2c3a3681586002734",
+               "name": "Charles Dance",
+               "profile_path": "/bLT03rnI29YmbYWjA1JJCl4xVXw.jpg",
+               "id": 4391,
+               "order": 6
+            },
+            {
+               "cast_id": 4,
+               "character": "Stewart Menzies",
+               "gender": 2,
+               "credit_id": "5363bfd3c3a368159f00282f",
+               "name": "Mark Strong",
+               "profile_path": "/svq7VWJqKN4Fq8ZJK1Yd8W711rn.jpg",
+               "id": 2983,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Jack Good",
+               "gender": 2,
+               "credit_id": "545195c30e0a263a180051c9",
+               "name": "James Northcote",
+               "profile_path": "/mvrgESPm0YxDAbC2niN1YujnNMZ.jpg",
+               "id": 1362119,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Sergeant Staehl",
+               "gender": 2,
+               "credit_id": "5451952ac3a368023c0051a2",
+               "name": "Tom Goodman-Hill",
+               "profile_path": "/2rC1qhYmJiuk3iY15Ms7VLau6XD.jpg",
+               "id": 43034,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Superintendent Smith",
+               "gender": 2,
+               "credit_id": "545194b10e0a262d46002cdd",
+               "name": "Steven Waddington",
+               "profile_path": "/ouQIklNVVkqlW1Htujmptm2qTen.jpg",
+               "id": 27764,
+               "order": 10
+            },
+            {
+               "cast_id": 44,
+               "character": "Keith Furman",
+               "gender": 2,
+               "credit_id": "54519a8e0e0a263a0400561e",
+               "name": "Ilan Goodman",
+               "profile_path": "/bxI8JQgYTPqGofduTDR2LvC2RK2.jpg",
+               "id": 1121975,
+               "order": 11
+            },
+            {
+               "cast_id": 35,
+               "character": "Charles Richards",
+               "gender": 0,
+               "credit_id": "545198e1c3a3680239004fcf",
+               "name": "Jack Tarlton",
+               "profile_path": "/chsUR9caJQzBXYgz40Tf8fDukGr.jpg",
+               "id": 1379286,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Young Alan Turing",
+               "gender": 2,
+               "credit_id": "545196610e0a263a0400556e",
+               "name": "Alex Lawther",
+               "profile_path": "/vyfxEy43tRvtuU5kGw2mw38uGcU.jpg",
+               "id": 1379277,
+               "order": 13
+            },
+            {
+               "cast_id": 110,
+               "character": "Christopher Morcom",
+               "gender": 2,
+               "credit_id": "551eeb09c3a3685ab40001d2",
+               "name": "Jack Bannon",
+               "profile_path": "/stTlg9uSNA6J81a0RmoQBprcQmf.jpg",
+               "id": 1449329,
+               "order": 14
+            },
+            {
+               "cast_id": 11,
+               "character": "Helen",
+               "gender": 1,
+               "credit_id": "545194650e0a263a0a005265",
+               "name": "Tuppence Middleton",
+               "profile_path": "/aWKuVJnvySt2A9oFMo2hfB5AoM3.jpg",
+               "id": 89822,
+               "order": 15
+            },
+            {
+               "cast_id": 64,
+               "character": "Sherborne Student 1",
+               "gender": 2,
+               "credit_id": "54519e0ec3a3680236005257",
+               "name": "Dominik Charman",
+               "profile_path": "/36SkKDdXrKYn8X2Ha3U9DmNdKe2.jpg",
+               "id": 1379318,
+               "order": 16
+            },
+            {
+               "cast_id": 59,
+               "character": "Sherborne Student 2",
+               "gender": 2,
+               "credit_id": "54519d32c3a3680233005028",
+               "name": "James G. Nunn",
+               "profile_path": "/x9Hn5j5dl4DO1Jq1jD5jbIHJysr.jpg",
+               "id": 1379313,
+               "order": 17
+            },
+            {
+               "cast_id": 42,
+               "character": "Sherborne Student 3",
+               "gender": 2,
+               "credit_id": "54519a1c0e0a263a18005271",
+               "name": "Charlie Manton",
+               "profile_path": "/hPRtGkG9NhZW6jgBtHfDf0JiApz.jpg",
+               "id": 1379291,
+               "order": 18
+            },
+            {
+               "cast_id": 43,
+               "character": "Joan's Father",
+               "gender": 0,
+               "credit_id": "54519a51c3a368022a005495",
+               "name": "David Charkham",
+               "profile_path": null,
+               "id": 1330788,
+               "order": 19
+            },
+            {
+               "cast_id": 19,
+               "character": "Joan's Mother",
+               "gender": 0,
+               "credit_id": "545195f80e0a263a100053f3",
+               "name": "Victoria Wicks",
+               "profile_path": "/q3rd5GzpHxINuJVq8IPWB8JOidV.jpg",
+               "id": 1221046,
+               "order": 20
+            },
+            {
+               "cast_id": 114,
+               "character": "Teacher",
+               "gender": 2,
+               "credit_id": "57da7dad925141799900274c",
+               "name": "Andrew Havill",
+               "profile_path": "/6aDMcyP67RfYmsjOPl0qVV0gSHC.jpg",
+               "id": 176191,
+               "order": 21
+            },
+            {
+               "cast_id": 49,
+               "character": "Headmaster",
+               "gender": 0,
+               "credit_id": "54519b87c3a368022a0054c4",
+               "name": "Laurence Kennedy",
+               "profile_path": null,
+               "id": 25680,
+               "order": 22
+            },
+            {
+               "cast_id": 115,
+               "character": "MI6 Agent",
+               "gender": 2,
+               "credit_id": "57da7e06c3a36830cd002785",
+               "name": "Tim van Eyken",
+               "profile_path": "/2okMC6YBb1JBkRgJfik8YtSbqN6.jpg",
+               "id": 1679324,
+               "order": 23
+            },
+            {
+               "cast_id": 112,
+               "character": "Military Policeman",
+               "gender": 2,
+               "credit_id": "56da06b4c3a3681e4a02284a",
+               "name": "Viv Weatherall",
+               "profile_path": "/fkWcwiAJsrIyYCXpRNBu6BpWJTm.jpg",
+               "id": 16692,
+               "order": 24
+            },
+            {
+               "cast_id": 118,
+               "character": "Margaret",
+               "gender": 0,
+               "credit_id": "586afad49251412138004e12",
+               "name": "Miranda Bell",
+               "profile_path": null,
+               "id": 1327860,
+               "order": 25
+            },
+            {
+               "cast_id": 119,
+               "character": "Electrical Assistant",
+               "gender": 0,
+               "credit_id": "586afb03925141212d004f7b",
+               "name": "Tim Steed",
+               "profile_path": null,
+               "id": 1543407,
+               "order": 26
+            },
+            {
+               "cast_id": 20,
+               "character": "Crossword Enthusiast",
+               "gender": 2,
+               "credit_id": "54519638c3a3680233004f16",
+               "name": "Bartosz Wandrykow",
+               "profile_path": "/zeLMM7bybZgqT5cuEm18XWDJ8E.jpg",
+               "id": 1379276,
+               "order": 27
+            },
+            {
+               "cast_id": 24,
+               "character": "MI6 Agent (uncredited)",
+               "gender": 0,
+               "credit_id": "545196e60e0a263a180051f6",
+               "name": "Lese Asquith-Coe",
+               "profile_path": null,
+               "id": 1379279,
+               "order": 28
+            },
+            {
+               "cast_id": 13,
+               "character": "Woman in Crowd (uncredited)",
+               "gender": 0,
+               "credit_id": "545194f0c3a3680236005103",
+               "name": "Hayley Joanne Bacon",
+               "profile_path": "/7FIjLagr4FeAMuCFDVz6HrnN5b4.jpg",
+               "id": 1374337,
+               "order": 29
+            },
+            {
+               "cast_id": 32,
+               "character": "RAF Wren (uncredited)",
+               "gender": 1,
+               "credit_id": "5451983ec3a36811590004cf",
+               "name": "Lauren Beacham",
+               "profile_path": null,
+               "id": 1379283,
+               "order": 30
+            },
+            {
+               "cast_id": 52,
+               "character": "Dancer (uncredited)",
+               "gender": 0,
+               "credit_id": "54519c030e0a263a180052ae",
+               "name": "Ingrid Benussi",
+               "profile_path": null,
+               "id": 1379302,
+               "order": 31
+            },
+            {
+               "cast_id": 57,
+               "character": "Ministry Man (uncredited)",
+               "gender": 0,
+               "credit_id": "54519ce20e0a263a1000550e",
+               "name": "Nicholas Blatt",
+               "profile_path": null,
+               "id": 1379311,
+               "order": 32
+            },
+            {
+               "cast_id": 60,
+               "character": "Evacuee (uncredited)",
+               "gender": 0,
+               "credit_id": "54519d56c3a368022a005501",
+               "name": "Jack Brash",
+               "profile_path": null,
+               "id": 1379314,
+               "order": 33
+            },
+            {
+               "cast_id": 17,
+               "character": "Wren (uncredited)",
+               "gender": 1,
+               "credit_id": "545195990e0a263a0400555f",
+               "name": "Ancuta Breaban",
+               "profile_path": "/6oj6UUuivpYVojPKUPwBMevBXp1.jpg",
+               "id": 1374158,
+               "order": 34
+            },
+            {
+               "cast_id": 36,
+               "character": "Dancer (uncredited)",
+               "gender": 2,
+               "credit_id": "5451990d0e0a263a1000547d",
+               "name": "Alex Corbet Burcher",
+               "profile_path": "/bRCK4QLhWLSeKFg8HpFGYUnxWJp.jpg",
+               "id": 1379287,
+               "order": 35
+            },
+            {
+               "cast_id": 23,
+               "character": "Assistant Wren (uncredited)",
+               "gender": 1,
+               "credit_id": "545196b10e0a262d46002d26",
+               "name": "Grace Calder",
+               "profile_path": "/uC0s2dHa4RDCJbR9Sx7Z6s7wBm2.jpg",
+               "id": 1379278,
+               "order": 36
+            },
+            {
+               "cast_id": 47,
+               "character": "Crossword Man in Pub (uncredited)",
+               "gender": 0,
+               "credit_id": "54519b3c0e0a263a04005634",
+               "name": "Richard Campbell",
+               "profile_path": null,
+               "id": 1379293,
+               "order": 37
+            },
+            {
+               "cast_id": 55,
+               "character": "MI6 Agent (uncredited)",
+               "gender": 0,
+               "credit_id": "54519c8ec3a368115900058d",
+               "name": "Daniel Chapple",
+               "profile_path": null,
+               "id": 1379305,
+               "order": 38
+            },
+            {
+               "cast_id": 40,
+               "character": "Joan Clarke's Friend (uncredited)",
+               "gender": 0,
+               "credit_id": "545199c50e0a262d46002da3",
+               "name": "Lisa Colquhoun",
+               "profile_path": null,
+               "id": 1379290,
+               "order": 39
+            },
+            {
+               "cast_id": 28,
+               "character": "Bletchley Park Agent (uncredited)",
+               "gender": 0,
+               "credit_id": "5451978fc3a368532b005482",
+               "name": "Alexander Cooper",
+               "profile_path": null,
+               "id": 1379281,
+               "order": 40
+            },
+            {
+               "cast_id": 22,
+               "character": "Passerby (uncredited)",
+               "gender": 1,
+               "credit_id": "5451967ec3a368115900049c",
+               "name": "Leigh Dent",
+               "profile_path": null,
+               "id": 1374338,
+               "order": 41
+            },
+            {
+               "cast_id": 34,
+               "character": "WW2 Wren (uncredited)",
+               "gender": 1,
+               "credit_id": "545198b70e0a263a1800523f",
+               "name": "Esther Eden",
+               "profile_path": "/4yXsPkTTZRRDGSUAmwLvYiP6Jt8.jpg",
+               "id": 1379285,
+               "order": 42
+            },
+            {
+               "cast_id": 39,
+               "character": "Military Policeman 3 (uncredited)",
+               "gender": 2,
+               "credit_id": "54519986c3a3680245005188",
+               "name": "Sam Exley",
+               "profile_path": "/kGN8iITQalN5bf8CaWIA5GRaHrd.jpg",
+               "id": 1379288,
+               "order": 43
+            },
+            {
+               "cast_id": 48,
+               "character": "Military Police (uncredited)",
+               "gender": 2,
+               "credit_id": "54519b670e0a263a100054d4",
+               "name": "Ben Farrow",
+               "profile_path": "/A80GK6cK0UTX6avKl8Tc9WNL3Nz.jpg",
+               "id": 1379295,
+               "order": 44
+            },
+            {
+               "cast_id": 54,
+               "character": "Crossword Enthusiast (uncredited)",
+               "gender": 0,
+               "credit_id": "54519c690e0a263a100054ff",
+               "name": "Mike Firth",
+               "profile_path": null,
+               "id": 1379304,
+               "order": 45
+            },
+            {
+               "cast_id": 15,
+               "character": "Wren (uncredited)",
+               "gender": 0,
+               "credit_id": "54519556c3a36802450050ef",
+               "name": "Hannah Flynn",
+               "profile_path": "/aOq3KgCj88loEN4mI0GJvf1s06c.jpg",
+               "id": 1379275,
+               "order": 46
+            },
+            {
+               "cast_id": 65,
+               "character": "School Boy (uncredited)",
+               "gender": 0,
+               "credit_id": "54519e2ec3a3680239005096",
+               "name": "James Gard",
+               "profile_path": null,
+               "id": 1379319,
+               "order": 47
+            },
+            {
+               "cast_id": 31,
+               "character": "Passerby (uncredited)",
+               "gender": 1,
+               "credit_id": "5451981ac3a368022a005445",
+               "name": "Guna Gultniece",
+               "profile_path": "/44iN6eaLLe8wsPlrMzoR9NBZzbt.jpg",
+               "id": 1379282,
+               "order": 48
+            },
+            {
+               "cast_id": 61,
+               "character": "Paperboy (uncredited)",
+               "gender": 0,
+               "credit_id": "54519d780e0a263a1000552f",
+               "name": "Benjamin Hardie",
+               "profile_path": null,
+               "id": 1379315,
+               "order": 49
+            },
+            {
+               "cast_id": 56,
+               "character": "Evacuee (uncredited)",
+               "gender": 0,
+               "credit_id": "54519cb40e0a262d46002e08",
+               "name": "Oscar Hatton",
+               "profile_path": null,
+               "id": 1379308,
+               "order": 50
+            },
+            {
+               "cast_id": 27,
+               "character": "MI6 Agent (uncredited)",
+               "gender": 0,
+               "credit_id": "545197580e0a263a1000542e",
+               "name": "Luke Hope",
+               "profile_path": null,
+               "id": 1379280,
+               "order": 51
+            },
+            {
+               "cast_id": 116,
+               "character": "Nunn (uncredited)",
+               "gender": 1,
+               "credit_id": "57da7eeac3a36830dd0027bc",
+               "name": "Vera Horton",
+               "profile_path": "/AbUNLGSolDgBrW1QY4Fygt1HJ67.jpg",
+               "id": 1674664,
+               "order": 52
+            },
+            {
+               "cast_id": 66,
+               "character": "MI6 Agent (uncredited)",
+               "gender": 0,
+               "credit_id": "54519e530e0a2601d8005194",
+               "name": "Vincent Idearson",
+               "profile_path": null,
+               "id": 1379320,
+               "order": 53
+            },
+            {
+               "cast_id": 46,
+               "character": "Civilian (uncredited)",
+               "gender": 0,
+               "credit_id": "54519b080e0a263a0a00535c",
+               "name": "Denis Koroshko",
+               "profile_path": null,
+               "id": 1379292,
+               "order": 54
+            },
+            {
+               "cast_id": 117,
+               "character": "Evacuee (uncredited)",
+               "gender": 1,
+               "credit_id": "57da82399251417999002908",
+               "name": "Debra Leigh-Taylor",
+               "profile_path": "/7WbQGWN7fKgCRcRhDoBu3DTPGTr.jpg",
+               "id": 1679332,
+               "order": 55
+            },
+            {
+               "cast_id": 38,
+               "character": "Bletchley Park Operative (uncredited)",
+               "gender": 0,
+               "credit_id": "5451995fc3a36802360051c9",
+               "name": "Stuart Matthews",
+               "profile_path": "/fflgxcEAUgt3OPdIHIY27UCPVJm.jpg",
+               "id": 1295992,
+               "order": 56
+            },
+            {
+               "cast_id": 63,
+               "character": "Joan Clarke's Friend (uncredited)",
+               "gender": 0,
+               "credit_id": "54519de90e0a262d46002e34",
+               "name": "Amber-Rose May",
+               "profile_path": null,
+               "id": 1379317,
+               "order": 57
+            },
+            {
+               "cast_id": 58,
+               "character": "Wren (uncredited)",
+               "gender": 0,
+               "credit_id": "54519d09c3a368023300501c",
+               "name": "Samantha Moran",
+               "profile_path": null,
+               "id": 1379312,
+               "order": 58
+            },
+            {
+               "cast_id": 53,
+               "character": "Technician (uncredited)",
+               "gender": 0,
+               "credit_id": "54519c3c0e0a262d46002df3",
+               "name": "Adam Nowell",
+               "profile_path": null,
+               "id": 1379303,
+               "order": 59
+            },
+            {
+               "cast_id": 30,
+               "character": "MI6 Agent (uncredited)",
+               "gender": 2,
+               "credit_id": "545197cec3a3680233004f60",
+               "name": "Joseph Oliveira",
+               "profile_path": "/nFJX5qWKlHyew7AHKUFE3EQnMO5.jpg",
+               "id": 1360008,
+               "order": 60
+            },
+            {
+               "cast_id": 62,
+               "character": "Evacuee (uncredited)",
+               "gender": 0,
+               "credit_id": "54519da90e0a263a1000553e",
+               "name": "Harry Leonard Parkinson",
+               "profile_path": null,
+               "id": 1379316,
+               "order": 61
+            },
+            {
+               "cast_id": 50,
+               "character": "Young Officer (uncredited)",
+               "gender": 0,
+               "credit_id": "54519bb60e0a263a04005658",
+               "name": "John Redmann",
+               "profile_path": null,
+               "id": 1225115,
+               "order": 62
+            },
+            {
+               "cast_id": 41,
+               "character": "Police Sergeant White (uncredited)",
+               "gender": 0,
+               "credit_id": "545199fe0e0a263a1800526b",
+               "name": "David G. Robinson",
+               "profile_path": "/t02w0JHIesTTfJ5G9Cmy1s5vVJL.jpg",
+               "id": 1358943,
+               "order": 63
+            },
+            {
+               "cast_id": 67,
+               "character": "Wren (uncredited)",
+               "gender": 0,
+               "credit_id": "54519e75c3a368023300504f",
+               "name": "Alice Tapfield",
+               "profile_path": null,
+               "id": 1379321,
+               "order": 64
+            },
+            {
+               "cast_id": 111,
+               "character": "Crossword Man (uncredited)",
+               "gender": 2,
+               "credit_id": "568ec18e9251416b550034d3",
+               "name": "Mark Underwood",
+               "profile_path": "/6Dh0IaY8VQ8J3ZrvK2QHl1DHA5K.jpg",
+               "id": 1010922,
+               "order": 65
+            },
+            {
+               "cast_id": 33,
+               "character": "First Aid Nurse (uncredited)",
+               "gender": 0,
+               "credit_id": "54519895c3a3680233004f84",
+               "name": "Nicola-Jayne Wells",
+               "profile_path": null,
+               "id": 1379284,
+               "order": 66
+            },
+            {
+               "cast_id": 51,
+               "character": "German Pilot (uncredited)",
+               "gender": 0,
+               "credit_id": "54519be7c3a3680239005048",
+               "name": "Josh Wichard",
+               "profile_path": null,
+               "id": 1379301,
+               "order": 67
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4d0cc3a368484e1d4153",
+               "name": "Morten Tyldum",
+               "profile_path": "/rE1zmcXoqtJl5fIa3fKoqnzteyw.jpg",
+               "id": 77965,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5363c001c3a3681586002738",
+               "name": "Graham Moore",
+               "profile_path": null,
+               "id": 221850,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd7419c3a368471f00444b",
+               "name": "Peter Wignall",
+               "profile_path": null,
+               "id": 1405798,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd74c8c3a3681638003f4d",
+               "name": "Kirsty Whalley",
+               "profile_path": null,
+               "id": 1390382,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462d2370e0a267806001093",
+               "name": "William Goldenberg",
+               "profile_path": "/eOgoea8HbZt2TfLn0tDNI1TepSN.jpg",
+               "id": 15841,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5462d241c3a368124700105b",
+               "name": "Nina Gold",
+               "profile_path": "/kljYhRvTAqQfX198mjz0ITP0hFM.jpg",
+               "id": 16363,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462d258c3a368124d001019",
+               "name": "Óscar Faura",
+               "profile_path": null,
+               "id": 51898,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5462d265c3a3681247001066",
+               "name": "Maria Djurkovic",
+               "profile_path": null,
+               "id": 471,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462d28ac3a368124d001027",
+               "name": "Rebecca Milton",
+               "profile_path": null,
+               "id": 1384721,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462d29f0e0a2677fd00108e",
+               "name": "Marco Anton Restivo",
+               "profile_path": null,
+               "id": 1384722,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5462d2adc3a3681243001073",
+               "name": "Sammy Sheldon",
+               "profile_path": null,
+               "id": 11271,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462d2bac3a368124a001073",
+               "name": "Nora Grossman",
+               "profile_path": null,
+               "id": 1384723,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462d2cbc3a3681247001079",
+               "name": "Graham Moore",
+               "profile_path": null,
+               "id": 221850,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462d2d9c3a368124d00103b",
+               "name": "Ido Ostrowsky",
+               "profile_path": null,
+               "id": 1384724,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462d2e6c3a36812550010b7",
+               "name": "Teddy Schwarzman",
+               "profile_path": null,
+               "id": 1080589,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462d2f30e0a26780a0010cb",
+               "name": "Peter Heslop",
+               "profile_path": null,
+               "id": 1384725,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54aeb955c3a368070f000886",
+               "name": "Alexandre Desplat",
+               "profile_path": "/sdGjvOGJqjK1CTbxRedE64Txk0t.jpg",
+               "id": 2949,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd7019c3a368270c001b76",
+               "name": "Denise Kum",
+               "profile_path": null,
+               "id": 1359989,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd7036c3a3686998006e6e",
+               "name": "Roo Maurice",
+               "profile_path": null,
+               "id": 1437152,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd704cc3a3681638003ed4",
+               "name": "Amy Riley",
+               "profile_path": null,
+               "id": 1437153,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd70aac3a368471f00440a",
+               "name": "Lauren Briggs-Miller",
+               "profile_path": null,
+               "id": 1437155,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd70d49251416c32000c83",
+               "name": "Nicky Ackland-Snow",
+               "profile_path": null,
+               "id": 1338217,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54fd71089251413aa0007235",
+               "name": "Nick Thomas",
+               "profile_path": null,
+               "id": 1338277,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd7151c3a368479c0041f8",
+               "name": "Peter Burgis",
+               "profile_path": null,
+               "id": 40823,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd71a4c3a3684808004e9b",
+               "name": "Dan Green",
+               "profile_path": null,
+               "id": 1416452,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd71d492514122be004640",
+               "name": "Andy Kennedy",
+               "profile_path": null,
+               "id": 999561,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd72069251413aa000724b",
+               "name": "Joe Beal",
+               "profile_path": null,
+               "id": 1437156,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd723292514123a0004b32",
+               "name": "Martin Jensen",
+               "profile_path": null,
+               "id": 1340116,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd7320c3a368270c001bba",
+               "name": "Stuart Hilliker",
+               "profile_path": null,
+               "id": 1437159,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd73449251416c32000cbb",
+               "name": "Lee Walpole",
+               "profile_path": null,
+               "id": 1337410,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54fd7387c3a3681638003f22",
+               "name": "Lucy Ainsworth-Taylor",
+               "profile_path": null,
+               "id": 1437160,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd73a092514122be00466f",
+               "name": "Eran Barnea",
+               "profile_path": null,
+               "id": 1437161,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd73bac3a3684808004edb",
+               "name": "Angela Barson",
+               "profile_path": null,
+               "id": 1376803,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd73d992514123a0004b5e",
+               "name": "Albert Carreras",
+               "profile_path": null,
+               "id": 58283,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd73f89251412204004853",
+               "name": "Marc Gómez del Moral",
+               "profile_path": null,
+               "id": 1424794,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd7430925141238c004771",
+               "name": "Steven Hall",
+               "profile_path": null,
+               "id": 1430497,
+               "department": "Crew",
+               "job": "Second Unit Cinematographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54fd7472c3a36847110048d1",
+               "name": "Jack English",
+               "profile_path": null,
+               "id": 1367562,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd74a8c3a3681638003f46",
+               "name": "Jonathan Collard",
+               "profile_path": null,
+               "id": 1437162,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd74e8c3a368471f004456",
+               "name": "Beverly Winston",
+               "profile_path": null,
+               "id": 1410205,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd74ffc3a368471f00445f",
+               "name": "Sarah Shepherd",
+               "profile_path": null,
+               "id": 1437164,
+               "department": "Crew",
+               "job": "Dialect Coach"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd753992514123a0004b76",
+               "name": "Richard George",
+               "profile_path": null,
+               "id": 1437168,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fd75a09251412204004885",
+               "name": "Suzie Shearer",
+               "profile_path": null,
+               "id": 1437169,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570bd798c3a36802a1000429",
+               "name": "Nick Dent",
+               "profile_path": null,
+               "id": 60335,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "History",
+            "id": 36
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "War",
+            "id": 10752
+         }
+      ],
+      "popularity": 58.876415,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 205596,
+      "vote_count": 7430,
+      "budget": 14000000,
+      "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+      "similar": [
+         184352,
+         449176,
+         424,
+         423,
+         289222,
+         351339,
+         376867,
+         11202,
+         16869,
+         2253,
+         5925,
+         1966,
+         1213,
+         14574,
+         228150,
+         227306,
+         613,
+         339259,
+         399404,
+         324786
+      ],
+      "original_title": "The Imitation Game",
+      "runtime": 113,
+      "poster_path": "/noUp0XOqIcmgefRnRZa1nhtRvWO.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Bristol Automotive",
+            "id": 38145,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Black Bear Pictures",
+            "id": 22146,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2014-11-14",
+      "vote_average": 8,
+      "belongs_to_collection": null,
+      "tagline": "The true enigma was the man who cracked the code.",
+      "adult": false,
+      "homepage": "http://theimitationgamemovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Morten Tyldum"],
+      "runtime": 114,
+      "synopsis": "BASED ON A TRUE STORY. We hear Alan Turing saying, \"Are you paying attention? Good. If you're not listening carefully, you will miss things. Important things. I will not pause, I will not repeat myself, and you will not interrupt me. You think that because you're sitting where you are and I am sitting where I am, that you are in control of what is about to happen. You are mistaken. I am in control. Because I know things that you do not know. What I need from you now is a commitment. You will listen closely and you will not judge me until I am finished. If you cannot commit to this, then please leave the room. But if you choose to stay, remember that you chose to be here. What happens from this moment forward is not my responsibility. It's yours. Pay attention.\" It is 1951, in Manchester, England. Secret Intelligence Service (MI6) Headquarters intercepts a message that Alan Turing has been robbed at his place. Alan, now known as a professor at Cambridge, is visited by the police inquiring about his burglary. They find him in his home but he is dismissive towards them. They mention that he is an insufferable person and are suspicious that he is hiding something. In a flashback to September 1939 in London, War has been declared with 800,000 people being evacuated from their homes. On the train, a 27-year-old Alan Turing ( Benedict Cumberbatch) admires a kid doing crossword puzzles. He arrives at Bletchley Park, guarded by Naval officers. He waits in the office of Commander Denniston ( Charles Dance). When the Commander arrives, Alan is cold and seems to lack humour. The Commander asks why Alan wants to work for the government; he replies he doesn't. He mentions that he's not very political and the Commander says it may be the shortest job interview ever. Alan mentions he doesn't speak German but tells the Commander that he's one of the best mathematicians in the world. He considers German codes to be like puzzles, which he enjoys solving. The Commander calls for Alan to be removed by his secretary so Alan mentions Enigma, revealing he knows about the top secret program he's being considered for. Alan explains that Enigma is the greatest encryption device in history and if the Allies can crack the code, it will end the war. The Commander says everyone thinks Enigma is unbreakable. Alan says to let him try and they'll know for sure. Alan is welcomed to Enigma alongside five others including Peter Hilton ( Matthew Beard), John Cairncross ( Matthew Beard), and Hugh Alexander ( Matthew Goode). They have got their hands on an actual Enigma machine smuggled out of Berlin but they don't know the machine's settings to decode messages. Every night at midnight, the Germans refresh the settings; because they intercept their first message every morning at 6 A.M., the code breakers only have 18 hours a day to crack the code before it changes and they must start from scratch. Hugh, a chess champion, is able to calculate that this means there are 159 million million million possibilities every day. Alan is reluctant to work as a team; Stewart Menzies, the Chief of MI6, tells them that four men have died in the last few minutes because the code remains uncracked and orders them to begin. Alan tells us that all the messages are floating in the air for anyone to grab; the problem is that they are encrypted and there 159,000,000,000,000,000,000 possibilities. It will take 20 million years to try everything. The team wants to take a lunch break but when they invite Alan, he is cold and off-putting. They go on without him. Alan continues his work alone, on blueprints of a machine. In 1951, the detective from before finds out that Alan's records are classified. He doesn't know why a math professor would have classified records and becomes suspicious. He uses a typewriter to falsify a document, allowing him to secure Alan's service records. Back in 1939, Alan complains to Commander Denniston that Hugh Alexander has denied funding for the parts he needs to build a machine. The commander tells him the other code breakers do not get along with him and he should take up the complaint with someone else. Alan suggests firing them all and using the funds for his machine. He says he only needs 100,000 pounds only a machine can defeat another machine. Alan asks who the Commander's commanding officer is; he is told Winston Churchill. Alan gets a letter to the Prime Minister via Stewart Menzies. Churchill puts Alan in charge, overriding Hugh's authority. Alan immediately fires two of his teammates, calling them mediocre linguists and poor code breakers. He is asked if he was popular at school. Flashback to Charles as a schoolboy he was picked on for having a form of OCD, keeping the carrots and peas separate during lunch. His classmates pour food on him; bury him under the floorboards. He tells us, \"Do you know why people like violence? It is because it feels good. Humans find violence deeply satisfying. But remove the satisfaction and the act becomes hollow.\" When Alan is able to remain calm under the floorboards, the other kids leave him alone. He is rescued by a fellow student named Christopher ( Jack Bannon). Christopher says they beat Alan up because he's different. Alan says he's an odd duck. Christopher tells him, \"Sometimes its the very people who no one imagines anything of who do the things no one can imagine.\" Now short on staff, they decide to find new members of the team by placing a difficult crossword puzzle into newspapers to be mailed in upon completion; anyone who can solve it is a good candidate. The war rages on, with many hiding out in bomb shelters. The handful that managed to solve the puzzle are gathered together to take a test. One young woman, Joan Clarke ( Keira Knightley), shows up late because she claims that her bus had a flat tire. They think she is in the wrong room. She tells them that she has solved the crossword puzzle and everyone is skeptical. Alan tells her to take a seat. He has the room solve a very difficult puzzle in six minutes although it will take an expert like Alan eight minutes. Surprising them, Joan solves it in five. Joan and one other man are kept afterwards and told that they are not allowed to share what they are about to be told or they'll be executed for high treason. They are ordered to lie to everyone they know about what they are going to be doing. Joan asks what he is referring to. She is told she will be helping to break an unbreakable Nazi code and win the war. In school, a young Alan bonds with Christopher, who shares with him a book on code and ciphers. The awkward Alan compares cryptic messages with how people talk they say one thing, have hidden intentions beneath their words, and he doesn't know how to decipher them. It is now several months later in 1940, Bletchley Park. The supercomputer is being hooked up in a secret hut. Alan is concerned when Joan does not show up. He goes to her home and tries to convince her parents that she's very necessary at the radio factory that wants to employ her. Joan comes home and talks to Alan in private, although her parents are listening in Joan explains that it is indecorous for her to be working and living among men (according to her parents); Alan loudly suggests she work in the clerical department with women (although she won't really be doing this). Apparently, this is convincing enough because Joan packs up and leaves with Alan. She wonders why he is so fixated on helping her; he responds that \"Sometimes its the very people who no one imagines anything of who do the things no one can imagine.\" In 1951, Detective Nock shares with Superintendent Smith that Alan's classified military file is empty. His war records aren't classified; someone has burned and erased them. They suspect he is a Soviet spy. In 1940, Joan arrives at Bletchley Park under the guise of a clerical worker. In narration, Alan tells us that the British were literally starving to death; every week, Americans would send 100,000 tons of food to them and every week, the Germans would send it to the bottom of the ocean. Every night at midnight, a bell sounds, telling them their day's work has been wasted (since the code is reset at midnight). Frustrated, Hugh visits Alan, tinkering with his machine (referred to as Christopher throughout the film, named after Alan's childhood friend). A frustrated Hugh grabs a wrench to destroy the machine but the others hold him back. Hugh tells him that the machine is useless and there are legitimate ways to help in the war. One of the others, Peter, explains that his brother and cousins are actually fighting in the war while they have nothing to show for all of their work because of the machine. Alan is adamant the machine will work. Later, Alan is in the hut alone. He removes a stack of Enigma messages and stashes them in his socks. They manage to go undetected by the guards at checkpoint. He sneaks over to Joan's home and climbs through her window. He reveals the decrypted Enigma messages, delivered from Nazi high command they read one with the weather report, ending in \"Heil Hitler\". Joan and Alan talk about Christopher and the concept of a digital computer. The next day, Alan enters the hut to find military police rifling through his desk while the other code breakers watch. Commander Denniston explains that there is a spy in Bletchley Park and they suspect it's one of them. The Commander shows Alan a telegram that was intercepted on its way to Moscow, which is encrypted with a key phrase. They suspect Alan because he's arrogant, has no friends or romantic attachments, and he is a loner. Commander Denniston says he will no longer have to fire him he can hang him for treason if he's caught. Joan greets Alan, working on Christopher, and tries to cheer him up by taking him to a beer hut. Hugh, John, and Peter enter the hut and Joan is friendly towards them. She tells Alan in private that she's a woman in a man's job and doesn't have the luxury of being an ass. She says it doesn't matter how smart he is; Enigma is smarter and Alan needs all the help he can get. But his team will not help him if they don't like him. The next time he sees them, he brings apples since Joan has suggested he give them something. He then tries to tell a joke. In a flashback to his schooling, Christopher is caught passing a note to Alan. The teacher mocks them for the note being in gibberish (he doesn't know it is encrypted). Alan retrieves it from the garbage and breaks the code later \"See you in two long weeks, dearest friend.\" The school is going on holiday. In 1941, at Bletchley Park, Joan and Alan are bonding over codes. Hugh Alexander approaches, telling Alan that if they run the wires on Christopher diagonally, they'll eliminate rotor positions 500 times faster. Alan is able to utilize this idea. The machine is turned on; it is the very first digital computer. And it works. They wait to see if it can tell the the day's Enigma settings. We see footage of the war. In Denniston's office, he is told that the machine is not producing any results. He surprises Alan at the hut, who barricades the door, trying to keep him out. They force the door open and turn it off. Commander Denniston tells him his machine doesn't work because it hasn't broken Enigma. Denniston's associate from the home office is upset about spending a hundred thousand pounds with nothing to show for it. Alan tries to defend his machine but he has not decrypted a single German message; the Commander fires him. But he is stopped short by Hugh, John, and Peter who say that if he fires Alan, they will have to be fired, too, because they believe his machine can work. Hugh reminds the Commander that they're the best cryptographic minds in Britain and asks to be granted six more moths. Commander Denniston tells them one more month or they're all gone. At the beer hut, Hugh tells Alan that he cracked the encrypted message \"Ask and it shall be given you; seek and ye shall find. Matthew 7:7.\" He knows that Alan is not the spy because he would not have used a simple Bible quote for his code. In 1951, Detective Nock and Superintendent Smith are told by a sergeant that he has found out that Alan is a \"poofter\" (British slang for homosexual). He has been caught with a male hustler, who later robbed his house. That was the piece of information that he was hiding from the police, not that he's a spy. The detective is sure Alan is hiding something else so he asks for him to be arrested so he can interrogate him. In 1941, Joan comes home to find Alan there, using her flat to try to solve mathematical equations so Christopher can run through more settings per 18-hour block. She interrupts Alan to tell him that she has to return home; her parents are unhappy with her being 25 years old and unmarried. He suggests she get married. She suspects he is suggesting Hugh or Peter but of course, he means himself. He proposes with a piece of electrical wire, rolled into a ring. An engagement party is thrown at the beer hut. While Joan dances with Hugh, John Cairncross talks to a sullen Alan who admits he is a homosexual. John is sympathetic and tells Alan that he already suspected that for some time. John suggests that Alan keep it a secret because homosexuality is illegal and, on top of that, Denniston is looking for any excuse to put Alan away. At school, everyone returns from holiday. A young Alan encrypts the message I LOVE YOU and prepares to give it to Christopher but he never shows up. In 1951, Alan is interrogated by Detective Nock. The detective asks if machines can think. Alan notes that he must have read his published work since he was called in on charges of hiring a man to touch his penis, not on computers. Alan says \"machines can never think as humans do but just because something thinks differently from you, does it mean its not thinking?\" He tells the detective, \"We allow for humans to have such divergences from one another. You like strawberries. I hate ice-skating. You cry at sad films. I am allergic to pollen. What does is the point of different tastes different preferences if not to say that our brains works differently, that we think differently? And if we can say that about one another, then why cant we say the same things for brains made of copper and wire and steel?\" The detective asks him about the paper he wrote, The Imitation Game. Alan tells him is a test to determine whether something is a machine or a human being. The detective asks him what he did during the war and Alan tells him he worked at a radio factory. Detective Nock knows this isn't true. In 1942, Alan and his team wait for Christopher to crack the code but then the midnight buzzer sounds. The machine will never be able to process so many possibilities in an 18-hour time. At the beer hut, Joan's friend, Helen, is admiring Hugh. Hugh finally approaches her, with Alan by his side. To charm Helen, Hugh tells her that Alan believes men and women should not work together because it will lead to romance although Hugh personally believes that women are smart and should be considered equals. Helen says she agrees with Alan because she has a male co-worker that she has garnered a crush on; upon further inquiry, she reveals she intercepts messages from a German radio tower and she has been assigned one counterpart. She says she has grown fond of him but unfortunately, he has a girlfriend. Hugh steals Helen and they go off to the bar. Alan is lost in thought and then calls out to Helen. He asks her why she thinks he has a girlfriend. Helen says because every message begins with C-I-L-L-Y, which she assumes is the name of his love. Alan tells her the Germans are instructed to choose five letters at random to start each message but because he is in love, he uses the same five letters every time. Alan remarks that love just lost the Germans the whole bloody war. Everyone chases Alan as he rushes across Bletchley Park, past guards and security checkpoints. They get into their hut and Alan pours out previously decrypted messages. He points out that Christopher doesn't have to search through every possible settings; the computer can search for ones that produce words he knows will be in the message. They realize the entire 6 A.M. weather reports end in \"Heil Hitler\". They can have Christopher search for the words weather, heil, and Hitler to crack the code. They test it on a 6 A.M. message. Christopher comes to a stop. They take the letters it produces and run back to the Enigma machine, typing in the same letters. They are able to decode a message. They've cracked the code! The team works throughout the night. They have decoded messages and translated decrypts, now able to produce a map that represents all of their ships versus the Axis ships. John tells them, There are five people in the world who know the position of every ship in the Atlantic. They are all in this room. Joan realizes that they're going to attack a British passenger convoy as they are positioned 20 minutes away. Hugh tries to call Denniston to warn him but Alan stops him, ripping the phone out of the wall. Everyone argues. Alan tells them they have to let the U-Boats sink the convoy or else it will gives the Germans a heads up that they have cracked Enigma. They will stop radio communication and change the design of Enigma immediately. In order to keep their work secret and win the war, they have to allow the lives of hundreds of innocent people to be lost. Peter breaks down, realizing that his brother is on one of the convoys. He demands that they alert Denniston of just that one ship but Alan simply apologizes. Peter tells him they don't decide who lives or who dies; Alan says they do because no one else can. Alan and Joan ride the train into London. They meet with Stewart Menzies in a teashop. They reveal that they have broken Enigma but ask for Stewart's help in determining how much intelligence to act on, which attacks to stop. He can come up with believable sources of information so the Germans don't suspect Enigma has been cracked. Peter harbours animosity towards Alan for letting his brother be killed despite knowing it in advance. He knocks his books over and while retrieving them on the ground, Alan spots John Cairncross' Bible. He opens it and realizes that it earmarked to Matthew 7:7. John notices Alan making this discovery, now aware that John is the Soviet spy. In private, John tells Alan that the Soviets and Britain are on the same side; he then threatens Alan that if he tells his secret, he'll reveal that Alan is a homosexual and his work will be destroyed. Alan tries to call Menzies but knows his calls are being intercepted. He returns to Joan's flat and Stewart Menzies is there; Alan is told that Joan is in military prison after discovering that she was the Soviet spy -- they have found Enigma messages in her things. Alan tells him that he gave her the intercepts when they were trying to crack the code. Stewart says Denniston is looking for a spy in their hut and Alan tells them the spy is actually John Cairncross. Stewart admits to knowing this before Cairncross even got to Bletchley; this is exactly why he placed them there so they could leak whatever they wanted to Stalin since Churchill was too paranoid to share information with the Soviets. Cairncross is unaware that he is being used by them. Stewart says he needs Alan's help to know what to leak to John and feed to the Soviets. Alan says he's just a mathematician, not a spy, but demands that Joan is released. Stewart reveals he lied about her being in a military prison but threatens to use the Enigma messages against her if Alan doesn't cooperate. Alan encourages Joan to leave Bletchley, knowing she is in danger, but it is too risky to tell her this explicitly. To get her to go, he reveals that he's a homosexual. She tells him she had her suspicions but doesn't think they can't love each other in their own way they'll be in a marriage built on companionship and intellectual stimulation. Alan tells her he doesn't care for her and was only using her to break Enigma. She slaps him and tells him she's not going anywhere, despite all the low expectations placed on her by men and her parents. She calls him a monster. We see stock footage from World War II. In voice-over, Alan says that every day, they decoded messages and the war wasn't determined by the bombings and fighting but a team of six crossword enthusiasts in a tiny village in England. We see everyone celebrating on V-E Day. Menzies tells the group that before they can return to their lives at university, they have to burn all evidence that they cracked Enigma because it may be used again for future wars. They also have to pretend they have never met each other. In 1951, the interrogation of Alan by Detective Nock continues. Alan tells him he has told him his story and now the Detective has to play the Imitation Game and answer if he's a machine, a person. \"Am I a war hero?\" he asks. \"Am I a criminal?\" Detective Nock tells Alan he can't judge him. Alan tells him he's no help to him at all (because he doesn't know how to judge himself). In another flashback, Alan is called to the principals office and asked about his friendship with Christopher. He vehemently denies being friends with him, afraid they are aware that it is romantic. The teacher tells him he asked because he heard they were close and wanted to inform him that Christopher has died over the holiday break; he had bovine tuberculosis and never told Alan. Six months after his interrogation, the detective is congratulated after Alan has been sentenced for indecency (homosexuality). Joan goes to visit the older Alan at his home. She says that she would have testified on his behalf, to keep him out of jail. Alan is shaky and reveals to her that the judge gave him a choice: prison or weekly estrogen treatments. The hormonal therapy is designed to cure his homosexual predilections. He wouldn't be able to continue his work from prison and if he's taken away, they'll destroy Christopher, despite all the work he's done on him over the last ten years. He has a panic attack and she calms him down. He notices her wedding ring and she tells him about her husband. She asks him to do a crossword puzzle for old times' sake. But he is not able to do it, the hormonal treatment having ravaged his brain. He tells her she got what she wanted work, husband, a normal life. Joan tells him no one normal could have done what they did. That morning, she was on a train that went through a city that wouldn't have existed if it wasn't for Alan. She bought a ticket from a man who would most likely not be alive if it wasn't for Alan. She's read up on a whole field of scientific study that wouldn't exist if not for Alan. She is glad he wasn't born normal. She tells him, \"The world is an infinitely better place precisely because you weren't [normal]\". He asks if she really thinks that and she tells him, \"I think that sometimes it's the very people who no one imagines anything of who do the things that no one can imagine.\" In 1953, Alan is in his home, alone. He looks longingly at Christopher, at his supercomputer, at the love of his life. He turns off the lights. Cut to a flashback of the six cryptologists burning all the evidence that they cracked Enigma. In a series of final on-screen texts, it is said that Alan killed himself in 1954, after a year of government-mandated hormonal therapy. Between 1885 and 1967, approximately 49,000 homosexual men in the UK were convicted and imprisoned of gross indecency under British law. In 2013, Queen Elizabeth II granted a posthumous royal pardon, honouring Alan Turing for his achievements during the war. Historians estimate that breaking Enigma shortened the war by more than two years, saving over 14 million lives. It remained a government-held secret for more than 50 years. Turing's work inspired generations of research into what scientists called \"Turing machines\", now known as computers.",
+      "writers": [
+         "Graham Moore",
+         "Andrew Hodges"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2084970/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNDkwNTEyMzkzNl5BMl5BanBnXkFtZTgwNTAwNzk3MjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Benedict Cumberbatch, Keira Knightley, Matthew Goode | See full cast and crew »"],
+      "reviews": [
+         "As the film announces at the start, it based on a true story. The essentials are true, and to get so much history into a film things have to be condensed. Unfortunately unnecessarily inaccurate things were portrayed which didn't save any time. For example, Turing mutters under his breath so most audiences will not notice, that the Poles made the first crucial breakthrough. By the start of the war, the Poles led by Marian Rejewski had been breaking Enigma for over six years and built the first machine, called a \"bomba\" in 1938. In July 1939 the Poles passed on all the information to the French and British including details of the bomba and their successes at a meeting which included Denniston. The problem started to mount for the Poles and later the British when other rotors could be swapped in and the indicator method was changed by the Germans. The film is correct in showing that Turing's genius was using known words from the coded messages to reduce the myriad of possibilities. This idea happened in 1939 and so he started from the outset to design the British \"bombes\" to use this method, not after they had been running for months. Four senior code-breakers, not just Alan Turing, but also Gordon Welchman, Stuart Milner-Barry and Hugh Alexander wrote to Churchill in 1941 over Denniston's head about the shortage of staff and praising Edward Travis. In February 1942, Denniston was demoted and transferred elsewhere. His successor, Edward Travis, transformed the procedures. Cairncross, played by Downton's ex-chauffeur, never appeared at Bletchley until 1942 and the alleged blackmail is an unnecessary red-herring. The idea that there would be a chart on the wall in Hut 8 showing the latest positions of all Atlantic convoys is laughable. This chart was in a secure bunker in Liverpool that was as closely guarded as Bletchley Park. Turing's team had no input into how the information was to be used, but it is true that Ultra intelligence had to be supported by other information and so patrols were sent out to find what was known to be already there. Lastly Turing would never, ever, have disclosed even the existence of Bletchley Park to a detective he had just met. The performance of Benedict Comberbatch is exceptional, and the rest of the cast good. Keira Knightley is pretty enough to have turned even Turing, but, despite the lines that told us, she never gave the impression she had a double first in mathematics from Cambridge. Good film, though it could have be closer to reality without making it longer or more complex.",
+         "It took a little over 24 hours before I weighed in on my official thoughts on Morten Tyldum's The Imitation Game from The Weinstein Company. My initial reaction upon leaving the screening room was it was astonishing, a magnificent achievement that stands tall as one of the year's best movies. As the film continues to settle within my cinematic soul, this very well could be the best film of the year, anchored by a career best performance from the amazing Benedict Cumberbatch. Full disclosure, I'm fairly oblivious to European history and the heroes that had a hand in one of the deadliest wars in history. I've heard the name Alan Turing from high school and college but either didn't care enough to learn or have no recollection of his contributions. Minutes following the screening, Amazon.com got $15.82 from my bank account in order to read \"Alan Turing: The Enigma,\" the book in which screenwriter Graham Moore based the story upon. Telling the story of Alan Turing, a mathematician who in 1939 led a pioneer in cracking one of the most difficult codes in history. His contributions paved the way for essentially the way we exist now. However, Turing, who is a homosexual, has to wrestle with his secret in order to keep his status and his work years later. Masterfully told and encompassing an emotional complexity, Tyldum's film is both engrossing and disturbing. It has genius aspirations in which it wants to exist in the cinematic world. It's an impeccable thriller, taut and brilliant, exploring the horrors of war along with the choices that doom mankind for all eternity. Tyldum is methodical and precise in which he decides to unravel the story, Turing is one of the fallen heroes of our history and his story stands as one of the most tragic. Screenwriter Moore crafts a murky, dark, yet totally enjoyable spy film that stands taller than any James Bond film ever released. It's a sure-fire Oscar contender for several Academy Awards including Best Picture. They should feel so lucky to have the gumption to choose something this methodical and majestic. Benedict Cumberbatch continues to climb the ladder as one of the best actors working today. After impressive performances August: Osage County, 12 Years a Slave, and TV's \"Sherlock,\" this is the role that will make him a bonafide movie star. Oscar-winner or not, this will be looked upon like the greats such as Gene Hackman in The French Connection or any legendary 70's movie that you love today. Cumberbatch hones in on all of Turing's character flaws and good qualities that make him a real person. He constructs him from the toes up, inflicting mannerisms and behaviors that all ring true. He stimulates all the sensual beats that keep us fixated on a performance. I can't help but go back to someone like Joaquin Phoenix in The Master, who delivered a construction of epic proportions. Though based on a real person, the talented Cumberbatch ignites his own masterpiece performance. He follows the demons of Turing down to his bones. Unsure, arrogant, and dismissive to the world around him, Turing shows only what he must, what he chooses, and every once in a while, we get a front seat to his soul. Thank you Cumberbatch. The rest of the cast is completely on their game. It's probably a contender for the SAG Ensemble prize. Academy Award nominee Keira Knightley, as the feisty and fiery Joan Clark, is as loose and comfortable as I've ever seen her. She wears Joan like an old coat from the back of the closet. Remembering it fondly and seeing that it fits just perfect. She has all the things that make up an Oscar nominee; a scene that will likely bring you to tears, plenty of scenes that play as the comic relief in a dark tale, and being simply charming in every part of the film. I don't know when it's going to happen but the world needs to make Matthew Goode a mega-star. In his brief time on-screen, Goode makes his mark, becoming essentially a co-anchor with Knightley of the supporting players, showcasing a reason to give this guy his own leading role sooner rather than later. As our resident sleazy authority figure, Charles Dance shows that he's still got it. Mark Strong and Allen Leech also deliver memorable, fascinating scenes, both getting an opportunity to shine. Technical merits are no shortage of excellence on display. Oscar- winning Editor William Goldenberg (Argo) shows that tension is his second language. Cutting the film to perfection, and forcing your heart into throat, this espionage thriller succeeds for general audiences because of Goldenberg's efforts. It's something that anyone can seek out and get fully immersed into. Alexandre Desplat tacks another impressive composition to his already thick resume. With films like The Grand Budapest Hotel already in his arsenal, I assume this to be another Oscar citation in his future. Shot by the talented Oscar Faura, responsible for painting the canvas that was J.A. Bayona's The Impossible, he utilizes the standard brilliance of capturing a moment. Knows when to pull back and get close. Let's not forget the Production and Costume Design by Maria Djurkovic and Sammy Sheldon Differ. Those two will surely be mentioned for the rest of the film year. The Imitation Game is assertive and makes a serious claim as one of the best spy thrillers ever made. There are sub plots that all resonate and never feel forced. This will not only keep your tension level at a fever pitch but could leave you in tears to walk home with. It's a complete realistic view at the spy game that stands as one of the best films of the year and a performance for the ages from Benedict Cumberbatch. A captivating achievement that I'll likely remember for some time.",
+         "Truly excellent film and definitely Ocsar worthy material for both the film and the actors. The entire cast are amazing. As Cumberbatch says near the start of the film \"are you paying attention\". You should pay attention, Alan Turing deserves your attention, his story deserves to be told. I went to see this at the London Film Festival last week and I am going to be one of the first ones in the cue to see it when it comes out next month. It is an excellently paced and executed script that has you gripped from beginning to end. The whole audience were laughing and applauding and crying in places, including the man next to me who had to borrow a hankie from his wife. The film switches between the drive of the team of code breakers to solve the Enigma code, young Alan Turing and the events after the war that destroyed his life. It is truly heartbreaking in places, and Benedict Cumberbatch's performance as Alan Turing is outstanding. He really deserves an Oscar nomination for his performance. It has been a very, VERY long time since I enjoyed a film so much, that when I came out of the Cinema I wanted to turn right round and go back in and watch it again. A lovely script that had you switching back and forwards between tears and laughter. I know some wanted a more in depth and in detail look at Alan Turing's life and have commented frequently that this does no focus enough on his sexuality or the events after the war. In this case I think less is more, this film highlights the man and the mind. It shows us the genius that was destroyed by a society that was seriously homophobic. It brings to life the man behind the facts and we laugh at his interactions with his fellow code breakers and cheer as he proves his theories and our hearts break as we watch him try to cope after his court case. One of the best films I have seen in a long time. Go and see judge for yourself.",
+         "Brilliant adaptation of the story of Bletchley Park and the cryptanalysis team, ran by Alan Turing, that cracked the code of the German Enigma Machine during World War II. Featuring an outstanding starring performance from Benedict Cumberbatch as war hero Turning and supporting acts from a brilliant cast including Keira Knightley, Charles Dance and Mark Strong, 'The Imitation Game' is a powerful and eminently well-made biopic that illuminates the facts whilst respecting the story it is based upon. The English-language debut of 'Headhunters' director Morten Tyldum, this British World War II thriller is a highly conventional story about humanity that creates a fascinating character, anchored by a hypnotically complex performance.",
+         "Alan Turing, Mathematician, Logician, Wartime Codebreaker and father of Computer Science. A great British Hero. A great hero in the fight against prejudice. This film tackles themes of prejudice against the feminine, against homosexuality and more generally against anyone who is different. How? By simply pointing out, using the example of Alan Turing and his colossal achievements, that it takes someone different to do something amazing. And an amazing story it is, packaged in a beautifully tight screenplay without a wasted scene, that keeps the audience fully engaged throughout. All the cast are on top form, in orbit around a stellar performance by Benedict Cumberbatch that layers humour, complexity, sexuality and the palpable frustration of a brilliant mind not quite able to communicate with his fellow humans. A film that depicts a man who perhaps fails the test he invented, that is now named after him. The Turing Test. Can he fool you that he is a real human being and not a super intelligent machine? The stress of playing that Imitation Game is set into every micro twitch of the central character. Should you go see it? No special effects. No interstellar spaceships. Why not wait for the download? Go see it! Because otherwise you would be missing the chance to see a most remarkable film, performed to perfection. A film about a story that matters, about events that changed history and simply about a man without whom you might not even be able to read this review on your Turing machine.",
+         "I'll make my review short. Go see this. It has all the elements of a great movie from the acting to the score by Alexandre Desplat. Excellent script and delivery. It was well received at TIFF 14 where it was named People's Choice. The cast members really gelled on screen. It was well edited because the pace of the movie did not lag at any time. When watching this you will quickly realize that these actors (Benedict Cumberbatch, Keira Knightley, Matthew Goode, Mark Strong, Allen Leech) will be around for a long time entertaining us. If you like A Beautiful Mind or even Good Will Hunting, you will enjoy this. It comes out in November 2014. Don't miss it. This one is Oscar worthy.",
+         "I am astonished at the rave reviews this film is getting and depressed at how many people will now go through life with their impression of Alan Turing and code breaking at Bletchley \"informed\" by this film. The plot is drivel. If you take this film at face value you will leave believing that Turing was single-handedly responsible for just about everything at Bletchley including the original idea for the Bombe machine not to mention constructing it on his own in a barn, recruitment of staff, the first breaking of any Enigma traffic, the idea of using known words to crack messages, making strategic decisions about whether or not to save trans-Atlantic convoys and countless other things. Most of the film is just nonsense. There is no way that Turing would have been in a position to decide not to save the convoy (or even know that there was one to save). He wasn't responsible for the idea of using standard text in messages as ways into the Enigma settings (which had been done since before the war). The construction of the Bombe machines was a huge exercise involving a team of technicians and parts supplied by external manufacturers, not Turing wiring it up alone in a barn in his shirt-sleeves. It wasn't actually even his idea; the idea of using a machine was brought to him by Dilly Knox from pre-war ideas worked up by a Polish team. Nor could the machine spit out deciphered messages after a couple of minutes. Turing wasn't in charge either, he didn't come up with ideas of using crosswords to find recruits and he wasn't alone in writing to Churchill; several of them signed the letter. Oh yes, and there were several women code-breakers at Bletchley. The screenplay is also riddled with anachronisms, which just add to the sense of \"Oh this is ridiculous\" throughout the film. No way would a well brought up young lady in the 1940s say \"Oh my God!\" three times in as many minutes. There are too many others to recall or mention. Benedict Cumberbatch and the rest of the cast are excellent in their roles with the material they are given (hence two stars rather than one) but that cannot save what is ultimately a very disappointing film. This is not a biopic of Turing, which is how it is presented, but a nonsensical made up story tacked on to a heavy-handed political point about homosexuality, which we all got without the banner at the end. Two hours I won't get back.",
+         "There is something appropriately mechanical about The Imitation Game. It has a theatrical rhythm and attention to detail that ticks like a clock. That's not to say that it's necessarily overly dry and hard to connect to, this biopic of the extraordinary and tragic mathematician and inventor of the digital computer, Alan Turing, played by Benedict Cumberbatch, is emotionally engaging and utterly endearing. With a slick exquisite script and an eclectic ensemble strong enough to deliver, it's an accessible film that although may feel familiar, is thoroughly refreshing, bringing laughter, tears and thrills. It will undeniably be a huge contender at the big awards this season, perhaps going all the way. Director Morten Tyldum's film follows Turing's journey to break the Enigma Code, the form in which the Germans communicated during WWII to conduct surprise attacks. He attempts it by building the first computer, a passion project of his that was frequently criticized for devoting so much Government time and money. He deals with a social ineptitude while also accepting his own homosexuality, which lead to unforgivable persecution and depression that caused Turing to take his own life. The film focuses on his life achievements rather than his demise, though it does explore that part of his life, if not illustrate it as much as it could have done. It's easy to root for Turing, even if his arrogance and standoffishness repel the other characters. Benedict Cumberbatch is a real crowd pleaser here. I've only seen him in short supporting roles such as last year's August: Osage County and 12 Years A Slave and I'm certainly quite impressed, if not quite as astounded. There's a very rehearsed quality about his performance, similar to Anne Hathaway's Oscar winning turn in Les Miserables. Every stutter and nuance feels perfectly placed rather than organic. But this isn't necessarily a turn off, it fits the tone of the film. He could go all the way to the Oscar but it depends on buzz and the competition. The highlight of the film is the writing by Graham Moore, adapted from Andrew Hodges novel 'Alan Turing: The Enigma.' It's not groundbreaking, but it has the right ingredients and the perfect recipe. Even if somehow it's the only film's nomination, it's still a frontrunner for the win in Adapted Screenplay. This will be a film known for 'ticking boxes,' but it does it in a way that all films should. It's economical without ever feeling like it's rushing or only scratching the surface. It constantly pummels the characters with adversity, presenting heart-wrenching moral dilemmas, particularly for Keira Knightley's Joan Clarke. It turns something complicated and bleak quite lighthearted, especially with the casual approach to war outside of moments of justified despair. Knightley will certainly get awards attention for her fine supporting role as Turing's counterpart. Her role may not be as meaty, lacking the highs and lows Cumberbatch has, but she makes the most of her relative sparing use, becoming the heart of the film. Thanks to her, their relationship is completely believable, given that Turing is a man who struggles with connecting to people, and the way she manages the choices her character is set upon is dealt with deft conviction. Charles Dance, Mark Strong and especially Matthew Goode are commanding side presences who bolster the film's charm. The titular 'imitation game' is essentially the Replicant test from Blade Runner, something Turing has practiced on himself. However, all the characters are human here, if with a confidence you only find in the movies. Instead of a linear structure, the film chooses flashbacks to flesh out the full story of Turing. It does seem a little extraneous to go back to school with him, but fortunately the focus of their objectives and the performances of the young actors make them worthwhile, as well as showing the origin of something that changed the world as we know it. The scale is further expanded with newsreel footage and scenes of the world at war, even if the special effects are relatively primitive compared to what can be achieved these days though that doesn't hold the film back as such. It's very easy to get suckered into films that convince you that you're watching one man change the world and The Imitation Game achieves that effortlessly. Although it's dense in character and plot, The Imitation Game flashes more on the surface than it has to offer beneath. Kinetic energy in the editing brings an instant gratification, especially in the edge of your seat sequences. There are liberties with the tone for such a somber event and protagonist that most likely doesn't reflect the honest emotions involved, but obviously it's easier to digest for audience. I was unsure at first, but then it had me under its spell. This also may be Alexandre Desplat's best bet at finally winning an Oscar. It adds to that whimsical cinematic tone, almost reminiscent on his work on Harry Potter sans the magic. It will certainly be warmly embraced in the mainstream. The film is poignant, but not powerful. Entertaining, but not enlightening. I'm content calling this the Best Picture frontrunner until further notice. The film feels like a combination of Argo, with the secrets and the camaraderie of the unit, and The King's Speech, with its Britishness and charming partnerships. It depends whether the Academy fall for the ambition of Christopher Nolan's Interstellar or the Chariots of Fire + The Bridge on the River Kwai formula of Angelina Jolie's Unbroken. Either way, The Imitation Game will belong amongst the most deserving winners, but the test of time remains to be seen. It's not like it'll be alone in that group. Nevertheless, with Queen Elizabeth II's pardon for Turing last year, there's never been a better time to educate the masses on his legacy that we use everyday. 8/10 edit: guess it isn't. Oh well. Boyhood and Birdman are better anyway.",
+         "I went to see this movie at a screening. I have to admit, I went into this movie not knowing anything about Alan Turing and Enigma, but I love movies based on true events; especially those about the history of our country. Despite not knowing anything about Mr. Turing or the events of his life, as soon as I left the movie theater, I went home and looked him up and spent the next few hours learning of his life, everything he did for this country and the invention of what we now call 'the computer'. I want to start by saying that Benedict Cumberbatch in this movie is outstanding. He plays Alan Turing perfectly; his accent, his movements and just the way he plays the character on screen is beautiful. I can honestly say that this is the performance of his career! The movie focuses on different aspects of his life: it shows him and his team trying to break Enigma, it shows Young Turing during his time at boarding school, and the events after the war. There's a quote at the beginning of the movie: \"are you paying attention?\". Throughout the movie, that's what I did. It's all that I could do because the story and the acting kept my eyes glued to the screen and I couldn't take them away. It's emotional, it's exciting and it is truly heartbreaking in some moments. It was a very comedic movie, too. There were some scenes that had me in fits of laughter and that's what makes it a beautiful script; despite the movie being based on the darkest days of World War 2, they added comedy into it which brought the movie alive. I remember getting home and after researching Alan's life, I wanted to go back to the cinema and watch the movie again. It's rarely that happens to me but when this comes out in November, I will be straight to the cinema and purchasing a ticket to watch it. I've heard reviewers mentioning that this film doesn't focus enough on Turing's homosexuality. Now, be that as it may, it focus' enough on the subject. Remember: this movie is about his mind, about the man himself. He was a genius! This is the best British movie that I've saw in a long time, and it's probably one of the best movies that I've ever had the pleasure of watching, period. I would recommend going to watch this movie when it comes out because it will take you into the world of Mr. Turing and the struggles and successes he made in his short life.",
+         "A movie which oozes Britishness from every frame, The Imitation Game is an instant classic. Wartime Britain is depicted vividly, if a little caricatured, with an autumnal palette and a jaunty air. A true story, sympathetically told, with good performances all round and a stand-out Turing from the indefatigable Mr Cumberbatch. The young Turing is also extremely well realised by Alex Lawther. Meandering through Alan Turing's life since school until shortly before his death, the script demands your attention and regularly makes you smile. Highly recommended."
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "Thriller",
+         "War"
+      ],
+      "productionCompanies": [
+         "Black Bear Pictures",
+         "Bristol Automotive"
+      ],
+      "summaries": [
+         "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+         "Three specific time periods in the life of Cambridge University Mathematics professor Alan Turing are presented. The first is the span of WWII, at the beginning of which he, an expert of puzzle solving, is hired by the British government to work on a team, whose secret project is to break what is largely seen as the unbreakable secret code behind the Nazis' communications machine, named Enigma, which if they can would give the Allies an advantage and possibly even end the war. The problem is that Enigma is recoded every day, so that even if the team can decipher a coded message transmitted by the Nazis, that code would be obsolete by the next day. There are 159,000,000,000,000,000,000 possible codes that could be input into Enigma. A largely arrogant, antisocial, solitary and literal minded man, Alan is the bane of the team's existence, especially that of his superior, Commander Denniston, and Hugh Alexander, who is hired as the team's initial leader. While Hugh and the rest of the team work on breaking the day-to-day codes, believing that being the only way to learn the secret of Enigma, Alan works by himself on developing a machine, one somewhat with artificial intelligence, which he believes is what is required not just to break a daily code, but break any code immediately when it is input into Enigma. One problem Alan has is convincing Denniston to fund the machine to the tune of £100,000. The tone of the team slowly changes with the inclusion of Joan Clarke, the only female. Joan not only adds another brilliant mind to the team, but also provides Alan with a sense of how to behave socially to get things accomplished in a team setting. Joan's participation in the project is threatened by traditional values, not by chauvinistic thoughts from her male team members, but that of her parents, who see her place in the world as someone's wife. The second is 1928, when Alan is a youth attending boarding school. Even then, he is seen as being different and is bullied because of it. His only real friend at the school is Christopher Morcom, \"Christopher\" which is what he would end up naming his machine, more than just because Christopher Morcom was his friend. The third is 1951, after Alan's Manchester home is reported broken into by his neighbor. Because nothing was stolen, Alan is quick to dismiss the police. But lead investigator, Detective Robert Nock, believes Alan is hiding something in dismissing them so quickly. What the police discover has far reaching consequences for Alan's life, but not without Nock wanting first to know what is hidden beneath the information on the surface.",
+         "During the World War II, the mathematician Alan Turing joins a team of code-breakers at top-secret facility at Bletchley Park to try to decipher the code of the German enigma machine. Turing is a homosexual genius and along two years, he and his team successfully develop another machine to decipher the enigma.",
+         "The true story of World War II-hero, Alan Turing who with the help of some fellow cryptanalysts broke the hitherto most problematical Enigma-code by making his unprecedented machine; facing alongside an inner conflict that plays the most decisive role in his life.",
+         "During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians."
+      ],
+      "budget": 14000000
+   },
+   "movielensId": 116797,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2014-11-14",
+      "dvdReleaseDate": null,
+      "directors": ["Morten Tyldum"],
+      "runtime": 113,
+      "movieId": 116797,
+      "title": "The Imitation Game",
+      "mpaa": "",
+      "actors": [
+         "Benedict Cumberbatch",
+         "Keira Knightley",
+         "Matthew Goode",
+         "Rory Kinnear",
+         "Allen Leech",
+         "Matthew Beard",
+         "Charles Dance",
+         "Mark Strong",
+         "James Northcote",
+         "Tom Goodman-Hill",
+         "Steven Waddington",
+         "Ilan Goodman",
+         "Jack Tarlton",
+         "Alex Lawther",
+         "Jack Bannon",
+         "Tuppence Middleton",
+         "Dominik Charman",
+         "James G. Nunn",
+         "Charlie Manton",
+         "David Charkham",
+         "Victoria Wicks",
+         "Andrew Havill",
+         "Laurence Kennedy",
+         "Tim van Eyken",
+         "Viv Weatherall",
+         "Miranda Bell",
+         "Tim Steed",
+         "Bartosz Wandrykow",
+         "Lese Asquith-Coe",
+         "Hayley Joanne Bacon",
+         "Lauren Beacham",
+         "Ingrid Benussi",
+         "Nicholas Blatt",
+         "Jack Brash",
+         "Ancuta Breaban",
+         "Alex Corbet Burcher",
+         "Grace Calder",
+         "Richard Campbell",
+         "Daniel Chapple",
+         "Lisa Colquhoun",
+         "Alexander Cooper",
+         "Leigh Dent",
+         "Esther Eden",
+         "Sam Exley",
+         "Ben Farrow",
+         "Mike Firth",
+         "Hannah Flynn",
+         "James Gard",
+         "Guna Gultniece",
+         "Benjamin Hardie",
+         "Oscar Hatton",
+         "Luke Hope",
+         "Vera Horton",
+         "Vincent Idearson",
+         "Denis Koroshko",
+         "Debra Leigh-Taylor",
+         "Stuart Matthews",
+         "Amber-Rose May",
+         "Samantha Moran",
+         "Adam Nowell",
+         "Joseph Oliveira",
+         "Harry Leonard Parkinson",
+         "John Redmann",
+         "David G. Robinson",
+         "Alice Tapfield",
+         "Mark Underwood",
+         "Nicola-Jayne Wells",
+         "Josh Wichard"
+      ],
+      "imdbMovieId": "2084970",
+      "originalTitle": "The Imitation Game",
+      "genres": [
+         "History",
+         "Drama",
+         "Thriller",
+         "War"
+      ],
+      "youtubeTrailerIds": [
+         "j2jRs4EAvWM",
+         "Fg85ggZSHMw",
+         "5DcOR6r31X0"
+      ],
+      "plotSummary": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+      "tmdbMovieId": 205596,
+      "avgRating": 4.01719,
+      "releaseYear": "2014",
+      "numRatings": 14801,
+      "posterPath": "/noUp0XOqIcmgefRnRZa1nhtRvWO.jpg"
+   }
+}

@@ -1,0 +1,698 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "mass murder",
+            "id": 1583
+         },
+         {
+            "name": "planned murder",
+            "id": 3152
+         },
+         {
+            "name": "chain saw",
+            "id": 4013
+         },
+         {
+            "name": "sadism",
+            "id": 4426
+         },
+         {
+            "name": "knife",
+            "id": 4728
+         },
+         {
+            "name": "psychopath",
+            "id": 6259
+         },
+         {
+            "name": "prequel",
+            "id": 9675
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "gore",
+            "id": 10292
+         },
+         {
+            "name": "serial killer",
+            "id": 10714
+         },
+         {
+            "name": "blood",
+            "id": 11221
+         },
+         {
+            "name": "leatherface",
+            "id": 11545
+         },
+         {
+            "name": "slaughterhouse",
+            "id": 11547
+         },
+         {
+            "name": "slasher",
+            "id": 12339
+         },
+         {
+            "name": "chainsaw",
+            "id": 12394
+         },
+         {
+            "name": "torture",
+            "id": 13006
+         },
+         {
+            "name": "cruelty",
+            "id": 14624
+         },
+         {
+            "name": "series of murders",
+            "id": 14676
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "cannibal",
+            "id": 14895
+         },
+         {
+            "name": "severed foot",
+            "id": 157513
+         },
+         {
+            "name": "severed hand",
+            "id": 166862
+         }
+      ],
+      "imdb_id": "tt0420294",
+      "video": false,
+      "title": "The Texas Chainsaw Massacre: The Beginning",
+      "recommendations": [
+         9373,
+         2082,
+         76617,
+         9793,
+         24150,
+         13186,
+         11351,
+         9792,
+         1691,
+         9902,
+         13207,
+         6466,
+         11442,
+         1690,
+         16780,
+         11470,
+         10066,
+         11547,
+         11675,
+         18405
+      ],
+      "backdrop_path": "/o4psXh7IVD6GFKvBSHjHLzjL2lV.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 13,
+               "character": "Chrissie",
+               "gender": 1,
+               "credit_id": "52fe43b69251416c7501b287",
+               "name": "Jordana Brewster",
+               "profile_path": "/dORwXZWWmDgG66I5i2Fnr27g3fO.jpg",
+               "id": 22123,
+               "order": 0
+            },
+            {
+               "cast_id": 14,
+               "character": "Dean",
+               "gender": 2,
+               "credit_id": "52fe43b69251416c7501b28b",
+               "name": "Taylor Handley",
+               "profile_path": "/qLJg0e7ObS8YDmW1UxqVo5VOJ5Y.jpg",
+               "id": 66741,
+               "order": 1
+            },
+            {
+               "cast_id": 15,
+               "character": "Bailey",
+               "gender": 1,
+               "credit_id": "52fe43b69251416c7501b28f",
+               "name": "Diora Baird",
+               "profile_path": "/ncrlzonibLOYGjsPkkWaZo8fy8U.jpg",
+               "id": 59263,
+               "order": 2
+            },
+            {
+               "cast_id": 16,
+               "character": "Eric",
+               "gender": 2,
+               "credit_id": "52fe43b69251416c7501b293",
+               "name": "Matt Bomer",
+               "profile_path": "/jvYzsP08M9H76eHu0k1ALdmNnoM.jpg",
+               "id": 66743,
+               "order": 3
+            },
+            {
+               "cast_id": 17,
+               "character": "Uncle Charlie Hewitt / Sheriff Hoyt",
+               "gender": 2,
+               "credit_id": "52fe43b69251416c7501b297",
+               "name": "R. Lee Ermey",
+               "profile_path": "/r8GBqFBjypLUP9VVqDqfZ7wYbSs.jpg",
+               "id": 8655,
+               "order": 4
+            },
+            {
+               "cast_id": 18,
+               "character": "Sheriff Winston Hoyt",
+               "gender": 2,
+               "credit_id": "52fe43b69251416c7501b29b",
+               "name": "Lew Temple",
+               "profile_path": "/fWNU0dqnKCdPGhBBRxI5k6mbEr3.jpg",
+               "id": 37027,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Thomas Hewitt (Leatherface)",
+               "gender": 2,
+               "credit_id": "52fe43b69251416c7501b29f",
+               "name": "Andrew Bryniarski",
+               "profile_path": "/xt65UCdoAqreMMbHAkw3qOclCN0.jpg",
+               "id": 52366,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Slaughterhouse Supervisor",
+               "gender": 2,
+               "credit_id": "52fe43b69251416c7501b2a3",
+               "name": "Tim DeZarn",
+               "profile_path": "/bvj6Kaq1VzAEBkqCGVDvOaQKOhi.jpg",
+               "id": 956719,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Holden",
+               "gender": 2,
+               "credit_id": "5323ff339251411f85005cce",
+               "name": "Lee Tergesen",
+               "profile_path": "/eb2fKDGpVLYJGGuC4SUHRpezP8U.jpg",
+               "id": 6906,
+               "order": 8
+            },
+            {
+               "cast_id": 29,
+               "character": "Alex",
+               "gender": 1,
+               "credit_id": "53e74441c3a36839950013e1",
+               "name": "Cyia Batten",
+               "profile_path": "/w14tg1GarixC9tqqYzTERkroS2P.jpg",
+               "id": 42515,
+               "order": 9
+            },
+            {
+               "cast_id": 30,
+               "character": "Monty Hewitt",
+               "gender": 2,
+               "credit_id": "53e744b2c3a36839950013ef",
+               "name": "Terrence Evans",
+               "profile_path": "/jhEu0HyHPbFh3cbIoWGW95ubEK1.jpg",
+               "id": 132054,
+               "order": 10
+            },
+            {
+               "cast_id": 31,
+               "character": "Luda Mae Hewitt",
+               "gender": 1,
+               "credit_id": "53e744fbc3a3683991001449",
+               "name": "Marietta Marich",
+               "profile_path": "/qov07poVxBvkMYgYlPQF0RliWJn.jpg",
+               "id": 985344,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe43b69251416c7501b241",
+               "name": "Jonathan Liebesman",
+               "profile_path": "/9oDaNDxU1nI6t2J6ldOYhiq2Qkf.jpg",
+               "id": 66739,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43b69251416c7501b247",
+               "name": "Sheldon Turner",
+               "profile_path": null,
+               "id": 57336,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43b69251416c7501b26b",
+               "name": "Steve Jablonsky",
+               "profile_path": "/yXeYMIpz95tlYpzpl64nNBRVVQO.jpg",
+               "id": 18264,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43b69251416c7501b271",
+               "name": "Lukas Ettlin",
+               "profile_path": null,
+               "id": 55079,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43b69251416c7501b277",
+               "name": "Jonathan Chibnall",
+               "profile_path": null,
+               "id": 66740,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43b69251416c7501b27d",
+               "name": "Jim May",
+               "profile_path": null,
+               "id": 5546,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcc249251414508000763",
+               "name": "Michael Bay",
+               "profile_path": "/65IyBCQOv5MQuPCGr4jshelqTox.jpg",
+               "id": 865,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcc3d9251416489002035",
+               "name": "Mike Fleiss",
+               "profile_path": null,
+               "id": 6869,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcc6892514129630009b6",
+               "name": "Bradley Fuller",
+               "profile_path": null,
+               "id": 54844,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcc879251416489002039",
+               "name": "Kim Henkel",
+               "profile_path": null,
+               "id": 27797,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558fcdc09251415a260013a5",
+               "name": "Jake Garber",
+               "profile_path": "/d3xjQNUpOuVvIjEWuZuesrQ8T3b.jpg",
+               "id": 1206190,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537b52f50e0a267ffb001892",
+               "name": "Lisa Fields",
+               "profile_path": null,
+               "id": 62725,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537b53130e0a267ff7001761",
+               "name": "Marco Rubeo",
+               "profile_path": null,
+               "id": 62724,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "537b534f0e0a267ff4001836",
+               "name": "John Frick",
+               "profile_path": null,
+               "id": 59475,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "537b536f0e0a267fea001639",
+               "name": "Mari-An Ceo",
+               "profile_path": null,
+               "id": 959962,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "537b53ab0e0a267fea00163e",
+               "name": "Randy Huke",
+               "profile_path": null,
+               "id": 978673,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "537b53c70e0a267ff700176d",
+               "name": "Carla Palmer",
+               "profile_path": null,
+               "id": 1321665,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 1,
+               "credit_id": "537b54060e0a267fff00172c",
+               "name": "Kathy Kiatta",
+               "profile_path": null,
+               "id": 137176,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcc4fc3a3684e6e0012ef",
+               "name": "Andrew Form",
+               "profile_path": null,
+               "id": 54843,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcc9b925141450800076e",
+               "name": "Tobe Hooper",
+               "profile_path": "/rE5TqnAvgaKjWwWZ9AsoU9KcUGU.jpg",
+               "id": 10051,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558fccab925141648900203e",
+               "name": "Alma Kuttruff",
+               "profile_path": null,
+               "id": 1482380,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcd33c3a3685d4500267e",
+               "name": "Sheldon Turner",
+               "profile_path": null,
+               "id": 57336,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcd5a9251415a2600139e",
+               "name": "Jeffrey Allard",
+               "profile_path": null,
+               "id": 57515,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcd68c3a3685d45002682",
+               "name": "Toby Emmerich",
+               "profile_path": "/mfkHPnmazcxDcjyVovNPzhUX1JN.jpg",
+               "id": 10830,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558fcd7792514122ae0009ff",
+               "name": "K.C. Hodenfield",
+               "profile_path": null,
+               "id": 5545,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcd86c3a36824710009b4",
+               "name": "Robert Kuhn",
+               "profile_path": null,
+               "id": 51216,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcd93c3a3685cf90025cd",
+               "name": "Mark Ordesky",
+               "profile_path": null,
+               "id": 1309,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcda2925141450800078a",
+               "name": "Guy Stodel",
+               "profile_path": null,
+               "id": 40249,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcdddc3a3685d4500268f",
+               "name": "Grady Holder",
+               "profile_path": null,
+               "id": 1406235,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fcdf8c3a3684349002f62",
+               "name": "Gregory Nicotero",
+               "profile_path": "/tbSRk7j0hYlBWWX7QrjdOXeiMpW.jpg",
+               "id": 59287,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558fce0a9251416489002075",
+               "name": "Kevin Wasner",
+               "profile_path": null,
+               "id": 1482385,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563375fac3a3681b5c015158",
+               "name": "David J. Schow",
+               "profile_path": null,
+               "id": 57703,
+               "department": "Writing",
+               "job": "Story"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Horror",
+         "id": 27
+      }],
+      "popularity": 9.810012,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10781,
+      "vote_count": 545,
+      "budget": 16000000,
+      "overview": "Chrissie and her friends set out on a road trip for a final fling before one is shipped off to Vietnam. Along the way, bikers harass the foursome and cause an accident that throws Chrissie from the vehicle. The lawman who arrives on the scene kills one of the bikers and brings Chrissie's friends to the Hewitt homestead, where young Leatherface is learning the tools of terror.",
+      "similar": [
+         588,
+         9373,
+         1696,
+         15069,
+         74997,
+         16764,
+         12662,
+         14459,
+         21407,
+         123109,
+         12521,
+         13567,
+         10285,
+         948,
+         238636,
+         3600,
+         5486,
+         663,
+         341006,
+         27328
+      ],
+      "original_title": "The Texas Chainsaw Massacre: The Beginning",
+      "runtime": 91,
+      "poster_path": "/9elCJIG1TOJ0wew3JVx5ZMkHq5w.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Texas Chainsaw Productions",
+            "id": 56620,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "id": 12,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Next Entertainment",
+            "id": 1633,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Platinum Dunes",
+            "id": 2481,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Vortex/Henkel/Hooper",
+            "id": 23653,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2006-10-06",
+      "vote_average": 5.9,
+      "belongs_to_collection": {
+         "backdrop_path": "/9z2HzirMPY51IBrBTFlt21JX3iP.jpg",
+         "name": "Texas Chainsaw (Reboot) Collection",
+         "id": 425175,
+         "poster_path": "/XOaVIesSBaEXxzu3Slf80jaZwN.jpg"
+      },
+      "tagline": "What you know about fear... doesn't even come close.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jonathan Liebesman"],
+      "runtime": 91,
+      "synopsis": "On August 7, 1939, a young woman who works in a meat-packing plant in rural Travis County, Texas, dies giving birth to a child in the back room of the building when she suddenly goes into labor. The cruel plant manager abandons the newborn in a dumpster. A local woman, named Luda Mae Hewitt, discovers the baby while searching for food. She names the infant Thomas and takes him to the Hewitt residence and raises the baby as her own son. Over the next 30 years, Thomas (Andrew Bryniarski) grows up and goes to work in the same slaughterhouse. When its horrid conditions cause the closure of his workplace, Thomas comes back and kills the slaughterhouse's owner with a sledgehammer; he also finds and takes a chainsaw. Charlie Hewitt (R. Lee Ermey), Luda Mae's (Marietta Marich) sadistic son, learns from Sheriff Winston Hoyt (Lew Temple) what Thomas has done, and accompanies the Sheriff to arrest Thomas. When they find Thomas, Charlie kills the Sheriff with a shotgun and takes his identity. Charlie and Thomas take the Sheriff's body home and butcher him for stew meat, telling the rest of the family that they will not leave their home even as the rest of the area becomes deserted. A few months later, in July 1969, two brothers, Eric (Matthew Bomer) and Dean (Taylor Handley), drive across the country with their girlfriends Chrissie (Jordana Brewster) and Bailey (Diora Baird). Eric and Dean are draft dodgers and are plotting to flee north to avoid being drafted into the U.S. Army where they will be sent to Vietnam. They stop at a local eatery where they encounter a group of bikers. As the group pulls away, a female biker, Alex (Cyia Batten), follows them. A chase ensues, ending with the group crashing into a cow and flipping their car. In the process, Chrissie gets thrown from the car and lands in the weeds, out of sight of the others. Charlie Hewitt/Sheriff Hoyt soon arrives on the scene; he immediately shoots Alex, throws her body into the trunk of his squad car, forces the rest of the group in as well, and calls for his Uncle Monty (Terrence Evans) on the car's CB radio to tow the wreckage. The tow truck comes and tows the car, in which Chrissie has hidden herself. Hoyt takes the group to the Hewitt house and calls for Thomas to butcher the dead Alex. He then takes Eric and Dean to a barn and hangs them by their arms from the rafters; he later ties Bailey to the kitchen table. From the car, Chrissie sees her friends tied up and runs back to the highway. She flags down Holden (Lee Tergesen), one of the bikers from the diner, and tells him about Alex and her friends. Holden then follows Chrissie back to the house. At the Hewitts', Hoyt tortures Eric and Dean by beating them with his nightstick and forcing them to do pushups when he figures out that they are draft dodgers. However, they manage to free themselves. When they attempt to rescue Bailey, Hoyt beats Eric, and Dean gets caught in a bear trap. Bailey escapes, taking Monty's truck, but Thomas stops her by stabbing her in the chest with a meat hook and drags her from the truck. Thomas then takes Eric to the basement and straps him to a wooden table. Holden enters the house to search for Alex, but ends up shooting Monty in one of his kneecaps, surprising Hoyt in the process. Hoyt leads him to a bedroom where Thomas kills him with his chainsaw. Chrissie finds Eric and tries to free him, but cannot release the metal straps nailed to the table. Thomas comes downstairs as Chrissie hides under the table. Thomas kills Eric and then skins his face, putting it on as a mask.... thus earning his nickname Leatherface. Thomas/Leatherface comes to the aid of his wounded uncle Monty, and seeing that the shotgun wound to his left kneecap is bad, uses his chainsaw to amputate Monty's leg off. Then, for no clear reason, Thomas chainsaws Monty's other leg off as well just above the kneecap as some twisted way of making is work perfect. Later, Chrissie finds and tries to free Bailey, whom Hoyt has tied up again on the second floor. As Chrissie attempts to untie her friend, Hoyt and Thomas catch her and bring her downstairs for \"dinner\". There, Dean sits unconscious as Thomas/Leatherface slits Bailey's throat with a pair of scissors, then grabs Chrissie and brings her downstairs as well. On the way to the basement, Chrissie manages to stab Thomas in the back with a screwdriver and escapes by jumping out a window, with Thomas pursuing her. Dean regains consciousness, escaping to the front of the house. There he assaults Hoyt by smashing his head repeatedly into the solid concrete porch, knocking out him out cold, as well as Hoyt's two front teeth, then heads out to find Chrissie. Meanwhile, Chrissie hides in the abandoned slaughterhouse. She slashes Thomas's face with a knife she has found, but he drags her to the floor. Dean arrives to stop him but Thomas impales and kills him with his chainsaw. Meanwhile, Chrissie makes her way to a nearby car and drives off into the night. Chrissie, desperately looking for help, sees a police deputy who has pulled someone over. As Chrissie is about to pull over, Thomas suddenly appears in the back seat and kills Chrissie by ramming his chaindaw through her seat. The car, out of control, crashes into the Deputy and citizen, killing both of them. Thomas (now called Leatherface) exits the car and slowly walks back along the dark road to the Hewitt house.",
+      "writers": [
+         "Sheldon Turner",
+         "Sheldon Turner"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0420294/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTMwODg0NDgyNV5BMl5BanBnXkFtZTcwODE5OTMzMQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jordana Brewster, Matt Bomer, Diora Baird | See full cast and crew »"],
+      "reviews": [
+         "Prequel to the 2003 \"Texas Chainsaw...\" giving us the origin of Leatherface and his twisted family. That's all done within the first 20 minutes...then it's just a virtual redo on the original with four likable 20-somethings being captured and tortured by Leatherface and his family. Considering it's basically a remake of the 2003 film, it works remarkably well. It takes place in 1969 and has two brothers (Taylor Handley and Matthew Bomer) going to enlist (after being drafted). Along are their two girlfriends (Jordana Brewster and Diora Baird). But they're stopped by crazy Sheriff Hoyt (R. Lee Ermey) who is Leatherface's uncle...and the \"fun\" begins. Very grim and graphic with no humor and shot in muted color...just as the 2003 one. The gore is strong and disgusting (this got trimmed to get an R rating) and I can't say I liked it...but it did it's job. It scared me. I was cringing in my seat a few times and jumped more than once. Another plus is ALL the acting is good. Brewster, Handley, Baird and Bomer are all good-looking and likable--when the violence starts you really are horrified at seeing such great characters being tortured. Ermey is on hand giving another terrifying performance as Hoyt. His character is so twisted, violent and sick that when he got a taste of his own medicine my quiet audience broke out in applause. Also there's good old Leatherface and his chainsaw chasing everybody. In some ways I applaud a grim, graphic R rated horror film that pulls no punches--I HATE the watered down PG-13 crap we usually get. But unlike some (like \"Scream\") this is pretty unrelenting and wears you down. But it scared me and that's exactly what it's supposed to do. An 8.",
+         "The movie is very good...if you're into this kind of thing. It's nice to see a franchise splatter film that is intense and gory without being cheesy. Many of the current crop of splatter films are played intentionally cheesy for humor. Which is fine, but they shouldn't ALL be like that. This movie has some humor in it, but it's a darker humor, and not meant to be cheesy or campy. Everything that comes to mind when you hear the words \"Texas Chainsaw Massacre\" is in this movie. No wussing-out in this one! Murder, torture, cannibalism, insanity and a touch of the surreal. Oh yeah, and a chainsaw. No punches are pulled, so this flick is not for the squeamish. Tonally it wasn't as surreal as the original, but it had a better (read: creepier) tone than the 2003 remake. Plenty of blood and guts. R. Lee Ermey plays a major character instead of a bit-player like in the 2003 remake, and the film benefits from this.",
+         "Please don't get me wrong, this is a good horror film. To those looking for gore, it is there any there is plenty of blood shed. I would speculate several scenes have been cut to appease the mpaa. Had this film been release before Hostel, The Hills Have Eyes, or the Saw Franchise, more of the film would have ended up on the cutting room floor. The film is being advertised as it will show up how Tommy Hewitt became Leatherface. Anyone looking for any real discovery to this information will have to look somewhere else. Truthfully the only real incite into the Hewitt family origin is how a homicidal sexual deviant was able to become a Sheriff. Being a prequel, the lack of background information is, to say the least, disappointing. I don't want to get into specifics, but there are several parts where the film feels as though it being recycled. Some scenes feel as if they were rehashed from other Chainsaw films, needless to say they did not live up. Add to this the typical slasher clichés (don't go upstairs/down to the basement, etc) and it only adds to the predictability.",
+         "Impresively taking \"Texas Chainsaw\" back to its roots, horror fans and cinema-goers alike should definitely give this prequel to the daring 2003 remake a chance. Although the remake in 2003 was excellent and had a tighter, more involving plot than this film, it breaks a barrier because rather than directly approaching the style of the remake and trying to live up to its success, this equally grisly thriller ignores all of the gloss, cinematography, pacing and story that it was inspired from. Instead, it goes back to the film style which made the nightmare in 1974, a more direct homage to the in your face horror that started it all. This story is in 1963, right before the events of the 2003 film which took place in the early seventies. Jordana Brewster plays Chrissie, who is on a fun road-trip across Texas with her friends, Eric, Dean, and Bailey, played well off of each other by Matthew Bomer, Taylor Handley and Diora Baird. Shortly after the terrifying, recognizable psycho Leatherface commits his first murders, a cross story involving an encounter with some nasty bikers throws the doomed teenagers flipping across the road in a surprisingly brutal accident. After Sheriff Hoyt arrives (R. Lee Ermy in another chilling performance), to take control of the scene, the nightmare begins for Chrissie's friends as she watches them get taken away in his police car, unknowingly headed for the house which would become a place of torment and nightmares for years to ensue. Appropriately gory and no-holds barred, Jonathan Liebesman creates a tight, slick and sadistic thriller in the eyes of Chrissie as she endlessly attempts to rescue her friends from a demented madman's clutches. This is a highly worthy and satisfying entry in the horror series that will make an indelible mark on your imagination, if not already done by the seemingly endless spew of remakes and graphic horror films.",
+         "Texas Chainsaw Massacre:The Beginning is a fantastic slasher film that brings us back to the classic era of 1970's slashers.I loved this chainsaw film simply because it answers all the whys and provides you with leatherface's history.Definitely gorier than the previous film and far more cringe inducing.This is first non cheesy slasher i've seen in ages which is a very nice change for me personally. The acting in the film is very good there are some very intense performances and some graphic scenes.It's shot very 70's slasherseque which overall gives it a creepy aura.The storyline is very easy to follow yet very disturbing and depressing at the same time.Overall fans of The Devil's Rejects and The Hills Have Eyes see Texas Chainsaw Massacre:The Beginning it's well worth the admission fee.",
+         "This movie was gore merely for the sake of gore. There was zero suspense knowing that all of the characters would die. The problem I've always had with the Texas Chainsaw Massacre movies is this idea that the state police never seem to come knocking after these gruesome deaths occur and the victims go missing. It's a kind of oh well we'll just overlook that one glaring plot hole, but unfortunately it's a big one and just too big to ignore. This Chainsaw film just seemed utterly pointless based on that fact and completely insulting to average intelligence. At least in the 2003 film, the main character, Jessica Biel, manages to escape. Every single character is so one dimensional and disposable that I didn't feel anything for the characters. What I did feel was sympathy for the actors playing these meaningless parts. I just sat there waiting for the next one to die and other than being mildly curious about what kind of morbid way they would be offed, I was far from being on the edge of my seat. The first act of the film is by far made the least amount of sense and just seemed like filler to get to the gory stuff and chainsaw scenes. The subplot with the bikers made zero sense. There is absolutely no explanation why the biker chick just suddenly starts pursuing the jeep out of nowhere to rob it. Uh where was her boyfriend and what was he doing? At least in the 2003 film, there were a lot better struggles and chase sequences and at least the setup made more sense. This film's ending was by far the biggest slap in the face of the horror genre. After sitting through 91 minutes of grotesque, sadistic torture the one single remaining character is killed in the most clichéd ways imaginable. This movie deserves to be banned - banned for being stupid beyond belief.",
+         "I've been a Texas chainsaw fanatic since i saw the original (when i was about 8) and all the sequels obviously tried hard (except the one with Bridget Jones in which was an utter waste of time) but ultimately failed to be worthy of following up such a classic. the remake was OK, it looked great and had some quality violence but didn't really hit the spot. but when i had finished watching this one (a prequel to a remake?) I've got to say i was very impressed, of course it had problems. the odd character didn't seem to have much of a purpose other than to die horribly and scared teenage girls still have that tendency to walk towards the screams of pain rather than leg it, but the grimness and violence of it all was pretty much relentless. there was no crap attempts at humour (other than the 'sherrif' but thats laughing at how out of order he is) and once it gets going it doesn't stop until the abrupt ending. it looks great, the violence is above and beyond what you expect to see at a cinema (i don't know all the cuts made to the us version but the UK version seems to be about 8mins longer) and it felt like i was watching something that deserved to have 'texas chainsaw massacre' in the title. if you like horror and gore films you should have a great time, go see.",
+         "Rather than focus on what this film is not I will focus on what it is. From what some people will say TCM the beginning, (as the TCM Predecessor has been accused of)are, too predictable, not enough plot.....etc etc etc, all comments from individuals who obviously are watching the wrong watered down horror movies for the wrong reasons. If you want to watch a good old fashion blood and guts horror movie that delivers on the darkness, the atmosphere, the killing, all that makes a horror movie good (and not bad as is lost on most movie reviewers) then see TCM the beginning. It is a throw-back, just as the remake was to a time when the horror movie market was not dominated with slews of PG-13 watered down,\"psychological horror\" ripped off from real Japanese horror movies and only made worse by US film makers. I for one am glad that movies like TCM the beginning come out now and again to the same Criticisms that should be praised rather than scored, but then again i am of a generation that applauds the blood, and Gratuitous violence and dreary depression or horror, instead of going eeewww thats gross! It beats the heck out of the Japanese rip off PG-13 flicks and it definitely beats most of the 90s horror departure from the excellent horror of the 80s film makers who weren't scared to show blood, guts, nudity etc. That is just my general overview if you are the type of person who wishes to see a huge hulking serial killer demolish people, rather than some little bug eyed kid, or old man with a fisherman's hook then by all means see TCM the beginning, otherwise stay home and complain about the lack of all elements that have ruined most horror films over the past decade.",
+         "There are a lot of things that astonish and disappoint me in this world...but this ridiculous piece of garbage film getting a 5.9 rating on the back of a LOT of perfect ratings is one of the most disappointing and disturbing of all. In fact, I dare say when I was leaving the theater, the only crime I felt had taken place was fraud! The cast is essentially the same...two girls (one brunette and one blonde) and two boys (one brunette and one blonde) are substituted for the \"original\" two girls and two boys with the same hair color and the same general appearance. Insert a couple of bikers, some inane \"facts\" about how \"Hoyt\" became sheriff, \"Leatherface\" was born and raised, and so on...and what you have is the original remake remade with a B class feel. The contradictions in this are appalling. For instance, Leatherface is one bad mutha...he's huge, he's powerful (lifts one guy up off the ground, impaled on a chainsaw), and he causes the ground to shake when he walks. Yet he hides in a car, he can't be seen by a passing vehicle, and his stealth like nature allows for a very stupid and very gory finale that perhaps gives this wretched fraud the only genuine feeling of originality it deserves. Its original in this...but its also very, VERY stupid! This movie is throughly pointless. Hoyt wasn't the actual sheriff...well there's a shocker. Gee, could a man in a dead town be pretending to be a sheriff? Or that Leatherface had birth defects? Or that his mother gave birth to him on the floor of the slaughterhouse as she was dying (yeah, this was one grotesque scene...I can't even imagine someone being proud of producing that scene...let alone choosing to keep it in the movie), and he found a home away from home in the confines of the slaughter house? I'm of course off on a tangent here...but literally there is NOTHING in this movie...nothing at all. Simply put, this is a rehashing of the remade TCM, repackaged as a beginning chapter that simply was not needed. If you want to see Leatherface, do yourself a favor and watch the DVD of the remake- it makes more sense than paying money to go to the theater and watch the same movie for an inflated price!",
+         "Story is about how the family became notorious for what they do best. That's killing young hippies, bikers and pretty much anyone else that crosses paths with them. And why? \"We'll never go hungry again.\" Good enough reason for me! I, like many of you, are going to see this to see Leatherface and family, kill. To see gore, blood, maybe get a few scares, watch Leatherface do something really badass. Yeah! But is that all we're supposed to expect? Can't we hope for maybe something else thrown in? Maybe a real in-depth look into Leatherface aka Tommy. Nope, we get what I just said. The same old routine. We've seen it before. And it's been done better. Not with better special effects or cinematography. But acting, writing, and suspense. Not once was I scared, felt any type of suspense....anything. (I hope you did) I pretty much just sat there waiting for something \"cool\" to happen. The movie was pretty hardcore though. Extreme fans of horror, people who have seen Untold Story and stuff like that, will have no problem with this. But the average viewer should have a sweet time with this. You'll be sucked into it. The tone of the movie works very well. It's a hardcore movie that sticks to it's guns. I am just getting a little tired of the same formula. I was hoping for something different. Didn't get it. The movie is hardcore, bloody and has Leatherface. Not too bad."
+      ],
+      "genres": ["Horror"],
+      "productionCompanies": [
+         "New Line Cinema",
+         "Platinum Dunes",
+         "Next Entertainment"
+      ],
+      "summaries": [
+         "In August, 1939, a worker goes into labor while working in a slaughterhouse and dies after a complicated labor, though the deformed child survives. The possibly orphaned baby is dumped in a garbage container and found by a beggar later, who brings him home. Along the years, the mentally retarded and disturbed boy called Thomas is raised by the Hewitt family in spite of having psychological problems as well as suffering from an unnamed skin disorder, later working in a meat packing plant. In July, 1969, when the facility is closed, the inhabitants move to other places, but the deformed, mentally childlike Thomas flies into a rage after being insulted and kills the foreman. His deranged brother (considered his uncle due to their age difference) executes the sheriff that is going to arrest Thomas, and assumes his identity, wearing his clothes,driving his car though the roads in Texas and entitling himself as Sheriff Hoyt. Meanwhile, the brothers Eric and Dean are traveling in a Jeep with their girlfriends Christie and Bailey, Eric to serve in Vietnam and Dean escaping to Mexico. When the group has a car accident, Hoyt arrests Eric, Dean and Bailey and brings them to his house. Christie follows them trying to rescue the trio, trapped in the house of sadistic and insane cannibals, in a trip of horror and gore.",
+         "Prequel to Michael Bay's Texas Chainsaw Massacre (2003), the 2003 remake of Blutgericht in Texas (1974), is set in 1969, the height of the Vietnam War. Two young men are spending a last weekend with their girlfriends before being shipped overseas to the war. At the same time in a small Texas town, the only major business (a meat-packing plant and slaughterhouse) goes out of business, forcing the town's inhabitants to move on to greener pastures. One of the men who works in the plant is Thomas Hewitt, a deformed, demented psychopath (who will become known as Leatherface). When Hewitt finds out what is happening, he savagely murders the foreman of the plant. Meanwhile, the two young men and their girlfriends are headed down a lonely highway towards the town when they are involved in an car accident that cripples their vehicle. Soon they encounter the local sheriff, who is not really the sheriff, but the homicidal Charlie Hewitt, the uncle of Leatherface who has murdered the sheriff and taken his job and police car, knowing that with the town deserted, no one will notice. As Sheriff Hoyt, Uncle Charlie kidnaps three of the teens and takes them to his home where he, Leatherface Hewitt, the senile Uncle Monty, and Charlie's sister, Luda Mae, reside. Charlie wants the developing monster 'Leatherface' to \"refine\" his murderous abilities. The one girl, Chrissie, who escaped unnoticed, attempts to rescue them with the help of a biker whose girlfriend was killed by 'Sheriff Hoyt'. What follows is a night of sheer terror at the hands of a family of cannibalistic, inbred psychopaths...",
+         "On one last road trip before they're sent to serve in Vietnam, two brothers and their girlfriends get into an accident that calls their local sheriff to the scene. Thus begins a terrifying experience where the teens are taken to a secluded house of horrors, where a young, would-be killer is being nurtured."
+      ],
+      "budget": 16000000
+   },
+   "movielensId": 48518,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2006-10-06",
+      "dvdReleaseDate": "2007-01-16",
+      "directors": ["Jonathan Liebesman"],
+      "runtime": 91,
+      "movieId": 48518,
+      "title": "The Texas Chainsaw Massacre: The Beginning",
+      "mpaa": "R",
+      "actors": [
+         "Jordana Brewster",
+         "Taylor Handley",
+         "Diora Baird",
+         "Matt Bomer",
+         "R. Lee Ermey",
+         "Lew Temple",
+         "Andrew Bryniarski",
+         "Tim DeZarn",
+         "Lee Tergesen",
+         "Cyia Batten",
+         "Terrence Evans",
+         "Marietta Marich"
+      ],
+      "imdbMovieId": "0420294",
+      "originalTitle": "The Texas Chainsaw Massacre: The Beginning",
+      "genres": ["Horror"],
+      "youtubeTrailerIds": ["2OKXd2j6Fmo"],
+      "plotSummary": "Chrissie and her friends set out on a road trip for a final fling before one is shipped off to Vietnam. Along the way, bikers harass the foursome and cause an accident that throws Chrissie from the vehicle. The lawman who arrives on the scene kills one of the bikers and brings Chrissie's friends to the Hewitt homestead, where young Leatherface is learning the tools of terror.",
+      "tmdbMovieId": 10781,
+      "avgRating": 2.63333,
+      "releaseYear": "2006",
+      "numRatings": 705,
+      "posterPath": "/9elCJIG1TOJ0wew3JVx5ZMkHq5w.jpg"
+   }
+}

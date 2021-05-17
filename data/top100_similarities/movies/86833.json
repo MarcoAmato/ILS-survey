@@ -1,0 +1,924 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "competition",
+            "id": 271
+         },
+         {
+            "name": "jealousy",
+            "id": 931
+         },
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "fight",
+            "id": 1721
+         },
+         {
+            "name": "materialism",
+            "id": 3431
+         },
+         {
+            "name": "bridesmaid",
+            "id": 3584
+         },
+         {
+            "name": "female friendship",
+            "id": 5248
+         },
+         {
+            "name": "fear of commitment",
+            "id": 10050
+         },
+         {
+            "name": "wealth",
+            "id": 10329
+         },
+         {
+            "name": "wedding party",
+            "id": 10955
+         },
+         {
+            "name": "sexual humor",
+            "id": 11316
+         },
+         {
+            "name": "best friend",
+            "id": 12392
+         },
+         {
+            "name": "maid of honor",
+            "id": 39833
+         },
+         {
+            "name": "drunk",
+            "id": 40879
+         },
+         {
+            "name": "wedding dress",
+            "id": 155049
+         },
+         {
+            "name": "group of friends",
+            "id": 155939
+         },
+         {
+            "name": "casual sex",
+            "id": 172454
+         },
+         {
+            "name": "vanity",
+            "id": 174960
+         },
+         {
+            "name": "girl fight",
+            "id": 175321
+         },
+         {
+            "name": "missing woman",
+            "id": 193719
+         },
+         {
+            "name": "out of control",
+            "id": 208847
+         }
+      ],
+      "imdb_id": "tt1478338",
+      "video": false,
+      "title": "Bridesmaids",
+      "recommendations": [
+         9870,
+         4964,
+         12133,
+         8699,
+         6957,
+         10625,
+         9767,
+         18240,
+         8363,
+         6557,
+         72207,
+         544,
+         11003,
+         35056,
+         10521,
+         41210,
+         32856,
+         496,
+         8835,
+         136795
+      ],
+      "backdrop_path": "/1J6s0TW6nhfjwoffzDL98Synw5H.jpg",
+      "revenue": 288383523,
+      "reviews": [{
+         "author": "Andres Gomez",
+         "id": "56c2286ac3a36825f900031f",
+         "content": "I think the election of the cast is good and works well and the proposal for a story should work but this movie is just not funny ... or I don't fit in the profile of the target spectator.",
+         "url": "https://www.themoviedb.org/review/56c2286ac3a36825f900031f"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Annie",
+               "gender": 1,
+               "credit_id": "52fe48dcc3a36847f817d667",
+               "name": "Kristen Wiig",
+               "profile_path": "/iqRX3PDxA33zFhSfKTo5BE593G4.jpg",
+               "id": 41091,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Helen",
+               "gender": 1,
+               "credit_id": "52fe48dcc3a36847f817d65f",
+               "name": "Rose Byrne",
+               "profile_path": "/laJdQNmsuR2iblYUggEqr49LvwJ.jpg",
+               "id": 9827,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Lillian",
+               "gender": 1,
+               "credit_id": "52fe48dcc3a36847f817d67b",
+               "name": "Maya Rudolph",
+               "profile_path": "/qLDuXku39c4uwVf3h2GjFqwZqik.jpg",
+               "id": 52792,
+               "order": 2
+            },
+            {
+               "cast_id": 22,
+               "character": "Rita",
+               "gender": 1,
+               "credit_id": "52fe48ddc3a36847f817d6b7",
+               "name": "Wendi McLendon-Covey",
+               "profile_path": "/uEZjQVJjwzMvMkvXZu1gDKq8lA6.jpg",
+               "id": 63234,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Becca",
+               "gender": 1,
+               "credit_id": "52fe48ddc3a36847f817d68f",
+               "name": "Ellie Kemper",
+               "profile_path": "/cCwFcI3P9oa1Yy7jcPQyjehdsur.jpg",
+               "id": 475512,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Megan",
+               "gender": 1,
+               "credit_id": "52fe48dcc3a36847f817d66b",
+               "name": "Melissa McCarthy",
+               "profile_path": "/qVb4VmZRwcANDuzhXjVjTlQ761x.jpg",
+               "id": 55536,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Officer Rhodes",
+               "gender": 2,
+               "credit_id": "52fe48dcc3a36847f817d67f",
+               "name": "Chris O'Dowd",
+               "profile_path": "/xhfgliN8DInDVBliPq7JDeKNCvz.jpg",
+               "id": 40477,
+               "order": 6
+            },
+            {
+               "cast_id": 3,
+               "character": "Ted",
+               "gender": 2,
+               "credit_id": "52fe48dcc3a36847f817d663",
+               "name": "Jon Hamm",
+               "profile_path": "/wb14AA6u8dqA0XNweRIeKXatzzc.jpg",
+               "id": 65717,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Whitney",
+               "gender": 1,
+               "credit_id": "52fe48ddc3a36847f817d693",
+               "name": "Jessica St. Clair",
+               "profile_path": "/n9MYimWFuBAK0gZDaPLGI3XWei1.jpg",
+               "id": 200237,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Jewelry Store Couple",
+               "gender": 2,
+               "credit_id": "52fe48ddc3a36847f817d697",
+               "name": "Tom Yi",
+               "profile_path": "/9PQ91swJgHLJsoVZkcKGfd9NWgw.jpg",
+               "id": 305993,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Jewelry Store Couple",
+               "gender": 1,
+               "credit_id": "52fe48ddc3a36847f817d69b",
+               "name": "Elaine Kao",
+               "profile_path": "/esREDboeuXIrtXHLEroKHrDoVNe.jpg",
+               "id": 117775,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Don Cholodecki",
+               "gender": 2,
+               "credit_id": "52fe48ddc3a36847f817d69f",
+               "name": "Michael Hitchcock",
+               "profile_path": "/73p9EPqV8fmjRyYnsFW9iFzuuqH.jpg",
+               "id": 75463,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Kahlua",
+               "gender": 1,
+               "credit_id": "52fe48ddc3a36847f817d6a3",
+               "name": "Kali Hawk",
+               "profile_path": "/8oTLRBkhibfG9LqLMdmrBUfkA5A.jpg",
+               "id": 89462,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Oscar the Security Guard",
+               "gender": 2,
+               "credit_id": "52fe48ddc3a36847f817d6a7",
+               "name": "Joe Nunez",
+               "profile_path": "/3hLLN7YLZE9pzqWv7m92MXTUYgb.jpg",
+               "id": 54696,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Brynn",
+               "gender": 1,
+               "credit_id": "52fe48ddc3a36847f817d6ab",
+               "name": "Rebel Wilson",
+               "profile_path": "/hwgTgqFLFwTBesbCAKtWa1ARrp7.jpg",
+               "id": 221581,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "Gil",
+               "gender": 2,
+               "credit_id": "52fe48ddc3a36847f817d6af",
+               "name": "Matt Lucas",
+               "profile_path": "/jeDy8LONCjOapC551F1EKCurWan.jpg",
+               "id": 26209,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Annie's Mom",
+               "gender": 1,
+               "credit_id": "52fe48ddc3a36847f817d6b3",
+               "name": "Jill Clayburgh",
+               "profile_path": "/twrfhIvbqHuJ7nXVpehvU6nyi6R.jpg",
+               "id": 20362,
+               "order": 16
+            },
+            {
+               "cast_id": 23,
+               "character": "Kevin",
+               "gender": 0,
+               "credit_id": "52fe48ddc3a36847f817d6bb",
+               "name": "Greg Tuculescu",
+               "profile_path": "/9XBrofwisQ1gL1PX82QMDrB39YM.jpg",
+               "id": 570559,
+               "order": 17
+            },
+            {
+               "cast_id": 24,
+               "character": "Boot Camp Instructor",
+               "gender": 2,
+               "credit_id": "52fe48ddc3a36847f817d6bf",
+               "name": "Terry Crews",
+               "profile_path": "/p2JIlYNwjC5ASfmVXvy30DVzXyG.jpg",
+               "id": 53256,
+               "order": 18
+            },
+            {
+               "cast_id": 27,
+               "character": "Carnie Wilson",
+               "gender": 1,
+               "credit_id": "52fe48ddc3a36847f817d6cf",
+               "name": "Carnie Wilson",
+               "profile_path": "/mjZW1ykrZjWlS52cyZEVnCtOpSy.jpg",
+               "id": 1186394,
+               "order": 19
+            },
+            {
+               "cast_id": 28,
+               "character": "Wendy Wilson",
+               "gender": 0,
+               "credit_id": "52fe48ddc3a36847f817d6d3",
+               "name": "Wendy Wilson",
+               "profile_path": "/ps3sXdFTSCoY2wgN0g7qU661CI2.jpg",
+               "id": 1186421,
+               "order": 20
+            },
+            {
+               "cast_id": 29,
+               "character": "Chynna Philips",
+               "gender": 0,
+               "credit_id": "52fe48ddc3a36847f817d6d7",
+               "name": "Chynna Philips",
+               "profile_path": "/xIk4incToGSiWSPiMKvDsSNMqLE.jpg",
+               "id": 1186422,
+               "order": 21
+            },
+            {
+               "cast_id": 30,
+               "character": "",
+               "gender": 0,
+               "credit_id": "52fe48ddc3a36847f817d6db",
+               "name": "Brennan Crewe",
+               "profile_path": "/6REyDX6OIDtFeEAhzxdS1ZumJgn.jpg",
+               "id": 1192944,
+               "order": 22
+            },
+            {
+               "cast_id": 31,
+               "character": "Jewelry Store Girl",
+               "gender": 1,
+               "credit_id": "533b4e139251413bad0002f2",
+               "name": "Mia Rose Frampton",
+               "profile_path": "/3wUGNSzifgTMfRjT9w7kuOoccvH.jpg",
+               "id": 1169063,
+               "order": 23
+            },
+            {
+               "cast_id": 32,
+               "character": "Flight Attendant Steve",
+               "gender": 0,
+               "credit_id": "5590dd74c3a36807f3000259",
+               "name": "Mitch Silpa",
+               "profile_path": "/1TECsY8WPkRsSaeNhWzWC2A5COU.jpg",
+               "id": 1219590,
+               "order": 24
+            },
+            {
+               "cast_id": 33,
+               "character": "Flight Attendant Claire",
+               "gender": 0,
+               "credit_id": "5590dd8d9251417586000222",
+               "name": "Dana Powell",
+               "profile_path": "/y9O3xKCrckEg5ugtue3mN22tsKh.jpg",
+               "id": 1388181,
+               "order": 25
+            },
+            {
+               "cast_id": 34,
+               "character": "Pete",
+               "gender": 0,
+               "credit_id": "56653ee2925141281d001829",
+               "name": "Brian Petsos",
+               "profile_path": "/yDvg1Du0T9hZ2RlAjW5IryaldWE.jpg",
+               "id": 1057653,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe48dcc3a36847f817d65b",
+               "name": "Paul Feig",
+               "profile_path": "/68XiL9p5KAKtWK9F6q435ChzpBL.jpg",
+               "id": 116805,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48ddc3a36847f817d685",
+               "name": "Judd Apatow",
+               "profile_path": "/iXlnv4NvZkmhB7bJBXea5T21gBT.jpg",
+               "id": 41039,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48ddc3a36847f817d68b",
+               "name": "Paul Feig",
+               "profile_path": "/68XiL9p5KAKtWK9F6q435ChzpBL.jpg",
+               "id": 116805,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe48ddc3a36847f817d6c5",
+               "name": "Kristen Wiig",
+               "profile_path": "/iqRX3PDxA33zFhSfKTo5BE593G4.jpg",
+               "id": 41091,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe48ddc3a36847f817d6cb",
+               "name": "Annie Mumolo",
+               "profile_path": "/x3B6BAelfk72KvafWd6QlnqXxNa.jpg",
+               "id": 174514,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a28892514179dd000b2b",
+               "name": "Barry Mendel",
+               "profile_path": null,
+               "id": 5664,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a296c3a368168e000c69",
+               "name": "Clayton Townsend",
+               "profile_path": null,
+               "id": 3184,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a14692514179d7000bc0",
+               "name": "Jonathan Karp",
+               "profile_path": null,
+               "id": 1008052,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5674a168c3a3681680000ac4",
+               "name": "Kristen Wiig",
+               "profile_path": "/iqRX3PDxA33zFhSfKTo5BE593G4.jpg",
+               "id": 41091,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5674a171c3a3681689000aae",
+               "name": "Annie Mumolo",
+               "profile_path": "/x3B6BAelfk72KvafWd6QlnqXxNa.jpg",
+               "id": 174514,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a1ea92514179d7000bea",
+               "name": "Michael Andrews",
+               "profile_path": null,
+               "id": 1589,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a2bb92514179e7000b29",
+               "name": "Robert D. Yeoman",
+               "profile_path": null,
+               "id": 5667,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5674a2fbc3a3681685000bc9",
+               "name": "Allison Jones",
+               "profile_path": null,
+               "id": 41080,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a30e92514179d4000beb",
+               "name": "Michael L. Sale",
+               "profile_path": "/iA4nTOx2iQuxcWP3NNnZAWKGFap.jpg",
+               "id": 111456,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a31c92514179dd000b4c",
+               "name": "William Kerr",
+               "profile_path": null,
+               "id": 46942,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a33cc3a368167c000be6",
+               "name": "Jefferson Sage",
+               "profile_path": null,
+               "id": 41081,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a383c3a368167c000bf7",
+               "name": "Christine Wada",
+               "profile_path": null,
+               "id": 8707,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5674a39392514179dd000b67",
+               "name": "Leesa Evans",
+               "profile_path": null,
+               "id": 21592,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a40cc3a3681685000c0a",
+               "name": "Douglas A. Mowat",
+               "profile_path": null,
+               "id": 10958,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a41b92514179db000bfc",
+               "name": "Keith P. Cunningham",
+               "profile_path": null,
+               "id": 21568,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a48ac3a3681689000b6a",
+               "name": "Jose Zamora",
+               "profile_path": null,
+               "id": 1420642,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a4a9c3a3681680000b8d",
+               "name": "Heba Thorisdottir",
+               "profile_path": null,
+               "id": 1389609,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a4bf92514179d4000c4f",
+               "name": "Janine Rath",
+               "profile_path": null,
+               "id": 1416093,
+               "department": "Costume & Make-Up",
+               "job": "Hair Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a4cd92514179d7000ca2",
+               "name": "David Danon",
+               "profile_path": null,
+               "id": 1550827,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5674a4db92514179d2000c36",
+               "name": "Sheila Waldron",
+               "profile_path": null,
+               "id": 1400540,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a50b92514179e3000bdb",
+               "name": "Suzanne Hanover",
+               "profile_path": null,
+               "id": 1461177,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a52ec3a3681683000c21",
+               "name": "Ari Jacobs",
+               "profile_path": null,
+               "id": 1550828,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a540c3a368167a000c51",
+               "name": "George H. Anderson",
+               "profile_path": null,
+               "id": 14382,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a56292514179d2000c52",
+               "name": "Adam Jenkins",
+               "profile_path": null,
+               "id": 1387195,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a57ec3a3681689000b9f",
+               "name": "Marc Fishman",
+               "profile_path": null,
+               "id": 13177,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5674a5b692514179db000c5a",
+               "name": "Cindy Marty",
+               "profile_path": null,
+               "id": 118944,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a5d5c3a368167a000c72",
+               "name": "Ken McLaughlin",
+               "profile_path": null,
+               "id": 1550829,
+               "department": "Sound",
+               "job": "Production Sound Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a5eb92514179d7000cda",
+               "name": "Larry Kemp",
+               "profile_path": null,
+               "id": 1392084,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a5f6c3a368168b000bd1",
+               "name": "James Matheny",
+               "profile_path": null,
+               "id": 1299405,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a616c3a368167a000c8a",
+               "name": "Casey Hotchkiss",
+               "profile_path": null,
+               "id": 1400374,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a62ec3a368168e000d3d",
+               "name": "Chris Haarhoff",
+               "profile_path": null,
+               "id": 1401109,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674a636c3a3681680000be8",
+               "name": "Chris Haarhoff",
+               "profile_path": null,
+               "id": 1401109,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674a6ea92514179dd000c38",
+               "name": "Donald Frazee",
+               "profile_path": null,
+               "id": 1550830,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "587fd812c3a36863d9000410",
+               "name": "Jessie Graff",
+               "profile_path": "/8LtVGuIhn2kW76adfYoKPQny2Mi.jpg",
+               "id": 996220,
+               "department": "Crew",
+               "job": "Stunts"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 24.074617,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 55721,
+      "vote_count": 2041,
+      "budget": 32500000,
+      "overview": "Annie\u2019s life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian\u2019s maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she\u2019ll show Lillian and her bridesmaids just how far you\u2019ll go for someone you love.",
+      "similar": [
+         41630,
+         114150,
+         8457,
+         1903,
+         585,
+         40807,
+         19913,
+         10625,
+         888,
+         2252,
+         1213,
+         10404,
+         62211,
+         39254,
+         376867,
+         9053,
+         1607,
+         175,
+         1648,
+         1075
+      ],
+      "original_title": "Bridesmaids",
+      "runtime": 125,
+      "poster_path": "/x5ucaJZ4FP589Gn3I8l3ZFV3Nl8.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Apatow Productions",
+            "id": 10105,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/62E1B91PxZw8q4KNkge5Qemo7EM.png",
+            "name": "Relativity Media",
+            "id": 7295,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2011-04-28",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "Save the date",
+      "adult": false,
+      "homepage": "http://www.bridesmaidsmovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Paul Feig"],
+      "runtime": 125,
+      "synopsis": "Annie Walker ( Kristen Wiig) is a single woman in her mid 30s, living in Milwaukee, Wisconsin. After her bakery failed, she lost her boyfriend and all of her savings, and now works in a jewelers store selling engagement rings. Although her flaky mother ( Jill Clayburgh) encourages her to return home, Annie rents a bedroom from British immigrant Gil ( Matt Lucas) and his lazy overweight sister Brynn ( Rebel Wilson). She has a sexual no-strings-attached relationship with the self-absorbed Ted ( Jon Hamm) but hopes for something more. Only her friendship with Lillian Donovan ( Maya Rudolph) keeps her sane. Lillian becomes engaged to a wealthy banker living in Chicago and asks Annie to be her maid of honor. At the engagement party at Lillian's house, Annie meets her fellow bridesmaids: Lillian's cynical cousin Rita ( Wendi McLendon-Covey), idealistic friend Becca ( Ellie Kemper), raunchy future sister-in-law Megan ( Melissa McCarthy) and Helen Harris, III ( Rose Byrne), the beautiful but vain wife of Lillian's fiance's boss. Helen and Annie take an instant dislike to each other as they are both become immediately jealous of the other's friendship with Lillian, but Lillian persuades them to spend time together. During a game of doubles tennis, Annie and Helen are both hyper competitive, deliberately hitting each other with their volleys multiple times. A few days later, Annie takes Lillian and the bridesmaids to a Brazilian restaurant for lunch before going to a chic bridal gown studio. While Lillian is in the restroom, Annie suggests a Parisian themed bridal shower, but Helen thinks this is a bad idea. At the bridal gown studio, Helen again uses her influence to gain them access because Annie did not realize that reservations were needed. However, everyone except Helen (who did not eat the meat at the restaurant) becomes ill with food poisoning. While everyone else becomes ill, Helen orders for everyone the bridesmaids dress that she liked the best. Worried about her finances, Annie suggests a bachelorette party at Lillian's parents' beach house. Helen overrules her and books a trip to Las Vegas. Due to her pride and ego, Annie refuses to allow Helen to buy a first class ticket for her and sits in coach. Because Annie is afraid to fly, Helen gives her sedatives and alcohol. This makes Annie inebriated and paranoid, and her outbursts cause the plane to land in Caspar, Wyoming, where she, Lillian and the bridesmaids are escorted off the plane and the bachelorette party plans are thus canceled. On the bus trip back to Milwaukee, Annie tries to apologize but Lillian announces that she wants Helen to take over planning the shower and wedding. Annie continues to hope for a relationship with Ted, but begins flirting with Officer Nathan Rhoads ( Chris O'Dowd), a friendly traffic cop who earlier had let her off without a ticket for broken taillights. Nathan encourages her to open a new bakery, but Annie refuses; her business's failure was so painful that she has given up baking entirely. After spending the night together, Nathan buys baking supplies so Annie can make them a delicious breakfast. Offended, Annie leaves. At her apartment, Gil and Brynn tell her she has to move out. With nowhere else to go, she moves back in with her mother. Annie travels back to Chicago for the bridal shower at Helen's house. Helen has created an elaborate version of Annie's Parisian theme, then upstages Annie's heartfelt, handmade shower gift by giving Lillian a trip to Paris to be fitted for her wedding gown by one of the world's top designers. Enraged that Helen has taken credit for the Parisian theme, Annie throws a temper tantrum and is kicked out of the shower. Lillian tells her not to come to the wedding either. On the way home, Annie's car breaks down. Nathan answers the emergency call and tells Annie how much she hurt him and not to contact him again. Ted comes to pick Annie up but, when he expects her to perform oral sex on him on the way home, she breaks off the relationship and walks home. Over the next several days, Annie becomes reclusive, refusing to leave her mother's house and watching television obsessively. Megan finds her and tells her to stop feeling sorry for herself. Annie realizes her errors and tries to make amends with Nathan by baking him a cake. But he appears to leave it on his doorstep for raccoons to eat. On the day of the wedding, which Annie doesn't intend to attend, Helen appears on the doorstep, begging for help in finding Lillian who has gone missing. Helen tearfully explains how lonely she feels and apologizes for all she has done to hurt Annie out of jealousy. They pull up alongside Nathan in his police car and after some persuasion, he begrudgingly helps Annie and Helen find Lillian at her own apartment. Lillian had gone there distressed by the micromanaging Helen had done in planning everything and her fear that Annie will have no one to be with. Annie tells her everything will be fine and helps her get ready for the wedding. Annie resumes her place as maid of honor at the wedding, which Helen has arranged to include neon signs, fireworks and an appearance by Wilson Phillips. After the wedding, Helen again apologizes to Annie and hopes they can be friends in the future. Realizing that Annie and Nathan were falling in love, Helen arranged for him to pick Annie up after the wedding. He takes her home in his squad car, lights flashing and siren wailing.",
+      "writers": [
+         "Kristen Wiig",
+         "Annie Mumolo"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1478338/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Kristen Wiig, Maya Rudolph, Rose Byrne | See full cast and crew »"],
+      "reviews": [
+         "OK. After seeing the previews of this movie, it was added to the list of movies I did NOT have any intentions of seeing. However, I heard so many great things about it, I decided to give it a try. Let's just say, my gut feeling was correct. I have NO idea what so many people found so amazing about this movie. It's not that funny. Yeah, there were a couple of scenes that I found humorous, and chuckled. However, most of the \"funny\" scenes were either involving sex, about sex, about poop/vomit/farting/burping, or a lame attempt at slapstick humor. Lots of predictable cheap shots. Seriously, no sophisticated or classy humor... the whole film made me feel trashy, honestly. I get that it's rated R, but still. I felt like I was in an adult version of an equivalent to Spongebob at times. Small plot. This movie is slowly stretched out for over 2 hours, with a plot that could easily be explained entirely, with all important scenes, in about 30 minutes. There were SO many long scenes that seem to be thrown in just so Kristen Wiig can score another laugh, yet they don't progress the story. Quite a few plot holes, and there were many scenes where I caught myself rolling my eyes, thinking, \"really?\" The greatest movies develop their characters so much that you literally feel for their outcomes. I left the theater with no regards to any of the characters in this movie, because they were all so distant and under-developed. The plot was so weak and rushed for the next pointless comedy spiel, that they didn't give the characters any depth, except maybe the lead of \"Annie.\" I can think of 2 memorable scenes right now from this film, and I saw it last night. Yeah, there were some funny scenes, but nothing worth raving about in my opinion. I do have to give \"Bridesmaids\" some credit. An all-female leading role movie is very new in show-business, especially in comedy. Sadly, these women made the \"Hangover\" equivalent instead of raising the bar, but they get Kudos for the efforts. There were some sweet moments in the movie, that for me, held the film from turning into a complete waste of money. I do like comedy, but I prefer classier, witty humor instead of the easy, thoughtless humor. I would much rather watch a movie that evolves a character so much that the cheap shots aren't needed for laughs. If you liked \"The Hangover,\" then you'll probably enjoy this movie..",
+         "Annie (Kristen Wiig) is a lonely woman who works in a jewellery store and shares casual sex with Ted (Jon Hamm). She is still reeling after her bakery closed during the recession. Her best friend that she's known for years is Lillian (Maya Rudolph). Lillian announces that she's getting married and that she wants Annie to be her maid of honour. Annie is initially excited but then realises that she will be alone again. Worse still is that Lillian is using four other women to help organise the wedding, including the dominating Helen (Rose Byrne), who she met less than a year ago. Helen and Annie compete furiously to outdo each other on the wedding plans but its Annie and her relationship with Lillian which comes off worse. Adding a little bit of joy to Annie's life is patrol officer Nathan Rhodes (Chris O'Dowd) as they start to slowly connect. 'Oh my God! You're getting married!' If you enjoy this kind of shrieking, along with references to various bodily functions and wedding parties so extreme they'd make royalty look mild, you will like Bridesmaids. As someone who does not have any interest in these things I found Bridesmaids to be a film of two halves: the first appalling and the second not much better. It's been directed by Paul Feig, under the watch of producer Judd Apatow and many have touted this as a female version of The Hangover (2009). Although the misdirection of the comedy could be pinned on Feig, the film was already on shaky ground because of the screenplay written by Wiig. She co-wrote the film with Annie Mumolo and was also one of the producers herself. Wiig has a background in variety programs like Saturday Night Live and for worse, it shows. Somewhere the rules of comedy have been forgotten. Comedy must exist in reality. Humour is funniest when we can imagine ourselves in similar, plausible, situations. There are very few scenes in Bridesmaids that feel honest or genuine. Too many moments play out like extended skits, stretching plausibility with unsophisticated humour and little concern for developing theme. This movie is so desperate for a laugh that if it nudged you it would have broken a rib. I took zero pleasure from watching women defecate over a sink, vomiting on top of each other, or becoming boozy on an aeroplane. If these situations weren't distasteful enough, smaller moments are undone by dialogue that lacks subtlety. Some lines of dialogue, like when Annie talks to customers in the jewellery store, are ridiculously blunt when they should have been loaded. It weakens the credibility of the characters and flattens the humour because we know people don't talk like this. Though taste in humour is subjective it's difficult to ignore the image problems rising in modern comedies. A lot of rom-coms, including this one, are pushing a social view that if you are fat, single or unmarried, you are weird, low in confidence and a failure. Wedding parties in films are also now so extravagantly realised that they have become a measure of success and social approval. Bridesmaids continues many of these trends, taking every chance to deprive its characters of dignity. That is until Annie can find the ridiculously nice Irish bloke. In the second half, the film at least tries to give Annie a recovery after hitting rock bottom but its views of friendship and renewal are simplistic and predictable. Like a lot of the film, Wiig's comedic performance is so annoyingly exaggerated that it saps any chance of realism. But Chris O'Dowd, as one of the film's few likable characters, is mercifully restrained. A lot of women will see this because it gives them the rare centre of attention in a raunchy, mainstream comedy. But is this really the best Hollywood can offer? If there's a Bridesmaids: Part II I'm sending a non-acceptance card.",
+         "I saw the previews for this movie and thought to myself, wow this seems like the female version of the HangOver. While it was not along the same plot as the HangOver, it was about the moments leading up to the wedding. At first I looked around the theater and noticed it was 95% women and I started to feel like I had made a mistake. But by the end I was pleasantly surprised that there was a lot good humor involved. Some of it would be considered guy humor, but actually had all the women in the theater laughing their asses off. There is a bit chick flick element to it between the main character and a guy, but it is such a small part of the movie that I would say it's about 85% comedy and 15% romance/chick flick. So as a guy, I can honestly say I enjoyed the movie. Most of these types of movies are about guys making complete asses out of themselves and you almost never see the same from women. Hollywood always likes to make women seem perfect, but you see women making crude remarks about their own genitals and it's nice to see that women can be funny in this regard as well. I think this was a great movie for female humor, because I have long thought that comedy was dominated by male actors and I am just waiting for some women to jump in there and start paving the way. Good job on this movie!",
+         "My friends invited me to a preview screening of Bridesmaids last night, and I accepted the invitation with a sense of cautious optimism. The trailer for the film admittedly didn't do much for me, but I was intrigued by the concept of a female-driven Apatow film. Ultimately, I went into the theater with modest expectations, hoping to get a few good laughs out of it. By the time we came out of the theater, my three friends and I had smiles plastered across our faces, and we couldn't stop talking about the film for the next couple hours. We all loved it. I think it easily ranks with the best of the Apatow productions, and it might even be my personal favorite. Like all of Apatow's productions, there are admittedly scenes that arguably go a little too far or a little too long, but that's a small criticism when the film successfully fires on so many other cylinders. To start with, the film is hilarious, and I think the comedy far exceeds the standalone bits shown in the trailer. Scene after scene is filled with humorous and often sidesplitting moments, and they had the theater in an uproar during the screening. I can't say enough about Kristen Wiig. Prior to this, I've always liked her to some extent but never really loved her. I think she's good at what she does, but I wasn't sure her shtick could sustain an entire film. Would her passive aggressive wit get old? Is it the only note she can play? Can she handle anything more dramatic? Ultimately, she blew me away in this film. Not only is she consistently and uniquely funny, but her character is surprisingly well-developed, and Wiig brings the character to vibrant and dynamic life on-screen. And this brings me to my next point about Bridesmaids: the film has a surprising amount of depth that completely caught me off guard. Bridesmaids isn't a quickie 80-minute gag fest by any stretch of the imagination; it's actually a leisurely paced 2-hour character-driven comedy that takes time to develop its characters and establish the various relationships and resultant conflicts between them. Ultimately, the film ends up being quite heartfelt and even rather sad in places. Despite the over-the-top antics shown in the trailer, the themes that the film explores are actually quite grounded. Kristen Wiig's character is someone who is feeling completely let down by life, which is a place we've all been, and the personal journey of her character resonated strongly for me. While her character is easily the most well-developed of the bunch, even the other bridesmaids ultimately show some three-dimensionality as well, despite the fact that they are sometimes initially introduced as two-dimensional caricatures. Ultimately, Bridesmaids was one of the most enjoyable comedies I've seen in a long time. It's certainly not perfect: it could probably do with some editing, there might be a few too many subplots (some of which are left unexplored), and it arguably goes too over-the-top at times, but everything else about the film works so well that these complaints are little more than nitpicks. While I applaud everyone involved in the production, it is Kristen Wiig who deserves the most accolades. As co-writer and lead actress, she plays a huge part in the film's success, and I sincerely hope this film puts her on the Hollywood map, as I would love to see more from her in the future. Whatever the case may be, Bridesmaids certainly makes for a successful maiden voyage for her into the world of feature-film comedies.",
+         "This movie is hilarious fun. My wife drags me to one chick flick a year in the theater, and I'm glad it's this one. Considering the talent involved, I expected something more than meets the eye after seeing the trailer. However, I was not expecting such a hysterical experience. This is a chick flick for dudes... the anti-chick flick \"chick flick\" if you will. What I loved about this movie is that although you get a sense of the heart and charm, it's not afraid to pull any punches just because the characters are female (the scene in the bridal shop will be the topic of much discussion, I assure you). I also loved the cast, lead by the always awesome Kristen Wiig. She was perfect in this role and I hope she does more work like this. She can make me pee my pants with laughter, and then straighten me right back up in a matter of seconds. I also loved the pacing of most of the film. Several scenes had just the right amount of awkwardness or pause or \"beat\" that really added an extra element of hilarity. There were several of those scenes where the audience was collectively cracking up, almost violently so. People were wiping tears from their eyes and still relaying jokes back and forth to one another as they filed out of the theater. Anyway, guys, trust me.. make this the \"chick flick\" you surprise your girl with and take her to the theater. You won't regret it.",
+         "I wish I had read the negative reviews posted here prior to seeing this waste of time and money. The plot was a muddy, hackneyed, meandering mess, the acting mostly so-so, and the subject matter includes graphic depictions of diarrhea and vomiting. If that's your thing you'll love it. All of the funny scenes were in the trailers. The protagonist was such a whiny loser I kept hoping that someone would bump her off.You know there's a problem when your \"bad\" girl comes off looking like a nicer and more sympathetic person overall. Anything that was supposed to be a joke or a funny situation was hammered home with a 15 pound sledge hammer- and then repeated! This movie took over two hours to get to a place it had no business ending up, I.E. a happy ending for Annie. Her \"redemption\" was way too little, way too late and was contrived as hell. This movie is now my new standard for really bad, bad waste of film. My wife wanted to see it based on trailers and the mostly good reviews. She had to cover her eyes during the bathroom scenes and found the whole movie to be one of the absolute worst she has ever seen. If you must waste $20 bucks(roughly two tickets) take a $20 bill, shred it in a food processor, then flush it down the toilet. Do this while eating popcorn and you'll have the same overall feeling of having seen this movie.",
+         "Let me begin by saying that I'm a man and that I went to see this movie with my wife, not under duress, I was looking forward to seeing it. Let me add here that in an almost full theater I counted four other men in the audience which would lead me to believe that I was definitely not the target audience for this movie. That being said, my wife didn't like it either, she actually disliked it even more than I did. All of the television promos I saw led me to believe that this was going to be a female version of \"The Hangover\", it wasn't, not even close. Which leads to my first problem with this movie, the advertising campaign was very deceiving. Pretty much all the funny scenes in the movie were included in the advertisements. What they didn't show was a very formulatic, been done a dozen times, chick flick about BFF's and wedding's gone wrong. I will say that the funny parts of this movie, and they were few, were very funny; the scenes on the airplane were good, and when Annie was trying to get the cop to help her find Lillian. And...that was pretty much it, except for most of Melissa McCarthy's scenes with the exception of the one during the credit roll which was just kind of sick. The rest of the scenes that were meant to be funny either went on for much too long, were bizarre or crude instead of funny or were just strained. A good example of strained was the bridal party all dancing at the end of the movie, it didn't look natural or funny or like anything but a bunch of actors having been told to dance around and try to look like they were having fun, some, like Rudolf and Wiig very badly at that. If you have zero rhythm and can't dance, don't put a dance scene in your movie. One example of bizarre was two of the bridesmaids just deciding to make out on an airplane, for no discernible reason. Did Ms. Wiig think the guys in the audience would just enjoy seeing woman kiss? The rest of the movie was an overlong, strained attempt to make a funny and touching movie all in one that failed at both. Some other major problems I saw; The scene near the beginning of the film in which Annie and Helen try to top one another at the announcement party went on and on and on way past the point where it was funny and to the point were it became tedious and even uncomfortable to watch. In fact many of the scenes in the movie were like that, they just didn't know where to stop. Kristin Wiig's character, Annie, progressed in the movie from being likable and funny to just being stupid and annoying. The scenes were she sabotaged the wedding plans, either intentionally or unintentionally, also ran way too long and were sad and annoying instead of funny. Ms. Wiig needs to learn that sometimes, especially when the material is weak to begin with, less is more. And while this may sound mean and petty I have to mention it because I kept noticing it over and over during the movie; Maya Rudolph is just not an attractive woman and was just wrong for her role in this movie. She was not believable at all, either as the bride to be or as the main characters best friend or as anything else. She is probably a fair sketch artist but she does not having the looks or the acting chops to carry a movie. All in all a disappointment, firstly because we were snookered in by a misleading advertising campaign and secondly, because the movie tried to be two things at once and failed miserably at both.",
+         "The most laugh-out-loud moments I've witnessed in a movie theater since There's Something About Mary. This should make Wiig a star -- and she deserves it (she has a Meg Ryan quality). The rest of the cast is hilarious also. This isn't a formula film. The scenes are way longer but you won't notice (because you'll be laughing so hard). They're much richer and funnier because they're given time to unfold. I'm a guy. I went in with no expectations and came out with a big smile. This is a female driven film (and women will love it) but guys, don't be afraid -- you'll love it too. You won't \"look away!\" (a joke you'll get after you see the film).",
+         "This is like a big slap in the face to all the lame chick flicks out there as of now and a breakthrough, star making leading role for the brilliant and hilarious Kristen Wiig. I have never seen a comedy in a long time that was as consistently funny and I mean laugh on the ground with tears coming down your face funny as well as touching and for once genuine characters that you can relate to and have an instant, believable, bond and chemistry on screen that makes the ongoing crazy shenanigans all the more effective and hysterical. The showstopper, scene stealing, laugh riot Melissa McCarthy was fantastic and no wonder has her own sitcom and she should host or be apart of SNL or something she is so freaking funny I almost wet myself! Maya Rudolph and Kristen Wiig should make more comedies together and are much better than Tina Fey and Amy Poehler were in Baby Mama, they are a comedy dream team and the rest of the cast is the cherry on top. The movie goes through typical issues from the average chick flick like jealousy, insecurities, narcissism, cat fights, self-doubt, self-pity, self-destruction you name it but it deals with those is a more honest, realistic non sugar-coated way that was refreshing and smart from the norm and raises the bar so high for chick flicks (which is more anti of that anyways) and comedies in general that I personally can't see any comedy this year or in the future surpassing its comedy greatness, it's golden!!! Overall if you were waiting for a movie that will truly make you laugh harder than you ever laughed before in the theaters in a long time your wish has been granted, wear depends just in case because you might need them. Highly Recommended! The most satisfying comedy in the past decade that I never wanted it to end and forget about the overrated The Hangover and its unnecessary sequel and bring on Bridesmaids 2 already! 4.5 out of 5 stars.",
+         "I don't know what you folks and the reviewers have been smoking! This was the most embarrassing movie my wife and I have ever seen. \"Dumb and Dumber\" was a 10 compared to this fiasco. Let me count the ways it sucked. 1. The stomach flu scenes in the bathroom and on the street were an absolute embarrassment. 2. Everything about the flight to Las Vegas was stupid. 3. The first boyfriend was an imitation in and out of bed. 4. The bride who let everyone make the decisions for her. 5. The deal with the giant cookie. Have I said enough? If I could have, I'd have asked for my money back. I cannot remember when I last saw such a bad excuse for humor. My wife agrees 100% with me. This wouldn't even qualify as a B Grade movie in our opinion. The only actors who did any good were the main character, the cop, and the fat lady. The bride had no depth to her character at all. She simply sat there like a bump on a log. We generously give this movie a 1 out of 10."
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Universal Pictures",
+         "Relativity Media",
+         "Apatow Productions"
+      ],
+      "summaries": [
+         "Annie (Kristen Wiig), is a maid of honor whose life unravels as she leads her best friend, Lillian (Maya Rudolph), and a group of colorful bridesmaids (Rose Byrne, Melissa McCarthy, Wendi McLendon-Covey and Ellie Kemper) on a wild ride down the road to matrimony. Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she'll show Lillian and her bridesmaids just how far you'll go for someone you love.",
+         "Annie is hitting bottom: in Milwaukee, her bakery is shuttered, her boyfriend gone, her flatmates hideous, and she puts up with Ted, an uncaring occasional sex partner. But she has Lillian, her best friend since childhood. When Lillian gets engaged, she asks Annie to be her maid of honor and introduces her to the four bridesmaids, an eclectic group that includes Helen, Lillian's wealthy and beautiful new friend. Helen instantly gets under Annie's skin, and competition for Lillian's affection and confidence ensues. Helen undercuts Annie's ideas, and Annie is soon out of control. Even Rhodes, a friendly attentive cop, can't calm her. Will Annie lose Lillian's friendship and more?",
+         "In Milwaukee, thirty-something Annie Walker's life is falling apart. Despite her baking acumen, her retail cake store, Cake Baby, failed leaving her finances in rough shape. By strings pulled by her mother, she now works in a low paying job as a jewelry store clerk, which she hates. She is forced to share an apartment with socially inept siblings Gil and Brynn, who don't respect her personal boundaries. And she is in a dysfunctional relationship with misogynistic Ted, who treats her solely as a third string sex partner only whenever it suits his mood. The only bright light in her life is that her BFF Lillian has announced that she's getting married to her boyfriend Doug, and has asked Annie to be her maid of honor. At the engagement party, Annie meets the other bridesmaids for the first time: Lillian's marriage cynical cousin Rita, Lillian's idealistic newlywed friend Becca, Doug's brash sister Megan, and Doug's boss' seemingly perfect and wealthy wife Helen. Immediately, Annie and Helen are in open competition not only to organize Lillian's bridal festivities, but to be Lillian's BFF. As Annie seems to be losing the competition at every turn, another bright light enters her life in the form of police officer Nathan Rhodes, his entry into her life which she resists due in part to the other failures in her life. Officer Rhodes may only be able to take so much before giving up on Annie. As Annie seems to be losing Lillian's friendship to perfect Helen, only truly understanding what each wants may bring all the parties closer together.",
+         "Annie is unlucky in love but when her best friend Lillian gets engaged and asks her to be her maid of honor, she's thrilled. At the engagement party however, she realizes she has a rival - Helen, a bridesmaid who also claims Lillian as her BFF. She is also rich, attractive, articulate and someone who is comfortable as the center of attention. Everything Annie touches goes wrong. She arranges for the bridesmaids' lunch at a restaurant in a seedy part of town and everyone - except Helen, who ate a salad - gets food poisoning. She then takes them all to a posh dress shop only to find she needed to make a reservation way ahead of time - but Helen, of course, knows the manager and with her intervention they're whisked right in. It gets to the point where everyone is stressed to the limit and Annie and Lillian have a falling out putting all the plans in doubt.",
+         "Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef."
+      ],
+      "budget": 32500000
+   },
+   "movielensId": 86833,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2011-04-28",
+      "dvdReleaseDate": "2011-09-20",
+      "directors": ["Paul Feig"],
+      "runtime": 125,
+      "movieId": 86833,
+      "title": "Bridesmaids",
+      "mpaa": "R",
+      "actors": [
+         "Kristen Wiig",
+         "Rose Byrne",
+         "Maya Rudolph",
+         "Wendi McLendon-Covey",
+         "Ellie Kemper",
+         "Melissa McCarthy",
+         "Chris O'Dowd",
+         "Jon Hamm",
+         "Jessica St. Clair",
+         "Tom Yi",
+         "Elaine Kao",
+         "Michael Hitchcock",
+         "Kali Hawk",
+         "Joe Nunez",
+         "Rebel Wilson",
+         "Matt Lucas",
+         "Jill Clayburgh",
+         "Greg Tuculescu",
+         "Terry Crews",
+         "Carnie Wilson",
+         "Wendy Wilson",
+         "Chynna Philips",
+         "Brennan Crewe",
+         "Mia Rose Frampton",
+         "Mitch Silpa",
+         "Dana Powell",
+         "Brian Petsos"
+      ],
+      "imdbMovieId": "1478338",
+      "originalTitle": "Bridesmaids",
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["FNppLrmdyug"],
+      "plotSummary": "Annie\u2019s life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian\u2019s maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she\u2019ll show Lillian and her bridesmaids just how far you\u2019ll go for someone you love.",
+      "tmdbMovieId": 55721,
+      "avgRating": 3.49098,
+      "releaseYear": "2011",
+      "numRatings": 3768,
+      "posterPath": "/x5ucaJZ4FP589Gn3I8l3ZFV3Nl8.jpg"
+   }
+}

@@ -1,0 +1,788 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "underwater",
+            "id": 14785
+         },
+         {
+            "name": "killer whale",
+            "id": 155529
+         },
+         {
+            "name": "surveillance camera",
+            "id": 159433
+         },
+         {
+            "name": "antibes",
+            "id": 185467
+         },
+         {
+            "name": "animal park",
+            "id": 185469
+         },
+         {
+            "name": "accident",
+            "id": 207819
+         }
+      ],
+      "imdb_id": "tt2053425",
+      "video": false,
+      "title": "Rust and Bone",
+      "recommendations": [
+         48034,
+         1407,
+         71157,
+         8424,
+         86837,
+         21575,
+         221902,
+         10795,
+         152780,
+         137182,
+         2841,
+         1553,
+         2013,
+         45958,
+         63310,
+         76025,
+         10362,
+         329805,
+         8841,
+         11661
+      ],
+      "backdrop_path": "/slx1wplZAgprXSgxuCdDoZkqHrz.jpg",
+      "revenue": 25762027,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Stéphanie",
+               "gender": 1,
+               "credit_id": "52fe49dd9251416c750d5dbd",
+               "name": "Marion Cotillard",
+               "profile_path": "/eSRyCYy2qiGIRodOV5eZJJRZIyP.jpg",
+               "id": 8293,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Ali van Versch",
+               "gender": 2,
+               "credit_id": "52fe49dd9251416c750d5dc1",
+               "name": "Matthias Schoenaerts",
+               "profile_path": "/ts1OM0hD0n5E9CellezLQNO5ziq.jpg",
+               "id": 73381,
+               "order": 1
+            },
+            {
+               "cast_id": 9,
+               "character": "Martial",
+               "gender": 2,
+               "credit_id": "52fe49dd9251416c750d5de3",
+               "name": "Bouli Lanners",
+               "profile_path": "/nnM1Yq5sodVTC95oav9iPK9ZiNw.jpg",
+               "id": 47822,
+               "order": 2
+            },
+            {
+               "cast_id": 10,
+               "character": "Louise",
+               "gender": 1,
+               "credit_id": "52fe49dd9251416c750d5de7",
+               "name": "Céline Sallette",
+               "profile_path": "/gei5LHBer7tNDh55f0VTDO4y5uv.jpg",
+               "id": 72255,
+               "order": 3
+            },
+            {
+               "cast_id": 11,
+               "character": "Anna",
+               "gender": 1,
+               "credit_id": "52fe49dd9251416c750d5deb",
+               "name": "Corinne Masiero",
+               "profile_path": "/xDzKEomTMyzfY1zMCaULswUTUH7.jpg",
+               "id": 1033671,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Foued",
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5def",
+               "name": "Mourad Frarema",
+               "profile_path": "/vrrFy8ZfK6daiw9OfkCZolnAowD.jpg",
+               "id": 1033672,
+               "order": 5
+            },
+            {
+               "cast_id": 13,
+               "character": "Richard",
+               "gender": 2,
+               "credit_id": "52fe49dd9251416c750d5df3",
+               "name": "Jean-Michel Correia",
+               "profile_path": "/yW9GnEKd1k0ccX3eHzE2GrTEJzj.jpg",
+               "id": 1033673,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Sam",
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5e27",
+               "name": "Armand Verdure",
+               "profile_path": "/lrbQwCJyssCINHFnVpOYZW5fBN9.jpg",
+               "id": 1123784,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Simon",
+               "gender": 2,
+               "credit_id": "52fe49dd9251416c750d5e2b",
+               "name": "Yannick Choirat",
+               "profile_path": "/yICkawhbfX0QHfy6Owj5bOghwPY.jpg",
+               "id": 1123785,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Le patron d'ELP Sécurité",
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5e2f",
+               "name": "Fred Menut",
+               "profile_path": null,
+               "id": 1123786,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Soigneur d'orques",
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5e33",
+               "name": "Duncan Versteegh",
+               "profile_path": null,
+               "id": 1123787,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "Soigneuse d'orques",
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5e37",
+               "name": "Katia Chaperon",
+               "profile_path": null,
+               "id": 1123788,
+               "order": 11
+            },
+            {
+               "cast_id": 27,
+               "character": "Soigneuse d'orques",
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5e3b",
+               "name": "Catherine Fa",
+               "profile_path": null,
+               "id": 1123789,
+               "order": 12
+            },
+            {
+               "cast_id": 28,
+               "character": "La mère de Stéphanie",
+               "gender": 1,
+               "credit_id": "52fe49dd9251416c750d5e3f",
+               "name": "Françoise Michaud",
+               "profile_path": "/40tTa9YmMg5YKhXdc69oZlAfxI3.jpg",
+               "id": 144261,
+               "order": 13
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe49dd9251416c750d5db9",
+               "name": "Jacques Audiard",
+               "profile_path": "/dJ2XCySH5NKZTEEapYK3RaBtL61.jpg",
+               "id": 17496,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49dd9251416c750d5dc7",
+               "name": "Jacques Audiard",
+               "profile_path": "/dJ2XCySH5NKZTEEapYK3RaBtL61.jpg",
+               "id": 17496,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49dd9251416c750d5dcd",
+               "name": "Thomas Bidegain",
+               "profile_path": null,
+               "id": 89628,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49dd9251416c750d5dd3",
+               "name": "Jacques Audiard",
+               "profile_path": "/dJ2XCySH5NKZTEEapYK3RaBtL61.jpg",
+               "id": 17496,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5dd9",
+               "name": "Martine Cassinelli",
+               "profile_path": null,
+               "id": 56589,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5ddf",
+               "name": "Pascal Caucheteux",
+               "profile_path": null,
+               "id": 19112,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe49dd9251416c750d5dff",
+               "name": "Juliette Welfling",
+               "profile_path": null,
+               "id": 4280,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49dd9251416c750d5e05",
+               "name": "Alexandre Desplat",
+               "profile_path": "/sdGjvOGJqjK1CTbxRedE64Txk0t.jpg",
+               "id": 2949,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5e0b",
+               "name": "Craig Davidson",
+               "profile_path": null,
+               "id": 1123782,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5e11",
+               "name": "Alix Raynaud",
+               "profile_path": null,
+               "id": 1123783,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5e17",
+               "name": "Antonin Dedet",
+               "profile_path": null,
+               "id": 89629,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5e1d",
+               "name": "Richard Rousseau",
+               "profile_path": null,
+               "id": 89630,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe49dd9251416c750d5e23",
+               "name": "Michel Barthélémy",
+               "profile_path": null,
+               "id": 62471,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5655a8ae9251410188003223",
+               "name": "Stéphane Fontaine",
+               "profile_path": "/1754RMxLmK5JUwPTEkUHcEHDRq2.jpg",
+               "id": 19113,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa4bcc3a3681a7d01a282",
+               "name": "Yann Megard",
+               "profile_path": null,
+               "id": 1727610,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa4cdc3a3681a6801f182",
+               "name": "Boris Piot",
+               "profile_path": null,
+               "id": 1727611,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa4e1c3a3681a7201e3db",
+               "name": "Virginie Montel",
+               "profile_path": null,
+               "id": 5435,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa4f992514115ca01c3d5",
+               "name": "Martinus Van Lunen",
+               "profile_path": null,
+               "id": 1477780,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "585fa522c3a3681a7201e415",
+               "name": "Isabelle Pannetier",
+               "profile_path": null,
+               "id": 1031922,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa53ac3a3681a7201e429",
+               "name": "Frédéric Junqua",
+               "profile_path": null,
+               "id": 4277,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa55292514115cd01bcb2",
+               "name": "Nathalie Vierny",
+               "profile_path": null,
+               "id": 1724200,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa5ba92514115c001bf8d",
+               "name": "Eric Blanckaert",
+               "profile_path": null,
+               "id": 1727613,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa5e0c3a3681a6801f240",
+               "name": "Stéphane Chollet",
+               "profile_path": null,
+               "id": 1727614,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa60292514115c401d3da",
+               "name": "Roger Arpajou",
+               "profile_path": null,
+               "id": 1477785,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa62092514115c001bfc8",
+               "name": "Mathieu Le Bothlan",
+               "profile_path": null,
+               "id": 1727615,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa633c3a3681a7201e4e0",
+               "name": "Xavier Cholet",
+               "profile_path": null,
+               "id": 1544426,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa659c3a3681a6201d025",
+               "name": "Julien Poncet de la Grave",
+               "profile_path": null,
+               "id": 1632373,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa68392514115c701c71f",
+               "name": "Loïc Poës",
+               "profile_path": null,
+               "id": 1727617,
+               "department": "Visual Effects",
+               "job": "Visual Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa699c3a3681a6801f2da",
+               "name": "Julien Pernes",
+               "profile_path": null,
+               "id": 1727618,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa6abc3a3681a7201e53b",
+               "name": "Stephane Thibert",
+               "profile_path": null,
+               "id": 1727619,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa6c892514115cf01c0ca",
+               "name": "Sophie Denize",
+               "profile_path": null,
+               "id": 1400768,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa6e4c3a3681a6b01bea5",
+               "name": "Béatrice Bauwens",
+               "profile_path": null,
+               "id": 1565693,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa6fe92514115cd01bdcd",
+               "name": "Cédric Fayolle",
+               "profile_path": null,
+               "id": 1632376,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa71ec3a3681a6b01bec7",
+               "name": "Myriam Roger",
+               "profile_path": null,
+               "id": 1727620,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa73092514115cf01c120",
+               "name": "Frédérique Ney",
+               "profile_path": null,
+               "id": 1407211,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fa74992514115c701c795",
+               "name": "Alice Robert",
+               "profile_path": null,
+               "id": 1727621,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 9.334057,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "BE",
+            "name": "Belgium"
+         }
+      ],
+      "id": 97365,
+      "vote_count": 542,
+      "budget": 15400000,
+      "overview": "Put in charge of his young son, Ali leaves Belgium for Antibes to live with his sister and her husband as a family. Ali's bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.",
+      "similar": [
+         12,
+         8967,
+         2288,
+         4347,
+         69,
+         319,
+         773,
+         858,
+         13,
+         111,
+         334,
+         112160,
+         39254,
+         244772,
+         277216,
+         11012,
+         10054,
+         425,
+         1562,
+         1607
+      ],
+      "original_title": "De rouille et d'os",
+      "runtime": 123,
+      "poster_path": "/cHCwW8xPl8yPKQwpNzKVinwvirT.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Polski",
+            "iso_639_1": "pl"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Why Not Productions",
+            "id": 729,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Les Films Du Fleuve",
+            "id": 1926,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "France 2 Cinéma",
+            "id": 83,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "Page 114",
+            "id": 11779,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Radio Télévision Belge Francophone (RTBF)",
+            "id": 7466,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Lumière",
+            "id": 11793,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Lunanime",
+            "id": 11794,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canal+",
+            "id": 5358,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "Ciné+",
+            "id": 10611,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "France Télévisions",
+            "id": 11795,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Centre du Cinéma et de l'Audiovisuel de la Fédération Wallonie-Bruxelles",
+            "id": 11796,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "VOO",
+            "id": 11797,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Vlaams Audiovisueel fonds",
+            "id": 3132,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Région Provence-Alpes-Côte d'Azur",
+            "id": 11798,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Département des Alpes-Maritimes",
+            "id": 11799,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Casa Kafka Pictures Movie Tax Shelter Empowered by Dexia",
+            "id": 11800,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2012-05-17",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": "\u20ac",
+      "directors": ["Jacques Audiard"],
+      "runtime": 120,
+      "synopsis": "Ali ( Matthias Schoenaerts) in his mid 20's, an unemployed father to a young son, Sam ( Armand Verdure) arrives in Antibes, southern France to look for work. Having no money, he crashes with his sister Anna ( Corinne Masiero) who already has her own share of problems with money and temporary employment. Ali gets a job as a bouncer in a night club but still keeps his passion burning for kick boxing. On a usual evening in the night club, Ali meets Stéphanie ( Marion Cotillard) and escorts her safely to her home after she is injured in a brawl at the club. She works at a local marine tourist park where she suffers a tragic accident during a show and wakes up in the hospital to realize that her legs have been amputated. Ali meets a guy at work who informs him about a kick boxing fixture he can make money from. Stéphanie, now in a wheelchair, is terminally depressed and gives Ali a call. Ali visits her and takes her to a beach where they swim. Over a period of time, Ali and Stéphanie spend a lot of time together and get involved in casual sex every now and then, while Ali hooks up with other women as well, being honest about it with Stéphanie. Stéphanie starts to accompany Ali to the kick boxing matches and a symbiosis forms between both of them. Stéphanie starts to feel better about herself in Ali's company and gets artificial limbs. She starts to walk again and even manages Ali's bets for kick boxing. Ali, Stéphanie and some friends visit the same night club where Ali used to work. Ali goes to the dance floor and flirts with a girl as Stéphanie watches curiously. Ali goes away with the girl leaving a dejected Stéphanie with other friends. Anna is fired from her job as the higher management comes to know of her taking home the expired food products. Anna blames Ali for this as Ali was involved in an odd job where he installed spy cameras in work areas at the direction of the management to spy on the activities of their employees. This results in a standoff between Ali and Anna's partner and Ali leaves. Sam stays with Anna while Ali goes to a training facility for kick boxers in a distant place and loses touch with Stéphanie. Sam visits Ali at his facility for a day and both are shown playing on a frozen lake. A weak spot on the frozen lake cracks and Sam falls into the lake, loses consciousness and floats on. Ali takes a while to realize that Sam is nowhere to be seen. Once he spots Sam under the frozen lake, Ali releases a desperate volley of punches to break the surface and gets an unconscious Sam out. In the process, Ali fractures his hands. Sam survives and in the hospital Ali breaks down while talking to Stéphanie on the phone and confesses his love for her after realizing that he had been cold and insensitive to her all this time. As the film closes, Ali is shown to have gone professional in kick-boxing as Sam and Stephanie stand by him in what looks like a post-fight victory ceremony.",
+      "writers": [
+         "Jacques Audiard",
+         "Thomas Bidegain"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt2053425/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTczMTU4NDUyMl5BMl5BanBnXkFtZTcwOTM5NDY0OA@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Marion Cotillard, Matthias Schoenaerts, Armand Verdure | See full cast and crew »"],
+      "reviews": [
+         "This Audiard film is one that grows on you. For quite some time into the film it seems both the film and its main characters aimlessly sit in their cocoon without breaking out. One feels some very vague potential in people but somehow their very lives seem the greatest impediments to its blossoming. One wonders what the film is about and where it is going. Like its characters, it feels like a bunch of loose ends aimlessly hanging about. But I must say that at the end of the movie it has grown on you: suddenly, as the story progresses, the film hatches, the characters break out of their cocoon and in retrospect one feels one has been witness to the improbable -and yet realistic- birth of an unusual but deep love story between two common people. The story has a hidden intensity of screenplay which is intensely performed by Schoenaerts and Cotillard. It creeps beneath your skin. If you like Audiard's way of developing gradual character drama with an intensity that seems to be implicit, buried beneath trailer-trash but still strongly present, you'll like this film. It's a story of how one can find anew a purpose in life when one feels like wasted trash. I watched this film in a full theatre of some 300 people. At the end most everybody sat silent for some minutes. It seems the film had touched something inside quite some of us there. Film as it should be.",
+         "Jacques Audiard is the maker of the sensational, Oscar-nominated movie Un Prophète. Matthias Schoenaerts is the lead actor in the sensational, Oscar-nominated movie Bullhead. Together, they now have made De rouille et d'os. Is it sensational? Well, um, yes. Will it be nominated for an Oscar? Time will tell! Like those other two movies, De rouille et d'os is about strong characters, fighting their way through life against all odds. One of those characters is played by Schoenaerts, the Flemish actor who is on the verge of his breakthrough in international cinema. At least, that's what everyone in Cannes was talking about. Next year's American remake of the Flemish blockbuster Loft might well be his ticket to Hollywood. In De rouille et d'os, Schoenaerts basically plays the same sort of character as he did in Bullhead: lots of muscles, little brainpower. In this movie, he succeeds in embarrassing, hurting or insulting everyone he cares about: his child, his sister and his girlfriend. He seems incapable of showing the least bit of empathy. His rude and insensitive way of treating other people would almost be funny, if it weren't for the sometimes dramatic consequences. The story is about the relationship between this emotionally handicapped man and a physically handicapped woman. Although they have almost opposite characters, they find each other in their mutual experience of being different from the rest. His lack of sympathy and understanding is almost an advantage for her. She lost her legs, but he doesn't ask her how she copes or if she wants a shoulder to cry on. No, he asks her if she wants to take a dive in the ocean with him. 'Do you realize what you're saying?', she replies. He answers by carrying her in his arms to the sea and letting her discover that she can swim by using only her arms. Audiard knows how to let his two lead actors excel. Schoenaerts is completely believable as a primitive macho who means well but screws everything up nevertheless. And Marion Cotillard is cast perfectly as a strong-willed woman who refuses to be confined to a wheelchair. I was amazed by her physical appearance as an amputee - you'd swear that she had her legs cut off in order to be able to make this movie. The visual effects are awesome. But apart from the acting achievements, Audiard also has some nice visual treats. Most of the time, the movie focuses on the actors, but now and then aesthetics take over. The scene with Cotillard in an orca show is an example of superb directing: the huge animals are filmed in such a way, that it becomes clear something terrible is about to happen. De rouille et d'os shows superior craftsmanship on all levels.",
+         "I watched this film at the Canes Film Festival, audience expectation was high the huge Palais auditorium completely filled. Jacques Audiard is my favourite director, as with Tahir Rahim in A Prophet and Roman Duris in The Beat that my heart skipped, Audiard managed to get an astounding performance from his male lead Schoenaerts, performed as a brutal man lacking the capability to show warmth or love to his young son and the women that cross his path, his performance as a bouncer come fist fighter for money is always believable though completely unsympathetic. You wish him to succeed though you find it hard to like him so often does his character disappoint, seemingly incapable of love and sensitivity, his straight forward requests for sex come out as comic rather than charming, but his open down-to-earth approach and honesty, often gets him what he desires. Meeting Cotillard he is met and challenged by a very strong woman, damaged she needs to find herself again, he could possibly help, at least initially physically rather than emotionally. As their characters interact throughout the film I was unsure as too who would change who, fascinating highly watchable characters struggle to prevail against bad luck and to pull themselves out of the mire of despair and poverty, my kind of film. Again a remarkable film by a master film maker, completely at ease with breaking the conventions of traditional romance.",
+         "Co-written by Audiard and Thomas Bidegain, and adapted from a collection of short stories by the American author Craig Davidson, Jacques Audiard's genuinely moving Rust and Bone is the story of two wounded people who form a bond based on recognition and acceptance of the others pain. Supported a lovely score by Alexandre Desplat, the film is marked by astonishing performances by Oscar winner Marion Cotillard as Stephanie, a young whale trainer struggling to recover from a horrendous accident, and Matthias Schoenaerts as Ali, a brutish ex-boxer who is unable to acknowledge or express his feelings. Rust and Bone is not a film that is easy to describe. It is raw and visceral � a punch in the gut, yet it is also a film of intelligence and sensitivity, certainly an art film but one that is also geared to a larger audience, to anyone who has suffered pain and loneliness. When we first meet Ali, he is a man with dreams of making it big in kickboxing, but who is now at his lowest point. Unemployed, he has just left Belgium with his five-year-old son Sam (Armand Verdure) to live with his sister Anna (Corinne Masiero) and her husband in Antibes, a French resort town on the Mediterranean. As Audiard describes him, \"he's nothing, he's a bum, he's nobody. He looks just like the people lining up at soup kitchens.\" Though Ali appears to have a good relationship wit Sam, he relates to him more like an older sibling than a responsible father, as someone able to provide unconditional love. That the film allows us to see Ali as both a man of ferocious energy and innate sensitivity, a three-dimensional human being who elicits our empathy, is a major accomplishment. Stephanie, who works as trainer of Orcas at a local marine park, is rescued by Ali from an overaggressive pursuer in the club where he is a bouncer and the two begin a tentative relationship. In a moment of honesty, Stephanie tells him that her greatest pleasure in a relationship is to be observed, \"I like being watched,\" she says. \"I like turning guys on, Get them all worked up, but then I get bored.\" The nature of their relationship, however, changes forever when Stephanie is seriously injured in an accident at the pool, losing both of her legs and, with them, her reason to live. The scene when Stephanie wakes up in the hospital to discover that her legs have been amputated is one of the most gut-wrenching I've seen. After a period of recovery, Stephanie, now fitted with artificial legs, reaches out to Ali for companionship and finds him open and receptive but brutally honest. For her, he is the only person she can trust to listen to her without judgment even though, in his brutal frankness, he tells her that she is \"dressed like a whore,\" and casually suggests that they sleep together just to see if \"she can still do it.\" Despite showing concern for her needs, Ali has moments of cruel insensitivity when he picks up a girl for a one-night stand even when Stephanie is with him, prompting her to ask him, \"Am I a friend, a pal, a buddy like the others? If we continue, we have to do it right. I mean consideration.\" Ali is determined to become a professional fighter and becomes engaged in illegal activities such as street fighting and doing surveillance work for his sleazy friend Martial (Bouli Lanners), an activity that damages his relationship with Anna and forces Stephanie to be a spectator from the sidelines. Although the film is raw, there are some moments of exquisite lyricism as captured by cinematographer Stephane Fontaine, in particular, the scene where Stephanie interacts with a killer whale through a glass partition in an underwater tank. Despite the fact that there are some contrivances and melodrama in the plot that do not mesh with the film's gritty naturalism, Rust and Bone is a stunning achievement. As Eli moves to a new level of growth, not only with Stephanie but also with Anna and Sam, a haunting picture emerges of two people whose inner strength allows a crisis in their life to turn into a spiritual awakening, an opportunity to experience a new sense of being alive. As the Greek tragedian Aeschylus expressed it, \"Pain which cannot forget falls drop by drop upon the heart until, in our despair, against our will, comes wisdom through the awful grace of God.\"",
+         "There's a moment towards the end of Rust And Bone when something awful happens, and we are about to witness the ultimate tragedy. For that couple of minutes, the rest of the movie becomes irrelevant; we are just totally immersed in this act playing out. It's a brutal but wonderful sequence and, fortunately, it's not the first time we have such a scene in the movie. That's pretty much what Rust And Bone is: a series of wonderfully brutal sequences. The movie deals with the relationship between two fragile individuals from opposite ends of life. Ali (Matthias Schoenaerts) is trying to be a better father and a better man; Stephanie (Marion Cotillard) is trying to rebuild her shattered life after a horrific accident. Their need for each other grows drastically, but their real lives threaten to get in the way. As far as story lines go, this isn't anything overly special. It's the kind of kitchen sink drama that we've seen Ken Loach and Mike Leigh do for ages. Fragile characters, broken homes, comedy out of tragedy, it's the usual stuff. Only difference here is that we're seeing it all play out in France, with French people speaking French and doing French things. But frankly, nothing is original these days; what matters more is the execution. And what sets Rust And Bone apart from other similarly-themed movies is the execution. Working class France is shot brilliantly, looking gorgeous and despairing all at the same time. The special effects are top-notch, and there is a somewhat jarring quality to the editing that really works. But what you really need to see this film for is Cotillard and Schoenaerts. I was trying to decide who I thought was the better actor in the film, but it's impossible to choose. They are both fantastic. I've never seen Matthias Schoenaerts before, but the guy is amazing. He manages to juggle pain and deadpan humour simultaneously, which is quite an achievement. Cotillard, meanwhile, is the usual perfect self that she is. Such an expressive face, and she's able to make even the hokiest of lines come off natural and genuine. I really didn't like her in The Dark Knight Rises but, clearly, she's at her best when she's speaking her natural language. They are what make these sequences brutal and wonderful, through their chemistry and ability to suck the audience in. The rest of the film is scattered with great supporting cast performances, especially Armand Verdure as Ali's son Sam. The young boy is a joy to watch, and can be added to that ever-growing list of strong pre-teen child actors. I'm pretty sure Rust And Bone has won a few awards, and deservedly so. It's amazing to watch, just because it's so fun to see brilliant performances. Like I said before, the story itself isn't probably that amazing. It's been done before; but it's done in such a way here, with those two central performances, that it feels fresh and original. You really should check it out.",
+         "I tremendously enjoyed this movie. Some people think this is a story about a girl who loses her legs. It's not. The story isn't about her. The real main character in this story perhaps is Ali, played by Matthias Schoenaerts. Well maybe it's not about him as well. What this story is definitely about is fighting. This story is not meant to be touching, it is all about coping strategies. With Ali it's really fight or flee, for Marie it's getting back on your feet after a devastating blow. Matthias does an excellent job, acting a lower class man with no real education. He is simple minded and he is quite rude, but he has a gentle side to him. I like the ink that Marie gets done, marking the stubs of her legs 'droit' and 'gauche', left and right. To me that is a subtle way of showing that she is beginning to accept her situation. I found the casting for this movie refreshing. The looks of the characters aren't perfect. I find that I am getting tired of what seems that all actors and actresses are looking less distinctive than ever.",
+         "Amazing movie! Marion Cotillard is just breathtaking. I still can't believe how beautiful this movie is. The cinematography is just stunning and the score is beautiful. The performances are incredibly powerful and real. Marion Cotillard is able to speak without saying a word and that something extremely rare! She is so expressive you can feel her pain. I think it really touched me because the movie is really real, this story seems to be able to happened to anybody and that's Audiard force. His writing skills are just amazing. Marion should get an Oscar for a performance of this magnitude.I believe she will soon become Hollywood favorite. The way she invest herself in each role she takes is an example for any actress.",
+         "Rust and Bone is new film by Jacques Audiard known largely for his breakout success A Prophet and concerns the burgeoning relationship between whale trainer Stephanie (Marion Cotillard) and street fighter Ali (Matthias Schoenaerts). If you can avoid it, it's probably best to avoid much of the plot, but given it's been fairly publicised this is fairly difficult, but this is a film that deals with disability, image and to some extent, class. It's been mentioned a lot, but what's really wonderful about this film is it's complete sidestepping of exaggerated sentimentality it could so easily fall prey to. In the wrong hands, this could be a feel-good, motivational tale of a disabled person overcoming their hardships and finding love and personal confidence with a emotionally crippled partner who learns to overcome his own shortcomings in a fantastical fairy-tale rather like another rather successful French film that was released earlier this year. In all honesty too, what I just described isn't completely far-off the narrative arc in Rust and Bone. The way the film handles its characters' emotionally however is so much more satisfying due, partly to the brilliant performances by both Cotillard and Schoenaert, but also in Audiard's writing and direction. After all, Rust and Bone is a feel-good tale eventually, but it takes a really long time to get there and doesn't revel in it. The two leads do overcome their physical and emotional traumas through their relationship but it is a slow process of recovery, one that is instantly recognisable in every day life. For a film with such a potentially over-the-top synopsis, it does incredibly well to stay focused on this small set of characters it presents us as believable and relate-able figures. It poses some fascinating questions; is street fighting really any more or less cruel than training beautiful orcas to perform tricks for our pleasure? Why do this father and son move in the first place? We only have to assume that whatever was going on before the narrative was worse than what is happening on screen. What was Stephanie like before her accident? And, like in Beasts of the Southern Wild, is being tough with your child sometimes necessary? These questions leave the film open, even though the main narrative is fairly straightforward. All in all, the sheer range of emotions this film produces is testament to it's strength. It is difficult and charming, brutal and beautiful, melancholic and humorous throughout, exactly when and where it needs to be. My only real criticism is that the narrative dips a tiny bit in the third act, once the central relationship is finally consummated (which again, takes along time and initially is very matter-of-fact in a suitably amusing scene), the narrative begins to drag its heels a tiny bit, as the film seems to completely forget about Ali's son (though his character seems to for a bit as well) but the final coda remains to avoid sentimentality in an excellent closing few scenes. The cinematography and soundtrack are pretty beautiful too, completing a fantastic triumph of an understated film. www.ravechild.co.uk",
+         "¨What have you done with my legs? ¨ Forget about Amour, Once Upon a Time in Anatolia, or A Royal Affair; the best foreign films of 2012 came from France. The first was The Intouchables, about a quadriplegic millionaire who hires the help of a young man from the projects, while Rust and Bone centers around another unlikely relationship between a killer whale trainer and a boxer. These two were my favorite foreign films by far, and I especially enjoyed this one because I am a huge fan of director Jacques Audiard who in 2009 directed the Oscar nominated A Prophet. That film was much more suspenseful as it centered on a prisoner who manages to survive inside a corrupted prison system. This time, Audiard focuses on a dramatic romantic story between two tortured souls who truly learn to live after they have suffered severe physical injuries. More than a character study, this film is a soul study as the two lead characters find healing under extremely rare circumstances. We are introduced to these characters in a very realistic manner. These people are afflicted in some way or another; they aren't your usual likable lead characters; they are deeply flawed, but we sympathize with them. Like he did in A Prophet, Audiard adapted the screenplay with the assistance of Thomas Bidegain based on the short stories from Canadian author Craig Davidson. Audiard's film was nominated for the Palm d'Or in last year's Cannes Film Festival and is really worth checking out. Some people had an issue with the ending because they thought everything fit together a little too neatly, but I thought the final act was probably the best and most satisfying part of this film. Our physical struggles and bonds can end up strengthening our tortured souls and making us better human beings. A former boxer, Alain (Matthias Schoenaerts from Bullhead), decides to move from Belgium to the south of France where his sister, Louise (Celine Sallette), lives after he is put in charge of his young son, Sam (Armand Verdure). He isn't very responsible, so he knows his sister can help him raising his son while he finds a job. He finds one as a local bouncer at a disco where he meets Stephanie (Marion Cotillard), a professional killer whale trainer at Marineland, after escorting her back home due to a brawl. They exchange numbers but don't see each other again. Alain find a job as a security guard at a local store where he meets Martial (Bouli Lanners) who convinces him to begin fighting again. Martial runs an underground kickboxing tournament where he introduces Alain and they begin making some money off it. Meanwhile Stephanie continues her life at the marine land, until she suffers a freak accident and loses both her legs. Heavily depressed she calls Alain and the two begin to form a special bond. She begins to go out more and even joins Alain when he goes off to fight. The two begin to support each other, and despite their brokenness they begin to help each other out. Audiard is a master at creating depth and pays close attention to these random characters that end up bonding with each other, but he couldn't have succeeded if it weren't for the two terrific lead performances from Matthias Schoenaerts and Marion Cotillard. Cotillard was remarkable and should have received a nomination, and somehow Schoenaerts manages to make his character likable despite all his flaws. There is something in the way he treats Stephanie that seems to erase all his flaws and make us want him to achieve his personal goals. The actors managed to create a rather unique and authentic relationship and for me it worked really well. Every scene that at first felt unnecessary seems to have a purpose or a symbolism later on, like the way Alain looked at Stephanie's legs when he was escorting her home. Later he wins a fight he was about to lose when he catches a glimpse of Stephanie's prosthetic legs. Somehow in the midst of pain, he finds greater strength, and that is what makes this film so appealing. Everything which seemed so random at first seems to come together perfectly at the end. This is one of those films that stay with you long after the credits roll, and it is deeply touching and moving. This is one of those films that is driven by the performances and the overall narrative of the story. The visual effects of Cotillard 's legs (or lack thereof) are also pretty well done. Everything about this film makes it one you will definitely want to check out. It is real, it is raw, and it is touching. http://estebueno10.blogspot.com/",
+         "Marion Cotillard in \"Rust And Bone\" gave my favorite performance in a long, long time. She is astonishing. Her performance here touched a personal cord with me and reminded me of actresses who've been able to transform me. Yes, that's exactly what she's done, transform me. She was able to awaken my sense of compassion and admiration. Simone Signnoret in \"Room At The Top\", Annie Girardot in \"Rocco And His Brothers\" Samantha Eggar in \"The Collector\", Charlotte Rampling in \"The Night Porter\" Those performances by those actresses not only instructed me as a man but inspired me. Now Marion Cotillard has done it again for me and I'm very grateful. As a bizarre note, she has been ignored by the Oscars, how is that possible?"
+      ],
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Why Not Productions",
+         "Page 114",
+         "France 2 Cinéma"
+      ],
+      "summaries": ["Put in charge of his young son, Alain leaves Belgium for Antibes to live with his sister and her husband as a family. Alain's bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident."],
+      "budget": 15400000
+   },
+   "movielensId": 97024,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français",
+         "Polski"
+      ],
+      "releaseDate": "2012-05-17",
+      "dvdReleaseDate": null,
+      "directors": ["Jacques Audiard"],
+      "runtime": 123,
+      "movieId": 97024,
+      "title": "Rust and Bone",
+      "mpaa": "R",
+      "actors": [
+         "Marion Cotillard",
+         "Matthias Schoenaerts",
+         "Bouli Lanners",
+         "Céline Sallette",
+         "Corinne Masiero",
+         "Mourad Frarema",
+         "Jean-Michel Correia",
+         "Armand Verdure",
+         "Yannick Choirat",
+         "Fred Menut",
+         "Duncan Versteegh",
+         "Katia Chaperon",
+         "Catherine Fa",
+         "Françoise Michaud"
+      ],
+      "imdbMovieId": "2053425",
+      "originalTitle": "De rouille et d'os",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [
+         "1u74RX6o-8I",
+         "nwosYuH0bME"
+      ],
+      "plotSummary": "Put in charge of his young son, Ali leaves Belgium for Antibes to live with his sister and her husband as a family. Ali's bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.",
+      "tmdbMovieId": 97365,
+      "avgRating": 3.69342,
+      "releaseYear": "2012",
+      "numRatings": 486,
+      "posterPath": "/cHCwW8xPl8yPKQwpNzKVinwvirT.jpg"
+   }
+}

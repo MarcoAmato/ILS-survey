@@ -1,0 +1,469 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "cyborg",
+            "id": 679
+         },
+         {
+            "name": "killer robot",
+            "id": 1373
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "violence in schools",
+            "id": 7920
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "teacher",
+            "id": 10508
+         },
+         {
+            "name": "school",
+            "id": 10873
+         },
+         {
+            "name": "b movie",
+            "id": 11034
+         },
+         {
+            "name": "cyberpunk",
+            "id": 12190
+         },
+         {
+            "name": "los angeles",
+            "id": 12670
+         },
+         {
+            "name": "robot",
+            "id": 14544
+         },
+         {
+            "name": "juvenile delinquent",
+            "id": 14857
+         },
+         {
+            "name": "drugs",
+            "id": 14964
+         },
+         {
+            "name": "gang warfare",
+            "id": 167254
+         },
+         {
+            "name": "parolee",
+            "id": 190161
+         }
+      ],
+      "imdb_id": "tt0099277",
+      "video": false,
+      "title": "Class of 1999",
+      "recommendations": [
+         61954,
+         28260,
+         28762,
+         11429,
+         11564,
+         40037,
+         18111,
+         40168,
+         16191,
+         24929,
+         27814,
+         10496,
+         15158,
+         26680,
+         38996,
+         14929,
+         5898,
+         18502,
+         28090,
+         17796
+      ],
+      "backdrop_path": "/1Ou24Ps36rtfRl8mAbRQG1uLv0m.jpg",
+      "revenue": 2459895,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Cody Culp",
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e0225f7",
+               "name": "Bradley Gregg",
+               "profile_path": "/l4vc0U4XQ7t07pqekPPVehzs0R.jpg",
+               "id": 3039,
+               "order": 0
+            },
+            {
+               "cast_id": 9,
+               "character": "Christie Longford",
+               "gender": 1,
+               "credit_id": "52fe446dc3a368484e0225fb",
+               "name": "Traci Lind",
+               "profile_path": "/miY35kDAwcTdp2uKYmPEtbhQwUt.jpg",
+               "id": 64062,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Dr. Miles Longford",
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e0225ff",
+               "name": "Malcolm McDowell",
+               "profile_path": "/lnVJ6J8szi86ssDTfyvZSl8lnlr.jpg",
+               "id": 56890,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Dr. Bob Forrest",
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e022603",
+               "name": "Stacy Keach",
+               "profile_path": "/9G0urAVBBP9FRX1wrxkdZCj3VCW.jpg",
+               "id": 825,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Mr. Bryles",
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e022607",
+               "name": "Patrick Kilpatrick",
+               "profile_path": "/wEu61ecaSkCN1mD4vXf5WlrUKTV.jpg",
+               "id": 32286,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Ms. Connors",
+               "gender": 1,
+               "credit_id": "52fe446dc3a368484e02260b",
+               "name": "Pam Grier",
+               "profile_path": "/k4oITsTAfhmYICLkFBvgotnEcpU.jpg",
+               "id": 2230,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Mr. Hardin",
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e02260f",
+               "name": "John P. Ryan",
+               "profile_path": "/lMdObPGv8eNscCpC0ICYSc01t75.jpg",
+               "id": 15213,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Sonny",
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e022613",
+               "name": "Darren E. Burrows",
+               "profile_path": "/mTP6XXcwNyoxrLzKXr25DKHa7bl.jpg",
+               "id": 16428,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Angel",
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e022617",
+               "name": "Joshua John Miller",
+               "profile_path": "/aAz5KohDThwXnC17feZvPrXEj8C.jpg",
+               "id": 93151,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Flavio",
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e02261b",
+               "name": "Brent David Fraser",
+               "profile_path": null,
+               "id": 42140,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Curt",
+               "gender": 0,
+               "credit_id": "52fe446dc3a368484e02261f",
+               "name": "Jason Oliver",
+               "profile_path": null,
+               "id": 3040,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Dawn",
+               "gender": 1,
+               "credit_id": "52fe446dc3a368484e022623",
+               "name": "Jill Gatsby",
+               "profile_path": null,
+               "id": 102648,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Mohawk",
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e022627",
+               "name": "Sean Sullivan",
+               "profile_path": "/stYTM5pmC6SH9iTcz8hSoF6Te0h.jpg",
+               "id": 2456,
+               "order": 12
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e0225db",
+               "name": "Mark L. Lester",
+               "profile_path": null,
+               "id": 67753,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e0225e1",
+               "name": "Mark L. Lester",
+               "profile_path": null,
+               "id": 67753,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e0225e7",
+               "name": "Mark L. Lester",
+               "profile_path": null,
+               "id": 67753,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e0225ed",
+               "name": "C. Courtney Joyner",
+               "profile_path": null,
+               "id": 19713,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e0225f3",
+               "name": "Lawrence Kasanoff",
+               "profile_path": null,
+               "id": 43518,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446dc3a368484e02262d",
+               "name": "Ellen Steloff",
+               "profile_path": null,
+               "id": 1183575,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e022633",
+               "name": "Michael Hoenig",
+               "profile_path": null,
+               "id": 52953,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e022639",
+               "name": "Mark Irwin",
+               "profile_path": null,
+               "id": 7413,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446dc3a368484e02263f",
+               "name": "Scott Conrad",
+               "profile_path": null,
+               "id": 16515,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 3.820738,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 23535,
+      "vote_count": 58,
+      "budget": 5200000,
+      "overview": "The time is in the future and the youth gang violence is so high that the areas around some schools have become \"free-fire zones\", into which not even the police will venture. When Miles Langford, the head of Kennedy High School, decides to take his school back from the gangs, robotics specialist Dr. Robert Forrest provides \"tactical education units\". These are amazingly human-like androids that have been programmed to teach and are supplied with devastatingly effective solutions to discipline problems. So when he violent, out-of-control students of Kennedy High report for class tomorrow, they're going to get a real education... in staying alive!",
+      "similar": [
+         281,
+         2048,
+         19959,
+         59967,
+         19,
+         562,
+         97020,
+         101299,
+         157336,
+         262543,
+         339692,
+         180,
+         335984,
+         238636,
+         4997,
+         215379,
+         1090,
+         9739,
+         1266,
+         9507
+      ],
+      "original_title": "Class of 1999",
+      "runtime": 99,
+      "poster_path": "/y1cseIDDPCvJi06crHQ2E2O3h1Z.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Lightning Pictures",
+            "id": 4233,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Original Pictures",
+            "id": 4234,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1990-05-11",
+      "vote_average": 6.1,
+      "belongs_to_collection": {
+         "backdrop_path": "/jhIs07JzevH7IYMrZTPOR6BL7II.jpg",
+         "name": "Class of 1999 Collection",
+         "id": 164397,
+         "poster_path": "/lwwpChWOY4mtGRp1YAFhZ52nlbE.jpg"
+      },
+      "tagline": "Staying after school can be deadly!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Mark L. Lester"],
+      "runtime": 99,
+      "synopsis": "In a future world in Seattle the High Schools are one step above the prisons. In a new program to insure that students will come to class and remain alert to their subjects, Dr. Bob Forrest (Stacy Keach) has adapted Cyborgs from military research and development and made them into teachers. The head of the High School program Dr. Miles Langford (Malcolm McDowell) loves the idea mainly because his high school is rampant with gangs, and his daughter Christine (Traci Lind) is one of the students. When local high school tough Cody Culp (Bradley Gregg) is released from jail and back into the high school system he immediately is confronted by his old drug-addled and violence-prone school mates, but when he discovers how the new drug called the Edge has affected them and particularly his own mother, he begins to have a change of heart. This change of heart is also helped by Cody's friendship with Christine who sees the good inside of the damaged soul of Cody and works to bond with him. When the three Cyborgs Ms. Connors (Pam Grier), Mr. Bryles (Patrick Kilpatrick), and Mr. Hardin (John Ryan) demonstrate homicidal solutions to student misbehavior Cody and Christine join together to uncover the true nature of these instructors and discover that they will have to fight for their lives to make high school a better place.",
+      "writers": [
+         "Mark L. Lester",
+         "C. Courtney Joyner"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0099277/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg1NDc2MDk5OV5BMl5BanBnXkFtZTgwMzY1NTk4NjE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Bradley Gregg, Traci Lind, Malcolm McDowell | See full cast and crew »"],
+      "reviews": [
+         "I remember watching it on SKY (satellite) at about 1.30 am, and being amazed by what i saw.A film that had good characters, a good story line and cool visual affects, a class flick! And nothing has changed, except for the fact that there have been better films made since then. Bradley Gregg playing Cody Culp was for some reason a character that i wanted to be because he was a thug and considered cool. I liked the relationship he had with his former gangmembers and his enemies the RAZOR HEADS! (classic names) Stacey Keach played the \"mad proffessor\" down to a T, as if it was written exclusively for him. surprisingly this is the best film i have seen Patrick Kilpatick play in, EVER! Pam Grier's role was fine but should have been played someone else.(Sharon Stone) Mr HARDY was a scream, a classic bad guy if ever i saw one. The ending could have been a bit better though. \"I was there, he was so wasted he would'nt have known which end the bullets come out!\" one of my favourite lines, all in all a great film which had a few surprises which were all enjoyable. 7/10 Thanks for reading.",
+         "I hate the term guilty pleasure when it comes to discussion about movies. I mean if you like a film then why should you feel guilty about it? If you are sensible enough to know that a disregarded film is poor on production and story yet entertains you then that is all there is to it really. One such case for myself is with Class Of 1999, Mark L. Lester's loose sci-fi sequel to his own Class Of 1984. I really couldn't recommend this film to anyone with confidence, I just know that I love it, have done since I rented it out of curiosity on VHS many years ago. The film basically is set in bad future Seattle where anarchy reins in our schools. So into the mix comes three robot teachers on a secretive trial basis, their form of discipline is tough but appears to be working. But things start to go wrong as the teachers start to revert to their battle droid beginnings and it all spirals out of control as they take on the might of the two warring gangs operating out of Kennedy High School. Think of it as a mixture of Escape From New York and The Terminator and you will be in the same ball park. Tho for the record this is not even close to being as good as either of those movies. Lester's movie actually, in spite of its reviled reputation, comes with some good acting credentials. Malcolm McDowell, Stacy Keach and Pam Grier are the \"name\" actors, while Patrick Kilpatrick and the cool Bradley Gregg are familiar faces that have fun with the material. It's violent and sweary and full of cheesy dialogue, and naturally the sci-fi led effects are cheap and in keeping with the budget. It's the sort of film that now would go straight to DVD without so much as a blink of an eye. But once a fan of it, you are always a fan of it, because true love never dies. Acquired taste? For sure. Coolly anarchic in a B movie way? Definitely. So \"jump me in, jump me in now\". 8/10",
+         "If you've grown up with trashy no brainer films like this one and Lesters even poorer effort Commando, you'll love this. Its cheesy, over the top and light hearted enough to make for a great bored night in with illegal substances. The acting is hammy, the direction poor, but what saves this film is the exact things that make is a catastrophy. I mean, don't be expecting \"Its a Wonderful Life\" or \"The Green Mile\" when you watch this. Just expect a nice straight forward action flick about psychotic robot teachers. Everything about this film is great, its intense, dark and fun. Its not surprising to see people here have ripped it apart, but with a name like Class of 1999, what did you expect?? Summary: watch it for a giggle, its really not that bad.",
+         "It's the year 1999 and the violence in schools is virtually now unstoppable with many gangs contributing to the war zone look. To control this problem in a Settle High school, a principal gets help from the board of Government Educational defence and three disguised androids are sent there. They are no ordinary robots that are just there to teach, but they have strong disciplinary actions to keep these savage students at bay. Although soon the punishment that these androids hand out becomes brutal and they decide to terminate the main problem by playing games on the students. Director Mark L. Lester returns here to provide us with a sequel to his cult classic \"Class Of 84\". This really isn't a direct sequel and it's not up to scratch with the first. The original is basically far superior in every way. Though, that's not saying it's worthless, because it's not. Trashy, incredibly dumb and over-the-top, but it surely was an entertaining B-grade Sci-fi. Even if the characters and plot seem to lose out to the violence and special effects. They are executed very well by fusing together plentiful action and chaos. Just like the first it doesn't shy away from graphic violence, but the realistic and exploitive touch of the first is lost on this occasion. While, the special effects are very well conceived in this low-budget production. The robot designs were crafted with great detail and skill. Another notable thing that makes this worth a peek is that of the cast. What a stellar line-up it does boast. You got Malcolm McDowell, Stacy Keach, Pam Grier, John P. Ryan, Patrick Kilpatrick and Joshua Millar appearing. Now the big question is how did these names get involved in the production? The characterizations are weak, but Grier, Ryan and Kilpatrick spice it up as the hell bent androids and Keach gives a deviously cheesy performance as the cynical Dr. Bob Forrest, the creator of these robots. The teenagers here are basically paper-thin and lack the menace. Bradley Gregg plays the hero, and that's a very wooden and unappealing one too. The predictable premise is more concern about keeping the eyes entertained with explosions, gunfire and dazzling effects amongst an apocalyptic background. The satirical comments are there, but it just lacks the venom in the context and it doesn't have the hard ass poetry of the original. It takes a look into the future to see how the higher officials would cope with this problem and it shows the hypocritical reaction that now aggression is the best way to defeat this problem. Like others have mentioned it adds a pinch of \"The Terminator\", \"Westworld\" and \"The Warriors\" to the story's set-up and viola - you got \"Class of 1999\". The hammy dialog is bad and seems to be on pun overload; with something being mentioned every couple lines. Stacy Keach is the one that drums out the campy dialog beautifully, though. The humour too is terribly off the rocker. The soundtrack sticks with the punk scene and rock grunge, but it isn't so enforcing and catchy. Because of the budget it does have very grimy look that works in well with the flick. Director Lester constructed adequate suspense and paces the film rather smoothly, with enough neat flashes of gore in the mix. Overall, I was expecting something very weak, but hell this was one bone-rattling ride. Maybe it's not as memorable, interactive and shocking as its great predecessor, but this kitsch sequel, which could possibly stand-alone. Hooks you right in because of the profound visuals and strong cast.",
+         "Recent teenage parolee Cody Culp returns to his anarchistic futuristic hood to find himself disgusted with his home life, alienated from his former gang(probably to his relief), and threatened by the school's newest bullies: three robotic teachers, implemented by the government to restore discipline, only consolation being his budding romance with the principal's daughter--perpetually gorgeous Tracy Lin. As always, whenever players take the material as seriously as these actors do, the potentially mediocre is propelled to a new level. The performance by vastly unappreciated and underused Bradley Gregg rivals that of the more experienced Ryan, Grier, and Kilpatrick(with McDowell typically good, but all too often idle). I've always held that the reason there was and remains so much dissatisfaction with this movie is that too many people watched it with the wrong expectations. Preparing for some silliness and expecting some substandard effects is the starting point with one like this. Reason being: to get past the frequent implausibility is to put yourself in a position to recognize the uniqueness and innovation. Taking the deliberate cheese with a grain of salt, one can appreciate opportunities when it is earnest. If anything truly hurts this movie, it's the boring pseudo-military battle scenes. They would have been wise to leave this stuff to the only films suited to do them properly--war films, but instead have introduced out-of-place time wasters in which neither side has evoked any sympathy anyway. That said, Class Of 1999 is still a shoulda-been camp classic not to be missed. Then again, should any movie featuring knockout Tracy Lin be missed?",
+         "You don't get any more hammy than this. Amongst all the trash of straight to video releases, you ocassionaly find a concept like this. A guy walks out of prison, and heads back to school to find that cyborg teachers are taking the code of the classroom a little to far. Schools in many American districts are regarded as \"Free-fire zones\" and the police won't even intervene in the deadly gang warfare that ensues whenever school is not on. No one ever asks \"Why do these kids even bother going to school\", but at this point, who cares? This is a gritty view of the future, with the kind of ironic humour that has made Verhoeven millions, if he had directed this it would have been the next Robocop. The cast shine with the likes of Malcolm MacDowell, Pam Grier and Stacey Keach and in the leading role is charasmatic Corey Feldman-clone, Bradley Gregg. Everyone is having fun with this movie and it is this attitude that makes it so watchable. A pumping rock soundtrack including Nine Inch Nails debut single pads this out even further. Great lines ooze from the script; I'll leave you with one of my favourites: \"I'm going to go waste some teachers. Who's with me!\"",
+         "In 1999 (I think) things have gotten so bad that as a last resort, robots have been brought in to teach students. This is all thanks to Bob Forrest (Stacy Keach) who hopes that he can sell his robots to other problem ridden schools, however when the robots (John P. Ryan, Pam Grier and Patrick Kilpatrick) starting killing students for being late and start pitting gangs against each other, it's up to Cody (Bradley Gregg) to reunite the gangs and waste the \"George Jetson nightmare!\" Also the robots have killed his brothers and kidnapped his girlfriend Kristi (Traci Lin) so Cody's looking for revenge in this exciting and admittedly silly actioner. There are few genres that amuse me more than deadly teachers whipping bad kids in shape. The Principal, Substitute movies and so forth are sources of guilty pleasures, Class 99 is no different, since the androids are played by cool actors such as John P. Ryan, Pam Grier and Patrick Kilpatrick. The teenagers themselves don't really convince as punks but there is lots of action and it's all directed with the most possible gore, this was after all from Mark L. Lester (Commando and Showdown In Little Tokyo) so despite the obvious fact that this movie is even more poorly made than it's own sequel (Which stars Kickboxer 2's Sasha Mitchell) the fact is that this far more entertaining and is perfect for those who hate teenagers and want to see them get disposed of in the most grisly way. I for one find that to be great entertainment. 3/5 Matt Bronson",
+         "I thought that this film was great. Even better since it was about 1999 and it was made in 1990. The futuristic flavor is appealing as well as the love story that occurs. I think this movie was one of the greatest ever made, to bad I was only like 5 when it came out! I also checked the IMDB and it doesn't look like many of the actors in this film had much of a career after this movie, so to the I hope they have future success! And for the movie I hope for many years of airplay on the movie channels like HBO, Showtime, TMC, Starz, Cinimax, and Flix!",
+         "Bright fluorescent bandannas, tough talk, rival gang wars, guns, guns, guns, and a rocket launcher. Several major cities have such massive gang activity that they have been deemed \"free-fire zones\" where the authority just threw their hands up and said \"screw it, they can just have it, we are outa here!\". Yet the gang bangers are required to go to school. I mean, think of it. You can shoot people, start fires, crank on as many drugs as you want. However if you skip class, you're in big trouble mister. Regardless, for a movie of its time it was really well put together. We cannot compare this type of movie to modern cinema. There is no cgi. It's makeup and animatronics. Cheesy as it is today, I feel that this class of 1999 makes for a great spot in anyone's movie library.",
+         "Pam Grier, Patrick Kilkpatrick and John P. Ryan have a laughably fun time playing three cybernetic military soldiers programmed as teachers in order to gain control of the widespread gang problem within the inner-city schools. Its 1999, and a 'Mad Max'-like environment is the stage for this violent science fiction shoot-em-up action film. Principal, Malcolm McDowell collaborates with crazy-eyed Stacy Keach to place robots disguised as the faculty to discipline juvenile delinquents, but the mechanical mentors eventually malfunction and revert back to their militaristic programming and target the gang-member youths as the enemy. Its a fight for survival as gang leader, Bradley Gregg and girlfriend, Traci Lind must kill or be killed while the trio hunts them down through the hallways and classrooms of the schoolhouse. Its an entertaining little romp with some good gore and non-stop action, and the effects get interesting when the cyborgs activate their \"XT-6 Hardware\" for the climatic battle. Class is definitely dismissed with Pam Grier as a real \"bionic bitch\", \"killer Kilpatrick\", and \"raging robot Ryan\" are prowling the campus, so you'd better have a hall-pass! The unrated version has a tad more gore, so true 'Terminator' students can get the most from their learning experience."
+      ],
+      "genres": [
+         "Action",
+         "Horror",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Lightning Pictures",
+         "Original Pictures",
+         "Vestron Pictures"
+      ],
+      "summaries": ["Robot teachers have been secretly placed in the schools where the students have run riot. The teachers do a good job of controlling the unruly youngsters, until they go too far and some students get suspicious."],
+      "budget": 5200000
+   },
+   "movielensId": 104085,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1990-05-11",
+      "dvdReleaseDate": "2008-09-16",
+      "directors": ["Mark L. Lester"],
+      "runtime": 99,
+      "movieId": 104085,
+      "title": "Class of 1999",
+      "mpaa": "R",
+      "actors": [
+         "Bradley Gregg",
+         "Traci Lind",
+         "Malcolm McDowell",
+         "Stacy Keach",
+         "Patrick Kilpatrick",
+         "Pam Grier",
+         "John P. Ryan",
+         "Darren E. Burrows",
+         "Joshua John Miller",
+         "Brent David Fraser",
+         "Jason Oliver",
+         "Jill Gatsby",
+         "Sean Sullivan"
+      ],
+      "imdbMovieId": "0099277",
+      "originalTitle": "Class of 1999",
+      "genres": [
+         "Science Fiction",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["WOzrd-CE-pM"],
+      "plotSummary": "The time is in the future and the youth gang violence is so high that the areas around some schools have become \"free-fire zones\", into which not even the police will venture. When Miles Langford, the head of Kennedy High School, decides to take his school back from the gangs, robotics specialist Dr. Robert Forrest provides \"tactical education units\". These are amazingly human-like androids that have been programmed to teach and are supplied with devastatingly effective solutions to discipline problems. So when he violent, out-of-control students of Kennedy High report for class tomorrow, they're going to get a real education... in staying alive!",
+      "tmdbMovieId": 23535,
+      "avgRating": 3.05263,
+      "releaseYear": "1990",
+      "numRatings": 19,
+      "posterPath": "/c2KF7Nb6tbLWR7FLh0FXYl3AqAE.jpg"
+   }
+}
