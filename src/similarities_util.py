@@ -82,8 +82,8 @@ def get_similarities_of_movies(similarities: DataFrame, list_of_movies: List[int
 
     rows_read: int = 0
     for index, similarity_row in similarities.iterrows():
-        # if rows_read % 100000 == 0:
-        # print(f"{rows_read} rows read")
+        if rows_read % 100000 == 0:
+            print(f"{rows_read} rows read")
         rows_read += 1
         if similarity_row.movie1 in list_of_movies and similarity_row.movie2 in list_of_movies:
             # similarity of 2 movies in list_of_movies
@@ -134,7 +134,7 @@ def read_movies_from_csv(path: str) -> List[DataFrame]:
 def get_similar_movies(movies_dataframes: List[DataFrame]) -> List[int]:
     """
     Returns list of movie ids who are inserted in the column "recommendations" for the movies
-    passed as movies_ids
+    passed as movies_dataframes
     @param movies_dataframes: List of movie Dataframe to check for recommendations
     """
     similarities_for_list: Set[int] = set()
@@ -165,11 +165,11 @@ def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
     """
     movies: List[DataFrame] = []
     for movie_id in list_of_movies:
-        movies.append(get_movie_from_top100(movie_id))
+        movies.append(get_movie_from_json_folder(movie_id, PATH_TO_TOP_100_MOVIES_JSON))
     return movies
 
 
-def get_movie(movie_id: int) -> DataFrame:
+def get_movie_dataframe_from_id(movie_id: int) -> DataFrame:
     """
     Return dataframe of movie
     :param movie_id: id of movie
@@ -179,13 +179,13 @@ def get_movie(movie_id: int) -> DataFrame:
     return pd.read_json(path)
 
 
-def get_movie_from_top100(movie_id: int) -> DataFrame:
+def get_movie_from_json_folder(movie_id: int, path: str) -> DataFrame:
     """
     Return dataframe of movie reading the path
-    :param movie_id: id of movie
-    :return: dataframe of movie
+    @param movie_id: id of movie
+    @param path: path where the JSON folder is
     """
-    path: str = PATH_TO_TOP_100_SIMILARITIES_JSON + str(movie_id) + ".json"
+    path: str = path + str(movie_id) + ".json"
     return pd.read_json(path)
 
 
@@ -204,7 +204,7 @@ def print_movie_with_info(movie_id: int, columns_to_print: List[str]) -> None:
     @param movie_id: Id of movie to print
     @param columns_to_print: List of columns to print
     """
-    movie_df: DataFrame = get_movie(movie_id)
+    movie_df: DataFrame = get_movie_dataframe_from_id(movie_id)
     print("++++++++++")
     print("Movie: " + get_name_of_movie(movie_df))
     for column in columns_to_print:

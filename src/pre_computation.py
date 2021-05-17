@@ -4,7 +4,8 @@ from typing import Dict, List, Set
 from pandas import DataFrame, Series
 
 from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_mean_similarity, get_movies_from_df, \
-    COLUMNS_SIMILARITY, get_movie, get_similarity_dataframe, read_movie_ids_from_csv, PATH_TO_ALL_MOVIES_ID, \
+    COLUMNS_SIMILARITY, get_movie_dataframe_from_id, get_similarity_dataframe, read_movie_ids_from_csv, \
+    PATH_TO_ALL_MOVIES_ID, \
     PATH_TO_SIMILARITY_MPG, PATH_TO_TOP_100_MOVIES_ID, \
     get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_MOVIES_JSON, read_movies_from_csv, \
     get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId, PATH_TO_SIM_100_SIMILARITIES, \
@@ -121,7 +122,7 @@ def get_popularity_dict() -> Dict[int, float]:
     popularity_dict: Dict[int, float] = {}  # dictionary of movie id as key, popularity as value
 
     for movie_id in movie_ids:
-        movie: DataFrame = get_movie(movie_id)  # get movie as Dataframe
+        movie: DataFrame = get_movie_dataframe_from_id(movie_id)  # get movie as Dataframe
         popularity: float = movie['tmdb']['popularity']  # get popularity value
         popularity_dict[movie_id] = popularity  # add entry to dictionary
 
@@ -208,19 +209,21 @@ def write_top_100_mpg_plus_similarities() -> None:
     # get ids of recommended movies via JSON
     ids_recommended_movies_from_top100: List[int] = get_similar_movies(top_100_movies)
 
-    # get ids of top 100 + recommendations without duplicates via set union
-    top_100_plus_similarities_tmdb: List[int] = \
-        list(set(top_100_movies_ids).union(set(ids_recommended_movies_from_top100)))
+    # get ids of top 100 recommendations without duplicates via set union
+    top_100_similarities_tmdb: List[int] = list(set(ids_recommended_movies_from_top100))
+    # convert tmdb id to movieId
+    top_100_plus_similarities_movieId: List[int] = convert_tbdb_to_movieId(top_100_similarities_tmdb)
 
-    top_100_plus_similarities_movieId: List[int] = convert_tbdb_to_movieId(top_100_plus_similarities_tmdb)
+    top_100_plus_similarities: List[int] = \
+        list(set(top_100_movies_ids).union(set(top_100_plus_similarities_movieId)))
 
     # write movie ids
-    write_movie_ids_to_csv(top_100_plus_similarities_movieId, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID)
+    write_movie_ids_to_csv(top_100_plus_similarities, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID)
 
     # write similarities
-    # write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID,
-    #                              path_to_write=PATH_TO_SIM_100_SIMILARITIES,
-    #                              path_to_similarities=PATH_TO_SIMILARITY_MPG)
+    write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID,
+                                 path_to_write=PATH_TO_SIM_100_SIMILARITIES,
+                                 path_to_similarities=PATH_TO_SIMILARITY_MPG)
 
     # copies json of movies
     copy_movies(top_100_plus_similarities_movieId,
@@ -231,3 +234,4 @@ def write_top_100_mpg_plus_similarities() -> None:
 
 if __name__ == "__main__":
     print("pre computation starts")
+    write_top_100_mpg_plus_similarities()
