@@ -128,7 +128,7 @@ def read_movies_from_csv(path: str) -> List[DataFrame]:
     :return: Dataframe of movies
     """
     movie_ids: List[int] = read_movie_ids_from_csv(path)
-    return get_movies_by_id(movie_ids)
+    return get_movies_by_id(movie_ids, path)
 
 
 def get_similar_movies(movies_dataframes: List[DataFrame]) -> List[int]:
@@ -157,15 +157,15 @@ def convert_tbdb_to_movieId(movie_ids_tmdb: List[int]) -> List[int]:
     return movie_ids_movieId
 
 
-def get_movies_by_id(list_of_movies: List[int]) -> List[DataFrame]:
+def get_movies_by_id(list_of_movies: List[int], path_to_movies: str) -> List[DataFrame]:
     """
     Return dataframe of movies whose ids were passed by list_of_movies
-    :param list_of_movies: list of movie ids
-    :returns list of dataframe of movies
+    @param list_of_movies: List of movies to get
+    @param path_to_movies: path where json are
     """
     movies: List[DataFrame] = []
     for movie_id in list_of_movies:
-        movies.append(get_movie_from_json_folder(movie_id, PATH_TO_TOP_100_MOVIES_JSON))
+        movies.append(get_movie_from_json_folder(movie_id, path_to_movies))
     return movies
 
 
@@ -186,6 +186,7 @@ def get_movie_from_json_folder(movie_id: int, path: str) -> DataFrame:
     @param path: path where the JSON folder is
     """
     path: str = path + str(movie_id) + ".json"
+    print(path)
     return pd.read_json(path)
 
 
@@ -281,12 +282,13 @@ def test_top_10_movies():
     print(ILS_g)
 
 
-def print_names_of_movies(movie_ids: List[int]) -> None:
+def print_names_of_movies(movie_ids: List[int], path_to_movies) -> None:
     """
     Prints names of movies whose ids are in movie_ids
+    @param path_to_movies: path where movies json are
     @param movie_ids: ids of movies
     """
-    movies_dataframes: List[DataFrame] = get_movies_by_id(movie_ids)
+    movies_dataframes: List[DataFrame] = get_movies_by_id(movie_ids, path_to_movies)
     for movie in movies_dataframes:
         movie_name: str = get_name_of_movie(movie)
         print("\t" + movie_name)
@@ -303,12 +305,12 @@ def print_ils_top_100_MPG() -> None:
     top_100_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     sample_list_of_movies: List[int] = sample(top_100_movie_ids, MOVIES_LIST_LENGTH)
 
-    print_ILS_measures(sample_list_of_movies, similarities_df)
+    print_ILS_measures(sample_list_of_movies, similarities_df, PATH_TO_TOP_100_MOVIES_JSON)
 
 
-def print_ILS_measures(movies: List[int], similarity_df: DataFrame) -> None:
+def print_ILS_measures(movies: List[int], similarity_df: DataFrame, path_to_movies: str) -> None:
     print("movies: ")
-    print_names_of_movies(movies)
+    print_names_of_movies(movies, path_to_movies)
 
     ILS_m: float = get_ILS(similarity_df, movies, "mean")
     print("ILS using mean of similarities: ")
@@ -354,4 +356,4 @@ def get_ILS_from_ids() -> None:
 
     print("Computing_ILS")
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
-    print_ILS_measures(list_of_movies, similarity_df)
+    print_ILS_measures(list_of_movies, similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
