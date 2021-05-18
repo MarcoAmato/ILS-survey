@@ -37,10 +37,10 @@ if __name__ == "__main__":
 
     for key in similarities_value_suspect:
         movie1: str = f"Movie {key[0]} name: \n\t" + \
-                      similarities_util.get_name_of_movie(similarities_util.get_movie_dataframe_from_id(key[0]))
+                      similarities_util.get_movie_name(similarities_util.get_movie_dataframe_from_id(key[0]))
         print(movie1)
         movie2: str = f"Movie {key[1]} name: \n\t" + \
-                      similarities_util.get_name_of_movie(similarities_util.get_movie_dataframe_from_id(key[1]))
+                      similarities_util.get_movie_name(similarities_util.get_movie_dataframe_from_id(key[1]))
         print(movie2)
         print("Columns with suspicious values")
         print(similarities_value_suspect[key])

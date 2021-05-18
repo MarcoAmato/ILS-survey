@@ -2,7 +2,7 @@ from random import sample
 import pandas as pd
 from os.path import dirname, realpath
 from pandas import DataFrame, Series
-from typing import List, Set
+from typing import List, Set, Optional
 
 # folders
 # folder where script is/data folder
@@ -82,8 +82,8 @@ def get_similarities_of_movies(similarities: DataFrame, list_of_movies: List[int
 
     rows_read: int = 0
     for index, similarity_row in similarities.iterrows():
-        if rows_read % 100000 == 0:
-            print(f"{rows_read} rows read")
+        # if rows_read % 100000 == 0:
+        #     print(f"{rows_read} rows read")
         rows_read += 1
         if similarity_row.movie1 in list_of_movies and similarity_row.movie2 in list_of_movies:
             # similarity of 2 movies in list_of_movies
@@ -121,14 +121,15 @@ def read_movie_ids_from_csv(path: str) -> List[int]:
     return series.tolist()
 
 
-def read_movies_from_csv(path: str) -> List[DataFrame]:
+def read_movies_from_csv(path_to_movie_ids: str, path_to_json: str) -> List[DataFrame]:
     """
     Returns dataframe movies whose ids are in path
-    :param path: path where movie ids are
+    :param path_to_movie_ids: path where movie ids are
+    :@param path_to_json: path where jsons are
     :return: Dataframe of movies
     """
-    movie_ids: List[int] = read_movie_ids_from_csv(path)
-    return get_movies_by_id(movie_ids, path)
+    movie_ids: List[int] = read_movie_ids_from_csv(path_to_movie_ids)
+    return get_movies_by_id(movie_ids, path_to_json)
 
 
 def get_similar_movies(movies_dataframes: List[DataFrame]) -> List[int]:
@@ -152,8 +153,7 @@ def convert_tbdb_to_movieId(movie_ids_tmdb: List[int]) -> List[int]:
     """
     links_csv: DataFrame = pd.read_csv(PATH_TO_LINK)
     rows_of_movies: DataFrame = links_csv.loc[links_csv['tmdbId'].isin(movie_ids_tmdb)]
-    print(rows_of_movies)
-    movie_ids_movieId: List[int] = rows_of_movies['movieId']
+    movie_ids_movieId: List[int] = list(rows_of_movies['movieId'])
     return movie_ids_movieId
 
 
@@ -186,11 +186,10 @@ def get_movie_from_json_folder(movie_id: int, path: str) -> DataFrame:
     @param path: path where the JSON folder is
     """
     path: str = path + str(movie_id) + ".json"
-    print(path)
     return pd.read_json(path)
 
 
-def get_name_of_movie(movie: DataFrame) -> str:
+def get_movie_name(movie: DataFrame) -> str:
     return movie["tmdb"]["title"]
 
 
@@ -207,23 +206,29 @@ def print_movie_with_info(movie_id: int, columns_to_print: List[str]) -> None:
     """
     movie_df: DataFrame = get_movie_dataframe_from_id(movie_id)
     print("++++++++++")
-    print("Movie: " + get_name_of_movie(movie_df))
+    print("Movie: " + get_movie_name(movie_df))
     for column in columns_to_print:
         print("\t" + column)
         print(movie_df['tmdb'][column])
     print("----------")
 
 
-def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method: str) -> float:
+def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method: str) -> Optional[float]:
     """
     Returns ILS value for the list_of_movies using the similarity_measures
     :param similarity_measures: dataframe of similarity measurements
     :param list_of_movies: list of movies ids
     :param method: method to compute ILS
-    :return: ILS value for list_of_movies using the similarities in similarity_measures
+    :return: ILS value for list_of_movies using the similarities in similarity_measures, returns none if
+    similarity_measures is empty
     """
     # get similarity Dataframe for the movies in list_of_movies
     similarities_of_movies: DataFrame = get_similarities_of_movies(similarity_measures, list_of_movies)
+
+    if similarities_of_movies.shape[0] <= 0:  # the similarity dataframe is empty
+        print("There are no similarities for the movies, ILS not computable")
+        return None
+
     ILS: float = 0
     if method == "mean":
         ILS = similarities_of_movies['similarity'].sum()
@@ -242,7 +247,11 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method
         ILS = (similarities_of_movies['Plot:LDA'].sum() + similarities_of_movies['Genre:Jacc'].sum()) / 2
 
     # we normalize using the number of similarities
-    ILS_normalized: float = ILS / similarities_of_movies.shape[0]
+    ILS_normalized: Optional[float]
+    if similarities_of_movies.shape[0] > 0:  # there are similarities for the movies
+        ILS_normalized = ILS / similarities_of_movies.shape[0]
+    else:  # there are no similarities, ILS cannot be computed
+        ILS_normalized = None
     return ILS_normalized
 
 
@@ -289,9 +298,9 @@ def print_names_of_movies(movie_ids: List[int], path_to_movies) -> None:
     @param movie_ids: ids of movies
     """
     movies_dataframes: List[DataFrame] = get_movies_by_id(movie_ids, path_to_movies)
-    for movie in movies_dataframes:
-        movie_name: str = get_name_of_movie(movie)
-        print("\t" + movie_name)
+    for index, movie in enumerate(movies_dataframes, start=0):
+        movie_name: str = get_movie_name(movie)
+        print("\t" + movie_name + ", id = " + str(movie_ids[index]))
 
 
 def print_ils_top_100_MPG() -> None:
@@ -312,7 +321,10 @@ def print_ILS_measures(movies: List[int], similarity_df: DataFrame, path_to_movi
     print("movies: ")
     print_names_of_movies(movies, path_to_movies)
 
-    ILS_m: float = get_ILS(similarity_df, movies, "mean")
+    ILS_m: Optional[float] = get_ILS(similarity_df, movies, "mean")
+    if ILS_m is None:
+        return  # there are no similarities for the movies
+
     print("ILS using mean of similarities: ")
     print(ILS_m)
 

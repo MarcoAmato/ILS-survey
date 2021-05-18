@@ -203,7 +203,7 @@ def write_top_100_mpg() -> None:
 def write_top_100_mpg_plus_similarities() -> None:
     print("top 100 mpg plus similarities starts...")
     # list of dataframes of top 100 movies
-    top_100_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_100_MOVIES_ID)
+    top_100_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_100_MOVIES_ID, PATH_TO_TOP_100_MOVIES_JSON)
     # list of ids of top 100 movies
     top_100_movies_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     # get ids of recommended movies via JSON
