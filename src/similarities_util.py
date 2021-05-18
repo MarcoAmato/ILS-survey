@@ -1,3 +1,4 @@
+import random
 from random import sample
 import pandas as pd
 from os.path import dirname, realpath
@@ -341,7 +342,7 @@ def print_ILS_measures(movies: List[int], similarity_df: DataFrame, path_to_movi
     print(ILS_pg)
 
 
-def get_ILS_from_ids() -> None:
+def print_ILS_from_ids() -> None:
     """
     Takes list of ids as input and prints ILS for the corresponding list
     """
@@ -369,3 +370,23 @@ def get_ILS_from_ids() -> None:
     print("Computing_ILS")
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
     print_ILS_measures(list_of_movies, similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
+
+
+def print_similar_movies_ILS() -> None:
+    id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
+    while True:
+        print("Press enter to sample a movie and look for ILS of similarities. Enter -1 to exit")
+        inserted_input = input()
+        if inserted_input == -1:
+            return
+
+        movie_id: int = random.sample(id_movies_top_100, 1)[0]
+        movie_df: DataFrame = get_movie_dataframe_from_id(movie_id)
+        movie_name: str = get_movie_name(movie_df)
+        print(f"sampled movie_id: {movie_id}, name: {movie_name}")
+
+        movies_plus_similar_tmdb: List[int] = get_similar_movies([movie_df])
+        movies_plus_similar_movieId: List[int] = convert_tbdb_to_movieId(movies_plus_similar_tmdb)
+
+        similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+        print_ILS_measures(movies_plus_similar_movieId, similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
