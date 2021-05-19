@@ -342,34 +342,50 @@ def print_ILS_measures(movies: List[int], similarity_df: DataFrame, path_to_movi
     print(ILS_pg)
 
 
+def get_integer(value: any) -> Optional[int]:
+    """
+    Returns int conversion of value if it is int, None otherwise
+    @param value: Value to check
+    @type value: any
+    """
+    try:
+        value_to_int: int = int(value)
+        return value_to_int
+    except ValueError:
+        return None
+
+
 def print_ILS_from_ids() -> None:
     """
     Takes list of ids as input and prints ILS for the corresponding list
     """
-    done: bool = False
-    set_of_movies: Set[int] = set()
     available_movie_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID)
-    while not done:
-        print("enter movie ids to get the ILS, enter -1 to stop")
-        try:
-            value_inserted = input()  # get input of user
-            id_inserted: int = int(value_inserted)
-            if id_inserted == -1:
-                done = True
-            elif id_inserted in available_movie_ids:
-                set_of_movies.add(id_inserted)
-                print("Movie entered correctly")
-            else:
-                print(f"The id {id_inserted} is not a valid id. Try again")
-        except ValueError:
-            print("Please enter an integer")
-    print("Finished to enter ids, list:")
-    print(set_of_movies)
-    list_of_movies: List[int] = list(set_of_movies)
 
-    print("Computing_ILS")
-    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
-    print_ILS_measures(list_of_movies, similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
+    while True:
+        done: bool = False
+        set_of_movies: Set[int] = set()
+        while not done:
+            print("enter movie ids to get the ILS, enter -1 to stop")
+            value_inserted = input()  # get input of user
+            value_to_int: Optional[int] = get_integer(value_inserted)
+            if value_to_int is None:
+                print("Please enter an integer")
+            elif value_to_int == -1:
+                if len(set_of_movies) <= 0:  # user pressed -1 without selecting any movie
+                    return
+                done = True
+            elif value_to_int in available_movie_ids:
+                set_of_movies.add(value_to_int)
+                print("Movie entered correctly, enter -1 to get ILS")
+            else:  # value inserted is int but does not correspond to a movieId
+                print(f"The id {value_to_int} is not a valid id. Try again")
+        print("Finished to enter ids, list:")
+        print(set_of_movies)
+        list_of_movies: List[int] = list(set_of_movies)
+
+        print("Computing_ILS")
+        similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+        print_ILS_measures(list_of_movies, similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
 
 
 def print_similar_movies_ILS() -> None:
@@ -377,7 +393,7 @@ def print_similar_movies_ILS() -> None:
     while True:
         print("Press enter to sample a movie and look for ILS of similarities. Enter -1 to exit")
         inserted_input = input()
-        if inserted_input == -1:
+        if get_integer(inserted_input) == -1:
             return
 
         movie_id: int = random.sample(id_movies_top_100, 1)[0]
