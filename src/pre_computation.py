@@ -190,6 +190,7 @@ def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str,
 
 
 def write_top_100_mpg() -> None:
+    print("write top 100 mpg starts...")
     write_mean_similarity_MPG(PATH_TO_SIMILARITY_MPG)  # write dataframe of similarities: mean, Plot:LDA, Genre:Jacc
     write_all_movies_ids(PATH_TO_ALL_MOVIES_ID)
     write_top_n_movies_by_popularity(100, PATH_TO_TOP_100_MOVIES_ID)
@@ -198,10 +199,11 @@ def write_top_100_mpg() -> None:
     # copies json of top n movies
     copy_movies(read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID),
                 PATH_TO_JSON, PATH_TO_TOP_100_MOVIES_JSON)
+    print("writing top 100 movies done")
 
 
 def write_top_100_mpg_plus_similarities() -> None:
-    print("top 100 mpg plus similarities starts...")
+    print("write top 100 mpg plus similarities starts...")
     # list of dataframes of top 100 movies
     top_100_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_100_MOVIES_ID, PATH_TO_TOP_100_MOVIES_JSON)
     # list of ids of top 100 movies
@@ -229,9 +231,10 @@ def write_top_100_mpg_plus_similarities() -> None:
     copy_movies(top_100_plus_similarities,
                 PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON)
 
-    print("top 100 mpg plus similarities done")
+    print("write top 100 mpg plus similarities done")
 
 
 if __name__ == "__main__":
     print("pre computation starts")
+    write_top_100_mpg()
     write_top_100_mpg_plus_similarities()
