@@ -406,3 +406,25 @@ def print_similar_movies_ILS() -> None:
 
         similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
         print_ILS_measures(movies_plus_similar_movieId, similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
+
+
+def print_random_movies_ILS() -> None:
+    """
+    Asks the user a number n, then computes ILS taking n random movies from top 100
+    """
+    print("random_movies_ILS starts...")
+    id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
+    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+
+    while True:
+        print("Enter the number of random movies to insert in the list or enter -1 to stop")
+        number_of_movies: Optional[int] = get_integer(input())
+        if number_of_movies is None:  # value inserted is not an int
+            print("Please enter an integer")
+        elif number_of_movies > 0:
+            random_ids: List[int] = random.sample(id_movies_top_100, number_of_movies)
+            print_ILS_measures(random_ids, similarity_df, PATH_TO_TOP_100_MOVIES_JSON)
+        else:  # value inserted is negative
+            break
+
+    print("random_movies_ILS done")
