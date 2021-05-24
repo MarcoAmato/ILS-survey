@@ -3,7 +3,7 @@ from random import sample
 import pandas as pd
 from os.path import dirname, realpath
 from pandas import DataFrame, Series
-from typing import List, Set, Optional
+from typing import List, Set, Optional, Dict
 
 # folders
 # folder where script is/data folder
@@ -316,6 +316,48 @@ def print_ils_top_100_MPG() -> None:
     sample_list_of_movies: List[int] = sample(top_100_movie_ids, MOVIES_LIST_LENGTH)
 
     print_ILS_measures(sample_list_of_movies, similarities_df, PATH_TO_TOP_100_MOVIES_JSON)
+
+
+def get_and_print_ILS_measurements(movies: List[int], similarity_df: DataFrame, path_to_movies: str) -> \
+        Optional[Dict[str, float]]:
+    """
+    Returns a dict with keys ['m', 'p', 'g', 'pg'], which are the ILS measures for the movies by
+    ['mean similarity', 'plot', 'genre', 'plot-genre']. Returns None if there are no measurements
+    @param movies: list of movies to compute similarity for
+    @type movies: List[int]
+    @param similarity_df: dataframe of similarities
+    @type similarity_df: DataFrame
+    @param path_to_movies: path to movies jsons
+    @type path_to_movies: str
+    """
+    dict_of_similarities: Dict[str, float] = {}
+    print("movies: ")
+    print_names_of_movies(movies, path_to_movies)
+
+    ILS_m: Optional[float] = get_ILS(similarity_df, movies, "mean")
+    if ILS_m is None:
+        return None
+
+    print("ILS using mean of similarities: ")
+    print(ILS_m)
+    dict_of_similarities['m'] = ILS_m
+
+    ILS_p: float = get_ILS(similarity_df, movies, "plot")
+    print("ILS using mean of Plot:LDA: ")
+    print(ILS_p)
+    dict_of_similarities['p'] = ILS_p
+
+    ILS_g: float = get_ILS(similarity_df, movies, "genre")
+    print("ILS using mean of Genre:JACC: ")
+    print(ILS_g)
+    dict_of_similarities['g'] = ILS_g
+
+    ILS_pg: float = get_ILS(similarity_df, movies, "plot-genre")
+    print("ILS using mean of Plot and Genre: ")
+    print(ILS_pg)
+    dict_of_similarities['pg'] = ILS_pg
+
+    return dict_of_similarities
 
 
 def print_ILS_measures(movies: List[int], similarity_df: DataFrame, path_to_movies: str) -> None:
