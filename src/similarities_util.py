@@ -457,6 +457,7 @@ def print_random_movies_ILS() -> None:
     print("random_movies_ILS starts...")
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+    list_of_ILS = []
 
     while True:
         print("Enter the number of random movies to insert in the list or enter -1 to stop")
@@ -465,8 +466,21 @@ def print_random_movies_ILS() -> None:
             print("Please enter an integer")
         elif number_of_movies > 0:
             random_ids: List[int] = random.sample(id_movies_top_100, number_of_movies)
-            print_ILS_measures(random_ids, similarity_df, PATH_TO_TOP_100_MOVIES_JSON)
+            # dict of ils measurements, keys = ['m', 'p', 'g', 'pg']
+            ils_measurements: Optional[Dict[str, any]] = \
+                get_and_print_ILS_measurements(random_ids, similarity_df, PATH_TO_TOP_100_MOVIES_JSON)
+            if ils_measurements is None:
+                print("It it not possible to compute similarity for the selected movies. Try again")
+            else:
+                ils_measurements['ids'] = random_ids  # add ids of movies to dict
+                list_of_ILS.append(ils_measurements)
+                print(list_of_ILS)
+                # TODO print a plot of the measurements
+                exit()
         else:  # value inserted is negative
             break
+
+
+    similarity_measurements_for_lists: DataFrame = DataFrame(columns=['list_of_movies', 'm', 'p', 'g', 'pg'])
 
     print("random_movies_ILS done")
