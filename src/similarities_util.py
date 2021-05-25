@@ -431,24 +431,65 @@ def print_ILS_from_ids() -> None:
         print_ILS_measures(list_of_movies, similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
 
 
+def plot_ILS_lists(df_ILS_lists: DataFrame) -> None:
+    """
+    Plots the mean, plot, genre and plot-genre similarity for the dataframe df_ILS_lists
+    @param df_ILS_lists: Dataframe of columns ['ids', 'm', 'p', 'g', 'pg'] where for a certain row represents the mean
+    similarity (m), plot similarity (p), genre similarity (g), and mean of genre and plot (pg) ILS for the movies with
+    ids 'ids'.
+    @type df_ILS_lists: DataFrame
+    """
+    index_ils_measures = range(0, df_ILS_lists.shape[0])
+    print("Plot of ILS mean similarity")
+    plt.scatter(x=index_ils_measures, y=df_ILS_lists['m'])
+    plt.show()
+    print("Plot of ILS by plot")
+    plt.scatter(x=index_ils_measures, y=df_ILS_lists['p'])
+    plt.show()
+    print("Plot of ILS by genre")
+    plt.scatter(x=index_ils_measures, y=df_ILS_lists['g'])
+    plt.show()
+    print("Plot of ILS by plot and genre")
+    plt.scatter(x=index_ils_measures, y=df_ILS_lists['pg'])
+    plt.show()
+
+
 def print_similar_movies_ILS() -> None:
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
+    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+    df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
+
+    index_of_lists: int = 0
+
     while True:
         print("Press enter to sample a movie and look for ILS of similarities. Enter -1 to exit")
         inserted_input = input()
         if get_integer(inserted_input) == -1:
-            return
+            break
 
         movie_id: int = random.sample(id_movies_top_100, 1)[0]
         movie_df: DataFrame = get_movie_dataframe_from_id(movie_id)
         movie_name: str = get_movie_name(movie_df)
         print(f"sampled movie_id: {movie_id}, name: {movie_name}")
 
-        movies_plus_similar_tmdb: List[int] = get_similar_movies([movie_df])
-        movies_plus_similar_movieId: List[int] = convert_tbdb_to_movieId(movies_plus_similar_tmdb)
+        movies_similar_tmdb: List[int] = get_similar_movies([movie_df])
+        movies_similar_tmdb.append(movie_id)
+        movies_plus_similar_movieId: List[int] = convert_tbdb_to_movieId(movies_similar_tmdb)
+        ils_measurements: Optional[Dict[str, any]] = \
+            get_and_print_ILS_measurements(movies_plus_similar_movieId,
+                                           similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
+        if ils_measurements is None:  # there are no similarities for the list
+            print("It it not possible to compute similarity for the selected movies. Try again")
+        else:  # ils was computed successfully
+            print(f"ILS values of list {index_of_lists} finished")
+            index_of_lists += 1
+            print("------------")
+            ils_measurements['ids'] = movies_plus_similar_movieId  # add ids of movies to dict
+            df_ILS_lists = df_ILS_lists.append(ils_measurements, ignore_index=True)
 
-        similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
-        print_ILS_measures(movies_plus_similar_movieId, similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
+    plot_ILS_lists(df_ILS_lists)
+
+    print("random_movies_ILS done")
 
 
 def print_random_movies_ILS() -> None:
@@ -458,11 +499,6 @@ def print_random_movies_ILS() -> None:
     print("random_movies_ILS starts...")
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
-    list_of_ILS_m = []
-    list_of_ILS_p = []
-    list_of_ILS_g = []
-    list_of_ILS_pg = []
-    list_of_ids: List[List[int]] = []
     df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
 
     index_of_lists: int = 0
@@ -485,37 +521,9 @@ def print_random_movies_ILS() -> None:
                 print("------------")
                 ils_measurements['ids'] = random_ids  # add ids of movies to dict
                 df_ILS_lists = df_ILS_lists.append(ils_measurements, ignore_index=True)
-                # list_of_ids.append(ils_measurements['ids'])  # add new list of ids
-                # list_of_ILS_m.append(ils_measurements['m'])  # add ils by mean similarity
-                # list_of_ILS_p.append(ils_measurements['p'])  # add ils by plot
-                # list_of_ILS_g.append(ils_measurements['g'])  # add ils by genre
-                # list_of_ILS_pg.append(ils_measurements['pg'])  # add ils by genre and plot
         else:  # value inserted is negative
             break
 
     plot_ILS_lists(df_ILS_lists)
 
     print("random_movies_ILS done")
-
-
-def plot_ILS_lists(df_ILS_lists: DataFrame) -> None:
-    """
-    Plots the mean, plot, genre and plot-genre similarity for the dataframe df_ILS_lists
-    @param df_ILS_lists: Dataframe of columns ['ids', 'm', 'p', 'g', 'pg'] where for a certain row represents the mean
-    similarity (m), plot similarity (p), genre similarity (g), and mean of genre and plot (pg) ILS for the movies with
-    ids 'ids'.
-    @type df_ILS_lists: DataFrame
-    """
-    index_ils_measures = range(0, df_ILS_lists.shape[0])
-    print("Plot of ILS mean similarity")
-    plt.scatter(x=index_ils_measures, y=df_ILS_lists['m'])
-    plt.show()
-    print("Plot of ILS by plot")
-    plt.scatter(x=index_ils_measures, y=df_ILS_lists['p'])
-    plt.show()
-    print("Plot of ILS by genre")
-    plt.scatter(x=index_ils_measures, y=df_ILS_lists['g'])
-    plt.show()
-    print("Plot of ILS by plot and genre")
-    plt.scatter(x=index_ils_measures, y=df_ILS_lists['pg'])
-    plt.show()
