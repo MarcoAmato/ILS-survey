@@ -3,6 +3,7 @@ from random import sample
 import pandas as pd
 from os.path import dirname, realpath
 from pandas import DataFrame, Series
+from matplotlib import pyplot as plt
 from typing import List, Set, Optional, Dict
 
 # folders
@@ -206,12 +207,12 @@ def print_movie_with_info(movie_id: int, columns_to_print: List[str]) -> None:
     @param columns_to_print: List of columns to print
     """
     movie_df: DataFrame = get_movie_dataframe_from_id(movie_id)
-    print("++++++++++")
+    print("")
     print("Movie: " + get_movie_name(movie_df))
     for column in columns_to_print:
         print("\t" + column)
-        print(movie_df['tmdb'][column])
-    print("----------")
+        print(f"\t{movie_df['tmdb'][column]}")
+    print("")
 
 
 def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method: str) -> Optional[float]:
@@ -457,7 +458,13 @@ def print_random_movies_ILS() -> None:
     print("random_movies_ILS starts...")
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
-    list_of_ILS = []
+    list_of_ILS_m = []
+    list_of_ILS_p = []
+    list_of_ILS_g = []
+    list_of_ILS_pg = []
+    list_of_ids: List[List[int]] = []
+
+    index_of_lists: int = 1
 
     while True:
         print("Enter the number of random movies to insert in the list or enter -1 to stop")
@@ -469,18 +476,35 @@ def print_random_movies_ILS() -> None:
             # dict of ils measurements, keys = ['m', 'p', 'g', 'pg']
             ils_measurements: Optional[Dict[str, any]] = \
                 get_and_print_ILS_measurements(random_ids, similarity_df, PATH_TO_TOP_100_MOVIES_JSON)
-            if ils_measurements is None:
+            if ils_measurements is None:  # there are no similarities for the list
                 print("It it not possible to compute similarity for the selected movies. Try again")
-            else:
+            else:  # ils was computed successfully
+                print(f"ILS values of list {index_of_lists} finished")
+                print("------------")
+                index_of_lists += 1
                 ils_measurements['ids'] = random_ids  # add ids of movies to dict
-                list_of_ILS.append(ils_measurements)
-                print(list_of_ILS)
+                list_of_ids.append(ils_measurements['ids'])  # add new list of ids
+                list_of_ILS_m.append(ils_measurements['m'])  # add ils by mean similarity
+                list_of_ILS_p.append(ils_measurements['p'])  # add ils by plot
+                list_of_ILS_g.append(ils_measurements['g'])  # add ils by genre
+                list_of_ILS_pg.append(ils_measurements['pg'])  # add ils by genre and plot
                 # TODO print a plot of the measurements
-                exit()
         else:  # value inserted is negative
             break
 
+    index_ils_measures = range(1, index_of_lists)
 
-    similarity_measurements_for_lists: DataFrame = DataFrame(columns=['list_of_movies', 'm', 'p', 'g', 'pg'])
+    print("Plot of ILS mean similarity")
+    plt.scatter(x=index_ils_measures, y=list_of_ILS_m)
+    plt.show()
+    print("Plot of ILS by plot")
+    plt.scatter(x=index_ils_measures, y=list_of_ILS_p)
+    plt.show()
+    print("Plot of ILS by genre")
+    plt.scatter(x=index_ils_measures, y=list_of_ILS_g)
+    plt.show()
+    print("Plot of ILS by plot and genre")
+    plt.scatter(x=index_ils_measures, y=list_of_ILS_pg)
+    plt.show()
 
     print("random_movies_ILS done")
