@@ -188,7 +188,12 @@ def get_movie_from_json_folder(movie_id: int, path: str) -> DataFrame:
     @param path: path where the JSON folder is
     """
     path: str = path + str(movie_id) + ".json"
-    return pd.read_json(path)
+    df_movie: Optional[DataFrame] = None
+    try:
+        df_movie = pd.read_json(path)
+    except ValueError:
+        print(f"File not found: \n\t{path}")
+    return df_movie
 
 
 def get_movie_name(movie: DataFrame) -> str:
@@ -536,7 +541,6 @@ def read_lists_of_int_from_csv(path: str) -> List[List[int]]:
     @param path: path to the csv containing the lists
     @type path: str
     """
-    print(path)
     lists_of_ints: List[List[int]] = []
     with open(path) as f:
         for line_list in f:
@@ -544,10 +548,33 @@ def read_lists_of_int_from_csv(path: str) -> List[List[int]]:
             line_to_list_str: List[str] = stripped_line_list.split(",")
             list_to_list_int: List[int] = [int(i) for i in line_to_list_str]
             lists_of_ints.append(list_to_list_int)
-    print(lists_of_ints)
+    return lists_of_ints
 
 
 def print_lists_in_file_ILS() -> None:
     """
-    Reads the lists of movies written in data/lists_of_movies.csv and computes then plots ils
+    Reads the lists of movies written in data/lists_of_movies.csv and computes then plots ils.
     """
+    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+    # read lists of movies from file
+    lists_of_movies: List[List[int]] = read_lists_of_int_from_csv(PATH_TO_DATA_FOLDER + "lists_of_movies.csv")
+    df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
+
+    index_of_lists: int = 0
+
+    for list_of_movies in lists_of_movies:
+        ils_measurements: Optional[Dict[str, any]] = \
+            get_and_print_ILS_measurements(list_of_movies,
+                                           similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
+        if ils_measurements is None:  # there are no similarities for the list
+            print("It it not possible to compute similarity for the selected movies. Try again")
+        else:  # ils was computed successfully
+            print(f"ILS values of list {index_of_lists} finished")
+            index_of_lists += 1
+            print("------------")
+            ils_measurements['ids'] = list_of_movies  # add ids of movies to dict
+            df_ILS_lists = df_ILS_lists.append(ils_measurements, ignore_index=True)
+
+    plot_ILS_lists(df_ILS_lists)
+
+    print("lists_in_file_ILS done")
