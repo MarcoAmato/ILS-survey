@@ -5,6 +5,17 @@ Given a dataset of movies information and another dataset of similarity measurem
 The lists can be created in the following ways:
 1) By manually entering the ids of the movies
 2) By extracting a random movie from the top 100 and then adding all the similar movies. These similar movies are found in the column "similar" of the json file of the selected movie. 
+3) By creating a list of random items from the top 100. The user will provide the number of random items for the list.
+4) By computing the ILS for the lists of movies in data/lists_of_movies.csv. This file will contain lists of ids in the following format:
+    - Every line contains a list of number characters separated by comma, each one representing an id
+    - The end of line signs the end of a list
+    
+    Example of a valid list_of_movies.csv:
+
+
+    1,64,5,8
+    6,3,98,125
+    9,54,65,3,7,5,12,41,98,27,93
 
 N.B.
 We will refer to a dataframe called similarity_mpg.
