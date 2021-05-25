@@ -1,0 +1,513 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "muslim",
+            "id": 789
+         },
+         {
+            "name": "secret society",
+            "id": 2908
+         },
+         {
+            "name": "hindu",
+            "id": 4096
+         },
+         {
+            "name": "tiger",
+            "id": 4809
+         },
+         {
+            "name": "arrest",
+            "id": 5638
+         },
+         {
+            "name": "british",
+            "id": 6731
+         },
+         {
+            "name": "revenge",
+            "id": 9748
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "colonel",
+            "id": 10786
+         },
+         {
+            "name": "wedding",
+            "id": 13027
+         },
+         {
+            "name": "india",
+            "id": 14636
+         },
+         {
+            "name": "19th century",
+            "id": 207928
+         }
+      ],
+      "imdb_id": "tt0094979",
+      "video": false,
+      "title": "The Deceivers",
+      "recommendations": [],
+      "backdrop_path": null,
+      "revenue": 346297,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "William Savage",
+               "gender": 2,
+               "credit_id": "52fe45e5c3a36847f80e0ab5",
+               "name": "Pierce Brosnan",
+               "profile_path": "/1JXL0zrA26JjdoX8sqf57fJRDVM.jpg",
+               "id": 517,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Raja Chandra Singh",
+               "gender": 2,
+               "credit_id": "52fe45e5c3a36847f80e0ab9",
+               "name": "Shashi Kapoor",
+               "profile_path": "/h8TNPQhh969wr1vzgAl0VESSabI.jpg",
+               "id": 88811,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Hussein",
+               "gender": 2,
+               "credit_id": "52fe45e5c3a36847f80e0abd",
+               "name": "Saeed Jaffrey",
+               "profile_path": "/nDSQCtZjVNqeOWG1QooKq2NkElb.jpg",
+               "id": 11852,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Sarah Wilson",
+               "gender": 1,
+               "credit_id": "52fe45e5c3a36847f80e0ac1",
+               "name": "Helena Michell",
+               "profile_path": null,
+               "id": 133136,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Colonel Wilson",
+               "gender": 2,
+               "credit_id": "52fe45e5c3a36847f80e0ac5",
+               "name": "Keith Michell",
+               "profile_path": "/ooSt3msAL3TZwwOBtIif4YyLXWb.jpg",
+               "id": 40159,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "George Anglesmith",
+               "gender": 2,
+               "credit_id": "559a6050c3a3685f800037fb",
+               "name": "David Robb",
+               "profile_path": "/7IE49gbJBLmbKgzyUryr0CVAOhp.jpg",
+               "id": 102375,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Feringea",
+               "gender": 0,
+               "credit_id": "559a60579251415677003513",
+               "name": "Tariq Yunus",
+               "profile_path": null,
+               "id": 186047,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "The Nawab",
+               "gender": 0,
+               "credit_id": "559a605fc3a3685ee00037d4",
+               "name": "Jalal Agha",
+               "profile_path": null,
+               "id": 1009518,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Lt. Maunsell",
+               "gender": 0,
+               "credit_id": "559a606792514155e4003739",
+               "name": "Gary Cady",
+               "profile_path": "/dYjVLCFebmR6VNO94NUHySQCPpL.jpg",
+               "id": 189425,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Piroo",
+               "gender": 2,
+               "credit_id": "559a606f925141564a0036c6",
+               "name": "Salim Ghouse",
+               "profile_path": "/qYjRXXl66bK2lIiSyUbNBc2OARW.jpg",
+               "id": 1095294,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Gopal's Wife",
+               "gender": 1,
+               "credit_id": "559a60789251413d99004810",
+               "name": "Neena Gupta",
+               "profile_path": "/782xRdSqkmrFnK0UnUu1JoJcckq.jpg",
+               "id": 583509,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Sepoy",
+               "gender": 0,
+               "credit_id": "559a6081c3a3685f5a003689",
+               "name": "Nayeem Hafizka",
+               "profile_path": null,
+               "id": 1484986,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Harlot",
+               "gender": 0,
+               "credit_id": "559a6089c3a3685f80003800",
+               "name": "Bijaya Jena",
+               "profile_path": null,
+               "id": 1061588,
+               "order": 12
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45e5c3a36847f80e0ab1",
+               "name": "Nicholas Meyer",
+               "profile_path": "/942wEyuJVs1K0rGN2Q0ug2Yi7GE.jpg",
+               "id": 1788,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559a609bc3a3685f1f003474",
+               "name": "John Masters",
+               "profile_path": null,
+               "id": 1464411,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "559a60a5c3a3685e9b00392e",
+               "name": "Michael Hirst",
+               "profile_path": "/pV1GW5TiYgkjaXF4ZdRZHXwmh5W.jpg",
+               "id": 37631,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "559a60b09251411d490035bc",
+               "name": "Ismail Merchant",
+               "profile_path": null,
+               "id": 54448,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "559a60b9c3a3685ee00037db",
+               "name": "Tim Van Rellim",
+               "profile_path": null,
+               "id": 25054,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559a60c19251411d490035c0",
+               "name": "Leon Falk",
+               "profile_path": null,
+               "id": 1484988,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559a60dac3a3684baa003646",
+               "name": "Michael White",
+               "profile_path": null,
+               "id": 1484990,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "559a610d92514155d600353b",
+               "name": "Walter Lassally",
+               "profile_path": null,
+               "id": 36967,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "559a611c9251411d490035ca",
+               "name": "Richard Trevor",
+               "profile_path": null,
+               "id": 21557,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "559a6127c3a3685f1f00347c",
+               "name": "Ken Adam",
+               "profile_path": null,
+               "id": 9869,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559a6130c3a36855e000443e",
+               "name": "Franco Fumagalli",
+               "profile_path": null,
+               "id": 32350,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559a6138925141567700351b",
+               "name": "Ram Yedekar",
+               "profile_path": null,
+               "id": 1035289,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "559a614292514109db00317f",
+               "name": "Jenny Beavan",
+               "profile_path": "/n6bhe5AsdnHYUV2AT7EVt2ZJWjc.jpg",
+               "id": 17166,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "559a614fc3a3685e9b003936",
+               "name": "John Bright",
+               "profile_path": null,
+               "id": 1484993,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Action",
+            "id": 28
+         }
+      ],
+      "popularity": 1.479256,
+      "production_countries": [
+         {
+            "iso_3166_1": "IN",
+            "name": "India"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 41968,
+      "vote_count": 8,
+      "budget": 0,
+      "overview": "India, 1825: the country lives in mortal fear of cult members known as the \u201cDeceivers.\" They commit robbery and ritualistic murder. Appalled by their activities, an English military man, Captain William Savage, conceives a hazardous plot to stop them. In disguise, he plans to himself become a \u201cDeceiver\u201d and infiltrate their numbers. Ever present in Savage\u2019s adventures is a sense of dread; he is in constant fear of betrayal and vengeance and also undergoes a disturbing psychological transformation as he experiences the cult\u2019s blood lust firsthand.",
+      "similar": [
+         281957,
+         357096,
+         281,
+         979,
+         3134,
+         26390,
+         4771,
+         238636,
+         395834,
+         3597,
+         11121,
+         445954,
+         22825,
+         133805,
+         6312,
+         2142,
+         39918,
+         25376,
+         1266,
+         429733
+      ],
+      "original_title": "The Deceivers",
+      "runtime": 102,
+      "poster_path": "/njpJTsyxBJubTE61ZrRiWUOH39E.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Master Productions",
+            "id": 57416,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Merchant Ivory Productions",
+            "id": 20740,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Michael White Productions",
+            "id": 463,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cinecom Pictures",
+            "id": 57417,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/ruUf9qymJ1gKLmerDKO8pgq1CYM.png",
+            "name": "Film Four International",
+            "id": 9210,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1988-09-02",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "How far can a man journey into darkness...and still find his way back?",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "India",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Nicholas Meyer"],
+      "runtime": 102,
+      "synopsis": null,
+      "writers": [
+         "John Masters",
+         "Michael Hirst"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0094979/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTIwNzczNDczMF5BMl5BanBnXkFtZTcwNDc1NTcyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Pierce Brosnan, Saeed Jaffrey, Shashi Kapoor | See full cast and crew »"],
+      "reviews": [
+         "This is a highly entertaining historical film that had the great misfortune to be released during the height of Schwarzenegger/Van Damme/\"Lethal Weapon\" era. It is a film about cultures in collision and the people who are crushed by that collision. Pierce Brosnan, in one of his best roles, plays Captain Savage, an honorable British soldier in India who is dissatisfied with the \"do nothing\" policies of his superiors. One day, he and his fiancée see a gathering on a riverbank. They learn that a young woman is preparing to burn herself alive in the authentic practice of \"suttee\"...her husband has been missing for a year and custom demands she immolate herself. Savage's girl is horrified and begs for him to think of a way out. He disguises himself as a native man and hopes the widow will see a brief glimpse of him and believe it is her husband. The suttee can thus be postponed. The scheme works, but a mob then chases Savage to ask why he has not appeared earlier. He frantically avoids the mob, but then sees a horrible sight. A band of wealthy Hindu travelers is suddenly strangled, robbed and buried. Savage has seen the secret cult of Thuggee at work! He appeals to the base commander (also the father of his intended) to apprehend the Thugs but bureaucracy prevents him from doing so. Savage becomes obsessed with uncovering the Thugs and hits upon a scheme where he will \"go native\" and infiltrate the Thugs himself. That way he can get incontrovertible proof of their existence. He enlists the reluctant help of a captured Thug (superbly played by Saeed Jaffrey) and goes undercover. Savage finds himself immersed in the strange and deadly world of the Thugs. As time goes by, he is forced to participate in the ritual murders to keep his cover. His identity is starting to give way. Will his sanity last long enough to reveal the secrets of \"The Deceivers\"? There's a huge amount of tension in the movie. Its attention to historical and cultural detail is excellent. Doing some research on the Thugs, I discovered the exact words of their \"Sugar of Kali\" ritual are used in the movie. Most confusing for Savage is the fact that, when not killing innocents, the Thugs appear to be normal and even kind people. The interesting contrast is that the former Thug feels his own loyalty to his people weakening as he sees Savage losing his way. The ending is bittersweet and not sugarcoated at all. I highly recommend this film to anyone who likes tense historical drama as well as those who want a glimpse inside a forbidden, exotic culture.",
+         "It may seem a trite point to many that this historical drama is surprisingly authentic, but I find it very refreshing after seeing so many films throw details to the wind. There are very few movies, if any dealing with Britian's famous \"Honorable East India Company\", but the costuming on this movie was researched very well indeed. I think this fact alone holds a lot of the appeal as a 'History' buff's movie. I couldn't imagine Pierce Brosnan's tiger hunting scene to be much more accurate, as every detail seems excellent to me, especially the uniforms of the HEIC. I think that the movie captures the mystic of India very well and is generally based on true historic events. Whatever people think of Pierce Brosnans' acting ability, this movie has very good entertainment value, apart from showing a unique side of the history of India. My close associate shot a documentary in very remote parts of India, and many of this movie's scenes look similar today, though I doubt he experienced anything quite like the 'death by elephant' scene in today's India !",
+         "Our English word 'thug' comes from a Hindi word, 'thag,' as we often see it transliterated as 'thuggee.' The thuggees were a secret cult of assassins/robbers who preyed on wealthy travelers, usually in the months of October. It was (or still is, as some claim) an ancient order which preceded the Islamic invasion of India and which also included Muslims in its ranks. The thuggees worshiped Kali, the consort of Shiva, (or Siva) the destroyer, one of the three gods in the Hindu Trimurti or trinity (the other two being Brahmin and Vishnu). This film which is based on a fictional account of a British officer who inflitrates the cult by disguising himself as a thuggee and eventually comes to be the one who destroy it. The allusion to being based on real life events, of course, adds to the mystery and allure of this film's exotic setting. A young pre-James Bond Pierce Brosnan is the central character and is aided by the Indian veteran character actor, Saeed Jaffery. Add to that, the presence of Australian actor, Keith Michell, his attractive daughter, Helena, a face frequently seen as a supporting actor, David Robb, as the Gentleman cad, and a large cast of Indian actors that are seen in Indian films, and you have the cast. The scenery is most interesting as it was shot on location in India and shows the countryside not as a jungle, as many think of India. Historically, the East India Company which was exploiting the natural resources of India for their own colonial interests, was underwritten by the English government and the British Army was providing the administrative services. The story of this film, based on the investigations of the colonial administrator, Sir. W.H. Sleeman who eventually uprooted the Thuggee cult, took place before the Sepoy uprising in the 1840's. This is not a bad film and maintains high level of tension. I found it entertaining and interesting and recommend it.",
+         "Pierce Brosnan looks a bit too European (and hairy-chested) to be completely convincing as a Kali-worshipper, but he gives an intrepid performance as an Englishman undercover with the Thugees, a sort of Donnie Brasco of the 1800s. The movie itself has some harrowing moments as we watch the thugs ply their killing trade, and the inevitable one-against- many showdown, coming when Pierce's ruse is revealed, is suitably tense. A lot of the drama, however is rather flat and unmemorable and the movie lags in the middle. There is a nice period look here, though, similar to that of the Sharpe TV series, and fans of that one might find this an interesting diversion.",
+         "When a British officer gets wind of a gang of murderous highwaymen he joins their ranks with the intention of shutting down the organization. Spys and counterspys in both camps offset each other until a final battle settles who will remain in charge. Hard to believe that during all the time the officer was with the thugs they never noticed how foreign he appeared or that the stain he used never washed off. Entertaining with plenty of action and great scenery.",
+         "I'm sure every schoolboy knows where the word \" Thug \" originates from . If not I'll reeducate you by saying the word is derived from the word \" thugee \" which apart from being the Hindi word for \" thief \" is also the name of a notorious cult from India where a group of men would befriend travelers along the Indian sub-continent and then strangle them . THE DECIEVERS based upon the John Masters book tells of the story of a British army officer who infiltrated the group It doesn't seem to be able to tell the story well and one can't help thinking that being a Merchant Ivory production this might be to blame . It's rather stodgy and director Nicholas Meyer seems to be more interested in exotic beauty and cultural diversity of 1820s India than he is in telling a tension filled cinematic thriller . Ironically enough when it does try to mirror the classic era of Hollywood in the 1930s and 40s it comes across as being clichéd A great pity because there's so much potential here that the production gets right such as pointing out that in the 1820s it was the British East India company and not the British monarch or the British government who ruled India . If you're worried about corporate capitalism in the 21st Century I can guarantee you it was much worse two hundred years ago . As you'd expect with this production company the costume design is exemplary . It's also a film that makes good use of sound editing where when the Thugees commit their murders a spine chilling \" SWISH \" type sound blasts out from the screen and is so effective it left me truly puzzled why Meyer didn't more to make THE DECEIVERS a more enthralling film",
+         "\"Every empire tells itself and the world that it is unlike all other empires, that its mission is not to plunder and control but to educate and liberate.\" - Edward Said \"The Deceivers\" is a poor film by the usually reliable Nicholas Meyer. Whitewashing the actions of the British Empire within Asia, the film is set in 1820s India and stars Pierce Brosnan as Captain William Savage, a tax collector for the British East India Company. As the Thuggees, a Kali-worshipping cult, have been committing robberies and mass, ritualistic murders, Savage infiltrates the group and attempts to put an end to their crimes. Nicholas Meyer's not an idiot. His film clearly attempts to attack the paternalistic, condescending and bloody attitudes of the British Empire, which, largely in collusion with private mercantile corporations, would result in the indirect or direct deaths of over a billion Indians across a roughly 2 century period. And so \"The Deceivers\" initially portrays Savage as the poster-boy for \"liberal enlightenment\". He's a \"good Imperialist\", a \"good tax collector\", who has many Indian friends and speaks several local languages. Once he infiltrates the cult, however, Savage \"becomes a savage\". Savage not only puts on brown face-paint in an attempt to go undercover and so infiltrate the cult, but he \"literally reveals himself to have always been a barbarian\" who enjoys murder, death and sexual debauchery. Under the facade of the civilised white man, Meyer thus says, is third world primitivism. Is a monster adept at deceiving itself. These themes are made clearest during sequences in which Meyer cuts between Thuggee rituals and Savage's memories of Western church ceremonies, no less a form of primitive superstition. Whilst such themes may work in David Lean's \"A Passage to India\", they don't work at all in \"The Deceivers\". The film's stance \u0096 beneath \"civilised\" Europe lurks the barbarism of the \"native\" - is sophomoric, dilutes the larger aims and horrors of Imperialism, and has the unintentional effect of demonizing the Indians. The film also unintentionally validates an old Victorian trope: the idea that the Empire, for all its problems, was nevertheless necessary for taming the native, the frontier and conflicting groups. The Empire, then, brought order. Whilst it is true that the Empire did bring a type of order (it crushed many monarchs and gangs), it also practised divide and conquer, sowed disorder and fuelled rivalries. Similarly, the \"peaceful order\" it brought was pretty undesirable. Most of the regions ruled by the British at the time only got worse. West Bengal, Bihar, Assam, Uttar Pradesh, East Bengal etc were the poorest, most lawless states, ridden with ethnic conflicts and disease. Even today, these parts lag behind the rest of contemporary India. Those places once ruled by Indian monarchs during the 1700s and 1800s (Travancore-Cochin, Mysore, Hyderabad, Gujarat, Rajasthan, Punjab-Haryana etc), in contrast, now exhibit stronger economic and social progress. In short, European colonialists were much more adept at exploitation and extraction than local feudalists. The name Thuggee comes from the Sanskrit word for \"deceiver\". In the 1830s the group is said to have killed about 30,000 people. Historians like Martine van Woerkens (\"Colonial Imaginings and the Thugs of India\"), however, have contested much of the mythology ascribed to the Thuggees. Many see the group as being largely a product of \"colonial imaginings\": British fears of the little-known interior of India. Afterall, the British in India found themselves culturally isolated. Most had grown up in an England where public meetings were illegal and where the faintest hint of social gatherings or secret brotherhoods were sufficient to arouse draconian reactions. A combination of paranoia, authoritarian instincts and religious intolerance thus gave way to a kind of militant zeal for Thugg-bashing. Even historians who agree that the Thuggees were real and genuinely responsible for mass murders, like Mike Dash, reject the colonial emphasis on religiously motivated crimes, and instead asserts that monetary gain was the main motivation for Thuggee murders; the gangs were in extreme poverty, and were a natural result of British rule in India (and the economic realities generated by the Empire's opium trade). \"The Deceivers\" is poorly shot and never convincingly captures the tempo, look or feel of 19th century India. The attitudes, mannerisms and dialogue of virtually all of Meyer's cast also rings false. Elsewhere the film struggles to reconcile two goals: being a Victorian boy's adventure (which were typically racist and paternalistic), and being a politically correct condemnation of Empire. Meyer would attempt similar themes with \"Star Trek 6: An Undiscovered Country\". 5/10 - See \"A Passage to India\", \"North West Frontier\" and Satyajit Ray's \"The Chessplayer\".",
+         "Don't let the fact that this is a Merchant Ivory production put you off in any way. There's little delicacy, intuition, or nuance in this colonial adventure story. As everyone knows by now -- everyone who has seen \"Gunga Din\" at any rate, which is everyone -- the Thugs were a sect in India who strangled their victims after digging their graves. \"Gunga Din\" tells us that they worshiped Kali, who stood for destruction, but it doesn't tell us that their favorite way of acquiring victims was in posing as frightened proletarians and joining the caravans that offered them protection in dangerous country. They may have worshiped Kali but they had nothing against robbing the caravans after murdering its members. They were something like organized American gangsters -- the Mafia or Murder Incorporated -- if the American gangsters have worshiped their own god. Needless to say, in 1840, when the British East India Company more or less ruled India, with the army as its instrument, this was a noisome situation. Lots of potential here. It almost calls for Errol Flynn. The Indians wear familiar garb and some of the customs are known to us -- suttee, for instance. But there's a touch of authenticity in the British uniforms. What outlandish caps -- like upside-down vases! The film is undone by clumsy writing and direction that is pedestrian and commercial. In the opening scene, a small camp of British soldiers is quietly wiped out, off screen. The lone officer who survives is waked up by the quiet, steps out into the night, looks around at the handful of corpses, fires a shot at a noise in the jungle, and then the camera rolls in for a gargantuan close up of the officer's face in an expression of shock and surprise. His eyes bulge, his mouth drops open, his tongue lolls -- and we don't know if he's just been stabbed or strangled or had a wetting accident. End of scene. Writing and direction that is that careless needs something close to being sacrificially burned. That scene is just an example. I don't mean that it's a terrible movie. Heck, those flamboyant hats alone might make it worth watching. It's just that, if most recent Merchant Ivory productions are exercises in sluggish elegance, this one leans too far in the other direction. Not enough advantage is taken of the location shooting. I hate to say something like watch \"A Passage to India\" to get some idea of how fruitful staging can add quality to a film -- but watch \"A Passage to India\" to see. Or even \"Kama Sutra\", a far lesser film, in which you can almost smell the incense. There's a hunt for a wounded tiger here that lands with a thud. It's hard to screw up a hunt for a wounded tiger but there's simply no suspense in the scene. On the plus side, the writer and director didn't shy away from the realities accompanying death in the tropics. The flies buzz all over the place. The performances aren't bad either.",
+         "Although it displays the usually reliable Merchant-Ivory production banner this tale of high adventure and skullduggery in British India is only a routine B movie with exotic pretensions. The background is historically factual, drawn around the ritual murders committed by a secret religious cult of so-called 'Thuggees' (from which the word 'thug' was later derived). But the far-fetched story of a British soldier infiltrating their ranks and losing himself in a netherworld of violence and vices is, at best, contrived, even by the lowest standards of romantic fiction. The idea might have looked better on paper, before its artistic and commercial potential was crippled by a lackluster, coincidence-filled script and a star performance that drains the hero of any charisma. Director Nicholas Meyer tries to convey the allure of an ancient culture, but the film doesn't have enough style to camouflage its slapdash lack of substance, and the token gestures to period flavor and atmosphere don't extend beyond the costume design and some cut-rate esoteric mysticism. When, for example, hero Pierce Brosnan is seduced by a mysterious native girl, their shadows on the wall show him embraced by the six-armed Thuggee goddess Kali\u0085 (cue the ominous tabla music)"
+      ],
+      "genres": [
+         "Adventure",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Merchant Ivory Productions",
+         "Michael White Productions",
+         "Cinecom Pictures"
+      ],
+      "summaries": [
+         "In 1825, India lives under fear. A mysterious religion's followers murder everyone that stands against their plans. When William Savage, a tax-collector of a British-Indian company, discovers the sect and decides to solve the mystery...",
+         "Shortly after killing a tiger in 1825 British India, William Savage gets married to Sarah, the daughter of his commanding officer, Colonel Wilson. While preventing Gopal's widow from killing herself in accordance with the Hindu rite of 'Sati', he inadvertently comes across some wealthy people getting killed by thugs. With the help of Raja Chandra Singh, he discovers recently buried corpses and asks Wilson to get this investigated further, but is turned down, consistent with the British legacy of 'Do Nothing, Have Nothing Done, and Let No One Do Anything', and is pressurized to raise taxes. He then arrests a number of people, including Hussein, he believes to be thugs and holds them in a cell. He is compelled to release them after Wilson's instructions, as well as his transfer is arranged to another location. Before that could happen, he enlists the help of Hussein, changes his appearance, calls himself Gopal and joins the gang - consisting of both Hindus and Muslim - who are devotees of Devi Maa Kaali. He meticulously notes down details of their victims as the gang carries out it gruesome tasks with impunity. Slowly he starts to realize that he may well be under Maa Kaali's influence after eating Gurd - consecrated sugar -; strangling the real Gopal, as well as being intimate with a courtesan. More shocks are in store for him when he finds out that the British turn a Nelson's eye to the gangs' crimes for a bribe, as well as he may well be accused of being an 'approver'.",
+         "Fact-based account of a secret society of murderers, and of the man who exposed them in British India 1825."
+      ],
+      "budget": 0
+   },
+   "movielensId": 31600,
+   "movielens": {
+      "languages": [
+         "English",
+         "Deutsch"
+      ],
+      "releaseDate": "1988-09-02",
+      "dvdReleaseDate": "2005-01-18",
+      "directors": ["Nicholas Meyer"],
+      "runtime": 102,
+      "movieId": 31600,
+      "title": "The Deceivers",
+      "mpaa": "",
+      "actors": [
+         "Pierce Brosnan",
+         "Shashi Kapoor",
+         "Saeed Jaffrey",
+         "Helena Michell",
+         "Keith Michell",
+         "David Robb",
+         "Tariq Yunus",
+         "Jalal Agha",
+         "Gary Cady",
+         "Salim Ghouse",
+         "Neena Gupta",
+         "Nayeem Hafizka",
+         "Bijaya Jena"
+      ],
+      "imdbMovieId": "0094979",
+      "originalTitle": "The Deceivers",
+      "genres": [
+         "Thriller",
+         "Drama",
+         "Action"
+      ],
+      "youtubeTrailerIds": ["E3gsAPmVK6g"],
+      "plotSummary": "India, 1825: the country lives in mortal fear of cult members known as the \u201cDeceivers.\" They commit robbery and ritualistic murder. Appalled by their activities, an English military man, Captain William Savage, conceives a hazardous plot to stop them. In disguise, he plans to himself become a \u201cDeceiver\u201d and infiltrate their numbers. Ever present in Savage\u2019s adventures is a sense of dread; he is in constant fear of betrayal and vengeance and also undergoes a disturbing psychological transformation as he experiences the cult\u2019s blood lust firsthand.",
+      "tmdbMovieId": 41968,
+      "avgRating": 3.26923,
+      "releaseYear": "1988",
+      "numRatings": 13,
+      "posterPath": "/njpJTsyxBJubTE61ZrRiWUOH39E.jpg"
+   }
+}

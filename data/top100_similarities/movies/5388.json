@@ -1,0 +1,882 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "detective",
+            "id": 703
+         },
+         {
+            "name": "confession",
+            "id": 718
+         },
+         {
+            "name": "fbi",
+            "id": 1812
+         },
+         {
+            "name": "homicide",
+            "id": 1849
+         },
+         {
+            "name": "blackmail",
+            "id": 1936
+         },
+         {
+            "name": "suspect",
+            "id": 3879
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "los angeles",
+            "id": 12670
+         },
+         {
+            "name": "teenager",
+            "id": 13130
+         },
+         {
+            "name": "neo-noir",
+            "id": 207268
+         }
+      ],
+      "imdb_id": "tt0278504",
+      "video": false,
+      "title": "Insomnia",
+      "recommendations": [
+         322,
+         9008,
+         2252,
+         1900,
+         1538,
+         2649,
+         1598,
+         59,
+         6075,
+         11660,
+         2118,
+         1813,
+         4566,
+         4147,
+         949,
+         1429,
+         968,
+         4553,
+         1647,
+         1817
+      ],
+      "backdrop_path": "/5ezMAWNO5ybkrEnxrgCy74krBa6.jpg",
+      "revenue": 113714830,
+      "reviews": [
+         {
+            "author": "talisencrw",
+            "id": "573a4d039251417ad50007ab",
+            "content": "Definitely not Nolan's best but probably my favourite (at least tied with 'Batman Begins') because I love the Norwegian original so much AND the subtle changes Nolan made with it, as well as what the three stars (Al Pacino, Robin Williams--in his first villainous role, I believe, and Hilary Swank--in probably my favourite performance of hers, next to the downright decadence and naughtiness she displayed in 'The Black Dahlia') bring to the table here. I greatly enjoyed the five short extras on my DVD (a double-sided disc I bought years ago that has 'The Devil's Advocate' on the other side, yet unwatched): a conversation/interview of Nolan with Pacino; 'Day for Night: The Making of...'; 'In the Fog' (which interviewed cinematographer Wally Pfister); Nathan Crowley: production designer; and 'Eyes Wide Open' (which interviewed sleep disturbance experts), which thankfully I viewed before I watched the movie, to enhance my experience.\r\n\r\nGreatly recommended to fans of contemporary crime thrillers, regardless of whether you watched the Norwegian original or not. There are enough differences to still make it worth your while as a cinephile.",
+            "url": "https://www.themoviedb.org/review/573a4d039251417ad50007ab"
+         },
+         {
+            "author": "Gimly",
+            "id": "59318630925141527300c97c",
+            "content": "Captures some human sentiment incredibly well, coupled with the unique setting and great acting, this makes Insomnia a good watch, worth every minute of its two hour runtime.\r\n\r\nThat said, I was not as enamoured by it as others might be. Perhaps if was unaware of what Nolan, Pacino or Williams are capable of at their highest levels, or if I didn't realise five minutes before the end that I'd actually seen it as a kid and could exclusively remember the ending, then it would have had a higher impact on me.\r\n\r\nBut even taken for me as is, _Insomnia_ is still a very solid bit of filmmaking.\r\n\r\n_Final rating:★★★ - I personally recommend you give it a go._",
+            "url": "https://www.themoviedb.org/review/59318630925141527300c97c"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Will Dormer",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cedd",
+               "name": "Al Pacino",
+               "profile_path": "/f9tBVwcNHnawvMoyuuzmKvEhBsb.jpg",
+               "id": 1158,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Walter Finch",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cee1",
+               "name": "Robin Williams",
+               "profile_path": "/5KebSMXT8uj2D0gkaMFJ8VEp53.jpg",
+               "id": 2157,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "Ellie Burr",
+               "gender": 1,
+               "credit_id": "52fe4237c3a36847f800ced9",
+               "name": "Hilary Swank",
+               "profile_path": "/zVM2gbZhuipISCoALn6iEN1bmop.jpg",
+               "id": 448,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Rachel Clement",
+               "gender": 1,
+               "credit_id": "52fe4237c3a36847f800cee5",
+               "name": "Maura Tierney",
+               "profile_path": "/sG8ZxJtdMoNlBOOkMZVABxSH5F0.jpg",
+               "id": 16307,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Hap Eckhart",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cee9",
+               "name": "Martin Donovan",
+               "profile_path": "/bNS43B8maD5A4UYSWy4UjgHru1a.jpg",
+               "id": 42993,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Fred Duggar",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cef5",
+               "name": "Nicky Katt",
+               "profile_path": "/dbAeUQXzyf2HDFYtifWkHfE3SNW.jpg",
+               "id": 18070,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Chief Nyback",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cef1",
+               "name": "Paul Dooley",
+               "profile_path": "/rnzvqo7oR2IwSfN2Ayh3ysc4WNt.jpg",
+               "id": 15900,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Kay Connell",
+               "gender": 1,
+               "credit_id": "52fe4237c3a36847f800cf11",
+               "name": "Crystal Lowe",
+               "profile_path": "/Ceoa65Zc6QXvT1zFpPmQx5dY5M.jpg",
+               "id": 58393,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Francis",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cefd",
+               "name": "Jay Brazeau",
+               "profile_path": "/oSFswqMxjLCAwVpEG2yK6NzLUiP.jpg",
+               "id": 63791,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Farrell",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cef9",
+               "name": "Larry Holden",
+               "profile_path": "/8yV3Rfvt0iWJZwO6jt2YnkdzdzL.jpg",
+               "id": 544,
+               "order": 9
+            },
+            {
+               "cast_id": 22,
+               "character": "Trish Eckhart",
+               "gender": 1,
+               "credit_id": "52fe4237c3a36847f800cf2b",
+               "name": "Kerry Sandomirsky",
+               "profile_path": "/zuzb1NEKl8MiINqLhcEW9Cfdwp8.jpg",
+               "id": 152410,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Rich",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cf01",
+               "name": "Lorne Cardinal",
+               "profile_path": "/kYdEcebOBXPYloeZUeFvyARXkC9.jpg",
+               "id": 179495,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Tanya Francke",
+               "gender": 1,
+               "credit_id": "52fe4237c3a36847f800cf27",
+               "name": "Katharine Isabelle",
+               "profile_path": "/b8qJiJm0PKbxgnh5dESlUhweSlB.jpg",
+               "id": 27136,
+               "order": 12
+            },
+            {
+               "cast_id": 19,
+               "character": "Randy Stetz",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cf1f",
+               "name": "Jonathan Jackson",
+               "profile_path": "/yn7cbSXZapwGeUUHyflPZ0TfwhE.jpg",
+               "id": 23495,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Coroner",
+               "gender": 1,
+               "credit_id": "52fe4237c3a36847f800cf0d",
+               "name": "Paula Shaw",
+               "profile_path": "/bqVe6fyo0qtD5ra9KzLTcjm8tF0.jpg",
+               "id": 99841,
+               "order": 14
+            },
+            {
+               "cast_id": 7,
+               "character": "Pilot",
+               "gender": 0,
+               "credit_id": "52fe4237c3a36847f800ceed",
+               "name": "Oliver 'Ole' Zemen",
+               "profile_path": "/6x0UFSIWoeK1dPVaM0WCXa9dPH4.jpg",
+               "id": 1075149,
+               "order": 15
+            },
+            {
+               "cast_id": 13,
+               "character": "Officer #1",
+               "gender": 0,
+               "credit_id": "52fe4237c3a36847f800cf05",
+               "name": "James Hutson",
+               "profile_path": "/3JmDtYG87RaXBLVcMJ5CAwRgXIB.jpg",
+               "id": 65800,
+               "order": 16
+            },
+            {
+               "cast_id": 14,
+               "character": "Officer #2",
+               "gender": 0,
+               "credit_id": "52fe4237c3a36847f800cf09",
+               "name": "Andrew Campbell",
+               "profile_path": null,
+               "id": 169723,
+               "order": 17
+            },
+            {
+               "cast_id": 17,
+               "character": "Mrs. Connell",
+               "gender": 1,
+               "credit_id": "52fe4237c3a36847f800cf15",
+               "name": "Tasha Simms",
+               "profile_path": "/rUpxBaMRBei6jyyRTiUqszw566I.jpg",
+               "id": 83211,
+               "order": 18
+            },
+            {
+               "cast_id": 20,
+               "character": "Principal",
+               "gender": 0,
+               "credit_id": "52fe4237c3a36847f800cf23",
+               "name": "Malcolm Boddington",
+               "profile_path": null,
+               "id": 1089889,
+               "order": 19
+            },
+            {
+               "cast_id": 23,
+               "character": "Uniformed Officer",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cf2f",
+               "name": "Chris Gauthier",
+               "profile_path": "/oV3YOvhtKuIAdYHIRLiO4RI6SE.jpg",
+               "id": 53119,
+               "order": 20
+            },
+            {
+               "cast_id": 24,
+               "character": "Warfield (voice)",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cf33",
+               "name": "Ian Tracey",
+               "profile_path": "/p2JEHCudpbZNOeNo3lYpLPOCaCD.jpg",
+               "id": 25386,
+               "order": 21
+            },
+            {
+               "cast_id": 25,
+               "character": "Woman on the Road",
+               "gender": 1,
+               "credit_id": "52fe4237c3a36847f800cf37",
+               "name": "Kate Robbins",
+               "profile_path": "/sFV0iKH6uKsQpKnLfh55urINY2u.jpg",
+               "id": 162445,
+               "order": 22
+            },
+            {
+               "cast_id": 26,
+               "character": "Girl at Funeral",
+               "gender": 1,
+               "credit_id": "52fe4237c3a36847f800cf3b",
+               "name": "Emily Perkins",
+               "profile_path": "/qsfoKWiL7x8JXnyexdiE3ERrI2i.jpg",
+               "id": 64914,
+               "order": 23
+            },
+            {
+               "cast_id": 27,
+               "character": "Ticket Taker",
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cf3f",
+               "name": "Dean Wray",
+               "profile_path": "/1Bk0OKpzgvKlHsbrGnLaVybltiY.jpg",
+               "id": 117997,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800ced5",
+               "name": "Christopher Nolan",
+               "profile_path": "/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg",
+               "id": 525,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4237c3a36847f800cf1b",
+               "name": "Hillary Seitz",
+               "profile_path": null,
+               "id": 944480,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4237c3a36847f800cf45",
+               "name": "George Clooney",
+               "profile_path": "/z4SBfpKDThuQY0FsvDbajcooBdA.jpg",
+               "id": 1461,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53642ff3c3a36812200000ca",
+               "name": "Dody Dorn",
+               "profile_path": null,
+               "id": 563,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53643000c3a3681226000134",
+               "name": "Marci Liroff",
+               "profile_path": "/54uSsUYIdK9UxomSwrwpBYnYyPN.jpg",
+               "id": 599,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5364300fc3a3681212000165",
+               "name": "Nathan Crowley",
+               "profile_path": "/lI5Q6oEf1nj3AAHuTltwpckQW3n.jpg",
+               "id": 15327,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5364301fc3a368124100013f",
+               "name": "Michael Diner",
+               "profile_path": null,
+               "id": 11818,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5364302cc3a36812200000cc",
+               "name": "Peter Lando",
+               "profile_path": null,
+               "id": 60714,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5364303ac3a36812200000ce",
+               "name": "Tish Monaghan",
+               "profile_path": null,
+               "id": 62860,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56910a55925141457000239c",
+               "name": "Broderick Johnson",
+               "profile_path": null,
+               "id": 47285,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56910a01925141456d0023e1",
+               "name": "Steven P. Wegner",
+               "profile_path": null,
+               "id": 956249,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56910a1892514166ea000875",
+               "name": "David Julyan",
+               "profile_path": null,
+               "id": 558,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56910a6492514166ea000881",
+               "name": "Andrew A. Kosove",
+               "profile_path": null,
+               "id": 47286,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56910a70925141456d0023eb",
+               "name": "Edward McDonnell",
+               "profile_path": null,
+               "id": 4588,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56910a8dc3a3686b4e0023cc",
+               "name": "Paul Junger Witt",
+               "profile_path": null,
+               "id": 2707,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56910a9c92514145610022c0",
+               "name": "Ben Cosgrove",
+               "profile_path": null,
+               "id": 28632,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56910acac3a3686b5200245e",
+               "name": "Steven Soderbergh",
+               "profile_path": "/dxdMRsAosaGlMRd7EMmm9lrXXsW.jpg",
+               "id": 1884,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56910adac3a3686b49002418",
+               "name": "Charles J.D. Schlissel",
+               "profile_path": null,
+               "id": 77512,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56910aeec3a3686b5b00241e",
+               "name": "Kim Roth",
+               "profile_path": null,
+               "id": 5284,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56910c37925141456d00241b",
+               "name": "Wally Pfister",
+               "profile_path": "/tyYtVatXW16EM7NYJZkxI3K2NQi.jpg",
+               "id": 559,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569135f992514179a6000089",
+               "name": "Rob McEwan",
+               "profile_path": null,
+               "id": 1392915,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691362b92514179aa0000a6",
+               "name": "Kelly Moon",
+               "profile_path": null,
+               "id": 1387544,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56913672c3a36802f30000a9",
+               "name": "Eva Morgan",
+               "profile_path": null,
+               "id": 1560647,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569136a3c3a36802e40000ba",
+               "name": "Larry Sutton",
+               "profile_path": null,
+               "id": 1560648,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569136b9c3a36802ef0000af",
+               "name": "Curt Schulkey",
+               "profile_path": null,
+               "id": 1404717,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569136c592514179b00000b6",
+               "name": "Aaron Glascock",
+               "profile_path": null,
+               "id": 1404716,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569136d592514179a60000a6",
+               "name": "Anthony J. Giacinti",
+               "profile_path": null,
+               "id": 1560651,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569136e4c3a36802f60000be",
+               "name": "Myron Nettinga",
+               "profile_path": null,
+               "id": 1404218,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569136f592514179a30000c2",
+               "name": "Michael Minkler",
+               "profile_path": null,
+               "id": 1399141,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56913704c3a36802ec0000c4",
+               "name": "Kira Roessler",
+               "profile_path": null,
+               "id": 1404718,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56913710c3a36802ec0000c6",
+               "name": "Alexandra Gonzales",
+               "profile_path": null,
+               "id": 1556703,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691372e92514179a60000c0",
+               "name": "Franziska Keller",
+               "profile_path": null,
+               "id": 1531859,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56913769c3a36802f90000a1",
+               "name": "Keith Woods",
+               "profile_path": null,
+               "id": 1552332,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691378092514179aa0000e0",
+               "name": "Drew Davidson",
+               "profile_path": null,
+               "id": 1391700,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5691379bc3a36802ef0000c7",
+               "name": "Ken Kirzinger",
+               "profile_path": "/g90jZeSii6OmNOlNoxGFwCb2spJ.jpg",
+               "id": 50094,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569137c8c3a36802f60000eb",
+               "name": "Randy Shymkiw",
+               "profile_path": null,
+               "id": 1560664,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569137dd92514179a30000d7",
+               "name": "Karin Nosella",
+               "profile_path": null,
+               "id": 1525907,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56913805c3a36802e40000ec",
+               "name": "Sandra Watson",
+               "profile_path": null,
+               "id": 1560665,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691382ac3a36802ef0000d8",
+               "name": "Alex Gibson",
+               "profile_path": null,
+               "id": 1403490,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56913ec792514179ac0001dc",
+               "name": "Steven A. Adelson",
+               "profile_path": null,
+               "id": 1318219,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 25.989015,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 320,
+      "vote_count": 1576,
+      "budget": 46000000,
+      "overview": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.",
+      "similar": [
+         4771,
+         1266,
+         10651,
+         868,
+         96,
+         281,
+         949,
+         3597,
+         984,
+         2142,
+         9873,
+         9411,
+         17494,
+         357096,
+         49950,
+         18587,
+         910,
+         15069,
+         26390,
+         8090
+      ],
+      "original_title": "Insomnia",
+      "runtime": 118,
+      "poster_path": "/zb0D3vfjcPFvuyHp1mFPOIcYJWH.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Alcon Entertainment",
+            "id": 1088,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Witt/Thomas Productions",
+            "id": 1089,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Section Eight",
+            "id": 129,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2002-05-24",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "A tough cop. A brilliant killer. An unspeakable crime.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Christopher Nolan"],
+      "runtime": 118,
+      "synopsis": "In the small fishing town of Nightmute, Alaska, a local 17-year-old girl named Kay Connell (Crystal Lowe) is found murdered. Two LAPD detectives, Will Dormer (Al Pacino) and Hap Eckhart (Martin Donovan) are sent up to assist the local police with their investigation. Concurrently, an intense Internal Affairs investigation back in Los Angeles is about to put Dormer under the microscope. Dormer is, in fact, guilty of planting false evidence against at least one suspect in this earlier case, a man named Dobbs. Certain that Dobbs was responsible for kidnapping and murdering a young boy, but realizing that there was not enough evidence to support a conviction, Dormer planted forensic evidence in Dobbs' apartment. Dormer fears that many of his legitimate convictions will be overturned if Internal Affairs discovers that he falsified evidence in the Dobbs' case. He does not want his life's work destroyed, nor does he want these criminals back on the streets. Early in the movie, Dormer's partner, Eckhart, reveals that Internal Affairs has offered him an immunity deal in exchange for his testimony. Dormer tries to talk Eckhart out of it, but Eckhart, apparently complicit to some degree in Dormer's misdeeds, says that ultimately he must look out for himself and his family first, so he feels he has no choice but to accept the deal. Focusing now on the Nightmute case, Dormer comes up with a clever plan to lure the murderer back to the scene of the crime. However, the stakeout attempt is blown, and the murder suspect flees into the fog, forcing the police to spread out and search for him on foot. During the pursuit, Dormer sees a figure through the fog, which he believes to be the armed murder suspect. He fires, and the figure collapses. However, when Dormer approaches, he discovers that he has mistakenly shot Eckhart. When Dormer realizes what he's done and tries to help, Eckhart turns away in horror, believing that Dormer shot him to prevent him from testifying in the Internal Affairs investigation. Eckhart dies moments later. As none of the other officers witnessed Eckhart's shooting, it is initially assumed that he was shot by the fleeing murder suspect. Given the nature of Eckhart's impending testimony, Dormer knows that Internal Affairs will never believe that the shooting was accidental. Thus, Dormer faces the dilemma of trying to bring the murder suspect to justice while at the same time cover up the truth about Eckhart's shooting and preserve the misconception that the murder suspect was responsible for that as well. Ellie Burr (Swank), a young police officer and Dormer's biggest fan, is put in charge of the investigation into Eckhart's shooting. Throughout the film, Dormer becomes more and more unhinged, partly because of feelings of guilt over shooting his partner and anxiety about the risk of being found out, partly because of insomnia brought on by the perpetual daylight of the Alaskan summer. Adding to his delirium are the phone calls he receives from Kay's killer, who does not identify himself, but who saw Dormer shoot Eckhart and knows about his attempt to cover it up. Dormer is aware that Kay was a fan of a crime writer named Walter Finch (Williams), and books autographed by him were found among her possessions. He discovers that Finch lives in Alaska, not far from the crime scene, and so starts to suspect Finch is the killer. He finds Finch's address and enters his apartment illegally. There, he finds his photo. Finch returns to his apartment while Dormer is there, realises Dormer has identified him, and flees. Dormer goes in pursuit, but Finch escapes. Finch contacts Dormer again, and they arrange to meet. Finch offers Dormer a deal, where Dormer is supposed to help frame Kay's abusive boyfriend Randy Stetz (Jonathan Jackson) for the murder in exchange for Finch's silence about the Eckhart shooting. Finch secretly tape records their conversation, in order to give him hard evidence of Dormer's role in the shooting, as well as Dormer's attempt to cover it up. He then lets Dormer know he taped the conversation, a move designed to ensure Dormer's silence. Dormer seemingly agrees to the plan, though he's really just stalling for time. Unfortunately, Finch is impatient and manages to frame Randy all by himself. When Randy is arrested for murder, Dormer is forced to choose between destroying his own reputation and allowing an innocent man to be sent to prison. Meanwhile, Burr finds some inconsistencies in the Eckhart shooting: she finds a 9mm shell casing at the scene. Reading a case report on one of Dormer's old cases, she learns that Dormer carries a backup gun, a 9mm Walther, now leading her to suspect that Dormer shot his own partner. Later, while meeting with Finch at his cabin, Burr discovers the murder victim's dress. Realizing that Finch is the murderer, she reaches for her gun, but Finch knocks her unconscious. Dormer races to the cabin to confront Finch. It is clear that his concentration is nearly gone due to his lack of sleep. A brief fight ensues between Dormer and Finch, before Burr arrives and Finch escapes to his shed. Burr holds Dormer at gunpoint, revealing that she knows he shot Eckhart and demands to know whether he did it on purpose. Dormer breaks down, admitting that he shot his partner and stating that he is no longer certain whether it was an accident or not. From the protection of his shed, Finch fires at them with his shotgun. While Burr and Finch trade gunshots, Dormer sneaks around to Finch's location. In a twist of irony, Finch (fatally) shoots Dormer with Dormer's original weapon (which was taken from Dormer to investigate Eckhart's death), but Dormer quickly picks up the shotgun and blasts Finch at point blank in the stomach. A stunned Finch dies and tumbles into the water. Burr rushes to the detective's aid. She comforts Dormer by affirming that Eckhart's shooting was accidental, and tries to toss the evidence the 9mm shell casing found from the scene. Dormer stops Burr, telling her not to lose her way. \"Let me sleep,\" he asks, weakly, before finally dying. After a moment of contemplation, Burr slips the shell casing back into its plastic evidence bag.",
+      "writers": [
+         "Hillary Seitz",
+         "Nikolaj Frobenius"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0278504/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM5Nzk2NDY3MF5BMl5BanBnXkFtZTgwMzI5MDgxMTE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Al Pacino, Robin Williams, Hilary Swank | See full cast and crew »"],
+      "reviews": [
+         "INSOMNIA is not only the third film of acclaimed director Christopher Nolan (his first two were FOLLOWINGS and MEMENTO), but also a film that is able to intertwine the acting talents of three Academy Award winners. Al Pacino plays a celebrated cop who is asked to work on the case of a murdered girl in Alaska. Hilary Swank plays the local law enforcement who has her eyes on making a big case. Robin Williams plays a troubled Alaskan writer. Without giving anything away, INSOMNIA is definitely worth it. Some may see it, and be disappointed. One way to steer away from this failure is think of INSOMNIA as a psychological thriller rather than a \"Shoot 'em up\" thriller. INSOMNIA is story about loyalty and human emotion. Don't get me wrong, the movie is thrill-packed, but let's just say--You don't need blood and gore to make the audience members be on the edge of their seats (which I was). INSOMNIA hits all of its points including acting, directing, screenwriting, and cinematography. It's a first class thriller with great characters. On a side note...Pacino is worthy of an Oscar for his performance, Williams is equally excellent, and Swank also deserves recognition for complete scope of acting. A job well done by these three actors, and especially the man behind the curtain, Christopher Nolan!",
+         "After `Memento', I - and a lot of others - eagerly awaited to see what Nolan would do next. Could he repeat the success? No. Could he still do a decent movie, a cut above the rest? Yes. It's all about a killer. A top detective, Dormer (Al Pacino), along with his partner Eckhart (Martin Donavan), is called in to assist in a murder in remote Alaska. They're assisted by the local police officer Ellie Burr (Hilary Swank), who is a big fan of Dormer. Well and good. The two detectives have a secret shared between them, which allows for some creative, character building friction. You want a twist? Got it - there's a few. Firstly, there's the whole `insomnia' element - Alaska is in a 24-hour sun period, which Dormer cannot adjust to. Therefore he's constantly awake, and as the hunt continues, getting more and more tired - and more and more likely to mistake. Speaking of mistakes - he makes a big one (which I can't reveal) but which has dramatic consequences (not to mention character introspecting and building). This allows the movie to take a path, which is somewhat unexpected (for a bit), especially when we see how far Dormer is willing to go. It's all let down a bit by a final fifteen minutes which is, if nothing else, too dully Hollywood predictable. Oh well. So the script's good but not excellent. Certainly not a patch on `Memento' as it has none of its mystery or suspense. It's essentially a cop/bad-guy story with the insomnia twist, and doesn't feature any spectacularly memorable moments. So why is it above average? The performances help for one. Al Pacino is the perfect person to play an insomniac - his drooping eyes are suited to Dormer. Yes he does his usual, appearing to sleep through his roles, but it suits the Dormer character and so he's well chosen. Swank is a bit disappointing - it's not a fault of her acting abilities, but more of a character that seems decidedly under-developed. All we know is that she's a fan of Dormer, but out to prove herself and make a mark. Not original. Robin Williams is of course the most talked about actor here, casting himself against type as a villain. He's remarkably restrained. I normally loathe his `comedy' roles, and kept expecting him to burst into goofy gestures and rambling nonsense, but he keeps himself in, gives himself a quiet dignity, undercut with a credible sense of menace. It'll make his role in `One Hour Photo' interesting to see. His character is also reasonably interesting, let down again by the weak finale. So how does Nolan, master editor, work out here? He's good. There is a nice repeated image that, like elements of `Memento', only makes full sense later on. There're some great cuts and moments indicating Pacino's extreme fatigue - still camera work, sound being drowned out, and so forth. Certainly Nolan knows how to do his visuals and work with the beautiful Alaskan (and British Columbian) landscape to create stark images (which are, of course, also metaphorical). His use of lighting - a necessity in this movie - is good, and a nice contrast with light being used where dark would normally be the enemy. It's his work, along with the actors, that lifts up the movie into the `well worth watching' category. I was, in the end, a little bit disappointed with `Insomnia'. It's not half as clever as `Memento', presumably having to pander more towards typical Hollywood sensibilities (it appears that it deviates from the original to make it more audience friendly). The lack of a stronger script is offset by some fine acting and assured direction. I look forward to seeing what Nolan does next, just not with quite the same eagerness as I did before this. 8/10.",
+         "Like the 1997 Norwegian film on which it is based, `Insomnia' is a superbly crafted crime thriller, one that is more concerned with the psychological complexities of its main character than with the minutiae of the criminal investigation itself - though the details of the case are fascinating in their own right as well. Al Pacino delivers his finest performance in years in the role of Detective Will Dormer, a seasoned homicide investigator brought in from Los Angeles to help solve the murder of a seventeen-year-old high school student in rural Alaska. The problem is that, back in L.A., Dormer is facing some heat of his own from LAPD's Internal Affairs Division, which is beginning a probe into the propriety of some of the veteran's actions on the job. Back in Alaska, while on a stakeout to nab the possible killer, Dormer becomes disoriented in the fog and ends up accidentally shooting and killing his longtime partner, a colleague who, Dormer had just learned, was planning to cooperate with the IA investigation back home, thereby bringing about the possible ruination of Dormer's career and reputation. Caught off guard by this sudden turn of events, Dormer suddenly finds himself in the unfamiliar role of perpetrator, looking for ways to cover up a `crime' rather than unravel it. One of the compelling themes of the film is its insistence that only a very thin line separates those who commit crimes from those whose job it is to uncover and prosecute the wrongdoers. Dormer is stunned to find how quickly and easily he can cross over that line. The outstanding screenplay by Nikolaj Frobenius and Erik Skjoldbjaerg really knows how to get into the minds and emotions of its characters, particularly in the case of Dormer, who turns out to be one of the most psychologically complex and fascinating figures we have encountered in the movies in a long, long time. Here is a man who has built his name and career on knowing how to unravel complex crimes, always priding himself on being one step ahead of the criminals who are so convinced they have left no traces behind which could point to their guilt. Yet, now Dormer finds himself in the same boat, as he anxiously looks for ways to hide the fact that he shot - even accidentally - a man who had the power to bring him down. As the story develops, Dormer, whom we assume at the start is innocent of the charges for which he is being investigated by Internal Affairs, begins to seem less and less innocent and more and more capable of doing just exactly what it is he is being accused of. Yet, the triumph of the film is that Pacino and the screenwriters never let us feel we know all there is to know about Dormer. He is truly a man of mystery, so tightly coiled that even he doesn't know or understand all that is going on in the deepest, darkest recesses of his psyche. By setting the film in the summer near the Arctic Circle, the filmmakers are able to provide a natural phenomenon to help aggravate Dormer's potentially psychotic condition. Like Mersault in Camus' `The Stranger,' Dormer becomes strangely disoriented by the oppressive effect of the sun, though, in this case, it is the lack of a night that drives Dormer crazy through insomnia. As the virtually indistinguishable days and nights pass without sleep, Dormer begins to suffer from delirium and hallucinations, making it all the harder for him to separate truth from fiction, fantasy from reality and - most importantly - right from wrong and morality from immortality. When the killer reveals to Dormer that he saw him shoot his partner, Dormer finds himself faced with the ethical crisis of turning the culprit in or of bonding with him as `partners' in mutual criminality and guilt. Here again the once-clear and distinct line between investigator and criminal suddenly ceases to exist. Pacino, stoop-shouldered and craggy-faced - the prominent bags under his eyes a physical testimony to his weariness and sleeplessness - plumbs the very depths of this infinitely rich and complex character. In fact, there is nothing less than an outstanding performance in the entire film. Robin Williams brings an air of restraint and understatement to the part of Walter Finch, the killer who plays a cat-and-mouse mind game with the sleepless, intellectually vulnerable Dormer, exploiting Dormer's weakened state to his own advantage. Hilary Swank brings a warmth and compassion to her role as Ellie Burr, an eager-to-please detective who has long idolized Dormer and his work, who also has to make an emotionally wrenching choice near the end of the film. Finally, Maura Tierney makes her few scenes count as a sympathetic innkeeper whom Dormer turns to as the person who happens to be handy at the moment when the need to unburden his soul spontaneously arises within him. As the film's director, Christopher Nolan establishes and maintains a mood of quiet intensity throughout the course of the film. Helped by the stark, but somewhat oppressively gloomy beauty of the Alaskan outpost setting, Nolan makes us experience the same sense of unease and disorientation Dormer himself feels. Nolan has chosen to punctuate his film with a series of highly charged, intensely dramatic confrontation scenes between Dorman and any number of the other characters in the film. The film never wanes in interest for even a moment of its running time. It is an enormous pleasure to see a film as intelligently conceived and executed as `Insomnia.' Kudos to everyone involved with making this such a rare and fascinating movie going experience. But the greatest thanks goes to Al Pacino himself. He has never been so good.",
+         "One doesn't expect to feel claustrophobic in Alaska, but that's exactly the effect when watching \"Insomnia\". The primary story is about the police investigation of the murder of a high-school girl in a small Alaskan town. Through the pull of old acquaintances and political necessity, two LA homicide detectives (Pacino and Martin Donovan) are dispatched to the scene to help the locals. The political necessity concerns a graft investigation in which the two LA detectives are key suspects. One is thinking of copping a plea, so they are spirited out of LA to avoid the investigative light. Then they find themselves in the 24-hour day of the Alaskan summer where the two plot lines collide; the murder investigation and the graft. And what a collision it is. The insomnia of the title is suffered by the Pacino character, who can't sleep during the movie's 7-day span. And each day his eyes are more sunken, he's groggier, less focused. This parallels his descent into guilt, remorse, and desperation. But to provide any more details would be to give away key plot elements. \"Insomnia\" is gripping and it's best to see the movie cold. The acting, especially Robin Williams as the key suspect in the child slaying, is top notch. Williams is made for these roles, he should kiss the suck-up feel-good stuff goodbye for good. The photography is excellent, Alaska never looked so ominous, and the direction delivers the goods. Highly recommended.",
+         "Christopher Nolan succeeds once again at mastering a suspenseful script into a truly superb film. Nolan (Memento) creates a complex and carefully construed tale that has plenty of intentional misdirection that is quite convincing. Al Pacino plays another one of his droopy detectives in a role that is quite unoriginal if placed in other films. Yet what separates this role from others is his portrayal of L.A. Detective Will Dormer actually has some 'meat' attached to it. Pacino plays a detective with a history of successful apprehensions, yet, he has flaws just like any other person and they come back to haunt him. Relocated from Los Angeles to Alaska, he is sent in hopes of capturing a killer who murdered a local schoolgirl. Judging from the previews, premature assumptions can be made labeling the film as another simple 'cat-and-mouse' thriller. Instead, those conceptions will be lost soon after the haunting opening credits emerge and we are transplanted directly into a deep and complex character study set against the backdrop of a local homicide mystery in a small Alaskan town. The film's antagonist (For those who have seen the film - is he really the villain or the catalyst for Pacino's ethical debate?) is a local writer portrayed by Robin Williams. This is Williams' second villainous role in his trilogy of films (Death to Smoochy, One Hour Photo) that aims at diversifying his resume. Williams impresses as he juxtaposes between an innocent victim of a mishap and between a calculating and conniving murderer. Director Nolan has assembled a terrific cast as this complex plot unfolds at a frivolous rate. This is a film that a discerning viewer will admire and a viewer with a short attention span will loathe. Nolan tosses us with one set of objectives and midway through the first act, we are sitting in on an entirely different film. Adjectives such as formulaic and conventional should not be associated with a film such as this. Nolan has completely revitalized the tired genre of the murder thriller with his sleek direction and picturesque photography. Nolan first had conceived of the idea upon viewing a Norwegian film of the same name directed by Erik Skjoldbjaerg. Nolan seems to have taken the flaws of the original and improved upon them in a sleek feat of filmmaking that leaves much to be questioned about its' brilliance. One viewing is not enough to internalize the level of sophistication Nolan has created with this brilliant film. Hillary Seitz's first attempt at writing a screenplay is solid but must be understood that the conception was not hers. Still, her script contains some juicy scenes that benefit all our characters in this film. Three Oscar winners (Pacino, Williams and Hillary Swank) highlight this film and with good reason. At first glance, the cast seems informingly incongruent, yet with time, all explains itself. Swank's performance as Detective Burr seems unnecessary right up until the final moments in the film. Yet, this is all of the resolute brilliance Nolan lends to this film. This film succeeds on several levels of cinematic bravura. David Julyan's haunting score coupled with intense subliminal flashes match the films' dark tone and Cinematographer Wally Pfister (Memento) captures the majestic beauty of the Alaskan sea front. As aforementioned, a thrilling chase of a murderer can be expected when introduced to the film. But not long after, we are delving into a debate that has a positive fix on morality. A battle between a person's conscience and his actions are truly at the forefront of this intellectually intriguing and complex thriller. Despite its' disappointing anticlimactic finale, the film still has enough zest and brilliance to make this film a true testament to the skill of Director Nolan. Giancarlo's Rating: ***",
+         "I was really looking forward to this film, and I'm glad to say that I wasn't the least bit disappointed. First of all, I was glad to see Al Pacino on screen again. It seems like it's been a while since I've seen him on screen. I think the last film he was in was \"Any Given Sunday.\" Pacino yet again delivers a brilliant performance, strapping the audience in for a wild ride through the emotionally scarred mind of Detective Will Dormer. It seemed like I could feel his every emotion throughout the course of the movie. Because this is a character-driven story that revolves around Dormer, his pain, anguish and guilt on account of accidentally taking his partner's life, constant insomnia and subsequent threats by his nemesis, played by Robin Williams as a writer of trashy detective novels who's fascinated by Dormer and blackmails him by threatening to spill out the secret of Dormer shooting his partner. As for Robin Williams, he is fully convincing as the reclusive novelist/murderer of a 17-year-old girl. I suspected, from the trailers, that he'd play a serial killer. I wouldn't exactly classify his character as a serial killer, but he is the antagonist and a murderer and Williams plays the role perfectly, never underplaying it and never overplaying it. He could've went over-the-top, playing a totally ruthless killer who cackles at the thought of murdering someone in cold blood. Though he's not our sympathetic character, you do feel sympathy for him at times. And I like how the story creates this little cat-and-mouse game between the two characters, each one plagued by skeletons in the closet. Oscar-winner Hilary Swank delivers another fine performance, and I was stunned to see how amazingly attractive she looks, after having seen her gender-bending role as Brandon Teena in \"Boys Don't Cry.\" Christopher Nolan is the acclaimed director of \"Memento\" and he scores yet again, with this beautifully constructed thriller. I was intrigued from start to finish. Nolan's use of lighting is dark and murky, wonderfully setting the noirish tone. Nolan shows great promise as an up-and-coming director, and with a good outlet he can possibly become the next Kubrick. I greatly look forward to seeing his next project, whenever that may be. I recommend \"Insomnia\" to anyone who loved Nolan's previous \"Memento\" or anyone who simply enjoys a great, multi-faceted mystery/thriller that will keep you guessing at every turn. I think it's too early to vote this movie as one of the best films of 2002, but it's a possible candidate. We don't see too many \"great\" films anymore, and whenever they're out there it's good to take advantage. My score: 9 (out of 10)",
+         "I used to think that nobody could come close to Robert De Niro when it comes to who was the best actor in Hollywood but as the years went by he started to pick some real Turkeys and a in the mean while an old hand was gradually taking the crown from De Niro and that is Al Pacino. In Insomnia he has picked another cracker of a film that although not fast paced is brilliantly acted and is very watchable. Hilary Swank is superb as is Robin Williams and its refreshing to see him taking a serious role instead of sentimental trash like Patch Adams but as per usual it is Al Pacino who steals the show. He plays an insomniac Cop who gets intangled in a murder case and gets into trouble after accidently killing his partner . I cant think of an actor who looks more tired than Pacino anyway so he was perfect for the role. The story is OK but to be honest the film is more about the performances than the plot. 8 out of 10",
+         "First off, Christopher Nolan is one of my biggest influences when it comes to film and screen writing. With films such as Following and Memento, both of which reached cult following levels, he is well on his way to a successful Hollywood career. Then, today came, his 3rd film was released, Insomnia. Based on a 1997 Norwegian film written by Nikolaj Frobenius and Erik Skjoldbjærg, Insomnia is a true work of art in the world of film. Christopher Nolan takes all that was the 1997 film, and brings it to the next level, using his own style of directing, a musical score with shades of Memento, and an all star cast. Al Pacino and Robin Williams pulls out the greatest performances of their careers in the past decade, if not in their ENTIRE careers in my eyes. Pacino once again excels in the role of master dective, while Williams takes this chance to show his \"dark side\", and he does it so well. I can only hope that this is a rebirth of Robin Williams, and as it stands with his upcoming film One Hour Photo (which he once again plays a dark, psychotic role), it seems to be just that! Hilary Swank also pulls out what is the greatest role of her career. Insomnia brings you in as an audience, with it's perfectly woven plot, with a film noir feel to it, just as Nolan's first two films. It is a rollercoster ride of drama and suspense as you watch Al Pacino from the very beginning unravel, and the rest of the story and his past catches up with him. I can not say much more about it, as I do not wish to spoil anything about if for you, but I do want to say this... ...go see it, right now, and enjoy. If you love crime/mystery/drama films with that wonderful Film Noir feel to it, you will love this film. If that isn't your thing, then the performances of the three main actors are worth the price of a ticket in itself. Finally I just want to say, that Insomnia proves once and for all that Christopher Nolan will indeed be a force to reckoned with in Hollywood. I've said it before, and I'll say it again... ...Christopher Nolan is well on his way to becoming the Hollywood legend which he proves he is capable of becoming.",
+         "Al Pacino's acting once again is a highlight of a film he's in. He has the capacity to dominate a film with his presence. In this re-make of the Norwegian film, Pacino is excellent as a good-yet-tainted policeman who starts to unravel after not sleeping for four or five days. The Alaskan summer, with light 24 hours of day, can do that to visitors Robin Williams, meanwhile, plays a killer. It's funny how comedians can do so well playing dramatic roles and Williams is a prime example. He's especially good at creepy nut-cases (See \"One Hour Photo\") Williams doesn't enter the movie until about halfway through and he's fascinating in a low-key role (until the end). For a modern-day crime film, this doesn't have a lot of action but that's fine if the acting is this good and the story involving. Here, the acting is better than the story. Kudos to Hillary Swank, too, for her performance as the cop. The Alaskan scenery ain't bad, either.",
+         "I erred in giving into temptation to watch the original Norwegian \"Insomnia\" on IFC just a couple of weeks before seeing this Hollywood re-make directed by indie-credible \"Memento\" Christopher Nolan with a very effective Academy Award-winning cast. The original movie had a tiny budget and also an excellent cast, led by the terrific Swede Stellan Skarsgård, growing as pale as that relentless sunshine during the course of the film; the usually haggard-looking Al Pacino interprets his insomnia visually through an ever more haggard face. Though the original film isn't given as the source material until well into the closing credits, this follows the main thrust of the story closely. The changes, though, are both subtle and significant and intriguingly as American as Sam Spade when the mise en scene gets moved to Alaska (actually shot in Vancouver). Significantly, there is less sex and more morality. Hilary Swank's character is more naive than her counterpart; Martin Donovan's character's role is more central to the story and, of course, Robin Williams gets more screen time than his original counterpart, as the conflict is less in the lead's mind and more on the screen as a duel. The plot twists are done differently so I shamefully got confused between the two movies. While not as overwhelming as the original, I do think this version should rank right up with the great detective/cop-does-the-right-thing movies, and the plot makes more sense than \"The Big Sleep.\" (originally written 6/16/2002)"
+      ],
+      "genres": [
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Alcon Entertainment",
+         "Witt/Thomas Productions",
+         "Section Eight"
+      ],
+      "summaries": [
+         "Sent from the city to investigate the murder of a teenage girl in a small Alaska town, a police detective (Pacino) accidentally shoots his own partner while trying to apprehend a suspect. Instead of admitting his guilt, the detective is given an unexpected alibi, but this \"solution\" only multiplies the emotional complexity and guilt over his partner's death. He's also still got a murder to solve, in addition to the blackmail and framing of an innocent bystander being orchestrated by the man they were chasing. There's also a local detective (Swank) who is conducting her own personal investigation... of his partner's death. Will it all come crashing down on him?",
+         "In Nightmute, Alaska, seventeen year old resident Kay Connell is found murdered. As a favor to the local Nightmute police chief, two Los Angeles Robbery Homicide police detectives, Will Dormer and Hap Eckhart, are called in to assist in the investigation. Although renowned in the police world, both Dormer and Eckhart are facing some professional issues back in Los Angeles. In Nightmute, Dormer has a major case of insomnia due to a combination of the incessant midnight sun and from a secret he is carrying. This insomnia is causing him to be delusional. Something he is not dreaming about is that the murderer has contacted him, informing him all about the murder and the fact that he knows everything that is going on with Dormer. They begin a symbiotic relationship in keeping secrets for each individual's benefit. But ambitious young local detective, Ellie Burr, might piece the story together on her own.",
+         "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen."
+      ],
+      "budget": 46000000
+   },
+   "movielensId": 5388,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2002-05-24",
+      "dvdReleaseDate": "2002-10-15",
+      "directors": ["Christopher Nolan"],
+      "runtime": 118,
+      "movieId": 5388,
+      "title": "Insomnia",
+      "mpaa": "R",
+      "actors": [
+         "Al Pacino",
+         "Robin Williams",
+         "Hilary Swank",
+         "Maura Tierney",
+         "Martin Donovan",
+         "Nicky Katt",
+         "Paul Dooley",
+         "Crystal Lowe",
+         "Jay Brazeau",
+         "Larry Holden",
+         "Kerry Sandomirsky",
+         "Lorne Cardinal",
+         "Katharine Isabelle",
+         "Jonathan Jackson",
+         "Paula Shaw",
+         "Oliver 'Ole' Zemen",
+         "James Hutson",
+         "Andrew Campbell",
+         "Tasha Simms",
+         "Malcolm Boddington",
+         "Chris Gauthier",
+         "Ian Tracey",
+         "Kate Robbins",
+         "Emily Perkins",
+         "Dean Wray"
+      ],
+      "imdbMovieId": "0278504",
+      "originalTitle": "Insomnia",
+      "genres": [
+         "Crime",
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.",
+      "tmdbMovieId": 320,
+      "avgRating": 3.47556,
+      "releaseYear": "2002",
+      "numRatings": 8081,
+      "posterPath": "/zb0D3vfjcPFvuyHp1mFPOIcYJWH.jpg"
+   }
+}

@@ -1,0 +1,629 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "red cap",
+            "id": 2159
+         },
+         {
+            "name": "rivalry",
+            "id": 9823
+         },
+         {
+            "name": "dysfunctional family",
+            "id": 10041
+         },
+         {
+            "name": "oceanography",
+            "id": 181238
+         },
+         {
+            "name": "scientific expedition",
+            "id": 181239
+         },
+         {
+            "name": "absurd humor",
+            "id": 226818
+         },
+         {
+            "name": "diorama",
+            "id": 241500
+         },
+         {
+            "name": "research turtles",
+            "id": 241501
+         },
+         {
+            "name": "pirates",
+            "id": 241502
+         },
+         {
+            "name": "acoustic guitar",
+            "id": 241503
+         }
+      ],
+      "imdb_id": "tt0362270",
+      "video": false,
+      "title": "The Life Aquatic with Steve Zissou",
+      "recommendations": [
+         4538,
+         11545,
+         9428,
+         13685,
+         10315,
+         83666,
+         8051,
+         6418,
+         2757,
+         492,
+         1548,
+         334,
+         4995,
+         308,
+         2292,
+         12573,
+         134,
+         401,
+         378,
+         473
+      ],
+      "backdrop_path": "/x2EutNySnFRVrjOXsnGyj3HHvf7.jpg",
+      "revenue": 34808403,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Steve Zissou",
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010025",
+               "name": "Bill Murray",
+               "profile_path": "/7BOoOAIA1CnSzFSVSJP7saniQaB.jpg",
+               "id": 1532,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Eleanor Zissou",
+               "gender": 1,
+               "credit_id": "52fe4241c3a36847f801003b",
+               "name": "Anjelica Huston",
+               "profile_path": "/Aiyv68gYWcEe9OYhyCkOa09kjmy.jpg",
+               "id": 5657,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Jane Winslett-Richardson",
+               "gender": 1,
+               "credit_id": "52fe4241c3a36847f801003f",
+               "name": "Cate Blanchett",
+               "profile_path": "/5HikVWKfkkUa8aLdCMHtREBECIn.jpg",
+               "id": 112,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Klaus Daimler",
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010043",
+               "name": "Willem Dafoe",
+               "profile_path": "/xM5lhOR5tWWdIlFpBDeZJx9opIP.jpg",
+               "id": 5293,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Ned Plimpton",
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010047",
+               "name": "Owen Wilson",
+               "profile_path": "/j7oYgvfDiO34VcFdSB7GhM2CSle.jpg",
+               "id": 887,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Alistair Hennessey",
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f801004b",
+               "name": "Jeff Goldblum",
+               "profile_path": "/t812WlNdP6F2ksRj21JF68DUiwz.jpg",
+               "id": 4785,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Oseary Drakoulias",
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f801004f",
+               "name": "Michael Gambon",
+               "profile_path": "/k6VxRs7xcG6DLEVM1izjb3UWSyC.jpg",
+               "id": 5658,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Vladimir Wolodarsky",
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010053",
+               "name": "Noah Taylor",
+               "profile_path": "/dSlH0WA09dVqQhgB7LB5xn8WzD.jpg",
+               "id": 1284,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Bill Ubell",
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010057",
+               "name": "Bud Cort",
+               "profile_path": "/mwCVkL9BG1ZCF9icbcKjE8TCS7H.jpg",
+               "id": 4971,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Pelé dos Santos",
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f801005b",
+               "name": "Seu Jorge",
+               "profile_path": "/dzHtT5Sp0RQKGycmXyRXvBXip5j.jpg",
+               "id": 5659,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Intern 1",
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f801005f",
+               "name": "Matthew Gray Gubler",
+               "profile_path": "/l7wFN37wNnt4HYNz1Im94RkBwF7.jpg",
+               "id": 5661,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Festival Director",
+               "gender": 0,
+               "credit_id": "52fe4241c3a36847f8010063",
+               "name": "Antonio Monda",
+               "profile_path": null,
+               "id": 5662,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Antonia Cook",
+               "gender": 0,
+               "credit_id": "52fe4241c3a36847f8010067",
+               "name": "Isabella Blow",
+               "profile_path": null,
+               "id": 5663,
+               "order": 12
+            },
+            {
+               "cast_id": 33,
+               "character": "Esteban",
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f80100c5",
+               "name": "Seymour Cassel",
+               "profile_path": "/atWyQvsLNjmXP5dxsOiaf5Qg9j.jpg",
+               "id": 5950,
+               "order": 13
+            },
+            {
+               "cast_id": 38,
+               "character": "Anne-Marie Sakowitz",
+               "gender": 0,
+               "credit_id": "559db61c9251412db60002b9",
+               "name": "Robyn Cohen",
+               "profile_path": "/bIKEqloDLOgVTc2u7052xL8jn07.jpg",
+               "id": 1231380,
+               "order": 14
+            },
+            {
+               "cast_id": 39,
+               "character": "Vikram Ray",
+               "gender": 2,
+               "credit_id": "5858571f925141724d035fb0",
+               "name": "Waris Ahluwalia",
+               "profile_path": "/608mxzVDmbQtWt3IedJyQ72FNg5.jpg",
+               "id": 5301,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f801002b",
+               "name": "Wes Anderson",
+               "profile_path": "/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
+               "id": 5655,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010031",
+               "name": "Noah Baumbach",
+               "profile_path": "/6PuCDnBLURBnLCuat7BfouH9Gus.jpg",
+               "id": 5656,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010037",
+               "name": "Wes Anderson",
+               "profile_path": "/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
+               "id": 5655,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f801006d",
+               "name": "Wes Anderson",
+               "profile_path": "/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg",
+               "id": 5655,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010073",
+               "name": "Barry Mendel",
+               "profile_path": null,
+               "id": 5664,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010079",
+               "name": "Scott Rudin",
+               "profile_path": "/zR8sdlGblto6dneAr2mckTowwEl.jpg",
+               "id": 2997,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4241c3a36847f801007f",
+               "name": "Dan Beers",
+               "profile_path": null,
+               "id": 5665,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010085",
+               "name": "Rudd Simmons",
+               "profile_path": null,
+               "id": 3264,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f801008b",
+               "name": "Mark Mothersbaugh",
+               "profile_path": "/AoQ4Prrg039LlQiwBNANXn8VVkg.jpg",
+               "id": 5666,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010091",
+               "name": "Robert D. Yeoman",
+               "profile_path": null,
+               "id": 5667,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f8010097",
+               "name": "David Moritz",
+               "profile_path": null,
+               "id": 5668,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f801009d",
+               "name": "Douglas Aibel",
+               "profile_path": null,
+               "id": 5669,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f80100a3",
+               "name": "Mark Friedberg",
+               "profile_path": null,
+               "id": 5670,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4241c3a36847f80100a9",
+               "name": "Gretchen Rau",
+               "profile_path": null,
+               "id": 4148,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4241c3a36847f80100af",
+               "name": "Milena Canonero",
+               "profile_path": null,
+               "id": 5671,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4241c3a36847f80100b5",
+               "name": "Stefano Maria Ortolani",
+               "profile_path": null,
+               "id": 5672,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4241c3a36847f80100bb",
+               "name": "Marco Trentini",
+               "profile_path": null,
+               "id": 5673,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4241c3a36847f80100c1",
+               "name": "Eugenio Ulissi",
+               "profile_path": null,
+               "id": 5674,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5525827f9251417248002171",
+               "name": "Mike Cachuela",
+               "profile_path": "/cpFzLDMttRswVY3XLefXDYwKN9L.jpg",
+               "id": 1450347,
+               "department": "Editing",
+               "job": "Editorial Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5536c23a925141704900255b",
+               "name": "Justin Kohn",
+               "profile_path": null,
+               "id": 1353148,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d5b36925141585200159f",
+               "name": "Martin Meunier",
+               "profile_path": null,
+               "id": 1452917,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 10.052744,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 421,
+      "vote_count": 975,
+      "budget": 50000000,
+      "overview": "Wes Anderson\u2019s incisive quirky comedy build up stars complex characters like in \u2018The Royal Tenenbaums\u2019 with Bill Murray on in the leading role. An ocean adventure documentary film maker Zissou is put in all imaginable life situations and a tough life crisis as he attempts to make a new film about capturing the creature that caused him pain.",
+      "similar": [
+         8967,
+         1587,
+         334,
+         634,
+         11631,
+         13,
+         35,
+         88,
+         773,
+         4538,
+         244772,
+         49519,
+         39254,
+         112160,
+         277216,
+         242224,
+         7972,
+         8204,
+         433,
+         342878
+      ],
+      "original_title": "The Life Aquatic with Steve Zissou",
+      "runtime": 119,
+      "poster_path": "/kKwNRePEqTfC6DnNlJzz1yX44iR.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Íslenska",
+            "iso_639_1": "is"
+         },
+         {
+            "name": "Português",
+            "iso_639_1": "pt"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "",
+            "iso_639_1": "tl"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "American Empirical Pictures",
+            "id": 23449,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "id": 9195,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2004-12-10",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "The deeper you go, the weirder life gets.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Wes Anderson"],
+      "runtime": 119,
+      "synopsis": null,
+      "writers": [
+         "Wes Anderson",
+         "Noah Baumbach"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0362270/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Bill Murray, Owen Wilson, Anjelica Huston | See full cast and crew »"],
+      "reviews": [
+         "Although one person I was with at the pre-screen hated it, I absolutely loved it. I think it will just be one of those kinds of films (but hey, I also loved \"The Adventures of Baron Munchausen\" which this reminded me of). Pure crazy fantastical stuff and I was completely taken with it. It's a visually beautiful film with loads of odd little CG touches and subtle visual gags. The cutaway tour of the ship was a classic. Murray gives an amazing, energetic, yet deadpan performance and I also liked the richness of the smaller roles like \"Klaus.\" The soundtrack was quirky and wonderful with unexpectedly hilarious Bowie covers and pounding, rocking tracks in the action scenes. I think the gorgeous locations, sets and props nearly steal the show--kind of reminded me of \"Brazil\" in that way and I think it is destined to become a cult film in the same way \"Brazil\" has. I can't wait to take some friends of mine and see what they think once it opens--this is one of those movies that's so different and off the wall that it will be interesting to see how it plays out. Although I realize it's getting mixed reviews, I'll stick my neck out and call it a masterpiece. Being old enough to have grown up with Jacques Cousteau, I felt Anderson really captured the look and feel he was after with the the \"movie within the movie\" sequences and the yellow typographical stuff was spot-on. If, like me, you're bored with the usual metroplex fare, this odd, unexpected movie is for you. What a blast! Wheeeeee!",
+         "I cannot express in words how many different styles of film making Wes Anderson combined into this masterpiece. At one point hilarious, sometimes even action-packed, while other times, you may feel a tear forming. Wes Anderson deserves major credit for this new addition to his excellent films. The stop-motion animation, although underused, was extremely imaginative and is a lost art nowadays in movies that should be taken into consideration. The premise itself was great, but when you watch the film, you almost forget that the sole purpose of the film is to confront the jaguar shark, as you become connected with the characters emotionally. Overall, Bill Murray, Willem Dafoe, Jeff Goldblum, Seu Jorge (whose Portuguese interpretation of \"Space Oddity\" nearly drew me to tears with laughter) Cate Blanchett, and Owen Wilson, I applaud them for making such a great film better, Wes Anderson as well. Excellent music, great acting, teary moments, and action-packed rescues make this a definite 9.5/10!",
+         "What a stunning body of work Wes Anderson has created. I will be honest, when I first saw the previews to this film I was worried that Anderson may have gone the way of so many other directors who have developed their name in Hollywood. Art is replaced by money, which is replaced by angry fans. I saw the CGI fish and began to feel a sweat break with nervousness. Will he be able to continue the humor from Bottle Rocket, the darkness of Rushmore, as well as the ensemble connectedness from The Royal Tennanbaums? Well, folks, I am here to announce that he has taken the Hollywood money and has not veered too far off his signature course. I always imagine Anderson's work as a very dry martini. His humor, the most intelligent work I have seen in a long time, is like the liquid itself, creating this bold texture while packing a powerful emotional punch. The olives are the cast, giving just some extra to nibble on while you enjoy the entire drink. Place these elements together, the drink and olives, and you have The Life Aquatic with Steve Zissou. To begin with, this film would not have worked without anyone else in the lead than Bill Murray. His ability to contain himself while also giving us the emotional stress of being a first-time dad as well as loosing his best friend is Oscar worthy. He is the perfect guide for our trip, giving us that knowledgeable laugh as well as those sympathetic eyes that seem to shout, \"Everything will work out\". He is bold and smooth as both the Captain of the vessel as well as learning the tricks of being a father. His ability to deliver his lines was both crucial and beautifully timed giving us just enough to make us fall in love with him by the end of the film. Coupled with his amazing performances is the work of everyone else involved. Willem Dafoe proves that he can handle any role, big or small, and make it very memorable. My favorite character during this voyage was Cate Blanchett's role that nearly stole the show from Murray. Her multi-depth character gave us just the distraction that we needed to see the power of the father/son relationship. Her quirks take us deep into the human soul and give us a mother's perspective to this mission. It is a beautiful counter to Murray's passive/aggressive father figure. Goldblum is quickly becoming a favorite actor of mine, while Huston proves that she still has the ability inside of her. Both of these guys need to see more work. The rest of the eclectic cast ranges from the hilarious \"interns\" to the melancholy songs of David Bowie (see if you can spot them!). Even Noah Taylor (of Vanilla Sky fame) turned out a stunning performance. The cast shines through beautifully, playing off each other, giving us some of the best performances of the year. I will admit, Anderson's comic narrative will leave this dry taste in your mouth, but for me it was a great experience. His humor is dry, his films are dry, but that is what makes him different than others in his field. He gives us those long pauses and obscure references that will either force you to think or create frustration because you do not understand his meaning. I have grown up on his films since seeing Bottle Rocket, and I love the way this man creates. One of my favorite lines and scenes in this film that I have raved to everyone as the epitome of an Anderson film was when Zissou first takes Ned to the island and Eleanor tells Steve that one of his cats died. After some banter, Ned asks what type of cat it was. Zissou replies \"Who cares. A tabby I think\u0085\" which isn't funny at first, but then you realize that all he has on the island are Siamese cats, which only make me laugh harder in my seat. That is Wes Anderson humor, and it works perfectly for me. His ability to create these challenging characters and put them in situations that I never saw coming (the \"pirates\" scene being one of them) was outstanding. It felt as if he was throwing his crew into different troubles daily who in turn produced some of the best work ever. Only Wes Anderson could create beauty out of chaos. My fear of the CGI was muted immediately when I saw that Anderson used the technique to create some of the most imaginative creatures ever to lurk in the sea impressed me. He didn't use it as a central focus of the film (until the end), and used it sporadically so that it really didn't feel as if it was being used. The creatures that he created are so bold and colorful that skillfully he uses them to counter the life of Zissou, which seems be getting darker by the day. This contrast allowed me to see deeper into Murray's character and root for his misadventures throughout the entire film. Overall, I was very impressed. I know that not many enjoyed this picture as much as his previous works, but for me it was a fresh chapter with a stellar cast. Anderson is slowly changing the face of cinema, and soon others will follow trying to recreate his award winning voice, but will not succeed. This man is in the same boat as Gondry, Coppola, Jonez, and Kaufman. These are the imaginative thinkers of Hollywood that continually break the mold and open the doors to new possibilities. Grade: ***** out of *****",
+         "This story is a lighthearted adventure comedy. I too am guilty of being one of those Wes Anderson fans who salivate over all the small details but while watching this I quickly detached myself from the director and his style and previous work and just let \"The Life Aquatic\" take me along. And that's what you have to do. It's different from his other stuff in that it's more plot driven. There are some wonderful characters but they have to deal more with outside complications than internal struggles. It is similar in tone and style to Robert Altman's \"M*A*S*H,\" what with all the juggling of fighting and death (serious themes dealt with in an objective comedic manner). There's also some Fellini moments (it was mostly filmed at Cinecitta). I loved it. Don't go into this film as a biased hipster Wes Anderson fan, clean the slate and take it with an open mind. It's certainly sillier than Rushmore or Tenenbaums, but it's just as ambitious and exponentially courageous with shots and tone. To reiterate: more action oriented, funny as all get out, and quite possibly the funnest I've had in a theater all year.",
+         "\"The Life Aquatic\" is most certainly an unusual film. It's something of a collage of colorful imagery, fragmented shots, quirky music, strange characters, bizarre situations, and amusing montages. But if one had seen Wes Anderson's previous films, one would expect nothing less. It can't really be helped that there be a certain amount of hype around Anderson's name, after all, his films \"Rushmore\" and \"The Royal Tenenbaums\" both generated vast critical acclaim and three of this young director's four films have already received the Criterion DVD treatment. Is the buzz warranted? I say, absolutely. Anderson has created some of the most vibrant, vivid, unique, and off-beat films of the last decade, and \"The Life Aquatic\" is no exception. The film follows Steve Zissou (Murray), a formerly glorious oceanographer whose latest documentary, which is about his closest friend and colleague, Esteban, being eaten by a \"Jaguar Shark\", receives a less-than-glorious reception. Steve then announces he plans to set out on a voyage to film part two of his documentary, which will follow him and his crew as they attempt to track down the alleged \"Jaguar Shark\". Along for the ride is Ned (Wilson), someone who may or may not be Steve's son; Jane (Blanchett), an up-and-coming journalist doing a story on Zissou; Klaus (Dafoe), the eccentric German first mate; a Portugese, David Bowie-covering weapons expert; a no-nonsense tech expert; a usually semi-nude female crew-member; a band of unpaid interns; and several other quirky personalities. Other characters include Zissou's estranged wife, Eleanor (Huston), and her former husband, Alistair Hennessey (Goldblum). On the journey, the crew encounters money problems, relationship issues, and...pirates. The film takes place in a vivid world that is somewhat inside Steve's head. A colorful world where the creatures are claymation and where Steve can single-handedly ward off kidnapping, gun-wielding pirates to beat of The Stooges' \"Search and Destroy\". I do warn you though, if you are not a fan of dry humor, this one's most likely not for you. The movie's loaded with it, in all of its off-beat, tongue-in-cheek anti-glory. There are some wonderful acting performances throughout, including an exuberant Bill Murray, who just loses himself in the character of Zissou, a subdued Anjelica Huston, whose subtle sly grins and deadpan delivery develop her character far more than anything else, and a spirited Willem Dafoe, who manages to make a German accent sound funnier than I ever imagined it could. If you enjoyed \"Rushmore\", \"The Royal Tenenbaums\", \"Punch-Drunk Love\", or \"I Heart Huckabees\", then you most certainly should not let this charming, oddly beautiful little film pass beneath your radar. 9.5/10",
+         "The Life Aquatic with Steve Zissou is a beautiful film. I'm ashamed to say that the first time I rented it I popped it out of the player after only a couple of minutes. I must have been in the mood for an action flick at the time. I gave the movie a second chance recently and was impressed by this film. The actors are at the top of their form. Cate Blanchett's character is beautiful, pregnant, fiercely independent, and yet vulnerable. Murray is revealing how broad his range is once again. He shocked me with his talent in the remake of Hamlet, impressed me with Lost in Translation, and now somehow has combined the putz he often plays with an extremely complicated character that few other actors could manage. The comedy is fantastically funny and is a fresh change from the 'Oh no, I plugged up the toilet' humor that has been so prevalent recently. It's still ludicrous at times and yet the viewer welcomes it and enjoys it. Overall, I gave it a 9 out of 10. I highly recommend it and wait to see how Bill Murray will impress us in the future. Billy Mintsopoulos",
+         "Of course I cannot say the meaning of this movie but I want to offer you a view you can look at this movie again and I am sure most of you will be surprised by this perspective. Do you remember (especially you boys)when you were small? When you guys had your \"gang\" with leader (Steve), when you got a new boy (Ned) to your gang and some guy was very jealous on him? (Klaus) I am sure one of your rivals was decent boy from a rich family (Hennessey). Maybe you got very smart girl among you who could solve everything (Eleanor). You could fight with other gangs with guns that could shoot sparkles again and again and nobody got hurt. And when you jump over small pond (sorry huge swamp) there were plenty of leeches on you? Oh, I love that movie, now I know why I felt so sentimental when I watched that movie first time - it reminds me my childhood so so much. Our \"gang\" had secret plan - to get big boat somewhere, load it with food, guns and go to Cuba. We didn't have scientific dreams :-) I am sure that in this movie Wes Anderson tries to picture his adventurous dreams when he was small. Now I understand why there is an old man asking for signature of child's sci-fi books, why there is a letter from small boy, why Cate Blanchett is saying at the end of the movie: he will be twelve in eleven and half and Steve responds: that's my favorite age. That was my favorite age, too Steve... I take this movies as a wonderful tribute to childhood (mostly boyish I guess) where great adventure was all around us. Do not get me wrong: I did not discover this idea, I was told about it and for me it perfectly fits together and I love this movie even more! By the way: very similar movie tricks made Czech director Karel Zeman 40 years ago in B&W. Highly recommended",
+         "I went into this movie thinking it would be hilarious. I believe this is how the movie was marketed, and would explain the poor box office showing of this movie. However, this is more a story about life than a comedy. Sure it has a comedy wrapper, but a wrapper is usually thin and inedible compared to the candy inside. This is not your typical candy, but it is fruitful in many ways. This movie is a fabric, not a two dimensional piece of characatured tissue paper as the many signs would have you believe. This movie is for deep thinking people and those with a heart. See it.",
+         "Well exactly as my summary says, this is a very well made straight-out unpretentious movie about a fading wildlife-film director's attempt to re-create his past success that made him some sort of cult phenomenon. Reading a few of the other reviews, I think this is evidently a \"hate it or love it\" film, however a lot of people seem to have missed the point-I don't think this film was really intended as a comdey, to me it was more just about the relationships and interactions between the various characters and maybe even an exploration of the human spirit. The motivation for this project is revenge on the \"leopard shark\" that killed his best friend/long-standing partner and there is a lot of emotion on the way, including an inspiring relationship between him and his long lost son, whom he has never met but was a huge fan of his as a boy, and the constant drama between him and his wife, who's father's money has payed for his entire career. Wes Anderson has excellent cinematography, with some great CGI, depicting marine life in a very retro fashion, and beautiful landscapes, as well as a very well put-together soundtrack including Sigur Ros, The Stooges and Ziggy Stardust era Bowie played in Portuguese with a classical guitar accompaniment. We also see Bill Murray at his best as well as a heart-warming performance by Owen Wilson, who I am not normally a fan of. The script is also very well written and the story is so well put-together that even an attack by pirates or looting a large scientific institution seem plausible in a serious movie about an oceanographer! Overall, this is a brilliant film and there isn't a lot more I can say.",
+         "After watching three-quarters of the movie and shutting if off in disgust, I was incredulous when I came here and read all the wonderful reviews of this film. So I watched it again, just in case it was merely a case of me having a bad day the first time I watched it, or perhaps the film all came together after I had quit watching it. I figured I must have missed something. So now, after watching it all the way through, my final conclusion is that this is one of the worst movies I have ever seen. I kept waiting for something funny to occur but I could see every joke coming from a mile away. There was not one iota of originality. Sadly, the trailer that was shown on television before the film was released had all the funniest scenes from the movie in it, but even they weren't really weren't all that funny. Although I am a big Bill Murray fan, this is one of his projects I will forget and try to not hold it against him."
+      ],
+      "genres": [
+         "Adventure",
+         "Comedy",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Touchstone Pictures",
+         "American Empirical Pictures",
+         "Scott Rudin Productions"
+      ],
+      "summaries": [
+         "When his partner is killed by the mysterious and possibly nonexistent Jaguar Shark, Steve Zissou and his Team Zissou crew set off for an expedition to hunt down the creature. Along with his estranged wife, a beautiful journalist and a co-pilot who could possibly be Zissou's son, the crew set off for one wild expedition.",
+         "Steve Zissou, sea-film auteur a la Jacques Cousteau, has reason to be melancholy: his partner has been eaten, perhaps by a mythic jaguar shark, his wife may be taking up with her ex-husband, a young man appears claiming Steve is his father (Steve hates fathers), his most recent films have tanked, he's having trouble raising money for his venture to revenge his partner, and he's attracted to a pregnant reporter who prefers the pretender. At sea, in pursuit of the shark, will he escape pirates and mutiny, forge the bonds of fatherhood, place his arm around his wife, find the monster of the deep, re-establish box office hegemony, and discover a reason to smile?",
+         "While making a documentary, the famous oceanographer Steve Zissou loses his dear friend, eaten by a jaguar shark. He raises funds for an expedition in his ship Belafonte to hunt the shark and make a new film. The journalist Jane Winslett-Richardson and a pilot that claims to be his unknown son, Ned Plimpton, join his crew in their journey, planned by his wife Eleanor Zissou. While making the movie, they are attacked by pirates and left without any money to finish their work.",
+         "With a plan to exact revenge on a mythical shark that killed his partner, oceanographer Steve Zissou rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son."
+      ],
+      "budget": 50000000
+   },
+   "movielensId": 30810,
+   "movielens": {
+      "languages": [
+         "English",
+         "Íslenska",
+         "Português",
+         "Français",
+         "",
+         "Deutsch",
+         "Italiano"
+      ],
+      "releaseDate": "2004-12-10",
+      "dvdReleaseDate": "2005-05-10",
+      "directors": ["Wes Anderson"],
+      "runtime": 119,
+      "movieId": 30810,
+      "title": "The Life Aquatic with Steve Zissou",
+      "mpaa": "R",
+      "actors": [
+         "Bill Murray",
+         "Anjelica Huston",
+         "Cate Blanchett",
+         "Willem Dafoe",
+         "Owen Wilson",
+         "Jeff Goldblum",
+         "Michael Gambon",
+         "Noah Taylor",
+         "Bud Cort",
+         "Seu Jorge",
+         "Matthew Gray Gubler",
+         "Antonio Monda",
+         "Isabella Blow",
+         "Seymour Cassel",
+         "Robyn Cohen",
+         "Waris Ahluwalia"
+      ],
+      "imdbMovieId": "0362270",
+      "originalTitle": "The Life Aquatic with Steve Zissou",
+      "genres": [
+         "Adventure",
+         "Comedy",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["aZVxCNwBqXI"],
+      "plotSummary": "Wes Anderson\u2019s incisive quirky comedy build up stars complex characters like in \u2018The Royal Tenenbaums\u2019 with Bill Murray on in the leading role. An ocean adventure documentary film maker Zissou is put in all imaginable life situations and a tough life crisis as he attempts to make a new film about capturing the creature that caused him pain.",
+      "tmdbMovieId": 421,
+      "avgRating": 3.70629,
+      "releaseYear": "2004",
+      "numRatings": 7928,
+      "posterPath": "/kKwNRePEqTfC6DnNlJzz1yX44iR.jpg"
+   }
+}

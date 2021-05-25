@@ -1,0 +1,442 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "dc comics",
+            "id": 849
+         },
+         {
+            "name": "superhero",
+            "id": 9715
+         },
+         {
+            "name": "based on comic",
+            "id": 9717
+         },
+         {
+            "name": "robin",
+            "id": 10486
+         },
+         {
+            "name": "super power",
+            "id": 33637
+         },
+         {
+            "name": "father son reunion",
+            "id": 180574
+         }
+      ],
+      "imdb_id": "tt3139072",
+      "video": false,
+      "title": "Son of Batman",
+      "recommendations": [
+         321528,
+         242643,
+         217993,
+         297556,
+         183011,
+         366924,
+         76589,
+         123025,
+         142061,
+         45162,
+         30061,
+         22855,
+         40662,
+         69735,
+         323027,
+         103269,
+         379291,
+         166076,
+         13851,
+         17445
+      ],
+      "backdrop_path": "/omK35Mr3oks6bd5efrgsO7CzmLP.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Bruce Wayne / Batman (voice)",
+               "gender": 2,
+               "credit_id": "52fe4e1b9251416c91126a91",
+               "name": "Jason O'Mara",
+               "profile_path": "/7OTkkGVB0A6b3RlXvtiuo5YHWBJ.jpg",
+               "id": 183812,
+               "order": 0
+            },
+            {
+               "cast_id": 10,
+               "character": "Robin / Damian Wayne (voice)",
+               "gender": 2,
+               "credit_id": "52fe4e1b9251416c91126aa9",
+               "name": "Stuart Allan",
+               "profile_path": "/lNQdGVXZOj46LKZIcli5tJ83PvM.jpg",
+               "id": 1164238,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Slade Wilson / Deathstroke (voice)",
+               "gender": 2,
+               "credit_id": "52fe4e1b9251416c91126a99",
+               "name": "Thomas Gibson",
+               "profile_path": "/xX2uBrFKE5Us7TKvIwWERGw5LRn.jpg",
+               "id": 13638,
+               "order": 2
+            },
+            {
+               "cast_id": 1,
+               "character": "Talia al Ghul (voice)",
+               "gender": 1,
+               "credit_id": "52fe4e1b9251416c91126a85",
+               "name": "Morena Baccarin",
+               "profile_path": "/dhdQT0fMRcbg8Gi9nx7JF0oVzzr.jpg",
+               "id": 54882,
+               "order": 3
+            },
+            {
+               "cast_id": 2,
+               "character": "Ra's al Ghul (voice)",
+               "gender": 2,
+               "credit_id": "52fe4e1b9251416c91126a89",
+               "name": "Giancarlo Esposito",
+               "profile_path": "/d39hOi5lTfqekjFK4JKKPeuGNdW.jpg",
+               "id": 4808,
+               "order": 4
+            },
+            {
+               "cast_id": 3,
+               "character": "Alfred Pennyworth (voice)",
+               "gender": 2,
+               "credit_id": "52fe4e1b9251416c91126a8d",
+               "name": "David McCallum",
+               "profile_path": "/po7qYZYW0RMTl4BavHIZCxqopCD.jpg",
+               "id": 24813,
+               "order": 5
+            },
+            {
+               "cast_id": 5,
+               "character": "Dr. Kirk Langstrom (voice)",
+               "gender": 2,
+               "credit_id": "52fe4e1b9251416c91126a95",
+               "name": "Xander Berkeley",
+               "profile_path": "/vlZ9FDMk2Xd1WHixPKxnheZoXgR.jpg",
+               "id": 3982,
+               "order": 6
+            },
+            {
+               "cast_id": 23,
+               "character": "Nightwing / Dick Grayson (voice)",
+               "gender": 2,
+               "credit_id": "57d740b8925141226f000033",
+               "name": "Sean Maher",
+               "profile_path": "/yDuSytEe11oDoLvsPd26BjeRLl1.jpg",
+               "id": 55148,
+               "order": 7
+            },
+            {
+               "cast_id": 24,
+               "character": "Man-Bat / Joker / Man-Bat Commando (voice)",
+               "gender": 2,
+               "credit_id": "57d740f7925141229f000069",
+               "name": "Dee Bradley Baker",
+               "profile_path": "/zFXwtsdvUCeNkzCzYpYZdAmTkJY.jpg",
+               "id": 23680,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4e1b9251416c91126ab5",
+               "name": "Bob Kane",
+               "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+               "id": 3794,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4e1b9251416c91126abb",
+               "name": "Andy Kubert",
+               "profile_path": null,
+               "id": 1286900,
+               "department": "Crew",
+               "job": "Graphic Novel Illustrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4e1b9251416c91126ac1",
+               "name": "Grant Morrison",
+               "profile_path": "/uaRwwfJoqzPLbIZEJbghxDByocJ.jpg",
+               "id": 220303,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4e1b9251416c91126ac7",
+               "name": "Frederik Wiedmann",
+               "profile_path": null,
+               "id": 544355,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4e1b9251416c91126acd",
+               "name": "Robert Hargreaves",
+               "profile_path": null,
+               "id": 1172888,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4e1b9251416c91126ad3",
+               "name": "Robert Hargreaves",
+               "profile_path": null,
+               "id": 1172888,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56b145e6925141268a00058d",
+               "name": "Ethan Spaulding",
+               "profile_path": null,
+               "id": 204553,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a4fcef925141419f002ae5",
+               "name": "James Tucker",
+               "profile_path": null,
+               "id": 1225820,
+               "department": "Production",
+               "job": "Supervising Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a4fd1fc3a368389e0071b4",
+               "name": "Joe R. Lansdale",
+               "profile_path": null,
+               "id": 127463,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a4fd809251417207007501",
+               "name": "James Robinson",
+               "profile_path": "/zrkZeW1tTrrcP62TEcwxQvC6HK2.jpg",
+               "id": 56113,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570ed72dc3a368536d000e84",
+               "name": "Michael Uslan",
+               "profile_path": "/lJ8n7Z9JB0XH4dxdgI48HG9jX1o.jpg",
+               "id": 10949,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d5a1319251411f810325ad",
+               "name": "Christopher D. Lozinski",
+               "profile_path": null,
+               "id": 1033619,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 10.48621,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 251519,
+      "vote_count": 354,
+      "budget": 0,
+      "overview": "Batman learns that he has a violent, unruly pre-teen son with Talia al Ghul named Damian Wayne who is secretly being raised by Ra's al Ghul and the League of Assassins. When Ra's al Ghul apparently dies after a battle with Deathstroke, Batman must work to stop his long-lost son from taking revenge and guiding him to a righteous path, in addition to the chance for the pair to truly acknowledging each other as family.",
+      "similar": [
+         1924,
+         1452,
+         155,
+         141052,
+         8536,
+         9531,
+         379291,
+         13640,
+         24428,
+         272,
+         364,
+         49521,
+         99861,
+         299534,
+         209112,
+         11253,
+         297762,
+         30061,
+         382322,
+         287947
+      ],
+      "original_title": "Son of Batman",
+      "runtime": 74,
+      "poster_path": "/j3SFJqZPeeB9g5JMU7UFLgEqj2T.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "id": 429,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "id": 9993,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+            "name": "Warner Bros. Animation",
+            "id": 2785,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/7xym5CnL4LcMPaWpp51cN1v73AR.png",
+            "name": "Warner Premiere",
+            "id": 4811,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/WkipqT3yVydHqKbS7lAMod9hc8.png",
+            "name": "Warner Home Video",
+            "id": 2786,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2014-04-20",
+      "vote_average": 6.7,
+      "belongs_to_collection": {
+         "backdrop_path": "/sVvEkTNx6SjwOb80iyURe5KHtcD.jpg",
+         "name": "Son of Batman Collection",
+         "id": 334996,
+         "poster_path": "/4LE9hRArztsTO0NOoJXeysgT7wB.jpg"
+      },
+      "tagline": "Vengeance runs in the blood.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Ethan Spaulding"],
+      "runtime": 74,
+      "synopsis": "Hidden atop a secret mountain stronghold lies the League of Shadows and its fearless leader, Ra's al Ghul (Esposito). Together with his equally dangerous daughter Talia (Baccarin), he oversees a trained army of assassins with plans for global domination. But an uprising from within the league now threatens to shift the balance of power and sends Talia and her young son, Damian (Allan), fleeing to Gotham City. With assassins on their trail, Talia seeks the protection of Batman (O'Mara), who, unbeknownst to him, is the boy's father. With his son in tow, Batman wages war against the villain Deathstroke (Gibson) and the League of Shadows, all while teaching his headstrong boy that one can't fight crime by becoming a criminal. With help from Gotham's finest, including Commissioner Gordon and Nightwing, Batman will soon discover that his son and most trusted ally are one and the same!",
+      "writers": [
+         "Bob Kane",
+         "Grant Morrison"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt3139072/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc4MDY3NDU3MF5BMl5BanBnXkFtZTgwODQ2MjU2MTE@._V1_SY317_CR22,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jason O'Mara, Stuart Allan, Thomas Gibson | See full cast and crew »"],
+      "reviews": [
+         "All right, so a bit of background first. I'm not a hardcore Batman fan or anything, meaning that I haven't read the comics and so I don't know everything about the universe and how well this movie adheres to its source material. I've seen Under the Red Hood, Mask of Phantasm, Year One, Dark Knight Returns and obviously Nolan's new trilogy and I enjoyed The Arkham Asylum and Arkham City games immensely. I thought all of those movies were great - Dark, gritty, intense and serious. Not so with this film. First of all, the voice acting is terrible overall and the cringe worthy dialogue didn't help either. It tries to be humorous while failing at it badly. From the voice actors I'd highlight Thomas Gibson as Deathstroke, he didn't portray any emotion or intensity at all. None of the other voice actors didn't even rise to average. That's really a show stopper when it comes to animated films because so much of the emotion is conveyed through voice. I'm not sure how they recorded the lines but it felt like there was little to no interaction between the actors, it just sounded like they were delivering their lines independently. I'm not really sold on the animation and graphical style either, Bruce Wayne especially looked really wrong to my eyes at least. Talia al Ghul had her boobs on display quite...prominently. A big problem with this movie was with the physics and how they tried to bring completely different elements together here. The kid Damian is supposedly fighting almost equally with Nightwing and he's also kicking a 200 kg muscle monster through windows and parries his attacks with ease. Then he just goes ahead and casually goes for a 50 mile swim, just like that. I mean, come on. That's completely over the top ridiculous. There's always some suspension of disbelief you have to give these movies but this was just too far. There could be a way to have Damian fight these different larger and stronger guys with speed and stealth while making it at least plausible but they didn't go for that approach. Then there's an arrow minigun and some catapults dropping helicopters like they're flies and Ra's al Ghul using a katana like a lightsaber to deflect assault rifle bullets from soldiers who are surrounding him. It all seemed so preposterous and set this nonsensical tone for the entire movie. You don't feel any tension or suspense when they try to bring up anything serious. The tone is all over the place. Damian hacking into NORAD at age six? Daffy Duck on TV? People being impaled to a wall from their hands? My brain can't handle this, this movie just differed so radically from all of the Batman related stuff I'd seen before. No surprise that this is the director's first crack at the Batman franchise. I just didn't find anything interesting or evocative in this film.",
+         "A ten year old who can swim 50 miles. A 500 year old who can deflect hundreds of bullets from six assailants using assault rifles simultaneously with an ordinary metal sword... A serum that can turn people into bats because... Well just because. Then another serum that can turn them back instantly. It was all too silly and cartoonish. This isn't the Batman who would out-think himself out of a tough situation. On several occasions he has to be rescued, which is just not Batman. But they break the realism aspect of the world multiple times and with it, you start caring less and less because it just gets stupid. There was no fight between Batman and Damian, which was needed to show how their relationship builds and makes their love/hate situation evolve. There was no anger or jealousy from Night-wing. No proud grandfather thoughts from Alfred. Talias father is killed and she doesn't care. No one cared about anyone and so we stopped caring as well. There was no emotional connection between any of the characters even though the plot was screaming out for it. They just all fell flat and dull. It looked nice, but at only 70 minutes I kept thinking that there was so much more they could have done to build on their relationships. Its a meh movie. You'll watch it as passable entertainment but forget about it the next minute.",
+         "This was a terrible addition to the Batman movies series. I was not very impressed, I felt this movie was rushed. Unrealistic in various aspects, not how the typical Batman movies are suppose to be. Part of why Batman is so popular is because viewers enjoy watching a man using his intellect and natural resources to solve crimes and ultimately capture the villains. The almighty \"trailer\" makes any movie look hype and all the rave. Which it did justice for this movie, but 30minutes into the movie I could already tell I was in for disappointments. \"Damion\" was way overpowered, being able to take on the world's top assassin within the DC universe? That's absurd! Slade or Death-stroke is an entity to be feared and not to be so easily defeated by Damion who has not even reached his prime yet. Also the character Batman was ineffectively orchestrated, he did not have the mysterious, lone-wolf, and independent personality which stays true to the Comics and previous movies or series and original concept character for that matter. Overall the movie was lacking and I think a fair appraisal is, 5-5.5 out of 10. This move will keep you entertained, but not worth a second watch.",
+         "I was pleasantly surprised by this original and great story. Son of Batman is a great, action-packed animation many people will enjoy. This film has a lot of elements to admire - thrilling Batman-class fighting that kept me excited and at the edge of my seat. There is also some romance between Batman and his 'special person' which is short, but nice and I thought it fit well. The story starts when a training camp is destroyed. A young boy escapes with his mom and flees to Batman who, as it turns out, is the boy's father. For his safety, Batman takes the child and, as Batman, tries to protect and train him. Batman teaches his kid to take criminals alive but, a new mystery arises - one that will have a significant impact on the story line. We join Batman, Robin, and Batman's son as they face off deadly people while Batman makes sure his kid doesn't hurt himself. It's a fun and action adventure that all Batman fans will appreciate! Overall, I think this movie had some ups and downs. The animation is rather interesting but, I thought it was a bit too much at times. It is gory at times, yet plastic and 2D like most superhero animations. I believe that the animators could have cut down a bit on the violence and mature content. Also, the animation of the faces looks a bit fake to me. The directing is interesting. I thought that the angles were good and fit the storyline quite well. The voice-overs are excellent. For example, Jason O Marra who is the voice of Batman, doesn't show much emotion and talks in a quiet and dark whisper - perfect for the character. The plot is original and surprising, which I am fond of. For the most part, Son of Batman turns out to be a very unexpected and surprising adventure. My favorite scene is the first scene iwhen the academy is destroyed. Even though this is a sad moment, it sets the tone for the entire movie. I love scenes that may not seem important but have a big impact on the rest of the film. This movie has lots of adult lines and a lot of gory scenes, so I recommend for ages 11 to18. I also give it 4 out of 5 stars because of some hiccups with the animation. Reviewed by Gerry O, KIDS FIRST! Film Critic",
+         "... could have done. The execution, the voice acting is indeed below par in places. This is true. But I confess the story got to me. Usually any production that starts with the words \"SON OF\" is doomed. Literally. But the story hooked me so I tolerated the subpar production values and actually had a fairly good time. More than once I even wondered if somewhere out there was a producer who would find the cash to do this live action but given the audience expectations for a live action BATMAN, I guess that REALLY WOULD BE A FANTASY.",
+         "Marvel may be the current kings of the mountain on the big screen, but when it comes to direct to video animated films, it's DC that reigns supreme... well, at least their Batcentric stuff. 'Under the Red Hood', 'Dark Knight Returns', 'Assault on Arkham'; All quite good. Particularly the last two. Like those films, 'Son of Batman' is certainly not for kids. There's more death and blood in the first ten minutes of it than all of the theatrically released live action Batman films combined. Unfortunately, a weak script and poor voice acting help to keep this particular 'Son' grounded.",
+         "It's interesting that this installment of the DC animated films is called Son of Batman and it stars a ten year old Robin, yet it's the most adult of these movies I ever seen. Adapting the origin of Damian Wayne from the comics, Deathstoke (who was not evolved with this in the comics)unleashes his plot to take over the league of assassins, killing Ra Al Ghul in the process, and putting his daughter Talia on the run, forcing her to unite her son, Damian with his biological dad, Batman. The character deign was pretty good. Batman's costume was pretty cool as well as Nightwing's who made an appearance. I really like the design of Killer Croc who makes an appearance in the movie as well. The story was pretty cool too. They did not let up just because Robin is only ten. The film is dark and Damian is as dark as he is in the comic books. They did not get that wrong. I feel there was a misstep in Batman, however, but Robin and his relationship with Nightwing was close to the comics. The animation was mediocre. It seemed that they were trying to make the whole thing gritty and more down to earth, realistic, which I'm not a fan of. It's animation, you can make it big and sir real. If they wanted to make it real than they should have made it live action (which would have made this movie a 10) The voice direction was pretty lame as well. I was into Jason 0'Mara as Batman for a second, but his silent but deadly Batman turned out not so good. He was just one of many voices that just did not seem to click together. I'm sure every animated movie has the voice acting done all separately mouths apart, but it's not suppose to sound that way and this movie does. I think it's another fault of the animation (possibly the music as well) Overall, the people over at Warner Bros animation have done it again with another excellent straight-to-DVD DC animated feature.",
+         "I'm not going to beat around the bush: this thing is bad with a capital B. There are very few things that work, and they don't even come close to offsetting the things that don't work at all. The entire thing is a misfire almost from the very beginning. The story centers around Damian Wayne, the son of Batman and his sometimes foe, sometimes lover Talia al Ghul. When the League of Assassins is decimated by Deathstroke, Talia leaves Damian with Batman. The two almost immediately butt heads due to Damian being raised as an assassin and Batman having his \"no killing rule.\" Despite this, Batman attempts to train and bond with Damian, even as the newest Robin seeks out revenge. Since I like to give credit where credit is due: the action scenes are fairly well staged (though much more bloody than is necessary, which is something I'll come back to.) Jason O'Mara continues to do strong work as Batman. The characterization and voice work for Nightwing and Alfred are also good, though their roles in the story are fairly minor. Really though, that's about all that I can say nice about this. The biggest problem is Damian himself: he's simply not likable. He really embodies everything that drove fans to kill off Jason Todd back in the 1980s: he's cocky without having earned the right to be, he lacks any form of charm, he's precocious, and he does nothing but argue with every single person in his life regardless of whether they are trying to help or hurt him. Having talked to some folks who read the comics, the impression I get is that there Damian was disliked at first but fans grew to like him over time. That's fine on the page, but when these films are kept to a lean 75 minutes there just isn't time for audiences to warm to this kid. Though he's the biggest problem, Damian is far from the only one. I mentioned the violence already. It's not the fact that people are killed, but rather the bloody fashion in which it happens that feels gratuitous. It might not be such a problem, except that if the film is aiming for a more \"realistic\" portrayal of violence then it shouldn't go from bloody to cartoonish from beat to beat. Example: faceless assassins are gunned down left and right while Ra's al Ghul deflects bullets with a sword, and later on a character has his wrist pinned to the wall by a knife, but suffers no ill effects from that wound once he's free of it. Talia is also a victim of gratuitousness, though the sexual kind in this case. She has an outfit with a neckline that plunges down to her navel. Not only does this fly in the face of combat practicality and the laws of gravity (regarding her boobs appearing so lifted,) but it's 100% unnecessary since Morena Baccarin is able to deliver an edge of sexuality with just her voice and that would have been enough. Even Batman himself is out of whack in this movie. He admonishes Damian over lethal force (which really feels like a lost cause since one of the first things we see this kid do is shoot somebody in the head,) specifically he berates the kid for the use of a sword. However it's only a matter of minutes later that Batman himself detonates explosives and collapses a ceiling onto a group of mutated henchmen. And then there's Deathstroke, and this one I'm just going to blame the actor. The character's written decently enough but Thomas Gibson didn't give a single line reading that worked. Every word he spoke was flat and disconnected and just killed a visually intimidating character. Coming on the heels of the already flawed (though not this badly) \"Justice League: War,\" this just kills my enthusiasm for the films based off of stories taken from the New 52 line of comics.",
+         "Marvel dominates the live action stuff but, until DC catches up, they have the animated film department mastered�until they released \"Son of Batman.\" I'm not one to complain about the changes made from adapting a book, graphic novel or comic (and this one had A LOT of changes), instead, the problem that hurt my enjoyment of this one had to due with the fact the story was just really weak and the dialogue was absolutely terrible. While the film follows the predictable lines of a man finding out he has a son and has to somehow connect with them despite the fact they have been alienated from each other for a significant amount of time, the movie fails to hit that requirement of the two finding common ground and they learn, laugh, love and grow together. Yes, \"Son of Batman\" ends with Batman and his son Damian being a good team and Damian even becomes Robin, the problem is that we don't really see them grow. Damian is a bratty little snob of a child up until he gets the exact thing he wants and is the one thing Batman keeps trying to teach him not to cling to and then *BAM* they are all good and their common ground is found and are now the best of besties. It was a very weak attempt at family drama and matters aren't helped by the fact the film has terrible dialogue to back it up. Some will write off these complaints as nothing because the film is \"just a cartoon, man,\" but when you compare this film to the other, numerous quality films that DC has released based on their characters and their iconic stories, this film just feels like a letdown and something that was thrown together too quickly. What's up, brother? Feel like reading more of my rants, ramblings, geek references, bad jokes, and other movie reviews (like a more in-depth look at \"Son of Batman\" and other animated Batman movies that, thankfully, don't include his annoying son)? If you do, you can visit my blog at revronmovies.blogspot.com. If you don't and hate me now (because hating people is easy on the internet), I just want you to know that I still think you are a beautiful person and want to make you some chocolate chip cookies.",
+         "The DC Universe continues combining its New 52 Universe and its animated movie universe with \"Son of Batman.\" It was a lot easier to adapt \"Justice League: War\" for the big or small screen given that it was already rooted in the rebooted world we've come to know in the past few years. The real question everybody wanted to know the answer to was, \"How will a book written before the launch of the New 52 fit into the new cosmos?\" Whether you like the outcome or not, credit has to be given to DC for accomplishing the feat. When Ra's al Ghul is assassinated by Deathstroke and his army, his daughter Talia and her son Damian are left on the run for their lives. She takes the boy to the only place she knows he'll be safe: Gotham City and into the custody of the only man she can truly trust - The Batman. The Caped Crusader is caught off guard when he finds out he is the father of Damian. The heiress to the throne of the Demon leaves the 11-year-old under the wing of the Dark Knight. Batman soon finds himself partnered with a new Robin when he is put in the middle of a battle between Talia's new brigade of Man-Bats and Deathstroke's squad. If you've read Grant Morrison's graphic novel that \"Son of Batman\" is based on, then you know right off the bat (pun intended) this is not as faithful an adaptation as you might have expected. Whether or not you find this to be a good thing or bad is up to you. I personally found it to be entertaining and quite a brilliant way to pull the saga of \"Batman and Son\" into the New 52 world. \"Batman and Son\" is rated PG-13 for Stylized violence including bloody images, and some suggestive material. There's more gore than usual as members of the League of Assassins and Deathstroke's army get stabbed and shot. Several lines of dialogue are rather racy, but most pre-teens probably won't get them. I still don't really know why they needed to be included. Why not just leave them out and know that the movie is safe for everyone without question? Some will see DC's use of Deathstroke to be a desperate ploy to promote and push the character further into the spotlight while cross-promoting his presence on \"Arrow.\" Hey, business is business. DC executives and writers gotta eat, too. I like the character on the television show and I like him in the comics. If you don't like him, then you're probably going to have a problem with his inclusion in \"Son of Batman.\" \"Son of Batman\" is made up of the first quarter of Morrison's book sans all the romantic elements and other extraneous elements which could be trimmed out. A little shuffling is done to certain plot elements and events, Deathstroke is thrown in, and \"Voila!\" We get an energetic and fast-paced 74-minute movie."
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Adventure",
+         "Crime",
+         "Drama",
+         "Fantasy",
+         "Mystery"
+      ],
+      "productionCompanies": [
+         "DC Entertainment",
+         "Warner Bros. Animation",
+         "Warner Premiere"
+      ],
+      "summaries": [
+         "Ra's al Ghul is dead, slain by former League of Assassin Slade Wilson, aka Deathstroke. His victory is not without a cost, the price his right eye; taken by Ra's own grandson Damien. Fearing for her sons' safety Talia al Ghul decides now is the time for the boy to meet his father. Half a world away a trail of chemical plant heists finds the Batman catching the culprit in the very act. The thief is Killer Croc, but Croc has changed mutated by some unseen hand. With the shocking appearance of the lovely but deadly Talia, Croc is quickly taken down. Back at Gotham harbor Talia gives the Detective the news of Ra's fate along with the surprise of introducing him to Damien, their son. Talia sets out to handle Slade while Damien falls under the guardianship of Batman. The young man possess great fighting prowess but his cocky self confidence creates friction back at Wayne Manor. Batman's investigation into Croc's actions leads him to the home of Dr. Kirk Langstrom, creator of the Man-bat formula. But Langstrom is merely another pawn serving the ambitions of the League of Assassins and their new leader Deathstroke. Deathstroke takes Langstrom's family hostage moving up the time-table for product delivery. Meanwhile Damien using the Batcave's resources conducts his own manhunt. One of Slade's lieutenant's likes to spend his off time in Gotham. Damien combats the traitor but before he can deliver the final blow, is stopped by Nightwing. Batman impressed by Damien's ability and drive allows him to take up the mantel of Robin. Soon the two are hot on the trail of Deathstroke who is aiming to amass an army of ninja Man-bats. Can Batman teach his new sidekick what it takes to be a hero, leaving behind his murderous past? Or will his greatest challenge yet prove to be for the very soul of the son of Batman.",
+         "Batman learns he has a violent, unruly pre-teen son, secretly raised by the terrorist group the League of Assassins."
+      ],
+      "budget": 0
+   },
+   "movielensId": 110566,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2014-04-20",
+      "dvdReleaseDate": "2014-05-06",
+      "directors": ["Ethan Spaulding"],
+      "runtime": 74,
+      "movieId": 110566,
+      "title": "Son of Batman",
+      "mpaa": "PG-13",
+      "actors": [
+         "Jason O'Mara",
+         "Stuart Allan",
+         "Thomas Gibson",
+         "Morena Baccarin",
+         "Giancarlo Esposito",
+         "David McCallum",
+         "Xander Berkeley",
+         "Sean Maher",
+         "Dee Bradley Baker"
+      ],
+      "imdbMovieId": "3139072",
+      "originalTitle": "Son of Batman",
+      "genres": [
+         "Animation",
+         "Action",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": ["bis7XOu0Xms"],
+      "plotSummary": "Batman learns that he has a violent, unruly pre-teen son with Talia al Ghul named Damian Wayne who is secretly being raised by Ra's al Ghul and the League of Assassins. When Ra's al Ghul apparently dies after a battle with Deathstroke, Batman must work to stop his long-lost son from taking revenge and guiding him to a righteous path, in addition to the chance for the pair to truly acknowledging each other as family.",
+      "tmdbMovieId": 251519,
+      "avgRating": 3.32727,
+      "releaseYear": "2014",
+      "numRatings": 165,
+      "posterPath": "/j3SFJqZPeeB9g5JMU7UFLgEqj2T.jpg"
+   }
+}

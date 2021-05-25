@@ -1,0 +1,874 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "riddle",
+            "id": 483
+         },
+         {
+            "name": "captain",
+            "id": 1316
+         },
+         {
+            "name": "treasure",
+            "id": 1454
+         },
+         {
+            "name": "liquor",
+            "id": 3423
+         },
+         {
+            "name": "treasure hunt",
+            "id": 6956
+         },
+         {
+            "name": "sunken treasure",
+            "id": 10733
+         },
+         {
+            "name": "plot",
+            "id": 11121
+         },
+         {
+            "name": "reporter",
+            "id": 12193
+         },
+         {
+            "name": "3d",
+            "id": 209714
+         },
+         {
+            "name": "action",
+            "id": 210313
+         }
+      ],
+      "imdb_id": "tt0983193",
+      "video": false,
+      "title": "The Adventures of Tintin",
+      "recommendations": [
+         44896,
+         44826,
+         46195,
+         49444,
+         12244,
+         13053,
+         38055,
+         217,
+         6637,
+         49529,
+         956,
+         20526,
+         2059,
+         41216,
+         72197,
+         22794,
+         10527,
+         49849,
+         37686,
+         10764
+      ],
+      "backdrop_path": "/m3xgF9JiTlfN1rO9hcvTd4PTIQy.jpg",
+      "revenue": 371940071,
+      "reviews": [
+         {
+            "author": "ohlalipop",
+            "id": "589c3d759251412537003037",
+            "content": "The animation was something else. It looked so real. I don't really remember the story from the comics (we had the entire collection when we were younger but lost all of it when we left the Philippines), but the story was really nice. I can't wait for the next one if ever there'll be a next one.",
+            "url": "https://www.themoviedb.org/review/589c3d759251412537003037"
+         },
+         {
+            "author": "lmao7",
+            "id": "599680ddc3a36806b7009043",
+            "content": "Wow\u2026they just took cg/motion/performance capture to the next level! Just for the film\u2019s look - like without the story, it deserves an A++\r\n\r\nNot just the look (soo realistic especially the extras and the scenery) but the shots! There were a lot of street/chase scenes that was done beautifully. The clothes, the buildings\u2026it was so perfect!\r\n\r\nI liked the opening credits reminded me of Pink Panther & Catch Me If You Can but the opening scene, the painting of Tintin, was that Herge? so awesome!\r\n\r\nOf course as expected there were some changes like the sequence of events but it worked well for me (maybe not the crane scene but it didn\u2019t bother me that much) and I missed Professor Calculus, I thought it would include Red Rackham\u2019s Treasure. Now I can\u2019t wait for the next one, I want to see them all at Marlinspike Hall.\r\n\r\nAll in all, as a fan of Tintin comics (grew up reading it again and again), I loved it!!!",
+            "url": "https://www.themoviedb.org/review/599680ddc3a36806b7009043"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Tintin (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091443",
+               "name": "Jamie Bell",
+               "profile_path": "/7HgepK5YE8u0xrv3lJZjaEoENwl.jpg",
+               "id": 478,
+               "order": 0
+            },
+            {
+               "cast_id": 7,
+               "character": "Captain Haddock / Sir Francis Haddock (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091447",
+               "name": "Andy Serkis",
+               "profile_path": "/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg",
+               "id": 1333,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Sakharine / Red Rackham (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091437",
+               "name": "Daniel Craig",
+               "profile_path": "/mr6cdu6lLRscfFUv8onVWZqaRdZ.jpg",
+               "id": 8784,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Thomson (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c7509144b",
+               "name": "Nick Frost",
+               "profile_path": "/33zuHnAnM1aiUbDZX84GR7UQjTa.jpg",
+               "id": 11109,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Inspector Thompson (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c7509143b",
+               "name": "Simon Pegg",
+               "profile_path": "/23e2uoNlpDvLumNic16fS2YjZjL.jpg",
+               "id": 11108,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Pilot (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c7509143f",
+               "name": "Cary Elwes",
+               "profile_path": "/wmvYoJHStQeQzrpqOM9tkvf1wwF.jpg",
+               "id": 2130,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Ernie (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c7509144f",
+               "name": "Mackenzie Crook",
+               "profile_path": "/pkBBzUyeJSI8OY8rf6TM6Dz0NXL.jpg",
+               "id": 1711,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Lt. Delcourt (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091453",
+               "name": "Tony Curran",
+               "profile_path": "/IhqoydPOiP53AI6NeHTVwDcHTz.jpg",
+               "id": 2220,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Silk (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091457",
+               "name": "Toby Jones",
+               "profile_path": "/eOZe7EZ0Ojq8PaIn1HLVex5dZwc.jpg",
+               "id": 13014,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Allan (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c7509145b",
+               "name": "Daniel Mays",
+               "profile_path": "/ueenzFjVISvw4feto7WrxRao4zx.jpg",
+               "id": 1670,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Pedro (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091471",
+               "name": "Sebastian Roché",
+               "profile_path": "/bOSLShSCLhZ4VtbgInX6SjhqlRb.jpg",
+               "id": 23789,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Co-Pilot (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091475",
+               "name": "Phillip Rhys",
+               "profile_path": "/kMSUcxZhSuQ8C6CiSGd9ffHmIKx.jpg",
+               "id": 104802,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Afgar Outpost Soldier (voice)",
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091479",
+               "name": "Mark Ivanir",
+               "profile_path": "/7q9kY62XZERHMtXoBLoMna9Ed3B.jpg",
+               "id": 6696,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Ben Salaad (voice)",
+               "gender": 0,
+               "credit_id": "52fe47349251416c7509147d",
+               "name": "Gad Elmaleh",
+               "profile_path": "/ay3csj0Wmn8OppIcArmHRiwmBLc.jpg",
+               "id": 51100,
+               "order": 13
+            },
+            {
+               "cast_id": 22,
+               "character": "Lady in the Phonebox / Old Lady",
+               "gender": 1,
+               "credit_id": "52fe47349251416c75091481",
+               "name": "Jacquie Barnbrook",
+               "profile_path": "/5quzMDQwCHVdkoZmHuhjsgt2m6y.jpg",
+               "id": 42291,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Barnaby (voice)",
+               "gender": 0,
+               "credit_id": "52fe47359251416c7509148b",
+               "name": "Joe Starr",
+               "profile_path": "/Hi4fJU42r5qS9A2LPumWWqfFHS.jpg",
+               "id": 1083807,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47349251416c7509142d",
+               "name": "Steven Spielberg",
+               "profile_path": "/pOK15UNaw75Bzj7BQO1ulehbPPm.jpg",
+               "id": 488,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091433",
+               "name": "Edgar Wright",
+               "profile_path": "/912vB9enhaErCSMpJpyWAB4yOOH.jpg",
+               "id": 11090,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091461",
+               "name": "Steven Spielberg",
+               "profile_path": "/pOK15UNaw75Bzj7BQO1ulehbPPm.jpg",
+               "id": 488,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47349251416c75091467",
+               "name": "Peter Jackson",
+               "profile_path": "/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg",
+               "id": 108,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe47349251416c7509146d",
+               "name": "Kathleen Kennedy",
+               "profile_path": "/6rGtk7OdbkO2QDM2OQxt9Blww3O.jpg",
+               "id": 489,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47359251416c75091497",
+               "name": "Joe Cornish",
+               "profile_path": "/hVISeuZZwCwSol9tKz9hKL1zCzx.jpg",
+               "id": 155531,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47359251416c7509149d",
+               "name": "Carolynne Cunningham",
+               "profile_path": null,
+               "id": 3506,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47359251416c750914a3",
+               "name": "Jason D. McGatlin",
+               "profile_path": null,
+               "id": 1102139,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47359251416c750914af",
+               "name": "Ken Kamins",
+               "profile_path": null,
+               "id": 82197,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47359251416c750914b5",
+               "name": "Nick Rodwell",
+               "profile_path": null,
+               "id": 1002507,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47359251416c750914bb",
+               "name": "Stephane Sperry",
+               "profile_path": null,
+               "id": 1002161,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47359251416c750914c1",
+               "name": "John Williams",
+               "profile_path": "/2Ats98PB1SH2yfEPikiLdhRuXZm.jpg",
+               "id": 491,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47359251416c750914c7",
+               "name": "Michael Kahn",
+               "profile_path": "/jb4Y9q1q91VRQJue0VXhU7VcXce.jpg",
+               "id": 493,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47359251416c750914cd",
+               "name": "Terry Notary",
+               "profile_path": "/hIwDLupV2EOi6EqpHa1DNjrNRZU.jpg",
+               "id": 236696,
+               "department": "Crew",
+               "job": "Motion Capture Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47359251416c750914d3",
+               "name": "Hergé",
+               "profile_path": null,
+               "id": 117892,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c76fc3a36834e1001fe7",
+               "name": "Scot Boland",
+               "profile_path": null,
+               "id": 42360,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5550c784c3a36840a1001ae8",
+               "name": "Victoria Burrows",
+               "profile_path": null,
+               "id": 1324,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "581e98dec3a36806ef012c89",
+               "name": "Steven Moffat",
+               "profile_path": "/sE2qahPFzT5jRlkvfqYGZhnM8rS.jpg",
+               "id": 146459,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551906a29251411500004056",
+               "name": "Paul Tobin",
+               "profile_path": null,
+               "id": 1447524,
+               "department": "Art",
+               "job": "Conceptual Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5537ee44c3a3681be4002a66",
+               "name": "Sean Button",
+               "profile_path": null,
+               "id": 1447518,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554aeec49251410459000324",
+               "name": "Matt Weaver",
+               "profile_path": null,
+               "id": 1452998,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c6c7c3a3683fc8001c3b",
+               "name": "Adam Somner",
+               "profile_path": null,
+               "id": 1102140,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5550c79792514161b3002044",
+               "name": "Jina Jay",
+               "profile_path": "/rMuj07hjZnT0zMC1kiBOs6IWCdO.jpg",
+               "id": 474,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5550c7d39251414d1700070f",
+               "name": "Jeffrey Wisniewski",
+               "profile_path": null,
+               "id": 1376898,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c7f092514154c90024ad",
+               "name": "Greg Bartkus",
+               "profile_path": null,
+               "id": 1466024,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c80ec3a36834e1002009",
+               "name": "Brad Elliott",
+               "profile_path": null,
+               "id": 1466025,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c839c3a36841910006fa",
+               "name": "Sarah Milnes",
+               "profile_path": null,
+               "id": 1466026,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c89ac3a36834e100201b",
+               "name": "Matthew Rodgers",
+               "profile_path": null,
+               "id": 1466027,
+               "department": "Art",
+               "job": "Conceptual Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c8bbc3a3687f6300679c",
+               "name": "John Villarino",
+               "profile_path": null,
+               "id": 1376897,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c8e6c3a36834e1002028",
+               "name": "Jackson Bishop",
+               "profile_path": null,
+               "id": 1466028,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c93292514161b300206c",
+               "name": "David Moreau",
+               "profile_path": null,
+               "id": 1466029,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c95592514138c8000d2f",
+               "name": "Jim Wallis",
+               "profile_path": null,
+               "id": 1393435,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c99dc3a368436d0007ae",
+               "name": "Regina Cachuela",
+               "profile_path": null,
+               "id": 1401596,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c9bb92514161b3002080",
+               "name": "Taisuke Tanimura",
+               "profile_path": null,
+               "id": 1401810,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550c9e69251414f3900276c",
+               "name": "Jamie Beard",
+               "profile_path": null,
+               "id": 1466030,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550ca289251414d17000768",
+               "name": "Phil Barrenger",
+               "profile_path": null,
+               "id": 1466031,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550ca5292514138c8000d5e",
+               "name": "Jeff Capogreco",
+               "profile_path": null,
+               "id": 1378709,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550cab69251414d17000784",
+               "name": "Daniel Macarin",
+               "profile_path": null,
+               "id": 1418382,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550cad092514161b30020a6",
+               "name": "Michael McNeill",
+               "profile_path": null,
+               "id": 1466033,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550cae6c3a3687f630067f9",
+               "name": "Luke Millar",
+               "profile_path": null,
+               "id": 1457326,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550cb0a9251414f3900279a",
+               "name": "Mike Perry",
+               "profile_path": null,
+               "id": 1418381,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550cb1fc3a36830320020e8",
+               "name": "Jeremy Pickett",
+               "profile_path": null,
+               "id": 1466034,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550cb459251414dd9000790",
+               "name": "Thrain Shadbolt",
+               "profile_path": null,
+               "id": 1466035,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5550cb6bc3a3684191000773",
+               "name": "Paul Story",
+               "profile_path": null,
+               "id": 1418384,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5550cbf7c3a36840a1001b77",
+               "name": "Ana Maria Quintana",
+               "profile_path": "/qRZk7M0pZ9JmcXVGPYGtDPjmk6R.jpg",
+               "id": 1341865,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570b6e7ec3a3680b77007430",
+               "name": "Andrew L. Jones",
+               "profile_path": null,
+               "id": 1271756,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aba5651c3a36843690001bf",
+               "name": "Daniele Tosti",
+               "profile_path": null,
+               "id": 1418378,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 23.564352,
+      "production_countries": [
+         {
+            "iso_3166_1": "NZ",
+            "name": "New Zealand"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 17578,
+      "vote_count": 2484,
+      "budget": 130000000,
+      "overview": "Intrepid young reporter, Tintin and his loyal dog, Snowy are thrust into a world of high adventure when they discover a ship carrying an explosive secret. As Tintin is drawn into a centuries-old mystery, Ivan Ivanovitch Sakharine suspects him of stealing a priceless treasure. Tintin and Snowy, with the help of salty, cantankerous Captain Haddock and bumbling detectives, Thompson &amp; Thomson, travel half the world, one step ahead of their enemies as Tintin endeavors to find The Unicorn, a sunken ship that may hold a vast fortune, but also an ancient curse.",
+      "similar": [
+         6637,
+         2059,
+         85,
+         87,
+         1996,
+         217,
+         89,
+         9326,
+         9838,
+         1995,
+         1949,
+         10303,
+         3078,
+         9710,
+         9008,
+         16995,
+         6557,
+         11355,
+         24807,
+         389272
+      ],
+      "original_title": "The Adventures of Tintin",
+      "runtime": 107,
+      "poster_path": "/3XOaHJARdZIXcd7sgJV24Txp3gf.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "id": 4,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "id": 5,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "WingNut Films",
+            "id": 11,
+            "origin_country": "NZ"
+         },
+         {
+            "logo_path": "/mpGWkDeikYLeAR8LVNaixig0vwE.png",
+            "name": "Amblin Entertainment",
+            "id": 56,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+            "name": "Nickelodeon Movies",
+            "id": 2348,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/zHA0SV6jKuYz84FAgZbLFbLThsU.png",
+            "name": "Kennedy/Marshall Company, The",
+            "id": 7383,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Hemisphere Media Capital",
+            "id": 9169,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2011-10-25",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "This year, discover how far adventure will take you.",
+      "adult": false,
+      "homepage": "http://www.us.movie.tintin.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Steven Spielberg"],
+      "runtime": 107,
+      "synopsis": "Follows the unquenchably curious young reporter Tintin and his fiercely loyal dog Snowy as they discover a model ship carrying an explosive secret. Drawn into a centuries-old mystery, Tintin finds himself in the sightlines of Ivan Ivanovitch Sakharine, a diabolical villain who believes Tintin has stolen a priceless treasure tied to dastardly pirate named Red Rackham. But with the help of his dog Snowy, the salty, cantankerous Captain Haddock and the bumbling detectives Thompson & Thomson, Tintin will travel half the world, outwitting and outrunning his enemies in a breathless chase to find the final resting place of The Unicorn, a shipwreck that may hold the key to vast fortune - and an ancient curse. From the high seas to the sands of North African deserts, every new twist and turn sweeps Tintin and his friends to escalating levels of thrills and peril, proving that when you dare to risk everything, there's no limit to what you can do. __ Synopsis __ After having a caricature drawn of himself by a local artist, Tintin (Jamie Bell) wanders through the town square. As he does so, he sees a miniature ship in a glass case, being sold by a local merchant. The miniature ship is called The Unicorn, and the merchant tells Tintin it was procured from an old sailor's estate sale. Tintin buys the ship for a pound, but just as he takes possession of it, a large man with an American accent appears, wanting to buy the boat. He offers to pay Tintin double what he paid for it, but Tintin refuses. The man appears shaken, and rushes off, telling Tintin to 'get out while you still can.' Just as he leaves, a thin man with a pointed beard shows up, and also attempts to purchase the miniature ship. He tells Tintin that the ship was purchased from the nearby Marlinspike Hall, which he has come into acquiring, and wishes to purchase the ship to return it to its former home. Even though he tells Tintin to \"name his price,\" the young man again refuses, and walks off. As he leaves, the thin man asks the merchant if he knows who the young man is. \"Everyone knows who he is,\" says the merchant. \"That's Tintin.\" Returning to his apartment, Tintin's curiosity around the miniature ship is piqued, and he attempts to find a magnifying glass to examine it. However, a siamese cat enters the apartment, causing his dog Snowy to chase it around the room. During the chase, Snowy accidentally knocks the ship onto the floor, breaking its masts. As Tintin picks it up, he doesn't see a small metal cylinder fall out of the mast hole, and roll under the nearby table. Wanting more information, the two visit a maritime museum, where Tintin learns that the ship sank at sea, carrying rum and tobacco, but it was assumed that the ship (captained by Sir Francis Haddock), may have had a secret cargo aboard. It also makes note that after the loss of his ship, the captain believed that his family bloodline was now cursed. Returning to his apartment, Tintin is shocked to find that the model ship is gone! Assuming that it may have been taken by the thin man at the town square, Tintin sneaks into Marlinspike Hall. In a glass case, he finds a ship, but is knocked unconscious. When he comes to, he finds the thin man, and a butler. Tintin requests the return of his property, but is soon surprised to find that though the miniature ship is of The Unicorn, it is a different model, unbroken like his ship. As he is escorted out, the butler tells Tintin that he should make sure to check for 'all the pieces' of the ship he had. Returning to his apartment, Tintin is further shocked to find his place ransacked! Searching near the dresser where he placed the ship, he finds the metal cylinder underneath. He soon finds that it contains a scroll, with a message, and strange markings. As he puts the strange paper in his wallet, he hears his landlady Mrs Finch downstairs, arguing with a man who wants to come inside. Tintin comes downstairs, and through the chained front door, he finds that it was the American who wanted to buy the ship earlier in the day. The man seems more nervous than before, claiming that someone is killing others for information. When Tintin asks who, bullets rip through the door, and the man falls into the foyer, bleeding. Tintin rushes out into the street, just in time to see a blue sedan speeding away. Returning to the foyer, he finds the man unmoving, but a newspaper nearby has bloody fingerprints highlighting various letters. The next day, Tintin talks with the investigators of the murder, Thompson and Thomson. They claim the man is named Barnaby Dawes, and was working for the FBI. Tintin also tells of the newspaper he found, and that the letters highlighted seem to spell out \"Karaboudjan.\" As the two investigators take leave, they caution Tintin about a pickpocket that's been going around, and after they take leave of Tintin's apartment, they have a small run-in with the pickpocket. He also bumps into Tintin, and the young man panics when he realizes that the strange paper he had is now gone! Thompson and Thomson vow to get his wallet back. Returning to his apartment, several large men are waiting for Tintin, and shove him in a crate. Snowy follows his master aboard a large cargo ship, named the Karaboudjan. Tintin is searched for the paper, and encounters the thin man, who reveals his name to be Sakharine. Sakharine claims he is looking for the paper Tintin had, and reveals that he has another just like it. Tintin claims he doesn't have the paper, and he and Snowy are locked up, as Sakharine and his men decide what to do next. Eventually, Tintin manages to escape through an exterior porthole on the ship, to another room. There, he encounters Captain Archibald Haddock (Andy Serkis). The Captain appears to be in a drunken yet angry stupor over the mutiny of his crew to Sakharine. Tintin agrees to help the Captain escape, and is surprised to find that he is related to the Haddocks of Marlinspike hall. Tintin tells Haddock about the scroll he found, and the rumor that only a Haddock can unlock the secrets of the Unicorn. Haddock claims his father told him a story on his deathbed, but has since forgotten it. When Tintin inquires about other relatives, Haddock claims that of three brothers, he is the last of the family members. This sticks in Tintin's mind as they escape the ship. On their way off, Tintin passes by the radio room, and overhears talk of 'The Milanese Nightingale,' and get coordinates to the ship's next location: Bagghar. Making their escape in a lifeboat, Sakharine sends two of his men in a seaplane to find them. Tintin manages to shoot the plane, damaging its engine, causing them to land. The two pilots are then trussed up, and Tintin is able to repair the plane, before he, Haddock, and Snowy pilot the plane towards Bagghar. However, a storm over a desert area causes the plane to crash, and the three find themselves walking across the desert. In the last throes of his alcoholic stupor, Haddock begins to hallucinate, and the buried memory of his father's story comes to life. Haddock then begins to relate the story of his ancestor, Sir Francis Haddock, Captain of the Unicorn. The ship was overtaken by pirates, led by a red-scarfed captin known as Red Rackham. Though the Unicorn was said to be carrying standard cargo, Rackham is sure there is more to the ship. Sir Francis allowed Rackham into the secret hold which contained treasure, but was incensed when Rackham went back on his word, and allowed the crew to be devoured by sharks. Sir Francis then blew up the Unicorn to prevent Rackham from getting the treasure. Escaping the wreck, Sir Francis was cursed by Rackham, who claimed they'd meet again, 'in another time, in another place.' It is now, that Haddock realizes that Sakharine is related to Red Rackham. After hearing this story, the three finally make it to Bagghar, where they are surprised to encounter Thompson and Thomson, who have recovered Tintin's wallet, along with the special paper. and enter the palace of Omar Ben Salaad, who is said to have a miniature of the Unicorn. Also on hand, is a performance by Bianca Castafiore, aka 'The Milanese Nightingale.' As her operatic voice fills the air, the special glass case the Unicorn model is in fractures, and Sakharine reacts, sending a falcon in to break open the ship's mast, and steal the last of the scrolls. A high-speed chase through the city follows, with Tintin eventually giving in to Sakharine's demands to give him the scrolls to avoid him drowning Haddock and Snowy. After the incident, Sakharine and his men leave on the Karaboudjan. Tintin is just about to give up, when he realizes that being in the ship's messaging room, he knows its signal, and they can report it to interpol, helping them track where it is going. The ship eventually enters port back where the adventure started. It is here (through the use of another seaplane), Tintin, Haddock, Snowy, and Thompson and Thomson are waiting to arrest Sakharine. However, Sakharine pulls a gun on the group, before getting into a nearby dock crane, and fighting Haddock in another, like two men wielding cutlasses. In the end, Sakharine gains the upper hand, and attempts to burn the three scrolls, before Tintin manages to recover them. As the sun rises over the docks, Tintin and Haddock line up the scrolls, and see that they contain coordinates. Following them, they end up at Marlinspike hall. There, Haddock mentions a certain cellar he used to remember when he was a little boy. They end up finding that the cellar was walled over by Sir Francis Haddock when he lost the house. They ram through the house's fake cellar and enter the second cellar. They find a statue of St.John the Evangelist, and Tintin remembers a line from the poem - \"And then shines forth the eagle's cross\". He deduces that St.John, in addition to being represented with an eagle, is also called the Eagle of Patmos, and so he IS the eagle. Near the statue, they find a globe, whereupon Haddock looks at it and remarks that it contains an extra island and that it must have been a mistake. Tintin says that it was no mistake, and that Sir Francis banked upon his descendant, a man who could look at a globe and could find if even one tiny island was out of place; a man who knew the seas like the back of his hand, could understand the clue. Haddock presses the tiny island on the globe, and it comes apart, revealing Red Rackham's treasure in it, along with Sir Francis' hat. As the captain wears the hat and says it's all over, Tintin finds another clue at the bottom of the hollow globe, with a clue to where the remaining treasure is located. Thus, Tintin and Haddock prepare for their next great adventure.",
+      "writers": [
+         "Steven Moffat",
+         "Edgar Wright"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0983193/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNDE5MDExNTQ1OF5BMl5BanBnXkFtZTcwMDIxMTM5Ng@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jamie Bell, Andy Serkis, Daniel Craig | See full cast and crew »"],
+      "reviews": [
+         "First off, this is the first time I ever write a review in here. For once, I felt compelled to do it because... Well... because I'm Belgian and grew up on a steady Tintin diet, like most Belgians my age and older. The comics... not the cartoons. Needless to say I'm a old fan. I also happen to be a fan of Spielberg's, probably since seeing E.T. when I was about 5 years old. The two could be mutually exclusive. I could take the role of the harcore comics fan who despises the adaptation, or the rabid Spielby fan forgiving everything. Thankfully, after having the chance to see it before most people out here in Belgium and everywhere else thanks to a journalist buddy, I found out I can to be none of the above. Spielberg and Jackson and all the team behind the adaptation obviously gave the original material the love and respect it deserved, while making it their own. To clarify the origins of the story itself, you have to know that it isn't the adaptation of one, but three Tintin comics. Its beginning takes root in \"Le Crabe aux Pinces D'or\", while the rest of the movie revolves around the two-albums story of the hunt for Rakham the Red's treasure, \"Le Secret de la Licorne\" and \"Le Trésor de Rakham le Rouge\". While it could seem like a lot of material for a whole movie, the choice of blending those three (two and a half) stories together turns out giving the movie a rather perfect pacing. To kill a double controversy in the making, and like I've already read in a couple critics: Tintin has always been a \"bland\" character in the comics. He has no asperities. He is brave, always gets out of the tangles he gets in, he is a good guy, he doesn't know doubts... Tintin as a character has his limits, dramatically speaking, and even Hergé knew that... It is actually the reason for the appearance of Captain Haddock after a few albums. Haddock is the dark side of Tintin, prone to anger and shouting insults, hard drinker, natural born loser... Far from a being just a comical sidekick, Haddock is the human counterpart to the flawless hero that Tintin is (remember, this is a comic, originally aimed at kids and older kids). The movie has the intelligence of starting off the big screen adventures of Tintin with the two meeting up and becoming friends, a real turning point in the continued adventures of Tintin. The movie also deftly skips what could have been a typically Hollywoodish mistake of giving Tintin exposition. But none of that nonsense here. Tintin is a reporter, that's all you need to know. That's all the comics ever told us about him. None of them ever showed Tintin doing actual reporter work. I don't think he ever used a typewriter, he has no boss, no workplace. Tintin just finds himself where adventure is. Because he's a reporter. Hergé never needed more, kudos for the guys behind this movie for keeping true to that. It will be held against them, but that will be coming from people who don't know the original material. But I somehow had little worries about that, honestly. It was only obvious they wouldn't touch the spirit of what's considered a classic worldwide. Well, not those guys. I had more doubts about the transition from Hergé's \"Ligne Claire\" type of drawing to CGI's and even more so to the use of 3D. And that's where I was truly impressed. Not that I'm adverse to CGIs, mind. In fact it's the cartoons that bred those doubts in me. The varied 2D, celluloid adventures of Tintin always bugged me, because of that transition from the seemingly simple but incredibly dynamic looks of the books, looking so wrong when brought to animated life. Yet the movie did a great job of shutting up the Tintin geek. It simply looks stunning, and your mind easily jumps back and forth between forgetting these are cartoon characters and appreciating their transition to a 3D environment, respectful of the original designs but literally bringing them to life. In short, all these elements drew me to the same conclusion, Spielby and co. managed to deal a great adaptation. One that has true respect for the original material, and the great ambition of adding something to it. Yes, not everything of it. \"Le Crabe aux Pinces D'or\" could have deserved a whole movie. Shortcuts are taken, and as true to their originals as they are, the characters have been redesigned. But in the end you have a movie that can be appreciated both by fans of the comics as well as people who have \"just heard about them\". It is fun, packed with adventure and action, enjoyable at all ages. And most of all, you can go see it without having to worry about seeing another piece of Hollywood-flavoured perversion, a fast-foodified betrayal. If that's what you like, note, there's been that Smurf thing, recently (another childhood favourite). You know, that other Belgian comics adaptation that took the little blue dudes from their tiny corner of European medieval forest to... Modern New York? But if you have more gourmet tastes, better bet your money on Jackson and Spielberg. Trust this true childhood Tintin fan.",
+         "Before his passing in 1983, Hergé said that if any filmmaker was to adapt his collection of timeless tales following the adventures of a Belgian reporter to the big screen, Steven Spielberg was the only man for the job, and after two decades of trial and error, the cinematic version of Tintin has finally reached our screens with the desired director at its helm. Alongside Spielberg sits Lord of the Rings (2001-2003) maestro Peter Jackson as producer and three of Britain's brightest writers (Steven Moffat, Edgar Wright and Joe Cornish) who have that almost impossible task of translating the stories from comic strips to 35mm. This 3D motion-capture and CGI extravaganza combines three of Tintin's most beloved outings (The Crab with the Golden Claws, The Secret of the Unicorn and Red Rackham's Treasure) and hits UK multiplexes just before the school half-term. After discovering an elegant model of the ship the 'Unicorn' at a market, Tintin (voiced by Jamie Bell) and his loyal dog Snowy are intrigued as to why so many desire it, and comment on the secrets it holds. When the model is stolen, more information surfaces and the pair set out to discover the truth, teaming up, after a surprise meeting, with the boisterous drunkard Captain Haddock (voiced by Andy Serkis). The group's adventure spans the globe, with each destination bringing more danger and that crucial step closer towards unravelling the mystery. From the moment the picture opens, the film's tone and mood is set: mystery and adventure merged with fun and frolics. The classy, hand-drawn, animated titles use the signature silhouette imagery with style and sophistication, making the wit and wonder evident even before audiences have graced their eyes on the monumental motion capture work. In a rather lacklustre year for animation, with the only true blossom of beauty being Studio Ghibli's impeccable 'Arrietty', Spielberg's latest thankfully ends this dry-run with a picture that explodes with vibrancy, craftsmanship and realism. Unlike Robert Zemeckis' motion-capture entries (The Polar Express [2004] and A Christmas Carol [2009]); The Adventures of Tintin is an entirely different bunch of blistering blue barnacles � every frame enforces impeccable detail and naturalism, and like the best animated pictures, viewers will forget they are watching digitalised representations in no time. Whether the visuals are mind-blowing as in the all-important action sequences � or brilliantly subtle � like the red, sweat-streaked cheeks and brows of Tintin and Haddock as they trek through a desert � this film is a clear example of just how magnificent technology is in this day and age. Without a shadow of a doubt this is the year's finest animated entry � expect an Oscar nomination and a deserved win. As well as its tremendous visual flair, the feature's script is a revelation: beautifully written and whimsical dialogue that is frequently hilarious and manages to merge the three classic tales so seamlessly. Considering Hergé's stories are separate volumes, the typing trio behind this movie are able to make a sensible structure with the texts, making the film flow as gracefully as its perfect imagery. As well as the laughs, the script provides great character development for those new to the world of Tintin without insulting audiences with an hour's lesson. Young children will have no trouble picking up who's who in the early stages, before settling back for the incredible roller coaster ride of the second and climatic act. Action fans will gain greatness from this movie too. Expect high octane chases, pirate swordplay and more bullets than a Sylvester Stallone entry � just a lot less gore and swearing. In fact, although The Adventures of Tintin is action-packed, its PG certificate is justified; I cannot recall anything remotely damaging or frightening for young eyes, so parents have nothing to fear with this one when deciding on their half-term picture. The film also sees the much needed return of composer John Williams who provides yet another dazzling and effective score. The music captures the essence of the film in an instant and compliments it throughout. The voice casting is collectively brilliant with Bell and Serkis being the obvious standouts. Bell's inquisitive tone and frequent high-pitched bursts mirror the speech bubbles Tintin utters in the comic panels. When reading a Hergé story, this is exactly how the character sounds in your head. Serkis steals the show as Captain Haddock and is given splendid dialogue to growl through bitter Scottish chords. Haddock's often stupid remarks and forgetfulness is beautifully represented through the animated character. Daniel Craig is also fantastic as the less-than-trustworthy Ivanovich Sakharine while Simon Pegg and Nick Frost are side-splitting as the lovable policing dunces Thomson and Thompson. Plus Snowy is absolutely wonderful. There is no doubt that Spielberg's adaptation will be top of the box office upon release and hopefully those new to Tintin will be influenced to re-visit the books and television shows of yesteryear and become more involved with one of the century's most beloved and important literary creations. Verdict: ����� 'The Adventures of Tintin' is quintessentially the perfect family film and has plenty to offer audiences of all ages. This is an incredibly joyous, thrilling and comically genius adventure. Hergé was onto a winner with his thoughts towards Spielberg and he can rest easy now knowing his tales have been faithfully and beautifully translated into a cinematic masterwork. Great Snakes, it's good.",
+         "When about a year ago, at the supermarket, I saw on the Empire magazine's cover the 3D reproduction of one of my childhood's toon-idols my eyes popped out. 'WHO is directing WHAT???' - the question that echoed in my mind: It was a bit of shock finding out that one of my favorite directors was working on a movie from a character I considered buried under the dusts of time. The astonishment was soon replaced by excitement and I made the way back home from the supermarket hopping and smiling. Today I decided to take an adventurous break from my dull academic life and went to the cinema to watch it. No wonder the room was almost full, despite the fact that the movie will be officially released tomorrow. As soon as the opening credits appeared on the screen I felt a shiver of excitement running through my spine as I was visually meeting an old friend from my childhood again; to my pleasure I felt the same sensations I would feel when I was a child. That's one of the VERY good points of this production: the spirit of Herge's Tintin, in Spielberg's movie, remains UNALTERED. There are some cases, though, in which the characters are even better and more deeply characterized than in the comic strips. OK, let's release now all the excitement about this movie. If I had just five short seconds to say how I think this movie is I'd chose 7 words: Mesmerising from the beginning to the end. That's quite true if you consider that even the opening credits are little shining pearls of direction and creativity. The general impression you get from this movie, talking about direction, is that nothing could have been better. Spielberg's direction is, in this case as well, a real warranty of general great quality. Three things I particularly appreciated: -The movie flows perfectly; it is kind of a pleasure for your eyes and for your brain to follow the adventure. -There's literally a STORM of brain-waves (and here comes the Spielberg's touch); especially, in the connection phases between one scene and the other the director totally expresses his genius, turning the open ocean into a pond, making two shaking hands become dunes in the desert and so on (you'll understand what I mean when you'll watch the movie) -The 'camera's movements' literally pull you into the movie and you can't help feeling excited or scared according to the situation. You can tell it's a Spielberg's movie even just looking at these things. Although all the things I have listed until now are enough to candidate the movie as the best movie of the year (in my opinion) there's still something I must remember: The quality of animation. I really could not find a proper term to define my astonishment when my eyes approached the beautiful places and landscapes shown in the movie. They look perfect, shining and bursting with emotions, sensations; they almost look like paintings: For instance, there's a sunset in the movie that I will hardly forget. It's the same with the CGI models: you can see the wrinkles on the character's faces, even their sweat. Furthermore, some words about the actors: Bells and Serkis are maybe the sole two living beings who could have given birth to the cinematographic version of the two main characters. The first succeeds in the hard challenge to provide the audience with a convincing and faithful interpretation of the beloved protagonist (he did A GREAT job indeed), the second is a delightful surprise again, with a funny Scottish accent and a very good interpretation. One last word goes to one of the best composer alive: Sir John Williams. There's nothing to do, every piece of music he creates is able to touch the deepest strings of our hearts. With a soundtrack (already bought at the HMV store) that ranges from the epic tones to the mysterious ones he gives us another example of his limitless genius, because he still remains one of those composers able to make us cry. Finally, Tintin - The Secret of the Unicorn, is one of the greatest surprises of the year. Another great adventure in the archive of the most spectacular stories of humanity, told by a MASTER story-teller (Spielberg). A movie you will hardly forget.",
+         "I went to see this film in a free screening and took my nephew and niece with me, seeing as it was a family film to try and get different reactions to the film. Let me start off with my view of the film, I've been a fan of Tintin since I first saw the cartoon back in the early 90's, though never read the comics. When I saw the credits of who wrote, produced and directed the film, you think to yourself this film is going to be awesome, there is no way with all that talent they can't possible f**k this up (and they didn't). You have Spielberg directing, Peter Jackson as a producer. Also the writing team great with Steven Moffat, known for Sherlock, Dr who, Coupling and another of my child hood favs, Press Gang. Finally you have Edgar Wright, who wrote and directed Shawn of the Dead, Hot Fuzz and Scott Pilgrim vs. the World. The version of the film i saw was 3d, as it was a preview and i didn't have a choice. Normally i watch all my showing in 2d as i think its personally a fad and a rip off and the films i have seen excluding Avatar, i didn't think the 3d aspect improved the film going enjoyment one bit. This again is my option while the 3d is nice, and the shots going through glass and water was really good, there was nothing else that would have me pulling out another £2 a ticket. I would have been happy with a basic 2d version. On to the film story, TinTin (voice by Billy Elliott's Jamie Bell) buys a handmade ship in market. As soon as he buys it he gets a number of offers of people willing to buy it from him, which TinTtn rejects. When he gets home Snowy, Tintin dog, breaks the ship and a hidden clue rolls out, which begins Tintin trying to work out what it means. Tintin then gets kidnapped by the evil Ivanovich Sakharine (Daniel Craig), who is after the clue. This where Tintin mets up with Captain Haddock as they set of trying to work out the meaning of Tintin clue. The film is a really mixture of action and adventure. We see the heroes on board ships, rowing boats, fly airplanes, riding camels, having car\\bike chases and crane fights. The time flew past for me and not once did i feel bored, this was probably down to the amount going with the film, the quick pace of the action and the different locations of the characters were always in. It reminded me of the Indiana Jones films a lot, where he is on the hunt for treasure, and he only has half of the clues, and the bad guys have the others half and both sides are trying to get the other half for the themselves. He then needs to go around the globe via different transportation to get the info he needs to find the treasure. There is also a large amount of humour in the film, seeing as Moffat, who wrote coupling helped write it, this is no big surprise. While i got the jokes neither my nephew (3) nor niece (8) did. So I am assuming that these were aim at the adults watching. The characters the film makers can't chance much from the original Hergé comics, but Tintin I did find too goody goody, the captain is great character, who is drunk loser, but has a kind heart and wants to do the right thing. The bad guy, Sakharine, is perfect, scary enough to make you believe that he is ruthless killer who is a greedy and after revenge, but on the other had not going over board to make the kids feel scared or afraid of him when he was on screen. There is also the two comic relief characters of inspector Thomson, who are on screen just enough to make you smile at the pratfalls and their stupidness, but not too long for the jokes to wear thin so you're sick of seeing them. My rating of the film would be 4 out of 5. On to the kids view of the film. 1st my nephew who is 3 years old (4 in November). He told me he liked the film a lot especially the pirate bits, but he didn't understand why the pirates were bad. He also said he liked the motorcycle chase because the bikes were cool. As i was sitting next to him i could tell the film was slightly too long for him as he started to fidgit a bit in the last 15 mins. My niece who is 8 (9 in December), i didn't get a lot of information from her, when i asked if she liked all her answer was yes it was good, and when i asked what her favourite bit was, she told me all of it. As a reference for taking children during the half term break, i would say 4 and under while enjoy the film like my nephew did, but they won't fully understand the plot of the film or why certain things are happening, but for 5 years old and up this film and adults included this is a must see.",
+         "Since 1981, Spielberg has become an avid fan of this gorgeous \"Tintin\" comics and has been longing to create a film about it. Before he and \"Tintin's\" master, Herge could meet, Herge passed away. However, Herge's widow decided to give them the rights and began the adventure to re-create this marvelous wonder of art. Adapted from three of the comics, Spielberg's re-creation of the comics introduces us to Tintin (Jamie Bell), a Belgian reporter who gets caught up in all sorts of adventures. One day, he found a model of a ship, the Unicorn and bought it and brought it home. However, when Tintin was buying the ship, two men came to try to buy the model, Sakharine (Daniel Craig) and Barnaby. Later, Tintin discovers that the model holds an important secret and somehow, the secret is linked to the real ship itself. On the way for answers, he meets the grumpy Haddock and head off to an adventure spanning around the globe with his white fluffy dog Snowy. The animation is one of the most beautiful I've ever seen. It's not right to call it a CGI film as the motion of the characters are much smoother than that of CGI films. Tintin's animated self looks stunning (even though he looks kind of different from his comic-self) in his blue long sleeves. Snowy is fluffier than ever. Captain Haddock is grumpier than ever. All of the animation is simply breathtaking and the best I've ever seen. I like how they change scenes. While most other movies just shift scenes normally, this film uses a little imagination and is ingenious in shifting scenes. They can change from a scene of shaking hands to a desert scene by using the outline of the two hands into the surface of the desert. This thing is just entertaining and great in its own right and deserves some reward. The movie itself is fun to watch. The story is compelling, the lines are natural-sounding, and the action is plenty of fun to watch. It is great excitement to watch and I was hooked from beginning to end. Great plot + awesome action + breathtaking animation equals up to amazing movie. The 3D is perfectly fine. The depth is seen and the 3D just makes the movie even more fun to watch. I definitely recommend you to watch this film. \"Tintin\" fan or no, this is sheer fun to watch. If this movie is out in your country, watch it immediately. For U.S. citizens, I'm sorry if you still have to wait for a while but I promise you, this is like no other movie. This movie is over the top and is plenty of fun to watch. A full 10 out of 10! Thanks for reading my review on \"The Adventures of Tintin\". I do hope this review is of good use to you.",
+         "What begins as a fun, nimble little mystery in the first act soon kicks into comedy-action-adventure high gear when junior reporter Tintin, with his brave dog Snowy, stumbles upon boozy Captain Haddock (an excellent Andy Serkis), whose family legacy may prove pivotal in a race to uncover the secret of the Unicorn. From that point on, it's more or less non-stop comedy�some fizzles, most of it works�with gags ranging from jaw-dropping blockbuster chase antics to throwaway background humour. Captain Haddock works brilliantly for the most part: he's unpredictable, endearing, and colourful in all the ways Tintin himself isn't. While the youngster is well played by Jamie Bell, he's mostly just there to work out the clues for the audience. Tintin and Haddock make for a good double-act, though: brains and brawn, cunning and in-over-his-head rashness; together they'd make a good Indiana Jones. The plot is a by the numbers mystery/adventure/treasure hunt, complete with bumbling detectives (so-so comic support from Simon Pegg and Nick Frost), exciting sea plane action and hidden clues, but it's brought to life in gorgeous visual style. While the script only comes alive in fits and starts, the whole film is bursting with rich detail, and is given added depth by a good, solid use of 3D. The virtual camera-work throughout is stupendous. One extended chase sequence through the flooding streets of a North African city is so dazzling and dizzying it reminded me why no other filmmaker can match Spielberg when he lets his imagination out for a spin. Another action scene, told in flashback, depicts a breathless pirate showdown in a storm, and features some of the most playful transitions I've seen since Ang Lee's Hulk. There's a pretty good villain, too, played by a wily Daniel Craig. Snowy, while definitely smarter than your average cute canine, is also given to chasing cats, digging up fossilised bones from the desert, and gobbling sandwiches at decidedly inopportune moments. In other words, he's an instant audience favourite. All in all, it's a rollicking good adventure, one of Spielberg's most fun movies in a long time, and I'll be buying it on Blu-ray next year.",
+         "And Steven Spielberg has found that ship and that ship has sailed him to a brand new technology for filmmaking. Yes, I'm talking about motion capture or as Spielberg calls it \"perfomance\" capture. This technology is a like a new toy for Steven. You can feel the joy for filmmaking from every shot, every detail. He plays with the camera in a way he never could while making a live-action film. For example in probably the best scene of the film the main character, Tintin is gliding on a wire and the camera is following him throughout the whole scene in a continuous shot. But you can still say, you still see that this is a Spielberg movie. You know this is a Spielberg movie since the opening title credits that will remind you a lot of the opening credits in Catch Me If You Can. Even the music is very similar. The main character is Tintin, who is a journalist who we never see doing any journalism though, but that doesn't matter because he is the textbook example of a heroic boy with boy scout qualities. The voice of Jamie Bell fits perfectly for the character. Andy Serkis gives here an incredible performance as Captain Haddock, the drunken sailor who to me was often reminiscent of a grumpy Harrison Ford. The story did seem as too much centered on Captain Haddock though, you could even say this should have been called \"The Adventures of Captain Haddock\" instead of Tintin. Daniel Craig is unrecognizable as the main villain Sacharine. Although his voice did jump to his normal voice in one line but otherwise you didn't know it was him. Of course I can't forget to mention the lovable dog, Snowy. He steals almost every scene that he is in. He is very realistic, he acts like a real dog and even gets his own chase scene. I'm telling you will adore this dog. The animation is magnificent, the motion capture has gone a long way since The Polar Express. It looks very realistic, especially all the features on Captain Haddock's face. The beard, the wrinkles and the eyes, they all looked amazing. Especially the eyes, they aren't so dead-eyed anymore as in The Polar Express. The action scenes are brilliantly written and directed, the angles of the camera, the drive of the action scenes, timing of all the jokes(physical or visual) is genius. Because Spielberg is a genius. He is the master of adventure movies and there never will be another genius in adventure movies like him. Overall Spielberg has created an old-fashioned style adventure movie for the whole family to enjoy,where the important things are just the hunt for the treasure, the friendship two people can make and the most important thing of all that it is an entertaining ride. Spielberg never disappoints, it doesn't matter if you are a fan of Tintin or not, you will enjoy this film nonetheless",
+         "Having grown up with the Tintin comic books, I was doubtful of this project. I'm not a fan of the motion-capture technology and I feared the world created by Hergé would be sanitized for American audiences. But there was no need to worry. Tintin is a funny, exciting and tremendously entertaining adventure movie. It's also Spielberg's most entertaining film since Jurassic Park. Tintin (Jamie Bell) is a young reporter who gets tangled in the affairs of smugglers when he buys a model ship from a scrap meet. When he gets kidnapped to the smugglers' ship, he meets Captain Haddock (Andy Serkis). He's a pure-hearted old drunk, who has information on a great treasure, told as a legend in his family for generations. He just needs to get sober enough to remember it. The adventure takes the pair to the Atlantic, Sahara, Morocco and finally back home. Tintin lives in an unmentioned European city that could be Brussels, London or any other one that has a sea port, really. True to the comics, Tintin himself doesn't really have any strong characteristics. So it stands to reason that the minor characters steal the film again and again. Captain Haddock's alcoholism may not be suitable for the younger children, but it provides some of the film's most hilarious jokes. Almost as good are Nick Frost and Simon Pegg as bumbling Interpol detectives Thompson and Thomson. Familiar faces from the comics pop up now and then, but don't overcrowd the film. The focus is still on the main characters. Even the 3D isn't just a distraction, as Spielberg has truly gone off his way to make use for the technology. Action scenes are shot with a long single shot, where the camera goes around to wild angles. There's a strong sense of being in on the action and forgetting you even are wearing a pair of painful glasses. The film takes a while to pick off steam at first, but after that the action varies from pirate battles to crane fights. The most outstanding scene is the motorcycle chase near the end, which would give Indiana Jones a run for his money. The film's story is faithful to the comic book, and thus ends promising more. I hope there will be, because I was willing to follow Tintin and Haddock on new adventures straight away! I'd say it's among the best, the most innovative comic-book films with Sin City and Scott Pilgrim vs. The World. The film is excellent escapism from the dreary day-to-day life and it made me smile for the rest of the day.",
+         "I was really excited to see this film, as I'm a big fan of Tintin, both the comics and the TV series from the early 90s. I was also pleased to see that the American influence would be primarily limited to Steven Spielberg, with the cast being mostly British and also having Peter Jackson on board. Things started off quite well, with the film sticking closely to the comics and TV episodes, keeping a good pace which got me into the film early on. I was also very impressed with the motion-capture animation and the 3D effects, even if some of the characters didn't look quite right. However, soon after Tintin and Haddock crashed in the desert, things started to go rapidly downhill. The key to this was the fact that the story suddenly veered off onto its own tangent, almost disregarding the original story and the fact it had based so much of itself on the originals up until that point. What also infuriated me was the silliness of it. Of course, a film like this should have a dose of silliness, there's no question of that. But there was far too much, which really ruined it for me. The climactic scene of the duel in the cranes is a prime example of this. It was just too silly for me to take it seriously. Not only that, but this would never have been in one of Herge's original stories. My last gripe is that the film seemed far too long, particularly towards the end. A lot of scenes could have been either shortened or cut all together, as they didn't further the plot or provide anything to the enjoyment. This is another reason why I didn't enjoy the climax of the film, I was bored by the time it got around to it. Overall, I would say that this is a film which had great promise, as Tintin is perfect for an action-adventure movie, but the fact that a lot of the film ignores the original stories ruins any chances of that. I would say that any major deviation from the original stories should only have been done if absolutely necessary to make the film work.",
+         "***WARNING*** CONTAINS SPOILERS!!!!! I am a HUGE fan of the Tintin comics and have read them all countless times and was excited to hear that Steven Spielberg was making a movie based on one of my favorites: \"The Secret Of The Unicorn\". After hearing some reviews from \"loyal\" Tintin fans I went to see this movie hoping that it would at least be OK. Boy was I wrong. Tintin has been betrayed people. Steven Spielberg and Peter Jackson should be ashamed of themselves. It seems like they were so in love with their technological toys that they forgot the most important thing about the film - the story, the characters and respecting Herge. They have practically spat on the great man's grave with this horrible movie. 1) Story - Why did the writers find it necessary to mix three comics into one movie? The Secret of The Unicorn clearly has enough material to make an entertaining movie with Red Rackham's Treasure as a sequel. Sakharine was never a villain. Nor was he Red Rackham's relative (that really is retarded). Nor did he have a pet falcon. Nor was he obsessed with revenge on Haddock. He was simply an innocent antique collector. The Bird Brothers were great villains in the comic and the story had a lot of mystery and intrigue in it - which this movie has NONE. 2) Characters - This is where I hated this movie the most. Haddock - How could they get this so wrong? Haddock comes off overacted, silly, unfunny and just plain annoying. I never knew whether he was drunk or sober. A distinction that is always made in the comics. And why the hell is he Scottish? There is a scene in the movie where the plane is running out of fuel so Haddock burps medical alcohol into the fuel tank of a plane. That is after the alcohol slipped out of the bottle and was floating in the plane like they were in space. When Sakharine threatens to kill Haddock I was hoping that he would...cause that Haddock was a jerk. Tintin - So dull, annoying, lifeless and just frustrating. Tintin also did something in this movie that he never did in the comics. He gave up. And then Haddock does something that he never did in the comics. He gives some garbage speech about pushing through walls and being true to your self. What the hell?? NOOOOOOOOO!!!!! Please people go and buy a copy of \"Tintin in Tibet\". You will find that Tintin never gives up and Haddock does. That was about the 6th nail in the coffin for me but it was certainly the biggest. This movie is nothing but boring Hollywood rubbish made by two men that ruined a great story and some great characters and made it into a typical American blockbuster filled with CGI and special effects crap. It is not fun and it is not interesting. The special effects and CGI are not a big deal and I don't know what the fuss is all about with the Baghaar chase scene - I couldn't even tell what was going on, it was like a pinball machine. Tintin was never about action scenes or CGI. Tintin was always about the story and the characters and that is what people fell in love with when reading the comics. And that is what has been screwed up the most in this horrendous piece of crap. Please people do yourself a favor, save your money and go and buy a comic book and experience the real Tintin. You won't regret it. Rating: 1/10..."
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Adventure",
+         "Family",
+         "Mystery"
+      ],
+      "productionCompanies": [
+         "Columbia Pictures",
+         "Paramount Pictures",
+         "Amblin Entertainment"
+      ],
+      "summaries": [
+         "Having bought a model ship, the Unicorn, for a pound off a market stall Tintin is initially puzzled that the sinister Mr. Sakharine should be so eager to buy it from him, resorting to murder and kidnapping Tintin - accompanied by his marvellous dog Snowy - to join him and his gang as they sail to Morocco on an old cargo ship. Sakharine has bribed the crew to revolt against the ship's master, drunken Captain Haddock, but Tintin, Snowy and Haddock escape, arriving in Morocco at the court of a sheikh, who also has a model of the Unicorn. Haddock tells Tintin that over three hundred years earlier his ancestor Sir Francis Haddock was forced to scuttle the original Unicorn when attacked by a piratical forebear of Sakharine but he managed to save his treasure and provide clues to its location in three separate scrolls, all of which were secreted in models of the Unicorn. Tintin and Sakharine have one each and the villain intends to use the glass-shattering top Cs of operatic soprano the Milanese Nightingale to secure the third. With aid from bumbling Interpol agents the Thompson Twins our boy hero, his dog and the captain must prevent Sakharine from obtaining all three scrolls to fulfil the prophesy that only the last of the Haddocks can discover the treasure's whereabouts.",
+         "Intrepid reporter Tintin and Captain Haddock set off on a treasure hunt for a sunken ship commanded by Haddock's ancestor."
+      ],
+      "budget": 130000000
+   },
+   "movielensId": 90746,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2011-10-25",
+      "dvdReleaseDate": "2012-03-13",
+      "directors": ["Steven Spielberg"],
+      "runtime": 107,
+      "movieId": 90746,
+      "title": "The Adventures of Tintin",
+      "mpaa": "PG",
+      "actors": [
+         "Jamie Bell",
+         "Andy Serkis",
+         "Daniel Craig",
+         "Nick Frost",
+         "Simon Pegg",
+         "Cary Elwes",
+         "Mackenzie Crook",
+         "Tony Curran",
+         "Toby Jones",
+         "Daniel Mays",
+         "Sebastian Roché",
+         "Phillip Rhys",
+         "Mark Ivanir",
+         "Gad Elmaleh",
+         "Jacquie Barnbrook",
+         "Joe Starr"
+      ],
+      "imdbMovieId": "0983193",
+      "originalTitle": "The Adventures of Tintin",
+      "genres": [
+         "Adventure",
+         "Animation",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": ["9ua_4ajpP58"],
+      "plotSummary": "Intrepid young reporter, Tintin and his loyal dog, Snowy are thrust into a world of high adventure when they discover a ship carrying an explosive secret. As Tintin is drawn into a centuries-old mystery, Ivan Ivanovitch Sakharine suspects him of stealing a priceless treasure. Tintin and Snowy, with the help of salty, cantankerous Captain Haddock and bumbling detectives, Thompson &amp; Thomson, travel half the world, one step ahead of their enemies as Tintin endeavors to find The Unicorn, a sunken ship that may hold a vast fortune, but also an ancient curse.",
+      "tmdbMovieId": 17578,
+      "avgRating": 3.48839,
+      "releaseYear": "2011",
+      "numRatings": 2800,
+      "posterPath": "/3XOaHJARdZIXcd7sgJV24Txp3gf.jpg"
+   }
+}

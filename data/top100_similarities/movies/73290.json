@@ -1,0 +1,930 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "japanese",
+            "id": 907
+         },
+         {
+            "name": "loyalty",
+            "id": 1797
+         },
+         {
+            "name": "human animal relationship",
+            "id": 2526
+         },
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "friends",
+            "id": 9713
+         },
+         {
+            "name": "family relationships",
+            "id": 10235
+         },
+         {
+            "name": "dog",
+            "id": 15162
+         },
+         {
+            "name": "newspaper reporter",
+            "id": 163098
+         },
+         {
+            "name": "family dog",
+            "id": 192555
+         },
+         {
+            "name": "waiting",
+            "id": 206863
+         }
+      ],
+      "imdb_id": "tt1028532",
+      "video": false,
+      "title": "Hachi: A Dog's Tale",
+      "recommendations": [
+         14306,
+         14574,
+         203833,
+         1402,
+         11321,
+         10024,
+         9036,
+         10009,
+         80278,
+         5123,
+         9444,
+         22971,
+         10312,
+         9339,
+         6023,
+         114,
+         637,
+         9836,
+         10555,
+         10229
+      ],
+      "backdrop_path": "/m87xptCZD6J15HcioOOX4kfEdeD.jpg",
+      "revenue": 47801389,
+      "reviews": [{
+         "author": "NancyW9",
+         "id": "59338ec2c3a3685a45016718",
+         "content": "This movie is wonderfully written, it's one of my favourite films and I cry each time. Based on a true story of devotion the dog keeps going back to the train station to meet his owner who had a heart attack and died so is obviously he is not coming back, he becomes the train station mascot and people raise funds to help look after the welfare of the dog. it's lovely but you will need plenty of soft tissues to wipe away the tears.It's a classic.",
+         "url": "https://www.themoviedb.org/review/59338ec2c3a3685a45016718"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Parker Wilson",
+               "gender": 2,
+               "credit_id": "52fe457fc3a368484e05ed15",
+               "name": "Richard Gere",
+               "profile_path": "/hqMhNyTqIStibnhBh8SjyfpU665.jpg",
+               "id": 1205,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Cate Wilson",
+               "gender": 1,
+               "credit_id": "52fe457fc3a368484e05ed19",
+               "name": "Joan Allen",
+               "profile_path": "/Atg0mSjK9Dl98YBsFvBuGO8PG5m.jpg",
+               "id": 11148,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Carl",
+               "gender": 2,
+               "credit_id": "52fe457fc3a368484e05ed1d",
+               "name": "Jason Alexander",
+               "profile_path": "/ernpSXp2RnkzeV14OEEKXRq1yND.jpg",
+               "id": 1206,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Ken",
+               "gender": 2,
+               "credit_id": "52fe457fc3a368484e05ed27",
+               "name": "Cary-Hiroyuki Tagawa",
+               "profile_path": "/6KLAW9vcrI1FLLLrTAm0obL4qxc.jpg",
+               "id": 11398,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Andy",
+               "gender": 1,
+               "credit_id": "52fe457fc3a368484e05ed31",
+               "name": "Sarah Roemer",
+               "profile_path": "/lxtXfd7NRS1NW0lNDicLvfZ7dFP.jpg",
+               "id": 20376,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Jasjeet",
+               "gender": 2,
+               "credit_id": "52fe457fc3a368484e05ed35",
+               "name": "Erick Avari",
+               "profile_path": "/aO53uKgLUCID9rCI0SRAIEdsIex.jpg",
+               "id": 18917,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Mary Anne",
+               "gender": 1,
+               "credit_id": "52fe457fc3a368484e05ed39",
+               "name": "Davenia McFadden",
+               "profile_path": "/uX5egRwfOly93uuJeSahVIxfLFV.jpg",
+               "id": 75620,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Michael",
+               "gender": 0,
+               "credit_id": "52fe457fc3a368484e05ed3d",
+               "name": "Robbie Sublett",
+               "profile_path": "/3RlgTbq1qlcjtDyazg5Ygw5iamw.jpg",
+               "id": 557932,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Heather",
+               "gender": 0,
+               "credit_id": "52fe457fc3a368484e05ed41",
+               "name": "Tora Hallström",
+               "profile_path": "/cGyg6en2Zw40ZIcMumQSRoVZX2t.jpg",
+               "id": 1158532,
+               "order": 8
+            },
+            {
+               "cast_id": 27,
+               "character": "Harry Pinow",
+               "gender": 2,
+               "credit_id": "563bf4979251413b130073f2",
+               "name": "Bates Wilder",
+               "profile_path": "/7qMxQfPusgH1e6T0qzOI7Xy1z5A.jpg",
+               "id": 50588,
+               "order": 9
+            },
+            {
+               "cast_id": 28,
+               "character": "Mover",
+               "gender": 0,
+               "credit_id": "563bf4e6c3a3681b61026a7e",
+               "name": "Rich Tretheway",
+               "profile_path": null,
+               "id": 103296,
+               "order": 10
+            },
+            {
+               "cast_id": 29,
+               "character": "Town Resident / Train Commuter (uncredited)",
+               "gender": 1,
+               "credit_id": "563bf57f9251414ab7023aa8",
+               "name": "Ellen Becker-Gray",
+               "profile_path": "/x6w0E1v6MrOkAmnEMhhtUOtRlIA.jpg",
+               "id": 1103658,
+               "order": 11
+            },
+            {
+               "cast_id": 30,
+               "character": "Man Passing on the Sidewalk (uncredited)",
+               "gender": 0,
+               "credit_id": "563bf5adc3a3681b61026a9b",
+               "name": "David Boston",
+               "profile_path": null,
+               "id": 1500999,
+               "order": 12
+            },
+            {
+               "cast_id": 31,
+               "character": "Student (uncredited)",
+               "gender": 2,
+               "credit_id": "563bf5eec3a3681b59024d49",
+               "name": "Robert Capron",
+               "profile_path": "/o5iRcG9tYFH4t5NtgVIeMUItwdk.jpg",
+               "id": 111922,
+               "order": 13
+            },
+            {
+               "cast_id": 32,
+               "character": "Student (uncredited)",
+               "gender": 0,
+               "credit_id": "563bf6749251413b13007430",
+               "name": "Becki Dennis",
+               "profile_path": "/oM6d2UEXCK5wtW6NwAjLb4tKGpl.jpg",
+               "id": 1360004,
+               "order": 14
+            },
+            {
+               "cast_id": 33,
+               "character": "Commuter (uncredited)",
+               "gender": 0,
+               "credit_id": "563bf6d0c3a3681b4d028b25",
+               "name": "John Franchi",
+               "profile_path": "/3j3TU6CT87bnFTeVzLQNsGkyKCb.jpg",
+               "id": 928638,
+               "order": 15
+            },
+            {
+               "cast_id": 34,
+               "character": "Awkward Reacting Boy (uncredited)",
+               "gender": 0,
+               "credit_id": "563bf79b9251414cc900546d",
+               "name": "Adam Masnyk",
+               "profile_path": null,
+               "id": 1519595,
+               "order": 16
+            },
+            {
+               "cast_id": 35,
+               "character": "Commuter #2 (uncredited)",
+               "gender": 2,
+               "credit_id": "563bf88bc3a3681b59024db3",
+               "name": "Roy Souza",
+               "profile_path": null,
+               "id": 135431,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe457fc3a368484e05ed23",
+               "name": "Lasse Hallström",
+               "profile_path": "/tVnakJ0RWFj3eaUIJkzubTzmKXv.jpg",
+               "id": 5306,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe457fc3a368484e05ed2d",
+               "name": "Stephen P. Lindsey",
+               "profile_path": null,
+               "id": 151181,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c8b7a692514148e9000c5b",
+               "name": "Sondra James",
+               "profile_path": "/4ZJkBxkwM1Ub6UQ5LFSvzGDFBdX.jpg",
+               "id": 171297,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563ba038c3a3681b59024481",
+               "name": "Richard Gere",
+               "profile_path": "/hqMhNyTqIStibnhBh8SjyfpU665.jpg",
+               "id": 1205,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563ba05592514129fe016df2",
+               "name": "Jeff Abberley",
+               "profile_path": null,
+               "id": 43559,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563ba06dc3a3681b54026992",
+               "name": "Julia Blackman",
+               "profile_path": null,
+               "id": 43560,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ba09fc3a3681b4b022c12",
+               "name": "Warren T. Goz",
+               "profile_path": null,
+               "id": 1018084,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563ba0f4c3a3681b6102612a",
+               "name": "Bill Johnson",
+               "profile_path": "/rWgkyRCZcqOy5XJGWQQN2lRyH80.jpg",
+               "id": 3498,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563ba11bc3a3681b61026130",
+               "name": "Paul A. Levin",
+               "profile_path": null,
+               "id": 60190,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563ba13ac3a3681b4d0281e0",
+               "name": "Tom Luse",
+               "profile_path": null,
+               "id": 56350,
+               "department": "Production",
+               "job": "Co-Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563ba18cc3a3681b5c026cab",
+               "name": "Paul Mason",
+               "profile_path": null,
+               "id": 49681,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ba1b992514150af00285d",
+               "name": "Stewart McMichael",
+               "profile_path": null,
+               "id": 1018083,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563ba1f0c3a3681b52024e9f",
+               "name": "Jim Seibel",
+               "profile_path": null,
+               "id": 62238,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ba235c3a3681b4d028201",
+               "name": "Shin Torisawa",
+               "profile_path": null,
+               "id": 929308,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563ba29b9251414cc9004b7a",
+               "name": "Jan A.P. Kaczmarek",
+               "profile_path": "/4ozuUr7gySorz5ynJFnelr3SNvv.jpg",
+               "id": 22680,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563ba2cbc3a3681b5c026cd5",
+               "name": "Ron Fortunato",
+               "profile_path": null,
+               "id": 7492,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563ba2ef92514129fe016e49",
+               "name": "Kristina Boden",
+               "profile_path": null,
+               "id": 47776,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563ba317c3a3681b4b022c4d",
+               "name": "Rick Montgomery",
+               "profile_path": null,
+               "id": 7415,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563bf9bec3a3681b5e024429",
+               "name": "Deborah Newhall",
+               "profile_path": null,
+               "id": 1399022,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bf9f29251414ab7023b3d",
+               "name": "LuAnn Claps",
+               "profile_path": null,
+               "id": 1329529,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bfa27c3a3681b4d028bb1",
+               "name": "Nichole Pleau",
+               "profile_path": null,
+               "id": 1447941,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bfa559251414cc90054c1",
+               "name": "Lyndell Quiyou",
+               "profile_path": null,
+               "id": 1425810,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563bfb1d92514129fe017736",
+               "name": "Robert Ortiz",
+               "profile_path": null,
+               "id": 229813,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bfba9c3a3681b520257f7",
+               "name": "Cara Giallanza",
+               "profile_path": null,
+               "id": 1532068,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bfc349251417819002a3a",
+               "name": "Aimee Butterfield",
+               "profile_path": null,
+               "id": 1419093,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bfd0b9251413b1300755a",
+               "name": "Cammeron Truesdale",
+               "profile_path": null,
+               "id": 1532070,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563bfd96c3a3681b61026bfa",
+               "name": "Peter Wilcox",
+               "profile_path": null,
+               "id": 1532071,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bfdd0c3a3681b4d028c63",
+               "name": "Jason Mayoh",
+               "profile_path": null,
+               "id": 1532072,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563bfe3d9251414cc900556b",
+               "name": "Gioia Birkett-Foa",
+               "profile_path": null,
+               "id": 1532073,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563bfe6cc3a3681b5c027678",
+               "name": "Roberto Cappannelli",
+               "profile_path": null,
+               "id": 1392211,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bfe98c3a3681b52025870",
+               "name": "Jay Peck",
+               "profile_path": null,
+               "id": 92388,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563bfecfc3a3681b59024eaf",
+               "name": "Robert Fernandez",
+               "profile_path": null,
+               "id": 40142,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bff259251414cc9005585",
+               "name": "Anton Gold",
+               "profile_path": null,
+               "id": 1532074,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563bff73c3a3681b52025895",
+               "name": "Sylvia Menno",
+               "profile_path": null,
+               "id": 1531576,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bffbe9251416d52017022",
+               "name": "Dave Paterson",
+               "profile_path": null,
+               "id": 1337463,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563bfff29251416d52017029",
+               "name": "Mary Ellen Porto",
+               "profile_path": null,
+               "id": 1085004,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c00229251414cc90055ae",
+               "name": "Damian Volpe",
+               "profile_path": null,
+               "id": 1337465,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c0059c3a3681b4b023621",
+               "name": "John Ruggieri",
+               "profile_path": null,
+               "id": 1459723,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c0102c3a3681b59024ef4",
+               "name": "David Isyomin",
+               "profile_path": null,
+               "id": 1379963,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce44c9251413eb4000cda",
+               "name": "Joseph Battista",
+               "profile_path": null,
+               "id": 1532352,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce4a5c3a36862da0003f2",
+               "name": "John W. DeBlau",
+               "profile_path": null,
+               "id": 1532354,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce54492514129fe01973e",
+               "name": "Eric Engler",
+               "profile_path": null,
+               "id": 1532355,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce56dc3a3681b61028be3",
+               "name": "William L. Flanagan",
+               "profile_path": null,
+               "id": 1532356,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce59c9251413b1300965c",
+               "name": "Craig Gleason",
+               "profile_path": null,
+               "id": 1532357,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce613c3a3681b61028c0f",
+               "name": "Bruce MacCallum",
+               "profile_path": null,
+               "id": 1391591,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce642c3a3681b5402956d",
+               "name": "Francis Spieldenner",
+               "profile_path": null,
+               "id": 1532359,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce728c3a3681b4d02c2b7",
+               "name": "Sally Swisher",
+               "profile_path": null,
+               "id": 1532363,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563ce75e9251414c7000766f",
+               "name": "Liz Gallacher",
+               "profile_path": null,
+               "id": 1066776,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce79ac3a3681b540295ab",
+               "name": "Steven Feinberg",
+               "profile_path": null,
+               "id": 68227,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce845c3a3681b5e026320",
+               "name": "Skip Shea",
+               "profile_path": null,
+               "id": 1532364,
+               "department": "Crew",
+               "job": "Stand In"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce88692514129fe0197d0",
+               "name": "Robin Squibb",
+               "profile_path": null,
+               "id": 1183454,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563ce8c6c3a36862da0004dc",
+               "name": "Caspar von Winterfeldt",
+               "profile_path": null,
+               "id": 1046771,
+               "department": "Crew",
+               "job": "Thanks"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 24.415126,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 28178,
+      "vote_count": 2324,
+      "budget": 16000000,
+      "overview": "A drama based on the true story of a college professor's bond with the abandoned dog he takes into his home.",
+      "similar": [
+         13,
+         68718,
+         862,
+         19913,
+         489,
+         424488,
+         8839,
+         12227,
+         397422,
+         226,
+         9598,
+         50544,
+         72105,
+         2898,
+         10948,
+         277547,
+         1024,
+         381289,
+         13523,
+         109689
+      ],
+      "original_title": "Hachi: A Dog's Tale",
+      "runtime": 93,
+      "poster_path": "/3MpVmIg6CgOCUrZ2TZ2P0yitCbM.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Scion Films",
+            "id": 7419,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Stage 6 Films",
+            "id": 11341,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Inferno Distribution",
+            "id": 11278,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Hachiko",
+            "id": 66327,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Grand Army Entertainment",
+            "id": 1843,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Opperman Viner Chrystyn Entertainment",
+            "id": 66328,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2009-06-13",
+      "vote_average": 7.8,
+      "belongs_to_collection": null,
+      "tagline": "A true story of faith, devotion and undying love.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Lasse Hallström"],
+      "runtime": 93,
+      "synopsis": "This heartwarming true story is an American adaptation of a Japanese tale about a loyal dog named Hachiko. This very special friend would accompany his master to the train station every day and return each afternoon to greet him after work. Sadly his master goes to work one day, but dies at work and never returns to the station. Hachiko faithfully returns to the same spot at the station that evening, and every day until the last day of his life, to wait for his beloved master. During his daily visits, Hachiko touches the lives of many who work near and commute through the train station square. He teaches the local people love, compassion and above all, unyielding loyalty. Today, a bronze statue of Hachiko sits in his waiting spot outside the Shibuya station in Japan as a permanent reminder of his devotion and love. (NOTE: There is also a bronze statue of Hachiko now at the location in Rhode Island where this movie was filmed. It can be viewed on Google Street Maps by visiting 1 High St., Woonsocket, RI 02895)",
+      "writers": [
+         "Stephen P. Lindsey",
+         "Kaneto Shindô"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1028532/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTAxMDA2MjM4NDReQTJeQWpwZ15BbWU3MDE0NTgxMTM@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa | See full cast and crew »"],
+      "reviews": [
+         "Well what can i say. I'm a guy i don't cry about movies i know its fake but i gotta say this one caught me by surprise even tho id watched the trailer and read a few reviews already. by the end of the movie i was in tears absolutely broken down crying my eyes out. and saying that i probably haven't shed a tear in about 8 years for anything but i love dogs and this is the most amazing story I've ever seen this is probably the best movie I've seen in about 10 years and i have seen almost everything. as u can prob tell i would advise everyone to see this and stop and think for a moment if we all cared for each other like we know we should like this movie teaches us wouldn't the world be a better place?",
+         "I'm not at all an emotional person,but this movie really touched me,i couldn't even stop crying after 15 minutes from the final.I just sat on my armchair,and started to cry. This movie,teaches us first of all about love,there is no power bigger than love,nothing compares to this strong feeling. I'm really objective when it comes about movies,and honestly no one till now,have cut me as deep. It's surprising...but true,that everything in this world,is ruled by love,and if you thought that only humans are aware of this,you did wrong. I liked the performance,i loved the music(it was so so calm) So glad to see this film,and i truly recommend it for everyone,i'm really sure you will enjoy it.",
+         "I just saw this movie today, and I'm so glad I did. It is based on a true story and it's only natural that the movie is great because the real story itself is very touching. One of the things that sets this movie apart from the other movies that involve animals is how they stuck to reality instead of throwing in some a-little-hard-to-believe elements here and there just to make it more entertaining. Sometimes they show things through Hachi's eyes as opposed to human eyes, which helps you relate to him and understand how he felt and what he thought then, as well as emphasizes that Hachi is the main character of the movie. This is not just a kids' movie. In the end everyone including myself was crying because we were so moved. It is a must-see.",
+         "Well, I just came back from seeing this in Shinjuku earlier and I can honestly say that I have NEVER seen so many people crying at the end of a movie.... it really is a sad story. However, it's also a heartwarming tale of loyalty, about how people and dogs are more than just friends and, I guess most of all, about how a dog's love for its master never fades - even after his/her death! Richard Gere was fantastic in this movie, he bonded really well with the dog and it never felt like watching an actor at all - it genuinely seemed to be a movie with his own dog! I highly recommend this to people of all ages. There are enough bits to laugh at (seeing Richard Gere teaching his dog to play 'fetch' was brilliant!) and the story is portrayed really well (even if there were some changes made to the original Japanese tale)",
+         "Knowing the real-life story behind it, Hachiko: A Dog's Story (2009) has been made in a sort of staged documentary style, similar to the kind of movies often seen on documentary channels (e.g. NatGeo), however without a narrator so common in documentaries, and including well-known actors (Richard Gere, Sarah Roemer and Joan Allen), making it more suitable for theatrical distribution. Before my last year's visit to Tokyo I've been unaware of the true-life story this movie is based upon. In time an occasion came up to meet a friend in Shibuya city, contemporary center of Tokyo's youth culture (shopping, fashion, nightlife...), and that's how I've learned about the popular local meeting point for all Tokyoites, the Hachikō Akita dog statue just outside of Shibuya Train Station, but the real story behind it has been still eluding me ever since. After seeing this movie, and some additional research on the web, all pieces have fallen into place. In retelling the story of common bonding between the dog and its owner, so usual that it comes so natural, film is moving at slow pace, following events of an ordinary life, though not without occasional comedic and dramatic overtones. Even past the dramatic highpoint, when common acts of affection and loyalty evolve towards such an unheard-of faithfulness and ultimate devotion, pace of the storytelling does not change, relying primarily on fine details and emotional build-up. Of course, this might not attract everybody, providing that majority of movie audience today is highly dependent on fast paced, action packed scenes, getting thrills from 3D CG stylized ambiance and suspense, high volume amplitudes and aggressive, often rude highlights of any other nature. However, for those who can do without it, and keep alive their interest even in a simple story, who won't shy away from emotional involvement (as if this can be controlled), they shall easily find themselves consumed by its mere beauty and warmth. Usual man's-best-friend story, spiced with an intriguing yet inspiring detail, shall leave you a bit sad, inevitably pensive, but ultimately delighted. Even more so after the reading of the real-life epilogue.",
+         "Hachi is a movie based on the true story about a dog in Japan, Hachiko, who would wait at the train station every day for his owner to arrive even after the owner passed away. I have never seen the original Japanese version of the movie but know the story well as I have been told by many people here in Japan. There is a statue of Hachiko that stands outside of Shibuya Station in Tokyo. Now the statue is the most popular place for Tokyoites to meet their friends before going out shopping or dining in Shibuya. Unlike other Japanese remakes, this movie actually gives credit to the original story so that you don't get the sense that Hollywood wants to call it its own. All actors/actresses in the movie do a superb job in making you feel as if you were a part of the community embracing the dog. Compared to the original story, people were more accepting of Hachi rather than considering him a nuisance. Of course this is going to be released in the U.S. as a holiday movie so the goal is to make it uplifting. Just a warning, do take many tissues. I am a grown man and can honestly say that I have never really cried during a movie. I think the score of the movie plus the dog being so adorable made me lose myself. When I looked around the theater though, every single person was crying and I saw a lot of red eyes as I left the Men's restroom. Any movie that can make me do that deserves a 10/10.",
+         "Finally a film without explosions, computer graphics, and violence. A family film with a message. Adults will relate to the story of life-long friendship and loyalty. Children will love the \"dog story\" A tender story will huge box office potential. The possible \"sleeper hit\" of the holidays. Pet lovers everywhere will relate to this film and will leave theaters in tears. A weepy, wonderful film about the bond that develops between one man and a dog after a chance meeting at a train station. Bring extra tissues! Based on a true story, this film was shot mostly in Woonsocket, Rhode Island at a historic old train station. Beautifully shot and edited. The film runs less than 2-hours. The film generally adheres to the actual true story of a dog in Japan. The dog became a national treasure and a monument was erected to honor him.",
+         "Its really hard to articulate when you have so much to write and so little words to express. And even lesser words which could actually help you convey what you want to say. The closest word which comes to my mind in this case is 'stupendous'. Hachiko is a true story about a dog in Japan and the special bond he shared with a professor whom he met when it was a little puppy. The story has been put forward exceptionally well by the cast and the director. The movie has been kept extremely simple with minimum effort on the scenes, yet remarkably you are kept spellbound after a couple of minutes into the movie. And as the other reviews suggest, making the whole theater grab onto their tissues explains how good it really is. Lastly, coming for someone who also rates 'Eight below' as one of his favorite's, a high rating of Hachiko would seem a little biased to many. But in my honest opinion I don't think that anybody who has watched this movie can rate it below 10.",
+         "Finally a film from the USA (albeit based on a true story in the 1920s Japan) that is without guns, explosions and free of violence and not based at all on romantic elements! \"Love and Loyalty\" succinctly sums up the film. The love so simple, so pure and the loyalty so unfailing, so steadfast that it would melt any steel heart. I was so embarrassed that as soon as the film came to the end I dashed straight into the loo only to see my eyes sore red (!!) The main characters never \"take flight\" but that matters not at all. It's the simple story of the love between a man and his best friend that more than sufficiently works all the wonders. Not a sad one, but profoundly touching, So touching that even a tough guy like me couldn't possibly hold his tears. Hachiko, the Akita dog, has set the Yardstick of loyalty under which all loyalty among us human beings are to be measured. Loyalty that is truly monumental. Loyalty that is to be surpassed only by God Himself. A must-watch film, especially for all dog lovers. Highly recommended for all families and people of all ages.",
+         "Saw this movie while traveling in Belarus it brought me to my knees this was a show of the ages and without question a Richard Gere classic and performance of a lifetime this show will be Seen for Years and lifetimes to come I have been back in the U.S. for 2 weeks now and tell everyone about it I think of it many times a day it was yes----that good this is a movie You will never ever forget or get it out of your mind and heart will see it again when it opens in the US in December you may think this is a over statement but when you leave the theater it will be a known fact you will remember this show for ever it was and is a classic forever and a true story to boot...... wow."
+      ],
+      "genres": [
+         "Drama",
+         "Family"
+      ],
+      "productionCompanies": [
+         "Stage 6 Films",
+         "Inferno Distribution",
+         "Hachiko"
+      ],
+      "summaries": [
+         "In Bedridge, Professor Parker Wilson finds an abandoned dog at the train station and takes it home with the intention of returning the animal to its owner. He finds that the dog is an Akita and names it Hachiko. However, nobody claims the dog so his family decides to keep Hachi.",
+         "A schoolboy reports on his hero: Hachiko, his grandfather's dog. In a flashback, a puppy at a Japanese monastery is crated and sent to the US. The crate's tag tears, and when the puppy pushes his way out of the crate at the train station of a small Rhode Island town, Parker Wilson, a professor of music in nearby Providence, takes the dog home for the night. His wife isn't happy about it, but after failing to find the owner, she lets the dog stay. A Japanese friend reads the dog's tag - \"Hachiko\" or \"Eight,\" a lucky number. Parker can't teach the dog to fetch, but the friend explains that the dog will forge a different kind of loyalty. Tragedy tests that loyalty.",
+         "Eleven year old Robbie is giving a oral class report on the topic of \"My Hero\", his chosen subject, Hachi, who on the surface is an unusual choice... Several years earlier, Parker Wilson, who lives in Bedridge in suburban New York City, is a college music/performing arts professor, he who makes the train commute to/from the city every working day. It is on one of those routine days going home that he finds at the Bedridge Station a puppy, who he eventually will learn was being shipped somewhere unknown, with the shipping tag lost. He also learns from Ken, a Japanese professor friend, that the dog is a Japanese breed called an Akita, and that the Japanese character on the dog's collar tag is the number eight - \"hachi\". Parker does whatever he can to find out who the dog belongs to, and although his many acquaintances around the train station do their small part in helping Parker, no one is willing to take the dog, even temporarily. So Parker takes the dog home, despite he and his wife Cate long having dismissed the idea of having a dog. However Parker is able to convince her to let the dog stay temporarily. Eventually on the high probability that they will never find the dog's owner, Cate, upon seeing the interaction between the two, lets Parker permanently keep the dog, who he has since named Hachi. Although living in the Wilson home with Parker, Cate and their daughter Andy, Hachi becomes not a Wilson family pet, not Cate's, not Andy's, but Parker's alone as a special bond forms between the two. Although not a \"typical\" dog in that Hachi will do not what most dogs do such as fetch, Hachi demonstrates an unwavering and lifelong loyalty to Parker in an unusual way that all around him can see. Robbie chose Hachi as his hero because of this loyalty, despite he never having met Parker, his now deceased maternal grandfather.",
+         "A drama based on the true story of a college professor's bond with the abandoned dog he takes into his home."
+      ],
+      "budget": 16000000
+   },
+   "movielensId": 73290,
+   "movielens": {
+      "languages": [
+         "English",
+         "日本語"
+      ],
+      "releaseDate": "2009-06-13",
+      "dvdReleaseDate": "2010-03-09",
+      "directors": ["Lasse Hallström"],
+      "runtime": 93,
+      "movieId": 73290,
+      "title": "Hachi: A Dog's Tale",
+      "mpaa": "G",
+      "actors": [
+         "Richard Gere",
+         "Joan Allen",
+         "Jason Alexander",
+         "Cary-Hiroyuki Tagawa",
+         "Sarah Roemer",
+         "Erick Avari",
+         "Davenia McFadden",
+         "Robbie Sublett",
+         "Tora Hallström",
+         "Bates Wilder",
+         "Rich Tretheway",
+         "Ellen Becker-Gray",
+         "David Boston",
+         "Robert Capron",
+         "Becki Dennis",
+         "John Franchi",
+         "Adam Masnyk",
+         "Roy Souza"
+      ],
+      "imdbMovieId": "1028532",
+      "originalTitle": "Hachi: A Dog's Tale",
+      "genres": [
+         "Drama",
+         "Family"
+      ],
+      "youtubeTrailerIds": ["Y6U7mAnPtw4"],
+      "plotSummary": "A drama based on the true story of a college professor's bond with the abandoned dog he takes into his home.",
+      "tmdbMovieId": 28178,
+      "avgRating": 3.79124,
+      "releaseYear": "2009",
+      "numRatings": 1164,
+      "posterPath": "/3MpVmIg6CgOCUrZ2TZ2P0yitCbM.jpg"
+   }
+}

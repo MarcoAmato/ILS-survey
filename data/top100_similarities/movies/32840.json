@@ -1,0 +1,353 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "narration",
+            "id": 2398
+         },
+         {
+            "name": "boy",
+            "id": 5202
+         },
+         {
+            "name": "mama's boy",
+            "id": 5893
+         },
+         {
+            "name": "stop motion",
+            "id": 10121
+         },
+         {
+            "name": "spoof",
+            "id": 11931
+         },
+         {
+            "name": "gothic",
+            "id": 33505
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         },
+         {
+            "name": "macabre",
+            "id": 162810
+         },
+         {
+            "name": "imagination",
+            "id": 170344
+         },
+         {
+            "name": "short",
+            "id": 214549
+         }
+      ],
+      "imdb_id": "tt0084868",
+      "video": false,
+      "title": "Vincent",
+      "recommendations": [
+         33914,
+         53215,
+         44338,
+         53210,
+         40619,
+         46343,
+         13925,
+         142563,
+         53211,
+         100246,
+         48868,
+         62967,
+         56619,
+         13929,
+         13042,
+         19035,
+         49565,
+         5698,
+         33600,
+         49273
+      ],
+      "backdrop_path": "/wOvpMdPUftQ2LRTE0QmD8ExmEiF.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [{
+            "cast_id": 1,
+            "character": "Narrator (Voice)",
+            "gender": 2,
+            "credit_id": "52fe44b99251416c9101ab47",
+            "name": "Vincent Price",
+            "profile_path": "/w9wcf7hWLD2I2K0PojJaqd9vbHL.jpg",
+            "id": 1905,
+            "order": 0
+         }],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44b99251416c9101ab4d",
+               "name": "Tim Burton",
+               "profile_path": "/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+               "id": 510,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b99251416c9101ab53",
+               "name": "Tim Burton",
+               "profile_path": "/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+               "id": 510,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b99251416c9101ab59",
+               "name": "Tim Burton",
+               "profile_path": "/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+               "id": 510,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b99251416c9101ab5f",
+               "name": "Victor Abdalov",
+               "profile_path": null,
+               "id": 110545,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b99251416c9101ab65",
+               "name": "Ken Hilton",
+               "profile_path": null,
+               "id": 110546,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b99251416c9101ab6b",
+               "name": "Rick Heinrichs",
+               "profile_path": null,
+               "id": 1226,
+               "department": "Art",
+               "job": "Sculptor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b99251416c9101ab71",
+               "name": "Stephen Chiodo",
+               "profile_path": null,
+               "id": 80247,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ba9251416c9101ab77",
+               "name": "Stephen Chiodo",
+               "profile_path": null,
+               "id": 80247,
+               "department": "Crew",
+               "job": "Supervising Technical Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ba9251416c9101ab7d",
+               "name": "Tim Burton",
+               "profile_path": "/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg",
+               "id": 510,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572154459251412e5b000708",
+               "name": "Eric Brevig",
+               "profile_path": "/mhZIBHaVpQPhbY38aQTxW1W9BIC.jpg",
+               "id": 9622,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572153419251412e5b0006ba",
+               "name": "Rick Heinrichs",
+               "profile_path": null,
+               "id": 1226,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57215396925141424200118b",
+               "name": "Rick Heinrichs",
+               "profile_path": null,
+               "id": 1226,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572153c69251414232001583",
+               "name": "Allen Hurd",
+               "profile_path": null,
+               "id": 1396414,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572154129251414494001025",
+               "name": "David Allen",
+               "profile_path": null,
+               "id": 187067,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57215464c3a36811870011a3",
+               "name": "Julie Hickson",
+               "profile_path": null,
+               "id": 146179,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572154879251412e5b000724",
+               "name": "Christopher Roth",
+               "profile_path": null,
+               "id": 56989,
+               "department": "Crew",
+               "job": "Thanks"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         }
+      ],
+      "popularity": 5.454677,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 32085,
+      "vote_count": 286,
+      "budget": 60000,
+      "overview": "Young Vincent Malloy dreams of being just like Vincent Price and loses himself in macabre daydreams which annoys his mother.",
+      "similar": [
+         10895,
+         3933,
+         764,
+         533,
+         326359,
+         11868,
+         626,
+         20722,
+         24808,
+         13246,
+         2182,
+         31135,
+         461955,
+         1483,
+         145316,
+         46624,
+         27723,
+         27040,
+         28165,
+         67703
+      ],
+      "original_title": "Vincent",
+      "runtime": 6,
+      "poster_path": "/h64Zd7aWWGL1ctsU3W4i2rQOwTk.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Walt Disney Productions",
+         "id": 3166,
+         "origin_country": ""
+      }],
+      "release_date": "1982-01-01",
+      "vote_average": 7.9,
+      "belongs_to_collection": null,
+      "tagline": "Beautiful, creepy, haunting, sad.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Tim Burton"],
+      "runtime": 6,
+      "synopsis": null,
+      "writers": ["Tim Burton"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0084868/",
+      "coverLink": null,
+      "actors": ["Stars: Vincent Price | See full cast and crew »"],
+      "reviews": [
+         "VINCENT is the dark tale of a young man whose innermost desires drive him to the brink of madness. His is a lonely, tormented existence. The Expressionistic environment through which he moves is the lightless landscape of the mentally ill. His obsession is overwhelming: he would gladly forego the dubious pleasures of a \"normal\" life in favor of a life led deep in the depths of the shadows. And, as he sinks deeper and deeper into his morose mindset, one thing becomes painfully clear: this young man is on the fast track to a rubber room. One can almost HEAR the tortured cry of a soul in despair as he moves listlessly from place to place, his head hung low. The weight of the world virtually rests on his sagging shoulders. But it's the EYES that reflect the innermost pain; the EYES that mirror the shattered soul within the humbled husk as it trudges along. A simple walk up the stairs becomes the scaling of an emotional Everest. Perhaps only the late Charles Addams could relate to this lost soul (for there was, in the eyes of Addams's characters, reflected the same soul-searing pain we find in the eyes of the boy called \"Vincent\")... A brilliant, moving portrait of a young man in search of his soul.",
+         "`This better than a star on Hollywood Boulevard' �Tim Burton's homage to one of the greatest horror actors that ever lived is an adorably animated little poem. You can really sense Burton's respect! Vincent tells us about a 7-year-old boy with a passion for the charismatic horror actor. Rather than to go out and play with friends, he hides in his room and relives the Vincent Price films like `House of Wax' and `The Raven'� The animation style returned over 10 years later in Burton's masterpiece �The Nightmare before Christmas'. It's dark and rather ghoulish�but irresistibly charming! Price himself does the narrating and you can tell doing so clearly honored him. Vincent is a must for all Burton or Price fans and recommend to anyone else who knows how to appreciate imaginative cinema. `Vincent' comes as an extra-feature on the Special DVD-edition of Nightmare before Christmas. Check it out� it only takes 6 minutes of your time and you get a lovely and fresh surprise in return.",
+         "God, I cannot stress this enough: TIM BURTON IS A Genius! \"Vincent\" was one of Tim's first films. Actually, first ideas. He has a very interesting imagination when it comes to this film. It reminded me a lot of Edgar Allen Poe. In some ways, I think Tim is the new Edgar Allen Poe of our day. His movies are strange and sad at the same time. Scary and fun. It could go on and on. And the film is narrated by his childhood icon, Vincent Price. So it does add a little haunting texture. I would recommend this for Tim Burton fans. Just get \"Nightmare before Christmas\". It's at the end. It's a fantastic short. I think you'll like it. 10/10",
+         "A six minute classic of a movie. So powerful in its detail, so intensely autobiographic, so deliciously expressionist. On par with the best German silent movie classics. It'd be hard to describe this movie without giving it away. Suffice to say, it's Burton's most powerful, shortest, and (maybe) best movie ever. I watched it with no expectations whatsoever, and came away very impressed. I gave it a \"10\" because it truly shows the power and magic of the movies. It's message and medium beauty all rolled into one. Superb.",
+         "The art of the short film is one that is all too often overlooked by larger production companies. Which is just downright silly, really - OK, chances are they will provide less huge financial returns, but companies can afford to lose the odd dollar here and there, especially when films like \"Vincent\" are at stake. Funded by the Walt Disney Company whilst they were nurturing a budding young animator called Tim Burton, \"Vincent\" is a lovely little exposé on the secret thoughts that lurk in the back of most little children's brains. Lawks - I know they lurked in the back of mine. Based on a poem that Burton composed himself, Vincent tells the story of a little boy who wants to grow up to be just like Vincent Price, the popular horror actor, and Burton's childhood idol. The narrative has a sing-song feel to it, and therefore retains an added grizzly-little-child-like nature, and the cinematography is a triumph, harking back to the classic B-movie horror films that Burton (and myself) grew up on. Vincent Price was, it seems, just as much an icon for Burton as for me: \"House of Wax\", \"The Fly\", \"Theatre of Blood\" - these are all films that made a great impression on Burton as a child. Among other influences within the short are Edgar Allen Poe and Mary Shelley, both of course prolific horror writers that have inspired many films themselves. It is clear that Burton was going on to great, great things - as indeed he did - and it says a great deal about the company that agreed to fund this unknown's obvious talents. It's sad to say, however, that there was little Disney felt it could do with the film (without damaging it's reputation as the family-friendly Mouse Factory), and so it remains largely unseen by most people (with the exception of those who see it at film festivals, and on laserdisc). \"Vincent\" is, to my knowledge, the first major use of claymation, the animation technique that featured in \"Tim Burton's The Nightmare Before Christmas\", directed by Henry Selick; and therefore a breakthrough in animation technique. More short films should be made to test the viability of such new devices - just like Disney's \"Flowers and Trees\" and \"Steamboat Willie\" were breakthroughs with their use of colour and sound respectively. But all too often, these new devices are left to major motion pictures (like the use of the IMAX format in \"Fantasia 2000\", and the new CGI animation Deep Canvas, being pioneered in \"Tarzan\"). The short film is an ideal way of discovering exciting new additions to cinema - both in technique, and in directing, acting and photography. For more information about \"Vincent\", and to see some of the concept sketches that went into the creation of the movie, I highly recommend \"Burton on Burton\", a loose autobiography of Tim Burton's work so far. It certainly has lots to say about short films - when the running time is five minutes, as opposed to the standard hundred-odd minutes provided by a main feature, there is also a lot less scope for things to go drastically wrong. And practically nothing in \"Vincent\" does - it is a diverting, amusing and gruesomely imaginative addition to Burton's work, and also to Disney's showcase. All in all, \"Vincent\" is a sterling little film, with lots to recommend it, and a fine example of Burton's early work!",
+         "Spooky young VINCENT Malloy wants to grow up to become Vincent Price, in the worst possible way... Darkly humorous, especially in shadowy black & white, this little stop motion animated cartoon is filmmaker Tim Burton's homage to his great friend, fright master Vincent Price (1911-1993). With its bizarre characters, grotesque story line & eerie visuals, it is a direct forerunner of Burton's feature length A NIGHTMARE BEFORE CHRISTMAS (1993). A treat for those who enjoy the macabre. Narrated with creepy perfection, appropriately enough, by Vincent Price.",
+         "You keep getting sucked into Vincent's demented mind, and then spat back into reality whenever you see his mother. It is a cute story with definate tones of horror, which makes it good and definately unique. This film may be short, but it is very effective, creative and overall brilliant. Tim Burton is such a master, all the work of his that I have seen is excellent. Vincent Price narrates with a clever poem while you see the smooth animation and take in the storyline.",
+         "During his days as an animator in Disney, Tim Burton was very frustrated and bored with his work. So he decided to take a shot at directing. At the time he was still under contract with Disney so his first two efforts are shorts done by Disney. Both rejected for release for it's content. This is the first and Burton's directorial debut. The film is autobiographical because it features Burton's love for Vincent Price. Oddly enough the movie is narrated by Price himself. The film itself is unique and interesting but Burton still hadn't reached his strength as a director and that is normal since it's his first effort. Regardless it's a very good short film and showed potential for Burton and what he would become. 3(***)out of 4(****)stars",
+         "Thank heavens for Tim Burton. He knows how to make movies. Many people do. But how many do it by having an original notion, a specific, genuinely original tone and then project that into the machinery we have to make movies. Someone like him needs to fight at every step, something that someone like Spielberg just flows with. So he needs to be supported, rather like Woody Allen, no matter what. But sometimes he will surprise. For me, those surprises come in small bits, usually parts of movies. This little thing is so perfectly conceived though. Other than \"PeeWee,\" and \"Corpse\" this is the only project where the scope of the thing is larger than the timespan. Plus it has a simple self-referential caste: Vincent the boy who wishes to be Vincent Price, in a story narrated by Vincent himself. A movie about a life about movies, A movie by Burton about the young Burton. An antiSeuss, using the Seuss cadence. Ted's Evaluation -- 3 of 3: Worth watching.",
+         "Back in the early days of his career, director Tim Burton was working as an animator at Walt Disney Studios when he decided that it was not exactly what he wanted in life. Unhappy with his work as his designs were always rejected (mostly due to its bizarre and atypical design), he chose to make his own animated film and the result was this modest short about a boy named Vincent. This wonderful six-minute short was then the first demonstration of Burton's artistic style and the beginning of his career as a director. \"Vincent\" is the story of a little boy named Vincent Malloy, who rather than playing with the rest of the boys, he spends his time dreaming he is just like his hero, Vincent Price. While he is very well-mannered and noble, his constant macabre daydreaming worries his mother, as Vincent's great imagination combined with his obsession with Price's films make him believe he is living a tortured life of hideous experiments and lost love. The story (written in verse) is narrated by Vincent Price himself, and is filed with references to the movies Price made (particularly the adaptations of Poe's stories he did with Roger Corman) that obviously had a strong influence over Tim Burton's young imagination. The poem is very well-written and while simple, it's insanely funny and cleverly original. Price's narration is simply perfect and it's obvious that he is enjoying the whole thing. Visually is very impressive, and considering that it was done with a small crew and a very low-budget it's definitely a superb job. The stop-motion animation is very fluid and the cinematography and overall design works magnificently and showcases Burton's preference for German's expressionist films of the silent era. Many elements of his style are found here, and it's not difficult to see that the roots of many of his films can be traced back to \"Vincent\". Fans of Tim Burton and/or Vincent Price will found a treasure in this wonderful short film that is a testament of Burton's admiration for his idol, Vincent Price. This amazing debut is at the same time a fitting homage to Tim Burton's cinema heroes and the beginning of his transition into one himself. Very recommended. 9/10"
+      ],
+      "genres": [
+         "Short",
+         "Animation",
+         "Family",
+         "Fantasy"
+      ],
+      "productionCompanies": ["Walt Disney Productions"],
+      "summaries": ["Young Vincent Malloy dreams of being just like Vincent Price and loses himself in macabre daydreams which annoys his mother."],
+      "budget": 0
+   },
+   "movielensId": 32840,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1982-01-01",
+      "dvdReleaseDate": null,
+      "directors": ["Tim Burton"],
+      "runtime": 6,
+      "movieId": 32840,
+      "title": "Vincent",
+      "mpaa": "G",
+      "actors": ["Vincent Price"],
+      "imdbMovieId": "0084868",
+      "originalTitle": "Vincent",
+      "genres": [
+         "Animation",
+         "Fantasy"
+      ],
+      "youtubeTrailerIds": ["fxQcBKUPm8o"],
+      "plotSummary": "Young Vincent Malloy dreams of being just like Vincent Price and loses himself in macabre daydreams which annoys his mother.",
+      "tmdbMovieId": 32085,
+      "avgRating": 3.89252,
+      "releaseYear": "1982",
+      "numRatings": 628,
+      "posterPath": "/h64Zd7aWWGL1ctsU3W4i2rQOwTk.jpg"
+   }
+}

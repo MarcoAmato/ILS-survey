@@ -1,0 +1,918 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "crime fighter",
+            "id": 853
+         },
+         {
+            "name": "secret identity",
+            "id": 1308
+         },
+         {
+            "name": "comic book",
+            "id": 5451
+         },
+         {
+            "name": "superhero",
+            "id": 9715
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "comedy",
+            "id": 10267
+         },
+         {
+            "name": "mafia",
+            "id": 10391
+         },
+         {
+            "name": "teenager",
+            "id": 13130
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "realism",
+            "id": 158651
+         },
+         {
+            "name": "rookie",
+            "id": 185434
+         },
+         {
+            "name": "adaptation",
+            "id": 186846
+         },
+         {
+            "name": "young adult",
+            "id": 206298
+         },
+         {
+            "name": "kickass",
+            "id": 234368
+         }
+      ],
+      "imdb_id": "tt1250777",
+      "video": false,
+      "title": "Kick-Ass",
+      "recommendations": [
+         59859,
+         19908,
+         1487,
+         1858,
+         13183,
+         534,
+         27578,
+         557,
+         8373,
+         8363,
+         36658,
+         607,
+         17654,
+         608,
+         20526,
+         8909,
+         558,
+         4638,
+         22538,
+         11253
+      ],
+      "backdrop_path": "/qf59pVUHbY9z0Ke9Jg6HQghNJhM.jpg",
+      "revenue": 96188903,
+      "reviews": [{
+         "author": "ohlalipop",
+         "id": "589c581f925141245e004c0a",
+         "content": "I thought this movie was a super comedy movie but I was wrong. I didn't know it was a pretty serious movie with real killings and stuff. It was like Kill Bill minus the really gross things. It was not a silly movie after all.\r\n\r\n\r\nThe character Kick-Ass was pretty stupid. I mean a high school nobody trying to be somebody. Of all the things he could think of, it's being a super hero. And then there's Big Daddy and Hit Girl who had the real stunts. Their characters were pretty funny. I mean I can't think of any words to describe Nicolas Cage's character. A good daddy who doesn't know how to bring up a girl. And then there's Chloe Moretz. Wow. She did all the action in the movie. I mean this girl is only 13 years old. I'm a fan. And then there's Red Mist who I think is very silly like Kick Ass as well.\r\n\r\n\r\nMy rate for this movie is A.",
+         "url": "https://www.themoviedb.org/review/589c581f925141245e004c0a"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 9,
+               "character": "Dave Lizewski / Kick-Ass",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021def",
+               "name": "Aaron Taylor-Johnson",
+               "profile_path": "/iQrBTHUtKVI2kN4u0hRKQz667cx.jpg",
+               "id": 27428,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Mindy Macready / Hit-Girl",
+               "gender": 1,
+               "credit_id": "52fe446ac3a368484e021de3",
+               "name": "Chloë Grace Moretz",
+               "profile_path": "/qdGkECvmdubsMJO4GhHka5YCoOu.jpg",
+               "id": 56734,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Chris D'Amico / Red Mist",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021ddb",
+               "name": "Christopher Mintz-Plasse",
+               "profile_path": "/pioU58yFxKrazfWD9CZCXyyCf74.jpg",
+               "id": 54691,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Damon Macready / Big Daddy",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021dd7",
+               "name": "Nicolas Cage",
+               "profile_path": "/fW37Gbk5PJZuXvyZwtcr0cMwPKY.jpg",
+               "id": 2963,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Frank D'Amico",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021ddf",
+               "name": "Mark Strong",
+               "profile_path": "/svq7VWJqKN4Fq8ZJK1Yd8W711rn.jpg",
+               "id": 2983,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Marcus",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021deb",
+               "name": "Omari Hardwick",
+               "profile_path": "/gW4eSrYlyFhuC4QrMD0whDxA9DS.jpg",
+               "id": 41556,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Detective Vic Gigante",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021de7",
+               "name": "Xander Berkeley",
+               "profile_path": "/vlZ9FDMk2Xd1WHixPKxnheZoXgR.jpg",
+               "id": 3982,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Marty",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021df3",
+               "name": "Clark Duke",
+               "profile_path": "/oNzK0umwm5Wn0wyEbOy6TVJCSBn.jpg",
+               "id": 54729,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Mr. Lizewski",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021df7",
+               "name": "Garrett M. Brown",
+               "profile_path": "/u48DQ2SziopfHBOTrtk7NOCshCp.jpg",
+               "id": 27492,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Todd",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021dfb",
+               "name": "Evan Peters",
+               "profile_path": "/2a1XA1ynmbZZj2nauwsc03OzRB.jpg",
+               "id": 55089,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "Mrs. Zane",
+               "gender": 1,
+               "credit_id": "52fe446ac3a368484e021dff",
+               "name": "Deborah Twiss",
+               "profile_path": "/5tBo6oJa5zfpliBj2KbzunWGVBA.jpg",
+               "id": 116881,
+               "order": 10
+            },
+            {
+               "cast_id": 14,
+               "character": "Katie Deauxma",
+               "gender": 1,
+               "credit_id": "52fe446ac3a368484e021e03",
+               "name": "Lyndsy Fonseca",
+               "profile_path": "/3d3MkcCmo3Ssf65xFpnXQRyfWcc.jpg",
+               "id": 116882,
+               "order": 11
+            },
+            {
+               "cast_id": 15,
+               "character": "Erika Cho",
+               "gender": 0,
+               "credit_id": "52fe446ac3a368484e021e07",
+               "name": "Sophie Wu",
+               "profile_path": "/AtwCdj7Dk8qe3otYLAjARxlaD7.jpg",
+               "id": 116883,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Mrs. Lizewski",
+               "gender": 1,
+               "credit_id": "52fe446ac3a368484e021e29",
+               "name": "Elizabeth McGovern",
+               "profile_path": "/egt1d836NcYDTeiokz5Im8gHU4r.jpg",
+               "id": 4513,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Huge Goon",
+               "gender": 0,
+               "credit_id": "52fe446ac3a368484e021e2d",
+               "name": "Stu 'Large' Riley",
+               "profile_path": "/bQ6qYGfE7J6f7PFP1jBsrM3NXrI.jpg",
+               "id": 164250,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Big Joe",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e31",
+               "name": "Michael Rispoli",
+               "profile_path": "/mRS7DAXhuLu8Z7PAlicm6kP0EZz.jpg",
+               "id": 18313,
+               "order": 15
+            },
+            {
+               "cast_id": 25,
+               "character": "Sporty Goon",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e35",
+               "name": "Corey Johnson",
+               "profile_path": "/8jS7kzs01qMOHIltiDI2TQckmgs.jpg",
+               "id": 17199,
+               "order": 16
+            },
+            {
+               "cast_id": 26,
+               "character": "Scary Goon",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e39",
+               "name": "Kenneth Simmons",
+               "profile_path": "/xo1I9O7A4quD1y3JCMCPsFH5O4c.jpg",
+               "id": 1132694,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "Baby Goon",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e3d",
+               "name": "Anthony Desio",
+               "profile_path": "/17pHrMRFp7ik2VMljVTCuFr15uK.jpg",
+               "id": 185737,
+               "order": 18
+            },
+            {
+               "cast_id": 35,
+               "character": "Tre Fernandez",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e57",
+               "name": "Randall Batinkoff",
+               "profile_path": "/aXj1Q2pr70lMPJPRuNB6EIYCujr.jpg",
+               "id": 36631,
+               "order": 19
+            },
+            {
+               "cast_id": 29,
+               "character": "Cody",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e41",
+               "name": "Dexter Fletcher",
+               "profile_path": "/did9anJiAFYvTbeQyNZaxts7GaT.jpg",
+               "id": 974,
+               "order": 20
+            },
+            {
+               "cast_id": 30,
+               "character": "Angie D'Amico",
+               "gender": 1,
+               "credit_id": "52fe446ac3a368484e021e45",
+               "name": "Yancy Butler",
+               "profile_path": "/emcS8cLp5aEEMdJS4Am0TLiX6WA.jpg",
+               "id": 20759,
+               "order": 21
+            },
+            {
+               "cast_id": 31,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e49",
+               "name": "Craig Ferguson",
+               "profile_path": "/2ZIvieSjzfA4c8YHxs3jgHJPBta.jpg",
+               "id": 24264,
+               "order": 22
+            },
+            {
+               "cast_id": 34,
+               "character": "Lobby Goon",
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e53",
+               "name": "Jason Flemyng",
+               "profile_path": "/kzzQoiO3bbi2UeDJL9QtBT5jaQn.jpg",
+               "id": 973,
+               "order": 23
+            },
+            {
+               "cast_id": 72,
+               "character": "Ginger Goon",
+               "gender": 2,
+               "credit_id": "57051a1d92514146b800156b",
+               "name": "Adrian Martinez",
+               "profile_path": "/zDnnzak4BLb5dNc9taqLNprkRvw.jpg",
+               "id": 94432,
+               "order": 24
+            },
+            {
+               "cast_id": 73,
+               "character": "Posh Goon",
+               "gender": 2,
+               "credit_id": "593569919251417ddc0373ea",
+               "name": "Joe Bacino",
+               "profile_path": "/p1V6C3xcZ9R0U6uEfu3eDwEfKhF.jpg",
+               "id": 1811956,
+               "order": 25
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021dcd",
+               "name": "Matthew Vaughn",
+               "profile_path": "/Dnbz3B7yy4u0abixuD5LakZgsy.jpg",
+               "id": 957,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe446ac3a368484e021dd3",
+               "name": "Jane Goldman",
+               "profile_path": "/4a1dXBKrPR3kLIcXvIbgS2eJb1Z.jpg",
+               "id": 23447,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e0d",
+               "name": "Matthew Vaughn",
+               "profile_path": "/Dnbz3B7yy4u0abixuD5LakZgsy.jpg",
+               "id": 957,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e13",
+               "name": "Brad Pitt",
+               "profile_path": "/kU3B75TyRiCgE270EyZnHjfivoq.jpg",
+               "id": 287,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e1f",
+               "name": "Pietro Scalia",
+               "profile_path": "/kcQTeWNVqDg0h1jzthF21TxRB9U.jpg",
+               "id": 950,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446ac3a368484e021e25",
+               "name": "Adam Bohling",
+               "profile_path": null,
+               "id": 61578,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446ac3a368484e021e4f",
+               "name": "Kris Thykier",
+               "profile_path": null,
+               "id": 963336,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5bf592514169e2008d25",
+               "name": "John Romita Jr.",
+               "profile_path": null,
+               "id": 128988,
+               "department": "Writing",
+               "job": "Comic Book"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5380c3f30e0a2657cd000b3d",
+               "name": "Marius De Vries",
+               "profile_path": "/xIMYzb0xd07ZVxr5vmtFwreuxm7.jpg",
+               "id": 1316159,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5380c4240e0a2624bd0081d0",
+               "name": "Ilan Eshkeri",
+               "profile_path": null,
+               "id": 23451,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5380c4350e0a2624c0008294",
+               "name": "Henry Jackman",
+               "profile_path": "/wJYFGHG5Vsh8cbiyiS8zpO2SMHb.jpg",
+               "id": 227440,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5380c4500e0a2624cb007e3b",
+               "name": "John Murphy",
+               "profile_path": null,
+               "id": 960,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5c88c3a3683f56008362",
+               "name": "Mark Millar",
+               "profile_path": "/a7yrmhp9msWEu5LIjCSSCSpm1YJ.jpg",
+               "id": 87172,
+               "department": "Writing",
+               "job": "Comic Book"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5732c3a3680e73004442",
+               "name": "Eddie Hamilton",
+               "profile_path": "/zAREtOT8DQRuSlQUHXD7PowessH.jpg",
+               "id": 49809,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5783c3a36826470086d9",
+               "name": "Jon Harris",
+               "profile_path": null,
+               "id": 1114,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c57b4c3a3683f5600829b",
+               "name": "Russell De Rozario",
+               "profile_path": null,
+               "id": 61580,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "566c57cbc3a368535a008f91",
+               "name": "Lucinda Syson",
+               "profile_path": null,
+               "id": 1113,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "566c57d792514173ff00cda4",
+               "name": "Sarah Finn",
+               "profile_path": null,
+               "id": 7232,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "566c5800c3a368535a008f99",
+               "name": "Sammy Sheldon",
+               "profile_path": null,
+               "id": 11271,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5810c3a36833b6008932",
+               "name": "Ben Davis",
+               "profile_path": "/kNlIbggJHDN13udH3hTCtvsSMM6.jpg",
+               "id": 22161,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c584cc3a3680e7300445d",
+               "name": "Ian Neil",
+               "profile_path": null,
+               "id": 45056,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c5882c3a36833b600894b",
+               "name": "Christoph Bauschinger",
+               "profile_path": null,
+               "id": 1099948,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c58d79251415001003392",
+               "name": "Andy Richards",
+               "profile_path": null,
+               "id": 1548132,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5917c3a3682647008709",
+               "name": "Doug Cooper",
+               "profile_path": null,
+               "id": 1392611,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c593192514125d3003b5a",
+               "name": "Chris Burdon",
+               "profile_path": null,
+               "id": 1392609,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "566c59519251412dbc0039ef",
+               "name": "Annie Penn",
+               "profile_path": null,
+               "id": 1390388,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c598dc3a3683f560082f9",
+               "name": "Jo Gross",
+               "profile_path": null,
+               "id": 1548133,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c59dac3a3680e73004496",
+               "name": "Daniel Smith",
+               "profile_path": null,
+               "id": 1548134,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c5a0e925141664f0089e1",
+               "name": "Danny Sheehan",
+               "profile_path": null,
+               "id": 1409296,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5a3cc3a368264700873c",
+               "name": "Simon Hayes",
+               "profile_path": null,
+               "id": 1327029,
+               "department": "Sound",
+               "job": "Production Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c5a5cc3a36836b400c1b6",
+               "name": "Gavin Rose",
+               "profile_path": null,
+               "id": 1531096,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c5a999251412dbc003a26",
+               "name": "Nicole Young",
+               "profile_path": null,
+               "id": 1319752,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c5ad4c3a3682647008756",
+               "name": "Dean O'Toole",
+               "profile_path": null,
+               "id": 565580,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5bfcc3a3682e98008480",
+               "name": "John Romita Jr.",
+               "profile_path": null,
+               "id": 128988,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5c9c9251415ec5008e24",
+               "name": "Mark Millar",
+               "profile_path": "/a7yrmhp9msWEu5LIjCSSCSpm1YJ.jpg",
+               "id": 87172,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5cc0925141738300839c",
+               "name": "Matthew Vaughn",
+               "profile_path": "/Dnbz3B7yy4u0abixuD5LakZgsy.jpg",
+               "id": 957,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c5cd1c3a3683f5600836e",
+               "name": "Pierre Lagrange",
+               "profile_path": null,
+               "id": 1046137,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5cf5925141500100342d",
+               "name": "Jeremy Kleiner",
+               "profile_path": null,
+               "id": 967387,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566c5d089251415001003433",
+               "name": "Stephen Marks",
+               "profile_path": null,
+               "id": 35388,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "566c5d1a9251412dbc003a6c",
+               "name": "Jane Goldman",
+               "profile_path": "/4a1dXBKrPR3kLIcXvIbgS2eJb1Z.jpg",
+               "id": 23447,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c61bd92514173ff00cede",
+               "name": "Sam Renton",
+               "profile_path": null,
+               "id": 1388898,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566c61d9c3a36834c1008d17",
+               "name": "Tamsin Jeffrey",
+               "profile_path": null,
+               "id": 1548152,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         }
+      ],
+      "popularity": 30.640798,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 23483,
+      "vote_count": 5698,
+      "budget": 28000000,
+      "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+      "similar": [
+         10651,
+         26390,
+         37645,
+         4771,
+         769,
+         979,
+         281,
+         956,
+         868,
+         3597,
+         445954,
+         2142,
+         400,
+         1266,
+         429733,
+         133805,
+         8292,
+         3134,
+         40805,
+         8012
+      ],
+      "original_title": "Kick-Ass",
+      "runtime": 117,
+      "poster_path": "/yZFrniO6qSwjTCosStXweYtczGT.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Marv Films",
+            "id": 5374,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "id": 1632,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2010-03-22",
+      "vote_average": 7.1,
+      "belongs_to_collection": {
+         "backdrop_path": "/fYMsCXEMguNlSORJIHydfBgOnty.jpg",
+         "name": "Kick-Ass Collection",
+         "id": 179892,
+         "poster_path": "/2UzHizIS6Z87ocDdY4TALPj1EqD.jpg"
+      },
+      "tagline": "Shut up. Kick ass.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Matthew Vaughn"],
+      "runtime": 117,
+      "synopsis": "Dave Lizewski ( Aaron Taylor-Johnson) opens the film with a narration about how superheroes came into existence. A man in a superhero costume stands on a skyscraper above a crowd ready to show the world his new flight suit. He jumps as people cheer before crashing into a taxi and dying. Dave comments that the man isn't him; just a delusional mental patient. He introduces himself as 'Kick Ass' and starts telling the story of his life. He begins six months earlier. Dave is a social misfit; a real, natural-born geek, a true nobody at his high school, and invisible to all the girls. He has two good friends, Todd ( Evan Peters) and Marty ( Clark Duke), and they spend most of their time at the local comic book store. When Dave was 14, his mother died suddenly of an aneurysm and that's when he noticed that, even when things change, they simply stay the same. He is in love with Katie Deauxma ( Lyndsy Fonseca) but she barely notices him. A genuinely nice guy, he tries to reach out to people, including Chris D'Amico ( Christopher Mintz-Plasse) the spoiled but lonely son of a local mobster, however this plan fails miserably. When he attempts to casually talk to Chris, Chriss' bodyguard scares Dave away because Chris is not allowed to have friends. One day, following a conversation about superheroes at the comic book café, Dave and Todd are robbed by a pair of street gang members. This event inspires Dave to become a superhero and fight crime. He orders a green colored diving suit off the internet, fits two batons to the back, and starts training to become a crime fighter. After a few weeks of physical training, Dave sees the two men who robbed him and Todd trying to break into a car. Dave dons his suit and confronts them which leads to a fight. It ends when Dave is brutally stabbed and the robbers run off. Dave stumbles away only to be hit by a car which quickly drives off. However, an ambulance shortly arrives and rushes Dave to the hospital. En route, though clinging to life, Dave begs the paramedic to hide his suit. Dave is brought to the hospital naked which starts rumors about the circumstances that led to his admittance - one heavily implied to be related to gay prostituion. A few months later, Dave is almost as good as new. His injuries left him with metal plating covering most of his skull and interior and he possesses a higher threshold for pain thanks to frayed nerve endings. He returns to school and is shocked when Katie begins talking to him, but Marty explains that she likes 'lame ducks' and tells Dave that the entire school thinks he's a gay prostitute. Though he is at first horrified by this, Dave comes to accept his new social standing, seeing it as the only way to be close to Katie. Despite the setbacks his debilitating fight caused, Dave is still determined to be a superhero and sets up a MySpace account for his alter ego: Kick-Ass. One night, while looking for a lost cat, Dave notices three men viciously attacking a fourth man in front of a diner. Immediately, Dave rushes to the man's aid and successfully beats off the attackers, his metal plating and inability to feel pain providing an advantage. Some patrons from the diner record the fight along with Dave's formal introduction of his alter ego and post it on YouTube. Kick-Ass becomes an internet phenomenon and is quickly circulated throughout the media. Chris watches the latest reports with his parents, Frank D'Amico ( Mark Strong) and Angie ( Yancy Butler) as his father criticizes Kick-Ass's apparent lack of skill. Across town, Frank's thugs are torturing one of his associates who claims that a man resembling Batman attacked their cocaine dealers and stole all of their drugs. Thinking it far more likely that the associate stole the cocaine for a profit, Frank has him tortured and killed before taking his son Chris out to the movies. Frank surrounds himself with a posse of thugs/bodyguards wherever he goes for both intimidation and to protect himself from family members of rivals and people he's killed. Later on, Frank learns that his earlier assumption about his missing shipment was incorrect, so he sends his men to take care of a Russian mobster whom he believes is really responsible for messing with his shipments. The next morning, ex-policeman Damon MacReady ( Nicolas Cage) points a gun at his 11-year-old daughter, Mindy ( Chloë Grace Moretz), and shoots her in the chest. Mindy stands up, shocked by the force of the bullet but impressed with how effectively her bullet-proof vest absorbed it. They watch the reports on Kick-Ass. Damon is not impressed and sees Kick-Ass as a wannabe rookie but Mindy thinks he has potential. Framed as a drug dealer by Frank D'Amico, Damon was relieved of his duty as an officer and sent to prison for five years which led to his wife's suicide and left Mindy in the care of Damon's partner, Marcus ( Omari Hardwick). Damon vowed revenge against Frank and began training to become a vigilante. Once his term was served, he was reunited with Mindy and began training her as well, against Marcus's wishes. Bent on eliminating all of D'Amico's crime syndicate, Damon captures and manipulates several members resulting in very brutal and violent deaths. Marcus finds Damon and begs with him to end his vendetta before dirty cop Detective Gigante ( Xander Berkeley) or D'Amico finds him. He asks to see Mindy but, seeing the futility of the attempt, leaves, telling Damon he owes Mindy a real childhood. Damon colors a large, comic book-style hit list and hangs it on the wall. As Kick-Ass, Dave continues to save people and gathers more supporters over the internet. As Katie's 'gay' best friend, he is able to get closer to her and begins to get to know her as a person. One day, she mentions that a meth addict named Rasul ( Kofi Natei), who frequents the clinic she volunteers at, robbed her and smacked her around, refusing to leave her alone. Dave convinces her to message Kick-Ass. That night, Kick-Ass finds Rasul at his apartment and attempts to intimidate him, but fails. As Rasul and his gang members are about to castrate Kick-Ass, Mindy, dressed in her vigilante outfit as with a purple wig and cape, shoots through the window and fights off all the gang members with knives and a long spear until they are all dead. As a surviving gang member sneaks up behind her, Mindy's father shoots him through the head with his sniper rifle from an opposite building. She introduces herself to Kick-Ass as Hit-Girl and begins stealing all of the gang members' money and guns. Kick-Ass asks what's going on and Hit-Girl tells him to come with her. They go to the roof and Hit-Girl jumps across the rooftops to join her father, dressed as his alter ego, Big Daddy. Kick-Ass is too afraid to follow and the other two leave disappointed. Dave returns home, removes his mask, and cries himself to sleep. He laments that he's just an incompetent, overgrown child and that there are other people better suited for his job as a superhero. That same night, Big Daddy and Hit-Girl pay Dave a visit at his house. They tell him that they were able to easily back-trace his MySpace account and the three have a chat. Big Daddy tells Dave that he is doing okay but that he has potential to be better. They tell him that if he ever needs to reach them he should decorate his MySpace page with an 'On Vacation' banner and they will find a way to contact him. Meanwhile, Frank D'Amico learns that there are actual vigilantes fighting against his organization and becomes very pissed off. Chris wants to get in on the business, but Frank pushes him aside. He becomes extremely tense and paranoid, going so far as to kill a Kick-Ass imitator in broad daylight, thinking the phony to be the real thing. As more of his gang members are disposed of, Frank becomes desperate. He contacts Detective Gigante and tells him to 'take care' of Kick-Ass. Gigante admits that Kick-Ass is in a relatively gray area, but he'll do his best. Chris offers an alternative solution: let him don his own superhero alter ego called the Red Mist. As such, Chris will frame one of D'Amico's incompetent associates and trick Kick-Ass into trusting him before leading him into an ambush. Chris executes his plan while Dave becomes more and more discouraged. As Red Mist, Chris makes contact with Kick-Ass and requests to become his sidekick, since Kick-Ass is the one who inspired him. Red Mist shows Kick-Ass his flashy sportscar and they drive off to the D'Amico stronghold, only to see it burning to the ground. Kick-Ass rushes inside to see if he can save anyone but everyone inside is dead, horribly cut and burned. Red Mist grabs a teddy bear from the wall and runs out of the building with Kick-Ass as it explodes. The two part ways and Kick-Ass resolves to give up crime fighting. He goes to Katie's house with the intention of revealing his identity. She sprays mace in his face, calling him a pervert, until he de-masks. Dave confesses his alter ego and tells Katie that he isn't really gay and he loves her. She forgives him and they begin dating and start having sex. Todd and Marty are left to hang out with a friend of Katie's. Meanwhile, Frank D'Amico has seen the destruction of his warehouse and worries for his son until Chris arrives and tells him that Kick-Ass isn't the real threat. He shows Frank the teddy bear which has a Nanny Cam in it. They watch footage of Big Daddy killing all of D'Amico's men and burning the warehouse to the ground. D'Amico convinces Chris to set up a trap to catch Big Daddy. Dave, having been Kick-Ass free for a week, sees a series of emails from Red Mist requesting his help and decides to go on one last mission. He tells Katie what he is doing and leaves to meet up with Red Mist who tells him that they have a bounty on their heads. Concerned for his allies, Kick-Ass contacts Big Daddy through his MySpace page. Damon and Mindy notice the urgent message while enjoying some hot chocolate and reviewing their latest cache of weaponry. They response to Kick-Ass and instruct him to meet them at one of their safe houses. Red Mist drives Kick-Ass to the location while being followed by D'Amico's men. At the safe house, Red Mist and Kick-Ass are ushered inside by Big Daddy as Hit-Girl waits beside a window. Inside, Red Mist pulls a gun and shoots Hit-Girl twice in the chest. As she falls out of the window, Big Daddy screams and D'Amico's men rush in, beating him and Kick-Ass unconscious. As they put them in the back of a waiting van, Red Mist screams for them to let Kick-Ass go since he considers him a friend and doesn't want to see him hurt. One of the bodyguards takes Big Daddy's bazooka as a reward and drags Red Mist home to his father. Chris complains to his father that his men reneged on the deal by taking Kick-Ass along with Big Daddy but Frank tells him to shut up and to watch what happens next. He explains that Big Daddy is a nobody, important only to him for the sake of his business, but that by killing Kick-Ass he sends a message to all the punks out there considering to becoming superheroes. Chris can only watch. A countdown is announced for the unmasking of Kick-Ass and all of New York City bears witness. Katie is proud of Dave but watches with horror as a live video feed on the internet shows Big Daddy and Kick-Ass handcuffed to chairs awaiting torture and execution. Marcus also watches solemnly as D'Amico's men begin to brutally beat the two. They pour gasoline over Big Daddy as Hit-Girl, very much alive, sneaks into the hideout. She attacks and kills all of the men inside but one of them manages to set Big Daddy on fire, burning him severely. Hit-Girl extinguishes her father too late and shares on last moment with him before he dies in her arms. Hit-Girl rescues Kick-Ass and takes him back to her father's apartment. There, Dave tries to tell her that it's all over now and they should give up their vigilante lifestyles but Mindy is adamant about finishing what her father started, adding her own fury to avenge her father's death. Realizing that he is responsible for all that's happened, Dave agrees to help her. He takes up a mysterious piece of weaponry that Big Daddy had bought and assembled. At Frank D'Amico's headquarters, his men are on double alert waiting for Kick-Ass and Hit-Girl to show up. In the lobby, the first guards are standing idly on duty when Mindy knocks on the front door, dressed in a school girl outfit. The doorman and guards, having never seen Mindy's face before, open the door to let her in. She tearfully says she can't find her parents so the doorman offers her his phone to call them. As he kneels down, Mindy stuffs the barrel of a handgun into his mouth. The guards realize this too late and Mindy takes them all out with ease. She changes into her Hit-Girl guise and arrives at the penthouse, fighting with speed and stealth and killing more of D'Amico's men. When she runs out of bullets she resorts to throwing knives. A large thug runs to get the bazooka, much to the shock and disgust of both Frank and Chris, while the other thugs pin Hit-Girl behind a counter. The large thug returns with the bazooka as they all hear a mechanic sound near the windows. They look outside to see Kick-Ass hovering upwards with a jet-pack strapped to his back with attaching rapid-fire mini guns protruding over each shoulder. Kick-Ass quickly disposes of the rest of the thugs. In Frank's office, he and Chris hear the final sounds of the fire fight and think that the thugs were successful. But Hit-Girl and Kick-Ass barge through the door, ready for the final showdown. Frank orders Chris to take on Kick-Ass. Chris is disgruntled but rushes into battle while Frank squares off against Hit Girl. Kick-Ass and Red Mist face off in an adjacent dojo and knock each other out cold. Hit-Girl battles Frank with ferocity but finds that she has met her match since Frank is highly trained in martial arts. Frank's attacks become increasingly ruthless and he beats Hit-Girl near to a pulp and slams her through a coffee table. He retrieves his gun and prepares to kill Hit-Girl when Kick-Ass appears, suggesting he 'pick on someone his own size'. Frank redirects his gun only to see that Kick-Ass is holding the bazooka. Kick-Ass fires, sending the rocket into Frank and out the window. Chris comes to and draws a katana, looking for a rematch, but finds Kick-Ass activating the jet-pack and flying off with Hit-Girl. They land on a distant rooftop and Kick-Ass unstraps the pack and sets both Hit-Girl and the pack down. Hit-Girl thanks him for the help, saying Big Daddy would be proud of them both. Kick-Ass takes off his mask and tells her his real name, Dave Lizewski. Hit-Girl consents to the gesture and takes off her wig and mask, showing him her face, and telling him her true name, Mindy MacReady. They shake hands and look toward the horizon. A voice-over from Dave tells us that Marcus regains guardianship of Mindy and that she is now enrolled at Dave's school, on the promise that Dave will look out for her...not that she'd need it as Dave says. An amusing scene shows two school bullies attempting to shake the 'new kid' for her lunch money but she merely smiles and cracks her knuckles. Dave relaxes with his friends at a coffee shop as his voice-over mentions that Kick-Ass has become a cultural sensation with his own comic strip. And while Dave is retired from crime fighting, there is a whole new wave of people inspired to follow in his footsteps. However, we see one who is equally determined to break the new superhero wave down. Chris, as the Red Mist, sits in his father's office donning a revamped costume and mask vowing revenge against Kick-Ass, Hit-Girl, and any superhero wannabe that gets in his way. He aims his gun at the camera and fires and the screen goes black as the credits roll.",
+      "writers": [
+         "Jane Goldman",
+         "Matthew Vaughn"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1250777/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTMzNzEzMDYxM15BMl5BanBnXkFtZTcwMTc0NTMxMw@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz | See full cast and crew »"],
+      "reviews": [
+         "In a movie industry cluttered with own-grown hype, gimmicks and lack of idea, \"Kick Ass\" bursts onto the screen and shatters all expectations in it's wake. You're on this page because you think it's gonna be good? Wrong. Or you're here because you think it looks a decent or a good superhero movie to join the ranks of the ones you already love? DEAD wrong. Reason being, is \"Kick Ass\"doesn't want to be good or above average, \"Kick Ass\" wants to be great and it has the balls to want to be original too. Seemingly impossible in a done to death genre where we've already glimpsed Mark Millar's signature style in \"Wanted\", but \"Kick Ass\" is all about the unexpected. Make no mistake, nothing you believe of this movie compares to what Vaughn and co. serve up for you. Mainly because everyone involved seems determined to honour the comic and redefine a genre. Most movies entertain, but this one? It wants to BLOW YOU AWAY! Less smarter movies have done that but \"Kick Ass\" ain't giving that up either. It's script is razor-sharp, dumping the pretension of \"the burden of heroism\" crippling even the better superhero films, showing this in actions rather than long drawn out emoting. Matthew Vaughn has finally solved the hurdle that all superhero movies suffer, namely how to get to know and love your characters without long drawn out scenes. He does it by keeping them moving. The more they do, the more they try, the more you know and love them. And make the narrative interesting and most of all relatable so we're with Dave 100% of the way, it doesn't just have to functional. The real visual joy of \"Kick Ass\" is it's desire to keep it simple but not at the expense of wowing us. Make characters do cool things, instead of Michael Bay-esquire things happening to them. That's why they exude coolness, despite Dave's almost humdrum existence. This is the everyman doing the things we could do if wanted to; not a guy from another reality or possessed with great drive and ambition. Dave wants to get laid. He wants to be hip. Even your bad guy in this is believable. Watching the whirlwind that is Hit Girl perform a routine almost straight out of Jackie Chan's Hong Kong days stuns us in a way no big screen chase ever could. Visually the film takes all the thing we DID love from the movies that ultimately didn't zing and churns them into a finely balanced flawless brew. Did I mention it's feel good? From it's inspired use of music (again utterly relatable) right down to it's outstanding score, like \"Get Carter\" for superheroes; I could say more but there's surprises in store. In a movie this stunning, acting is usually secondary (as any James Cameron film shows). Not a bit of it. In a cast as eclectic as the styles the film embraces you have performances that set a benchmark for all concerned. Can Mark Strong already better his stellar work? See his menacing and humorous turn as D'Amico, a career best. Christopher Mintz Plasse follows \"Role Models\" by breaking out of McLovin mode. His guy has layers and he can show them. Nicolas Cage as expected returns to his past glories playing larger than life eccentric characters but not without a little sadness too. Joining him is Chloe Moretz forever destined to be remembered for her first major role. She idolised Angelina Jolie apparently. Guess what, you trounced any action movie she has ever made! Moretz dominates any scenes she's in, no easy task considering her fellow cast! Aaron Johnson has the most difficult job of all. Being an original uber-geek after Michael Cera set the standard (anyone who's seen \"Zombieland\" knows it's hard to write an original geek even in a great movie). He shakes it, redefines it and OWNS it. He leads the movie like he wrote it, joined by a cast where even the smallest roles are fully fleshed out. It's quite an ensemble. A renegade band of acting styles forming a perfect one and complementing the film's fun style. Watching \"Kick Ass\" is ultimately like being on a thrill-ride, it doesn't just want to dazzle you, it's wants to draw you in, ride the wave and leave the cinema on a high. And it doesn't do that with gimmicks or tried and tested formula's, it breaks the mold, shakes conventions and wants you to be surprised while complementing all the movies you already love. It's not just a movie, it's a standard, one that promises to prove movies like this can be written with great heart and brain. And ultimately you'll be leaving the screen thinking \"Wow, let's do that again\" no matter how many agains come before it.",
+         "It has been a long time since I have left a screening with endorphins pumping through my body and the strong urge to learn a martial art but Kick-Ass did exactly that; I felt like I could take on the world! An explosive ride that covers insane action sequences, intelligent superhero parodies and intense dramatic turns, Kick-Ass is a welcome addition to the realm of the comic-book movie. I was initially sceptical about the prospect of watching another superhero spoof movie, most recent attempts at the genre have been abysmal, but Kick-Ass completely transcends its predecessors through the use of intelligent pastiche which drives the story forward as well as providing laughs. The brilliantly choreographed action scenes would not feel out of place in a Spiderman film, or even a Tarantino script, in fact it feels like Spiderman and Kill Bill were put into a blender and Kick-Ass was the end result. The story focuses on Dave Lizewski, your average teenage nerd, whose obsession with comic books inspires him to create his very own superhero, Kick-Ass, despite his discernible lack of superpowers. Dave's attempts to become a vigilante crime fighter initially end in disaster but in the process of rescuing a cat his luck changes, propelling him into the public limelight and establishing him as a figure to be reckoned with. It is not long before other vigilantes surface, some desperate for the fame and attention, others out for revenge, and when Kick-Ass becomes embroiled in a crime lords devious plans, we are treated to a number of intense melees that gradually escalate in size and repercussions for those involved. There has been some controversy over the graphic violence depicted in these scenes, especially as the trailer is intended to appeal to a fairly young audience, and that comes as no surprise when a pre-teen girl decapitates villains on screen and uses the c*** word. Controversy aside, I cannot deny that this was very entertaining. Chloe Moretz easily steals the show as Hit Girl - the incredibly volatile young superhero with a penchant for explicit language, which will surely propel her into the realms of stardom. Nicolas Cage is surprisingly effective as her doting father, and Christopher Mintz-Plasse is ever watchable as Red Mist. However it is Aaron Johnson who shows the most promise as Kick-Ass, with his convincing turn from a bumbling student to a brave and reckless crime fighter marking him as a talent to watch out for. An essential part of the film is its eclectic soundtrack, with choice tracks taken from excellent films such as 28 Days Later and For a few dollars more. Usually I would be concerned at such a prospect but the Kick-Ass soundtrack adapts the tracks brilliantly, making them feel like its own, alongside great songs from The Prodigy and Sparks to name a few. The choice of music fits perfectly with the high-octane action sequences and even adds emotional depth to key scenes - not bad for a superhero comedy movie! Kick-Ass is that rarest of films, a successful hybrid of two genres that delivers an almost perfect cinematic experience. My only criticism would be that some sequences near the end were slightly far-fetched but in a film where suspension of belief is required, maybe I'm being a little harsh. This is an essential film for all cinema-goers, catch it on the big screen and I guarantee you will be completely immersed in the explosive yet entertaining world of Kick-Ass 9/10 If you liked this film you will also enjoy these: Special, Spiderman, The Dark Knight and Superbad",
+         "This is definitely the best movie of 2010 so far, hands down. Not only is it insanely funny throughout, it has a great story and in-your-face action that will (pun intended) kick your ass. It's the story of a high school comic book nerd who decides he's going to take up being a costumed hero because no one else will. Early on he discovers that society could care less about the evils that be, and he takes it upon himself to do something about it. But of course none of the \"super heroes\" in the movie actually have powers, because it's about real people kicking real ass. Early on you'll find the protagonist, Dave, is a pushover and even as his costumed alter-ego, Kick-Ass, he can't succeed in anything he does. He comes off as an extremely unlikable character, but as the story unfolds and he gets mixed up with other costumed heroes who really do kick ass, he slowly becomes the perfect anti-hero and a character which will most likely be a new icon in popular culture. The script for the film is remarkably well written and it managed to combine hilarious comedy with incredibly graphic, stylized violence. Never have I seen a movie that combined the two so well. One moment, you'll be crying from laughter and the next you'll be squinching at a little girl slaughtering grown men with the slightest of ease. The directing was top-notch and this is the first film i've seen from Matthew Vaughn. If Kick-Ass doesn't put him on the map as one of the most sought after directors in Hollywood then I don't know what will. The acting was superb from the entire cast, especially from veteran Nicolas Cage. He played his part perfectly and I couldn't see any one else as Big Daddy. As impressed as I was with Cage's performance, I was blown away with how well Chloe Moretz, Hit-Girl, played her part. She definitely stole the show. I honestly couldn't recommend this movie more, and it has become one of my new personal favorites. Kick-Ass is a film about finding your identity and daring to do something no one else will. Yet it's also an intricate tale of revenge, which is masterfully crafted to be one of the most entertaining pieces of fiction I have ever had the pleasure of viewing. 10 out of 10",
+         "You know that rare feeling... happens every year or so... when you pour out of the cinema SO excited at the film you've just watched, and every other word is \"ohmygodilovedtwithbitwherethey\"? Well 'Ding', Kick ass hits that sweet spot. Comprising teen comedy, kick-ass action (sorry) and a healthy dose of comic book style violence and gore, it rocks. It's Superbad meets Kill Bill. The film is a fairly faithful adaptation of the comic book, and where tweaks have been made, they make the plot more robust for the audience to empathise with. Kick-ass is stylish, fun, daring, and the dark surprise of violence and gore kept the balance of comic teen angst fresh: a delicious perk me up when you were settling into comedy mode. There was never a dull moment in the pace of the film, never a flimsy plot point, and actually the audience guffawed their way through the film. Did I mention it has a cool soundtrack to boot? I've already got it on my Phone.",
+         "I saw the previews for this and thought this was going to be one of those slapstick stupid comedy movies (Superbad, Super Hero Movie). I came on IMDb and saw the rating and the reviews and I thought I'd reconsider after doing some research on this. I was very wrong with my initial assessment. Yes, there's some teen comedic elements to this movie, but the movie flowed perfectly. Great Soundtrack, great fight scenes, acting was good, story was great and original. With a current IMDb rating of 8.3 as I write this, look's like I'm not alone on how I rated this movie. Show stealer was definitely Hit Girl. I foresee her having a huge career. Possibly the next Natalie Portman. Reminded me of Natalie's role in Leon. Which leads me to my next point. Unless you're into comic books, video games, in your teens/20's/30's and don't have a young kid, you might be taken aback that a little 11 year old girl is killing people and using bad words. For those that gave this a bad review because of that, do some research on a movie before you go see something that you think you won't like. I hate musicals and I'm not going to pay 10 bucks to see High School Musical and then come in here and complain that there was too much singing and dancing. It's clearly geared at a older teen/young adult audience and is rated R, what did you expect. In closing, one of the most entertaining films I've ever seen.",
+         "Last night my combined love of films and comic books finally paid dividends, as I was invited (along with every other comic manager in the Boston area) to attend a press screening of Marv films' \"Kick-Ass\" (based on Mark Millar & John Romita Jr's Marvel Comics series of the same name), which opens in theaters April 16th. A bold move on the part of Marv, considering they were risking a month of \"WERST MOVIE EVERRR!\" badmouthing across the entire state. I assure you that will not be a problem. So first off, should you see this? Definitely. As I told everyone when \"Watchmen\" was out, if you are a fan of comic books, just go see the movie - if only to add yourself to the communal experience, to join the debate. Everyone's going to be talking about it anyway, don't get left behind. And in this case, I think it will be more universally enjoyed than \"Watchmen\". Not that it is a \"better\" film, just a lot more entertaining - it tries for far less, succeeds at what it attempts, and therefore hasn't left itself open to as much scrutiny. Bottom line, this is just a fun romp with clever bits and reassuringly satisfying plot points, that had a bunch of jaded comic geeks roaring with laughter and delight, rooting for the good guys, culminating with applause at the end. Granted, we were seeing it for free, and had nothing invested besides a night we could have otherwise been sitting at home playing Arkham Asylum. But even if discussion later turned to this-or-that subtle difference from the comic, I don't think many were picking apart plot holes or questionable directorial decisions. Overall, the impression I was left with was that it was a kind of hybrid descendant of \"Spider-Man\" and \"Kill Bill\". It has its mundane real-world-kid-deals-with-real-life-situations side, as Peter-Parkerish \"nobody\" Dave Lizewski (Aaron Johnson) dreams of something more than his boring humdrum teen life. Eventually, like most kids his age, he decides to make an impact on the world by... well, y'know, donning a super-suit and heading out to thwart evil-doers. Just as we're getting used to the idea that of course this won't work and that he'll get his ass kicked every time, he starts learning how to improve his chances, and also that he's not alone in his quest. Which then brings us to the film's outrageous, over-the-top side, best exemplified by everyone's newest favorite comic book character, \"Hit-Girl\". Her operatic, homicidal spaghetti-western character is delivered with so much infectious glee that you could feel the entire theater perk up whenever she appeared. The fact that she is played by Chloe Moretz, an actress no older than the \"Planetary\" comic series, only adds to the overall delightfully ludicrous nature of her character. I'm sure there will be the inevitable stink raised by parental or religious groups, not so much at the well-deserved \"R\" rating, but at this particular character, a pre-teen Beatrix Kiddo and GoGo Yubari rolled into one. To wrap up: I think the pacing is exemplary, there really weren't any dead spots for the audience to shift in their seats. Matthew Vaughn's direction neither dazzles nor bores, there is much that is derivative of previous films, but he knows how to build up and pay off an action scene, and there were moments I was sure how a scene was being set up to end, only to be pleasantly surprised at the result. I think my favorite aspect of the film was the use of music, from the use of John Murphy's building epic \"Sunshine\" and \"28 Days Later\" themes, to a hilarious \"that's just wrong\" use of the \"Banana Splits\" theme. It's possible that with a month to street date, we may have seen some temp music, but I hope not, everything fit perfectly - even Elvis Presley's \"America The Beautiful\"! The casting works, from the relatively unknown Johnson (whose screen presence in this film is definitely enhanced by how much he looks like Tobey Maguire once he puts the ski mask on), to the quirky haunted Nicolas Cage (who for once forgoes his normal Presley-channeling in favor of some Pure West), to the mostly-British supporting players, made up of bits of cast from Vaughn's previous producing / directing gigs. And for the most part, the teens actually look like teens, not like the 25-year-olds that usually portray teens in film and TV. Christopher Mintz-Plasse (a.k.a. \"McLovin'\") especially stands out, in a role that sneakily grows into one of the most important and poignant of the film. I had a blast, I think you will too. I know they've got a month to tinker around with the film, but I for one hope they don't change a frame. I think casual \"what's playing tonight\" audiences will enjoy an irreverent violent funny action flick, and comic fans will get an extra treat picking out all the comic book references in the background. I really can't imagine anyone anywhere watching \"Avatar\" had as much fun as we all had last night. I for one will be back, this time with money and peanut M&Ms in hand.",
+         "I've first heard about Kick-Ass and been waiting to see it since November 2009. After I began to read the comics and they were very good! I'm just very happy I got the chance to finally see the movie yesterday at 10:30 pm. I have never done a review for a movie before, but I'll try to explain my opinions well. Let me just say that Kick-Ass is nothing like any other superhero movie out there. It's not even like any other action/comedy/suspense movie you'll view out there! I loved Dave/Kick-Ass' character because he relates to most teens these days. He was very silly, slow but smart, and was just totally outrageously funny and had quirky lines. I thought Aaron Johnson played his part perfectly well. Especially the hilarious but 'kick-ass' fight scenes he was in. When I first saw Red Mist, I already loved him. He was a spoiled, annoying and conceited kid. And Christopher Mintz-Plasse did a very great job at portraying that type of character. It was definitely something different than 'McLovin' and much more of an interesting character brought to the table! Hit-Girl was absolutely amazing and ridiculously insane! I loved her and I'm pretty sure the audience did too. She can be so innocent and sweet as a regular child, but when she's in her mask and hardcore crime-fighting purple outfit she's just stunningly awesome! No one is like Hit-Girl, and I can yell that to anyone! Chloe Moretz is an amazing actress and she seems like she has a very bright future ahead of her. I admire her acting and her movies. Lastly, Big Daddy was not only the most hardcore character in the film, but he had to do a lot with the plot and storyline. Not to mention his super funny Adam West impressions. I loved Big Daddy, but hated what happened near the end (movie and comic-wise). Kick-Ass the most exhilarating, jaw-dropping, and the most hilarious movie I've ever seen in my 16 years! I loved every single moment in the film and found most of the humor very funny. Before seeing the movie, I got a little scared that it might be just another 'let down' or 'walk-out' movie I'd have to deal with. But it wasn't. It was very perfectly entertaining and satisfying for me in many ways. Kick-Ass is definitely one my favorite films ever, and it was just simply the most amazing and hilarious film nobody can't miss! Not to mention that it was just super fun and exciting just like riding a roller-coaster! This is the perfect superhero movie anyone would enjoy. Thank you America, for not letting me down on this one!",
+         "Anyone who has ever wished to be a superhero, pretended to fly, super punch, turn invisible or just plain kick some ass but knew you never could...here's the movie for you! Although deserving it's 18A R rating, this movie will blow your mind with awesomeness, yes thats right AWESOMENESS. The main character Kick-Ass is both comedic, quirky, and relatable (weather to yourself or someone you know) to anyone who's ever been to high school. His friends, also comedic, also will remind any guy of their own little group of three musketeers talking about movies, sports, comics and of coarse girls. The other heroes, such as Hit-Girl (who alone could provides the R rating) and Big-Daddy act as a total sub plot to the film that eventually mashes together with Kick-ass's story. They provide the majority of the REAL ASS KICKING. Also the characters actually get so connected with you that by the end you will actually feel and sympathize with the obstacles and tragedies they have to go through. Despite all the blood and violence there are some touching moments in this film. In all, this movie rocked, it's not for kids, it'll blow your mind, the filming technique was great props to the director, the acting was good, the action was sweet, and the movie in total kicked some SERIOUS ASS!!!",
+         "Kick-ass tells the story of Dave, a common teenager without anything special about him. Through his sense of justice and some events he decides to become a \"Superhero\" and hardly tries to save innocent people. Why did I like this movie so much? Well, that's not easy to explain. The acting was flawless (in my opinion) with Aaron (Dave/Kick-ass), Chloe (Hit-girl) and Christopher (Chris/Red Mist) giving their best and shining throughout the entire movie. The storyline, even though it may not be the most original one, is amazingly well developed. The movie goes by at a perfect rhythm, combining comedy with action just perfectly. The music was amazingly well picked and combined 100% with every scene. and so on and so forth... When I left the theater I was so excited, so happy and so energetic, it looked like I just had a shot of adrenaline! And I couldn't stop talking about the movie. It's been a really long time since I felt this way about a movie. Now I know this movie is going to feed a lot of haters. It's normal. A lot of people walk into the theater with their mind already set, like \"This movie is for nerds. It's going to suck so much.\", if you have that kind of mentality just save yourself the time and don't watch it. Why bother if throughout the whole movie you're just going to be looking for flaws or rolling your eyes at every joke. I loved this movie. I don't care about anything other people say. Kick- ass is my favorite movie of all time. I have no doubt about that.",
+         "When I first saw Kick Ass i was expecting more action than comedy. However, I was wrong with how surprisingly funny the movie turned out to be. I thought Hit Girl was what made the movie shine as she was cussing and slaughtering people. Aaron Johnson did a good job playing the lead role of Kick Ass and I thought Nicolas Cage was good at playing Big Daddy as it wasn't the typical Cage film. This movie beats a lot of those stupid high school movies and chick flicks that are trying to be funny but fail. This is a great combination of bloody action and comedy. Its the Super Bad meets Kill Bill genre. I highly recommend this film."
+      ],
+      "genres": [
+         "Action",
+         "Comedy"
+      ],
+      "productionCompanies": [
+         "Marv Films",
+         "Plan B Entertainment"
+      ],
+      "summaries": [
+         "Dave Lizewski is an unnoticed high school student and comic book fan with a few friends and who lives alone with his father. His life is not very difficult and his personal trials not that overwhelming. However, one day he makes the simple decision to become a super-hero even though he has no powers or training.",
+         "Dave Lizewski is a New York teenage nerd whose interests are comic books and superheroes. Dave decides to become a superhero himself after ordering a costume off the internet. He becomes a youtube sensation after being filmed beating up a group of thugs in a diner parking lot. This attracts the attention of New York's biggest crime-boss, Frank D'aminco.",
+         "In New York, teenager Dave Lizewski is a loser at high-school, a fan of comic books and ignored at school. He spends most of his time with his friends Marty and Todd who are also comic book fans. Dave has a crush on Katie Deauxma but she in turn does not even notice him. One day, Dave decides to make a difference to his life by becoming a masked superhero named Kick-Ass. In his first superhero role he attempts to prevent a car theft by two punks, but he is inadvertently stabbed by one of them and hit by a car later. Dave is taken to hospital where his bones are fixed with metal. When he recovers, Katie begins to notices him. That night, Dave helps a man being hunted down by three guys in front of a cafeteria, the teenagers record the fight with their cell phone cameras. Then they put the footage in Internet and Kick-Ass immediately becomes famous. Meanwhile the powerful gangster Frank D'Amico believes that Kick-Ass is responsible for actions against his gang and plots a scheme to destroy him.",
+         "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so."
+      ],
+      "budget": 30000000
+   },
+   "movielensId": 76251,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2010-03-22",
+      "dvdReleaseDate": "2010-08-03",
+      "directors": ["Matthew Vaughn"],
+      "runtime": 117,
+      "movieId": 76251,
+      "title": "Kick-Ass",
+      "mpaa": "R",
+      "actors": [
+         "Aaron Taylor-Johnson",
+         "Chloë Grace Moretz",
+         "Christopher Mintz-Plasse",
+         "Nicolas Cage",
+         "Mark Strong",
+         "Omari Hardwick",
+         "Xander Berkeley",
+         "Clark Duke",
+         "Garrett M. Brown",
+         "Evan Peters",
+         "Deborah Twiss",
+         "Lyndsy Fonseca",
+         "Sophie Wu",
+         "Elizabeth McGovern",
+         "Stu 'Large' Riley",
+         "Michael Rispoli",
+         "Corey Johnson",
+         "Kenneth Simmons",
+         "Anthony Desio",
+         "Randall Batinkoff",
+         "Dexter Fletcher",
+         "Yancy Butler",
+         "Craig Ferguson",
+         "Jason Flemyng",
+         "Adrian Martinez",
+         "Joe Bacino"
+      ],
+      "imdbMovieId": "1250777",
+      "originalTitle": "Kick-Ass",
+      "genres": [
+         "Action",
+         "Crime"
+      ],
+      "youtubeTrailerIds": [
+         "yxbjexP3Isc",
+         "rFpWpkxsVI8"
+      ],
+      "plotSummary": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+      "tmdbMovieId": 23483,
+      "avgRating": 3.63563,
+      "releaseYear": "2010",
+      "numRatings": 10805,
+      "posterPath": "/yZFrniO6qSwjTCosStXweYtczGT.jpg"
+   }
+}

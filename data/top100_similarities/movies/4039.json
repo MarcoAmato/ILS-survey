@@ -1,0 +1,443 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "santa claus",
+            "id": 1991
+         },
+         {
+            "name": "musical",
+            "id": 4344
+         },
+         {
+            "name": "based on comic",
+            "id": 9717
+         },
+         {
+            "name": "based on play or musical",
+            "id": 10181
+         },
+         {
+            "name": "microphone",
+            "id": 11666
+         },
+         {
+            "name": "little girl",
+            "id": 12663
+         },
+         {
+            "name": "orphan",
+            "id": 13014
+         },
+         {
+            "name": "whistle",
+            "id": 41328
+         },
+         {
+            "name": "child's point of view",
+            "id": 161868
+         },
+         {
+            "name": "chrysler building",
+            "id": 162632
+         },
+         {
+            "name": "rockettes",
+            "id": 165113
+         },
+         {
+            "name": "locket",
+            "id": 165114
+         }
+      ],
+      "imdb_id": "tt0083564",
+      "video": false,
+      "title": "Annie",
+      "recommendations": [
+         26177,
+         19494,
+         12154,
+         8989,
+         13665,
+         11708,
+         10631,
+         2616,
+         11176,
+         11076,
+         1552,
+         19186,
+         15171,
+         30502,
+         9066,
+         21780,
+         11584,
+         14367,
+         10141,
+         10874
+      ],
+      "backdrop_path": "/hXg80z3buYFAqGgEheGcYTZIe2V.jpg",
+      "revenue": 57059003,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Annie",
+               "gender": 1,
+               "credit_id": "52fe46789251416c7507967b",
+               "name": "Aileen Quinn",
+               "profile_path": "/A8yY6d5PUx62kGiLQApLHvyyjlW.jpg",
+               "id": 87933,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "'Daddy' Oliver Warbucks",
+               "gender": 0,
+               "credit_id": "52fe46789251416c75079683",
+               "name": "Albert Finney",
+               "profile_path": "/2BTzSQUa3RXPqeeNjbJqnyIBePE.jpg",
+               "id": 3926,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Miss Hannigan",
+               "gender": 0,
+               "credit_id": "52fe46789251416c7507967f",
+               "name": "Carol Burnett",
+               "profile_path": "/uUN23A8WtaLcItllwFADuyqF8Ci.jpg",
+               "id": 14837,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Grace Farrell",
+               "gender": 1,
+               "credit_id": "52fe46799251416c7507969b",
+               "name": "Ann Reinking",
+               "profile_path": "/ktI8Y3Jo1WzuBjy2LLORx2LxokJ.jpg",
+               "id": 80928,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Rooster Hannigan",
+               "gender": 2,
+               "credit_id": "52fe46789251416c75079687",
+               "name": "Tim Curry",
+               "profile_path": "/hPyCIUATIvrzPx8ZbsIJ15l5u8u.jpg",
+               "id": 13472,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Lily St. Regis",
+               "gender": 1,
+               "credit_id": "52fe46789251416c7507968b",
+               "name": "Bernadette Peters",
+               "profile_path": "/kfb3VyXiHcUIzCWL7SevU9kgEAj.jpg",
+               "id": 40389,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Punjab",
+               "gender": 2,
+               "credit_id": "52fe46799251416c7507969f",
+               "name": "Geoffrey Holder",
+               "profile_path": "/bmNg7Ld2H1V3Sqz2PmxvOJOof8z.jpg",
+               "id": 10225,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Asp",
+               "gender": 0,
+               "credit_id": "52fe46799251416c750796a3",
+               "name": "Roger Minami",
+               "profile_path": null,
+               "id": 1073588,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Molly",
+               "gender": 0,
+               "credit_id": "52fe46799251416c750796a7",
+               "name": "Toni Ann Gisondi",
+               "profile_path": null,
+               "id": 1073589,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Pepper",
+               "gender": 0,
+               "credit_id": "52fe46799251416c750796ab",
+               "name": "Rosanne Sorrentino",
+               "profile_path": null,
+               "id": 1073590,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Tessie",
+               "gender": 0,
+               "credit_id": "52fe46799251416c750796af",
+               "name": "Lara Berk",
+               "profile_path": null,
+               "id": 1073591,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Kate",
+               "gender": 1,
+               "credit_id": "52fe46799251416c750796b3",
+               "name": "April Lerman",
+               "profile_path": null,
+               "id": 158698,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Duffy",
+               "gender": 1,
+               "credit_id": "52fe46799251416c750796b7",
+               "name": "Robin Ignico",
+               "profile_path": null,
+               "id": 174661,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "July",
+               "gender": 0,
+               "credit_id": "52fe46799251416c750796bb",
+               "name": "Lucie Stewart",
+               "profile_path": null,
+               "id": 1073592,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "FDR",
+               "gender": 2,
+               "credit_id": "52fe46799251416c750796bf",
+               "name": "Edward Herrmann",
+               "profile_path": "/3AGRAverIuT6kgSfGQPiY55QZzG.jpg",
+               "id": 52995,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46789251416c75079677",
+               "name": "John Huston",
+               "profile_path": "/1YV2m0943zGmgQaHHgtFuQhOEKl.jpg",
+               "id": 6593,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe46789251416c75079691",
+               "name": "Carol Sobieski",
+               "profile_path": null,
+               "id": 18253,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46799251416c75079697",
+               "name": "Thomas Meehan",
+               "profile_path": null,
+               "id": 14640,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59fc8c15c3a3681a8302b44f",
+               "name": "Dale Hennesy",
+               "profile_path": null,
+               "id": 14779,
+               "department": "Art",
+               "job": "Production Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 8.864824,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 15739,
+      "vote_count": 251,
+      "budget": 50000000,
+      "overview": "An orphan in a facility run by the mean Miss Hannigan, Annie believes that her parents left her there by mistake. When a rich man named Oliver \"Daddy\" Warbucks decides to let an orphan live at his home to promote his image, Annie is selected. While Annie gets accustomed to living in Warbucks' mansion, she still longs to meet her parents. So Warbucks announces a search for them and a reward, which brings out many frauds.",
+      "similar": [
+         10719,
+         324849,
+         49521,
+         209112,
+         1924,
+         141052,
+         272,
+         155,
+         1452,
+         297762,
+         8536,
+         30061,
+         10195,
+         102899,
+         68721,
+         44912,
+         49026,
+         118340,
+         99861,
+         414
+      ],
+      "original_title": "Annie",
+      "runtime": 127,
+      "poster_path": "/qTN4VPUsZhg5exVlOu9cILCjUsG.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "id": 5,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Rastar Pictures",
+            "id": 2070,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1982-06-18",
+      "vote_average": 6.3,
+      "belongs_to_collection": {
+         "backdrop_path": null,
+         "name": "Annie Collection",
+         "id": 312735,
+         "poster_path": "/gKQghFIfPL7aviK7OonirYgnaMa.jpg"
+      },
+      "tagline": "The movie of 'Tomorrow'",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["John Huston"],
+      "runtime": 126,
+      "synopsis": null,
+      "writers": [
+         "Carol Sobieski",
+         "Thomas Meehan"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0083564/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTczMjgwNTAyNV5BMl5BanBnXkFtZTcwMDU3MzMyMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Aileen Quinn, Albert Finney, Carol Burnett | See full cast and crew »"],
+      "reviews": [
+         "Aileen Quinn as Annie has everyone beat. With that darling face, that beautiful voice, she did a fabulous job creating the character. Albert Finney as Daddy Warbucks was wonderful! He had that stern 'businesslike' attitude which grew into heartfelt love for this little red-headed orphan girl. Carol Burnett was awesome as the lady who ran the orphanage. She started out gruff and tumble (and drunk) but as it turns out, she really has a love for these orphans. There is NO comparison to the newest version. I can't see anyone else playing these parts better than Quinn, Burnett and Finney. It just isn't the same. If you want a beautiful musical with fun loving attributes, please see this movie!!! Your children will love you for it. Highly Recommended",
+         "How can you not love this movie? It has wonderful, catchy songs, it's a clean movie, a great storyline, and wonderful actors and actresses! What more could you ask for?! It's better than most movies today because it actually has a moral and a plot. It's a great family movie. It's one of my favorite movies, next to The Sound of Music. Anybody who doesn't watch this movie is seriously missing out. I'm sure you will like it. It's a lot better than the Disney remake. Sometimes the original, older movies are better than the remakes. And this movie is one of them! If you like musicals, or just want to watch a family movie, this is one that you really should watch.",
+         "I loved this film as a child and will always hold fond nostalgia for it. You definitely have to watch this from the point of view as a child (with so many \"family\" films out today, I know this might be hard, when their goal has been to entertain everyone). I loved all the performances in it from Albert Finney to Carol Burnett and Tim Curry. My most favorite Huston film is The Misfits, but don't expect that from this film, which I think alot of people are doing. As most directors age, they tend to get \"soft\" in their filmmaking as their hunger is replaced with complacency, but this film isn't as bad as some people describe it. It's a musical, it was made in the 80's, and it's primarily for kids. Compared to other movies made in that time period, this one is actually quite good. And although I've only seen parts of the newer one made by Disney, this one seems alot more mature and crafted, and not so candy-coated.",
+         "!!!Spoilers!!! The very first time I watched this film, I was hooked. God only knows how many times I have seen it since. And every time I have cried at the bit where Rooster, Lily and Miss Hannigan kidnap her from Daddy Warbucks. Carol Burnett, Tim Curry and Albert Finney are all excellent. As is Aileen Quinn as little orphan Annie. In fact the entire cast are brilliant. Annie is by far one of the best films I have ever seen. One of my favourite parts is the bit where they come in from the movies and Grace and Daddy Warbucks put Annie to bed while she's sleeping. And another fave is when all the kids from the orphanage go looking for Daddy Warbucks' house because they know what Rooster, Lily and Miss Hannigan are up to. Absolute brilliance. One thing I have to say is never, never, never, never watch the sequel. It is complete rubbish!!",
+         "I thought that this movie was a real spirit-lifter. It is a movie that I hope everyone who watches it has a change of attitude towards orphans and homeless children and adults. Sometimes I find myself turning my back on homeless people. Although I am ashamed to admit it, I do hope that others will look beyond money and appearance and see what really matters. This movie, once again, was wonderful. I hope that you keep up all of the good work and keep producing and directing movies such as this one. Enjoy all of your comments and all of your hard earned credit that you are receiving and take the time to really preview all of your scripts and watch the movie several times to praise all of your good work. Thank you very much and I will be watching the movies that you produce no matter how long, or short, they might be.",
+         "I just recently watched this movie, for the first time in my adult life. It's even better as an adult, because you catch all of these little things like, \"Mr. Warbucks, you're really handsome, for a Republican.\" Some people bash it for being different than the Broadway show, but so what, they did a good job. It's a fun movie for people of all ages. It's hilarious, musical, and touching.",
+         "I have read a previous comment that says that the only good singing parts are when Carol Burnett sings, and I think that's baloney. The purity of a child's voice still cuts you to the soul (if you have one) and I can still remember the goose-bumps I got from miss Quinn's singing the first time I saw it in the theatre. Carol Burnett is great in this film, and she deserves much praise, but above and beyond that - if you want a movie that you and your kids can watch that won't leave them screaming obscenities (or being just plain rude) at daycare on monday, then this is a good film for you to SIT DOWN WITH THEM and watch.",
+         "ANNIE (1982) **** Likable basis of the Broadway musical about a little orphaned girl, Annie, who falls into the care of a well-to-do billionaire. The rich man had intended to boost his political image through this situation, but he ultimately wants to keep the little girl in light of his newfound daughter-like love for her. Aileen Quinn is fine as the titled character, turning in rags for riches, all the while hoping to someday reunite with her real parents who had abandoned her for orphan care. Though the movie goes on for too long, the charm and likability of this musical production more than makes up for it. Of the lead players, Albert Finney, Carol Burnett, and Ann Reinking are particularly nice to watch.",
+         "I grew up watching Annie and I must say the best song in all of it is little girls. As a mother of 5 girls I wonder why lol. One poster said he hated carol Burnetts part as Mrs Hannigan worst of all. I happen to love her's best of all she made the movie. All of my girls love Annie but this version only they don't care for the remakes. Annie is a classic movie that I am honored to share with my girls today! I have never loved a movie as much as this one. I went through 4 VHS tapes and now own the DVD of Annie. It has stood the test of time. I will not be surprised to see it last another 20 years. I do agree with the omission of Tomorrow it should have been a main part of the show. Albert Finney was great as Daddy Warbucks. I wonder what Grace Farrell is doing now. I tried looking for info on the kids especially Molly I thought she was adorable it seems like the kids aren't acting anymore. Aileen Quinn was the best choice for Annie in my opinion.",
+         "Annie is a wonderful movie. It's great for children, particularly young girls. I have been watching the film since I was very small, and I have worn out five VHS copies to boot. Ergo I, as a young child, and still do now that I'm older, for reasons all my own, enjoyed this movie. This movie is superb for young children, and that's how it should be viewed, not as how poor the direction was, because most kids don't even know what a director does. See the film through a childs eyes, better yet, your childs eyes, and they will love it. Plus, it always keeps my cousins relatively quite (they like to sing) for two hours."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Family",
+         "Musical"
+      ],
+      "productionCompanies": [
+         "Columbia Pictures",
+         "Rastar Pictures"
+      ],
+      "summaries": [
+         "In the depths of the 1930's, Annie is a fiery young orphan girl who must live in a miserable orphanage run by the tyrannical Miss Hannigan. Her seemingly hopeless situation changes dramatically when she is selected to spend a short time at the residence of the wealthy munitions industrialist, Oliver Warbucks. Quickly, she charms the hearts of the household staff and even the seemingly cold-hearted Warbucks cannot help but learn to love this wonderful girl. He decides to help Annie find her long lost parents by offering a reward if they would come to him and prove their identity. However, Miss Hannigan, her evil brother, Rooster, and a female accomplice, plan to impersonate those people to get the reward for themselves which put Annie in great danger.",
+         "A young orphan girl's adventures in finding a family that will take her."
+      ],
+      "budget": 50000000
+   },
+   "movielensId": 4039,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1982-06-18",
+      "dvdReleaseDate": "2000-01-12",
+      "directors": ["John Huston"],
+      "runtime": 127,
+      "movieId": 4039,
+      "title": "Annie",
+      "mpaa": "PG",
+      "actors": [
+         "Aileen Quinn",
+         "Albert Finney",
+         "Carol Burnett",
+         "Ann Reinking",
+         "Tim Curry",
+         "Bernadette Peters",
+         "Geoffrey Holder",
+         "Roger Minami",
+         "Toni Ann Gisondi",
+         "Rosanne Sorrentino",
+         "Lara Berk",
+         "April Lerman",
+         "Robin Ignico",
+         "Lucie Stewart",
+         "Edward Herrmann"
+      ],
+      "imdbMovieId": "0083564",
+      "originalTitle": "Annie",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Family",
+         "Music"
+      ],
+      "youtubeTrailerIds": ["OiM8S9VLjvU"],
+      "plotSummary": "An orphan in a facility run by the mean Miss Hannigan, Annie believes that her parents left her there by mistake. When a rich man named Oliver \"Daddy\" Warbucks decides to let an orphan live at his home to promote his image, Annie is selected. While Annie gets accustomed to living in Warbucks' mansion, she still longs to meet her parents. So Warbucks announces a search for them and a reward, which brings out many frauds.",
+      "tmdbMovieId": 15739,
+      "avgRating": 3.20846,
+      "releaseYear": "1982",
+      "numRatings": 2684,
+      "posterPath": "/qTN4VPUsZhg5exVlOu9cILCjUsG.jpg"
+   }
+}

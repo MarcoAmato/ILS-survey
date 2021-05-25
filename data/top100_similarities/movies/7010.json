@@ -1,0 +1,454 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "sex",
+            "id": 572
+         },
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "age difference",
+            "id": 965
+         },
+         {
+            "name": "lolita",
+            "id": 2087
+         },
+         {
+            "name": "virgin",
+            "id": 2389
+         },
+         {
+            "name": "arranged marriage",
+            "id": 2692
+         },
+         {
+            "name": "vietnam",
+            "id": 2956
+         },
+         {
+            "name": "forbidden love",
+            "id": 3691
+         },
+         {
+            "name": "lover",
+            "id": 4320
+         },
+         {
+            "name": "indochina",
+            "id": 7983
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "sexual attraction",
+            "id": 11190
+         },
+         {
+            "name": "loss of virginity",
+            "id": 11254
+         },
+         {
+            "name": "statutory rape",
+            "id": 11262
+         },
+         {
+            "name": "older man younger woman relationship",
+            "id": 14669
+         },
+         {
+            "name": "lust",
+            "id": 14794
+         },
+         {
+            "name": "desire",
+            "id": 33513
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         },
+         {
+            "name": "sexual awakening",
+            "id": 162804
+         },
+         {
+            "name": "1920s",
+            "id": 207876
+         }
+      ],
+      "imdb_id": "tt0101316",
+      "video": false,
+      "title": "The Lover",
+      "recommendations": [
+         5203,
+         11986,
+         24402,
+         31509,
+         96349,
+         81119,
+         45213,
+         48612,
+         11703,
+         66027,
+         2690,
+         11035,
+         145066,
+         43360,
+         17961,
+         12555,
+         27030,
+         57047,
+         12311,
+         20156
+      ],
+      "backdrop_path": "/zRAgf1F0rRp0Tys8AnMWGBFJRZv.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "The Young Girl",
+               "gender": 1,
+               "credit_id": "52fe43de9251416c7502153f",
+               "name": "Jane March",
+               "profile_path": "/9x1Mtvsj3QvA8yVhYN7tzdSp5oM.jpg",
+               "id": 21817,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "The Chinaman",
+               "gender": 2,
+               "credit_id": "52fe43de9251416c75021543",
+               "name": "Tony Leung Ka-Fai",
+               "profile_path": "/vxrUpkWMqWYMjx5bg8Q0fioBrQg.jpg",
+               "id": 56861,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "The Mother",
+               "gender": 0,
+               "credit_id": "52fe43de9251416c75021547",
+               "name": "Frédérique Meininger",
+               "profile_path": "/9bTI2jy5eNuAxSwXdy1DaE2iRle.jpg",
+               "id": 40582,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "The Elder Brother",
+               "gender": 2,
+               "credit_id": "52fe43de9251416c7502154b",
+               "name": "Arnaud Giovaninetti",
+               "profile_path": "/mwG12kpFF1elOGNp5TR4qFzPiEe.jpg",
+               "id": 67780,
+               "order": 3
+            },
+            {
+               "cast_id": 18,
+               "character": "The Younger Brother",
+               "gender": 2,
+               "credit_id": "596f5aaa9251412d3d022760",
+               "name": "Melvil Poupaud",
+               "profile_path": "/moYCrYGhIP4QTDmkED2lMGxMuOW.jpg",
+               "id": 26100,
+               "order": 4
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43de9251416c75021551",
+               "name": "Gérard Brach",
+               "profile_path": null,
+               "id": 2356,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43de9251416c75021557",
+               "name": "Jean-Jacques Annaud",
+               "profile_path": "/sxNr4V5xESbnn6To1etsLoPj5SC.jpg",
+               "id": 2352,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43de9251416c7502155d",
+               "name": "Jean-Jacques Annaud",
+               "profile_path": "/sxNr4V5xESbnn6To1etsLoPj5SC.jpg",
+               "id": 2352,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43de9251416c75021563",
+               "name": "Claude Berri",
+               "profile_path": "/1gpsO0gdsHJPhUzFGMHvE3Qo5yZ.jpg",
+               "id": 20718,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43df9251416c75021569",
+               "name": "Marguerite Duras",
+               "profile_path": "/d5ON1pB2k1RKMYQWZlnVINZwiLg.jpg",
+               "id": 29905,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43df9251416c7502156f",
+               "name": "Gabriel Yared",
+               "profile_path": "/2qihER03E1ISTUYqHgUKBA9ow93.jpg",
+               "id": 5488,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43df9251416c75021575",
+               "name": "Robert Fraisse",
+               "profile_path": null,
+               "id": 2596,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43df9251416c7502157b",
+               "name": "Noëlle Boisson",
+               "profile_path": null,
+               "id": 12758,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a63223c3a3682bb4000e7d",
+               "name": "Hoang Thanh At",
+               "profile_path": null,
+               "id": 14589,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55a63230c3a3682bb2000ee8",
+               "name": "Yvonne Sassinot de Nesle",
+               "profile_path": null,
+               "id": 406471,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a6323dc3a3682bad000ecf",
+               "name": "Olivier Radot",
+               "profile_path": null,
+               "id": 1040894,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55a633799251410999000f61",
+               "name": "Timothy Burrill",
+               "profile_path": null,
+               "id": 4399,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55a63389c3a3682bb2000f00",
+               "name": "Jacques Tronel",
+               "profile_path": null,
+               "id": 1487468,
+               "department": "Production",
+               "job": "Co-Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 10.298732,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "VN",
+            "name": "Vietnam"
+         }
+      ],
+      "id": 10995,
+      "vote_count": 141,
+      "budget": 0,
+      "overview": "A poor French teenage girl engages in an illicit affair with a wealthy Chinese heir in 1920s Saigon. For the first time in her young life she has control, and she wields it deftly over her besotted lover throughout a series of clandestine meetings and torrid encounters.",
+      "similar": [
+         81774,
+         13,
+         627,
+         24420,
+         271674,
+         796,
+         17612,
+         259695,
+         4588,
+         22971,
+         11224,
+         1359,
+         51828,
+         64682,
+         59436,
+         112160,
+         86331,
+         306819,
+         258216,
+         600
+      ],
+      "original_title": "L'Amant",
+      "runtime": 115,
+      "poster_path": "/iey1UA4hav2cn60qGi1zgKxpPBl.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Timothy Burrill Productions",
+            "id": 8131,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Renn Productions",
+            "id": 82,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "films A2",
+            "id": 7147,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Grai Phang Film Studio",
+            "id": 28807,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1992-02-22",
+      "vote_average": 6.6,
+      "belongs_to_collection": null,
+      "tagline": "She gave her innocence, her passion, her body. The one thing she couldn't give was her love.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Jean-Jacques Annaud"],
+      "runtime": 115,
+      "synopsis": "One cannot speak of \"the plot\" of the film in the usual sense, since it is the autobiographical story of Duras. As such, the story is driven by the remembrances of the events in her life, rather than a formally constructed story. The story illuminates one and one-half years in the life of the adolescent Duras (Jane March), as they are recalled by the seventy-year-old writer. The film is also about life in South Vietnam, under French colonial rule. But it is also an example of this life turned upside down, as the girl is white and poor, while the man is Chinese and rich. The film opens in the present day (circa 1980) with Jeanne Moreau's voice-over as the elderly Duras reading the opening paragraphs of the novel. This is immediately followed by a flashback to an afternoon in 1929, on the Mekong River shore. On that particular day, the fifteen and one-half year old girl was returning to Saigon, as was the twenty-eight-year-old rich \"Chinaman\" (Tony Leung Ka Fai). They arrive at the Mekong ferry crossing, she in a public bus, and he in his black Morris Leon-Bollet limousine. The girl wears an old sleeveless silk dress, gold-spangled high-heels, and a man's pink fedora decorated with a black ribbon. She wears her hair in pigtails and her lips are painted with a brilliant red lipstick: this is a striking resemblance to the photographs of the young Duras, who wanted to be a woman before her time. The young man, impeccably dressed in a white cotton suit, emerges from his limousine and approaches the girl. At this point, we view the preceding night, at the girl's familial house in Sa Dec. We are introduced to the poisonous atmosphere which permeates it, and meet her older brother, the family tyrant (Arnaud Giovaninetti), her weak younger brother (Melvil Poupaud), and her listless mother (Frederique Meininger). We return to the ferry, where the Chinaman offers the girl a lift to Saigon. She accepts his offer of a ride to town, and in so doing, embarks on a lengthy, forbidden love affair. Each of the following days, the Chinaman arrives in his black limousine at the girl's lycée, where she attends class, and drives her to the boarding house, where she eats and sleeps. Soon, one afternoon, he picks her up at the boarding house and they drive instead to his garconnière in Cholon, the Chinese quarter of Saigon. The garconnière is a bachelor apartment provided for him by his father. It is there that the pair have their first sexual encounter. During the ensuing eighteen months, the couple meet countless times in the garconnière. In the course of the film, we are shown three such encounters, each for different reasons. The situation the lovers find themselves in is truly romantic and tragic. In the colonial society, it is totally out of the question for her, a white girl, to marry a Chinese man. The Chinese tradition forbids him to marry just anybody, especially a white girl. His wife will be chosen by his father (Xiem Mang), for social/financial reasons. Besides, following their first sexual encounter, he says that since she is no longer a virgin, he can no longer accept her as his wife. This is all right with her, she answers, since he is Chinese and, \"[...], I don't particularly like the Chinese much.\" Therefore, they know that their love affair is doomed from the beginning, but they pursue it nevertheless to its cruel and inevitable conclusion. Eventually, the girl wants to show her \"prize\" to her family, and satisfy the family's curiosity. She arranges a dinner in town for her family to meet her lover. The result is an unmitigated disaster. The mother and the two brothers gorge themselves on food, get drunk, and never speak to the Chinaman, except for her older brother, who insults him and tries to provoke a fight. Following the dinner, the group goes dancing. The young brother and the girl dance together, alluding to the peculiar, somewhat incestuous relationship which exists between them, and awaken the jealousy of the Chinaman. This later leads to a violent scene between the girl and the Chinaman, back at the garconnière. Since the Chinaman is generous, the family pretends not to think about the relationship which likely exists between him and the girl. Deep inside, however, the mother is revolted by her daughter's relationship with the Chinaman, and she has several violent scenes with the girl, exacerbated by her oldest son's vicious interference. The Chinaman marries the young (sixteen years old), rich Chinese girl who his father chose for him, in a beautifully elaborate Chinese ceremony. The wedding proceeds in very festive mood, in sharp contrast to the Chinaman's demeanor, and the girl watches, impassive. A few days after the wedding, the girl leaves for France. She leans on the rail, dressed in the same clothes she wore on the first ferry ride. As her boat departs, she sees for the last time the long, black auto on the pier, and feels his gaze upon her. Many years later, the Chinaman comes to Paris with his wife. He calls her on the telephone and, as she says, \"[...] told her that it was as before, that he still loved her, he could never stop loving her, that he'd love her until death.\" So ends this beautiful and tragic love story. In a \"Hollywood\" movie, the lovers could have eloped and lived \"happy ever after,\" but this is real life, with its somehow inescapable rules.",
+      "writers": [
+         "Marguerite Duras",
+         "Gérard Brach"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0101316/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU0MTYzMDQxOV5BMl5BanBnXkFtZTcwODUzNzA2NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jane March, Tony Ka Fai Leung, Frédérique Meininger | See full cast and crew »"],
+      "reviews": [
+         "L'Amant is a very beautiful, haunting and sensual film. The characters are perfect and acted in a minimalist way that's refreshing. I see here that the main objections to this film are: 1 .. Not enough character development 2 .. The film does not have a clear direction to where it's going 3 .. Too slow 4 .. Too much sex (for some people if a film has explicit sex it can't be good) All these objections are pointless: 1 .. The characters here are ordinary people, not that interesting by themselves. It's the love story that's interesting. Both of them know they have no future and try to pretend it's not love. I am sick of films in which the characters are sure they love each other after 30 minutes of \"character development\". 2 .. The fact that this film does not follow a clear path it's one of it's qualities. It adds more drama and the characters themselves are confused and don't know where they're going. The whole film plays like a dream of love and to request \"clear direction\" it's pointless. 3 .. Ahh! The \"too slow\" argument. There are films in this world that make you think about you, your life and the world that's around you. Surely you need some TIME to reflect on that. Short attention-span is a bad thing :). 4 .. This film is about love. The fact that they are shown having sex makes them real persons, with real bodies not some film characters. Sex is an escape from the world around them and I don't think it's too much, too explicit or some nonsense like that. It's so hard to have a film with sex it it that's not trivial! This is a masterpiece by this fact alone. The persons who \"though up\" these arguments took the main strengths of the film and complained about them. This for me it's proof enough that they didn't understand this film or that the film didn't struck a single chord in their soul. Short attention span is the main plague of films now and the lack of it is the reason the french make such great films! Please try to see it again and not in a hurry. It's not light cinema! It's great cinema!",
+         "I first saw this movie when I was younger, as one of the most graphic \"mainstream\" movies available. That was before I ever knew what the word \"soft-core\" meant. I watched it again, when I was older, and I finally understand it. The quiet sequences and unemotional facade of the female lead are no longer just boring filler between the exciting love scenes. Perhaps it's because I needed a little more life experience to know the unexpressed feelings of the female character and the expressed feelings of the male character. Sure, this movie is about taboo and tasting forbidden fruit. This movie is about sex. But this movie also has very strong depictions of the other emotions involved in the affair. Shame. Guilt. Racial and social prejudice. Love which is explored when both parties know there can be no future. Emotional detachment born out of necessity, as a \"defense mechanism\". Being ostracized by your peers, and life in an environment rife with vicious rumors. But mostly the shame and guilt. It's made clearer to me what a former lover of mine may have felt. To live through all that and then to watch this movie makes for a very personal, moving experience. I can't recommend it to everyone, since every movie experience is unique. But I can say that \"The Lover\" is much, much more than just an excuse for graphic love scenes. It's a story of a reminiscence... a first time... a shameful secret... a hidden love, fostered through hardship and burning into the mind of the narrator an indelible, permanent mark of memory of a first, life-shaping lover...",
+         "It's not often I get to see a movie like this. The story of L'Amant potrays a most complex and provocative relationship between a young French girl (Jane March) and a Chinaman (Tony Leung). The two lovers' attraction towards each other are purely physical, but there are a lot of psychological burdens and suffering that they can't break free from, since the two of them are psychologically washed-up people who lives within the shackles of society that they live in. At times they treat each other cruelly while at times they treat each other with tender affection, yet we don't know whether they feel true love for each other or not. That's where the story gets very interesting and different. The sex scenes are indeed graphic, but by no means done in bad taste or just for the sake of sex. The film is much more than about lust, it is about two lovers who found refuge in each other's arms. Jane March and Tony Leung gave great performances, showing the subtleties of conflicting emotions that they had to endure. Beautifully paced storyline with great atmosphere and soundtrack will make this a worthwhile movie experience. Very highly recommended.",
+         "This movie is one of the very few successful attempts at evoking female sexuality and sensuality in a non-obscene way. It's an exploration of the work of the senses, not so much a story with a plot. Therefore, it is unique in the history of cinema. Whereas other movies featuring a young girl and an older lover are mostly playful, ironic or simply intent on breaking a taboo, this movie brings an ode to the senses themselves in a much more subtle way. Difficult as this may be, Annaud brings us as close as we can get to the atmosphere of love in a colonial and exotic setting. This delicate setting with its many contradictions (race, gender, age) adds to the experience. (A young girl who explores her own sexuality, couldn't dream of a more well-suiting context). In fact, the \"colony\" herself is a major character in the movie; the colony with her mighty Mekong River, her smells and colors, her strange sounds and her enigmatic people. On a more metaphoric level, the Colony represents a temporary space, a place where Western people only pass through, a space that cannot be owned forever, a place of love and hate, just like the lovers' relationship. And in the end, the lovers have to go their own way, just like the colonialists have to leave the colony they love. The movie is poetically slow, and at times becomes an almost ritual repetition of a single act. Precisely therein lies its 'dramatic content'. Add the beautiful cinematography and you have a nice exercise in film.",
+         "Jean-Jacques Annaud's film version of Marguerite Duras, one of France's most esteemed writers, is quite erotic... told from the perspective of a 15-and-a-half-year-old French girl, who learns very early about passion, love and heartbreak... It's the crossing of the river... The crossing, on a ferry, of one of the branches of the Mekong, in the great plains of mud and rice of southern Indochina... A pretty young girl goes back to Saigon... She is standing on the deck, extremely defiant, wearing a silk dress, a pair of 'cabaret' high heels, and a man's hat... She is approached by an elegant dark man from Cholon who is also crossing the Mekong that day towards Saigon... 'I like your hat. It's original. A man's hat on a young girl,' he expresses, and continues: 'If you want I can drive you to Saigon.' The rich Chinese playboy with a black Rolls-Royce is 32 years old, from that financial minority that owns all the popular housing of the colony... He's back from Paris where he undertook some business studies... The film, beautifully shot, is a dreamy fantasy of escape through sex... The escape is that of the poor French teenager from the horror of her house in Sa-Dec... While the girl merely abides her innocent mother, she loves her younger brother poetically, without reserve... Her brother is handsome but not bright, romantic but terribly fragile... She fears her elder brother, a brutal and lawless dissolute man, stupidly dependent on his mother... The inexperienced girl wants to see him in pain... The most remarkable aspect of the story is the strength of character of the young girl who is always a little sad... She finds the strength to proceed against the forbidden with a calm determination... \"I've never followed anyone into a room yet.,\" she exclaims... The room was dark, shipwrecked, surrounded by the never-ending clamor of the town, carried away by the flow of the town... Her body was in that public noise... Their love was erotic, immediate, unrestrained... It was physical, violent, devastating... But the girl loves other young woman in the boarding house, the 17-year-old Helen... Her passion for Helene is intense... Helen is immodest... She don't realize she walks naked in the dormitory... She doesn't know that she's very beautiful... She's innocent lingering on in youth... 'The Lover' parallels the life of Duras herself... The setting, in Indochina, is one she knows intimately... The story is set mostly in the early 1920s following the decline of French domination of the territory that is now Vietnam... The film is the most exciting journey along a winding river of passion, which ultimately flows to the sea... Jean-Jacques Annaud handles the story with real sensuality, romance and dramatic power... He shots much of the film with a distinguished style... Jane March is attractive, but not obviously beautiful... Her impressionable teenager's gradual understanding of sexuality is well presented... She was subjected to a close, penetrating gaze by Annaud's camera.. Tony Leung, as the rich Chinaman, is the lusty son unable to escape his family's commands... Although unseen, Jeanne Moreau jaded voice narrates the action and imparts a special flavor... Her words are poetry, as any Duras reader knows...",
+         "My wife and I were enraptured and thoroughly enjoyed this gem. Deeply evocative and so real that we nearly felt the rain and hot humidity, we were swept along on this unique journey. The external and newsgroup reviews did not ring true for us. Well OK, the characters were very sad and March delivered stilted lines at times, but there was so much magic to see and hear! She sizzled. He struggled. They both yearned for what could not be. Those harbour and river scenes were no Hollywood set or computer graphics, but just had to be the real thing: Vietnam! The reviews said 'not erotic' and 'like Penthouse'...?!? Just look beneath the surface: even though both characters are trapped in cultural barriers and subsequently repress so many emotions (especially the girl), they escape into the blissfully unreal world of the rented room where emotions run deep albeit confused. You will not find the usual American 'formula film' composed of glitz, action, intrigue, syrupy sweetness and a predictable ending. Instead here is a film that is complex yet simple, both beautiful and ugly, about separateness and unions, and the sufferings of those who love but cannot love. We were captivated, enchanted. If you are prudish or do not like 'foreign films', then avoid this film. However, if you have ever travelled in Asia, if you love creative cinematography, if you enjoy small subtleties, if you like an insight into the past and a time of strong desires... then see this film! It was refreshing, and we did not want it to end.",
+         "I continue to be amazed at what works in this huge experiment in the social imagination we call film. One thing that really impresses me is how one image will stick in your mind. One image around which it seems the whole rest of the project revolves and supports. I usually write IMDb comments very soon after seeing or reseeing a film. In this case, I was so struck by that one image I resolved to wait three months before commenting. It stuck. That image is the one which is used in the promotion and presumably is what the filmmaker considers its essence: the 15 year old girl in defiantly non-school clothes with an incongruous man's hat on the ferry. She is observing and consciously observed. It is we who observe her and enjoy her sensuality then and later just as the Chinese observer does. He is our surrogate, defining the strange situation of a being in the wrong place: Chinese being then more of a 'minority' in Vietnam than Europeans. Exotic ordinariness. Emerging awarenesses as justification for being. No, more: revelling in existence. Transition as destination. It is odd how charged this one image is, and how competently it justifies the whole project. Just as the lover is left puzzling why, so are we. So are we, and the fact that no easy answer appears is why this sticks so. Ted's Evaluation -- 3 of 3: Worth watching.",
+         "I have seen this movie in 1992. I was quite young, in fact I was 16 and when I heard about it something inside me make a noise. It seemed to be an amazing story, a girl of my age having a lover... I said Wow. And one afternoon I left my English class and I went to the movies. It was quite a desert. It was amazing, wonderful, marvelous, a gem. This story is well written and incredibly well performed with this exquisite Tomy Leung, an unknown actor to me at those times. The scene of the car, when Tomy Leung's finger barely touching Jane March's and the contrast with the one they are arriving to the Bording School with the grip of those hands. And her breath showing her arouse. The love of those people who cannot break the rules of the world they were living, the prejudices, the society but that at least they could enjoy a period of exquisite love, tenderness, passion, experiences that one person could never forget. For me it is unforgettable, I have seen this movie nearly 20 times and I have recommended all of those I think they deserve a piece of joy.",
+         "Based on the semi-autobiographical novel of Marguerite Duras, who was born in French colonial Vietnam, this film chronicles the sexual awakening of a young French girl who falls passionately in love with a Chinese scion of a rich trading family who have his marriage already arranged. They make love passionately in a way which more truthful than is usual on the screen. This film is intensely visual, written by a major French script writer, Gerard Brach, and narrated by the powerful world weary voice of Jeanne Moreau. If you have experienced consuming sexual passion and the pain which it can engender, you will understand this film. If you haven't, this film will give you that vicarious experience. It is all the more truthful because although the relationship is interracial, the passion transcends, whereas the cultural differences block the fulfilment of their true love. It is about how people miss love trapped by convention and common sense. This is a flawless film, beautifully shot--a minor classic, much under-appreciated.",
+         "The Lover is not just a movie, it is sensual, breathtaking and intimate sometimes bordering on voyeurism. From the outset the scenery directs the action taking the viewer into a world of a young girl and a Chinese man that embark on a doomed love affair in 1929 Colonial Vietnam. Jane March plays the young 15 year old 'girl'. That is all we know of her as she stands on the front of a ferry cruising the Mekong Dekta. She dressed in a cheap short sleeved dress, straw hat and high heels and heavily rouged lips that belie her age. She is on her way back to a girls' school in Saigon when she is first 'seen'. The second time she is summoned to a black sedan where she meets The Chinaman, smouldering Tony Leung, sitting in the back seat of the car attired elegantly in a tailored white suit. He offers her a ride to her school where a simple, impulsive kiss on the window leads to a frustrating passionate love story laced with cultural misunderstandings. This movie is fueled right from the start with sexual tension. March and Leung are perfect as the two nameless leads who are taken on this journey of first discovery, through latent but palpable lust, then finally to ruin. She cannot love him and he cannot commit without betraying his family's honour and heritage. She will be nothing but his lover, never his wife. I felt a deep sadness for these people, their isolation evident as they silently scream for their individuality in a world that will not accept either of them together, or apart. Jean-Jacques Annaud has done for The Lover what he did for The Bear and The Name of the Rose, gave us characters that are haunting and memorable. The cinematography here is sparse, pale so as to give the story a poignant futility. Gabriel Yared's score is sensual almost brutally so as these characters' bodies come together while their souls never connect. This movie is not for the faint of heart. It IS sexual. The scenes border on artful pornography. Annaud never quite goes that far as to allow it to delve into hard-core, but the scenes are hard to watch. They are so intimate that we believe the leads are making love before our eyes...but we are compelled to watch, transfixed by the intimacy. Throughout we are reminded of the toll the affair has had on the young girl with the tremulous grosgrain narration of the always excellent Jeanne Moreau. She underscores the events and emotions of the sometimes perversely detached lead character. The Lover is based partly on the life of Marguerite Duras of whom March's young girl is almost a dead-ringer. Annaud imbues this story with every emotional nuance forcing us to use its characters as a mirror of our own hidden desires. This is a movie that made me long for what is hidden deep within my secret heart...and a little afraid of what I might find there."
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Films A2",
+         "Grai Phang Film Studio",
+         "Renn Productions"
+      ],
+      "summaries": [
+         "It is French Colonial Vietnam in 1929. A young French girl from a family that is having some monetary difficulties is returning to boarding school. She is alone on public transportation when she catches the eye of a wealthy Chinese businessman. He offers her a ride into town in the back of his chauffeured sedan, and sparks fly. Can the torrid affair that ensues between them overcome the class restrictions and social mores of that time? Based on the semi-autobiographical novel by Maugerite Duras.",
+         "An elderly French authoress, while writing her memoirs, is narrating the story of her first love. The year of that story is 1929, the place southern Indochina. Her mother and her two brothers lived in the house that came with the mother's poor paying teaching job, while she, across the Mekong River, lived in a boarding school dormitory in Saigon. The girl had an uneasy relationship with her family, largely because of her mother's inexplicable favoritism of her eldest brother, who was selfish, egotistical and thieving. The girl and her younger timid brother secretly wished he was dead. That year, she began a relationship with a Chinaman, who she met on the Mekong River ferry. He was western educated in Paris, came from a wealthy family and as such money was no issue for him, and had never worked a day in his life. They entered into their sexual relationship nervously if only because of the taboo associated with a relationship between races, and people of their respective ages (she telling him that she was eighteen, he telling her he was thirty-two). As time progressed, they were more open to the world at least about having a relationship. Her family disapproved of what they knew she was doing, while still savoring the Chinaman's showering of money at them. They talked openly to each other about their non-existent future, as she could never marry a Chinaman, and he was already betrothed to a woman from a wealthy family, she who he would not even meet until the wedding ceremony. But both began to think that there was the possibility of a future \"them\", driven by their passion and desire.",
+         "In 1929 French Indochina, a French teenage girl embarks on a reckless and forbidden romance with a wealthy, older Chinese man, each knowing that knowledge of their affair will bring drastic consequences to each other."
+      ],
+      "budget": 0
+   },
+   "movielensId": 7010,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1992-02-22",
+      "dvdReleaseDate": "2001-12-11",
+      "directors": ["Jean-Jacques Annaud"],
+      "runtime": 115,
+      "movieId": 7010,
+      "title": "The Lover",
+      "mpaa": "R",
+      "actors": [
+         "Jane March",
+         "Tony Leung Ka-Fai",
+         "Frédérique Meininger",
+         "Arnaud Giovaninetti",
+         "Melvil Poupaud"
+      ],
+      "imdbMovieId": "0101316",
+      "originalTitle": "L'Amant",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["ObXJvC49_4k"],
+      "plotSummary": "A poor French teenage girl engages in an illicit affair with a wealthy Chinese heir in 1920s Saigon. For the first time in her young life she has control, and she wields it deftly over her besotted lover throughout a series of clandestine meetings and torrid encounters.",
+      "tmdbMovieId": 10995,
+      "avgRating": 3.56901,
+      "releaseYear": "1992",
+      "numRatings": 355,
+      "posterPath": "/iey1UA4hav2cn60qGi1zgKxpPBl.jpg"
+   }
+}

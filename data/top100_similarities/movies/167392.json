@@ -1,0 +1,625 @@
+{
+   "tmdb": {
+      "original_language": "hi",
+      "keywords": [
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "feminism",
+            "id": 2383
+         },
+         {
+            "name": "empowerment",
+            "id": 2386
+         },
+         {
+            "name": "strong woman",
+            "id": 2660
+         },
+         {
+            "name": "training",
+            "id": 4613
+         },
+         {
+            "name": "biography",
+            "id": 5565
+         },
+         {
+            "name": "wrestling",
+            "id": 5970
+         },
+         {
+            "name": "sport",
+            "id": 6075
+         },
+         {
+            "name": "autobiography",
+            "id": 6683
+         },
+         {
+            "name": "domestic abuse",
+            "id": 10303
+         },
+         {
+            "name": "bollywood",
+            "id": 10540
+         },
+         {
+            "name": "woman power",
+            "id": 14537
+         },
+         {
+            "name": "fighting",
+            "id": 14955
+         },
+         {
+            "name": "womanhood",
+            "id": 33372
+         },
+         {
+            "name": "endurance",
+            "id": 155395
+         },
+         {
+            "name": "woman vs woman fight",
+            "id": 157203
+         },
+         {
+            "name": "female empowerment",
+            "id": 191731
+         },
+         {
+            "name": "determination",
+            "id": 207999
+         },
+         {
+            "name": "strength training",
+            "id": 209384
+         },
+         {
+            "name": "abusive father",
+            "id": 212642
+         },
+         {
+            "name": "overcoming fears",
+            "id": 229447
+         },
+         {
+            "name": "woman empowerment",
+            "id": 234975
+         }
+      ],
+      "imdb_id": "tt5074352",
+      "video": false,
+      "title": "Dangal",
+      "recommendations": [
+         297222,
+         363343,
+         376812,
+         86004,
+         413543,
+         348892,
+         339274,
+         14163,
+         413646,
+         393445,
+         392572,
+         332835,
+         165904,
+         7508,
+         415358,
+         412090,
+         11807,
+         336211,
+         177358,
+         7913
+      ],
+      "backdrop_path": "/mFCEeEjRfU2WU9vv5ApXJLzKxy7.jpg",
+      "revenue": 310000000,
+      "reviews": [{
+         "author": "Svumpukkel85",
+         "id": "5a0b29c492514130ed01d7a2",
+         "content": "An inspiring feel-good true story about fighting for a dream that only you can see.\r\nMost importantly this movie dares to put up a fight fighting against old Indian traditions and female prejudice.\r\n\r\nTwo daughters overcome heavy obstacles to become world famous Indian wrestlers, with the support and motivation of their father and trainer.\r\n\r\nIt is a very colorful, well-made lighthearted entertainment. The acting is fine, and the characters are relatable. \r\n\r\nA drawback is that it is way too long for a one-night-movie, and should have been made into a mini-series. \r\n\r\nOverlooking the abuse-aspect:\r\nI think it is important to say that personally, I don't agree with most of the methods the father used to train, strengthen and harden his daughters, as a lot of actually was serious child abuse. Their mother also acts as the passive typical enabler. To make it worse, the movie dismisses and jokes about the psychological hurt on the daughters as if it didn't do any damage. In Europe, the father would have been jailed and the kids taken away by CPS.\r\nI think it is a big misunderstanding to glorify abusive behavior, but I guess Indians still have to learn that you can motivate your children without abusing them.",
+         "url": "https://www.themoviedb.org/review/5a0b29c492514130ed01d7a2"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Mahavir Singh Phogat",
+               "gender": 2,
+               "credit_id": "56001b60c3a3681337005861",
+               "name": "Aamir Khan",
+               "profile_path": "/jYohlUVkLPFdnDryZ8V1HZkJzDt.jpg",
+               "id": 52763,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Daya Kaur",
+               "gender": 0,
+               "credit_id": "57c80cc79251410f22002d45",
+               "name": "Sakshi Tanwar",
+               "profile_path": "/nb0vyB807UE9PAty9Hw479i1OKt.jpg",
+               "id": 1238200,
+               "order": 1
+            },
+            {
+               "cast_id": 37,
+               "character": "Babita Kumari",
+               "gender": 0,
+               "credit_id": "58a1d14ec3a3682869004f6f",
+               "name": "Sanya Malhotra",
+               "profile_path": "/9XN7Hp99BQ6yGCkXUrUxC4nh4Tt.jpg",
+               "id": 1756851,
+               "order": 3
+            },
+            {
+               "cast_id": 40,
+               "character": "Omkar",
+               "gender": 0,
+               "credit_id": "58a1da04c3a3683ecd0000cc",
+               "name": "Aparshakti Khurana",
+               "profile_path": "/5NOMwtvKDG3HsQkEPWEdbmf32bg.jpg",
+               "id": 1756890,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "",
+               "gender": 0,
+               "credit_id": "57c80d3bc3a3684603003230",
+               "name": "Vivan Bhatena",
+               "profile_path": "/eNEHyZH9OkOHByg3eEaQ74Ze6JC.jpg",
+               "id": 128704,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Coach Pramod Kadam",
+               "gender": 2,
+               "credit_id": "57c80d479251410f22002d88",
+               "name": "Girish Kulkarni",
+               "profile_path": "/rHqOxILkbnnrnhkmjRW6BzK1HBL.jpg",
+               "id": 587090,
+               "order": 6
+            },
+            {
+               "cast_id": 38,
+               "character": "Young Geeta",
+               "gender": 1,
+               "credit_id": "58a1d3e692514136700059d6",
+               "name": "Zaira Wasim",
+               "profile_path": "/6LCtmsCqmMsRh7raFFbw6CQ7FKU.jpg",
+               "id": 1756862,
+               "order": 7
+            },
+            {
+               "cast_id": 39,
+               "character": "Young Babita",
+               "gender": 0,
+               "credit_id": "58a1d3fac3a36827580052b5",
+               "name": "Suhani Bhatnagar",
+               "profile_path": "/2JTB8iTo7HYlViv5JfhbEhKM1Yh.jpg",
+               "id": 1756864,
+               "order": 8
+            },
+            {
+               "cast_id": 41,
+               "character": "Geeta Phogat",
+               "gender": 1,
+               "credit_id": "58b41f7892514177b401821f",
+               "name": "Fatima Sana Shaikh",
+               "profile_path": "/sBMPlLbNIdqKVID1FIQVrw1wssr.jpg",
+               "id": 1046204,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "5714ef3f92514146c80003ea",
+               "name": "Nitesh Tiwari",
+               "profile_path": null,
+               "id": 1042010,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c80de19251410f30002d7c",
+               "name": "Sethu Sriram",
+               "profile_path": null,
+               "id": 1314078,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c80deb9251410f30002d83",
+               "name": "Ballu Saluja",
+               "profile_path": null,
+               "id": 1022250,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd760c3a3681a6f01df17",
+               "name": "Nitesh Tiwari",
+               "profile_path": null,
+               "id": 1042010,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd76a92514115d301e4e8",
+               "name": "Piyush Gupta",
+               "profile_path": null,
+               "id": 1672939,
+               "department": "Writing",
+               "job": "Dialogue"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd77992514115c001e29d",
+               "name": "Shreyas Jain",
+               "profile_path": null,
+               "id": 1672940,
+               "department": "Writing",
+               "job": "Dialogue"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd86792514115ca01e98f",
+               "name": "Shajith Koyeri",
+               "profile_path": null,
+               "id": 1084817,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "585fd6ddc3a3681a72020a02",
+               "name": "Aamir Khan",
+               "profile_path": "/jYohlUVkLPFdnDryZ8V1HZkJzDt.jpg",
+               "id": 52763,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd6e8c3a3681a72020a0c",
+               "name": "Siddharth Roy Kapur",
+               "profile_path": null,
+               "id": 233068,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd6f492514115be01decb",
+               "name": "Kiran Rao",
+               "profile_path": "/sRawiFKYe4aErJb3EE4woSQG0MT.jpg",
+               "id": 130959,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd6ff92514115ca01e881",
+               "name": "Amrita Pandey",
+               "profile_path": null,
+               "id": 1727697,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd71bc3a3681a6802194a",
+               "name": "Alan McAlex",
+               "profile_path": null,
+               "id": 233069,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd726c3a3681a72020a35",
+               "name": "Navmeet Singh",
+               "profile_path": null,
+               "id": 1210709,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd73192514115c401f85e",
+               "name": "Vishesh Agrawal",
+               "profile_path": null,
+               "id": 1727699,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd73e92514115c701e9d8",
+               "name": "Nishith Dadhich",
+               "profile_path": null,
+               "id": 1414645,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd74bc3a3681a6b01e0ef",
+               "name": "Nikhil Mehrotra",
+               "profile_path": null,
+               "id": 1727700,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd855c3a3681a7d01c63c",
+               "name": "Pritam Chakraborty",
+               "profile_path": "/tQAsMlqsdTKUyI48wr6r5I5EZSO.jpg",
+               "id": 71273,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd87392514115cd01e087",
+               "name": "Laxmi Keluskar",
+               "profile_path": null,
+               "id": 1727701,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd881c3a3681a6501b8cf",
+               "name": "Sandeep Meher",
+               "profile_path": null,
+               "id": 1727702,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd88ac3a3681a6201f62d",
+               "name": "Maxima Basu",
+               "profile_path": null,
+               "id": 1727703,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd8a6c3a3681a68021aa4",
+               "name": "Jogendra Gupta",
+               "profile_path": null,
+               "id": 1727704,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd8b3c3a3681a72020b6f",
+               "name": "Vikram Gaikwad",
+               "profile_path": null,
+               "id": 1168529,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd8bfc3a3681a6201f65a",
+               "name": "Avan Contractor",
+               "profile_path": null,
+               "id": 1727705,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd8cac3a3681a72020b80",
+               "name": "Nanao Soyam",
+               "profile_path": null,
+               "id": 1727706,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd8d5c3a3681a72020b94",
+               "name": "Sham Kaushal",
+               "profile_path": null,
+               "id": 1208692,
+               "department": "Crew",
+               "job": "Stunts Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd8e5c3a3681a6b01e244",
+               "name": "Prasad Sutar",
+               "profile_path": null,
+               "id": 1727707,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585fd8f892514115be01e060",
+               "name": "Sandeep Mane",
+               "profile_path": null,
+               "id": 1705326,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 6.405271,
+      "production_countries": [{
+         "iso_3166_1": "IN",
+         "name": "India"
+      }],
+      "id": 360814,
+      "vote_count": 208,
+      "budget": 10400000,
+      "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+      "similar": [
+         70,
+         323677,
+         1375,
+         921,
+         319888,
+         1578,
+         12163,
+         1367,
+         1374,
+         45317,
+         39254,
+         227306,
+         8456,
+         5915,
+         396371,
+         369192,
+         293768,
+         43959,
+         274479,
+         1371
+      ],
+      "original_title": "दंगल",
+      "runtime": 161,
+      "poster_path": "/5PDT64gtbmH10gK5AYR7LZh5PQk.jpg",
+      "spoken_languages": [{
+         "name": "हिन्दी",
+         "iso_639_1": "hi"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Aamir Khan Productions",
+            "id": 2140,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+            "name": "Walt Disney Pictures",
+            "id": 2,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2016-12-23",
+      "vote_average": 8,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "India",
+      "color": "Color",
+      "budgetCurrency": "INR ",
+      "directors": ["Nitesh Tiwari"],
+      "runtime": 161,
+      "synopsis": "Spoiler text The story is said by the voice of Omkar (Young Omkar Ritvik Sahore / Elder Omkar Aparshakti Khurana) the nephew of Mahavir Singh Phogat. The movie plot is based on the True Story. The story revolves in a small village named Balali, District Bhiwani, Haryana State in India.The movie starts with Mahavir Singh Phogat (Aamir Khan) watching an Olympic game for Wrestling in his office. TV is broadcasting that India's role in wrestling is very poor. A new employee joined at the office Vivan Bhatena challenges Mahavir to wrestle and loses. Mahavir also works part time at a local wrestling ring (Akhaada) and he is very talented in terms of wrestling and it's technique. He couldn't took part in Olympics and win gold therefor he has hopes very high that his future son will win gold for country. His wife Daya Shobha (Sakshi Tanwar) supports him morally but they keep on having Girl child only back-to-back four times in a row. Being Geeta (Young Geeta Zaira Wasim / Elder Geeta Fatima Sana Shaikh), Babita (Young Babita Suhani Bhatnagar / Elder Babita Sanya Malhotra), Ritu and Sangita. Finally, Mahavir Singh loses all hope and he locks away all his wrestling equipment and medal in a trunk. After 13-14 years, one day a neighbor family having two son age 13-14 years comes at Mahavir's house to complain about their sons being beaten up by Geeta and Babita. Mahavir asks them how Geeta and Babita beat the two boys and the girls happily demonstrate on their cousin Omkar. Mahavir's eyes sparkle by that his daughters have a wrestler's blood and he tells his wife that a Gold medal is ultimately a Gold medal and it does not matter whether a boy wins it or a girl and that he has decided that both Geeta and Babita will now not touch any cooking utensil or do any household work but they will now become a wrestler and will win Gold medal for the country. Mahavir starts their training by being very tough coach, waking them up 5 A.M. everyday . He maintains their diet and restricts any street-food, spicy food of such and make them exercise. When Geeta and Babita complains about how their hair are ruined due to training in dirt - he calls a barber and cut their hairs off. And when he sees that they both are weak - he makes them non-vegetarian. Both sisters are very angry on Mahavir since he is being very cruel by making two girl child training as a wrestler. So they start doing little tricks to him by changing the alarm and eating spicy food whenever they can and not wrestling properly. But one day when they both attend a wedding of their 14-year old girl-friend named Sunita (child-marriage) and she tells them they both are very lucky that Mahavir is thinking about their career and life and not getting them married at such an early age unlike her family is doing. They realize their mistake and starts training real hard. When Geeta the elder sister is ready, Mahavir takes them to another village for wrestling. All the people oppose that they won't let a girl fight with a boy but due to lack of audience and as a means of earning more money the organizer agrees. Almost all village arrives to see a girl fighting and every one is positive that she will lose very badly. Geeta chooses the most strong boy among the competitors to wrestle. She fights real good as opposed to what villagers were thinking and as the fight continues every one in crowd starts cheering for Geeta. At end, even though she loses, she wins more prize money from sponsors then the boy. Due to the lose, Geeta is not able to sleep and asks his father when will the next wrestling fight be organized. All the people in village who were previously accusing and back-biting about Mahavir; starts cheering for Geeta and Babita and looks towards them with pride. Both the sisters soon become impossible-to-defeat and wins every next wrestling competition. At the National Level Wrestling Competition, Geeta wins and therefore has to shift at National Sports Academy Training Centre in Patiala, Punjab State for her further training. Mahavir is upset as she transfer at new place. The new Coach Pramod Kadam Girish Kulkarni has different training style and does not let Geeta use techniques of his Father. Geeta soon befriends with other girls and starts doing other things like shopping, having longer hair, nail polish and makeup, roaming around nights etc apart from her training. When she goes home after few months, she tries to teach her new style of wrestling to her sister Babita and other girls who have now joined Mahavir's Wrestling ring to learn. Seeing that Geeta is very firmly advocating her new methods, Mahavir challanges her but as he is old-age he loses. Since the fight happens very ferociously Babita tells Geeta that whatever happened is not good and Geeta is losing focus. Mahavir is also upset about the incident and thinks that he has lost her daughter. Geeta starts competing in International matches but she keeps match-after-match. At first she does not even care, but slowly she starts being afraid of her career. Meanwhile, Babita also wins National Championship and is moved on to same training centre as Geeta. When Geeta is despaired due to her continue failure, Babita tells her to make amends with father which Geeta does so while crying very much over phone. Mahavir forgives her. Geeta becomes her old-self by cutting her hair-down again. But she is told by the Coach to not compete in her regular 55-kg weight group but to lose weight and compete in 51-kg group. Listening to this, Mahavir shifts to Patiala near to NSA Training Centre so that he can help her compete for the same 55-kg group. He tells Geeta to do as her coach says during training session but both sisters and Mahavir starts doing separate sessions by their old routing of waking up at 5am. Coach notices that and complains to the authority to send both sisters back. Mahavir pleads to the authority of letting them stay but gets banned from NSA and girls are also banned to go out. So Mahavir starts training Geeta over phone by watching all her International competing games video recording and telling her at which moment she is doing what mistake. When Commonwealth Games 2010 is organized in New Delhi, India - Geeta takes part in her usual 55-kg group. Mahavir sits in audience and keeps on advising her against what her NSA coach tells her to do. Doing according to her father's advice she wins the first round and semi-finals as well and is qualified for Finals. In a press conference, the coach tries to take all credit but Geeta gives statement that it is all her father's hard-work. Due to this, the coach gets jealous and angry and to take revenge, before starting the Finals match, locks Mahavir in a room and thinks that let's see how she wins now without her father? Mahavir tries to get out of the room but all his efforts are in vain. The match starts and Geeta keeps remembering her father's advice. After very tough fight Geeta ultimately wins India's first gold medal in women's wrestling in the 55 kg freestyle category against Emily Bensted from Australia. When the ceremony of giving medal to participants is over and according to the rule, winning country's National Anthem is played - Mahavir who hears Indian National Anthem understood that her daughter has finally completed his dream. The room gets unlocked and he rushes towards arena. Geeta shows Mahavir the Gold Medal and for the first-time ever both girls and the nephew Omkar hear their father saying, \"Well-done!\".",
+      "writers": [
+         "Piyush Gupta",
+         "Shreyas Jain"
+      ],
+      "originalLanguage": "Hindi",
+      "imdbLink": "http://www.imdb.com/title/tt5074352/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "actors": [
+         "Aamir Khan",
+         "Sakshi Tanwar",
+         "Fatima Sana Shaikh"
+      ],
+      "reviews": [
+         "Aamir Khan shines in the role of Mahavir Singh Phogat. He is so outstanding in his performance that this could be considered as one of his best works ever. The opening scene of the film is just a glimpse of Phogat's passion for the sport \u2013 wrestling. The first half of Dangal works exactly like a skilled wrestler \u2013 invariably sure of its moves. The film's second half is all about victory. Mahavir's transformation from the once upset father of a baby girl to the most triumphant one to Geeta's string of losses before she finally wins a gold during Common Wealth Games to desi akhara being replaced by wrestling mat \u2013 every moment works in contrast to what you had watched earlier. But not even once does the film loses its focus. A word here about Mukesh Chhabra's casting: he has done a tremendous job of the casting. Nitesh Tiwari's direction is amazingly terrific. AmitabhBhattacharya's lyrics are great. Pritam's music is in terrific sync with the mood of the drama. 'Dangal dangal' is a very inspiring song and will soon become a rage. 'Dhaakad' and 'Haanikarak' are also very well-tuned. The 'Gilehariyaan' song has terrific charm of a different kind. Amitabh Bhattacharya's lyrics are great. The song writer may pick up some awards for his lyrics. Bosco- Caesar's choreography is very real. Pritam's background music deserves distinction marks. The actors who play the young Geeta and Babita (Zaira Wasim, Suhani Bhatnagar) do a competent job of maintaining the audiences attention. And both Shaikh and Malhotra carry it forward, especially when they spend a lot of the second half on the mat, learning how to lose, and, above all, to win. Since it encapsulates the historic win of the phogats who bought India glory so it is bound to inspire women. Dialogues are absolute gems. Without being overtly long, they are so effective that they invariably touch the heart before reaching the ears. On the whole, Dangal is not just a movie; it is an experience to be cherished. The film is destined to be one of the biggest blockbusters of Indian cinema.As it content oriented so The movie is both for the single screens as well as for the multiplexes and people of all age can watch.so this movie is a must watch. So I Rate it 10 stars out of 10 because I was thinking movie deserves it.I usually don't rate any movie 10 but This movie \"HatsOff\". Don't Expect a better story than this.Finest piece.Dangal hai yeh.",
+         "DANGAL is a masterpiece. A terrific film that stays in your heart and remains etched in your memory much after the screening has concluded. A brilliant film that restores your faith in Hindi cinema. Actually, it won't be erroneous to state that DANGAL is the finest film to come out of the Hindi film industry in a long, long time and mark my words, it will be remembered as a classic in times to come. It blends drama, emotions, sportsmanship and patriotism extraordinarily\u0085 the icing on the cake being Aamir Khan's towering act. This rich-in-merits film has a major advantage too -- the holidays ahead Christmas and New Year -- which will ensure a glorious run at the ticket counters. A must, must watch!",
+         "Umm where to start? First of Aamir sir has done it again. He really has a good taste in selecting movies. Not only the acting even the fighting scenes were quite real to me & reel Geeta and Babita were just too awesome. There is certain moments where you're gonna laugh out loud, get anger, get emotional and obviously feel proud the most that's what the movie brings out of itself. I hope this movie brings joy to all family and a chance to look at all daughter's of their's potential. Should you go for it? Hell yes Songs are smartly enough and pretty amazing. Ps. I wished the movie to be a bit longer.",
+         "I saw this with my family in a theatre. Awesome experience. This is why i love Aamir khan movies. Proud to be an Aamir khan fan. Aamir's acting, effort n most importantly his passion is what makes his cinema so damn unique. First thing Dangal has going for it is Aamir khan. First off the acting was amazing. Aamir khan gave arguably the best performance of his career playing Phogat. He is the best actor in bollywood. Period. He shocked me by his transformation. I myself being a gym trainer knows the effort which goes in such kinda transformation. Without Aamir I don't think this movie could have achieved what it has. Sakshi Tanwar gave a great performance as his wife. The daughters Fatima n Sanya gave lovely performances. The  child actors were good too. The music was good. The direction by Tiwari was the best of 2016. This movie was never boring and full credit shud go to the director. The cinematography gave you a feeling as if what you are watching is real. The village was captured well. Overall you don't have to like wrestling or know wrestling to appreciate this movie. Its a wonderful movie. The movie is written very well. Superb screenplay n crispy editing.",
+         "\"Direction was superb and Aamir's performance was excellent. A compelling narrative based on true story with a powerful message for women\" My rating- 4.5/5 (Movie of the year and don't miss this flick) Positives- 1.)Direction and screenplay- Direction and screenplay didn't bore us and we were glued to the seats as it was so engaging and entertaining. 2.)Aamir khan , Zaira (young Geeta), Fathima (geeta) , suhani (young babitha), sanya(babitha) and fathima (mother)- Everyone's performance was excellent. Amir's hardwork and dedication for this role can be seen through his performance. He once again proved to be Mr perfectionist. All girls who acted as daughters were very good and they portrayed their roles without any problems. 3.)Songs and bg score- Special mention for title song. Title song was great and suited the movie well. Hats off to Pritam and he once again proved that he is the best music director of bollywood. 4.) Cinematography and edits- Cinematographer captured wrestling scenes very well and edits of certain scenes were good. 5.)Strong message for women Negatives- (NO NEGATIVES) Is it a must watch? Yes!!! and watch it in theaters to get the feel. Overall- This is the best Christmas treat for everyone from dangal team. This has Aamir Khan's best performance till date. And the major one is that it has strong message for women. Yes its a must watch movie and don't miss this flick!! My rating- 4.5/5 (Movie of the year and don't miss this movie) For more reviews go to- ridinbal movie reviews. Ridin bal movie reviews has all language movie reviews(Malayalam,English,Telugu,Kannada,Tamil,Arabic,Hindi,Iranian)",
+         "Excellent movie. Stellar performance by Aamir Khan. Movie of the year. The girls - kids and the grown ups portrayed their role very well. Special mention should be given to Nitesh Tiwari - the director. Music by Pritam is good. The cinematography is nice. The story telling is superb. Overall very nice movie. Watch this movie for Aamir Khan. Hands down to Aamir. His role as Mahavir Singh Phogat will be marked as one of his best. This film will come as one of the best sports films based on the life of coach after Chak De and Iqbal. I strongly recommend this film. Wish other actors think like how Aamir Khan thinks. He is brilliant actor. That makes him special and perfectionist. My rating 10/10.",
+         "Just came home after watching the premier show. It really is a masterpiece! A compelling narrative based on a true story. Add stellar acting performances and humor. Pour in cinematography, location, songs & meaningful lyrics. Voila! Everything amazingly fits together in a single string. Truly clean entertainment. In all sense of the word. Worth watching with family. A good movie should entertain. A great movie must connect. And connect, it did. I could almost feel as if I were there, throughout. The plot development is deep, and engaging. Did I mention the child actors, especially the one portraying Geeta? Outstanding performance by all. In a nutshell, my time & resources spent were fully worth. And Aamir Khan! Boy, he never disappoints. =)",
+         "Director Mr. Nitesh Tiwari work is so brilliant that after few minutes, you just forget that you are watching film. You simply start witnessing the journey of Phogat's family. Makers are so confident that they have even given credit for story idea to Divya Rao, which reflects their honesty. She is not in writing team but gets her due credit. There are four writers, Director himself, Piyush Gupta, Shreyas Jain and Nikhil Mehrotra and their work is fantastic. Screenplay is seamless and very balanced with much needed freshness. Film starts with glimpse of Mahavir Singh Phogat's passion for wrestling, while watching and challenging another district level arrogant winner, while commentary comes over on them which is fresh. When that person gets defeated he says 'Tumne district level pehlawan ko haraya hai' Then Mahavir Singh replies ' Tension mat le, tum national level champion se hare ho'. Words may be a bit different but meaning was same. Which gives strong idea that what level of dialogues you are going to listen and they have maintained the graph. Dialogues just nourish your senses, inducing correct emotions. A simple scene where protagonist massages feet of his sleeping daughter, clearly reflects that he is just not a ruthless coach but a caring father too. Girls curse their father in front of their friend who is getting married, then that girl emotional words about her feeling towards their caring father is very cute, emotional and enough to make girls realize that what they are taking for granted. Best part of this film is it's continues ascending graph in every aspect. First half is cute, funny with subtle dose of emotions. Second half takes this graph to the horizon. Full of emotions, either it is of defeat, victory or relations. Another major plus point is the way they have shown wrestling. I dint know a bit of it but I enjoyed all wrestling matches like it was my favorite game and that is major chunk of film. Hats off to the team behind wresting choreography .Though you have basic idea of film happenings but still they kept you engrossed by presentation. Climax comes with a very strong message that one can train you but only you have to implement the techniques, which makes you true winner and enriches self confident. Performance makes you thunderstruck. Words can not justify or compliment, Amir Khan's performance as Mahavir Singh Phogat. Zaira Waseem as younger Geeta is brilliant. She is so good that when Fatima Sana Sheikh takes over as grown up Geeta, you miss younger one but soon Fatima proves that she has taken the graph far ahead. Same happens with younger Babita played by Suhani Bhatnagar and grown up by Sanya Malhotra. Skashi Tanwar as wife of Mahavir Singh is very good. Girish Kulkarni , who had played coach is superb, you do hate his character but love his performance. Actor, who played younger cousin of Geeta and even grown up one, both actors are cute and endearing. Kudos to casting director Mukesh Chhabra and team. Music by Pritam and lyrics by Amitabh Bhattacharya, are integral part of this film. Without any formulated track you just enjoy every song and your eyes get mois in one too.",
+         "Story: 9/10 A Very True inspiring story of former wrestler champion Mahavir Singh Phogat whose dream is to win a gold medal for India in wrestling. But he fails to achieve that, then He avow that his son will do it. However, he got disappointed when his wife gives birth to four daughters. Music: 9/10 Amazing, Very touching background. Greatly Synced Title track will give you goosebumps Direction: 9/10 Nitesh Tiwari achieved what he wanted, Got a new name, One of the best directors of Bollywood. Acting: Aamir Khan: 10/10 This time as a father, He will amaze you in every scene. His acting skills are deeply great. Whenever I watch Aamir's movies, I feel his acting. He loves acting and entertaining the world since He came to the Film Industry. Fatima Sana Shaikh: 9/10 Sometimes I still watch Chachi 420, because I love Kamal Hassan. And Fatima Sana Shaikh was the little girl in Chachi 420. Seriously I have seen her after Chachi 420. And after Dangal she will go so far. Aamir Khan and the two lead actress are the best cast roles in a long time, but overall cast done an amazing job. Dangal is humorous and Inspirational Journey.",
+         "Mahavir Singh Phogat teaches his two daughters to be international wrestling players of India! This is a simple and impressive story. And they finally defeat UK on the wrestling match. I think this is India's 'Yip Man'! This kind of nationalism is healthy and is beneficial to all audiences without background considerations. The film length is also accurate. Growing courses of protagonists need 160 minutes. And emotional responses to their tragic mistakes are well described by the talented actors in detail. Audiences can fully engage in this film. A lot of Asian audiences have bias against Indian films that their films are just dances and songs for two hours or more, however there is the perfect construction of story with minimalist use of songs and musics. This quality is higher than any Japanese films of today! Indian filmmakers should keep this high quality of film content! It is competitive to Hollywood films. Thank you! 10 out of 10!",
+         "Mahavir Singh Phogat is a former champion wrestler. He is married to Shobha Kaur. Phogat's dream is to win a gold medal for India in wrestling. He is unable to do this. He promises that his son will do what he couldn't do. However, although he loves them dearly, Phogat is disappointed when Shobha gives birth to four daughters. He does not believe girls can wrestle well. However, when two of his daughters, Geeta and Babita, come home after beating up two boys, Phogat realises how wrong he has been and begins to train his daughters in wrestling. The film is the story of how Phogat trained his daughters to become professional wrestlers.",
+         "It's conceivable that a wrestling movie might have you on the edge of your seat, but who'd have thought it would bring tears to your eyes. Dangal does both in large doses. Right from the opening scenes through to the awesome climax, this is one movie that will keep you glued to the screen. I can't remember the last 3 hour movie (nearly) where absolutely nobody took a toilet break apart from in the intermission. Everything about the movie is superb from the cinematography through to the script writing. The movie is superbly directed and there are so many stellar acting performances that it would be unfair to single anyone out. One thing about sports movies is that the action can often seem staged, but the fight sequences in this movie are superbly done and brilliantly filmed. Everyone knows an AK movie is going to be great, and this definitely doesn't disappoint. A must watch.",
+         "I got the privilege to watch this film earlier than the India release as I happen to live in North America. Thank you Disney! Now, what to say about 'Dangal'? It's not a typical Bollywood film, yet it is easily the best Bollywood film ever, even in terms of every, so called, Bollywood masala trick. The incredible storytelling, based on true events, every small detailing, amazing cast, the message it had without being preachy or pretentious but still powerful-there was not one single boring moment in the movie-well, probably one, if you are too picky!,though it is nearly three hours! Kudos to the director! And what to say about Aamir khan? Though he did not have any dramatic moment in the movie (those belong to the girls, who were fabulous by the way), he is not the charming usual boy next door, sexy or cheeky person(the traits which are generally associated with Aamir Khan); rather he is a brute, has a tummy for the majority length of the movie-yet you will not be able to keep him off your mind, even after the movie ends, and easily the best Aamir khan performance ever (and yes, I have seen every Aamir khan film, each a million time).",
+         "This is a MUST WATCH film. Deeply entertaining, Dangal manages to do what few other Bollywood movies have ever accomplished: move and inspire the audience. A beautiful true story with themes of family legacy, gender dynamics and expectations, courage, and the state of Indian sports - all of which are seamlessly sewn together in a film that, though almost 3 hours long, keeps you glued to your seat from beginning to end. Aamir Khan is excellent, but Dangal's highest triumph lies in the power and grit of the young actresses portraying Geeta and Babita, as well as their older counterparts (especially Fatima Sana Shaikh, who steals the show with her raw beauty and strength). The wrestling scenes are realistic and flawless, containing some of the best editing I've ever seen in a sports film.",
+         "Aamir Khan proves again why he is a perfectionist! After watching Salman Khan's Sultan and getting disappointed, I was very cautious in going to a similar themed movie again. However, after watching the trailer and songs on TV I went ahead and booked the tickets to watch on the 2nd day of release. I am so glad I watched this movie. A complete entertainer and absolutely wonderful acting by all the main characters. I have a new found respect for all the athletes out there who work really hard to achieve their dreams/ goals. Absolutely must watch for all movie lovers. It can be enjoyed by everyone irrespective of their age. Kudos to the entire team - director, actors, musician, singers etc. for delivering an outstanding movie.",
+         "Amir Khan a person always amazes everyone,recently he is working for movies with a good moral lesson and a worthy base.That kind of movie is a \"movie\". Dangal is a good example it has a classic taste and digestible fun which peels off the people eyes. It is a true story full of suspense and when you're watching a fight you feel like you are wrestling in between this kind of quality is difficult to be produced and Amir is good at it. The reason for giving 9 stars is because of its ending I think it should be made better by showing scene like he is putting that medal at the wall of Honor. Anyways keep it up I was expecting this a thing from you. Love you :)",
+         "When going for a movie its customary to check the run time. If its more than 2 hours, it is expected to have some intimate moments with your mobile, during the movie. that's the kind of quality we have in movies these days. There is only one moment during the 161 min run time of this movie, when you take out your mobile from your pocket to check your messages & missed calls, that is the interval.and most likely you will do that with blurry eyes. There are good movies, there are excellent movies and then there are movies that leave you speechless. you don't know what part of movie to praise.Every element is so perfectly woven together. This movie is an encounter of the third kind. No matter what kind of movie goer you are, you will love it.",
+         "This movie proves that India is not yet ready for an honest biopic film. Although the film excelled in every other aspects such as acting, cinematography, special effects, music; especially MUSIC, But it couldn't capture the real aspect of the story of the wrestlers daughter and her sisters. We never get to know her enthusiasm towards wrestling. Was it her relationship with her father who imposed his dream of winning a gold on her? or her duty towards her nation to win it? or was it her own desire to never give up or lose to a competitive opposition to satisfy her own ego? This film was heavily clichéd just for the purpose of entertaining the masses and clearly may have aggravated many characters who are related to this story. TOO much HYPE may have given this movie the attention that it pursued, and why not? this is business after all. Much disappointed with the makers of the film for adulterating such an awesome script which may have had made everybody proud. Current IMDb score :9.2 with over 13k users. Where have we gone wrong? Final verdict: Its a good watch, but one wouldn't rate this movie 9/10 unless he/she had any personal attachment towards the film. it has good social message/dialogues. An 8 would be too generous, hence I would rate it 6 or 7 out of 10.",
+         "What a staunch paunch and what a strong punch!?!? That's what Dangal is. Simple, true, gritty, raw, real and determined. Before coming to the name under whose name the film opens, let's first salute the actual person on who this is based on. Hats off Mr Phogat for being such an awesome person and father. Someone who saw the germ of gems within the girl child and didn't live in the fiefdom of monomania The portrayals by each character that adorned the screen were meaningful and said it all. Even the eye movements and glances from Sakshi Tanwar replaced the unwarranted dialogue that would have taken its place. All four girls depicting geeta and babita in both age brackets have done a tremendous job considering that they were untrained and this is not just one chick flick wherein just emotions would help them carry off a portrayal. This required both the mental as well as the physical strength and stamina and very importantly perseverance. In the earlier years Zaira took the cake, ate it as well as relished it in her depiction. We have all by now seen KWK and heard the story of how Fatima and Sanya hid their injuries to be a part of the project and not be replaced. That's good learning in the art of method acting and what a good tutelage they have had. They are truly blessed to have a mentor in the form of the one and only Amir Khan. And what do you say about him - Maestro's best performance yet. It's truly worth the wait for an Amir film as when he comes he ensures that you are witness to the best that the world has to offer. He has taken the form of acting to a different level. The kusti between him and his daughter were specially telling. It spoke reams of each of their insecurities, their wants and aspirations. They say a picture says a thousand words, well this one just spoke an omnibus.",
+         "What it would have felt to light up the fire for the first time ... what it would have felt to each individual who chose to break the stereotype. How it would have felt to fight against the stereotype and launch Geeta and Babita into the wrestling arena that too in Haryana. The journey of a dream, the journey of an aspiration journey of a father and journey of two brave girls from the small village of Haryana to become the IKON of Indian National women wrestling. If you are movie goer like me, it is high time that you go line up in a theater near you and watch #DANGAL. Now a day amidst nudity, cheapness and useless love stories very rare to see people clap for a movie, that too in the US it is never easy to get the audience to clap. You will be thrilled to take the journey with Amir as a father. you will be on the edge of your seat for many scenes. you will come out of the theater inspired. Amir thanks for #Dangal, irrespective of insensitive remarks against India I opt to pay for your movie and really thankful that I did watch your tribute to Geeta, Babita, and Mahavir Singh Phogat.",
+         "I watched the movie on Day 1 Amazing Movie Superb Acting by My Perfectionist Amer Khan Dialogue Delivery Script Direction Acting by the Girls is just amazing. Best Movie of the Year.From the beginning and till the end of the Movie I was on the Edge of my seat. Funny moments and the dialogue timings are just perfect which makes you laugh louder the whole audience was laughing. And the Emotional moments were just perfect. Beautifully written Lines and perfectly acted by the girls. You will fall in love with the movie. It's a perfect New Year and Christmas Gift for the audience. The Whole family should go to watch the movie of the Year.",
+         "Nitesh Tiwari's Dangal is highly gripping and transitions smoothly from being a sports drama to an emotional one. The inspiring tale of Mahavir and his daughters is narrated in such a way that you laugh, cry and at some point even make sure you root for these characters right till the end.The father-daughter relationships between Geeta and Mahavir and Babita and Mahavir are explored extremely well emotionally. Also, how situations change the ties between the two sisters has been tapped into well.DANGAL is a flawless piece of work -- it's captivating, unpredictable, spellbinding, entertaining and never overstays its welcome. I rate 5/5 for 'Dangal' and Aamir's best performance since Lagaan.",
+         "Just came home after watching the movie. It really is a masterpiece! A compelling narrative based on a true story. Add stellar acting performances and humor. Pour in cinematography, location, songs & meaningful lyrics. Voila! Everything amazingly fits together in a single string. Truly clean entertainment. In all sense of the word. Worth watching with family. A good movie should entertain. A great movie must connect. And connect, it did. I could almost feel as if I were there, throughout. The plot development is deep, and engaging. Outstanding performance by all. And Aamir Khan! Boy, he never disappoints! 10/10",
+         "I normally don't write reviews but this movie is so good that I felt its my responsibility to spread the word. I too feel this movie should be made tax free so more n more people are able to see it. As we know its a true story which makes it truly special. Its true that truth is stranger than fiction and lot more inspiring as well. But a good story means nothing if its not directed well... director being captain of the ship is the main force behind a good movie. We have often seen good movies being made with lesser known actors which is precisely the case with this movie bar Aamir Khan. He's really a perfectionist there's no doubt about that but this movie has a lot to offer than its Main Star. Special Mention for the young Kashmiri Zaira Wasim who played the younger Geeta... She's the second best reason of watching this movie... she's a revelation can't believe its her first time on screen. She's nailed the role and has outperformed Fatima Sana Shaikh who plays the elder Geeta. Ritwik Sahore is another talent right up there with Zaira. He's hilarious every time he comes on the screen. his expression alone can crack you up. Young Babita played by Sohani Bhatanagar is also excellent she has a light humorous character while elder Babita played by Sanya Malhotra is heavy and she's done impeccable job she's a great actor and has performed better than her co star n BFF Fatima Sana Shaikh. Another actor worth a special mention is Aparshakti Khurana brother of Ayushman Khurana. He's hilarious and resembles his brother. I find he's a natural actor and lot better than Ayushman who's never in character and is pretentious. Aamir's wife played by Sakshi Tanwar has done good job but I feel she had a small role also her n Aamir had no chemistry though. but the movie is not about them. All other characters in the movie like Girish Kulkarni who plays the coach or Badrul Islam who plays the Chicken seller have done fantastic with whatever time they had on screen. Movie might be exaggerated at times to give it more depth and emotions it seems but overall its been adapted really really well. It mostly touches on women empowerment but its the element of father daughter relationship that touched the cords the most. Father may seem MCP to most of the feminine brigade of the time as he's tough with the gals but that is the reason why his daughters both won gold for India. sometime this activists lack the vision and don't see the bigger picture. We don't have to say much about Aamir do we? Finest Actor of India I call him the India Tom Hanks intact I like him even better. He's effortless with his Haryanvi accent. Provides lot of laughs initially and makes you easily cry around the post interval story line... One of his best work till date. Movie is lot superior than his earlier super hits be it 3 idiots or PK or Lagaan. Please do yourself a favour go watch this movie near you... RUN"
+      ],
+      "genres": [
+         "Action",
+         "Biography",
+         "Drama",
+         "Sport"
+      ],
+      "productionCompanies": [
+         "Aamir Khan Productions",
+         "Walt Disney Pictures"
+      ],
+      "summaries": [
+         "Biopic of Mahavir Singh Phogat, who taught wrestling to his daughters Babita Kumari and Geeta Phogat. Geeta Phogat was India's first female wrestler to win at the 2010 Commonwealth Games, where she won the gold medal (55 kg) while her sister Babita Kumari won the silver (51 kg).",
+         "Dangal is a biography of a real life patriotic fighter Mahavir Singh Phogat who raises his daughters and evolves them into World Class Fighters. The movie begins with a crochy brawl between Mahavir (Aamir Khan) and his colleague who was also former wrestler, thus embalming the terrific Dangal Theme, discovering Mahavir's past life of a Wrestler. Mahavir admires to make his dreams come true by his sons but on contrary, four daughters take birth. They come with a complaint of beating down a boy in their locality. Hence Mahavir hopes they would be future Wrestlers. So he trains his daughters Gita and Babita, thus proving they're no less than a professional male wrestler. After a long struggle, Gita enters the National level Wrestling and acquires victory. When she is up to the Internationals, she opts to get trained from the NSA(National Sports Academy) where a coach mis-trains Gita, due to which she deliberately fails every match she attempts. Her sister Babita also attains an age to get into Wresting. Now, Mahavir plans to train both by his own norms. Finally, Gita defeats an Australian Wrestler by following the predominant path of her father, not of the coach. The movie is par excellent, enridges Women Empowerment in the Nation. Aamir Khan once again proves to be a Living Gem in the History of Indian Cinema. For more reviews follow @ramsay_cullen.di.caprio on Instagram",
+         "Mahavir Singh Phogat is a former wrestling champion had to quit the sport due to his family pressure as it was not helping his family financially.He only dreams that his son should win Gold Medal for India in wrestling but back to back he has four daughter's.Mahavir feels his dream cant be complete and starts staying away from the sport,while his daughter Geeta and Babita are growing the notices that they have quality of being wrestlers and starts training them,Geeta and Babita have to get a hard training and start to dislike their father for this but they realize that their father is doing this for their betterment and take the sport seriously.Geeta soon becomes a a known wrestler in the state and wins Junior International.Geeta further has to Patiala for further training to participate in common wealth games where she has a new coach Pramod Kadam.Meanwhile Babita makes her name at Junior level.Geeta believes her coach's training is better than her father which makes Mahavir very depressed.",
+         "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression."
+      ],
+      "budget": 700000000
+   },
+   "movielensId": 167392,
+   "movielens": {
+      "languages": ["हिन्दी"],
+      "releaseDate": "2016-12-23",
+      "dvdReleaseDate": null,
+      "directors": ["Nitesh Tiwari"],
+      "runtime": 161,
+      "movieId": 167392,
+      "title": "Dangal",
+      "mpaa": null,
+      "actors": [
+         "Aamir Khan",
+         "Sakshi Tanwar",
+         "Sanya Malhotra",
+         "Aparshakti Khurana",
+         "Vivan Bhatena",
+         "Girish Kulkarni",
+         "Zaira Wasim",
+         "Suhani Bhatnagar",
+         "Fatima Sana Shaikh"
+      ],
+      "imdbMovieId": "5074352",
+      "originalTitle": "दंगल",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": ["x_7YlGv9u1g"],
+      "plotSummary": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+      "tmdbMovieId": 360814,
+      "avgRating": 4.0511,
+      "releaseYear": "2016",
+      "numRatings": 137,
+      "posterPath": "/5PDT64gtbmH10gK5AYR7LZh5PQk.jpg"
+   }
+}

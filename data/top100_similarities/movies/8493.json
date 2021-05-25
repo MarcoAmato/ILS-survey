@@ -1,0 +1,710 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "world war ii",
+            "id": 1956
+         },
+         {
+            "name": "bomber",
+            "id": 2532
+         },
+         {
+            "name": "danger of life",
+            "id": 3883
+         },
+         {
+            "name": "mission",
+            "id": 10364
+         },
+         {
+            "name": "soldier",
+            "id": 13065
+         }
+      ],
+      "imdb_id": "tt0100133",
+      "video": false,
+      "title": "Memphis Belle",
+      "recommendations": [
+         9080,
+         10652,
+         9967,
+         11372,
+         9545,
+         10859,
+         17339,
+         28176,
+         11037,
+         19382,
+         12647,
+         9869,
+         27418,
+         11422,
+         14911,
+         6341,
+         11310,
+         11856,
+         5902,
+         1727
+      ],
+      "backdrop_path": "/2a9Zt5H72xNsogJLLiBLA7ulofM.jpg",
+      "revenue": 0,
+      "reviews": [{
+         "author": "John Chard",
+         "id": "5471ef77c3a3681be5000802",
+         "content": "Hip hip, hooray...\r\n\r\nWorld War II and as the battle for the skies rages, the youthful crew of B-17 Bomber Memphis Belle embark on their 25th and final mission...\r\n\r\nDavid Puttnam co-produces with Catherine Wyler and Michael Caton-Jones directs this poignant and gripping WWII story. The crew of \"Belle\" are made up of a youth inflected cast of actors headed by the likes of Eric Stoltz, Sean Astin, Billy Zane and Matthew Modine, while John Lithgow and David Strathairn provide the mature acting weight on the ground hoping that the boys come back safely.\r\n\r\nIn truth it's all a bit too predictable, but never insultingly so, though research into the real exploits of the brave heroes involved reveals that Hollywood has, well, been Hollywood. Tech credits are a mixture of the brilliant and the poor, but when it involves the aerial sequences the film is stunning, and the makers do a sterling job of making \"Belle's\" final flight suspenseful and emotionally potent. 6.5/10",
+         "url": "https://www.themoviedb.org/review/5471ef77c3a3681be5000802"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Capt. Dennis Dearborn",
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a4dd",
+               "name": "Matthew Modine",
+               "profile_path": "/tEQG1Us5IuoKYtufZe6waWtxfeg.jpg",
+               "id": 8654,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Sgt. Danny \"Danny Boy\" Daly",
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a4e1",
+               "name": "Eric Stoltz",
+               "profile_path": "/fXaULtqnMDKsqT1to8vnLjSXe0w.jpg",
+               "id": 7036,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "1st Lt. Luke Sinclair",
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a4e5",
+               "name": "Tate Donovan",
+               "profile_path": "/ioIZ55gaw9u7NIwmHYqIIIT7ksw.jpg",
+               "id": 15455,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Lt. Phil Lowenthal",
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a4e9",
+               "name": "D. B. Sweeney",
+               "profile_path": "/2qkjuNojR8ilj2xDrd48xxkSwiM.jpg",
+               "id": 61962,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Lt. Val \"Valentine\" Kozlowski",
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a4ed",
+               "name": "Billy Zane",
+               "profile_path": "/lkwvmo7vVL8TpMCDLRoHjZIkJQ4.jpg",
+               "id": 1954,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Sgt. Richard \"Rascal\" Moore",
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a4f1",
+               "name": "Sean Astin",
+               "profile_path": "/m40tSOPKJScFY7acY0hEWtE1ncR.jpg",
+               "id": 1328,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Sgt. Clay Busby",
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a4f5",
+               "name": "Harry Connick Jr.",
+               "profile_path": "/zdIXPJyfpje8BGBjNQAe73CzSTx.jpg",
+               "id": 18688,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Sergeant",
+               "gender": 0,
+               "credit_id": "52fe450f9251416c7504a523",
+               "name": "Bradley Lavelle",
+               "profile_path": "/o6TyiPASzAAVLmJB9CgT2DceZ0v.jpg",
+               "id": 25530,
+               "order": 7
+            },
+            {
+               "cast_id": 42,
+               "character": "Sgt. Virgil Hoogesteger",
+               "gender": 2,
+               "credit_id": "53c7c81ec3a3686247003b4e",
+               "name": "Reed Diamond",
+               "profile_path": "/mASm3pG5IzLMQlORD8v7vb8oEly.jpg",
+               "id": 31508,
+               "order": 8
+            },
+            {
+               "cast_id": 43,
+               "character": "Sgt. Eugene McVey",
+               "gender": 2,
+               "credit_id": "53c7c887c3a3686260003ac1",
+               "name": "Courtney Gains",
+               "profile_path": "/7u8dTzgr4ODfpKwdYoUlTwptoCq.jpg",
+               "id": 18708,
+               "order": 9
+            },
+            {
+               "cast_id": 44,
+               "character": "Sgt. Jack Bocci",
+               "gender": 2,
+               "credit_id": "53c7c8a2c3a3686260003ac7",
+               "name": "Neil Giuntoli",
+               "profile_path": "/rfZpmKHhsgQkCL1TjOfBGptcQj4.jpg",
+               "id": 168323,
+               "order": 10
+            },
+            {
+               "cast_id": 45,
+               "character": "Col. Craig Harriman",
+               "gender": 2,
+               "credit_id": "53c7c8c6c3a368624b003969",
+               "name": "David Strathairn",
+               "profile_path": "/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg",
+               "id": 11064,
+               "order": 11
+            },
+            {
+               "cast_id": 46,
+               "character": "Lt.Col. Bruce Derringer",
+               "gender": 2,
+               "credit_id": "53c7c8eac3a3686255003b35",
+               "name": "John Lithgow",
+               "profile_path": "/uquz3dZ0fs0lAK57lCXwxaslVkb.jpg",
+               "id": 12074,
+               "order": 12
+            },
+            {
+               "cast_id": 47,
+               "character": "Faith",
+               "gender": 1,
+               "credit_id": "53c7c90fc3a3686255003b3e",
+               "name": "Jane Horrocks",
+               "profile_path": "/1Uru2m9LC2ptTa67bEIh1TEgl6r.jpg",
+               "id": 34902,
+               "order": 13
+            },
+            {
+               "cast_id": 48,
+               "character": "Stan the Rookie",
+               "gender": 2,
+               "credit_id": "53c7c94bc3a368626c003b3a",
+               "name": "Steven Mackintosh",
+               "profile_path": "/3TQVLNfMiiBAcoaCbmWckxXqagN.jpg",
+               "id": 978,
+               "order": 14
+            },
+            {
+               "cast_id": 50,
+               "character": "Footballer",
+               "gender": 2,
+               "credit_id": "5a0a2784c3a36821380093f9",
+               "name": "Martin McDougall",
+               "profile_path": "/w8MaALgeRVDuqkZh7gEpgrYTiLC.jpg",
+               "id": 36901,
+               "order": 15
+            },
+            {
+               "cast_id": 51,
+               "character": "Farm Girl/Jitterbugger",
+               "gender": 1,
+               "credit_id": "5aa7e02ac3a36839d101ffaf",
+               "name": "Morag Siller",
+               "profile_path": null,
+               "id": 1229175,
+               "order": 16
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a4fb",
+               "name": "Michael Caton-Jones",
+               "profile_path": "/oKzuAA9S6VAb0qkmD9v8Z30jGSf.jpg",
+               "id": 30365,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe450f9251416c7504a501",
+               "name": "Monte Merrick",
+               "profile_path": null,
+               "id": 15673,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a507",
+               "name": "David Puttnam",
+               "profile_path": null,
+               "id": 8967,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe450f9251416c7504a50d",
+               "name": "Catherine Wyler",
+               "profile_path": null,
+               "id": 73262,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a513",
+               "name": "George Fenton",
+               "profile_path": "/23V03rGdkvNgeiBwLodJzNKdhJC.jpg",
+               "id": 1528,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a519",
+               "name": "David Watkin",
+               "profile_path": null,
+               "id": 10639,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe450f9251416c7504a51f",
+               "name": "Jim Clark",
+               "profile_path": "/zT60qm2WTMUzPU0qhsGhUfgguUs.jpg",
+               "id": 8970,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5353e370c3a3681d98004208",
+               "name": "Marion Dougherty",
+               "profile_path": "/vHUj1WzotNrj9PTT6wJ1yhhULbD.jpg",
+               "id": 3806,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5353e388c3a3681d810042b3",
+               "name": "Juliet Taylor",
+               "profile_path": null,
+               "id": 1046,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5353e39cc3a3681d87004404",
+               "name": "Jane Robinson",
+               "profile_path": null,
+               "id": 1144738,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53c7c37f0e0a267fea0043d7",
+               "name": "Stuart Craig",
+               "profile_path": "/iI9F5WDkTrkxMHlAdq9XVXkfP3i.jpg",
+               "id": 5491,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53c7c3df0e0a267fed00442e",
+               "name": "John King",
+               "profile_path": null,
+               "id": 34513,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53c7c3f50e0a267fed004435",
+               "name": "Alan Tomkins",
+               "profile_path": null,
+               "id": 10880,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c4120e0a267ff4004557",
+               "name": "Ian Giladjian",
+               "profile_path": null,
+               "id": 1342588,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c4380e0a267fea0043e5",
+               "name": "Joan Hills",
+               "profile_path": null,
+               "id": 1202174,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c4950e0a267ffe004556",
+               "name": "Peter Hancock",
+               "profile_path": null,
+               "id": 1342589,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c4e80e0a267fea0043f9",
+               "name": "Bill Welch",
+               "profile_path": null,
+               "id": 1342591,
+               "department": "Art",
+               "job": "Construction Foreman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c50e0e0a267ff10041de",
+               "name": "Brian Bishop",
+               "profile_path": null,
+               "id": 1342592,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c5270e0a267fe5004628",
+               "name": "Doug Bishop",
+               "profile_path": null,
+               "id": 1342593,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c5390e0a267ffb00447b",
+               "name": "Cloe Chloerty",
+               "profile_path": null,
+               "id": 1342594,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c5690e0a267ff10041f1",
+               "name": "Paul Cridlin",
+               "profile_path": null,
+               "id": 1342595,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c57e0e0a267fea004411",
+               "name": "Michael Crouch",
+               "profile_path": null,
+               "id": 1342596,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53c7c5af0e0a267ff4004586",
+               "name": "Martin Evans",
+               "profile_path": null,
+               "id": 27135,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c5dc0e0a267ffb00448f",
+               "name": "Ian Fuller",
+               "profile_path": null,
+               "id": 1342598,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c6000e0a267fed004468",
+               "name": "Mark Holding",
+               "profile_path": null,
+               "id": 472,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c67a0e0a267fed004475",
+               "name": "Bob Hollow",
+               "profile_path": null,
+               "id": 1342600,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c6c90e0a267fea004432",
+               "name": "Nicholas Brooks",
+               "profile_path": null,
+               "id": 1342601,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c713c3a3686247003b32",
+               "name": "Barbara Back",
+               "profile_path": null,
+               "id": 1342603,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c76bc3a3686255003b12",
+               "name": "Allan James",
+               "profile_path": null,
+               "id": 1342604,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c790c3a368624b003937",
+               "name": "David Toguri",
+               "profile_path": null,
+               "id": 1342605,
+               "department": "Crew",
+               "job": "Choreographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53c7c7a3c3a368626c003b06",
+               "name": "Angela Wharton",
+               "profile_path": null,
+               "id": 1342606,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570b6c5a925141524800106f",
+               "name": "Norman Dorme",
+               "profile_path": null,
+               "id": 12810,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "War",
+            "id": 10752
+         },
+         {
+            "name": "Action",
+            "id": 28
+         }
+      ],
+      "popularity": 8.267571,
+      "production_countries": [
+         {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 12651,
+      "vote_count": 137,
+      "budget": 23000000,
+      "overview": "The \"Memphis Belle\" is a World War II bomber, piloted by a young crew on dangerous bombing raids into Europe. The crew only have to make one more bombing raid before they have finished their duty and can go home. In the briefing before their last flight, the crew discover that the target for the day is Dresden, a heavily-defended city that invariably causes many Allied casualties",
+      "similar": [
+         228150,
+         369885,
+         1654,
+         1771,
+         424,
+         14574,
+         289,
+         637,
+         324786,
+         374720,
+         10105,
+         746,
+         821,
+         853,
+         1369,
+         22972,
+         4421,
+         5925,
+         423,
+         857
+      ],
+      "original_title": "Memphis Belle",
+      "runtime": 107,
+      "poster_path": "/epsraI4swsSu9Fyefj7vPPhsOHK.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "County Natwest Ventures",
+            "id": 89600,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Enigma Productions",
+            "id": 7049,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Fujisankei Communication Group",
+            "id": 22038,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "British Satellite Broadcasting (BSB)",
+            "id": 89601,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1990-09-07",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "Brave young men who rode on the wings of victory.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Michael Caton-Jones"],
+      "runtime": 107,
+      "synopsis": "The B-17 bomber \"Memphis Belle\" is nearing the historic 25th mission, which is a tour-of-duty for American bomber crews. She is the first plane to survive long enough to achieve this feat, and her crew is likely the first to return successfully to the States. Captain Dearborn (Matthew Modine) and his crew are not at mission #25 though. As PR man Lt. Colonel Derringer (John Lithgow) hovers around, waiting to capture the glorious moment of triumph, the Memphis Belle has to complete her last mission. The top brass are not going to give them a \"milk run\" over France that they could easily survive either-- their group's next target is Hamburg, Germany. Over Germany, the plane is rocked by anti-aircraft fire, attacked by enemy fighters, and a member of the crew is badly wounded. They all eventually make it back on the battered Memphis Belle, and are feted as heroes in the American press. The film provides considerable insight into the daily lives of airmen whose service careers often lasted only a few missions. Various men have good-luck charms for protection, while others write many letters home to assure family and friends that they are alive. The British, for their part, host dances which give the airmen an opportunity to dance (and sometimes more) with pretty English girls. The actual missions provide a sense of how quickly German fighters could pounce out of the sun, and how FLAK could rip apart even a mighty \"Flying Fortress.\"",
+      "writers": ["Monte Merrick"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0100133/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQxNDY1Mjk4MV5BMl5BanBnXkFtZTcwMzc3MjYxMQ@@._V1_SY317_CR9,0,214,317_AL_.jpg",
+      "actors": ["Stars: Matthew Modine, Eric Stoltz, Tate Donovan | See full cast and crew »"],
+      "reviews": [
+         "No?? \u0085 then shut up. My dad was. Didn't fly B-17s, but he was the PIC (pilot-in-command) of a crew of seven, all younger than he, of a B-26 Martin Marauder medium bomber (the Flying Prostitute \u0096 'no visible means of support'; referred to the short wingspan and hot landing speeds) in the Mediterranean Campaign out of Corsica and Sardinia, bombing German-controlled ball-bearing factories in northern Italy at 10,000 ft. Lost his nose-gunner from \"fright\" - frozen to the gun \u0096 wouldn't bail out when they were shot down right after 'delivering the pizza' over Bergamo-Seriate airfield on my mom's birthday, Aug 08th, 1944\u0085about 9 weeks before I was born. His story about getting out of that B-26 before it crashed would raise the hair on your young necks. Survived Stalag Luft III and the 500 mile foot-march \u0096 yes, in January, through snow \u0096 to Stalag Luft VII (Steve McQueen \u0096 \"The Great Escape\"). Gen'l Patton liberated all in April, 1945 \u0096 including my dad and five of his crew. Dad didn't make furniture like Matthew Modine's character in \"Memphis Belle\". But he did pick and truck-haul tomatoes on HIS dad's farm in the Ohio River Valley around Racine, right out of the black river-bottom soil just above the banks; became a basketball hero in high school; then entered the Army Air Force at 19. Pilot training in Texas and Florida. I have the letters from him to my mom during all that... And the dialog in the film? Pretty true-to-life, he said \u0096 everybody was young and talked and acted JUST LIKE THAT\u0085 This review isn't meant to be about my dad. But I hope it says a little something about the producer's efforts for \"Memphis Belle.\" Very young kids \u0096 normal Americans \u0096 tough (even impossible) duty \u0096 in advanced machines (then) \u0096 in hard times \u0096 in a country far from home \u0096 doing what they were trained for. Sound familiar even today?... And don't be too hard on the details. Remember, this is a 'representative film' of what happened to many, many bomber crews in many, many different bombers during WWII. Many thousands of very young American air crews were lost in this effort to help keep America and our Allies 'free.' Think about that whole image, listen to the music score, cherish the action from a fresh perspective. TRY to put yourself in their shoes. Then watch the film again\u0085",
+         "The traditional, patriotic World War 2 film was popular in both America and Britain throughout the fifties and sixties, long after the war itself was over. In the late seventies, eighties and early nineties, however, it went into something of a decline in both countries. In Britain, this was connected to a decline in the British cinema itself, which only occasionally had the financial resources and self-confidence to make pictures on a large scale. (The best British war film of the period was 'Hope and Glory', which concentrated on the Home Front rather than on actual combat). In America, the decline of the war film probably had more to do with post-Vietnam syndrome which led to patriotic sentiment and the military being viewed for a time with some suspicion. There were a few disguised war films, such as 'Top Gun', which had modern American fighter pilots battling an unidentified enemy in a fictitious war, or the 'Star Wars' trilogy which, even if George Lucas disliked the analogy, was widely seen as either World War Two or the Cold War translated into outer space. Genuine war films, however, were few and far between, although there were a number of exceptions, and TCM recently broadcast two of these as part of the D-Day sixtieth anniversary celebrations, 'The Big Red One' from 1980 and 'Memphis Belle' from ten years later. Of these two, 'Memphis Belle' is closer in style and in spirit to the traditional war film. Like many other war films it follows the fortunes of a small, tightly-knit group of fighting men. The group in this case is the crew of an American B-17 bomber based in England in 1943; the producer David Puttnam originally wanted to make the film about a RAF Lancaster bomber, but no British studio was interested and Hollywood has never taken much interest in the British war effort. The crew of the 'Memphis Belle' have already flown twenty-four successful missions; one more, and they will have completed their tour of duty (the first American crew to do so) and will be able to return home. (The name 'Memphis Belle' was taken from that of the first aircraft which completed twenty-five missions in real life). The film follows the men on their twenty-fifth mission, an attack on the German city of Bremen. The raid is a difficult one; the bombers meet strong opposition from German fighters and anti-aircraft gunners, the plane is damaged and one of the crew is seriously injured. This leads to a tense finale which leaves the audience wondering whether the crew will be able to make it back to base. The main glory of the film lies in its exciting depictions of aerial combat, among the best ever filmed (although those in 'The Battle of Britain' made over twenty years earlier are also excellent). As in that film, the combat sequences in 'Memphis Belle' were achieved by the use of real aircraft and models rather than by computer-generated special effects. We are introduced to each of the crew, each of whom is presented as a distinct and different personality- Dennis, the conscientious pilot and captain, the depressive Phil, Val the medical student who pretends to be far more knowledgeable than he really is, the poetic intellectual Danny, and so on. Trying to make each crew member an individual character in his own right was perhaps a mistake, as this meant that there are too many actors in leading roles for the viewer to concentrate on. The crewmen all emerge as half-formed characters with no fully-formed ones; it might have been better to concentrate on, say, four or five crew members and to tell their stories fully, with the others only playing supporting roles. The film touches on the moral dilemmas of the bombing campaign rather more than earlier films on this subject might have done. Rather than take the risk of hitting a nearby school, Dennis insists on flying round (thereby increasing the risk of his aircraft being shot down) until he has a clear view of the intended target, a German aircraft factory. There is also a sub-plot involving a rather unpleasant Air Force officer who is eager to exploit the Memphis Belle and her crew for propaganda purposes, and his clashes with the base commander, who finds this distasteful and who is more concerned about the heavy casualties his unit is suffering. These elements aside, there is little in the film that could not also be found in earlier films about the World War Two bombing campaign, such as 'The Dambusters' or '633 Squadron'. That does not, however, necessarily mean that the film is anachronistic, as some have complained. Fashions in film-making may come and go, but this cannot alter the fact that the Second World War provides innumerable examples of heroism and drama which are capable of being made the subject of a good film. That was as true in 1990 as it was in 1950 or 1960, and remains true even today. I myself found 'Memphis Belle' to be both exciting and, at times, moving; a fine tribute to the men whose bravery inspired it and a worthy addition to the corpus of war films. 8/10",
+         "True story of the valiant B-17 bomber \"Memphis Belle's\" 25th and last bombing run over the German port city of Bremen on May 17, 1943. Having flown 24 bombing missions over Nazi occupied Europe since it's first bombing run on November 7, 1942 over the city of Brest France this if successful, it's 25th bombing run, would be the planes and crews ticket out of WWII. It had been determined by the US general staff that 25 bombing and combat missions over Europe were the limit that a bomber crew, in order to keep casualties down, can take before they start to fall apart from the stress and cease to be effective. The crew of the \"Memphis Belle\" are the first to almost reach that goal, 25 successful bombing missions. The unbelievably ferocious German resistance from it vaunted Luftwaffa and ground anti-aircraft batteries over the skies of Europe cost the USAAF and RAF some 35,000 planes, fighters and bombers, and their crews, over 150,000 airmen, during the bombing of Germany and German controlled Europe from 1942 to 1945. Thats just how savage and bitter the fighting was for air supremacy over that war-torn continent. Stirring story with fine performances from the \"Memphis Belle's\" Captain Dennis Dearborn, Matthew Modine, on down. As the legendary bomber weathers wave after wave of deadly German ME 109 Messershmitt fighter planes from the sky and massive and murderous German AK AK anti-aircraft fire from the ground. As the \"Memphis Belle\" flies over Bremen and drops it's bomb payload and then limps back to England. With it's crew battered and bloody but safe and alive to be the first bomber crew to survive 25 missions over German controlled Europe. The spectacular air combat photography was the best I've ever seen in a war movie and the cast was on par with the \"Memphis Belle\" with no one outshining the others but all equal up to their task just like the famed bomber was. Back on the ground there was another drama played out with officer Col. Harriman, David Strathaim, who sent out the \"Memphis Belle\" and the other 23 B-17's of his bomber squadron on their mission over Bremen Germany. Col. Harriman didn't go along with Col. Derringer, John Lithgow, the US public relation officer who seemed too eager to reward the \"Memphis Belle\" crew with honors and glory even before they successfully finished their 25th mission. Not realizing that he was making the bombers crew and Col. Harriman very nervous with his not understanding how dangerous their mission was and even possibly jinxing them. Tense and terrific the movie has already become a war classic without the false heroics that was so common in war movies made during WWII by Hollywood in order to boost the US morale at home and on the battlefield. The crew of the \"Memphis Belle\" were just as normal and scared as anyone of us would be if we were in the same situation that they were in. But it was that very fear that brought the best in strength and courage out of them and made them the hero's that they eventually became.",
+         "I first came across this masterpiece when I did a search for Eric Stoltz on the Netflix website. Much to my surprise I discoverd this film had an all star cast, and I adored them all! Tate Donovan, Matthew Modine, Eric Stoltz, Billy Zane, Harry Connick Jr., D.B. Sweeney, Reed Diamond, Courntey Gains, Neil Giuntoli and John Lithgow all give amazing performances in this true story. Even my Dad, who sleeps through every movie we watch, no matter how enthralling, stayed awake and watched this. (Allbeit the second time I popped this in the DVD player, but nevertheless hello.) I would give this movie 20 stars if I could. It was one of the best war movies I'd seen in a long time. Plus, being a teenage girl, I loved seeing all the boys in Uniform. Oh my God, don't get me started. When my mom asked me if I was ready to send it back to Netflix, I said no and kept it a pretty good long while. But when we finally did send it back, I cried, yes I cried, because I had fallen in love with this movie. I'd watch it everyday if I could. I have yet to buy it yet, but trust me, I'll find a way. If you have had family that was in WWII, my grandfather was, then this movie will have an impact on you. It did on me. I found my self thinking that my grandpa was young like that right around that time. This film was set in 1942 and that means that my grandfather had yet to marry my grandmother, but he was in his prime. My mom and I both thought that. But you don't have to like war movies to love Memphis Belle. Because it's not really like a war movie. It's about the close relationship of these ten soldiers and how they work together to stay alive in the worst of a situation. (I mean they're not having to eat rats to stay alive, which my grandfather had to do in occupied France, or anything.) The first time you see Memphis Belle anywhere, to rent or to buy, grab it and take it home with you. YOU WILL NOT REGRET IT! Take my word on that. Missy",
+         "Memphis Belle is an amazing movie that has an amazing cast where each man fits his character perfectly as you are thrown back into May 17, 1943 as the crew of the Memphis Belle has completed 24 missions and is about to become the first crew of the Eighth Airfore to complete its 25th and final bombing mission over Bremen to bomb a factory. The movie accurately depicts a mission of a B-17 bomber and all the treacheries the crew of 10 men must face while in the sky. From take off and grouping for formation to the flight across the channel the movie builds excitement as the men head into enemy skies where they will have to face multiple attacks from ME-109 Messershmitt fighters as well as brutal barrages of flak (anti aircraft)attacks, all while trying to maneuver through the skies to make it over the target and drop its payload of bombs. At that point, only half the battle is done, the plane, crew of 10, and all other bombers in the formation must struggle to make it back to their bases and land safely in England to live to fight another day, or if they are lucky enough such as the crew of the Memphis Belle, they will complete their tour of duty (25 missions) and return home to their families or continue on and complete more tours. The movie really gives the viewer a great understanding for how the American airmen fought bravely over enemy skies of Germany during the daylight bombing raids during WWII. This movie is by far my favorite movie. I was introduced to this movie one year after it came out in theaters. I was only 5 years old but I already had a growing fascination for the war and especially for the B-17s because of my grandfather. My dad knew about the movie because local actor Eric Stoltz lives here in Santa Barbara, so he gave me the movie in hopes of fulfilling my ever growing curiosities of B-17s.",
+         "I was glad to finally see a World War II movie that wasn't situated on the ground, but in the air. Don't get me wrong, I'm still an absolute fan of the 'infantry and tank' war movies, but from time to time I want to see something new, something different. And let's be honest, there just doesn't seem to be any interest from Hollywood for the air fights over Europe or Asia in WWII. I only know of two other movies of this kind and that is \"Battle of Britain\", made in 1969 (WWII) and \"The Blue Max\" from 1966 (WWI). The \"Memphis Belle\" is a B-17 bomber that is about to fly its 25th and final mission. After this mission, the crew of ten men will have fulfilled its tour of duty and will finally be able to go home. Since they would be the first crew to finish all 25 missions in the 8th Airforce, plans are made to celebrate their coming home party, even before they have taken off. But before there can be any party, they first have to fly their final mission to one of the worst targets imaginable. They will have to fly over German territory, all the way to the heavily defended Bremen, where they will have to bomb an airplane factory in the middle of a residential area. All the men know that chances are little that they will ever return alive and that one little mistake will cost the lives of many innocent civilians... In the beginning I didn't like this movie all that much and there were a couple of reasons for that. One is the in my opinion badly casted John Lithgow. His role as Lieutenant Colonel Bruce Derringer just didn't fit in properly. It felt like he didn't take his role very serious, although I'm convinced that it also had something to do with the script. Perhaps no-one had payed enough attention to the development of his role... And there were a couple more problems to be found in this movie. Take for instance the crew. The voice-over in the beginning says it too: There just has to be a virgin, a wise guy, a cool guy,... in every flight crew. That was so stereotypical that it bothered me. The last thing that didn't really do it for me - although it wasn't as bad as my two other points of criticism - was the entire day before their mission. I just had the feeling that they should have kept it shorter. I'm not saying that they had to skip that part completely, but I was waiting for the part in which all the flying and the action would take place. Still, I don't want you to think that this isn't a good movie. Once they are in that bomber, the stereotypes seemed to melt away like snow for the sun. They started to act as a team, instead of being a bunch of individuals that didn't seem to fit in. From that moment on I was truly captivated by this movie. Also the fact that they show so many flight and fight sequences, including some real-time footage, is wonderful. I know, I just love to watch those old Messerschmits, B-17's,... flying and that already was enough for me to like this movie. But than again, who else would watch such a movie than the people who are interested in that part of the war? Not that many I suppose. As a conclusion I would like to say that I liked this movie for many reasons, but the best one must have been the acting once they were in that confined space of the airplane. All they had to work with was the interaction between them, their enemies and their plane and they sure did a wonderful job from that moment on. So despite the fact that I didn't like the first part of the movie all that much, I must say that the second part made me decide to give it a very good final rating. I give this movie a well deserved 7.5/10.",
+         "The movie actually was a fairly accurate account of the Belle's experiences except that the movie had everything that actually happened to the plane and crew on its 25 flights happen on the last flight. The one thing missing was that a Belle waist gunner ended up with frost bite on his hands and was replaced. The characters in the movie were fictional. I've seen some comments by people that it was unrealistic for a 21-year old (Matthew Modine's Dennis Dearborn character) to be the pilot. The real Belle pilot, Robert K. Morgan, was only 24 when they began flying missions in late 1942. Some of the movie's dialogue actually was said by crew during the Belle's missions. The government produced a 1944 documentary on the Memphis Belle directed by William Wyler and if you watch it you will recognize some of the scenes and dialogue from this movie.",
+         "World War II has many memories in it's huge archives. But the ones which stand out in an audience's mind are the ones which recall family members who actually experienced them. This movie \" Memphis Belle \" reaches deep into the human Psyche and rekindles a plethora of war time conflicts. The actors chosen for this masterpiece are incredible as they superbly resurrect the dangerous era of the courageous men and their historic aircraft. Matthew Modine plays Capt. Dennis Dearborn, a stern commander who exhibits a tough veiner, but is inwardly aware and concern with every man in his crew. Tate Donovan is Lt. Sinclair, anxious to experience bravery as a necessary element to achieve fame. However when the war touches him, he realizes, it's not as glorious as he imagined. Eric Stoltz, D.B. Sweeney, Billy Zane, Sean Astin, Harry Connick Jr., Reed Diamond, Courtney Gains and Neil Giuntoli play the crew. Rounding out the cast, adding prestige and enhancing the over-all story are David Strathairn and John Lithgow. Together, this superior ensemble and the dramatic talent of the special effects specialists allowed the 'Belle' to rise center stage and display its last wartime flight. The result is nothing short of extraordinary. Behind the men and their plane is the memory of the thousands of brave airmen who gave their lives for their country. In short, their sacrifice becomes the lasting monument which continues to this day as a lasting tribute to our freedom. A great film which is sure to become a military Classic. Highly recommended! ****",
+         "For people of my generation childhood afternoons were often composed of spending Sunday afternoons watching Second World War movies where English speaking heroes gave stupid Germans a lesson in biting off more than they could chew . This gave a a somewhat erroneous view of history for the baby boomer generation . Americans were bullet proof apart from the one bloke who was engaged to get married who'd always snuff it in the final reel , the entire British military would be composed of John Mills and that other bloke while the Germans were invariably stupid and lousy shots . For my own part I became an aficionado of military history and redeemed myself by studying the war and came to the conclusion that Nazi Germany ( A regime that waged war as ruthlessly and effectively as it murdered undesirables ) was defeated by \" British courage , American money and Soviet blood \" in the words of Winston Churchill . Watching MEMPHIS BELLE I'm reminded how old fashioned everything is Somewhat typically for a film that was made in Britain by a British production team and a British director it's financed by American money and therefore is made for an American market so revolves around an American aircrew flying a B-17 . Fair enough but couldn't the characters have mentioned that WW2 was a joint operation ? Watching this you'll be left thinking America was fighting alone . There's even a scene where the only British male character , a farmer , needs rescued by the American airforce As for the cast they're almost unknown at the time . John Lithgow would be a recognisable face as would perhaps Matthew Modine . Some of the cast would become well known but this leads to a problem when the crew of the aircraft take their places . It's difficult to tell who is manning which position in the plane and you do feel perhaps that a better known cast would have improved things . Not to the point of A BRIDGE TOO FAR or THE LONGEST DAY type star vehicle , but enough to make you perhaps care a bit more for characters that end up faceless The crew are on their 25th and final mission over Europe which means if they survive the flight they can go home . Being their final mission means all sorts of artistic license is involved to keep the audience on tenterhooks . Despite being a relatively close target in Bremen their fighter escort of P-51 Mustangs have to turn back to base for no other reason than it makes the bomber crews situation more perilous even though in reality a P-51 can indeed provide escort to Bremen and back again . Everything else that can go wrong does indeed go wrong but perhaps the most ridiculous scene is where Captain Dearborn misses the target and decides to lead the bomber wing towards a second run because he fears hitting a school . Would it be too callous to state allied aircrews wouldn't have been too bothered about bombing a school ? After all the children in a school would be working in a German factory contributing to the Nazi war machine in a couple of years anyway . All this makes MEMPHIS BELLE a little bit overdone with western allies being goodies and Germans being faceless enemies In conclusion MEMPHIS BELLE is a technically competent war film but not much else . It does show the courage involved by bomber crews during the second world war but also feels incredibly old fashioned . So much so that you'd have no problem believing that the screenplay was written while the war was still being waged",
+         "\"Memphis Belle\" tells of the last combat mission of a legendary WWII B-17 bomber and her crew. The film is Hollywoodized for entertainment value and doesn't square with history on many counts including a fully fictionalized crew. Nonetheless, the film is offers a good cast, good drama, plenty of suspense and action, and imparts some sense of the daring and danger involved in the Belle's mission #25 and daylight Army Air Corps raids over Western Europe. Worth a look for those unfamiliar with the sacrifices of the air combat crews of WWII."
+      ],
+      "genres": [
+         "Action",
+         "Drama",
+         "War"
+      ],
+      "productionCompanies": [
+         "Enigma Productions",
+         "Warner Bros.",
+         "Fujisankei Communication Group"
+      ],
+      "summaries": [
+         "It's May 1943 at a US Army Air Corps base in England. The four officers and six enlisted men of the Memphis Belle - a B-17 bomber so nicknamed for the girlfriend of its stern and stoic captain, Dennis Dearborn - will soon start their twenty-fifth mission, having completed their previous twenty-four successfully with nary an incident, while fewer and fewer other planes are coming back from their missions at all. If they complete their next mission successfully, they will be the first Army Air Corps B-17 Crew to complete their tour of duty. Visiting communications officer Lt. Col. Bruce Derringer wants to publicize and highly tout their accomplishment, even before it happens, as a long term good news campaign at a time when there is little good news to report. Derringer's plan is against the wishes of the base commander, Col. Craig Harriman, who would prefer to treat the ten as any of his other hard working men. The previous success of the Memphis Belle is despite the disparate natures of the ten men, whose personalities and backgrounds could not be more different. Each of the ten has a differing view of Derringer's publicity campaign as well as to the probable success or failure of what will be their last mission regardless, a dangerous one into enemy territory over the skies of Bremen, Germany.",
+         "The \"Memphis Belle\" is a World War II bomber, piloted by a young crew on dangerous bombing raids into Europe. The crew only have to make one more bombing raid before they have finished their duty and can go home. In the briefing before their last flight, the crew discover that the target for the day is Bremen, a heavily-defended town that invariably causes many Allied casualties.",
+         "It's May 17, 1943; the day before the Memphis Belle's, a B-17 bomber, 25th and final mission. After their final mission, they crew of ten men get to go home. Since they would be the first crew to finish all 25 missions in the 8th Airforce, there were already plans to make the 10-man crew big stars back home for the war effort. But the mission hadn't been flown yet. With the target being Bremen (not Dresden), which was a target heavy in surface-to-air artillery, the flak wouldn't be easy to get through. With weather, nerves, and dreams all playing a part in the finishing of the mission, the crew has to become the lead plane in the squadron and get the job done of bombing a Nazi supply factory, if they get it wrong, many innocent people could be killed.",
+         "The story of the American bomber crew of the \"Memphis Belle\", the first US airmen to complete a full tour of 25 missions during the air battle of Europe during the Second World War. The film begins the night before the Belle's last mission, and follows the crew through the hectic flight that they must endure, and survive, in order to go home."
+      ],
+      "budget": 23000000
+   },
+   "movielensId": 8493,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1990-09-07",
+      "dvdReleaseDate": "1998-05-26",
+      "directors": ["Michael Caton-Jones"],
+      "runtime": 107,
+      "movieId": 8493,
+      "title": "Memphis Belle",
+      "mpaa": "PG-13",
+      "actors": [
+         "Matthew Modine",
+         "Eric Stoltz",
+         "Tate Donovan",
+         "D. B. Sweeney",
+         "Billy Zane",
+         "Sean Astin",
+         "Harry Connick Jr.",
+         "Bradley Lavelle",
+         "Reed Diamond",
+         "Courtney Gains",
+         "Neil Giuntoli",
+         "David Strathairn",
+         "John Lithgow",
+         "Jane Horrocks",
+         "Steven Mackintosh",
+         "Martin McDougall"
+      ],
+      "imdbMovieId": "0100133",
+      "originalTitle": "Memphis Belle",
+      "genres": [
+         "Drama",
+         "War",
+         "Action"
+      ],
+      "youtubeTrailerIds": ["M3HOGf8ajWw"],
+      "plotSummary": "The \"Memphis Belle\" is a World War II bomber, piloted by a young crew on dangerous bombing raids into Europe. The crew only have to make one more bombing raid before they have finished their duty and can go home. In the briefing before their last flight, the crew discover that the target for the day is Dresden, a heavily-defended city that invariably causes many Allied casualties",
+      "tmdbMovieId": 12651,
+      "avgRating": 3.56171,
+      "releaseYear": "1990",
+      "numRatings": 1499,
+      "posterPath": "/47LvV0urbkr8fEGEZHijD0GZReS.jpg"
+   }
+}

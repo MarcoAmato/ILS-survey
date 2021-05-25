@@ -1,0 +1,402 @@
+{
+   "tmdb": {
+      "original_language": "ja",
+      "keywords": [
+         {
+            "name": "time travel",
+            "id": 4379
+         },
+         {
+            "name": "mad scientist",
+            "id": 10125
+         }
+      ],
+      "imdb_id": "tt2967286",
+      "video": false,
+      "title": "Steins;Gate: The Movie − Load Region of Déjà Vu",
+      "recommendations": [
+         347200,
+         428142,
+         387090,
+         23166,
+         23167,
+         37910,
+         312966,
+         403064,
+         245917,
+         79451,
+         44734,
+         186919,
+         122662,
+         35435,
+         212156,
+         111658,
+         257475,
+         23151,
+         22914,
+         23154
+      ],
+      "backdrop_path": "/8BTRgRlpY40IPEWPzxlWrobLkvh.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Itaru Hashida (voice)",
+               "gender": 2,
+               "credit_id": "52fe4e689251416c7515574b",
+               "name": "Tomokazu Seki",
+               "profile_path": "/vMsJSXSLqC5XRF5Gn09cznwxzIa.jpg",
+               "id": 90567,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Kurisu Makise (voice)",
+               "gender": 0,
+               "credit_id": "52fe4e689251416c7515574f",
+               "name": "Asami Imai",
+               "profile_path": "/cfFeDWpOfDKf4bWvhldIfNCR953.jpg",
+               "id": 1133618,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Mayuri Shiina (voice)",
+               "gender": 1,
+               "credit_id": "52fe4e689251416c75155753",
+               "name": "Kana Hanazawa",
+               "profile_path": "/dsBFQ5aq1XaimLf99jTaDrDonI.jpg",
+               "id": 119143,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Rintarou Okabe (voice)",
+               "gender": 2,
+               "credit_id": "52fe4e689251416c75155757",
+               "name": "Mamoru Miyano",
+               "profile_path": "/a0Db205903IoPtekwDWVHBSmDWo.jpg",
+               "id": 93803,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Suzuha Amane (voice)",
+               "gender": 1,
+               "credit_id": "5374f6c50e0a267c5c0042dd",
+               "name": "Yukari Tamura",
+               "profile_path": "/1VquTCcon9zDRbFZDSnbY7Pc425.jpg",
+               "id": 203268,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Nyan-Nyan Faris (voice)",
+               "gender": 1,
+               "credit_id": "5374f6ed0e0a267c5c0042e1",
+               "name": "Haruko Momoi",
+               "profile_path": "/wcnKGNgzhiTvHwWjuLgGtDc9kkz.jpg",
+               "id": 1241347,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "Moeka Kiryuu (voice)",
+               "gender": 1,
+               "credit_id": "5374f6ff0e0a267c6a00426e",
+               "name": "Saori Gotou",
+               "profile_path": null,
+               "id": 1247748,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Yuugo Tennouji (voice)",
+               "gender": 2,
+               "credit_id": "5374f7150e0a267c6a004271",
+               "name": "Masaki Terasoma",
+               "profile_path": "/mpdQbkLd8ggewOGXWjX8LEUfVei.jpg",
+               "id": 219659,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Ruka Urushibara (voice)",
+               "gender": 0,
+               "credit_id": "568ab0239251417e63013387",
+               "name": "Yu Kobayashi",
+               "profile_path": "/nP9113iZaLVvyK5uiTKkfs4bUwd.jpg",
+               "id": 1123401,
+               "order": 10
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4e689251416c75155763",
+               "name": "Takeshi Abo",
+               "profile_path": null,
+               "id": 929856,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4e689251416c75155769",
+               "name": "Jukki Hanada",
+               "profile_path": null,
+               "id": 186342,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "562928d19251414cd5002599",
+               "name": "Takuya Sato",
+               "profile_path": null,
+               "id": 110467,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac0a2e30e0a260c4d000436",
+               "name": "Kanji Wakabayashi",
+               "profile_path": null,
+               "id": 233655,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ac0a315c3a3682d1a00041f",
+               "name": "Hiroshi Hamazaki",
+               "profile_path": null,
+               "id": 929851,
+               "department": "Directing",
+               "job": "Co-Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac0a329c3a3682db5000399",
+               "name": "Takuya Sato",
+               "profile_path": null,
+               "id": 110467,
+               "department": "Directing",
+               "job": "Co-Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 6.622787,
+      "production_countries": [{
+         "iso_3166_1": "JP",
+         "name": "Japan"
+      }],
+      "id": 225745,
+      "vote_count": 65,
+      "budget": 0,
+      "overview": "One year after the events of the anime, Rintarou begins to feel the repercussions of extensive time travel, and eventually completely fades from reality. Kurisu, being the only companion to remember him, now must find a way to bring him back.",
+      "similar": [
+         206487,
+         24420,
+         1267,
+         82703,
+         19,
+         263115,
+         87101,
+         23048,
+         41154,
+         105,
+         196,
+         59967,
+         14337,
+         4723,
+         9667,
+         7512,
+         2134,
+         19959,
+         19995,
+         7551
+      ],
+      "original_title": "劇場版 STEINS;GATE 負荷領域のデジャヴ",
+      "runtime": 90,
+      "poster_path": "/bXhogkZCR0aOQ077rfMULYbDmtH.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "AT-X",
+            "id": 17981,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cinema Sunshine",
+            "id": 18764,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Frontier Works",
+            "id": 5809,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Media Factory",
+            "id": 7967,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Movic",
+            "id": 3466,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "White Fox",
+            "id": 12569,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Kadokawa Pictures",
+            "id": 2073,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Mages",
+            "id": 18765,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2013-04-20",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "No one knows what the future holds. That's why its potential is infinite.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Japan",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Kanji Wakabayashi",
+         "Hiroshi Hamazaki"
+      ],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": [
+         "Chiyomaru Shikura",
+         "Jukki Hanada"
+      ],
+      "originalLanguage": "Japanese",
+      "imdbLink": "http://www.imdb.com/title/tt2967286/",
+      "coverLink": null,
+      "actors": [
+         "Mamoru Miyano",
+         "Asami Imai",
+         "Kana Hanazawa"
+      ],
+      "reviews": [
+         "After watching the fantastic series, I immediately wanted to see this movie. And if you're familiar with the story and the concepts and the characters, you are likely to enjoy this. But I'm not convinced this can stand on its own; I think it would not be as much fun as someone's first introduction to the world of Steins Gate. In the context of the series it's quite good, although it does wander even further away from sci-fi than the series. The series was a sci-fi movie that had elements that weren't very scientific, such as it's approach to fate and the main character's odd time-related perception. The movie focuses entirely on these elements, so that ultimately it's closer to fantasy than sci-fi. But as with the series, it's entertaining and amusing, with some very moving scenes. If you're a fan of the series you don't want to miss it. If you haven't seen the series, go watch it.",
+         "Being a fan of the original Chaos;Head and the Steins;Gate series, I was waiting a long time for this OVA to be released. The original, though originally just a silly anime, got serious and made me cry tears. And, the OVA did as well, for while there were stronger episodes in the series than the OVA is as a whole, it reminds you why you loved the series. Characters & Story The two main leads of the OVA are Okabe, the mad scientist, and Kurisu, his love interest and assistant. Together, they venture through time in order to try to discover why Okabe is disappearing. You see, the Reading Steiner seems to be overloaded, and Okabe seems more damned by his memories with each passing minute. Flashbacks of all the violence he saw throughout the series pop up, and eventually it becomes so bad he disappears, willingly. This leads Kurisu to try to navigate through the different time lines to try to understand why he is disappearing and how to save him. Such though isn't an easy tasks when the person who you are trying to save is alright with disappearing, thus leading to the question if Kurisu may end up the sole person to remember Okabe, or will her plan succeed? Praise When it comes to this OVA, truly you have to praise the fact it really does feel made to play with fan's emotions. The idea of the lead character possibly sacrificing everything so all his friends can be happy is truly touching. At the same time, it is a good reminder of why you fell in love with the series. Be it Okabe's mad scientist performance, his relationship with Mayuri, or just the zany bunch of characters in the show, it brings on a nice sense of nostalgia which makes the stakes of the film even more high for the idea of everything being erased is presented, and it seems like hope is feign. Criticism Perhaps the main criticism is that this isn't the type of OVA where if you haven't seen the series, or haven't seen it in a while, things automatically click. There was a bit of a curve for me to remember what SERN was, be it enemy or foe; what the Reading Steiner was; and various other things which were very series specific. Also, I have to say, sometimes it was easy to get lost in the dialog. Be it because I'm reading subtitles and they were talking tech, or simply because I just forgot a lot of what happened in the series, it isn't too hard to get lost and confused, even when they are explaining what you are getting confused about. Overall: Must See I would recommend watching the series first before watching the OVA. Even if you saw the series, I would recommend at least skimming the series to remind you of everything that went on. Otherwise, this OVA you will understand to a point, but not fully get. Outside of the slight complications with the story and dialog though, I must say I quite enjoyed watching this. The friendships were nice to see, the awkward romance was kawaii, and it reminded me why I love anime so much. Despite the characters being fictional and animated, they seem so real. Like those rare type of people, only some get the pleasure to meet, all placed in one show. Okabe being the weird best friend who would do anything for you; Mayuri being the kindest person you ever met; and I could go on and on. Hence why I say it is a must see. Though it has some issues, most come from the time difference between the series and this OVA. Outside of that, I don't think there are any serious issues.",
+         "In episodes 1 to 24 of the series Nitro produced what (yes, I know, lots of \"debating\" about this in the Groups) many consider THE BEST ANIME OF ALL TIME, a story that not only de-constructs time travel to a degree beyond anything Hollywood has ever attempted; but, at the same time, in the same story, has possibly the most memorable ensemble cast in the history of modern entertainment. (And possibly one of the best love stories in modern fiction as well.) No mean feat that. In episode 25 (also reviewed by this writer) they gave themselves a time-out and had some fun with the characters. It's optional, although the scene when Okarin enters US customs and announces he is a Mad Scientist looking to take over the country is ... priceless. However in this wrapup film the Nitro team are back in force and flexing their muscles. Let's start with the negatives because there are so few: 1. Watching this if you have not seen the first 24 is a waste. Period. It is not a self-contained film. 2. The ending is ambiguous, but, hey, this from a production company that practically invented the word (CHAOS HEAD) so what did you expect. The positives: 1. A movie which is at the same time a sequel and a prequel. How many other writing teams have pulled that off? 2. Will make you cry. Regardless of age or sex, bring the Kleenex. Lots. 3. An examination of scientific mystery - deja vu -- which no one else has attempted. That's a bonus.",
+         "As a fan of time travel media, I say without reservation that this is the single best example in the 'genre'. The film picks up a year after the end of the series. Kurisu and Mayuri are safe, and the Steins;Gate worldline has been reached. The Future Gadget Lab is inventing gadgets instead of time machines. The world is at peace, but Okabe is tormented by visions of the other worldlines, and he begins to slip away. At first, he only suffers headaches, but the visions get longer and more visceral, and he disappears entirely into another world line. It is up to Makise to look for him, as she is the only one who remembers he is gone. The others have no idea. They are clueless. Daru is now the founder of the Future Gadget Lab. The world isn't radically different. Nothing falls apart. Makise gives lectures. Mayuri goes on Mayuri-ing. Daru hacks into CERN. Ruka practices swordmanship. A palpable sense of emptiness lingers over the lab, but that's it. They still drink Dr. Pepper, though no one knows why. Okabe's influence is still there, but it is not attributed to him. As Bioshock Infinite posited, when the mind is confronted with a reality that its experiences can't support, it changes the nature of those experiences. This is especially effective in this story, which is based around the concept of deja vu, which in Steins;Gate is a form of Reading Steiner. In the anime, Okabe was shocked to see that he was not the only one with memories of other worldlines. Ferris, Mayuri, Ruka, Daru, and Makise had these other worldlines imprinted on their minds, but they were regarded these memories as nonsense or dreams, just as we would. This is a lot like deja vu, and this film makes the connection even stronger. Deja vu is often foggy, like there's a fact floating out there in the abyss of your mind that you can't quite grasp, and in this film, the characters think of Okabe's existence in much the same fashion, like an ephemeral wisp that they've forgotten and can't quite remember. Makise can remember better, but she has a hard time grasping his name, as though she is clutching at fog even as she is trying to return him to this worldline. She's the main character of this film, which just seems right. The last two episodes of the regular anime were about bringing her back, and the special was about bringing back the relationship between her and Okabe, so it makes sense for this film to be about her trying to preserve that relationship, to make sure it doesn't fade away. It's so natural, and it's a truly genius decision that helps this film stand out from the last two episodes and the special, that helps it stick in your memories. She tries to go back in time and stop him from disappearing, but he doesn't want her to, not because he doesn't know what happen, but because he does know what'll happen. Her mind and soul will be torn apart as she desperately tries and fails to make things right. Her humanity will be all but gone, and she will be just a shell of a human being. He knows this, as he has been through it himself, and he does not want to happen to her. In the middle of this film, he declares these thoughts in a speech to her, a speech that hits so hard, building off the conflict and dynamics that have been building from episode 1, pleading with her to not go back in time. Okabe delivers a lot of speeches at the end of the series and in the special about how hard it has been to time-leap over and over again. They all work, but this one is far above the rest, thanks to the writing, the context, and the amount of feelings and information communicated from Okabe to Makise. She didn't know what he was feeling before, but now she does, and it's torturous. She absorbs all of what he says because it's all completely true, and it's all so painful. This film hinges on that relationship between Okabe and Makise in a way that no episode of the show, even episode 22, had, and it's wonderful. Their relationship is one of the most emotional, stimulating, and thoughtful in all of anime. I don't just care about these people. I'm enraptured by them, and the film deepens those emotions. It doesn't just capitalize on their relationship; it furthers it. The main conflict of the film is a conflict between them, which is fascinating and adds layering. The love, care, empathy, and affection between these two people feels alive. When the film ended, I was satisfied in a way I wasn't at any other point in the series. If the story of Okabe and Makise had ended after episode 24, or after the anime, or after the special, I would have felt content, but there would still be a piece of longing in my heart. There was no longing after finishing this film, except maybe the longing to watch it and the series again for the first time. El Psy Kongroo.",
+         "After watching the series I fell in love with Steins Gate altogether! I think It is a fantastic work of art that everyone in the world should watch! But I hate to say that the movie was quite lacking. I didn't go where I was hoping and It still left you with a cliffhanger and I hate that. I needed more than to just end with a silly joke and a passing glance smile between Okabe and Christina. And to top it all off it leaves you still wondering what happens to Miyouri and Daoru. It never picks back up on their side whether they remember Okabe or not. I wish it had stopped with more insight on the love affair and I wish it had told more about what was going to happen between Daoru and his lover.",
+         "I'm not all too familiar with the steins;gate universe just yet, however there are a few things that I can definitely point out. The story line, artwork and music all blended well and I think the production of this franchise was a job well done. Admittedly, I'm the type of person who has one too many interest but, Time travel related stories has never been far away from my top list. It's a pretty complex genre to write and let alone execute due to the constant movements of time. If I could think about explanations that would be near to the concept, I must say that I've fallen in-love with steins;gate's logical views regarding time travel more than I have from the girl who leaped through time. I think the cellphone and microwave won me over than running fast enough to fall into ditches or through a wall. I love how the characters were build up and the focus on each of their choices that triggers the effects and movements of the story. I think that because these were carefully executed it had made steins;gate in all aspects from one of the reviews from kotaku.com.",
+         "Version I saw: UK DVD release (projected) Actors: 6/10 Plot/script: 4/10 Photography/visual style: 7/10 Music/score: 6/10 Overall: 5/10 In many ways, the Steins;Gate movie bears a lot of comparison to the Haruhi movie, The Disappearance of Haruhi Suzumiya. Both have the feel of a TV episode extended, or possibly several episodes tacked together. Both revolve around the disappearance of the charismatic, fun-filled main character early in the story, leaving the long-suffering, sardonic love interest as the main character. In both cases, nobody else realizes anything has changed, so the proxy main character is forced to follow the clues - a succession of plot tokens - that integrate each of the supporting cast into events, one by one. In both cases, the plot is complicated by twisty, confusing developments involving time travel and parallel universes. It's a bold move, taking out the heart of the series like that, but I don't think they really carry it off. The remaining story must be carried by Makise Kurisu, driven by her love for the missing Hououin Kyouma, but... I just wasn't feeling that connection between them. Maybe it has been too long since I saw the series, and the particular dynamic between them had slipped from my memory, but it no longer caught me and carried me through the way it needed to. My affection for the other supporting characters, whom I continue to genuinely like, wasn't enough either, as it turned out. The panoply of odd camera angles is still there, and added to the title - I mean, \"Steins;Gate the Movie: Loading Area of deja vu\"? Come on! - successfully evokes Steins;Gate's distinctive brand of studied eccentricity, but one of the things I really liked about the original series was how neatly the time travel plot line was looped into a satisfying conclusion. Not any more. This time, I was simply confused, and although I may be wrong on this, I don't think it was my fault."
+      ],
+      "genres": [
+         "Animation",
+         "Drama",
+         "Mystery",
+         "Romance",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "AT-X",
+         "Cinema Sunshine",
+         "Frontier Works"
+      ],
+      "summaries": [
+         "The film starts a year after the events of the anime series. After moving through different 'World Lines', Rintarou finally has reached the ideal one, the Steins Gate world line. However, the constant time traveling he has gone through in search of Steins Gate build some side effects to him, which will eventually cause him to...",
+         "After the events of the anime, Rintarou begins to feel the repercussions of extensive time travel, and eventually completely fades from reality. Kurisu, being the only companion to remember him, now must find a way to bring him back."
+      ],
+      "budget": 0
+   },
+   "movielensId": 162982,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano",
+         "日本語"
+      ],
+      "releaseDate": "2013-04-20",
+      "dvdReleaseDate": null,
+      "directors": ["Takuya Sato"],
+      "runtime": 90,
+      "movieId": 162982,
+      "title": "Steins;Gate: The Movie − Load Region of Déjà Vu",
+      "mpaa": null,
+      "actors": [
+         "Tomokazu Seki",
+         "Asami Imai",
+         "Kana Hanazawa",
+         "Mamoru Miyano",
+         "Yukari Tamura",
+         "Haruko Momoi",
+         "Saori Gotou",
+         "Masaki Terasoma",
+         "Yu Kobayashi"
+      ],
+      "imdbMovieId": "2967286",
+      "originalTitle": "劇場版 STEINS;GATE 負荷領域のデジャヴ",
+      "genres": [
+         "Science Fiction",
+         "Animation",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "The film takes place one year after the events of the anime series. After going through a painstaking journey across multiple 'World Lines' due to the invention of 'D-Mail', text messages that can be sent to the past, Rintarou Okabe has assumedly landed in the \"Steins Gate\" World Line, in which none of his friends would have to die and a future ruled by SERN due to the invention of a time machine no longer exists. However, Rintarou soon starts feeling the side effects of his constant time travelling across multiple World Lines, which soon builds up and causes Rintarou to suddenly vanish from existence, with only Kurisu Makise, the girl who he had saved thanks to his efforts, remembering him through déjà vu. It is now up to Kurisu to find a way to get Rintarou back.",
+      "tmdbMovieId": 225745,
+      "avgRating": 3.75,
+      "releaseYear": "2013",
+      "numRatings": 38,
+      "posterPath": "/bXhogkZCR0aOQ077rfMULYbDmtH.jpg"
+   }
+}

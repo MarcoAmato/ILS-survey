@@ -1,0 +1,529 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "mother",
+            "id": 456
+         },
+         {
+            "name": "robbery",
+            "id": 642
+         },
+         {
+            "name": "detective",
+            "id": 703
+         },
+         {
+            "name": "assassin",
+            "id": 782
+         },
+         {
+            "name": "hitman",
+            "id": 2708
+         },
+         {
+            "name": "gangster",
+            "id": 3149
+         },
+         {
+            "name": "insomnia",
+            "id": 4142
+         },
+         {
+            "name": "apprentice",
+            "id": 4488
+         },
+         {
+            "name": "remake",
+            "id": 9714
+         },
+         {
+            "name": "revenge",
+            "id": 9748
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "crime",
+            "id": 14536
+         },
+         {
+            "name": "art",
+            "id": 14893
+         },
+         {
+            "name": "surveillance",
+            "id": 18420
+         }
+      ],
+      "imdb_id": "tt1235189",
+      "video": false,
+      "title": "Wild Target",
+      "recommendations": [
+         13092,
+         13090,
+         48838,
+         12797,
+         8141,
+         34769,
+         12400,
+         46528,
+         16558,
+         87499,
+         21755,
+         11412,
+         67913,
+         25941,
+         22494,
+         9843,
+         1266,
+         23609,
+         22787,
+         65760
+      ],
+      "backdrop_path": "/aZBIoiZyqzohhGeYkroi08fBOMw.jpg",
+      "revenue": 3453043,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Victor Maynard",
+               "gender": 2,
+               "credit_id": "52fe4679c3a36847f81012a7",
+               "name": "Bill Nighy",
+               "profile_path": "/imAkeJi8C8ZHpPPB8RP92AD3kYW.jpg",
+               "id": 2440,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Rose",
+               "gender": 1,
+               "credit_id": "52fe4679c3a36847f81012ab",
+               "name": "Emily Blunt",
+               "profile_path": "/w5bjRgGy3vNkJqY97kbvTp7ldxb.jpg",
+               "id": 5081,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Tony",
+               "gender": 2,
+               "credit_id": "52fe4679c3a36847f81012af",
+               "name": "Rupert Grint",
+               "profile_path": "/dFVVJufva2zUSP6WS0pFfR7g8uN.jpg",
+               "id": 10989,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Ferguson",
+               "gender": 2,
+               "credit_id": "52fe4679c3a36847f81012b3",
+               "name": "Rupert Everett",
+               "profile_path": "/jGTaV5htTRo2T0aeM2eoHZcpLG4.jpg",
+               "id": 4757,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Mother",
+               "gender": 1,
+               "credit_id": "52fe4679c3a36847f81012b7",
+               "name": "Eileen Atkins",
+               "profile_path": "/lLT7M1hjhWS2z2sZLIdl910LjNM.jpg",
+               "id": 20300,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Dixon",
+               "gender": 2,
+               "credit_id": "52fe4679c3a36847f81012bb",
+               "name": "Martin Freeman",
+               "profile_path": "/ashlWz2KDQTbo8NPUbVOwcB3zXJ.jpg",
+               "id": 7060,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Mike",
+               "gender": 2,
+               "credit_id": "536f0a200e0a2647d401167b",
+               "name": "Gregor Fisher",
+               "profile_path": "/reJh7YHXEfdvY6dVHyzXOP7eNhs.jpg",
+               "id": 7053,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Fabian",
+               "gender": 2,
+               "credit_id": "536f0a2e0e0a2647d10113a5",
+               "name": "Geoff Bell",
+               "profile_path": "/1zWgEcKr25XSfHGuXdCuFLUvEoX.jpg",
+               "id": 6969,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Gerry Bailey",
+               "gender": 2,
+               "credit_id": "536f0a3f0e0a2647cb0118ab",
+               "name": "Rory Kinnear",
+               "profile_path": "/x6S1iZAHHjtPCCyYKOVMOea6zbU.jpg",
+               "id": 139549,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Jeweller",
+               "gender": 2,
+               "credit_id": "536f0a540e0a2647c8011f0a",
+               "name": "Duncan Duff",
+               "profile_path": "/7ugoNMLaxAgZzEaAt53R7P5GqJK.jpg",
+               "id": 273759,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Appraiser",
+               "gender": 0,
+               "credit_id": "536f0a650e0a2647d10113af",
+               "name": "Graham Seed",
+               "profile_path": "/kq92k8E0r2L9vtXy3a7rQpDCePn.jpg",
+               "id": 1222026,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Barney",
+               "gender": 0,
+               "credit_id": "536f0a7a0e0a2647d4011688",
+               "name": "James O'Donnell",
+               "profile_path": "/fTRuptGvm2ZNslenvJhifDcux1c.jpg",
+               "id": 40722,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Waiter",
+               "gender": 0,
+               "credit_id": "536f0a9e0e0a2647d801198e",
+               "name": "George Rainsford",
+               "profile_path": "/i1VL3LWS7cISuNBRvxWB4wQPZt1.jpg",
+               "id": 1318418,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "First Hotel Receptionist",
+               "gender": 0,
+               "credit_id": "536f0ac70e0a2647c8011f16",
+               "name": "Alexis Rodney",
+               "profile_path": "/bjLs8UTLLBMraGlGPYxq9VMMFVs.jpg",
+               "id": 1211540,
+               "order": 13
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4679c3a36847f81012c1",
+               "name": "Jonathan Lynn",
+               "profile_path": "/nvMGnGbGdXrRvGAjulNqhJWUB9c.jpg",
+               "id": 21217,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "536f0ad90e0a2647c8011f19",
+               "name": "Pierre Salvadori",
+               "profile_path": "/8FlLCyoXV4ibDW7X4CufkLtZb0S.jpg",
+               "id": 51116,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "536f0af30e0a2647db01167b",
+               "name": "Lucinda Coxon",
+               "profile_path": null,
+               "id": 1182720,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "536f0b1c0e0a2647d10113cb",
+               "name": "Michael Parker",
+               "profile_path": null,
+               "id": 53361,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "536f0b280e0a2647d10113d0",
+               "name": "Karen Lindsay-Stewart",
+               "profile_path": null,
+               "id": 10969,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "536f0b340e0a2647d80119a3",
+               "name": "Caroline Greville-Morris",
+               "profile_path": null,
+               "id": 583082,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "536f0b420e0a2647d80119a6",
+               "name": "Jim Glen",
+               "profile_path": null,
+               "id": 1318419,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "536f0b4e0e0a2647c4011c48",
+               "name": "Geraint Powell",
+               "profile_path": null,
+               "id": 583083,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "536f0b5a0e0a2647db011688",
+               "name": "Sheena Napier",
+               "profile_path": null,
+               "id": 77697,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548c1b5925141560900215b",
+               "name": "Michael Price",
+               "profile_path": null,
+               "id": 199526,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5548c4e5c3a368787b002225",
+               "name": "David Johnson",
+               "profile_path": null,
+               "id": 5432,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 7.149816,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 44147,
+      "vote_count": 275,
+      "budget": 8000000,
+      "overview": "Victor Maynard is a middle-aged, solitary assassin, who lives to please his formidable mother, despite his own peerless reputation for lethal efficiency. His professional routine is interrupted when he finds himself drawn to one of his intended victims, Rose. He spares her life, unexpectedly acquiring in the process a young apprentice, Tony. Believing Victor to be a private detective, his two new companions tag along, while he attempts to thwart the murderous attentions of his unhappy client",
+      "similar": [
+         156022,
+         245891,
+         10651,
+         36349,
+         949,
+         1948,
+         49524,
+         682,
+         241554,
+         2252,
+         101,
+         445954,
+         9401,
+         8292,
+         399173,
+         8012,
+         4771,
+         186,
+         1538,
+         75780
+      ],
+      "original_title": "Wild Target",
+      "runtime": 98,
+      "poster_path": "/x1O8MOIY41fpKbCUt1I4sKeLwwr.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Regent Capital",
+            "id": 12696,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/uuj37wq2xE3Vru17BOs86ScNRc5.png",
+            "name": "Magic Light Pictures",
+            "id": 5644,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "CinemaNX",
+            "id": 5705,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/wgDks2qYgwN6u1OkW1bBre0rf4F.png",
+            "name": "Isle of Man Film",
+            "id": 2268,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Entertainment Film Distributors",
+            "id": 23164,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Matador Pictures",
+            "id": 707,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cinema Four",
+            "id": 6984,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2010-06-17",
+      "vote_average": 6.3,
+      "belongs_to_collection": null,
+      "tagline": "They said 'Take her out'. He got the wrong idea.",
+      "adult": false,
+      "homepage": "http://www.wildtargetmovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jonathan Lynn"],
+      "runtime": 98,
+      "synopsis": "Victor Maynard (Bill Nighy) is an expert and effective assassin living a lonely life in accordance with his family's business. Victor follows a family line of professional assassins, and he completes his assignments quickly and without remorse. One afternoon, after killing one of his targets, he hesitates in killing the pet parrot, Roger, and instead takes him as a gift to his mother, Louisa (Eileen Atkins) a formidable woman who was, until recently, also Victor's housemate. In celebration of his 55th birthday, she gives him a leather bound book with newspaper clippings of each of his kills from his first to his most recent, leaving pages for future hits to be included. She also expresses concern that he might be gay, wondering why he hasn't produced a successor. Rose (Emily Blunt) is a not-so-average girl with a talent for thievery. Her most recent theft involves the sale of a fake Rembrandt painting (painted by her friend in the Restoration Department of the National Gallery) to Ferguson (Rupert Everett), managing to swindle him out of £900,000. Ferguson soon discovers the swap and hires the best hitman, Victor Maynard, to dispose of her. Victor takes the case and immediately tracks Rose down, missing several opportunities to kill her, and accidentally killing a random market stall customer in a changing room. He follows her to a balcony opposite her hotel room and tries to shoot her through the window, but is interrupted by the arrival of the front doorman. Victor sets up a microphone and headset to keep her under surveillance, but falls asleep, unable to listen to their noisy lovemaking. He wakes the following morning, just as she is leaving. He has the opportunity to shoot but hesitates. His mother, Louisa, is upset by this missed target (and has apparently murdered Roger with a knitting needle) and suggests that Victor apologize to his employer and offer to do the hit for free. He tracks Rose down in a parking garage where he sees another hitman ready to kill her. He takes the preemptive shot, killing the other assassin. He and Rose get into her car, only to be forced out again by Mike (Gregor Fisher), another assassin hiding in the back seat of her Mini. Mike knocks Victor's gun away and lines them up against the wall to be shot and killed, but instead is wounded by Tony (Rupert Grint), an apparently homeless young man who had picked up the dead man's gun. Saying it was his first time handling a firearm, he impresses Victor enough for Victor to consider making Tony his protégé, but he sends Tony home and Victor and Rose flee. Mike starts firing at them and they nearly run over Tony on his way out of the garage, forcing him to join the ride. Rose offers Victor his price of 30,000 pounds a week for her protection, believing that he is merely a private detective. They travel to a luxury hotel where they can lie low, but by chance get a room on the same floor as Ferguson. Ferguson hires Dixon (Martin Freeman), reputed to be second only to Maynard in proficiency, to kill Rose and Maynard. After several close calls, Mike, who is also Ferguson's bodyguard, discovers their whereabouts when he spots a pair of boots that Rose had stolen from his dead partner. Tony is attacked in the bathroom and nearly drowned in the bathtub by Mike, but he turns the tables and accidentally shoots Mike's ear off before the three of them escape the hotel. Ferguson and Mike pursue them in a high-speed chase through the streets of London until Mike loses control and crashes, sending the pair to the hospital. They travel to Maynard's home, a quaint farm far in the country, where his furniture is shrink-wrapped and his cat, Snowy, resides with him. Maynard takes Tony on as his apprentice in \"private detective\" work. One night, Rose is attacked by Louisa, who had come back to the house to finish what her son had started. He eventually talks her down and after she leaves, the three of them work on becoming friends. Rose and Tony help Victor celebrate his birthday, and, after a brief period of sexual confusion between Tony and Maynard, Victor falls in love with and sleeps with Rose. Afterward, his attitude becomes more cheerful, and Victor peels off the plastic coverings on all of his furniture and opens up the house. Meanwhile, Rose snoops around Victor's room, finding the leather book that his mother had given him and learning that she was actually his target for assassination. She also finds Victor's father's first gun, a Broomhandle Mauser, and takes it for self-protection. She storms out of the house after making it clear that she trusts neither Victor nor Tony, and returns to the National Gallery, only to find her friend dead and Dixon and his assistant, Fabian, (Geoff Bell) waiting for her. They quickly return to Victor's home, and Tony and Victor gain the upper hand when Louisa appears, killing Fabian with a machine gun. Dixon withdraws the old gun Rose had taken from Victor's room and fires at Victor. It backfires, sending the bolt into his skull. Victor, Tony and Rose bury the pair in the back yard and return to their lives. Three years later, Victor and Rose are married with a son named Angel and Tony has moved in with them. While Angel is playing one morning, Tony comes outside asking Victor and Rose where the cat had gone off to. They look at Angel in awe as he is innocently patting soft dirt into the yard, suggesting he killed and buried the cat. Victor smiles with pride.",
+      "writers": [
+         "Lucinda Coxon",
+         "Pierre Salvadori"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1235189/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ1ODIzNDYyMl5BMl5BanBnXkFtZTcwMTc1NDk5Mw@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Bill Nighy, Emily Blunt, Rupert Grint | See full cast and crew »"],
+      "reviews": [
+         "I thoroughly enjoyed this film and found the story to be original and funny throughout. Emily Blunt plays an extremely sexy con-artist who crosses paths with an up-tight Bill Nighy playing a professional assassin hired to kill her. The characters are likable and well-cast. Bill Nighy and Emily Blunt strike up a modern day love-story that is unconventional and yet somehow totally believable. The family bond that is established with Rupert Grint as the adopted son worked very well and was charming. If you want to see something different, interesting and funny then I really recommend giving this film a chance.",
+         "Well, in contrast to the first review, i felt that this was a hilariously funny attribute to the British film industry. With continuous amusing modern slap stick humour throughout. I had been looking forward to the release of this film for a while, and it was far better than i had ever expected. The cinema was packed and everyone was laughing throughout the entire film, which in my experience is very rare. There is an incredible cast containing many well known British actors/ actresses, overall a must see film. Looking forward to the DVD release. Thank you. x",
+         "I thoroughly enjoyed this film and thought it was very entertaining. True, there were only a few laugh-out-loud moments, but it kept me chuckling away for most of the 90-odd minutes. I thought Bill Nighy's performance was spot-on and Eileen Atkins' role gave her plenty of scope for comedy moments. Rupert Everett and Gregor Fisher worked well together, and Martin Freeman was very good as Dixon. Although the plot was simple, the film was reminiscent of a lot of British comedies from the Sixties and Seventies, which was probably why I enjoyed it so much. It was also good to see something that wasn't shot in America and didn't follow the stereotypical plot lines that most American films seem to have as a matter of course.",
+         "If your taste is really obvious commercial and/or big budget comedies then this might not be for you but if you have a soft spot for classic British comedies that are a bit quirky, don't try to hard then this should definitely be up your street. It has an excellent cast that all play their characters perfectly although very typically. Rupert Everett is predictably his usual self as is Bill Nighy but both quite excellently so. I've seen a couple of negative reviews of this movie but it needs to be emphasised that it's not a mass market comedy. The story is great and the timing of some of the jokes is absolutely perfect. This is actually one of the few films I'd like to own a copy of when it's released.",
+         "I ended up seeing this title in one of those frustrating moments where my main choice of feature was either on at the wrong time, had not even been released yet or my friends just flatly did not want to see the same things as I, and so we ended up going to Wild Target as an inoffensive compromise. I was expecting it to be real cheesy and void of humour, especially after having seen the trailer. I was pleasantly surprised! Okay, when one goes to the cinema with such low expectations, they can only but move in one direction, but nevertheless I have to commend the movie on several points. I thought all the one-liners would have been used up in the trailer (and those that I had seen had seemed tacky at best) but I guess the movie isn't about one-liners. Rather then relying on half cocked jokes, it pulls itself onto its own two feet using situational comedy, which gives it a real British flavour. I heard it compared to the humour of the old Earling Studio movies, which seems like a nice comparison. Actually, on doing a little research, I found that the original story came from a French movie (Cible émouvante, 1993). It's easy to tell from the zany characters, offbeat humour and introspective look on life that it was originally French in theme, but as a story it translates nicely onto a typically British backdrop. Basically Victor Maynard, a cold hearted hit-man played by Bill Nighy (great performance as always - he's legend!) is a middle aged unmarried killing professional who is beginning to loose his touch. This becomes no more obvious when he fails to make a hit on the sensually beautiful Rose (Emily Blunt). Things start to get complicated for Victor when he finds, not only has he lost the killer instinct, but he also starts protecting her from the men sent to finish the job. I'm not sure about the Rupert Grint character of Tony. He seems the most out of place in my opinion. I suppose Tony was added to feed in a further dynamic between Victor and Rose and their growing relationship, but for me, this relationship triangle was either not developed fully or just failed outright. Maybe it held more credence in the original French story, but in the English version at least, Tony really does feel like the spare tire as his presence seems unnecessary and the character's attributes hammy. By far the weakest link the movie. Quirky and light hearted; it may only be a lighter shade of grey rather then a full blown black comedy (12A Cert in Ireland), but still a pleasant surprise if you come to stumble upon it.",
+         "Wild Target is the ultimate British black comedy, which makes a refreshing change from all the Hollywood movie's right now.This is hilarious throughout with laughs going to all the cast. Billy Nighy, Emily Blunt and Rupert Grint give terrific performances with superb support from Martin Freeman, Gregory Fisher and Eileen Atkins who make the most of their time on the screen. There is a lovely chemistry of romance between Blunt and Nighy and you care about the characters and that's what makes this movie so intelligent, though they commit crimes like Nighy is an assassin and has killed people and Blunt is a thief, the audience can remained attached enough to laugh at their predicament but at the same time care about the characters and what happens to them as Nighy falls for Blunt and at the same time they and Grint become like a family, and that is difficult to pull off, but this film does it tremendously. It's also surprisingly touching in places as the transition from romance to drama to comedy is handled seamlessly blending lovely together. The story though basic is good enough and the script is structured beautifully with sharpness and wit embedded within. A terrific British comedy that is one of a kind. It deserves all the praise it has and will receive and judging by the 7.8 IMDb rating it has been given I'd say the praise is high. It's a rating well deserved",
+         "What can I add to a great British comedy more than other's reviews? Well, it was fresh, fun, a touch of sexiness and simply fun. (I said it twice?) We were 11 and if we were in US, I think we could file for a 3rd grade murder by suffocation! It was an instance in the movie when Bill Nighy said, \"May I do your other foot!\". I can tell you guys that, 7 of my friends choked instantly on the buttered pop-corns and I, as the only person in the row, tears in the eyes, still breathing, had to take care of them all. Coughing, tears in the eyes hitting their backs! Lucky we were not thrown out of the theater! It is a fresh, British humor, Classy and Cool movie. Give it a try.",
+         "For those who haven't seen Ciblé Émovante from 1993 do. But Wild Target is seriously a tremendous remake. Very very funny and just plain good fun - this harks back to the golden age of British comedies, sidesteps (in the main) Guy Ritchie and goes for that same vibe that Shooting Fish had. The plot of the buttoned-down assassin and the kooky girl and the guy who gets involved by mistake is a vehicle to hang some great lines and situations on; let's just say it involves art forgery, hired guns, kleptomania, and Snowy the Cat. Brilliant stuff. Bill Nighy does his usual comic timing to perfection and he and Emily Blunt, along with the two Ruperts, Grint and Everett, bring a real sense of fun to this. Well supported and very well directed there's not much to complain about here - it's just a great comedy and taken as that you could do much worse. Honestly, we haven't laughed or just flat out enjoyed a film this much in a long time - it's got a wonderful vibe to it that just makes watching it fun - and after all it's nice to get back to some good old fashioned killing without all the pizazz.... Highly recommended if you like British comedies, do try to get to see the french original, it's a corker, but this, this one is going in my collection....",
+         "While others seem to have found the film a letdown, I found it quite the opposite, expecting it to be an overly quirky and trying too hard to be different, a flaw with many smaller British and independent film today. Wild Target stuck to old formulas. this is not a criticism this film is not trying to be as serious as Leon instead it was enjoyable because you knew what was going to happen all along really the joy was the bedlam that gets you there. Its slapstick and camp and just plain silly. I agree with danielkratky, it is a silly love story that despite your better judgement is in the end believable you just have to be willing to Wild target is a short film and to expect it to develop the characters beyond what is done is not needed, there's the good, the bad and the gormless and because of this it lulls you along with a nice wistful story of murder and mayhem rapt in some good over the top acting from everyone. Grint whom I loath as Ron in harry potter made good in this film, despite still playing the slightly clueless tag-along. if you want a serious look at a hit-man changing his life then go and watch The American or by Leon on DVD. (solid_simon may i suggest that you were the only person in the screening hence the lack of laughter)",
+         "Victor Maynard (Bill Nighy) is a 50-odd, fastidious, austere hit-man. He is commissioned to kill Rose (Emily Blunt) who has just conned art collector Ferguson (Rupert Everett) with a forged painting. While in pursuit of her, Victor becomes intrigued by the fact that her entire life is simply loaded with unthinking theft, and he not only fails to kill her but is instrumental in saving her life from another attempted hit (in which he is helped by innocent bystander and homeless orphan Tony (Rupert Grint). The three go on the run and gradually Rose brings some joie de vivre into Victor's life and she, in turn, comes to see something lovable in him. This highly improbable film works, and it works because the two main actors (Nighy playing the driest of dry old sticks, and Blunt playing an amoral but good-hearted free spirit) deliver their parts with the utmost conviction. The script is gently humorous rather than laugh-out-loud funny, but a smile hit my face very early on and seldom left it. Rupert Grint gets a bit more to do than simply be Ron Weasley after having left school, but is otherwise fairly disposable. Martin Freeman showcases some splendidly unlikely teeth. Emily Blunt plays much more attractively than she has in any other film I've seen her in, and takes part in a foot massage scene with Nighy which is, frankly, the most sensuous scene I've seen on screen for a long time. The movie was made by the same production company which made A Bunch Of Amateurs a couple of years ago and, notwithstanding the subject matter, it has a similar feel to it. But deduct a point for a title which is so bland as to be meaningless. I thoroughly enjoyed it, as did the (mature) audience who were in the cinema at my viewing."
+      ],
+      "genres": [
+         "Action",
+         "Comedy",
+         "Crime"
+      ],
+      "productionCompanies": [
+         "Magic Light Pictures",
+         "CinemaNX",
+         "Isle of Man Film"
+      ],
+      "summaries": [
+         "Victor Maynard is a middle-aged, solitary assassin, who lives to please his formidable mother, despite his own peerless reputation for lethal efficiency. His professional routine is interrupted when he finds himself drawn to one of his intended victims, Rose. He spares her life, unexpectedly acquiring in the process a young apprentice, Tony. Believing Victor to be a private detective, his two new companions tag along, while he attempts to thwart the murderous attentions of his unhappy client.",
+         "Hit-man Victor Maynard is proud of his family's tradition in the profession, and is endlessly reminded of his heritage by his interfering mother. When he has problems completing a contract on Rose he is very annoyed to find another company brought in to complete the job. Impulsively defending his former target he finds he is now in danger himself. This is new territory for him - protecting a kleptomaniac wild cannon, or, to put it another way, a head-strong but very attractive young lady.",
+         "A hitman tries to retire but a beautiful thief may change his plans."
+      ],
+      "budget": 8000000
+   },
+   "movielensId": 81804,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2010-06-17",
+      "dvdReleaseDate": "2011-02-08",
+      "directors": ["Jonathan Lynn"],
+      "runtime": 98,
+      "movieId": 81804,
+      "title": "Wild Target",
+      "mpaa": "PG-13",
+      "actors": [
+         "Bill Nighy",
+         "Emily Blunt",
+         "Rupert Grint",
+         "Rupert Everett",
+         "Eileen Atkins",
+         "Martin Freeman",
+         "Gregor Fisher",
+         "Geoff Bell",
+         "Rory Kinnear",
+         "Duncan Duff",
+         "Graham Seed",
+         "James O'Donnell",
+         "George Rainsford",
+         "Alexis Rodney"
+      ],
+      "imdbMovieId": "1235189",
+      "originalTitle": "Wild Target",
+      "genres": [
+         "Action",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["PmS3ePcA6VU"],
+      "plotSummary": "Victor Maynard is a middle-aged, solitary assassin, who lives to please his formidable mother, despite his own peerless reputation for lethal efficiency. His professional routine is interrupted when he finds himself drawn to one of his intended victims, Rose. He spares her life, unexpectedly acquiring in the process a young apprentice, Tony. Believing Victor to be a private detective, his two new companions tag along, while he attempts to thwart the murderous attentions of his unhappy client",
+      "tmdbMovieId": 44147,
+      "avgRating": 3.45833,
+      "releaseYear": "2010",
+      "numRatings": 276,
+      "posterPath": "/x1O8MOIY41fpKbCUt1I4sKeLwwr.jpg"
+   }
+}

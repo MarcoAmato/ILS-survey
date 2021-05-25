@@ -1,0 +1,954 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "fish",
+            "id": 1357
+         },
+         {
+            "name": "amnesia",
+            "id": 1453
+         },
+         {
+            "name": "sequel",
+            "id": 9663
+         },
+         {
+            "name": "animation",
+            "id": 10336
+         },
+         {
+            "name": "talking animal",
+            "id": 11477
+         },
+         {
+            "name": "anthropomorphism",
+            "id": 11500
+         },
+         {
+            "name": "underwater",
+            "id": 14785
+         }
+      ],
+      "imdb_id": "tt2277860",
+      "video": false,
+      "title": "Finding Dory",
+      "recommendations": [
+         269149,
+         328111,
+         105864,
+         277834,
+         278927,
+         12,
+         150540,
+         62211,
+         140300,
+         9487,
+         2062,
+         241259,
+         278154,
+         863,
+         9806,
+         335797,
+         223702,
+         259316,
+         159824,
+         313297
+      ],
+      "backdrop_path": "/3iSCdXjDmY3DuEOUYsElu35vQU6.jpg",
+      "revenue": 1028570889,
+      "reviews": [{
+         "author": "Reno",
+         "id": "5835dce5c3a3682fad019c4a",
+         "content": "**Before Nemo, a long ago another child got lost in the open ocean...**\r\n\r\nWhoa! 200 million dollar film, 1 billion box office collections worldwide. The 27th film to do that so and the 5th animation film. This sequel was made after 13 years, surely a long gab, but 'Finding Nemo' was one of my favourite animations, tell me who does not love it those who love animation. Nevertheless, I liked the idea of having a sequel, but I scared it would go to flop terribly. Now, after watching this, I totally stunned. This is not a greatest animation ever made, but the way the screenplay handled, along with other stuffs, this makes one of the best among its kind.\r\n\r\nFirstly, when I heard the sequel's title, it made me laugh. Like, whaaaat? Once again the story is going to repeat. I did not think it would bring a big change. Actually, it was a different tale, especially I was not expecting it to be emotional. Tell me how many tearjerker-animation you have seen. Once again the Disney-Pixar jointly did it. I think appreciation must go to the director who also made the original film. Great casting too, I mean the voice- over artists.\r\n\r\nWe know that Dory is severely suffering from the short term remembory (memory) loss. Now this tale is going to reveal her backstory. From her childhood to till she meets Marlin and then Nemo, there was a series of forgotten events. She slowly regains some of those memories and begins her quest to find out more. This is where she gets lost, but the title defines that she was lost before and now looking a way to get back where she really belongs.\r\n\r\nFor me, after 'Frozen', this film is what emotionally got me. The value of having family and friends beautifully disclosed. It might be an animation, but still a meaningful story from many perspectives. Lots of new characters were introduced and those were really cool ones. I expect theirs short animations to make its way about their origins, particularly Hank the octopus and his story about how he lost one of his tentacles.\r\n\r\nThe Oscars is the quarter of a year away, but releasing nominees would come weeks ahead. So it's about time to learn where this one fit in. But I'm anticipating close contest between this, 'Zootopia' and 'Red Turtle'. Coming back to the review, this is a good watch, for everybody, so I highly recommend it. I hope there will be a third film, but like I had felt before this, I desire it and then I'm not sure it would extend its legacy to further. So fingers crossed!\r\n\r\n_9/10_",
+         "url": "https://www.themoviedb.org/review/5835dce5c3a3682fad019c4a"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Dory (voice)",
+               "gender": 1,
+               "credit_id": "52fe4af8c3a368484e1707ab",
+               "name": "Ellen DeGeneres",
+               "profile_path": "/wBB6C4IGsYlHzIEMW6Q3JIvNAfz.jpg",
+               "id": 14,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Marlin (voice)",
+               "gender": 2,
+               "credit_id": "52fe4af8c3a368484e1707af",
+               "name": "Albert Brooks",
+               "profile_path": "/kahlMTdygrPJ28VYRhKPavYD9hs.jpg",
+               "id": 13,
+               "order": 1
+            },
+            {
+               "cast_id": 16,
+               "character": "Nemo (voice)",
+               "gender": 2,
+               "credit_id": "568f00959251416b52003cde",
+               "name": "Hayden Rolence",
+               "profile_path": "/nq2yqye8ioIemwmSIz6R76YpiJZ.jpg",
+               "id": 1559638,
+               "order": 2
+            },
+            {
+               "cast_id": 14,
+               "character": "Hank (voice)",
+               "gender": 2,
+               "credit_id": "568f0076c3a368590600418a",
+               "name": "Ed O'Neill",
+               "profile_path": "/pw37XR7Rvw50GWZ3c7rEibn8oAi.jpg",
+               "id": 18977,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Jenny (voice)",
+               "gender": 1,
+               "credit_id": "52fe4af8c3a368484e1707b3",
+               "name": "Diane Keaton",
+               "profile_path": "/fzgUMnbOkxC6E3EFcYHWHFaiKyp.jpg",
+               "id": 3092,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Charlie (voice)",
+               "gender": 2,
+               "credit_id": "52fe4af8c3a368484e1707b7",
+               "name": "Eugene Levy",
+               "profile_path": "/69IBiDjU1gSqtrcGOA7PA7aEYsc.jpg",
+               "id": 26510,
+               "order": 5
+            },
+            {
+               "cast_id": 13,
+               "character": "Destiny (voice)",
+               "gender": 1,
+               "credit_id": "568f0066c3a3685902004198",
+               "name": "Kaitlin Olson",
+               "profile_path": "/t8I6YPdmPTBgdY5ymqygCxciMYf.jpg",
+               "id": 95102,
+               "order": 6
+            },
+            {
+               "cast_id": 7,
+               "character": "Bailey (voice)",
+               "gender": 2,
+               "credit_id": "52fe4af8c3a368484e1707bb",
+               "name": "Ty Burrell",
+               "profile_path": "/hJeOomahu5I7CgODCU9jh7oPsu6.jpg",
+               "id": 15232,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Fluke (voice)",
+               "gender": 2,
+               "credit_id": "568f0008c3a36858ec003de6",
+               "name": "Idris Elba",
+               "profile_path": "/d9NkfCwczP0TjgrjpF94jF67SK8.jpg",
+               "id": 17605,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Rudder (voice)",
+               "gender": 2,
+               "credit_id": "568f0081c3a36858f4003b7b",
+               "name": "Dominic West",
+               "profile_path": "/56zmVMiuUhqas13xn700hvXUA32.jpg",
+               "id": 17287,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Wife Fish (voice)",
+               "gender": 1,
+               "credit_id": "571182809251410aab000b2a",
+               "name": "Kate McKinnon",
+               "profile_path": "/jzgiKHmkhxhvELnq9ccDkFc8Ynn.jpg",
+               "id": 1240487,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Husband Fish (Stan) (voice)",
+               "gender": 2,
+               "credit_id": "571182899251417fc0000a73",
+               "name": "Bill Hader",
+               "profile_path": "/3Z5JsyLw7YTLZgpA3FAlLmFSN9F.jpg",
+               "id": 19278,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Crush (voice)",
+               "gender": 2,
+               "credit_id": "5711829b9251410a68000ae0",
+               "name": "Andrew Stanton",
+               "profile_path": "/pvQWsu0qc8JFQhMVJkTHuexUAa1.jpg",
+               "id": 7,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Gerald (voice)",
+               "gender": 0,
+               "credit_id": "571182a99251417f87000f1b",
+               "name": "Torbin Xan Bullock",
+               "profile_path": null,
+               "id": 8065,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Squirt (voice)",
+               "gender": 0,
+               "credit_id": "571182b99251417f87000f21",
+               "name": "Bennett Dammann",
+               "profile_path": "/bi3Zvv95qUcUu4w3BkbmeiZd7BZ.jpg",
+               "id": 1606371,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Mr. Ray (voice)",
+               "gender": 2,
+               "credit_id": "575a9ef5c3a36805d8001429",
+               "name": "Bob Peterson",
+               "profile_path": "/13YNM8lBKnK26MYd2Lp3OpU6JdI.jpg",
+               "id": 10,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "Passenger Carl (voice)",
+               "gender": 2,
+               "credit_id": "575a9ef6c3a3684188000f8c",
+               "name": "Alexander Gould",
+               "profile_path": "/c4EHOhxzwx7uDBxC8zODvKAEFGX.jpg",
+               "id": 12,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Chicken Fish (voice)",
+               "gender": 0,
+               "credit_id": "575a9ef692514128fa0014b8",
+               "name": "Katherine Ringgold",
+               "profile_path": "/se4SkPHGzo7RHi9kXbfgyFvLErH.jpg",
+               "id": 8066,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Husband Crab (Bill) (voice)",
+               "gender": 2,
+               "credit_id": "575a9ef7925141563e000e47",
+               "name": "John Ratzenberger",
+               "profile_path": "/yGechiKWL6TJDfVE2KPSJYqdMsY.jpg",
+               "id": 7907,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "Sunfish 'Charlie Back and Forth' (voice)",
+               "gender": 0,
+               "credit_id": "575a9ef7c3a36805d800142b",
+               "name": "Angus MacLane",
+               "profile_path": "/7U1mEvzHGNJiC07EOhKIKSl3Qiy.jpg",
+               "id": 7929,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Gill (voice)",
+               "gender": 2,
+               "credit_id": "575a9ef7c3a36805d800142d",
+               "name": "Willem Dafoe",
+               "profile_path": "/xM5lhOR5tWWdIlFpBDeZJx9opIP.jpg",
+               "id": 5293,
+               "order": 21
+            },
+            {
+               "cast_id": 32,
+               "character": "Bloat (voice)",
+               "gender": 2,
+               "credit_id": "575a9ef8c3a36805d800142f",
+               "name": "Brad Garrett",
+               "profile_path": "/wXihtlnIvqP2oSNj33hiorDd3v9.jpg",
+               "id": 18,
+               "order": 22
+            },
+            {
+               "cast_id": 33,
+               "character": "Peach (voice)",
+               "gender": 1,
+               "credit_id": "575a9ef8c3a3683ada000fa7",
+               "name": "Allison Janney",
+               "profile_path": "/cDcB8mKP1GiIeoM3Qe7GIucs0iv.jpg",
+               "id": 19,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Gurgle (voice)",
+               "gender": 2,
+               "credit_id": "575a9ef8925141563e000e49",
+               "name": "Austin Pendleton",
+               "profile_path": "/pxcdhd4oAsnhvUg0BalmiiKJyXg.jpg",
+               "id": 6168,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Bubbles (voice)",
+               "gender": 2,
+               "credit_id": "575a9ef89251412dc1001451",
+               "name": "Stephen Root",
+               "profile_path": "/sceCvLiv8xe2jQzrVn39wvosVHG.jpg",
+               "id": 17401,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Deb (&Flo) (voice)",
+               "gender": 1,
+               "credit_id": "575a9ef9c3a3686ad80017c4",
+               "name": "Vicki Lewis",
+               "profile_path": "/vXKKbsYikbLZ3DS1GbCWwMoqDN7.jpg",
+               "id": 14723,
+               "order": 26
+            },
+            {
+               "cast_id": 37,
+               "character": "Jacques (voice)",
+               "gender": 2,
+               "credit_id": "575a9ef9c3a36805d8001431",
+               "name": "Jerome Ranft",
+               "profile_path": "/pmiQZq5JEhCjhdsIuMaP6Fkt0e9.jpg",
+               "id": 7960,
+               "order": 27
+            },
+            {
+               "cast_id": 51,
+               "character": "Young Dory (voice)",
+               "gender": 0,
+               "credit_id": "5802af8f9251413db3000485",
+               "name": "Sloane Murray",
+               "profile_path": null,
+               "id": 1695063,
+               "order": 28
+            },
+            {
+               "cast_id": 52,
+               "character": "Tween Dory (voice)",
+               "gender": 0,
+               "credit_id": "5802af8fc3a3687348000465",
+               "name": "Lucia Geddes",
+               "profile_path": null,
+               "id": 1695064,
+               "order": 29
+            },
+            {
+               "cast_id": 53,
+               "character": "Becky",
+               "gender": 0,
+               "credit_id": "5802af90c3a368549e005ceb",
+               "name": "Gabriel C. Brown",
+               "profile_path": null,
+               "id": 1695065,
+               "order": 30
+            },
+            {
+               "cast_id": 79,
+               "character": "Sigourney Weaver (voice)",
+               "gender": 1,
+               "credit_id": "59bf4a14c3a368307500caf5",
+               "name": "Sigourney Weaver",
+               "profile_path": "/gxBIAr3CnBjkNRoPovVJCvEGqP0.jpg",
+               "id": 10205,
+               "order": 31
+            },
+            {
+               "cast_id": 81,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5a57cf94c3a36825bf004cff",
+               "name": "Riley Lio",
+               "profile_path": "/ygzJHdd1PTQCVz0j34hkPnnjX5o.jpg",
+               "id": 1958072,
+               "order": 32
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "576195f19251415c2b000299",
+               "name": "Axel Geddes",
+               "profile_path": null,
+               "id": 8071,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4af8c3a368484e1707a7",
+               "name": "Andrew Stanton",
+               "profile_path": "/pvQWsu0qc8JFQhMVJkTHuexUAa1.jpg",
+               "id": 7,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55eb2fbb92514106d60041ab",
+               "name": "Andrew Stanton",
+               "profile_path": "/pvQWsu0qc8JFQhMVJkTHuexUAa1.jpg",
+               "id": 7,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5761958fc3a36856db000058",
+               "name": "Victoria Strouse",
+               "profile_path": "/n4ZvLyMQmIGx6257xZnEJb41fP7.jpg",
+               "id": 1396739,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "576195a4c3a3685764000046",
+               "name": "Victoria Strouse",
+               "profile_path": "/n4ZvLyMQmIGx6257xZnEJb41fP7.jpg",
+               "id": 1396739,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576195bdc3a36856db000060",
+               "name": "Andrew Stanton",
+               "profile_path": "/pvQWsu0qc8JFQhMVJkTHuexUAa1.jpg",
+               "id": 7,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576194e29251415c2b00027a",
+               "name": "Thomas Newman",
+               "profile_path": "/nZSsNIrjbkqqxFYwsD3zcHskxdP.jpg",
+               "id": 153,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576195d9c3a36856db000064",
+               "name": "Bob Peterson",
+               "profile_path": "/13YNM8lBKnK26MYd2Lp3OpU6JdI.jpg",
+               "id": 10,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57619605c3a368336a000295",
+               "name": "Lindsey Collins",
+               "profile_path": null,
+               "id": 72753,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576196169251415c25000295",
+               "name": "John Lasseter",
+               "profile_path": "/7EdqiNbr4FRjIhKHyPPdFfEEEFG.jpg",
+               "id": 7879,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576196239251415c270002de",
+               "name": "Bob Roath",
+               "profile_path": null,
+               "id": 1123360,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "576196589251415c270002e4",
+               "name": "Natalie Lyon",
+               "profile_path": null,
+               "id": 963497,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5761965dc3a368336a0002a3",
+               "name": "Kevin Reher",
+               "profile_path": null,
+               "id": 57673,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576196879251415c2b0002b4",
+               "name": "Jeremy Lasky",
+               "profile_path": "/6jue4yNU3XazP4mTMep7fCuK9VR.jpg",
+               "id": 7988,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca3d692514110d6003bc2",
+               "name": "Hosuk Chang",
+               "profile_path": null,
+               "id": 1715746,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca2d4c3a368359d003aa5",
+               "name": "Robb Denovan",
+               "profile_path": null,
+               "id": 1715743,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "583ca2ebc3a36835a7003803",
+               "name": "Michal Makarewicz",
+               "profile_path": null,
+               "id": 1609044,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca30292514110d6003b24",
+               "name": "Claire Faggioli",
+               "profile_path": null,
+               "id": 1715744,
+               "department": "Visual Effects",
+               "job": "Animation Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca314c3a3683597003ef0",
+               "name": "Sara Maher",
+               "profile_path": null,
+               "id": 1122215,
+               "department": "Visual Effects",
+               "job": "Animation Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca32e92514110d6003b43",
+               "name": "David DeVan",
+               "profile_path": null,
+               "id": 8018,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca343c3a36835a5003c2f",
+               "name": "Michael Stocker",
+               "profile_path": null,
+               "id": 1715745,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca3ec92514110d2003abe",
+               "name": "David Lipton",
+               "profile_path": null,
+               "id": 1715747,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca42792514110df003ae3",
+               "name": "Andrew Wheeler",
+               "profile_path": null,
+               "id": 1715748,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca45692514110d9003817",
+               "name": "Ian Megibben",
+               "profile_path": null,
+               "id": 1636397,
+               "department": "Crew",
+               "job": "Lighting Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca4aa92514110df003b32",
+               "name": "James Spencer",
+               "profile_path": null,
+               "id": 1649532,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca4be92514110df003b3d",
+               "name": "Shelley Roden",
+               "profile_path": null,
+               "id": 80827,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "583ca4d1c3a368359a003bee",
+               "name": "John Roesch",
+               "profile_path": null,
+               "id": 1116937,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca4ea92514110ca003b15",
+               "name": "Tim Nielsen",
+               "profile_path": null,
+               "id": 1394129,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca50a92514110d6003c9c",
+               "name": "Ken Fischer",
+               "profile_path": null,
+               "id": 1401786,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca51f92514110d90038ba",
+               "name": "Jack Whittaker",
+               "profile_path": null,
+               "id": 1408799,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca53392514110d2003b9e",
+               "name": "Jonathan Borland",
+               "profile_path": null,
+               "id": 1550780,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca54792514110df003b98",
+               "name": "Steve Slanec",
+               "profile_path": null,
+               "id": 1556632,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca569c3a36835970040b2",
+               "name": "Dana Frankoff",
+               "profile_path": null,
+               "id": 1715749,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca57cc3a368359a003c58",
+               "name": "Bert Berry",
+               "profile_path": null,
+               "id": 1516157,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "583ca5c592514110cd003beb",
+               "name": "Steve Pilcher",
+               "profile_path": null,
+               "id": 12092,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ca5e892514110d6003d3f",
+               "name": "Paul Abadilla",
+               "profile_path": null,
+               "id": 1715751,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58a75980c3a36850bd00158d",
+               "name": "James W. Brown",
+               "profile_path": null,
+               "id": 1455510,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f59dcf92514142c900d7ee",
+               "name": "Angus MacLane",
+               "profile_path": "/7U1mEvzHGNJiC07EOhKIKSl3Qiy.jpg",
+               "id": 7929,
+               "department": "Directing",
+               "job": "Co-Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab3e79c0e0a265f2400d2d2",
+               "name": "Don Shank",
+               "profile_path": null,
+               "id": 1218983,
+               "department": "Art",
+               "job": "Art Direction"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 42.178838,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 127380,
+      "vote_count": 5493,
+      "budget": 200000000,
+      "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+      "similar": [
+         10555,
+         38055,
+         12,
+         140300,
+         116149,
+         9325,
+         9836,
+         335797,
+         10865,
+         113594,
+         9598,
+         3933,
+         533,
+         333667,
+         9447,
+         326359,
+         12609,
+         9986,
+         15854,
+         12593
+      ],
+      "original_title": "Finding Dory",
+      "runtime": 97,
+      "poster_path": "/z09QAf8WbZncbitewNk6lKYMZsh.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+         "name": "Pixar",
+         "id": 3,
+         "origin_country": "US"
+      }],
+      "release_date": "2016-06-16",
+      "vote_average": 6.9,
+      "belongs_to_collection": {
+         "backdrop_path": "/2hC8HHRUvwRljYKIcQDMyMbLlxz.jpg",
+         "name": "Finding Nemo Collection",
+         "id": 137697,
+         "poster_path": "/xwggrEugjcJDuabIWvK2CpmK91z.jpg"
+      },
+      "tagline": "An unforgettable journey she probably won't remember.",
+      "adult": false,
+      "homepage": "http://movies.disney.com/finding-dory",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Andrew Stanton",
+         "Angus MacLane"
+      ],
+      "runtime": 97,
+      "synopsis": "A five-year-old blue tang is practicing introducing herself with her parents, Charlie (voice of Eugene Levy) and Jenny (voice of Diane Keaton). \"Hi, I'm Dory, and I have short-term remembory loss.\" They start a game of hide-and-seek with her, but as soon as she starts counting, she forgets about the game. Seeing the look on her parents' faces, she says \"Did I forget again?\" Jenny tells her not to worry, and she asks what will happen if she forgets her parents. \"Would you ever forget me?\" Jenny says, \"We will never forget you, Dory. And we know you'll never forget us.\" Weeks later, Dory was swimming in the ocean alone, asking other fish for help, but since she couldn't remember anything, nobody could help her. \"Just keep swimming, just keep swimming,\" she sang to herself, and then fell asleep. Years later, Dory (voice of Ellen DeGeneres) is still lost and unable to remember her family. She sees a boat cruise by over her head, and a clownfish named Marlin (voice of Albert Brooks) smacks into her. After Dory and Marlin rescued his son, Nemo (voice of Hayden Rolence), she stays with them at the Great Barrier Reef. They all swim up to Mr. Ray (voice of Bob Peterson), who is leading the class on a field trip. Dory volunteers to go along as an assistant and Mr. Ray reluctantly agrees. He talks to the class about migration and tells them that it's about going home. One kid asks Dory where her home is. The word \"home\" triggers a flash of a memory in her mind but she quickly loses it. Mr. Ray takes the class to the edge of the reef and reminds them to be careful of the undertow. Again, the word makes Dory remember something but she soon gets lost in thought. A school of rays swims by causing the grass to sway in their wake. The swaying grass entrances Dory who remembers two fish saying \"Watch out, kelpcake,\" and \"You have to stay away from the undertow.\" She swims near the rays and gets sucked into the undertow. Dory remembers being pulled away from her parents and then everything going black. Mr. Ray finds her lying in the sand and she murmurs \"Jewel of Morro Bay, California.\" When she wakes up, she realizes that she had a memory, something that never happened before. When Marlin arrives, Dory is still excited about the memory although she can't remember what it was. Nemo repeats what she had said and she has a flood of memories. She remembers her family and realizes that they're still out in the ocean, somewhere, with no idea where she is. She sets out for the Jewel of Morro Bay with Marlin and Nemo following to keep her out of trouble. Marlin has an idea for how to get where they're going quickly. Marlin's friend, a turtle named Crush (voice of Andrew Stanton), has the three of them on his shell, taking them through the California current. They jump off and see a sunken container ship, and a group of hermit crabs taking cover. The crabs shush Dory when she tries to ask for help, triggering another memory. As a young fish, she swam past a sunken ship and asked a group of crabs for help finding her parents, Jenny and Charlie, and they quickly shushed her. Back in the present, she tells Marlin that she remembers her parents' names. She swims around shouting their names with the crabs still trying to shush her. She swims up to a container and a squid pops out and chases her. The three of them swim as fast as they can with the squid in pursuit. Dory gets caught in a plastic six-pack ring. They swim through a small hole into a container and the squid shakes it, causing other containers to fall. In the scuffle, the squid grabs Nemo and pulls him toward its mouth. Marlin grabs Nemo and a container hits the floor causing the trio to be launched to safety, landing in a kelp bed. Marlin rushes over to console his trembling son and Dory asks if she can do anything to help. Marlin responds, \"You know what you can do, Dory? You can wait over there. Go wait over there and forget. It's what you do best.\" Hurt, Dory decides to go get help and she swims off, unseen. She hears a voice (Sigourney Weaver) say \"Won't you please join us as we explore the wonders of the Pacific Ocean and the amazing life it holds within. Witness the majesty of the beluga whale...\" Confused, she follows the mysterious voice. When Marlin realizes that she swam off, he goes out to find her and sees a pair of hands scoop her out of the water. The humans pull her into their boat and remove the plastic ring around her. Then they put her in a cooler and shut the lid. The ship heads toward the shore with Marlin and Nemo frantically swimming after it. They hear a voice say, \" Welcome to the Marine Life Institute, where we believe in rescue, rehabilitation and release.\" And then, the boat goes out of sight. The cooler lid opens and two staff workers dump Dory into a large tank and clip an orange tag to her fin and then leave the room. A seven-legged octopus named Hank (voice of Ed O'Neill) had been disguising himself against a wall by changing color to match it. He slips over to Dory's tank asking her why she's in Quarantine. Spotting her tag, he tells her that she's going to be transported to an aquarium in Cleveland. She says that she has to find her family in the Jewel of Morro Bay and he responds that she's already there. \"You mean, I'm from here? I'm from here!\" Hank tells her that if she gives him her tag, she'll be able to stay and find her parents, while he goes to the aquarium. She asks why he wants to go there and he says he doesn't want to be released back into the ocean since he has bad memories from there. He just wants to go to Cleveland and live the rest of his life alone. Dory agrees to give him her tag, after he helps her find her parents. He grabs an empty coffee pot and uses it to scoop her out of the tank. Outside, Marlin and Nemo swim up to the building, finding a pair of sea lions, Fluke (voice of Idris Elba) and Rudder (voice of Dominic West), who explain that in the Institute, fish are rehabilitated and released, as they themselves were recently. Marlin tells them that he needs to get in the building and they say they know a way and then make strange \"Oo-roo\" noises. Hank is taking Dory down the hallway and she sees a map on a wall. He brings her closer and she sees a purple shell. That triggers another memory of her parents laying purple shells all around their coral home. Just then, a staffer walks in. Hank camouflages himself and Dory sees the staffer holding a bucket that has the word Destiny printed on it. Dory gets an idea and jumps in the bucket, which is full of dead fish. The staffer grabs her and a bunch of the other fish, and tosses them into a huge tank. There are a group of children outside the tank and a tour guide tells them that there is a whale shark named Destiny (voice of Kaitlin Olson) in the tank. Destiny is near-sighted and has trouble swimming around the tank, but Dory stops her before she smacks the glass. She recognizes Dory's voice and tells her that they were childhood friends. Destiny tells Dory that she's from the Open Ocean exhibit and Dory asks her to take her there. Destiny tells her that she doesn't have any way to travel around. A beluga whale named Bailey (voice of Ty Burrell) is in the next tank and Destiny tells Dory that he was brought in with a head injury. She says he thinks he can't use echolocation anymore even though the staff have examined him and found nothing wrong. Camouflaging himself as a toy, Hank gets tossed into the tank. He demands her tag in return for showing her the map. Destiny tells Dory that she can get to the Open Ocean exhibit by going through the pipes, taking two lefts and swimming straight. Dory worries that she won't remember the directions and Hank tells her there's no other way. His words trigger another memory, of young Dory trying to pry a shell loose from the sand. She thinks there's no other way to get the shell and is about to give up when her dad tells her that there's always another way and uses his tail to wiggle the shell loose. \"There's always another way.\" She swims to the surface and sees the Open Ocean building over the hill. She also spots a rack of baby strollers and she tells Hank she will use one of them to get across the park. Fluke and Rudder are calling a loon named Becky, and they tell Marlin that she can fly them in. They climb into a bucket that Becky picks up and flies into the building. Inside, Dory and Hank are hiding in a stroller. Hank steers the stroller while Dory navigates. He tells her to find a sign that says Open Ocean to get to the exhibit. They bump into a boy who spills his popcorn on the floor. Flying in, Becky sees the popcorn, leaves the bucket hanging on a tree branch and flies down to eat it. Coming to an intersection, Hank asks which way to go and Dory sees a sign that reads \"The World's Most Powerful Pair of Glasses,\" and an arrow points to the left. She tells Hank that she remembers that and they need to go left. She doesn't notice that the sign also says \"Open Ocean\" with an arrow pointing right. Marlin and Nemo are stuck in the bucket with Becky still eating popcorn. Marlin tries to inch the bucket forward to get within Becky's earshot and it tips over, dumping them out and into a tank of toy fish in the gift shop. Becky finishes eating and grabs the bucket again and flies off to the roof of the Quarantine building. She looks in the bucket and finds it empty. Dory and Hank pull up to the sea otter tank and Hank asks why she led them there. She tells him that she remembered something about glasses and followed that. The stroller rolls downhill and they're launched into the kid's touch-pool. Dodging kids' hands, she swims up to the camouflaged Hank and pulls him along. A kid's hand touches Hank and he inks, turning the pool black, and scaring off all the kids. Hank can't believe that her idea had saved them. Dory sees a sign that reads \"Echolocation...The World's Most Powerful Pair of Glasses\" and Hank shows her that the wall opened to reveal the Open Ocean exhibit. Inside the toy tank, Marlin and Nemo see a group of fountains with streams of water shooting between them. They jump out of the tank and catch a water stream, jumping from one to the next. Hank holds Dory in a plastic cup and sneaks across the room to the Open Ocean exhibit. She hands him her tag and he drops her into the tank. On the floor, she sees a trail of shells. Another memory pops into her mind and she remembers her parents placing shells in a line. They tell her that if she ever gets lost, she can just follow the shells back home. Dory follows the trail of shells and finds her childhood home but her parents are nowhere to be found. She sees a purple shell which triggers another memory of her parents warning her to stay away from the undertow. She swims to an outflow pipe and another memory pops up of her overhearing a conversation between her parents. They worry that something bad will happen to her one day. Young Dory looked around for something to make her mom happy, finding a purple shell in the distance. \"Mommy loves purple shells.\" Dory swam out to the shell and got sucked away by the undertow. Dory realizes that it's her fault her parents aren't there. A crab named Carol tells her that all of the blue tangs who were there got taken into Quarantine and are being put on a truck bound for Cleveland. Carol says that Dory can get to Quarantine by swimming through the pipes. Nervously, Dory swims into the pipes, quickly forgetting which way she's going. She calls out to Destiny and asks for help. Destiny tells Bailey to use echolocation to help Dory. Bailey is convinced that it won't work but gives it a try anyway and is surprised that he can visualize a map of the pipes. He guides her toward Quarantine but then he senses something else in the pipes. He tries to have Dory swim away but she keeps swimming closer. Dory is surprised to see Marlin and Nemo in the pipes and they all hug. She tells them that her parents are going to be shipped away and they head to Quarantine. They see a tank of blue tangs across the room and swim up to the surface and jump from tank to tank. Just when they get to the last tank, it gets lifted up and they hit the side and fall into a mop bucket. Camouflaged, Hank reaches in and pulls them out, putting them in a beaker. Dory introduces Hank to Marlin and Nemo and Hank drops them into the tank of tangs. Dory looks around but can't find her parents anywhere. The other tangs tell her that they knew her parents. After she got lost as a child, her parents thought she must have ended up in Quarantine. They came to look for her but that was years ago. The tangs tell Dory that when a fish doesn't make it back from Quarantine, it means they're gone. Sadly, Dory backs into the beaker and Hank pulls her out. He asks where Marlin and Nemo are and sees them get loaded onto the truck. A staffer grabs Hank and he drops the beaker. He slaps at the staffer, who lets him go, and he quickly camouflages himself and looks at the spot where the beaker fell. He sees Dory get sucked into a drain that goes to the ocean. In the ocean, Dory finds a trail of shells and follows them to a home made from a tire. Seeing two fish off in the distance, she swims toward them and realizes that they're her parents. They swim up to her and hug her. They tell her that after they didn't find her in Quarantine, they figured she must have gone out the pipes. They laid out shells every day, hoping she'd see them and come back home. They ask her if she's been alone all these years. Suddenly, she remembers Marlin and Nemo. Inside the truck, Hank reveals himself to Marlin and Nemo and tells them that he lost Dory. Dory is swimming through the water, catching her parents up on everything that's happened to her. Suddenly, she hears the announcer voice from the Marine Life Institute. The next thing she hears is a truck starting up and she remembers that Marlin and Nemo are on it. She calls out to Destiny and she and Bailey jump over the walls of the tank, landing in the ocean next to Dory. They all swim after the truck, using a group of otters to stop traffic. One of the otters carries Dory into the back of the truck and Hank puts her in the tank with Marlin and Nemo. Marlin calls out to Becky, who flies in with her bucket. Marlin and Nemo jump in but Becky flies off before Dory can join them. Becky dumps them into the ocean, right next to Destiny. She asks where Dory is and Marlin tells them she's still in the truck. Marlin calls to Becky and tells her to fly back to the truck and get Dory. Hank reaches into the tank for Dory, but she doesn't want him to leave her and she gets him to agree to join her in the ocean. Just then, a staffer slams the back door and drives the truck away. Destiny swims after them but can't keep up. Dory sees a vent in the roof and Hank grabs her and moves toward it. Hank and Dory squeeze through the vent, and Hank plasters himself across the windshield, forcing the driver to stop. When the driver walks out, Hank shuts the door and locks it, taking control of the truck. He drives off with Dory navigating. She sees a car pulling a boat and follows it. Dory sees a splat on the windshield, and sees that it came from a flock of seagulls heading left. She has Hank follow them and they drive up a hill. Dory sees the ocean at the bottom and she tells Hank to floor it. The truck falls off the edge of a cliff and tumbles toward the ocean, sending all the fish inside flying. Dory and Hank happily plunge into the ocean below. Back at the Great Barrier Reef, Dory is playing hide-and-seek with the students. Hank tells them that Mr. Ray is away on migration and until he gets back, Hank will be their substitute teacher. Bailey and Destiny tell the kids about echolocation. Dory tells her parents that she'll see them in a while but she wants to do something first. She swims off, with Marlin following after her, trying to keep himself hidden. She swims up to the edge of the drop-off, then calls out to Marlin, who sheepishly swims up to her. She tells him that she enjoys the view, and they both look out into the ocean. \"Unforgettable,\" she says.",
+      "writers": [
+         "Andrew Stanton",
+         "Andrew Stanton"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2277860/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Ellen DeGeneres",
+         "Albert Brooks",
+         "Ed O'Neill"
+      ],
+      "reviews": [
+         "Back to the pond for Pixar, where we find things largely unchanged from the end of 2003's Finding Nemo. As the continually-forgetful blue tang Dory has a sudden enduring flash of her childhood, a rush of recall, she gathers the clownfish for one more globe-spanning adventure. The setup is a little soft, lingering too long in the shadow of the first film, but eventually we break free of that sentiment and forge a new (if similar) identity for the sequel. The closed-in landscape of an aquatic themed zoo/amusement park feels a bit claustrophobic at first glance, but as hijinx ensue and we learn more of Dory's early years, it all fleshes out nicely. No shortage of colorful new characters there, literally and figuratively, not the least of which is Ed O'Neill's escape artist \"septipus\" (having lost a tentacle in the touch tank), who treads dangerously close to becoming a deus ex machina with his versatility. O'Neill brings his usual disgruntled pessimism to the role, though, and some genuinely clever sight gags using the creature's natural assets go a long way to smoothing that over. He's overly convenient, but we're always glad to see him again. Witty and fast-paced, with a good mix of gags for the adults and their kids, plus a potent dose of the studio's famed poignancy. I laughed, I misted up, but I never quite fooled myself into thinking it was superior to the first.",
+         "I've never been into animation and my comments probably reflect it. Not for any silly quibbles about real cinema versus not, kiddie versus adult; it's simply that the real world that threads itself around us is too marvelous and fantastical, too full of myriad possible worlds to envision, to forego the opportunity. Okay, but this leaves me free to observe these few things here. It really has taken a quantum leap the last decade in trying to replicate our world after that business with dead eyes was over. Is there anything more extraordinary than texture and light falling a certain way? An audience of Disney's time would have been baffled by what kind of reality this film shows. The most fantastical quality of reality is that I can open the door and go wherever. The thinking mind will hold me back nine times out of ten, but the fact that our lives play out against the possibility is behind any life worth being lived. Spontaneity. It lies at the bottom of all the other structures we observe around us and at the bottom of almost every great film I know of. Pixar's main structure in building world - and what sets them apart from previous studios - is finding a small corner of our own world to animate, say toys in the attic, we can then have the delight of secret lives right under our feet. The more ordinary and familiar this corner is, the more often we can imagine passing through it, the better. It's the difference between Toy Story and Cars. It lets them filter in the following way; the larger surrounding human world retains its quality of callous indifference as we think of it ourselves, our gaze is directed to the magical world-within where fragile beings have to struggle with predicaments like ours. The primary thing to note in tandem with this is how the rest has been engineered around spontaneous expression. Pixar are something of a master in how things flow, how walls can be moved around to facilitate experience. It's all about turbulent motion that zig zags over barriers; through ocean streams, a bird flying us overhead, through tubes inside the marine park, hijacking a truck. Things magically work out, even when our heroes don't land in the right place, they do. And you'll see this in the story about a narrator who continuously forgets, has no plan about how she's going to accomplish what she wants other than the urge to find her parents, but makes her way by rubbing against limits of where she finds herself, spontaneously opening ways.",
+         "What can I say? Maybe I'm just becoming a curmudgeon but I just don't find the fact that Dory lost her parents as a child and has been looking for them ever since very (read: at all) interesting. The movie opens with Dory as a small child, who features in several flashbacks thereafter. The cuteness factor of young Dory has been dialed up to 11 in a rather obvious attempt to invest the audience in Dory's plight that much more. But, to me, it just came off as saccharine. The movie wasn't very plausible either. Yes, I am fully aware this is a cartoon aimed at kids. But we're expected to believe Dory, having severe (and entirely plot-driven) memory loss somehow found her way as a small child from California all the way to Australia all by herself. Anyway, if I'd been able to find the basic plot interesting, I might have forgiven the movie's list of other other implausibilities and errors but, as it is, they just come off as irritating, and in service of a dull story. Some example: An octopus (actually, a \"septapus\", as it's missing a tentacle; more on that later) that can not only stay out of water indefinitely and disguise itself as anything, but can also learn to drive a car within seconds and drive it blind with only Dory to guide him. A fish tank in the kiddie section of an aquarium, where the kids are allowed to grab the creatures within the tank. This, incidentally, is where the octopus lost a tentacle because a kid pulled it off. And the aquarium was totally okay with this and let the kids go on grabbing fish. GTFOOH Pixar. The octopus finds himself back in the tank where kids can freely grab them. Conveniently, he forgets he can essentially become invisible, to force tension into the plot The octopus steers a stroller past milling throngs of people, none of whom think it very remarkable. Whale sharks are not whales and do not eat fish. This is the most egregious, or at least most irritating, error committed by this film. Did Pixar not do research or did they just not care? Honestly, I find this error shocking coming from Pixar. Several fish-eating animals are seen throughout this movie that are only to happy to forget their dietary requirements: sea lions, loons, otters, it doesn't matter. The otters are even willing to risk their lives for this fish they don't know to help her do something about which they have no way of knowing anything. At least in the fIrst movie, there was some explanation given as to why pelicans and sharks would not eat fish. Here, it's just whatever serves the plot. It just feels lazy and cheap. I have a feeling echolocation doesn't work anything like it's portrayed here, but I won't make too much of it. But, wow, did that \"whale speak\" get REALLY annoying REALLY fast. I have usually considered Pixar to feature strong characters, but after THE GOOD DINOSAUR and this movie, I'm disappointed in how dull and/or annoying the characters are. Dory was fine as a supporting player (and in a better movie) but as the star, she's simply insufferable. Overall, I have always considered Pixar as synonymous with quality. But no longer. It will no longer be a given that a Pixar movie is going to be a winner.",
+         "Anticipated for this movie long time ago with high hope since I love Finding Nemo but this is such a huge disappointment. The 'short-term memory (remember-y here and there) lost' joke is getting old and at some point become annoying. Not until half way through the movie I got bored and wondered when the movie end. Couldn't laugh or at least chuckle at jokes thrown in the movie and the story seems to be put in a rush. Marlin and Nemo were also featured all the way in the movie and they were just fine. The dynamic between three of them were still there too however the adventures portrayed didn't really exciting and the thrill of the journey helping Dory on her quest finding her parents couldn't evoke emotions at all. I remembered myself laughed a lot watching Finding Nemo and at some point in tears too but not on this one. It's certainly not easy to be on par with a great movie with great visual effects and story line like Finding Nemo in the first place but at least this should have come close to it which sadly that is not the case. Definitely disappointed",
+         "Finding Dory wins just one miserable star, for one reason: The animation throughout is astonishingly realistic. However, almost everything else about the film is a train wreck of ocean-sized proportions. Take no notice of the reviews of the critics, who seem to be doing everything to try and defend this horribly misguided mess. But how is it a mess? Here's why. The whole film just fails to give you a reason to want to sit through all of it again. It doesn't feel like a proper story, instead more like a series of antics and ideas thrown into an overflowing, ugly mix. It's chaotic, too long and so stupid at times that it has to be seen to be believed. This is easily one of Pixar's worst. Finding Dory's most egregious flaw as its shockingly incompetent pacing. The film is frantic, mindless and over-concerned with shoving in jokes and sight gags. Scenes are so rushed and so needlessly silly that they just aren't believable. Introduced characters get little development and are just forgettable. Will anyone really remember or care about Hank the octopus, Destiny the whale shark or those argumentative sea-lions in the future? The film's strict adherence to sequel clichés also seriously crosses the line. Returning plot elements, rehashed scenarios, character cameos and overblown action scenes are all here and are never justified. In fact, by the end of it, the entire film hasn't even justified its existence. Furthermore, the characters suffer so much bad luck that it eventually turns into \"Planes, Trains and Automobiles\" with fish. Everything starts going wrong. Detours are constantly taken. Death is cheated over and over. And yet, the characters constantly escape via methods so contrived and convenient that it's impossible to take seriously. Admittedly, it's kind of creative in places, but it's also as predictable as you can imagine. The climax, however, is where the film finally crashes into the ground. It's astoundingly awful. Picture this - an octopus driving a lorry extremely poorly and not crashing into any oncoming cars. A large group of otters hugging each other in the middle of the road in order to stop these cars. And finally, the same lorry being driven over a hill and into the sea. This is the climax simplified - except that it's way, way worse than that. It can't even describe how bad it is. It's a horribly written climax and is jaw-droppingly nonsensical. Why stop there? The film fails in so many other ways that you can play bingo with its flaws. There are way too many flashbacks to Dory's cutesy childhood. \"Emotional\" scenes are dull and stretched thin. Marlin and Nemo are in it, but mean little to the plot. A scene where a bunch of kids are touching some sea life, who are shown feeling the constant pain, is not at all funny but uncomfortable. Several scenes, like one with a talking clam, just feel shoved in for no reason. Many jokes fall flat. The dialogue is stale and charmless. I could go on and on. The whole thing is an embarrassing atrocity. As much as I'd love to give more stars to this movie, I feel it deserves just one. Because the bad aspects of this movie are so bad, they essentially undo the good ones. Yes, it's well-animated. Yes, it has some very minor charming parts. Yes, it can be creative at times. But everything else about the film is brainless to a damning extreme. Finding Nemo worked because it was melancholic, tear-jerking and uplifting. It resonated with everyone. Its sequel has almost none of what made the original a masterpiece.",
+         "This is a really good sequel. Taking characters from the first one and putting new ones in there as well, it never gets boring or seems to repetitive. And you don't even have to be Dory, I mean forgetful, for this to work for you. Yes it does make sense to watch the first one (Finding Nemo) then, although I reckon you could watch it and enjoy it as a standalone too. The characters and their traits are strong and there are a lot of side jokes built in to this too. Humans are being treated like extras and we wouldn't have the time to deal with them anyway. That is apart from one major voice - but it's being highlighted too as if one of the writers or Ellen herself might have a crush there. But you can't blame them for that. On the contrary you can congratulate everyone involved for a really good movie",
+         "... rather than using a story to demonstrate dazzling CGI. This film was just as good as its predecessor, Finding Nemo. In this film (which takes place one year after 'Nemo'), Dory, who suffers from short term memory loss, makes it a mission to find her parents. She helped Marlon find Nemo in the first film and now she wants help locating her parents. She became separated from them when she was young and until now, has relied on others to help her find her way. She also gets by with her unique brand of impulsiveness and quick action. Throughout the film, Dory uses other \"people's\" (fishes'?) words and objects to trigger memories that assist her in finding her way. It was very clever how Pixar incorporated these triggers to help move the story along and flesh out Dory's background. I also liked how they treated short term memory loss with sensitivity and did not make it a joke. The marine center that Dory & co. end up at is based on the excellent Monterrey Bay Aquarium. The funniest new character added to the Nemo franchise is Hank the octopus (except he only has seven legs as Dory points out and refers to him as a \"septapus.\"). Hank is cynical, but you know he's a softy deep inside. He can also camouflage himself into his settings which is quite comical. There are other funny characters like Becky the buzzard and Gerald the seal with a uni-brow. It seems that Pixar thrives on adding emotional scenes to their films that pull at their audience's heartstrings. Finding Dory is no exception. There is a very dramatic scene near the end of the film where Dory is separated from her party and is lost in an unfamiliar, dark ocean, alone. She has to rely on herself to figure out how to find her way out and find her friends. This was a very heart wrenching scene. I won't lie, it made me tear up and I could hear other people sniffling in the theater. Another emotional scene is the beginning of the film showing a baby Dory with her parents. It's not as sad though as the beginning of Up, though. I'd recommend this one.",
+         "I watched this movie with very high hopes. I was a kid when Finding Nemo came out and it defined kids movies at the time. Finding Dory was significantly less impressive. The good: The move was very cute and the characters were fun. Ed O'Neill as a cranky octopus was especially nice. The bad: The whole movie feels as if Pixar was pressed to come out with a solid movie and just threw this one together really fast. It felt very rushed and therefore the story line, which had a little potential, was hard to really get into and appreciate. 3/4 of the way through, though it felt rushed, the movie became very redundant and predictable. I was pretty over it personally and could have stopped the movie then and been a happy camper. One of Pixar's lazier films and it's disappointing considering the astounding work they have done before it. If you want to enjoy a movie like this, just watch Finding Nemo instead. If you want to see the sequel to they aforementioned and terrific film, your imagination of how the movie should play out is probably better than the real thing.",
+         "I was super disappointed in this film, given that it was rated 4.5 stars. It had way too much of Dory. I wish I had a nickel for every time she mentioned she has memory problems; I'd be stinking rich. Trust me, the bad memory shtick gets very old after a short time. If you love Dory, yes you will like the movie. But if Dory all the time is a bit much for you, you will get bored by this fast. The new whale characters just were not very interesting either. The 2 grand-kids liked Finding Dory OK, but I doubt if they would want to see it again. This is not the first time I've been disappointed in a highly-rated kids film, 5 stars just doesn't mean the quality it did in the past.",
+         "Movies today are very commercial, we all know this. I've been going to animated type films with my granddaughter for many years and God bless, she always says she loves them all. And so she did with Finding Dory but I was disgusted the entire movie. First, we did see it in 3D, something I seldom do because I don't see the benefit of the extra money. But in the case of THIS movie, it is the one good thing I could say about it. This movie, under the sea, the marine life, the beautiful color, was gorgeous in 3D. Now let's discuss the very, very stupid plot of this movie. We begin by asserting that we do understand that giving animals human like traits is very common and I don't have a problem with this. It's part of the joy of watching, adds to the understanding, gives a depth to the plot. But come on people, a fish with a short term memory problem? That's a rare thing even in humans for goodness sake, much less a fish with a brain smaller than a pea. It's just too much to buy into is my complaint, that a fish manages to go through life forgetting everything is just learned because of this brain anomaly. And the plot is very far-fetched, with fish hijacking trucks and flying with birds and translating fish water echoes into visual sights. Seems Dory, the star of the movie and one of the fish who saved Elmo, an animate film from many years ago that was much more believable, lost her parents and the story is about Dory's determination to find them. And Dory, come on, she's the only fish in the movie with buck teeth and why is this? Because Ellen DeGeneres, the voice of Dory, has teeth exactly like the cartoon fish and this was just so obvious. I like Ellen DeGeneres and consider she was a perfect voice for Dory, but DeGeneres has never met a promotional opportunity that she'd let pass by. Including having a fish with her voice look like her. The story has a bunch of fish helping Dory find her parents and we've got seashell trails and forgetful Dory and a silly plot that looked as if a bunch of people threw a bunch of idea confetti on the table and an absurd story was somehow concocted. Of course we have Dory stuff at McDonald's and Pixar, AKA Disney, will make money on this fluff thrown together with little care save for the merchandise and revenue. Come on producers and directors out there! You got to have a little pride when crafting an animated movie. The color and 3D of \"Finding Dory\" ain't going to cut it. This movie is best for someone five years old or less, someone who won't laugh at the silly concept of a forgetful fish.",
+         "Okay - Blackfish apparently caused a rewrite of the movies ending, presumably the species of the character Destiny. Okay... Pretty sure the writers had enough time to do some research and figure out that a whale-shark is not in fact a whale, and doesn't eat fish... Why not just feed the fish into the beluga's tank? Why not have the beluga 'speak whale' instead? We get it, it's a cartoon - but willful suspension of disbelief is lost when my 3 year old is calling out this sort of stuff (granted, he's been fortunate enough to go to the aquarium in Atlanta) There is no magic in Dory - in fact, it's greatest problem may be that there's too much Dory. In the first she acted as a great foil to Marlin - here... well... There's no foil for Dory. Watch it again - as stated earlier, got a three year old so it might happen. Pay to watch it again? No. Do it by choice? No. Allow my kid to watch it again? Sure, there's worse, but then again, there's better too: frankly, \"A Turtle's Tale 2\" was better, with a fresher recycled soundtrack even with a remarkably similar plot line. Currently Rotten Tomatoes is giving it a 'certified fresh' rating - I'm left wondering if there is an octopus writing their critical reviews.",
+         "I am still a kid at heart and never miss out on a Disney or Pixar film, ever. But this one establishes two problems for children who have been adopted or are in foster care. First - Dory is, as we all know, forgetful, and that is why she was separated from her parents, thus - it is HER FAULT. Second - Dory has loving, friendly parents who are emotionally and mentally stable and have been actively looking for her for years, therefor perpetuating most adopted / fostered children's fantasies regarding their birth parents, but is most often NOT the case. This is grossly unfair to any child not anticipating this theme in the film, did Pixar forget how literal children are? So be thoughtful and take the time to see this insensitive film before taking your children. Even birth children need to have a talk with their parents about NOT making adoptive friends / classmates feel that this could be the outcome if they are adopted. Our adopted daughter years for a relationship with her birth mother, and we are actively looking for her and praying for a good end result. Many times birth parents want nothing to do with their birth children. Again, Pixar really dropped the ball on this one, for all the screaming this industry does to be sensitive to most groups of people, I guess they didn't bother to give a second thought to this particular group.",
+         "I did not enjoy this film at all. First of all, the title makes no sense. Dory is looking for her parents, whilst Marlin and Nemo are just chasing after her. That part is not interesting. The new characters seemed like generic movie side characters and didn't impress me. It does seem like Dory was faking her short term memory loss. The fact she was looking for her family and then first met Marlin, does not work for me. I do not recommend this film as it was disappointing and wasn't as entertaining and appealing as Finding Nemo was. I wouldn't watch it again and once again do not recommend this disappointing film. This is all just my opinion.",
+         "For a studio that has a brilliant track record, with incredible movies like Wall-e, Finding Nemo, Toy Story, Cars, and others, Finding Dory is a complete embarrassment. It is, in fact, too bad to be considered with its prequel. There were a few scenes that did touch the heart, but overall it was more of a joke. The original film brought several new ideas that all of us liked, this one doesn't bring anything substantially new. The same Dory which was cute in the first part is too annoying in this one. Sometimes, she is just unbearable. The dialogues are mostly boring. I rarely feel like sleeping while watching a movie, this one did make me fall asleep two times very briefly. I loved the first part and I was so excited with this one too. As the movie started, I tried to make myself believe that it is not bad, but by the interval time, I felt like leaving before finishing it! I will always agree that some scenes were really good, but they were acutely insufficient to save this movie. For me, a movie that had Pixar with its name was automatically considered as a must-watch, but now, you've destroyed your name Pixar.",
+         "This had to be one of the most boring movies I have ever seen. Both my wife and I fell asleep. There was almost no humor. It was just a ridiculous \"adventure\" (if you could call it that), and it seemed to go on and on. If you are going to make an animated movie, there should be some humor in it for the adults. After all, adults are the ones PAYING for the movie. My nap was the best part of the movie. While I was awake, I had to suffer though the annoying voice of Ellen DeGeneres. The Dory character was okay in the first movie as a secondary character, but they should have never made a movie around this obnoxious character. The only good think I can say is that my 6 year old thought it was okay.",
+         "Sorry but this just didn't work.. the story line was tired to say the least. Whilst there were a few subtle pastiches to keep parents interested there weren't enough. and even my four year old got down from their seat and came over to ask me \"Is it finishing soon ? I'm bored.\" My nine year old managed to keep awake throughout which is his usual way of showing his view on a film so maybe it's not all bad. But with the current cost of Cinema (movie house) tickets (£30 $40) in London I did feel somewhat disappointed. This was a Disney Pixar production was we had our anticipation set by their previous material, but this was a low point on their output. From Finding Nemo a sequel was obviously going to make an appearance. This admittedly didn't give the writers much scope for a story. But they needed to have included more comical asides within the main story and increased the pace of the second quarter.",
+         "I don't care whether critics say it is nice or not. It may look great visually, but truth be told, there isn't much more to it than that. The lines get too repetitive, too redundant. The plot is too thin, and the characters pretty annoying. The forgetfulness that was cute in finding Nemo got to a point where it is plainly dumb and irritating here. The trick gets old, it loses its value. It is just like \"minions\". The small yellow guys were cute in despicable me, but they should not have gotten their own movies. Same here. Dory is uninteresting, and while some scenes make people feel with her, i spent most of the movie wondering when it was going to end. It is one of Pixar's worst movies.",
+         "Sometimes there are films that are untouchable and I think something like Finding Nemo was one of them. Whilst Dory was a beloved character in the film, I believe it was a stretch having her become the star of her own film in Finding Dory. The other problem with creating spin-off films (or sequels and remakes for that matter), is that you find yourself consistently comparing them to the original. This can be detrimental if the original was close to perfection. I found that the things I loved about Finding Nemo were missing from Finding Dory. One of the great things about the first movie was that the adventure was never-ending. We started with the loss of Nemo and we followed his father Marlon and his sidekick Dory on a quest to find him. Along the way, we met various characters and encountered differing scenarios that kept us on our toes. The gnarly surfer dude sea turtles, the immense field of jellyfish, the creepy creature that lured the two protagonists with a distracting shiny light dangling from the tip of his head and the group of wannabe vegetarian sharks (lead by the intimidating but friendly Bruce). Not to mention what Nemo was going through and the friends and foes he was encountering at a dental surgery in Sydney. Finding Dory didn't really have any of that. Whilst Dory did meet a few quirky friends along the way, I felt like the flow of the film was missing. Either the interactions were brief (like when she met a couple of fish who were trying to help Dory but couldn't figure her out because of her condition), or they were long and laboured (like when she met Hank the octopus and subsequently Bailey and Destiny at the Marine Life Institute). For me, it seemed like Dory was quick to move from point A to point B (from Australia to the United States) but then lingered on point B for a very long time. Visually, as was expected, the film was faultless and despite all of the above, there were still some delightful moments that made you laugh and made you cry. Unfortunately, it wasn't enough to keep me interested and instead of wanting Dory to find herself, I found myself looking at my watch and waiting for the end credits to begin rolling. motherofpopcorn.wordpress.com",
+         "i used to be a be pixar fan, and loved classic films like Nemo and Monster. However, since Steve Jobs sold Pixar to Disney, the creativity and imagination have died with the trade. Dory is no exception, feels like a recycled Nemo but with much worse plot, worse cgi, worse pretty much everything. It is pretty hard to believe, 15 years since the original Nemo, the quality of the animation actually has become worse. The only bright spot of the movie, was the 5 minute mini movie Piper. I should pixar makes a feature length movie for that. Wall-E was the last good pixar films. all junks after that. I wish jobs has never sold pixar to Disney. I wonder what junk will pixar dish out next year... sigh...",
+         "Finding Nemo was a movie I dare to say worth watching more than once and I was so exited to see Finding Dory. But as we were watching it the sound of my 7 years old daughter crying confirmed my thoughts . It is not a happy Disney / Pixar movie and not suitable for many kids. My baby girl even through away her Finding Dory toy ! She said :\" why would I want it when I even don't like the movie ? \" She was so sad and scared of loosing us. Though the characters were cute specially Ed O'Neill did an amazing job with his character \"Hank\" but unfortunately the story line was rush and unorganized . Such sad scenes for a baby Dory was not a wise choice .",
+         "I love Finding Nemo so for me, this movie was a disappointment. The plot was weak and it seemed like they couldn't think of a proper way to end it. The graphics wasn't as good as last time and Dory seemed to have lost her charm. They played on her forgetting to bring forced humour. In Finding Nemo the characters were all lovable and unique but in this one they were all similar and uninteresting. After all the buildup of Dory trying to find her family, when she finally did it wasn't powerful enough. I had to roll my eyes when Dory was driving the truck with the octopus because it was so cliché. The only scenes that were good were Dory's memories of when she was a baby, she was adorable! Overall, a good movie but nowhere near Pixars' normal standards.",
+         "honest it has Medicare but still enjoyably i liked baby dory she was soupier cute but the plot was literal garbage and my child cried when they found dory it was so sad i mean pix er makes movies that are mindless and children can enjoy them and parents hate them so why should this movie bee any different. I liked it and id never see it again if i was forced to like seriously why is Tom henks playing an octopus hes like such &#865; horrible actor jk i love you henks ;) anyway i think that Disney really should just stop making movies because all of then suck like actually though why? They literally make me want to throw up &#865; donut. Although i did like Finding Dory. That was a stellar movie 200000/10 give it a Grammy!!!!!!!!!!!!! ;) :D XD ( ͡° ͜ʖ ͡°)",
+         "Anticipated for this movie long time ago with high hope since I love Finding Nemo but this is such a huge disappointment. The 'short-term memory (remember-y here and there) lost' joke is getting old and at some point become annoying. Not until half way through the movie I got bored and wondered when the movie end. Couldn't laugh or at least chuckle at jokes thrown in the movie and the story seems to be put in a rush. Marlin and Nemo were also featured all the way in the movie and they were just fine. The dynamic between three of them were still there too however the adventures portrayed didn't really exciting and the thrill of the journey helping Dory on her quest finding her parents couldn't evoke emotions at all. I remembered myself laughed a lot watching Finding Nemo and at some point in tears too but not on this one. It's certainly not easy to be on par with a great movie with great visual effects and story line like Finding Nemo in the first place but at least this should have come close to it which sadly that is not the case. Definitely disappointed",
+         "Honestly, this is some of the worst movies I have ever seen. First of all, the plot was hard to follow along and I had trouble with it throughout parts of the movie. Also, if you compare this to Finding Nemo, this movie is absolute trash. It's unfortunate because I had some high hopes for this movie. But, I did like the parts where they tied some of it back to Finding Nemo. This movie may be enjoyable by children that are 10 but this would not meet the expectations of somebody like me. I would add another two stars because some of the parts were full of humor that I found to be enjoyable. Like, when a whale found out his echolocation wasn't broken. It was enjoyable to see him do that. Kids could learn a little about this topic if you watch the movie. So there you go, even though I didn't rate it 1/10, I still found this film to be quite subpar for my taste.",
+         "As someone who adores Finding Nemo and has waited YEARS for a sequel, I must say I am disappointed. Finding Dory definitely has a sequel feel to it. This didn't feel like a story that is worth a thirteen year wait. There are certainly cute and funny moments, but nothing solid enough to become a favorite. I've seen Finding Nemo so many times, but Dory is one I'll probably never watch again unless it's with my nephew or something. I didn't feel like this was a Pixar movie for all ages; it seemed more appropriate for younger audiences (I'm 24). As much as I hate admitting it, I couldn't wait for it to be over. Near the last quarter or so of the movie it just got redundant and all I could think was, \"Ok, this can be over any time now.\" I enjoyed seeing characters from Nemo make appearances, and a couple new characters were charming, but overall it's not enough to make Dory an instant classic like Nemo. Pixar outdid themselves with the animation but you can tell this is a sequel for the sake of a sequel, not because they came up with a great storyline."
+      ],
+      "genres": [
+         "Animation",
+         "Adventure",
+         "Comedy",
+         "Family"
+      ],
+      "productionCompanies": [
+         "Pixar Animation Studios",
+         "Walt Disney Pictures"
+      ],
+      "summaries": [
+         "Dory is a wide-eyed, blue tang fish who suffers from memory loss every 10 seconds or so. The one thing she can remember is that she somehow became separated from her parents as a child. With help from her friends Nemo and Marlin, Dory embarks on an epic adventure to find them. Her journey brings her to the Marine Life Institute, a conservatory that houses diverse ocean species.",
+         "The blue tang fish we have all grown to love returns along with her new \"family\": Nemo and Marlin. However, when a field trip brings back some old memories of Dory's real family, she sets off on a journey across the ocean to California waters. With new friends like Hank the septopus and Destiny the whale shark, Dory learns that her parents might be closer than she believes.",
+         "Not long after Nemo is found and returned home safely from his adventure, his friendly but forgetful blue tang fish pal, Dory, begins to remember bits and pieces of her past, as she ventures out on her own to begin searching for her long-lost parents.",
+         "The friendly but forgetful blue tang fish, Dory, begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way."
+      ],
+      "budget": 200000000
+   },
+   "movielensId": 157296,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2016-06-16",
+      "dvdReleaseDate": null,
+      "directors": ["Andrew Stanton"],
+      "runtime": 97,
+      "movieId": 157296,
+      "title": "Finding Dory",
+      "mpaa": "PG",
+      "actors": [
+         "Ellen DeGeneres",
+         "Albert Brooks",
+         "Hayden Rolence",
+         "Ed O'Neill",
+         "Diane Keaton",
+         "Eugene Levy",
+         "Kaitlin Olson",
+         "Ty Burrell",
+         "Idris Elba",
+         "Dominic West",
+         "Kate McKinnon",
+         "Bill Hader",
+         "Andrew Stanton",
+         "Torbin Xan Bullock",
+         "Bennett Dammann",
+         "Bob Peterson",
+         "Alexander Gould",
+         "Katherine Ringgold",
+         "John Ratzenberger",
+         "Angus MacLane",
+         "Willem Dafoe",
+         "Brad Garrett",
+         "Allison Janney",
+         "Austin Pendleton",
+         "Stephen Root",
+         "Vicki Lewis",
+         "Jerome Ranft",
+         "Sloane Murray",
+         "Lucia Geddes",
+         "Gabriel C. Brown",
+         "Sigourney Weaver",
+         "Riley Lio"
+      ],
+      "imdbMovieId": "2277860",
+      "originalTitle": "Finding Dory",
+      "genres": [
+         "Adventure",
+         "Animation",
+         "Comedy",
+         "Family"
+      ],
+      "youtubeTrailerIds": [
+         "JhvrQeY3doI",
+         "iG0P6bjyUNI",
+         "T97cs_BlOf4",
+         "NQu-153MnGQ",
+         "i3kIpCzLzEo",
+         "lvVOtwezkXU",
+         "-cn4uTyhONc"
+      ],
+      "plotSummary": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+      "tmdbMovieId": 127380,
+      "avgRating": 3.67492,
+      "releaseYear": "2016",
+      "numRatings": 2444,
+      "posterPath": "/z09QAf8WbZncbitewNk6lKYMZsh.jpg"
+   }
+}

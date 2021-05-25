@@ -1,0 +1,621 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "loss of loved one",
+            "id": 697
+         },
+         {
+            "name": "massachusetts",
+            "id": 1700
+         },
+         {
+            "name": "choir",
+            "id": 2318
+         },
+         {
+            "name": "musical",
+            "id": 4344
+         },
+         {
+            "name": "rock",
+            "id": 5288
+         },
+         {
+            "name": "music video",
+            "id": 5699
+         },
+         {
+            "name": "profanity",
+            "id": 9754
+         },
+         {
+            "name": "cancer",
+            "id": 10163
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt1047007",
+      "video": false,
+      "title": "Young @ Heart",
+      "recommendations": [
+         61416,
+         52277,
+         74955,
+         172767,
+         18496,
+         21121,
+         29865,
+         25872,
+         16768,
+         21714,
+         27175,
+         26791,
+         29230,
+         241939,
+         42570,
+         3037,
+         24444,
+         36155,
+         156659,
+         175952
+      ],
+      "backdrop_path": "/mLMtjCwJNOC0AfZk2hkRlXrW5jL.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Himself - aged 83",
+               "gender": 0,
+               "credit_id": "52fe440ec3a368484e00cfa7",
+               "name": "Joe Benoit",
+               "profile_path": null,
+               "id": 1042106,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Herself - aged 76",
+               "gender": 0,
+               "credit_id": "52fe440ec3a368484e00cfab",
+               "name": "Helen Boston",
+               "profile_path": null,
+               "id": 1042107,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Herself - aged 77",
+               "gender": 0,
+               "credit_id": "52fe440ec3a368484e00cfaf",
+               "name": "Louise Canady",
+               "profile_path": null,
+               "id": 1042108,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "",
+               "gender": 2,
+               "credit_id": "53c4f376c3a368248f001239",
+               "name": "Nelsan Ellis",
+               "profile_path": "/uRPoXULZniUyOyInWHiP1b79H0Y.jpg",
+               "id": 81697,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Herself - aged 83",
+               "gender": 0,
+               "credit_id": "5675ddde92514179db003a02",
+               "name": "Elaine Fligman",
+               "profile_path": null,
+               "id": 1551282,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Herself - aged 83",
+               "gender": 0,
+               "credit_id": "5675dddec3a36816830038a4",
+               "name": "Jean Florio",
+               "profile_path": null,
+               "id": 1551283,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Himself - aged 86",
+               "gender": 0,
+               "credit_id": "5675ddde92514179e10038b1",
+               "name": "Len Fontaine",
+               "profile_path": null,
+               "id": 1551284,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Himself - aged 76",
+               "gender": 0,
+               "credit_id": "5675dddf92514179dd00379f",
+               "name": "Stan Goldman",
+               "profile_path": null,
+               "id": 1551285,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Herself - aged 79",
+               "gender": 0,
+               "credit_id": "5675dddf92514179e300386f",
+               "name": "Jeanne Hatch",
+               "profile_path": null,
+               "id": 1551286,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "Herself - aged 92",
+               "gender": 0,
+               "credit_id": "5675dddfc3a3681689003763",
+               "name": "Eileen Hall",
+               "profile_path": null,
+               "id": 1551287,
+               "order": 10
+            },
+            {
+               "cast_id": 14,
+               "character": "Himself - aged 80",
+               "gender": 0,
+               "credit_id": "5675dde092514179e3003874",
+               "name": "Fred Knittle",
+               "profile_path": null,
+               "id": 1551288,
+               "order": 11
+            },
+            {
+               "cast_id": 15,
+               "character": "Herself - aged 78",
+               "gender": 0,
+               "credit_id": "5675dde092514179e7003884",
+               "name": "Norma Landry",
+               "profile_path": null,
+               "id": 1551289,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Himself - aged 74",
+               "gender": 0,
+               "credit_id": "5675dde0c3a368168e003d45",
+               "name": "John Larareo",
+               "profile_path": null,
+               "id": 1551290,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Herself - aged 75",
+               "gender": 0,
+               "credit_id": "5675dde0925141691a000290",
+               "name": "Patricia Larese",
+               "profile_path": null,
+               "id": 1551291,
+               "order": 14
+            },
+            {
+               "cast_id": 18,
+               "character": "Herself - aged 87",
+               "gender": 0,
+               "credit_id": "5675dde1c3a36816830038aa",
+               "name": "Miriam Leader",
+               "profile_path": null,
+               "id": 1551292,
+               "order": 15
+            },
+            {
+               "cast_id": 19,
+               "character": "Herself - aged 75",
+               "gender": 0,
+               "credit_id": "5675dde192514179e3003879",
+               "name": "Patsy Linderme",
+               "profile_path": null,
+               "id": 1551293,
+               "order": 16
+            },
+            {
+               "cast_id": 20,
+               "character": "Himself - aged 81",
+               "gender": 0,
+               "credit_id": "5675dde1c3a3681689003768",
+               "name": "Brock Lynch",
+               "profile_path": null,
+               "id": 1551294,
+               "order": 17
+            },
+            {
+               "cast_id": 21,
+               "character": "Herself - aged 83",
+               "gender": 0,
+               "credit_id": "5675dde2c3a368168b00370d",
+               "name": "Dora B. Morrow",
+               "profile_path": null,
+               "id": 1551295,
+               "order": 18
+            },
+            {
+               "cast_id": 22,
+               "character": "Herself - aged 77",
+               "gender": 0,
+               "credit_id": "5675dde292514179dd0037a4",
+               "name": "Gloria Parker",
+               "profile_path": null,
+               "id": 1551296,
+               "order": 19
+            },
+            {
+               "cast_id": 23,
+               "character": "Herself - aged 80",
+               "gender": 0,
+               "credit_id": "5675dde292514179e7003889",
+               "name": "Liria Petrides",
+               "profile_path": null,
+               "id": 1551297,
+               "order": 20
+            },
+            {
+               "cast_id": 24,
+               "character": "Himself - aged 82",
+               "gender": 0,
+               "credit_id": "5675dde392514179dd0037a9",
+               "name": "Ed Rehor",
+               "profile_path": null,
+               "id": 1551298,
+               "order": 21
+            },
+            {
+               "cast_id": 25,
+               "character": "Herself - aged 77",
+               "gender": 0,
+               "credit_id": "5675dde3c3a368168900376d",
+               "name": "Janice St. Laurence",
+               "profile_path": null,
+               "id": 1551299,
+               "order": 22
+            },
+            {
+               "cast_id": 26,
+               "character": "Himself - aged 75",
+               "gender": 0,
+               "credit_id": "5675dde392514179db003a08",
+               "name": "Bob Salvini",
+               "profile_path": null,
+               "id": 1551300,
+               "order": 23
+            },
+            {
+               "cast_id": 27,
+               "character": "Himself - aged 76",
+               "gender": 0,
+               "credit_id": "5675dde3c3a36816830038af",
+               "name": "Jack Schnepp",
+               "profile_path": null,
+               "id": 1551301,
+               "order": 24
+            },
+            {
+               "cast_id": 28,
+               "character": "Himself - aged 53",
+               "gender": 0,
+               "credit_id": "5675dde492514179d2003aee",
+               "name": "Bob Cilman",
+               "profile_path": null,
+               "id": 1551302,
+               "order": 25
+            },
+            {
+               "cast_id": 29,
+               "character": "Himself - The Young @ Heart Band",
+               "gender": 0,
+               "credit_id": "5675dde4c3a3681680003856",
+               "name": "Jim Armenti",
+               "profile_path": null,
+               "id": 1551303,
+               "order": 26
+            },
+            {
+               "cast_id": 30,
+               "character": "Himself - The Young @ Heart Band",
+               "gender": 0,
+               "credit_id": "5675dde492514179d400399f",
+               "name": "Billy Arnold",
+               "profile_path": null,
+               "id": 1551304,
+               "order": 27
+            },
+            {
+               "cast_id": 31,
+               "character": "Himself - The Young @ Heart Band",
+               "gender": 0,
+               "credit_id": "5675dde5c3a368168500391b",
+               "name": "F. Alex Johnson",
+               "profile_path": null,
+               "id": 1551305,
+               "order": 28
+            },
+            {
+               "cast_id": 32,
+               "character": "Himself - The Young @ Heart Band",
+               "gender": 0,
+               "credit_id": "5675dde592514179dd0037ae",
+               "name": "Steve Sanderson",
+               "profile_path": null,
+               "id": 1551306,
+               "order": 29
+            },
+            {
+               "cast_id": 33,
+               "character": "Herself - Administrator",
+               "gender": 0,
+               "credit_id": "5675dde5c3a368167c003b76",
+               "name": "Diane Porcella",
+               "profile_path": null,
+               "id": 1551307,
+               "order": 30
+            },
+            {
+               "cast_id": 34,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "5675dde6c3a36816830038b4",
+               "name": "Sakina Ibrahim",
+               "profile_path": null,
+               "id": 1551308,
+               "order": 31
+            },
+            {
+               "cast_id": 35,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "5675dde6925141691a000295",
+               "name": "Michael Konderwicz",
+               "profile_path": null,
+               "id": 1551309,
+               "order": 32
+            },
+            {
+               "cast_id": 36,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "5675dde692514179e10038b6",
+               "name": "Trevin Bond",
+               "profile_path": null,
+               "id": 1551310,
+               "order": 33
+            },
+            {
+               "cast_id": 37,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "5675dde6c3a36816830038b9",
+               "name": "Nicole Konderwicz",
+               "profile_path": null,
+               "id": 1551311,
+               "order": 34
+            },
+            {
+               "cast_id": 38,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "5675dde7c3a368167a003a94",
+               "name": "Chelsea Reyes",
+               "profile_path": null,
+               "id": 1551312,
+               "order": 35
+            },
+            {
+               "cast_id": 39,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "5675dde792514179e300387e",
+               "name": "Kashana Sharif",
+               "profile_path": null,
+               "id": 1551313,
+               "order": 36
+            },
+            {
+               "cast_id": 40,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "5675dde792514179db003a0e",
+               "name": "Jo Meysha Woods",
+               "profile_path": null,
+               "id": 1551314,
+               "order": 37
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe440ec3a368484e00cf9d",
+               "name": "Sally George",
+               "profile_path": null,
+               "id": 195619,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe440ec3a368484e00cfa3",
+               "name": "Stephen Walker",
+               "profile_path": null,
+               "id": 608580,
+               "department": "Directing",
+               "job": "Director"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Documentary",
+         "id": 99
+      }],
+      "popularity": 3.918479,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 21182,
+      "vote_count": 28,
+      "budget": 0,
+      "overview": "Documents the true story of the final weeks of rehearsal for the Young at Heart Chorus in Northampton, MA and many of whom must overcome health adversities to participate. Their music going against the stereotype of their age group. Although they have toured Europe and sang for royalty, this account focuses on preparing new songs for a concert in their home town.",
+      "similar": [
+         858,
+         5123,
+         11224,
+         824,
+         11631,
+         334,
+         18947,
+         40807,
+         112160,
+         69,
+         425,
+         141,
+         109445,
+         254470,
+         8587,
+         319,
+         587,
+         630,
+         634,
+         786
+      ],
+      "original_title": "Young @ Heart",
+      "runtime": 107,
+      "poster_path": "/wW04kKgUtd7KaWVmhotOPcstGgF.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [],
+      "release_date": "2008-10-02",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "You're Never Too Old To Rock.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Stephen Walker",
+         "Sally George"
+      ],
+      "runtime": 107,
+      "synopsis": "Over the last 25 years, there has existed a group of senior citizens living in Northampton, Massachusetts, who refuse to let age and ill health get them down. Young@Heart is a documentary based on the lives of the current singing group of 24 senior citizens, brought to the big screen by British filmmaker, Stephen Walker, who saw their performance in London. Young@Heart is not your ordinary singing chorus, because they sing rock, punk, disco, and the average age is 81 with the oldest being 92 year old Eileen Hall. The documentary follows the group over a six-week rigorous rehearsal schedule, plus practicing at home for an upcoming sold-out concert in their home town. The group has many songs in their repertoire, but Bob Cilman, the stern but sympathetic chorus director, has added several songs for the new concert. These are not easy for the group to learn such as \"Yes We Can\", \"Schizophrenia\" and \"I Got You or (I Feel Good)\". After several weeks of practice, the group is on their way to the local jail to give a performance, when they learn that one of their members passed away the night before. It is devastating for them, but they have learned that the show must go on. They all pull together and practice even harder to get ready for their evening performance. That night, their concert is a rousing success, and ends with a standing ovation. Douglas Young (the-movie-guy)",
+      "writers": [],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1047007/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU4MDM1MzA0N15BMl5BanBnXkFtZTcwMjQ2OTc1MQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Joe Benoit, Helen Boston, Louise Canady | See full cast and crew »"],
+      "reviews": [
+         "I just saw this movie at the Philadelphia Film Festival. This was an excellent feel good movie. I highly recommend it. It's the type of movie (documentary really) that more Hollywood Studios should make. In the Q&A afterwards, the director commented on how hard it was to get musical releases for the various songs. When you see the movie, you will understand why because the songs were sung by many famous performers and the producers got all of the releases but one, U2's One. During the scene in which one of the characters is in the hospital the scene was supposed to show the character singing One in a past performance interlaced with the current event. Alas, since U2 didn't agree to release the rights, it will never be shown. The director commented that so many people on the production staff would stop in the editing room just to see it. Once you see the movie, you will understand why I say, U2 sucks!",
+         "The premise for this movie sounds a little cloying and frankly wasn't a big draw for me, but I've just seen Young at Heart and I believe! This energetic bunch of septua-, octo- & nona- genarians dive into rock, punk, disco and more, and you'll be surprised what a goldmine they find. Seemingly wacky choices for music to be sung by a choir of oldsters (I Wanna Be Sedated, Golden Years, I Feel Good, Stayin' Alive, etc.), these familiar \"youth\" oriented songs become revelatory in their hands. Watching them cope with the aging process while making time to rehearse rock is amazing, and it's great fun to get to know all of them in the process. Now I believe that you can be 90 and still be young at heart.",
+         "This is a movie for people who want to see something real, sometimes uncomfortably so. The senior citizens in this documentary bare their souls to us in ways that make us laugh at some times, and fear for them at others. Many people, aged or not, cling to their familiar values and preferences. The members of the Young at Heart chorus, with a little prodding, are willing to move out of their comfort zone to tackle unfamiliar musical territory in order to reach out to all generations. This is a film about about perseverance, humbleness, teamwork, and aging. This documentary grabbed me right out of my seat and pulled me on to the screen. At any given time I was either smiling, laughing, or fighting back tears. Several times I started to stand and applaud, only to realize that I was looking at a movie screen and wasn't actually a member of the concert audience. I found Young at Heart to be an inspiring film for the young, old, and in between.",
+         "It may sound like it, but this is no cliché: this movie will make you laugh and cry. It's true. In a day with so much garbage being put out, this was a refreshing film to view - something true, too. It's a documentary about a group of old-timers (senior citizens, if you will) from Northampton, Mass., who tour and sing rock 'n roll. There is something absurd, outrageous, comical and entertaining about seeing an 89-year-old imitating James Brown and screaming, \"I Feel Good!\" What we witness in this two-hour documentary is both funny at times, but also sad. Hey, it's reality; life is hard, especially as you get older and older. Some of the members of this group die during the filming of it. The other men and women have to deal with these losses. \"The show must on,\" as the old saying goes, but it's not easy. The group sings rock standards and stuff that is pretty recent. It's hardly just Brown, the Ramones, Beatles, Bee Gees or Stones songs. It's also these old folks performing Sonic Youth, Coldplay, The Clash and the like. Of all the members, one can't but be most impressed with the voice of Fred Knittle, who has to sit and sing while having an oxygen tank next to him. His voice is really, really good. Then there is 92-year-old and spunky Eileen Hall and then there six-time cancer patient Joe Benoit, probably the nicest man you'd ever meet. All the people here are interesting. The more I watched this, the more respect I had for Bob Cilman, who directs this group. That man must have tremendous patience and a big, big heart for older people. It's frustrating when members keep forgetting their lines time and time again, but Bob presses on. He's called a \"taskmaster\" a few times but the group has great respect for him. Director Steven Walker does a super job putting this film together, holding some shots and cutting others off just at the right spots so we get the full effect of the humor or drama of a particular situation. Your emotions will run the gamut watching this. The more sentimental you are, the more it will affect you. If you have a sense of humor and compassion for people, this is one of the few movies I guarantee you will like.",
+         "This movie is not like anything I have seen in years. In Northampton, Massachusetts there exists a group of senior citizens that refuse to take aging sitting down. They sing rock and roll songs with such surprising gusto and élan that even prison inmates stand up and cheer. The play list is especially varied and surprising. The songs range from the Ramones' \"I Wanna Be Sedated\" to James Brown's \"I Feel Good.\" Along the way we get to know a few of them and why they do it. Sad to say, the chorus looses two members during the filming. But the show must go on. And indeed it does. By the end of the movie you will find yourself on your feet and cheering as you choke back your tears. This movie is a brilliant testament to the resiliency of the human spirit.",
+         "Stephen Walker magnificent documentary \"Young at Heart\" is a tribute to life. We are taken to meet a group of senior citizens in Massachusetts that defied staying home and became involved in doing something maybe most of them never thought capable of doing: singing. The chorus, led by Bob Cilman, proves there should not be a limit in whatever a person decides to do with his life, even if it comes this late. The most interesting thing about this group is the selection of songs included in their repertoire. There is no such thing as interpreting the standard melodies one would associate to them, based on their ages. They tackle contemporary music with a gusto and sophistication that turn their interpretation into a different tune altogether. The film starts with Eileen Hall, a lady using her cane as support, in a rendition of \"Should I Stay, or Should I Go?\" giving it a different meaning to what one remembers it to sound when it first was popular. There are also songs such as \"I Wanna Be Sedated\", a Ramones hit, heard in a new approach. The Pointer Sisters' \"Yes, we can can\" presents a problem for the many times the word 'can' is repeated during rehearsal. In their performance in front of an audience, the song flows effortlessly. James Brown's \"I Feel Good\" becomes a disarming duet that has the audience begging for more. The Young@Heart group deserves all the praise it can get. After all, these are people in their so-called \"Golden Years\" that have decided to put all their efforts into what they enjoy doing. Stephen Walker has captured the essence of the group, under the intelligent direction of Bob Cilman. A film highly recommended for everyone because of the positive message it gets across.",
+         "I am not one for documentaries or nonfiction as they usually don't allow me to escape inside the film to get a release from the life I'm living. I generally enjoy fiction because of the fantastical and its ability to bring me into a world that I wouldn't otherwise enter. With that said, I can't tell you how surprised I was at how much I enjoyed this chorus of old folks that are truly Young@Heart. Straight from the get-go, this choral troupe inspires, entertains, and just lives life to the fullest. Acting as though they are still in their twenties\u0097taking shots at each other, flirting, and singing their hearts out\u0097the Young at Heart chorus shows its audience what it means to grow old and enjoy every minute of it. Credit filmmaker Stephen Walker for keeping a somewhat unobtrusive eye on the proceedings, infusing himself into the group, joining the family. He says how he has gained 24 or so more grandparents through the process and I would also say they all gained one more grandchild. The comfortability with their documentarian is 100%, allowing this film to inspire us all for the future and show how pure the heart can be. These elderly crooners are a blast to spend time with. When shown the new songs for an upcoming concert, all have a mixture of excitement and confusion. During the first run-through of Sonic Youth's \"Schizophrenia\" we see fingers going into ears, face-cringes, and what could be described as disgust. However, they all welcome a challenge and although they don't understand the song, nor have a clue at where it's going, they never give up. Credit music director Bob Cilman for having the patience and skill to mold these performers into an act of shear professionalism and entertainment. He knows his group and their abilities, placing certain solo responsibilities on some, duet partnerships on others, always knowing that they will give their all no matter what. At first you may think he is just a vessel for them to have fun, joking around and partaking in the laughs, but as the time gets closer and closer to the performance, Bob shows his taskmaster side. He wants the best show possible and is unafraid to let his singers know it, whether telling them what he needs or threatening to cut a song. The group never falters, though. They take the criticism and run with it. When challenged to come back after Easter with the words to Allen Toussaint's \"Yes, We Can Can\" fully learned, the Northampton, MA troupe show their mettle and eventually hit it out of the park. The music is fantastic for sure, I think I may purchase their disc from CDBaby.com before the night is over, but it is really the people involved that shine on screen. Every member is an integral cog to the system and just brimming with life and energy. From Steve \"Sexy Beast\" Martin and his exuberance, to consummate professional Joe Benoit and his ability to memorize a song in one afternoon, to his best friend and confident driver Len Fontaine, to the flirtatious 92-year-old Eileen Hall, there is no one you won't you love afterwards. Their bond is unbreakable and they all help each other through the good and the bad times. Just to see them dance and move when listening to a new song, performing their dance steps at a prison gig, and unabashedly showing their emotions when tragedy strikes helps show how real they all are. These guys aren't hamming it up for the camera, they truly know how to have fun and aren't afraid to show it. Despite only taking place during the course of a seven week rehearsal schedule, having a group of people averaging 80-years-old is ripe for life to rear its ugly head. All the good times\u0097the reunions, the rejuvenation, the singing, dancing, and laughing\u0097are countered by devastation. While the film's trailer shows an uproarious good time, and by God it is, don't be caught off-guard for the poignant moments of clarity and sadness. Unfortunately tragedy does strike, sometimes at the most inopportune moments, yet all march on for their fallen comrades, creating a touching portrait of humanity. These moments also bring some of the most powerful songs including a stirring rendition of Coldplay's \"Fix You\" by returning ex-member Fred Knittle with his Johnny Cash-like baritone. In the end, though, Young@Heart is really an uplifting tale of perseverance and life at its most simple and pleasurable. This is an internationally traveling chorus, touring Europe each year to complement their US dates. Never afraid to have fun, we are given some snippets of music video style shoots interspersed throughout the film. \"Stayin' Alive\" is fantastic and during the performance for \"Golden Years\" one can't help but laugh to the point of tears for Stan Goldman. Go see this film while you can and don't be surprised to see it winning a best documentary Oscar at next year's show. I heard the rumblings that this was becoming quite the phenomenon and now I can say first hand that it is more than that. Young@Heart is something we can all relate with and a film we should see to attain hope for the future and a template for how to live out our retirements, not sulking at home, but out enjoying all the things we did the years past. Maybe life really begins at age 70.",
+         "(Synopsis) Over the last 25 years, there has existed a group of senior citizens living in Northampton, Massachusetts, who refuse to let age and ill health get them down. Young@Heart is a documentary based on the lives of the current singing group of 24 senior citizens, brought to the big screen by British filmmaker, Stephen Walker, who saw their performance in London. Young@Heart is not your ordinary singing chorus, because they sing rock, punk, disco, and the average age is 81 with the oldest being 92 year old Eileen Hall. The documentary follows the group over a six-week rigorous rehearsal schedule, plus practicing at home for an upcoming sold out concert in their home town. The group has many songs in their repertoire, but Bob Cilman, the stern but sympathetic chorus director, has added several songs for the new concert. These are not easy for the group to learn such as \"Yes We Can,\" \"Schizophrenia\" and \"I Got You or (I Feel Good)\". After several weeks of practice, the group is on their way to the local jail to give a performance, when they learn that one of their members passed away the night before. It is devastating for them, but they have learned that the show must go on. They all pull together and practice even harder to get ready for their evening performance. That night, their concert is a rousing success, and ends with a standing ovation. (My Comment) This movie is for people who want to see the real thing. Several of the senior citizens in this documentary open up their lives to us. You get to know them in just a few minutes, and you know that they are good people. The songs that they sing are not from their generation, yet they are willing to try something new. The seniors believe the old saying, \"Use it or lose it,\" and that is why they love singing in the chorus. Plus with perseverance and teamwork, they have become part of a second family. I laughed, smiled, tapped my foot, and even shed a few tears during the whole movie. I saw the movie twice: The first time I liked it, and the second time, I loved it. The younger audiences may not get it, but I know the adult audience will understand and love it. Young@Heart is truly an inspirational, entertaining, heart-felt, and wonderful documentary. This is an incredible story that needed to be told. You will absolutely love Fred Knittle's rendition of Coldplay's \"Fix You.\" This is one of those sleeper movies you will hear about. (Fox Searchlight, Run Time 1:47, Rated PG)(10/10)",
+         "YOUNG AT HEART (2008) **** Rock of ages In Stephen Walker's documentary \u0096or should I say 'rockumentary' \u0096 the Young at Heart Chorus, a group of senior citizens who sing rock and roll songs, based in Northhampton, MA, is profiled with breadth and levity showcasing their individual talents as well as performing as an ensemble, as well as their ailments and the living testimony that it is never too late to rock 'n' roll. Founded by Bob Cilman, a fifty something year old 'kid', originally as a choir specializing in old pop standards, Broadway show tunes and 'old folk' music he came up with the idea over 25 years ago to incorporate classic and contemporary rock staples which became something of a gimmick at first but fully realized as something more: underscoring many of the lyrics with a unique perspective and interpretation by his octogenarian sect (the media age of 80). Since then the group has barnstormed all over the country \u0096 and the world \u0096 and getting much acclaim. Walker films the several weeks of rehearsal for a new gig and Cilman's tough task-master skills at display in attempting to get his singers to hit the right notes, pick up the right beat cues and most importantly now the song cold. While there are some frustrations felt by Cilman for the most part he is fair and allows his group the time and effort to develop into a finely tuned body that is surprising in the process not only how they are attuned but also how they function. What is unexpected is the melancholy feel throughout as some of the members fall into bad health situations (sadly two of its key singers pass away before their fated concert the film focuses on) but it is also with plenty of humor, insight of what it means to be elderly but not 'old' and how in the autumn of one's life one can appreciate a new calling (i.e. many of the choir prefer classical music than the genre they are covering). The true highlights are the short videos interspersed through out the doc including \"Stayin' Alive\", \"I Wanna Be Sedated\" and a clever \"On the Road To Nowhere\", as well as a performance at a state prison to a captive audience. I was overwhelmed by the professionalism the troupe displayed as 'amateurs' in the old adage \"the show must go on\" and the true emotional peak is member Fred Knittle's heart- wrenching work on Coldplay's \"Fix You\" as a suitable eulogy to his fallen comrades; if you don't cry then you are simply made of stone. I whole-heartedly recommend you to seek this indie doc out and experience rock and roll in its purest form I've seen in a long time: aged yet wise, like a fine wine. One of the year's best.",
+         "JUST saw this film for the SECOND time! Liked it even better! Friends who were also at the screening in unison had just one word for the film...GREAT! For openers, this is a film about a group of people whose average age is about eighty, during the course of the film which covers slightly less than two months, several of the group die; I won't reveal which ones. At the age of the groups' members, imminent death is a constant, and the death of fellow member is a sad experience but whether it's due to the legendary New England fortitude of the members, the strength of the group, or the power of the music they are all able to accept the inevitable with equanimity, and return to the task at hand, preparing for a performance. And what a performance! Several members in interviews state that their favorite type of music is opera, but what they're singing with the group includes James Brown, Jimmy Hendrix and forward...this group is not about nostalgia! I would have liked more information about the backgrounds of some of the singers, because although they now all reside in Mass., there are reasons, (such as regional accents) to think this was not always thus. This film will probably end up under the microscopes of gerontologists, who should glean considerable information about the learning abilities, energy and enthusiasm of a group of people not generally noted for these qualities."
+      ],
+      "genres": [
+         "Documentary",
+         "Music"
+      ],
+      "productionCompanies": [
+         "Fox Searchlight Pictures",
+         "Walker George Films",
+         "Channel 4 Television Corporation"
+      ],
+      "summaries": [
+         "Documents the true story of the final weeks of rehearsal for the Young at Heart Chorus in Northampton, MA, whose average age is 81, and many of whom must overcome health adversities to participate. Their music is unexpected, going against the stereotype of their age group, performing songs, for example, by James Brown, and Sonic Youth. Although they have toured Europe and sang for royalty, this account focuses on preparing new songs, not an easy endeavor, for a concert in their home town, which succeeds in spite of several real heart breaking events.",
+         "Young@Heart is a Northampton, Massachusetts based chorus, whose two dozen or so members' average age is eighty years old. They are directed by the relatively young fifty-three year old Bob Cilman. Bob started the chorus in 1982, when they performed primarily vaudeville songs. But when they performed Manfred Mann's \"Do-Wah-Diddy\" to great fanfare, they have since almost exclusively performed pop, rock, R&B and even alternative, heavy metal and punk songs. The musical tastes of the chorus members generally leans toward the classical, but they love the energy of the group and reception they get from performing these more modern songs. Film director Stephen Walker, who saw the chorus perform in London in 2005 when they were on a European tour, travels to Northampton to film the chorus for the seven week rehearsal period for their new 2006 show, which will ultimately be called \"Alive and Well\". Bob is introducing a new repertoire for this show. He generally knows what the group will and will not like at the beginning of the rehearsal period, but hopes all the songs will be favorites by the time they are perfected. Perfecting the songs and their resulting inclusion in the show are not a guarantee, as some of the individual songs do not progress well. For this concert, Bob is hoping that two former chorus members will return to do a duet, they who originally left the group due to health reasons. But as Stephen follows the chorus, including to a local prison where they will test their \"Alive and Well\" program, he learns that health is a built-in concern of the group due to their age. He also learns that singing, music and being part of this group can be a miraculous panacea to these health concerns. Ultimately, the group has a \"the show must go on\" mentality, even if the one not making it to the show is his or herself.",
+         "A documentary on a chorus of senior citizens from Massachusetts who cover songs by Jimi Hendrix, Coldplay, Sonic Youth, and other unexpected musicians."
+      ],
+      "budget": 0
+   },
+   "movielensId": 59590,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2008-10-02",
+      "dvdReleaseDate": "2008-09-16",
+      "directors": [
+         "Sally George",
+         "Stephen Walker"
+      ],
+      "runtime": 107,
+      "movieId": 59590,
+      "title": "Young @ Heart",
+      "mpaa": "PG",
+      "actors": [
+         "Joe Benoit",
+         "Helen Boston",
+         "Louise Canady",
+         "Nelsan Ellis",
+         "Elaine Fligman",
+         "Jean Florio",
+         "Len Fontaine",
+         "Stan Goldman",
+         "Jeanne Hatch",
+         "Eileen Hall",
+         "Fred Knittle",
+         "Norma Landry",
+         "John Larareo",
+         "Patricia Larese",
+         "Miriam Leader",
+         "Patsy Linderme",
+         "Brock Lynch",
+         "Dora B. Morrow",
+         "Gloria Parker",
+         "Liria Petrides",
+         "Ed Rehor",
+         "Janice St. Laurence",
+         "Bob Salvini",
+         "Jack Schnepp",
+         "Bob Cilman",
+         "Jim Armenti",
+         "Billy Arnold",
+         "F. Alex Johnson",
+         "Steve Sanderson",
+         "Diane Porcella",
+         "Sakina Ibrahim",
+         "Michael Konderwicz",
+         "Trevin Bond",
+         "Nicole Konderwicz",
+         "Chelsea Reyes",
+         "Kashana Sharif",
+         "Jo Meysha Woods"
+      ],
+      "imdbMovieId": "1047007",
+      "originalTitle": "Young @ Heart",
+      "genres": ["Documentary"],
+      "youtubeTrailerIds": ["CjnfoFg7i7g"],
+      "plotSummary": "Documents the true story of the final weeks of rehearsal for the Young at Heart Chorus in Northampton, MA and many of whom must overcome health adversities to participate. Their music going against the stereotype of their age group. Although they have toured Europe and sang for royalty, this account focuses on preparing new songs for a concert in their home town.",
+      "tmdbMovieId": 21182,
+      "avgRating": 3.72877,
+      "releaseYear": "2008",
+      "numRatings": 212,
+      "posterPath": "/wW04kKgUtd7KaWVmhotOPcstGgF.jpg"
+   }
+}

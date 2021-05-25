@@ -1,0 +1,992 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "hero",
+            "id": 1701
+         },
+         {
+            "name": "barn",
+            "id": 3875
+         },
+         {
+            "name": "spider",
+            "id": 3986
+         },
+         {
+            "name": "pig",
+            "id": 4931
+         },
+         {
+            "name": "egg",
+            "id": 5698
+         },
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "spring",
+            "id": 6202
+         },
+         {
+            "name": "uncle",
+            "id": 6464
+         },
+         {
+            "name": "friends",
+            "id": 9713
+         },
+         {
+            "name": "rescue",
+            "id": 10084
+         },
+         {
+            "name": "survival",
+            "id": 10349
+         },
+         {
+            "name": "talking animal",
+            "id": 11477
+         },
+         {
+            "name": "grass",
+            "id": 11539
+         },
+         {
+            "name": "family",
+            "id": 18035
+         },
+         {
+            "name": "desk",
+            "id": 33621
+         },
+         {
+            "name": "raincoat",
+            "id": 33623
+         },
+         {
+            "name": "talking pig",
+            "id": 206052
+         }
+      ],
+      "imdb_id": "tt0413895",
+      "video": false,
+      "title": "Charlotte's Web",
+      "recommendations": [
+         10588,
+         10708,
+         10992,
+         11451,
+         11637,
+         10067,
+         9982,
+         6439,
+         9021,
+         9906,
+         15189,
+         8204,
+         9641,
+         13767,
+         9297,
+         11007,
+         14405,
+         11283,
+         1267,
+         9598
+      ],
+      "backdrop_path": "/ybMxs1mGYzSEkgqLvdHOMHXh8xL.jpg",
+      "revenue": 144000000,
+      "reviews": [{
+         "author": "Joe",
+         "id": "58ebb44c925141351f04e15b",
+         "content": "This is a lovely film :) Julia Roberts is lovely as the eponymous character, Dakota Fanning is a delightful Fern, and Dominic Scott Kay is an adorable Wilbur- if you see the special features, he does come across as quite a shy little boy\r\n\r\nLovely film :) <3",
+         "url": "https://www.themoviedb.org/review/58ebb44c925141351f04e15b"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 21,
+               "character": "Charlotte the Spider (voice)",
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d13",
+               "name": "Julia Roberts",
+               "profile_path": "/h13yvG0tRNMTAwciQXxYmQWdYW8.jpg",
+               "id": 1204,
+               "order": 0
+            },
+            {
+               "cast_id": 23,
+               "character": "Templeton the Rat (voice)",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d1d",
+               "name": "Steve Buscemi",
+               "profile_path": "/ieDyVKnQHo7eMGu1GOE7YYr2Fk4.jpg",
+               "id": 884,
+               "order": 1
+            },
+            {
+               "cast_id": 25,
+               "character": "Samuel the Sheep (voice)",
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8d27",
+               "name": "John Cleese",
+               "profile_path": "/kg63gNYQtGPi2fSNIvCnVAclCbi.jpg",
+               "id": 8930,
+               "order": 2
+            },
+            {
+               "cast_id": 26,
+               "character": "Gussy the Goose (voice)",
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d2b",
+               "name": "Oprah Winfrey",
+               "profile_path": "/jlsGiD71V3sZYrGG5aNgcQsElMn.jpg",
+               "id": 13309,
+               "order": 3
+            },
+            {
+               "cast_id": 27,
+               "character": "Golly the Goose (voice)",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d2f",
+               "name": "Cedric the Entertainer",
+               "profile_path": "/yyGxCX3yT1weZREjCxQ40dk1aFO.jpg",
+               "id": 5726,
+               "order": 4
+            },
+            {
+               "cast_id": 29,
+               "character": "Betsy the Cow (voice)",
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d37",
+               "name": "Reba McEntire",
+               "profile_path": "/xy47buWxWwR1imp3PnhWieF1dBL.jpg",
+               "id": 21986,
+               "order": 5
+            },
+            {
+               "cast_id": 28,
+               "character": "Bitsy the Cow (voice)",
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d33",
+               "name": "Kathy Bates",
+               "profile_path": "/pwHCkfIBeDdz93RlcmDWqXefozi.jpg",
+               "id": 8534,
+               "order": 6
+            },
+            {
+               "cast_id": 30,
+               "character": "Ike the Horse (voice)",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d3b",
+               "name": "Robert Redford",
+               "profile_path": "/b4mJIBWvEyzB8yyZWbmvfzwrdtp.jpg",
+               "id": 4135,
+               "order": 7
+            },
+            {
+               "cast_id": 31,
+               "character": "Brooks the Crow (voice)",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d3f",
+               "name": "Thomas Haden Church",
+               "profile_path": "/a7a2cG0wtkKZ9NpkVfmcyn0UvOU.jpg",
+               "id": 19159,
+               "order": 8
+            },
+            {
+               "cast_id": 32,
+               "character": "Elwyn the Crow (voice)",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d43",
+               "name": "André Benjamin",
+               "profile_path": "/dwtNFhYVAGbznuuPIqMKIrWYLtZ.jpg",
+               "id": 37934,
+               "order": 9
+            },
+            {
+               "cast_id": 33,
+               "character": "Wilbur (voice)",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d47",
+               "name": "Dominic Scott Kay",
+               "profile_path": "/hH2RPSXqJU9h8YJlnMLWh9q7Vsk.jpg",
+               "id": 61259,
+               "order": 10
+            },
+            {
+               "cast_id": 34,
+               "character": "Narrator (voice)",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d4b",
+               "name": "Sam Shepard",
+               "profile_path": "/6KincXfDKVQaRHwtX6qMUAwOsR0.jpg",
+               "id": 9880,
+               "order": 11
+            },
+            {
+               "cast_id": 35,
+               "character": "Uncle the Pig (voice)",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d4f",
+               "name": "Abraham Benrubi",
+               "profile_path": "/f5o2JsFVIqi0kFbvgXVgriap9cA.jpg",
+               "id": 21132,
+               "order": 12
+            },
+            {
+               "cast_id": 36,
+               "character": "Fern Arable",
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d53",
+               "name": "Dakota Fanning",
+               "profile_path": "/65944VxVpdehivhyoZjVE4vR9ID.jpg",
+               "id": 501,
+               "order": 13
+            },
+            {
+               "cast_id": 37,
+               "character": "Mr. Arable",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d57",
+               "name": "Kevin Anderson",
+               "profile_path": "/roCItER7LbrJJvAV1Fku3jG9g8k.jpg",
+               "id": 51805,
+               "order": 14
+            },
+            {
+               "cast_id": 38,
+               "character": "Mrs. Arable",
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d5b",
+               "name": "Essie Davis",
+               "profile_path": "/4fRr8V4harQBxJCvR8dhPP40tYA.jpg",
+               "id": 33449,
+               "order": 15
+            },
+            {
+               "cast_id": 39,
+               "character": "Mrs. Zuckerman",
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d5f",
+               "name": "Siobhan Fallon",
+               "profile_path": "/wVFa8GiY0xdOLFsvGygy9RMtcBc.jpg",
+               "id": 6751,
+               "order": 16
+            },
+            {
+               "cast_id": 40,
+               "character": "Avery",
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8d63",
+               "name": "Louis Corbett",
+               "profile_path": "/nQ9jciRkjzuWvbdyP36hfeWxsOj.jpg",
+               "id": 61487,
+               "order": 17
+            },
+            {
+               "cast_id": 41,
+               "character": "Teacher",
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8d67",
+               "name": "Robyn Arthur",
+               "profile_path": "/zdXUNkOPJDjHrljAdouKCVIgzqT.jpg",
+               "id": 61489,
+               "order": 18
+            },
+            {
+               "cast_id": 42,
+               "character": "Henry Fussy",
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8d6b",
+               "name": "Julian O'Donnell",
+               "profile_path": "/5cY0rWCA47b5t09LxgaSI7cRr4n.jpg",
+               "id": 61488,
+               "order": 19
+            },
+            {
+               "cast_id": 43,
+               "character": "Homer Zuckerman",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d6f",
+               "name": "Gary Basaraba",
+               "profile_path": "/7CMnYNxHjB9yRDc9MqYL0Q5aJQd.jpg",
+               "id": 96228,
+               "order": 20
+            },
+            {
+               "cast_id": 44,
+               "character": "Lurvy",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d73",
+               "name": "Nate Mooney",
+               "profile_path": "/g9GCabrHoMfNP7NfhS8Q0VkVJ2E.jpg",
+               "id": 74538,
+               "order": 21
+            },
+            {
+               "cast_id": 45,
+               "character": "Minister",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d77",
+               "name": "Nicholas Bell",
+               "profile_path": "/jtwLg2u2Zjoi0DFkmadvFIcfhdp.jpg",
+               "id": 15340,
+               "order": 22
+            },
+            {
+               "cast_id": 46,
+               "character": "Dr. Dorian",
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d7b",
+               "name": "Beau Bridges",
+               "profile_path": "/xv6sDCHxHvBgCK4y96H32kxgcdr.jpg",
+               "id": 2222,
+               "order": 23
+            },
+            {
+               "cast_id": 47,
+               "character": "Well Dressed Man",
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8d7f",
+               "name": "Teague Rook",
+               "profile_path": null,
+               "id": 217039,
+               "order": 24
+            },
+            {
+               "cast_id": 48,
+               "character": "Bystander",
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d83",
+               "name": "Julia Zemiro",
+               "profile_path": "/iD96xUMPkTMcOCKiNPlLXyYtpqZ.jpg",
+               "id": 88419,
+               "order": 25
+            },
+            {
+               "cast_id": 49,
+               "character": "New Teacher",
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8d87",
+               "name": "Denise Kirby",
+               "profile_path": null,
+               "id": 1204069,
+               "order": 26
+            },
+            {
+               "cast_id": 50,
+               "character": "Ball Thrower",
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8d8b",
+               "name": "Robert Plazek",
+               "profile_path": null,
+               "id": 1204070,
+               "order": 27
+            },
+            {
+               "cast_id": 51,
+               "character": "Young Boy",
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8d8f",
+               "name": "Joseph Lotesto",
+               "profile_path": null,
+               "id": 1204071,
+               "order": 28
+            },
+            {
+               "cast_id": 52,
+               "character": "Mayor",
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8d93",
+               "name": "Michael Roland",
+               "profile_path": null,
+               "id": 1204072,
+               "order": 29
+            },
+            {
+               "cast_id": 53,
+               "character": "Announcer",
+               "gender": 0,
+               "credit_id": "52fe4558c3a36847f80c8d97",
+               "name": "Don Bridges",
+               "profile_path": null,
+               "id": 80270,
+               "order": 30
+            },
+            {
+               "cast_id": 54,
+               "character": "Fair Official",
+               "gender": 2,
+               "credit_id": "52fe4558c3a36847f80c8d9b",
+               "name": "Ian Watkin",
+               "profile_path": "/tRisacMchEHc1chzNO81x0qwZ7A.jpg",
+               "id": 11335,
+               "order": 31
+            },
+            {
+               "cast_id": 55,
+               "character": "Sheep Group (voice)",
+               "gender": 2,
+               "credit_id": "52fe4558c3a36847f80c8d9f",
+               "name": "Joel McCrary",
+               "profile_path": "/dYvBFGfll0wMF9kLt0jXj4OiCzA.jpg",
+               "id": 12223,
+               "order": 32
+            },
+            {
+               "cast_id": 56,
+               "character": "Sheep Group (voice)",
+               "gender": 2,
+               "credit_id": "52fe4558c3a36847f80c8da3",
+               "name": "Brian Stepanek",
+               "profile_path": "/sbIrbAodJCR1fdTc6GbhUyVD2rp.jpg",
+               "id": 146391,
+               "order": 33
+            },
+            {
+               "cast_id": 57,
+               "character": "Sheep Group (voice)",
+               "gender": 2,
+               "credit_id": "52fe4558c3a36847f80c8da7",
+               "name": "Fred Tatasciore",
+               "profile_path": "/lNe4zn9fJ302GehQVaFk5BNcGGM.jpg",
+               "id": 60279,
+               "order": 34
+            },
+            {
+               "cast_id": 58,
+               "character": "Sheep Group (voice)",
+               "gender": 2,
+               "credit_id": "52fe4558c3a36847f80c8dab",
+               "name": "Bradley White",
+               "profile_path": null,
+               "id": 168377,
+               "order": 35
+            },
+            {
+               "cast_id": 59,
+               "character": "Joy the Baby Spider (voice)",
+               "gender": 0,
+               "credit_id": "52fe4558c3a36847f80c8daf",
+               "name": "Maia Kirkpatrick",
+               "profile_path": null,
+               "id": 1204074,
+               "order": 36
+            },
+            {
+               "cast_id": 60,
+               "character": "Aranea the Baby Spider (voice)",
+               "gender": 0,
+               "credit_id": "52fe4558c3a36847f80c8db3",
+               "name": "Jennessa Rose",
+               "profile_path": "/31ihfzqUWhoSKorzOm7nukXr2Im.jpg",
+               "id": 1075686,
+               "order": 37
+            },
+            {
+               "cast_id": 61,
+               "character": "Nellie the Baby Spider (voice)",
+               "gender": 0,
+               "credit_id": "52fe4558c3a36847f80c8db7",
+               "name": "Briana Hodge",
+               "profile_path": "/rL4Qvef0HViBbY2WVOWA12xDO5w.jpg",
+               "id": 944685,
+               "order": 38
+            },
+            {
+               "cast_id": 62,
+               "character": "Photographer (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4558c3a36847f80c8dbb",
+               "name": "Dale Azzopardi",
+               "profile_path": null,
+               "id": 1204075,
+               "order": 39
+            },
+            {
+               "cast_id": 63,
+               "character": "Photographer (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4558c3a36847f80c8dbf",
+               "name": "Geoff Burgess",
+               "profile_path": null,
+               "id": 1204076,
+               "order": 40
+            },
+            {
+               "cast_id": 64,
+               "character": "Girl at Fair (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe4558c3a36847f80c8dc3",
+               "name": "Ella Scott Lynch",
+               "profile_path": null,
+               "id": 1194111,
+               "order": 41
+            },
+            {
+               "cast_id": 65,
+               "character": "Farmer (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4558c3a36847f80c8dc7",
+               "name": "Greg Marian",
+               "profile_path": null,
+               "id": 1204077,
+               "order": 42
+            },
+            {
+               "cast_id": 66,
+               "character": "Fair Member (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4558c3a36847f80c8dcb",
+               "name": "Stefano Mazzeo",
+               "profile_path": null,
+               "id": 1204078,
+               "order": 43
+            },
+            {
+               "cast_id": 67,
+               "character": "Girl at Fair (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe4558c3a36847f80c8dcf",
+               "name": "Elizabeth Saunders",
+               "profile_path": null,
+               "id": 1008932,
+               "order": 44
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8c9d",
+               "name": "Karey Kirkpatrick",
+               "profile_path": "/duWAmZCC3R9B6WgoIaX56Q39hy4.jpg",
+               "id": 52845,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8ca3",
+               "name": "Gary Winick",
+               "profile_path": "/9gzk1OptV4rlvEgPFQo9pC0TUYV.jpg",
+               "id": 17046,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8ca9",
+               "name": "Susannah Grant",
+               "profile_path": "/jEvMIuUbTu9HDzNfv5P23kQixy7.jpg",
+               "id": 6340,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8caf",
+               "name": "Julia Pistor",
+               "profile_path": null,
+               "id": 60268,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8cb5",
+               "name": "Jordan Kerner",
+               "profile_path": null,
+               "id": 58408,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8cbb",
+               "name": "Earl Hamner, Jr.",
+               "profile_path": null,
+               "id": 61479,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8cc1",
+               "name": "E.B. White",
+               "profile_path": "/lL7BHVxrydz8NDNGsozWheLmfvl.jpg",
+               "id": 61480,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8cc7",
+               "name": "Ellen Lewis",
+               "profile_path": null,
+               "id": 2242,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8ccd",
+               "name": "David Rubin",
+               "profile_path": "/x22xlcu30x5s8jelEIkJVBeLHrn.jpg",
+               "id": 5490,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8cd3",
+               "name": "Paul Neesan",
+               "profile_path": null,
+               "id": 61481,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8cd9",
+               "name": "Danny Elfman",
+               "profile_path": "/pWacZpYPos8io22nEiim7d3wp2j.jpg",
+               "id": 531,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8cdf",
+               "name": "Edgar M. Bronfman",
+               "profile_path": null,
+               "id": 61482,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8ce5",
+               "name": "Bernard Williams",
+               "profile_path": null,
+               "id": 2384,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8ceb",
+               "name": "Seamus McGarvey",
+               "profile_path": "/yXEsxEMHlMDemBy8JrHZFAmd3uD.jpg",
+               "id": 3285,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8cf1",
+               "name": "Susan Littenberg",
+               "profile_path": null,
+               "id": 61484,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8cf7",
+               "name": "Tony Winley",
+               "profile_path": null,
+               "id": 61483,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4557c3a36847f80c8cfd",
+               "name": "Stuart Wurtzel",
+               "profile_path": null,
+               "id": 21379,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d03",
+               "name": "Tom Nursey",
+               "profile_path": null,
+               "id": 61486,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d09",
+               "name": "Lisa Thompson",
+               "profile_path": "/4tHwVFGyISMMmeJSeCXrMBq6geU.jpg",
+               "id": 61485,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4557c3a36847f80c8d0f",
+               "name": "John Kasarda",
+               "profile_path": null,
+               "id": 17220,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d19",
+               "name": "Sabrina Plisco",
+               "profile_path": null,
+               "id": 23544,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4557c3a36847f80c8d23",
+               "name": "Rita Ryack",
+               "profile_path": null,
+               "id": 6192,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5531558bc3a36822230008b4",
+               "name": "Daniel Fotheringham",
+               "profile_path": null,
+               "id": 1452991,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553dc36fc3a3683e55007464",
+               "name": "Howard R. Campbell",
+               "profile_path": null,
+               "id": 1453943,
+               "department": "Lighting",
+               "job": "Lighting Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5549565292514104c40007a5",
+               "name": "Jeremy Stewart",
+               "profile_path": null,
+               "id": 1463785,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555e3b2ec3a36868dc0007c2",
+               "name": "Owen Klatte",
+               "profile_path": null,
+               "id": 1454032,
+               "department": "Visual Effects",
+               "job": "Animation"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         }
+      ],
+      "popularity": 8.418306,
+      "production_countries": [
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 9986,
+      "vote_count": 387,
+      "budget": 85000000,
+      "overview": "Wilbur the pig is scared of the end of the season, because he knows that come that time, he will end up on the dinner table. He hatches a plan with Charlotte, a spider that lives in his pen, to ensure that this will never happen.",
+      "similar": [
+         862,
+         68718,
+         16314,
+         7191,
+         28178,
+         116149,
+         364689,
+         8839,
+         44683,
+         6477,
+         397422,
+         13523,
+         9598,
+         568,
+         605,
+         5876,
+         3131,
+         5176,
+         76341,
+         44943
+      ],
+      "original_title": "Charlotte's Web",
+      "runtime": 97,
+      "poster_path": "/zmfPv26TJrMeE9ngSEpBG44uePa.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "id": 4,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Kerner Entertainment Company",
+            "id": 7311,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2006-12-15",
+      "vote_average": 5.8,
+      "belongs_to_collection": null,
+      "tagline": "Something unexpected, unbelievable, unforgettable.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Gary Winick"],
+      "runtime": 97,
+      "synopsis": "With the birth of a new litter of 11 piglets, the farmer must eliminate one so the mother can feed them. The farmer gets his ax and selects the runt of the litter when he is stopped by his daughter, Fern (Dakota Fanning). Fern begins to feed her new piglet and names him Wilbur (voice of Dominic Scott Kay). After Wilbur gets strong enough to be on his own, he is put into the barn across the road. In the new barn, he meets many different animals: cows, sheep, geese, a rat, a horse, and of course a spider named Charlotte (voice of Julia Roberts). Wilbur's friendship with all the animals in the barn brings them all together, and they become one big happy family. There is only one problem that Wilbur doesn't know, he is a spring pig, and they don't usually get to see winter. Charlotte promises Wilbur that she will do something to save his life. Charlotte spins the words \"some pig\" in her web to show the farmer a miracle that may save Wilbur's life. Douglas Young (the-movie-guy)",
+      "writers": [
+         "Susannah Grant",
+         "Karey Kirkpatrick"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0413895/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ5MTUzMTAzMl5BMl5BanBnXkFtZTcwNTE0NTcyMw@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Dakota Fanning, Julia Roberts, Oprah Winfrey | See full cast and crew »"],
+      "reviews": [
+         "Bring your Kleenex. Maybe it's just coz I'm female, or maybe it's coz my mother read this book to me when I was little -- but every time a new word appeared in that web -- tears rolled down my cheeks! It's very charming. They have kept to the time frame of the book -- it looks like the 1930s-1950s. They haven't tried to \"modernize\" it with pop culture references and silly jokes like so many kids' movies nowadays do. Fern isn't break dancing with the pig. (No, there are no musical numbers.) Fart jokes were kept to a minimum. (I think they are required by law nowadays to put fart jokes in all children's entertainment.) They didn't dumb down the lovely words E.B. White used -- Charlotte uses her grand language as she speaks to Wilbur and spins her webs. I kept thinking of \"Babe\" at the start of the movie. A white runt pig saved. Similar barnyard companions. Even the voice of Wilbur sounds like the voice of Babe. (Even tho Babe was voiced by a 32 y.o. woman and Wilbur by a 9 y.o. boy!) But I think the writers of Babe must have been fans of the classic \"Charlotte's Web\". Steve Buscemi as the voice of Templeton the Rat is just perfect. (Poor guy even has a rat-like face -- is that why they cast him?) And the CGI animation is flawless. You can't tell the animated animals from the real ones. Flawlessly blended. That little pig is SO cute at the beginning -- I just wanted to watch him play in the mud for 10 minutes. (But no, they kept the story moving along.) They even tried to make the spider cute, but that's quite a challenge. Still Julia Roberts' soothing motherly voice helps. (Nevertheless, the little girl next to me climbed into her grandma's lap when the spider appeared.) And Dakota Fanning, as always, is a darling. So go -- and if you loved the book as a child, bring plenty of Kleenex!",
+         "I attended an advanced screening recently in Nashville, TN. I loved John Cleese as the sheep. Steve Buscemi was perfect as Templeton. Thomas Haden Church is so funny. He played his crow like Lowell Mather from \"Wings\". This guy can play the perfect moron. Dakota Fanning just gets better with each role. She will be a hot property for some time to come. She may not ever achieve \"Tom Cruise level\" stardom, but she is extremely talented. I could not believe how many people cried. The cast really did a great job of making the audience CARE about the characters. Children and adults will enjoy this film. There is plenty of humor to offset the tragic elements of the story.",
+         "I was prepared for almost anything going into this movie, knowing that so many filmmakers who adapt classic stories think it is their duty to \"update\" the story, or feel the need to add a lot of comic relief. Thankfully, Winick did not succumb to these temptations. Instead, he offers a delightfully filmed version of the story, with CG effects so realistic and subtle that they detract from the live action base not even a little bit. This movie is very true to the original story, and the comic relief was, in my opinion, not at all overbearing. I got a lot of genuine laughs out of the movie, and, at 40, that's saying something for a G-rated movie aimed at families with small children. The movie has an old-fashioned but familiar feel to it. It seems to represent the America we all think we remember, and want to see when we visit the country. It seems in many ways timeless, without feeling Disney-esquire. I'm sure this is what the filmmakers were going for, and they hit it right on the nose. I thought the casting was excellent, for the most part. Though Agnes Moorehead (from the original animated version) absolutely bowls Oprah Winfrey over as the goose, and Julia Roberts' voice was maybe a bit too matter-of-fact for Charlotte. Debbie Reynolds' extra-sweet voice did, I think, a just-so-slightly better job in the original. That aside, Miss Fanning is perfect as Fern, and Siobhan Fallon could not play the incredulous Mrs. Zuckerman one iota better. I think E.B. White would be pleased. This is as honest a representation of his wonderful story as anyone could hope for. If you have small kids, read them the book, and then go see the movie. If you read the book as a kid, and still smile when you think about it, then go see it yourself. Highly recommended.",
+         "It's a beautiful movie and wonderfully true to the book. A fan of EB White's brilliant work, I could recite the last lines alongside the movie. The friend I went with is a die-hard fan of the older, animated Charlotte's Web; his only complaint was that this one had fewer musical numbers (read: none). Also, I felt the beginning and end credits act as somewhat of a homage to the animated version. The voices are very well cast; Julia Roberts is a comforting and delightful Charlotte, and while the opening shots of the spider made some in the audience go \"Ew,\" we grow, like the barn animals, to embrace her warm nature. I found her quite beautiful in the end. Steve Buscemi is perfect as Templeton. Knowing John Cleese is behind the head sheep makes it even funnier. And Dakota Fanning finally gets to play a little girl being a little girl. It only made me tear up twice, but I'm a big softy. Take the family, the kids, and anyone who's ever enjoyed EB White's classic story.",
+         "I had initial hesitation in deciding whether to watch this movie - not because it features a talking pig ala Babe, but probably because, if rumour has you believe, that viewers will swear off pork. They look so cute that you would not imagine them being on your dinner table, ever after. I've read the book when I was a kid, but heck, I can't remember much of the details beyond the friendship between spider and pig. Wilbur the piglet's destiny is set from birth - being the odd one out without access to its mother's teat, he's earmarked for immediate transformation to pork, but the intervention of a young girl Fern (Dakota Fanning) helped prevent it, albeit for a little while. Put in a barn with the other animals, Wilbur is in desperate need of friendship to wilt away his loneliness, but given the indifferent attitudes amongst the resident animals, he gets a none too friendly introduction to farm life. That is until he meets Charlotte, a spider who will try help to extend the lifespan of Wilbur, saving the spring pig from becoming Christmas ham. It's a story about friendship, and the miracles gained from trust, help, and the fulfilling of promises. And this movie gets a huge boost through its A-list voice talents, with the likes of, check this out - Julia Roberts as Charlotte, Steve Buscemi as Templeton the selfish rat, John Cleese as Sam Sheep, leader of the pack of sheep followers (played to hilarity), Katy Bates, Cedric the Entertainer, Oprah Winfrey, Robert Redford, Thomas Haden Church, Andre Benjamin and Sam Shepard. They seemed to have a rip-roaring time, and I thought Julia Roberts' Charlotte came across as extremely calm and collected, while probably the character with the best lines was Templeton the rat. Fanning already got experience playing opposite her animal counterparts, like in Dreamer earlier this year, though this time in the barnyard the animals are enhanced by technology and graphics. Her role however is limited in screen time, and although there are hints on puppy love, it's very much unexplored in depth as the focus is squarely on our animal friends. The score is an unrecognizable Danny Elfman contribution without the dark overtones, and the songs played during the animated stills of the end credits, do sound radio friendly enough to warrant airplay. Charlotte's Web is a feel good, heartwarming family movie which is suitable for this holiday season. It is uncomplicated, and has a simple message, but is engaging enough for both children and adults. A warning though, the movie is poignant yet hopeful, so to sentimental folks, a tissue or two will help.",
+         "I saw this film on November 13th, 2006 in Indianapolis. I am one of the judges for the Heartland Film Festival's Truly Moving Picture Award. A Truly Moving Picture \"\u0085explores the human journey by artistically expressing hope and respect for the positive values of life.\" Heartland gave that award to this film. There is a lot of responsibility to be taken on when you put an E.B. White classic book to film. There is even more responsibility when there is already a wonderful and popular animation video of the book available. But this film takes on this responsibility in spectacular fashion. Half live animal animation as in \"Babe\" and half live action, the film is stunningly made. The story is about the runt of a pig litter. There are ten teats available and eleven piglets. The eleventh piglet is doomed to be destroyed until the farmer's daughter (Dakota Fanning) saves and adopts the runt who is named Wilbur. Finally the piglet, Wilbur, gets to be too big to be a pet in the house and is sent across the road to another farm. The farm animals and Wilbur become \"humanized\" as we understand their animal talk. Five (5) goats, two (2) cows, two (2) geese, one (1) horse, one (1) rat and one (1) spider become a microcosm of society and Wilbur's family and friends and neighbors. It sounds preposterous, but it is utterly believable because the special effects are so good it all seems real and your disbelief disappears so you can get lost in the story. And \u0085 what a story. Wilbur slowly realizes that he is an animal raised for his meat and the end of his life is months away and he is disconcerted to say the least. But he has a friend determined to help him out \u0096 a spider named Charlotte (voice by Julia Roberts), who will try many things to keep Wilbur as a permanent farm animal and not just food on the table for the farm family. The society of animals have many lessons to teach children (and adults); specifically, friendship, sacrifice, living with the death issue, hope, determination, love, duty, fairness, respect, humility, and much more. However, this is not a heavy lesson on mature life issues. Laughter and joy permeate the film and puns and chuckles are everywhere throughout the film. The artistry of the film is outstanding. The farms and surroundings are idyllic. The synchronizing of the words and animal movements are right on. Everything on the screen leads you to believe the story is real. FYI \u0096 There is a Truly Moving Pictures web site where there is a listing of past Truly Moving Picture Award winners that are now either at the theater or available on video.",
+         "I saw this movie with my two sons and wife and we all enjoyed it. We were very familiar with both the book and original animated movie, which we highly enjoyed. This movie is very well done both in terms of money spent, but also in the time and quality taken. The story moves along nicely, never dragging, and the emotions are never overwhelming. I do have to say that I missed Henry Gibson as the voice of Wilbur but that was a personal bias, the young actor who voiced Wilbur did a good job. My sons found many things to laugh at and the darker moments, (not wanting to spoil anything for anyone who does not know the story)are handled deftly so sensitive children will not get upset. An excellent family movie.",
+         "Charlotte's Web has always been one of my favourite children's books. When I was ten, I used to imagine having a pig as my pet and tear at the disconsolate ending. One of the classic stories of loyalty, trust, and sacrifice comes to life in this live-action adaptation. Dakota Fanning plays Fern who keeps an unlikely pet of Wilber the pig. As winter comes, the family decides that Wilbur would make delicious smoked ham on their dining table. It was the 'ugly' and small spider with a big heart, Charlotte who saves his life with her web and words. More than a decade ago, the world was thrilled by Babe, the courageous sheep chaser. During that time, the CGI was considered ground-breaking, thus Wilbur may not be as celebrated as Babe. (I remembered I swore off pork for a week after Babe.) Although the movie boosts a heavyweight cast of Oprah Winfrey, Kathy Bates and Cedric the Entertainer, it was Academy Award Winner Julia Roberts who breathes in life into Charlotte with maturity and genuineness. Pardon me, but I never found Dakota Fanning cute or sweet in any way. (She was really quite irritating in War of the Worlds.) Perhaps she is too mature and smart for her age, and thus somebody younger and more innocent may be suitable for the role of Fern. Children of all ages should be thrilled by talking animals and a charming storyline by E.B. White. This is a moving story to teach them about life and death, trust and friendship. Adults may be a little impatient at the bland storytelling, and most would have already known the ending. The final scene will still tug heart strings and do bring your Kleenex. Do not be too skeptical, and you will enjoy this magical and childlike fantasy. http://themovieclub.blogspot.com",
+         "With this movie made in part in my hometown (Williamstown) I dragged the kids along to check it out. Being well familiar with the story, I expected this to be pretty light hearted fair, but the wife still managed to turn into a blubbing mess at the end. The movie had an uneasy feel about the setting; didn't feel current or old for that matter, so perhaps will age OK. The CGI was pretty amazing. I'd hate to imagine what someone from a time capsule or straight out of jail would imagine has happened in our world since they left. Talking animals and spiders, so realistic the kids don't even blink twice. Good for young kids (mine are 4 and 2), and not monotonously boring like many of the other CGI laden kids movies out there.",
+         "I'm not sure where all of the criticism of this movie is coming from! My wife and I watched and enjoyed every moment of this children's classic and didn't feel cheated in any way by the telling! The story is close to the children's book but a couple of goofy crows are added with the voices of Thomas Haden Church and Andre Benjamin. They only added a mild comic subplot but didn't affect the telling in any way. Every time I hear THC's voice, I always see his character from Wings blabbering on about something mundane! He's quite silly as a starving crow! If you want high drama this year, go see Apocalypto, or Blood Diamond... for good family entertainment, Charlotte's Web is the perfect counter to any heavy story lines from those other movies!"
+      ],
+      "genres": [
+         "Comedy",
+         "Family",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Paramount Pictures",
+         "Walden Media",
+         "Kerner Entertainment Company"
+      ],
+      "summaries": [
+         "Based on the beloved children's novel by E.B. White, a young girl named Fern rescues a runty piglet, raises it as her own and names him Wilbur. However, after Wilbur grows into a pig, she is compelled to sell him to her Uncle Homer Zuckerman down the street. At Zuckerman's barn, Wilbur meets a host of animals and later learns from them that come winter, he will be slaughtered for food. Fearing for his life, Charlotte, a gentle and wise spider whom befriended the lonely Wilbur, vows to save his life.",
+         "Wilbur the pig is scared of the end of the season, because he knows that come that time, he will end up on the dinner table. He hatches a plan with Charlotte, a spider that lives in his pen, to ensure that this will never happen."
+      ],
+      "budget": 0
+   },
+   "movielensId": 49647,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2006-12-15",
+      "dvdReleaseDate": "2007-04-03",
+      "directors": ["Gary Winick"],
+      "runtime": 97,
+      "movieId": 49647,
+      "title": "Charlotte's Web",
+      "mpaa": "G",
+      "actors": [
+         "Julia Roberts",
+         "Steve Buscemi",
+         "John Cleese",
+         "Oprah Winfrey",
+         "Cedric the Entertainer",
+         "Reba McEntire",
+         "Kathy Bates",
+         "Robert Redford",
+         "Thomas Haden Church",
+         "André Benjamin",
+         "Dominic Scott Kay",
+         "Sam Shepard",
+         "Abraham Benrubi",
+         "Dakota Fanning",
+         "Kevin Anderson",
+         "Essie Davis",
+         "Siobhan Fallon",
+         "Louis Corbett",
+         "Robyn Arthur",
+         "Julian O'Donnell",
+         "Gary Basaraba",
+         "Nate Mooney",
+         "Nicholas Bell",
+         "Beau Bridges",
+         "Teague Rook",
+         "Julia Zemiro",
+         "Denise Kirby",
+         "Robert Plazek",
+         "Joseph Lotesto",
+         "Michael Roland",
+         "Don Bridges",
+         "Ian Watkin",
+         "Joel McCrary",
+         "Brian Stepanek",
+         "Fred Tatasciore",
+         "Bradley White",
+         "Maia Kirkpatrick",
+         "Jennessa Rose",
+         "Briana Hodge",
+         "Dale Azzopardi",
+         "Geoff Burgess",
+         "Ella Scott Lynch",
+         "Greg Marian",
+         "Stefano Mazzeo",
+         "Elizabeth Saunders"
+      ],
+      "imdbMovieId": "0413895",
+      "originalTitle": "Charlotte's Web",
+      "genres": [
+         "Comedy",
+         "Family",
+         "Fantasy"
+      ],
+      "youtubeTrailerIds": ["ORMcpzpmLTU"],
+      "plotSummary": "Wilbur the pig is scared of the end of the season, because he knows that come that time, he will end up on the dinner table. He hatches a plan with Charlotte, a spider that lives in his pen, to ensure that this will never happen.",
+      "tmdbMovieId": 9986,
+      "avgRating": 3.15971,
+      "releaseYear": "2006",
+      "numRatings": 623,
+      "posterPath": "/zmfPv26TJrMeE9ngSEpBG44uePa.jpg"
+   }
+}

@@ -1,0 +1,368 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "africa",
+            "id": 409
+         },
+         {
+            "name": "riddle",
+            "id": 483
+         },
+         {
+            "name": "treasure",
+            "id": 1454
+         },
+         {
+            "name": "adventure",
+            "id": 4414
+         },
+         {
+            "name": "treasure hunt",
+            "id": 6956
+         },
+         {
+            "name": "disappearance",
+            "id": 10941
+         },
+         {
+            "name": "archaeologist",
+            "id": 41586
+         },
+         {
+            "name": "archeology ",
+            "id": 184134
+         },
+         {
+            "name": "allan quatermain",
+            "id": 191439
+         }
+      ],
+      "imdb_id": "tt0089421",
+      "video": false,
+      "title": "King Solomon's Mines",
+      "recommendations": [
+         9710,
+         12764,
+         25678,
+         12715,
+         11649,
+         27352,
+         13154,
+         11037,
+         11859,
+         12088,
+         16113,
+         14854,
+         867,
+         15983,
+         9057,
+         9409,
+         11591,
+         10303,
+         19086,
+         11384
+      ],
+      "backdrop_path": "/nkXqmkJKHY0R2VDrePbJCDkm91J.jpg",
+      "revenue": 238227,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Allan Quatermain",
+               "gender": 2,
+               "credit_id": "52fe4537c3a36847f80c2b75",
+               "name": "Richard Chamberlain",
+               "profile_path": "/1EkhXGn1Z3obHsOnJTA5SWEJicN.jpg",
+               "id": 28906,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Jesse Huston",
+               "gender": 1,
+               "credit_id": "52fe4537c3a36847f80c2b79",
+               "name": "Sharon Stone",
+               "profile_path": "/n28skoawvqAymYr6gRSm2pfro0i.jpg",
+               "id": 4430,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Colonel Bockner",
+               "gender": 2,
+               "credit_id": "52fe4537c3a36847f80c2b7d",
+               "name": "Herbert Lom",
+               "profile_path": "/85tCjSGBH778wpycsIDb7mxhZia.jpg",
+               "id": 14503,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Dogati",
+               "gender": 2,
+               "credit_id": "52fe4537c3a36847f80c2b81",
+               "name": "John Rhys-Davies",
+               "profile_path": "/dvT1NPY8CXIVQh0O1h6rpfYOgKz.jpg",
+               "id": 655,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Umbopo",
+               "gender": 2,
+               "credit_id": "52fe4538c3a36847f80c2b85",
+               "name": "Ken Gampu",
+               "profile_path": "/d6eAPMguq29C7umrfmAC34RIbqC.jpg",
+               "id": 59804,
+               "order": 4
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4538c3a36847f80c2b8b",
+               "name": "J. Lee Thompson",
+               "profile_path": "/cVHgJwHOh4j7q1tn3vQEcopblrJ.jpg",
+               "id": 18669,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4538c3a36847f80c2b91",
+               "name": "H. Rider Haggard",
+               "profile_path": null,
+               "id": 59805,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4538c3a36847f80c2b97",
+               "name": "Gene Quintano",
+               "profile_path": null,
+               "id": 56953,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4538c3a36847f80c2b9d",
+               "name": "James R. Silke",
+               "profile_path": null,
+               "id": 59806,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4538c3a36847f80c2ba3",
+               "name": "Yoram Globus",
+               "profile_path": "/bKbeXNvErtCQiK3pEEnFgmR9cvo.jpg",
+               "id": 33009,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4538c3a36847f80c2ba9",
+               "name": "Menahem Golan",
+               "profile_path": "/qGtHMLd4E7tRyw75H4lWTRelW7B.jpg",
+               "id": 33008,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4538c3a36847f80c2baf",
+               "name": "Jerry Goldsmith",
+               "profile_path": "/e6sd10VuwFXkgRFrCTCygbhMq2q.jpg",
+               "id": 1760,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4538c3a36847f80c2bbb",
+               "name": "John Shirley",
+               "profile_path": null,
+               "id": 10219,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5713968dc3a36866780082bf",
+               "name": "Álex Phillips Jr.",
+               "profile_path": null,
+               "id": 1020068,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 9.579558,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 9838,
+      "vote_count": 133,
+      "budget": 12500000,
+      "overview": "Ever in search of adventure, explorer Allan Quatermain agrees to join the beautiful Jesse Huston on a mission to locate her archaeologist father, who has been abducted for his knowledge of the legendary mines of King Solomon. As the kidnappers, led by sinister German military officer Bockner, journey into the wilds of Africa, Allan and Jesse track the party and must contend with fierce natives and dangerous creatures, among other perils.",
+      "similar": [
+         10303,
+         9710,
+         6637,
+         2059,
+         85,
+         217,
+         87,
+         89,
+         1996,
+         9326,
+         1995,
+         17578,
+         11430,
+         9732,
+         606,
+         10527,
+         256274,
+         7350,
+         14211,
+         9992
+      ],
+      "original_title": "King Solomon's Mines",
+      "runtime": 100,
+      "poster_path": "/wNjXdgbYNvfdlcGQyDP1I7P3KSw.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/5jvFLUVXGXxkyszL9cqJN5hNhJ6.png",
+            "name": "Cannon Group",
+            "id": 1444,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Golan-Globus Productions",
+            "id": 13549,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cannon Productions",
+            "id": 38215,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1985-03-20",
+      "vote_average": 5,
+      "belongs_to_collection": {
+         "backdrop_path": "/laC6eKju8ztT6URFBR0HG6vx0dd.jpg",
+         "name": "Allan Quatermain Collection",
+         "id": 135502,
+         "poster_path": "/mNNITfwWSmohrgvC2OCJoGiywBX.jpg"
+      },
+      "tagline": "An action packed adventure, full of laughs and heroics.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["J. Lee Thompson"],
+      "runtime": 100,
+      "synopsis": "South Africa, the 1910s. Allan Quatermain (Richard Chamberlain) is a white big-game hunter and explorer who is hired by Jesse Huston (Sharon Stone) a young American who wants to help her find her father who was belived to be lost on an expedition to find the fabled King Solomon's Mines. Together with his African companion, the mysterious Umbopo (Ken Gampu), they penetrate unknown country, following a map believed to be genuine. It transpires that Professor Huston has been captured by a German military expedition on the same quest, led by Bockner (Herbert Lom), a stereotypical, single-minded, knackwurst-munching, bald-headed Colonel and a ruthless Turkish slave-trader and adventurer, Dogati (John Rhys-Davies). Huston is being forced to interpret another map, also believed to be genuine. The two rival expeditions shadow each other, clashing on several occasions, and finally enter the tribal lands of the Kukuana who capture them. The tribe is under the control of the evil priestess, Gagoola, who has Quatermain hung upside down over a pond full of crocodiles. Just when all seems lost, Umbopo arrives and after defeating Gagoola's warriors in combat, reveals his identity as an exiled tribal chief and the rightful ruler of the Kukuanas. As the tribesmen submit to him, Gagoola captures Jesse and flees into caves in the depths of the Breasts of Sheba, the twin mountain peaks where the mines are located. They are pursued by Bockner and Dogati, who attack the village in full force. The Germans follow Quatermain and Umbopo to the entrance to the mines, but are hampered by a moat of quicksand. Bockner orders his men forward into the moat, but they have trouble crossing it. Dogati then kills all of Bockner's soldiers, as well as most of his own men, and uses their bodies as stepping stones to cross the moat safely. As they approach the entrance, Bockner shoots Dogati and takes command of what little remains of the party. Inside the mines, Quatermain and Umbopo rescue Jesse and find the resting place of all the former tribal queens, including the Queen of Sheba herself, encased in crystal. Umbopo explains that Gagoola had attempted to sacrifice Jesse in order to keep her power as the Kukuanas' ruler because of Jessie's strong resemblance to the Queen of Sheba. Then Gagoola appears and taunts Umbopo, who pursues her through the caverns. As Bockner and his men arrive next, Quatermain and Jessie flee for safety, but end up in the cavern's treasure chamber, which is full of raw diamonds and other priceless treasures. As they gather some of the diamonds to take with them, Bockner hears their voices from outside the chamber, but before he can enter, Gagoola activates a hidden rock switch and seals Quatermain and Jessie inside the chamber. The switch also triggers a trap that causes the ceiling of the chamber, which is lined with stalactites to lower on them. Quatermain and Jessie manage to stop the ceiling trap, but then the chamber begins filling up with water. Just as the chamber fills completely, a lit stick of dynamite set by Bockner outside the chamber door explodes, sending them both spewing out of the chamber in the resulting flood to safety. Bockner enters the chamber and quickly lays claim to the treasure, only to be confronted by a wounded, but very much alive, Dogati, who was wearing a protective vest that shielded him from the bullets. He then forces Bockner to swallow some of the diamonds, intending to cut him open to retrieve them later on. Meanwhile, Umbopo finally corners Gagoola. But rather than face his judgment, she instead leaps down one of the volcano's shafts and is incinerated when she lands in the molten lava below. However, the reaction causes a series of eruptions throughout the mines. Dogati is partially buried when the treasure chamber's ceiling collapses, but Bockner is unharmed. He gloats to Dogati after claiming a few more diamonds for himself, then leaves the chamber. But not before firing his gun at the ruined ceiling, burying Dogati alive. Quatermain, Jessie and Umbopa quickly flee for their lives through the collapsing caverns. They cross over a small booby- trapped lake (which one of Bockner's men fell victim to earlier), only to be stopped by Bockner, who demands they surrender their diamonds to him. Quatermain places the diamonds on the central stepping stone that triggers the trap and tells Bockner to come take the diamonds himself if he wants them. Bockner does so and falls into the lake, only to be seized in the jaws of a Mokele-mbembe water creature and dragged beneath the water. The trap resets itself and the diamonds rise back to the surface, but Umbopo warns Quatermain and Jesse not to take them, saying they belong to the mountain. The trio continue their escape through the caverns, which becomes even more dangerous as the lava chamber they are in is full of fire and falling rocks. Quatermain tells Umbopo to take Jessie through to safety while he follows them. But before he can do so, he is struck down by Dogati, who survived the cave-in. A brutal fight between them ensues, but Quatermain gains the upper hand at the last instant, sending Dogati falling into the chamber's lava pit to his death. Quatermain manages to escape from the mines at the last minute, just as the volcano explodes, sealing the entrance forever. Returning to the village, Umbopo assumes his rightful place as the ruler of the Kukuanas and he and his people bid a fond farewell to Quatermain and Jesse. As they exit the village, they each reveal they had kept a diamond from the mines as a souvenir of their adventure and the movie ends with them kissing for the first (and only) time outside the village gates.",
+      "writers": [
+         "H. Rider Haggard",
+         "Gene Quintano"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0089421/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTUzODYxNjIwOF5BMl5BanBnXkFtZTcwMjIyMDczMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Richard Chamberlain, Sharon Stone, Herbert Lom | See full cast and crew »"],
+      "reviews": [
+         "If you are rating this low because it doesn't seem realistic or it doesn't compare to Indiana Jones, quit rating these films without watching them. Again, I find people rating films which they didn't even take the time to watch or try to understand. This is a low budget film and is closer related to fantasy/comedy than to realistic action. This is a B-Movie and directors of this style of film love to pour on the \"CHEESE\". The cast was great and they actually boosted the movement of the film for the sheer awe of seeing Stone and Chamberlain do some pretty dry humor. You can't even compare Indiana Jones to this as Lucas films are set to make the fantasy world come as close to reality as possible. This movie was completely the opposite. Great creativity. If you're looking for wires and obvious painted backdrops, again, you're not watching the movie. Laugh at those the second time you see the film. Chamberlain's character is asked to help a young attractive woman to help find her father, who was lost in an exploration looking for King Solomon's mines. Someone else is looking for the mines as well and will do anything to get there and keep others from getting the hidden treasures first. Find this and set up for a great party night. Definitely worth keeping for classic fun and enjoyment.",
+         "Well I read a lot of the reviews here and it seems to be pretty divided as to whether or not this is a good movie. So here's my 2 cents. In my opinion this was not trying to be Indiana Jones. I think the intension was to make a campy, cheesy spoof, and as that it succeeds fantastically. Keep in mind this was the early - mid 80's. Cheezeball B-movies were all the rage and popular. Look was came out in around that period. King Solomon's Mines, a year later a sequel, Lost City of Gold. But we had many other great cheese movies like Ice Pirates, Dungeonmaster, Dragonslayer, Spaceballs, just to name a few. Conan the Barbarian spawn a whole subgenre of barbarian movies as did Road Warrior for post-apocalyptic movies. I'm sure there where other movies of these subjects before, but these were the ones that really kicked it off for those subgenres. I think that many of those who are complaining that King Solomon's Mines is so bad are those who are too young to remember and appreciate these movies that came out in around that period or those who decided it's not \"cool\" to like cheesy movies. Of course you can't compare the effects to that of Raiders of the lost Ark. Raiders had a near unlimited budget for the day, how do you compete with something like that? And do you honestly think that they blatantly ripped off scenes without getting permission first? I wouldn't be surprised if Lucas is making a small royalty of these movies, or at least did back when it came out. Yes, they rode the Raiders wave. Why is it that we criticize someone for riding a winning wave? If I had the chance, I'd do it in a heartbeat. I would argue that any of these movies have more heart than most of what comes out of Hollywood these days. These were made back when, for the most part, budgets were tight and people made movies for the love of making movies. Having a weakness for violent gore movies and foreign, B-Movies and foreign probably comprise 60% of my DVD collection and 70-80% of my VHS collection. Almost 600 movies combined. But I have a rare gift to be able to sit down and watch a movie without comparison to another and judge it on it's own. That's why my collection contains everything from Little Mermaid and Aladdin to Cannibal Holocaust(Uncut) and Salo: 120 Days of Sodom(Uncut), from The English Patient to, yes, King Solomon's Mines. (I do, however, have Lost City of Gold on VHS) So sit back, try to watch movies without any preconception of what you are about to watch. Critics, friends, rumors are just that. You are your own person, make up your own mind. If you can't do this, you are probably looking at the wrong movie. All you will see is a bad Raiders rip-off and you should stick to what you know or \"reality\" *Ya Right* TV. And that's my 2 cents. ME",
+         "Review summary: Mostly obvious knock-off of INDIANA JONES, but functions more as an entertaining parody. I've heard many bad reviews on this film. They all say \"Indiana Jones rip-off\" or \"Worst movie ever\". But to me, this is actually entertaining, and it's silly fun indeed. The film is usually called a rip-off because they see some elements they also saw in the Indy flicks. Truth be told, this has more in kin with the Lucas/Spielberg classic than H. Rider Haggard's classic adventure novel. But seeing the film, it actually has a lot of fun with itself. It wasn't meant to be taken seriously, and I agreed to the bargain. Richard Chamberlain is not that heroic as Indy, but he throws in a lot of jokes to make viewers crack a smile. Sharon Stone shouts, complains, whines in the entire journey, but what would you expect on a big-screen debut. Herbert Lom, as I see it, is being more of funny than sinister intentionally. Same goes for John Rhys-Davies, but he looks more villainous. But it wasn't all parody and humor. \"King Solomon's Mines\" is also action-packed. Perhaps one of the real downer in the action department are the special effects (terrible process shots!) and stunts (the most obvious stunt doubles ever!!). Still, we have crocodiles, tribesmen, Nazis and exploding caves of lava. Perhaps it's my love for old-fashioned adventure that made me like this silly, mostly campy adventure, but I couldn't deny the guilty pleasure I had with it. Overall, this is actually functions as an enjoyable tongue-in-cheek adventure flick, but make sure you leave any pretense of common sense at the door. It's stupid fun. Rating: *** out of 5.",
+         "This is a fun flick, based on the original story by Rider Haggard but with lots of bits from other sources, along with some totally humorous and almost unbelievable \"stuff\". If you want a serious flick and are the type who takes notes during the show, go somewhere else. If you want some genuine old-fashioned, borderline ridiculous entertainment along with your big bowl of popcorn, this is definitely it. Sharron Stone's character is a trip. The bit with her taking over the position of pilot in a commandeered biplane, even though she has never even been in a plane let alone flown one, is absolutely a scream. \"Vroom!\" was her exact summation of the experience. As for the Germanic presence in the dark Continent, as insinuated in this version of \"Solomon's Mines\", this is historically correct for the time, though far from accurate in its presentation; but this is entertainment! This edition of \"Solomon's Mines\" is not intended to be an accurate re-run of earlier flicks. If you gotta have precision and accuracy, see the '40's version with Stu Grainger and Liz Kerr. If you want some good entertainment of the non-serious vein, this is a good one. I've worn out my VHS version and am beating the bush for a DVD replacement.",
+         "A long time ago, I was introduced as an \"outsider\" to a group of boys who would get together once a month to have a \"Cheese Fest\" of real bad movies. We watched three movies, and laughed until we cried. When it was over, I shyly suggested a movie called \"King Solomon's Mines\". They had never heard of the film, or hadn't seen it yet. This was my opening to be \"cool\" with the gang. At the next gathering, I came over with a VHS copy I rented from a store. We watched it, and had to stop the movie several times because we were laughing so hard! We all agreed that this was the best worst movie we had ever seen! About two days later, my front door bell rang, and it was the boys there to give me a gift! I had been \"accepted\" into their gang! Many nights of \"Cheese Fests\" followed, but none were as successful as the night we watched \"King Solomon's Mines\"! The gift, by the way, was the very VHS copy of \"KSM\" (which we pronounce; \"Chaos, Mmm\") I had rented! I still have it to this day, and have shown it to many friends who thank me every time while wiping away a tear.",
+         "This is a movie rated so low by others but by some it gives them a reminder of indiana jones. Next to those movies this one is the next best. I would recommend it to indiana jones fans who have been waiting years for another sequel. This movie has a sequel too which is almost as good but get a bit slower at the end. The movie is really good though. I enjoyed the storyline, the actors, the music by Jerry Goldsmith is very enchanting, the only thing i could say isnt that good in this film are the special effects but for the time being it will do. Theres nothing to lose so go out and rent it!",
+         "Please refrain to take this movie seriously. I repeat: please refrain to take this movie seriously. Any person who is unable to watch a movie without taking it seriously is advised to go watch something else. This one here was meant to be ridiculous. And if it was not, then it is a fine piece of unintentional comedy.",
+         "Ok i shall start by saying i am a huge Indiana Jones fan and when i saw this recently i thought it was a ghastly copy, but i think as the film progresses it gets better and some of the scenes late in the movie are very impressive - particurly when john rhys-davies forces the german guy to eat the diamonds. I liked most of the scenes with john ryhs-davies in but i was slightly disappointed to see him in rip-off of Indiana Jones as he was in Raiders of the Lost Ark. So overall this film isn't that bad to watch, its quite fun really but it is nothing compared to the mighty Indiana Jones.",
+         "This movie is not as bad as \"Allan Quatermain and the Lost City of Gold\". It has some content of sheer excitement and adventure in it. But for most people who had already watched \"Raiders of the Lost Ark\" have definitely harbored discriminatory feelings and complements for this action film. As far as action, adventure and fantasy is concerned, it was a good raw effort by J. Lee Thompson who had earlier two great feathers to his cap namely, \"The Guns of Navarone\" and \"MecKenna's Gold\". However, the next sequel of this series i.e., \"The Lost City of Gold\" is indeed a hopeless effort to bewitch the audience who are used to viewing better films. Nevertheless, KSM is an interesting and reasonably well directed piece of motion picture.",
+         "This movie will forever be dogged by the shadow of elder brother Raiders of The Lost Ark, when in actual fact the movie far more resembles that movies little brother, Temple of Doom. Now O.K., this is typical Cannon material. A blatant attempt to imitate more succesful efforts, and if sometimes in this movie anyway, things dont come off as intended the movie will LOOK bad. However, when all is said and done this is one of the better Cannon movies. Richard Chamberlain is simply wonderful as an Adam West-Alike Quatermain. Oblivious to the world around him. Sharon Stone too does well, with what silly dialogue she is given, and the rest of the cast [ John Rhys Davies etc ] take things seriously, which helps the film. The one thing that does let the movie down is the direction. Which is a carbon copy of the Indiana Jones movies. Maybe Cannon encouraged this, but J. Lee Thompson is in all honesty an uninspired director,. Maybe a younger director would have spurned the chance to out Spielberg Steven, and we might have had a better movie. Jerry Goldsmith's Theme is also badly under-rated but adds to the excitement, and enjoyment. When watching this movie dont take too seriously and sit back and enjoy a campy, Batmanesque movie."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Cannon Group",
+         "Golan-Globus Productions",
+         "Cannon Productions"
+      ],
+      "summaries": [
+         "Allan Quatermain is a fortune hunter who is convinced by Jesse Huston to help her find her father, who's been lost somewhere in the African jungle during his last exploration.",
+         "Fortune hunter Allan Quatermain teams up with a resourceful woman to help her find her missing father lost in the wilds of 1900s Africa while being pursued by hostile tribes and a rival German explorer."
+      ],
+      "budget": 12500000
+   },
+   "movielensId": 7308,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1985-03-20",
+      "dvdReleaseDate": "2004-02-03",
+      "directors": ["J. Lee Thompson"],
+      "runtime": 100,
+      "movieId": 7308,
+      "title": "King Solomon's Mines",
+      "mpaa": "PG-13",
+      "actors": [
+         "Richard Chamberlain",
+         "Sharon Stone",
+         "Herbert Lom",
+         "John Rhys-Davies",
+         "Ken Gampu"
+      ],
+      "imdbMovieId": "0089421",
+      "originalTitle": "King Solomon's Mines",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["LI4xsKHBx8c"],
+      "plotSummary": "Ever in search of adventure, explorer Allan Quatermain agrees to join the beautiful Jesse Huston on a mission to locate her archaeologist father, who has been abducted for his knowledge of the legendary mines of King Solomon. As the kidnappers, led by sinister German military officer Bockner, journey into the wilds of Africa, Allan and Jesse track the party and must contend with fierce natives and dangerous creatures, among other perils.",
+      "tmdbMovieId": 9838,
+      "avgRating": 2.52639,
+      "releaseYear": "1985",
+      "numRatings": 341,
+      "posterPath": "/wNjXdgbYNvfdlcGQyDP1I7P3KSw.jpg"
+   }
+}
