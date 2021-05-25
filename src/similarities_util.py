@@ -527,3 +527,27 @@ def print_random_movies_ILS() -> None:
     plot_ILS_lists(df_ILS_lists)
 
     print("random_movies_ILS done")
+
+
+def read_lists_of_int_from_csv(path: str) -> List[List[int]]:
+    """
+    Reads the csv and returns the corresponding lists of ints. Every line of the csv represent a list of ints, separated
+    by comma.
+    @param path: path to the csv containing the lists
+    @type path: str
+    """
+    print(path)
+    lists_of_ints: List[List[int]] = []
+    with open(path) as f:
+        for line_list in f:
+            stripped_line_list: str = line_list.strip()  # remove new line
+            line_to_list_str: List[str] = stripped_line_list.split(",")
+            list_to_list_int: List[int] = [int(i) for i in line_to_list_str]
+            lists_of_ints.append(list_to_list_int)
+    print(lists_of_ints)
+
+
+def print_lists_in_file_ILS() -> None:
+    """
+    Reads the lists of movies written in data/lists_of_movies.csv and computes then plots ils
+    """

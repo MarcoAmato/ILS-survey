@@ -20,6 +20,8 @@ if __name__ == "__main__":
             sim.print_similar_movies_ILS()
         elif command_inserted == 3:
             sim.print_random_movies_ILS()
+        elif command_inserted == 4:
+            sim.print_lists_in_file_ILS()
         elif command_inserted == -1:
             break
         else:
