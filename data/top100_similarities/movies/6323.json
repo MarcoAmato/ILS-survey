@@ -1,0 +1,765 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "prostitute",
+            "id": 549
+         },
+         {
+            "name": "detective",
+            "id": 703
+         },
+         {
+            "name": "nevada",
+            "id": 1197
+         },
+         {
+            "name": "prisoner",
+            "id": 1563
+         },
+         {
+            "name": "rain",
+            "id": 2217
+         },
+         {
+            "name": "motel",
+            "id": 2669
+         },
+         {
+            "name": "weather",
+            "id": 3694
+         },
+         {
+            "name": "multiple character",
+            "id": 4897
+         },
+         {
+            "name": "psychopath",
+            "id": 6259
+         },
+         {
+            "name": "ex-cop",
+            "id": 8440
+         },
+         {
+            "name": "stranded",
+            "id": 9743
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "serial killer",
+            "id": 10714
+         },
+         {
+            "name": "scream",
+            "id": 13124
+         },
+         {
+            "name": "storm",
+            "id": 14527
+         },
+         {
+            "name": "psychiatrist",
+            "id": 15106
+         },
+         {
+            "name": "convict",
+            "id": 15234
+         },
+         {
+            "name": "thunderstorm",
+            "id": 18171
+         },
+         {
+            "name": "rainstorm",
+            "id": 156507
+         },
+         {
+            "name": "split personality",
+            "id": 156761
+         },
+         {
+            "name": "mental disorders",
+            "id": 197708
+         },
+         {
+            "name": "murder mystery",
+            "id": 207046
+         },
+         {
+            "name": "dissociative identity disorder",
+            "id": 212803
+         },
+         {
+            "name": "isolated place",
+            "id": 238467
+         }
+      ],
+      "imdb_id": "tt0309698",
+      "video": false,
+      "title": "Identity",
+      "recommendations": [
+         2649,
+         12149,
+         1817,
+         9667,
+         26466,
+         3432,
+         10559,
+         431,
+         2666,
+         11601,
+         1073,
+         11329,
+         8224,
+         4553,
+         2637,
+         8413,
+         167,
+         9913,
+         2291,
+         1592
+      ],
+      "backdrop_path": "/arcpWGGnUkGkakOwZo7xfPsaz7h.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 7,
+               "character": "Ed",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f8054175",
+               "name": "John Cusack",
+               "profile_path": "/uKydQYuZ9TnCzvbQLtj6j98vWAT.jpg",
+               "id": 3036,
+               "order": 0
+            },
+            {
+               "cast_id": 8,
+               "character": "Rhodes",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f8054179",
+               "name": "Ray Liotta",
+               "profile_path": "/o4jJSH3sri9dSIJwsCgT4de1535.jpg",
+               "id": 11477,
+               "order": 1
+            },
+            {
+               "cast_id": 9,
+               "character": "Paris",
+               "gender": 1,
+               "credit_id": "52fe436fc3a36847f805417d",
+               "name": "Amanda Peet",
+               "profile_path": "/81KzrntoeEztNpfhCYNgfOtI3kU.jpg",
+               "id": 2956,
+               "order": 2
+            },
+            {
+               "cast_id": 10,
+               "character": "Larry",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f8054181",
+               "name": "John Hawkes",
+               "profile_path": "/bz4usMR7NWEgVgWTxVBLEjCo3Dv.jpg",
+               "id": 16861,
+               "order": 3
+            },
+            {
+               "cast_id": 11,
+               "character": "Dr. Malick",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f8054185",
+               "name": "Alfred Molina",
+               "profile_path": "/uJQVkqEVJGLMaJbwI2tTDlJ9Oo0.jpg",
+               "id": 658,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Ginny",
+               "gender": 1,
+               "credit_id": "52fe436fc3a36847f8054189",
+               "name": "Clea DuVall",
+               "profile_path": "/lNCDz75IsCKIPhr295OBk1SHv2J.jpg",
+               "id": 20387,
+               "order": 5
+            },
+            {
+               "cast_id": 13,
+               "character": "George York",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f805418d",
+               "name": "John C. McGinley",
+               "profile_path": "/6AJL0ylRtJ9vcR57yEenhWHXHFt.jpg",
+               "id": 11885,
+               "order": 6
+            },
+            {
+               "cast_id": 14,
+               "character": "Lou",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f8054191",
+               "name": "William Lee Scott",
+               "profile_path": "/dq4IWfaRLghUgkIUB7UVBlhWj8t.jpg",
+               "id": 10128,
+               "order": 7
+            },
+            {
+               "cast_id": 15,
+               "character": "Robert Maine",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f8054195",
+               "name": "Jake Busey",
+               "profile_path": "/mGbWKlwTTyr62h6IwL66otOQV15.jpg",
+               "id": 28410,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Caroline Suzanne",
+               "gender": 1,
+               "credit_id": "52fe436fc3a36847f8054199",
+               "name": "Rebecca De Mornay",
+               "profile_path": "/riQQkeijtaPIAVhPdCcJFPB4FOA.jpg",
+               "id": 28412,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Verteidiger",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f805419d",
+               "name": "Carmen Argenziano",
+               "profile_path": "/8fi4xfPwYVHulKvmTTlwBx2nvLo.jpg",
+               "id": 28413,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Staatsanwalt",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f80541a1",
+               "name": "Marshall Bell",
+               "profile_path": "/ep5dxNTkjdhXIJeoFZJczTunoB0.jpg",
+               "id": 3041,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Alice York",
+               "gender": 1,
+               "credit_id": "52fe436fc3a36847f80541a5",
+               "name": "Leila Kenzle",
+               "profile_path": "/8U9S4cYQTq0nbG01RDAIluEKZk4.jpg",
+               "id": 15044,
+               "order": 13
+            },
+            {
+               "cast_id": 21,
+               "character": "Staatsanwaltsmitarbeiter",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f80541a9",
+               "name": "Matt Letscher",
+               "profile_path": "/4VwdiM9PUBxswxy7g7nGGeIC4o8.jpg",
+               "id": 28414,
+               "order": 14
+            },
+            {
+               "cast_id": 22,
+               "character": "Timmy York",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f80541ad",
+               "name": "Bret Loehr",
+               "profile_path": null,
+               "id": 28415,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "Richter Taylor",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f80541b1",
+               "name": "Holmes Osborne",
+               "profile_path": "/gMeHJT6u5VRO8RnAgPuBYrB7Krn.jpg",
+               "id": 1578,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Detective Varole",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f80541b5",
+               "name": "Frederick Coffin",
+               "profile_path": "/knyrsXPtKDU8F3Rp1ZGuGRHfxAe.jpg",
+               "id": 28416,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Bailiff Jenkins",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f80541b9",
+               "name": "Joe Hart",
+               "profile_path": null,
+               "id": 28417,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "Nackter Geschäftsmann",
+               "gender": 0,
+               "credit_id": "52fe436fc3a36847f80541bd",
+               "name": "Michael Hirsch",
+               "profile_path": null,
+               "id": 28418,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Bailiff",
+               "gender": 0,
+               "credit_id": "52fe436fc3a36847f80541c1",
+               "name": "Terence Bernie Hines",
+               "profile_path": "/uMC8ILPk0h2fN6ZM8N7kHq8Uxym.jpg",
+               "id": 28419,
+               "order": 20
+            },
+            {
+               "cast_id": 28,
+               "character": "Gefrorene Leiche",
+               "gender": 0,
+               "credit_id": "52fe436fc3a36847f80541c5",
+               "name": "Stuart M. Besser",
+               "profile_path": null,
+               "id": 28401,
+               "order": 21
+            },
+            {
+               "cast_id": 29,
+               "character": "Malcolm Rivers",
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f80541c9",
+               "name": "Pruitt Taylor Vince",
+               "profile_path": "/p3xmcGJ7IKCxw42lwQbg4WmwPTA.jpg",
+               "id": 3201,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f8054153",
+               "name": "James Mangold",
+               "profile_path": "/1gt0VmCyBHhQLKhaBDCEIwvRWe.jpg",
+               "id": 366,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe436fc3a36847f805415f",
+               "name": "Stuart M. Besser",
+               "profile_path": null,
+               "id": 28401,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe436fc3a36847f8054165",
+               "name": "Cathy Konrad",
+               "profile_path": null,
+               "id": 409,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436fc3a36847f8054171",
+               "name": "David Brenner",
+               "profile_path": null,
+               "id": 6051,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "589fd39ec3a3684e73000270",
+               "name": "Michael Cooney",
+               "profile_path": "/mpnVxoCgXaiLYwESmf3aufCJAmi.jpg",
+               "id": 28399,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563c77c2c3a3681b5e025274",
+               "name": "Phedon Papamichael",
+               "profile_path": "/vsALQXJ7XDO3VPwS4kEYtqqLkeV.jpg",
+               "id": 432,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563c78b69251414c70006472",
+               "name": "Lisa Beach",
+               "profile_path": null,
+               "id": 434,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563c78c9c3a3681b5c0284a2",
+               "name": "Sarah Katzman",
+               "profile_path": null,
+               "id": 436,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563c78df9251416d52017d9a",
+               "name": "Mark Friedberg",
+               "profile_path": null,
+               "id": 5670,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563c78ef9251414cc9006367",
+               "name": "Jess Gonchor",
+               "profile_path": null,
+               "id": 10575,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563c79039251417819003810",
+               "name": "Cindy Carr",
+               "profile_path": "/vSTmvvf9X00fufN6zFBwgOxIPF1.jpg",
+               "id": 11079,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c791592514129fe018537",
+               "name": "Arianne Phillips",
+               "profile_path": null,
+               "id": 32797,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c7935c3a3681b59025ca9",
+               "name": "Cheree Welsh",
+               "profile_path": null,
+               "id": 1378752,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c796d92514150af004052",
+               "name": "Ron Bolanowski",
+               "profile_path": null,
+               "id": 1422412,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c798d92514150af004061",
+               "name": "Julia Frey",
+               "profile_path": null,
+               "id": 1169459,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c79a5c3a3681b54028341",
+               "name": "Vicki Galloway-Weimer",
+               "profile_path": null,
+               "id": 1404724,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c79efc3a3681b59025cd1",
+               "name": "Robert Stromberg",
+               "profile_path": "/gqP1k0dJxRVj08xudosdROOn2UK.jpg",
+               "id": 1032536,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c7a11c3a3681b5e0252c2",
+               "name": "Carlane Passman",
+               "profile_path": null,
+               "id": 1412208,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c7a32c3a3681b59025cd9",
+               "name": "Jo Kissack",
+               "profile_path": null,
+               "id": 1253687,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563c7a5a9251414ab7024a56",
+               "name": "Sheila Waldron",
+               "profile_path": null,
+               "id": 1400540,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c7ac6c3a3681b5e0252df",
+               "name": "Jonathan Hanousek",
+               "profile_path": null,
+               "id": 1531870,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c7ae39251414c700064bf",
+               "name": "Katharine Kremp",
+               "profile_path": null,
+               "id": 1532195,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c7af99251416d52017df7",
+               "name": "Jane Galli",
+               "profile_path": null,
+               "id": 1316003,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563c7b10c3a3681b4d029cb4",
+               "name": "Scott H. Eddo",
+               "profile_path": null,
+               "id": 1316296,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563c7b38c3a3681b59025cf3",
+               "name": "Judy Lovell",
+               "profile_path": null,
+               "id": 23872,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "589fd370c3a3684e89000248",
+               "name": "Alan Silvestri",
+               "profile_path": "/chEsfnDEtRmv1bfOaNAoVEzhCc6.jpg",
+               "id": 37,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "589fd38ac3a3684e7600027c",
+               "name": "Dixie J. Capp",
+               "profile_path": null,
+               "id": 28402,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599ac237c3a368397801595d",
+               "name": "Greg Orloff",
+               "profile_path": null,
+               "id": 1395255,
+               "department": "Sound",
+               "job": "Sound Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 24.039179,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 2832,
+      "vote_count": 1375,
+      "budget": 10000000,
+      "overview": "Complete strangers stranded at a remote desert motel during a raging storm soon find themselves the target of a deranged murderer. As their numbers thin out, the travelers begin to turn on each other, as each tries to figure out who the killer is.",
+      "similar": [
+         123109,
+         984,
+         8090,
+         1586,
+         4771,
+         281,
+         276488,
+         9411,
+         30833,
+         357096,
+         11033,
+         10651,
+         2749,
+         18587,
+         15069,
+         12150,
+         9299,
+         1572,
+         75780,
+         261023
+      ],
+      "original_title": "Identity",
+      "runtime": 90,
+      "poster_path": "/xSNSp2wmCUwFavxdkMF417hBc39.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Konrad Pictures",
+            "id": 85,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "id": 5,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2003-04-25",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "The secret lies within.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["James Mangold"],
+      "runtime": 90,
+      "synopsis": "Malcolm Rivers (Pruitt Taylor Vince) is a psychotic killer awaiting execution for several vicious murders. His psychiatrist, Doctor Malick (Alfred Molina), has discovered a journal belonging to Rivers that may explain why he really committed the murders. With this late evidence brought forth, a new hearing takes place on a stormy night in which Malick will try to persuade the Judge to spare Rivers. Meanwhile, a group of ten strangers, through a number of circumstances, find themselves stranded in the middle of a storm in a remote motel in the Nevada desert. With the phone lines down due to the storm, the group prepare to spend the night, taking care of those that have been injured through their arrival. However, the group quickly finds that there is an unknown murderer present, killing off each of the guests and leaving behind one of the motel's room keys to be found, starting with Room 10's key and counting down. Back at the hearing, the contents of Malcolm's journal are revealed, indicating the prisoner suffers from an extreme case of Dissociative Identity Disorder, harboring ten distinct personalities. Malick is able to bring forth one of Malcolm's personalities, Ed (John Cusack), revealing that events at the motel are occurring inside Malcolm's mind, each personality being a distinct person though all sharing the same birth date. After hearing of events in the motel, Malick informs the Ed personality that he must find and eliminate the hostile personality in order to prevent Malcolm from being executed lest all the personalities be killed off. In the motel setting, as the group is dwindled down, Ed believes that the personality of Rhodes (Ray Liotta) is the murderer, and sacrifices himself to kill Rhodes, leaving only Paris (Amanda Peet) alive. When Malick demonstrates that that homicidal personality is dead, the judge decides to place Malcolm in a mental institution under Malick's care. As Malcolm is driven along with Malick to the institution, in Malcolm's mind, Paris has driven away from the motel to her hometown in Florida. As she tends an orange grove, she discovers the Room 1 motel key in the ground, and turns around to find the young boy Timmy standing behind her. Timmy, the true homicidal personality, had orchestrated all the deaths at the motel, and made it appear that he had been killed as well; he finishes his task by killing Paris, reciting Hughes Mearns's Antigonish. Now driven only by his last personality of Timmy, Malcolm strangles Malick, and the transport van runs off the side of the road.",
+      "writers": ["Michael Cooney"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0309698/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE2NzgyNDYzNl5BMl5BanBnXkFtZTYwODM2Nzc2._V1_SX214_AL_.jpg",
+      "actors": ["Stars: John Cusack, Ray Liotta, Amanda Peet | See full cast and crew »"],
+      "reviews": [
+         "I've never before seen a film that made me sit on the edge of my seat practically from the opening credits. And I never got to sit back. This was a psychological thriller of the best type. There is plenty of opportunity for you to nominate the \"bad guy\" and while you may be right in a sense you will probably also be wrong. The ending is a real shocker - and I suspect that the typical reaction of many viewers is to say \"No way\" - but if you think about it, it is the only possible ending. But you have to think about it - and the film is so action-filled that you never have time. SO the realization must come after the closing credits roll. I'd never seen John Cusack in anything but a comedy before (except for a film called \"Max\", but I saw that before I knew who Cusack was). He pulled off drama equally as well as he does comedy. An impressive talent. And an impressive film.",
+         "To be honest I didnt want to watch this movie but it was my wifes turn to choose so I had no choice. After 20 minuites into the movie I was so glad it wasnt my turn to choose. This movie was absolutely fantastic. The Premise as you will read here on IMDB or on the back of the dvd in the shop/rental store seemed very lame to me but I was so wrong. It starts off as a classic \"Whodunnit\" movie but then flips and twists on its head so many times your left astounded. I cannot imagine anyone who would not enjoy this movie, It keeps you on the edge of your seat from beginning to end and I loved every minuite of it. Throw in an all star cast (Cusack and Liotta are fantastic here) And you have one Hell of a movie. 10/10 You Have to watch this, Trust Me :)",
+         "Because of what seem to be unusual circumstances, eleven people, strangers to each other outside of their respective \"groups\" (two families, two professional associations), end up stranded in a desolate Nevada motel on a dark, stormy night. One of the \"strangers\" is a death row murderer being escorted to another prison for execution. When bodies start turning up and the murderer goes missing, he's the obvious suspect. But things are not what they seem. Identity provides a \"double mystery\"--a traditional whodunit and an increasingly bizarre \"rubber reality\" mystery that we must figure out along with the characters. This is my second viewing of Identity. I didn't like it quite as much this time, although it still earned a \"B\". The two aspects I had a slight problem with on the second go-round were one, the plot didn't quite envelop me to the same extent (maybe because I remembered the twist?) and two, since first watching it, I've seen a lot more films in the rubber reality genre, and Identity is nowhere near as mind-bending as many other examples. Still, this is a great film, with a lot of assets. Director James Mangold effectively employs a number of interesting techniques here. The main standout in the first reel is the use of Tarantino-like \"multiple viewpoint\" shots, where we see the same span of time from one character's point of view, then another, then another. He also effectively creates two very attractive atmospheres, especially for fantasy fans--a \"Twilight Zone\"(1959)-like conundrum and a sustained dark ambiance. The Twilight Zone aspect makes itself most obvious beginning with the scene where the convict, Robert Maine (Jake Busey), tries to flee, but discovers that he's still at the motel, after all. The constant, Blade Runner (1982)-like rain underscores the dark ambiance, which is reminiscent of films such as Fallen (1998) and Se7en (1995). While Identity isn't exactly a bastion of graphic violence, there are a number of strongly visceral scenes and shots that are extremely well done and effective for seeming realistic. The atmosphere is also greatly enhanced by the hotel set, which matches the Bates Motel from Psycho (1960) in dingy gloom. The film also has a wonderfully nihilistic ending. Even though I wasn't as enraptured in suspense this time, one is still drawn into the film by the gradual quickening and spiraling of loss of control experienced by the characters. While slowly killing each one of them off as they're stuck in an isolated setting is a traditional \"10 Little Indians\" horror film motif that writer Michael Cooney employs, the Twilight Zone aspects allow him to trump the sense of horror and despair, as the surviving characters come to realize that they are not in charge of their own lives, they can't call the shots, and their illusions about their realities crumble before their eyes. One of the negatives is that the rubber reality resolution is a bit too telegraphed, too overt. The solution is given too early, and ends up being spelled out note-for-note. It's a bit like giving a lecture on a joke right after one gives the punch line. It might be difficult to blame either Cooney or Mangold with this, however, as American film studios and test audiences are notoriously allergic to ambiguity, which is depressing, because I love ambiguity in films. Still, maybe the Identity is just easier to figure out when you've seen tens of rubber reality flicks. When I watched the film upon its theatrical release, I overheard more than one fellow theater-goer still trying to figure out the gist as the lights came up. One might be tempted to claim that Mangold under-uses his fine cast--who all turn in excellent performances, including one of my favorite character actors, John C. McGinley. But on the other hand, it makes sense that there is this large number and broad range of characters. Under this scenario, you either under-use them or you've got a 3-hour-plus film (not that I'd complain about a 3-hour-plus film). Of course the theme of the film, as well as all of the subtexts, has to do with personal identity, and especially veiled personal identity. None of the characters are who they seem. Most of them are lying to each other in some way when they first meet, and even some of the ones who know each other already are also lying to each other. Cooney and Mangold explore the various social facts, actions, ceremonies, rituals and so on that help provide personal identity for us, such as birthdates, names, residency, marriages, benevolent versus criminal or unethical actions, and occupations. They also explore a more dynamic identity of action, as relationships continually shift throughout the film.",
+         "This movie totally surprised me on every level. I had never even heard of it until recently; when an observant video store clerk noticed how many thrillers I was hiring and suggested it. Having missed it at the movies, I figured it would be the usual B-grade mystery murder flick, a bit of fun at best. Instead this movie had me hooked from the opening sequence; I almost thought they'd put the wrong DVD in the box! The story is like one big twisted, turning tunnel- with barely a glimmer of a light at the end. The cast is great, the setting appropriately scary- with no short measure of red herrings to keep you guessing. The cast really delivers too; the characters are diverse and given enough attention to keep you engaged but not so much as to slow the action down. John Cusack is in fine form as the easily likable ex-cop trying to hold it all together; Jake Busey plays the psychotic to perfection as usual. I don't usually go in for gore, but there's really barely more than a few hints of blood & guts. Definitely one to watch in the dark with a group of friends to scare the hell out of yourselves. You won't regret this one.",
+         "In the middle of a rainstorm, the judge and lawyers involved in the case of murderer Malcolm Rivers (due for execution the next morning) are called together to discuss evidence that the defence believe had been illegally suppressed. Meanwhile a series of accidents, damaged phone lines and flooded roads means that a group of strangers are forced to hole up at a motel. When the prisoner of a cop escapes and a murder occurs, they group together to try and capture him. However with him dead the deaths continue - each with a room key forming a morbid countdown as the remainder try to survive the night. For the majority of this film (more or less the first hour) the film is a standard horror thriller that is quite thrilling as the guests are picked off one by one. However more or less on the hour comes a twist regarding the connection between the guests that is at first silly, but then actually quite clever - even if it takes a bit of swallowing. From then on it continues in the same vein, with this twist changing our perception of the action onscreen. I imagine about as many of the audience will scoff at the twist as will accept it and like it. I liked the twist and thought it was pretty clever even if I have to acknowledge that it is pretty touch and go for a minute or so at least. The deaths are a mix of gory and shocking (without pushing it to an 18 certificate) and the first hour is pretty effective in terms of tension and drama. The director opens with several clever shots that freeze frame before moving onto the next scene - this is pretty slick and helps start the film with a good sense of urgency. His direction within the motel is hardly original but again it works well enough. The heavy rain serves to put walls around the motel (ie by not being able to see further than the perimeter) and this also increases the tension and the feeling of being trapped. Of course it's not brilliant as it is really still just a slasher thriller but it is an effective one. The cast go a long way to helping this by having quite a few big names as well as pretty good performances. Cusack and Liotta are both good despite the temptation to slum it in this. They both up the tension and the urgency by their performances. Peet is the standout from the rest but McGinley, De Mornay and others all do well. In the hearing Vince is as good as he always is when called upon to do a character with darting eyes and he is effective doing what he does (as little as that is here). Other than the big name actors, many people will wonder what about this film made it stand out so much that it got good critical reviews. I think the critical twist will annoy as many people as it pleases and you do need to have been absorbed into the story by the hour mark to really appreciate it. I'm not a big fan of this genre but I enjoyed this movie and suspect that fans of this type of film will as well.",
+         "OK, everyone seems to be confused about this movie so let me explain it for everyone. The killer has a multiple personality syndrome, and was being treated in a psychiatric home. They have tapes of him portraying many different personalities, and they believe that one of his many personalities is the killer. The reason everyone has the same birthday is that every person is really him, all of these characters are made up in this guys mind. The way they figure they can cure him of his multiple personalities is to have them all come together inside of his head and hopefully they will all be killed off, with the risk that the killer will be one of the personalities killed. Let me repeat, the point of that motel, is to have all the personalities come together hoping that they will all die except for one, that one takes control of his life. As each character dies, that is one less personality he has left. In the very end they think he is OK because all of his personalities are dead, except for the girl. But really that kid is still alive, and he kills Amanda Peet. The exercise that they tried to do was complete, all the personalities died inside of his head, unfortunately the only personality that survived was the one that was the killer. I hope that clears it up a little bit.",
+         "Today I have watched \"Identity\" for the second time in less than two months, now on DVD. Again, I found it an excellent and intriguing film. There are two versions in the DVD, and I selected the one with scenes that were cut in the final edition (the other option was the theatrical version). Now I paid more attention on the details of the plot, trying to identify flaws in the screenplay, but the story is very tight. There are many extras in the DVD, including deleted scenes, making of, filmography, comments etc. It is amazing the filmography of John Cusack, composed mainly of good movies. I keep my initial vote (nine). Title (Brazil): `Identidade' (`Identity')",
+         "For a start,i would like to say that this film is worth seeing.It is one of the best psychological thrillers that exist so i highly recommend to those who like this kind of movies.The plot was very nice,the twist also and the cast outstanding.Cusack,Liotta,Peet and Hawkes did their best and the result was excellent.I liked a lot the flashbacks that were made -mostly in the beginning. Furthermore,the idea of the whole film was terrific.On the other hand,speaking frankly there was an excessive gore and emphasis on the murders that didn't impress me;a big part of the movie was \"dedicated\" to murders.Another thing that i didn't like was the continuous rain that made me feel tired,seeing again again the storm. Moreover,what i liked most-contrary to many people- was the end of the movie.It was unpredictable and,besides that,it is one of the few thrillers that you cannot find out the end easily.It was very interesting and made me sit tight on my couch .If you don't pay attention for a while you will \"get lost\". I should not forget to refer to the hot presence of Peer that embellished the movie apart from her casting abilities. Lastly,you should make sure that you will be 100% concentrated on the film in order to understand what is happening cause i regard it as one of the most difficult movies to understand.It is certain that this film will dominate you with mystery and in parallel make you think a lot of things that will be predicted wrong in the end. I would give 9 -at least- out of 10 to Identity.",
+         "Let me tell you that I will give away nothing about the plot in this review and no spoilers will be included. The movie is really a multi genre film. Thriller, Suspense, Horror but I would definately put it more into the mystery category. The story is hard enough to explain but trust me see the movie and you will not regret it. The acting is perfect, each character is played extremely well by their respective actors, Ray Liotta, John Cusack, Amanda Peet and many others really do make this a top notch movie and one that will keep you guessing right till the final credits. I must also state that this movie involves one of the biggest twists that I have ever seen in a movie since the sixth sense or even the others. The twist is unforgettable and is enough of a reason to go out and see this amazingly written and directed edge-of-your-seat-thriller. Let me finish by saying that I gave this movie a perfect 10, you cant beat it and for a genuine shock and thrill see this one because I know that you will enjoy it.",
+         "Story genre: a thriller which borders on the lines of a horror movie Storyline: 10 different ppl get stuck in a motel room on a stormy night.. they start getting killed one by one and the blame keeps shifting from one alive person to another Cast: John Cusack rocks in his role - very well supported by the rest of the cast +s : the suspense is maintained well, individual performances excellent background music -s : the ending might not be appreciated by some folks"
+      ],
+      "genres": [
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Columbia Pictures Corporation",
+         "Konrad Pictures"
+      ],
+      "summaries": [
+         "Malcolm Rivers has been convicted as the perpetrator of several murders and is sentenced to death. An eleventh hour defense by his lawyers and psychiatrist that Malcolm is insane based on new evidence has resulted in them meeting with the prosecutors and the judge to discuss if the verdict should be overturned. Meanwhile, on a dark night during a torrential rainstorm in the Nevada desert, a series of chain reaction events results in several people needing to stay at an out of the way motel managed by Larry. They are: ex-cop now limo driver Ed, and his client Caroline, a diva of a once famous actress; quiet adolescent Timmy, his stepfather George, and his mother Alice, who was seriously injured when Ed accidentally ran over her as she watched George change their flat tire; prostitute Paris, who was the unwitting cause of George's flat tire; newlyweds Lou and Ginny, whose marriage is based on a lie; and Police Officer Rhodes, who was en route escorting prisoner Robert to his new institution. They all can't leave the area because of washed out roads, all the other businesses around the motel are closed because of the storm, and all communication in and out is not functioning also because of the storm. One by one, they are murdered, the murderer leaving a calling card of a motel room key, starting with the room 10 key and working his way presumably to the room 1 key when the last person will be dead. Those still alive band somewhat together under Officer Rhodes and Ed's direction to find out which of the eleven is the murderer, and if, based on one of their theories, that they were brought to the motel by some force by the murderer as his intended targets. Whether those still alive can discover who the murderer is, discover why he has chosen to kill them, and be able to subdue him may well determine Malcolm's fate.",
+         "Strangers from all different walks of life: a limo driver escorting a fading television star, parents with a young son whose marriage is in crisis, a cop transporting a dangerous convict, a beautiful call girl, a couple of young newlyweds, and a nervous motel manager are caught up in a severe rainstorm, stuck at a motel in desolate Nevada. Soon they realize they may be at the motel for another reason when one by one, people start getting killed off. As tensions flare and fingers are pointed, they have to get to the bottom of why they're there. Meanwhile in an undisclosed location, a psychiatrist is trying to prove the innocence of a man accused of murder in an eleventh hour trial. How these two through-lines are related can only be found in Identity.",
+         "Stranded at a desolate Nevada motel during a nasty rain-storm, ten strangers become acquainted with each other when they realize that they're being killed off one by one."
+      ],
+      "budget": 30000000
+   },
+   "movielensId": 6323,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2003-04-25",
+      "dvdReleaseDate": "2003-09-02",
+      "directors": ["James Mangold"],
+      "runtime": 90,
+      "movieId": 6323,
+      "title": "Identity",
+      "mpaa": "R",
+      "actors": [
+         "John Cusack",
+         "Ray Liotta",
+         "Amanda Peet",
+         "John Hawkes",
+         "Alfred Molina",
+         "Clea DuVall",
+         "John C. McGinley",
+         "William Lee Scott",
+         "Jake Busey",
+         "Rebecca De Mornay",
+         "Carmen Argenziano",
+         "Marshall Bell",
+         "Leila Kenzle",
+         "Matt Letscher",
+         "Bret Loehr",
+         "Holmes Osborne",
+         "Frederick Coffin",
+         "Joe Hart",
+         "Michael Hirsch",
+         "Terence Bernie Hines",
+         "Stuart M. Besser",
+         "Pruitt Taylor Vince"
+      ],
+      "imdbMovieId": "0309698",
+      "originalTitle": "Identity",
+      "genres": [
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["TQkG2x3qTf4"],
+      "plotSummary": "Complete strangers stranded at a remote desert motel during a raging storm soon find themselves the target of a deranged murderer. As their numbers thin out, the travelers begin to turn on each other, as each tries to figure out who the killer is.",
+      "tmdbMovieId": 2832,
+      "avgRating": 3.59936,
+      "releaseYear": "2003",
+      "numRatings": 6371,
+      "posterPath": "/xSNSp2wmCUwFavxdkMF417hBc39.jpg"
+   }
+}

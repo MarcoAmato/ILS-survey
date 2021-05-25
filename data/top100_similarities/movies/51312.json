@@ -1,0 +1,534 @@
+{
+   "tmdb": {
+      "original_language": "it",
+      "keywords": [
+         {
+            "name": "italy",
+            "id": 131
+         },
+         {
+            "name": "switzerland",
+            "id": 1223
+         },
+         {
+            "name": "loneliness",
+            "id": 9957
+         },
+         {
+            "name": "mafia",
+            "id": 10391
+         }
+      ],
+      "imdb_id": "tt0398883",
+      "video": false,
+      "title": "The Consequences of Love",
+      "recommendations": [
+         53482,
+         53486,
+         8832,
+         179144,
+         12548,
+         121998,
+         53487,
+         56040,
+         31289,
+         57969,
+         47143,
+         52717,
+         244088,
+         49850,
+         8882,
+         11447,
+         167221,
+         1280,
+         35265,
+         25403
+      ],
+      "backdrop_path": "/5gYbWSIPQqdFbvxyFYTnrlOgcHo.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Titta di Girolamo",
+               "gender": 2,
+               "credit_id": "52fe44a2c3a368484e02e23b",
+               "name": "Toni Servillo",
+               "profile_path": "/1TIbNwPHpcb0HWledxIPBqe7elu.jpg",
+               "id": 72782,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Sofia",
+               "gender": 1,
+               "credit_id": "52fe44a2c3a368484e02e23f",
+               "name": "Olivia Magnani",
+               "profile_path": "/fXUmlWbei8Nb7pcabZWpfR7HxLx.jpg",
+               "id": 41967,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Valerio",
+               "gender": 2,
+               "credit_id": "52fe44a2c3a368484e02e243",
+               "name": "Adriano Giannini",
+               "profile_path": "/3vuYXxVPcH6nDlCjliGTisrh90D.jpg",
+               "id": 73475,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Bank manager",
+               "gender": 0,
+               "credit_id": "52fe44a2c3a368484e02e247",
+               "name": "Antonio Ballerio",
+               "profile_path": "/u4pyAbCh2efu7hFTko1c87XMAaz.jpg",
+               "id": 99279,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Giulia",
+               "gender": 0,
+               "credit_id": "55112d4f9251412a88000597",
+               "name": "Gianna Paola Scaffidi",
+               "profile_path": "/a2qX10eaY60tzri9vlai96qGxu9.jpg",
+               "id": 1444903,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Mafioso",
+               "gender": 0,
+               "credit_id": "55112d5d9251415c96001168",
+               "name": "Nino D'Agata",
+               "profile_path": "/7ZaFwd3VbofVxw69HpdKAmyqr4C.jpg",
+               "id": 1444904,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Pippo D'Antò",
+               "gender": 0,
+               "credit_id": "55112d73c3a36801d200124c",
+               "name": "Vincenzo Vitagliano",
+               "profile_path": null,
+               "id": 1444905,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Director",
+               "gender": 0,
+               "credit_id": "55112d83c3a36801d2001251",
+               "name": "Diego Ribon",
+               "profile_path": "/k0gQxVPbDfTwhFrYZuWB0dSUz8i.jpg",
+               "id": 237777,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Hired assassin",
+               "gender": 2,
+               "credit_id": "55112d91c3a36802960010f4",
+               "name": "Gilberto Idonea",
+               "profile_path": "/ifKu9UavLItPwEtIrLwagM5IojV.jpg",
+               "id": 120657,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Waitress",
+               "gender": 1,
+               "credit_id": "55112d9f9251415caa0011b6",
+               "name": "Giselda Volodi",
+               "profile_path": "/4RNyn1cCW4QWVB6rVzkOPbC4gb8.jpg",
+               "id": 76340,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "Letizia",
+               "gender": 0,
+               "credit_id": "55112dadc3a36802c3001364",
+               "name": "Giovanni Vettorazzo",
+               "profile_path": "/nnKbDyx9obxgE9ACkVOhfxKyvTQ.jpg",
+               "id": 1039477,
+               "order": 10
+            },
+            {
+               "cast_id": 14,
+               "character": "Hired Assassin",
+               "gender": 2,
+               "credit_id": "55112db9c3a36801bb001218",
+               "name": "Gaetano Bruno",
+               "profile_path": "/2mZJtu1TXqnUozLERvgdcE8AAcq.jpg",
+               "id": 35103,
+               "order": 11
+            },
+            {
+               "cast_id": 15,
+               "character": "Reader",
+               "gender": 0,
+               "credit_id": "55112dc6c3a36801d2001257",
+               "name": "Ana Valeria Dini",
+               "profile_path": null,
+               "id": 1359230,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Nitto Lo Riccio",
+               "gender": 0,
+               "credit_id": "55112dd69251415caa0011c2",
+               "name": "Vittorio Di Prima",
+               "profile_path": null,
+               "id": 1444906,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Isabella",
+               "gender": 0,
+               "credit_id": "55112de59251415c96001177",
+               "name": "Angela Goodwin",
+               "profile_path": "/7yJLaRhRt3dxCNj7aQetb7YgL9s.jpg",
+               "id": 105352,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44a2c3a368484e02e24d",
+               "name": "Paolo Sorrentino",
+               "profile_path": "/fY8hmcpS2UOXTFev6yHcvk9yIXi.jpg",
+               "id": 56194,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44a2c3a368484e02e253",
+               "name": "Paolo Sorrentino",
+               "profile_path": "/fY8hmcpS2UOXTFev6yHcvk9yIXi.jpg",
+               "id": 56194,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918cbf925141418600bd62",
+               "name": "Francesca Cima",
+               "profile_path": null,
+               "id": 933273,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918cc9c3a36824f900c827",
+               "name": "Angelo Curti",
+               "profile_path": null,
+               "id": 1151897,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918cd10e0a2616bd00c3d1",
+               "name": "Nicola Giuliano",
+               "profile_path": null,
+               "id": 933274,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a918cdb925141417700c34a",
+               "name": "Domenico Procacci",
+               "profile_path": "/t5XBAj5QmuO9wTTxEECcYl3iQeN.jpg",
+               "id": 72051,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918ce70e0a2616cf00c278",
+               "name": "Pasquale Catalano",
+               "profile_path": null,
+               "id": 966818,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918cf00e0a2616cc00d481",
+               "name": "Luca Bigazzi",
+               "profile_path": null,
+               "id": 7560,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918cfa0e0a2616cf00c28c",
+               "name": "Giogiò Franchini",
+               "profile_path": null,
+               "id": 1341585,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918d05c3a368250b00bd6a",
+               "name": "Lino Fiorito",
+               "profile_path": null,
+               "id": 1984418,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918d0e925141417100c10f",
+               "name": "Ortensia De Francesco",
+               "profile_path": null,
+               "id": 1151948,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918d18c3a36824f600c251",
+               "name": "Adriana Lamacchia",
+               "profile_path": null,
+               "id": 41066,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918d22c3a368251d00bed4",
+               "name": "Fernanda Perez",
+               "profile_path": null,
+               "id": 1630074,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918d2d0e0a2616d200cc2e",
+               "name": "Gianluca Basili",
+               "profile_path": null,
+               "id": 1616854,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918d37925141418000c532",
+               "name": "Emanuele Cecere",
+               "profile_path": null,
+               "id": 1789272,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918d410e0a2616c900d596",
+               "name": "Silvia Moraes",
+               "profile_path": null,
+               "id": 1972290,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918d4b0e0a2616bd00c43e",
+               "name": "Angelo Raguseo",
+               "profile_path": null,
+               "id": 1065970,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918d57c3a368251d00befa",
+               "name": "Daghi Rondanini",
+               "profile_path": null,
+               "id": 1984419,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a918d61c3a368251d00bf00",
+               "name": "Antonio Tirinelli",
+               "profile_path": null,
+               "id": 1400841,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 8.871708,
+      "production_countries": [{
+         "iso_3166_1": "IT",
+         "name": "Italy"
+      }],
+      "id": 24653,
+      "vote_count": 160,
+      "budget": 0,
+      "overview": "Titta di Girolamo has been living in a small hotel in Lugano for ten years, he leads a dull and rigid live and has apparently lost his capability to feel human emotion. This all changes when he decides to talk to Sofia, the Barmaid.",
+      "similar": [
+         240,
+         9366,
+         1422,
+         238,
+         769,
+         59,
+         319,
+         9798,
+         1213,
+         8358,
+         5925,
+         279,
+         14,
+         101,
+         242,
+         1429,
+         23483,
+         80752,
+         154400,
+         169917
+      ],
+      "original_title": "Le conseguenze dell'amore",
+      "runtime": 100,
+      "poster_path": "/oZOv0UrrtDOShYj1RMgswr1bp3x.jpg",
+      "spoken_languages": [{
+         "name": "Italiano",
+         "iso_639_1": "it"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Medusa Film",
+            "id": 6246,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Fandango",
+            "id": 2441,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Indigo Film",
+            "id": 1533,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2004-09-24",
+      "vote_average": 7.7,
+      "belongs_to_collection": null,
+      "tagline": "Everyone has a dark secret",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Italy",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Paolo Sorrentino"],
+      "runtime": 100,
+      "synopsis": null,
+      "writers": ["Paolo Sorrentino"],
+      "originalLanguage": "Italian",
+      "imdbLink": "http://www.imdb.com/title/tt0398883/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNjMzNDk3NzY0MF5BMl5BanBnXkFtZTcwNTIxNzY5MQ@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Toni Servillo, Olivia Magnani, Adriano Giannini | See full cast and crew »"],
+      "reviews": [
+         "One of the most significant quotes from the entire film is pronounced halfway through by the protagonist, the mafia middle-man Titta Di Girolamo, a physically non-descript, middle-aged man originally from Salerno in Southern Italy. When we're introduced to him at the start of the film, he's been living a non-life in an elegant but sterile hotel in the Italian-speaking Canton of Switzerland for the last ten years, conducting a business we are only gradually introduced to. While this pivotal yet apparently unremarkable scene takes place employees of the the Swiss bank who normally count Di Girolamo's cash tell him that 10,000 dollars are missing from his usual suitcase full of tightly stacked banknotes. At the news, he quietly but icily threatens his coaxing bank manager of wanting to close down his account. Meanwhile he tells us, the spectators, that when you bluff, you have to bluff right through to the end without fear of being caught out or appearing ridiculous. He says: you can't bluff for a while and then halfway through, tell the truth. Having eventually done this - bluffed only halfway through and told the truth, and having accepted the consequences of life and ultimately, love - is exactly the reason behind the beginning of Titta Di Girolamo's troubles. This initially unsympathetic character, a scowling, taciturn, curt man on the verge of 50, a man who won't even reply in kind to chambermaids and waitresses who say hello and goodbye, becomes at one point someone the spectator cares deeply about. At one point in his non-life, Titta decides to feel concern about appearing \"ridiculous\". The first half of the film may be described as \"slow\" by some. It does indeed reveal Di Girolamo's days and nights in that hotel at an oddly disjoined, deliberate pace, revealing seemingly mundane and irrelevant details. However, scenes that may have seemed unnecessary reveal just how essential they are as this masterfully constructed and innovative film unfolds before your eyes. The existence of Titta Di Girolamo - the man with no imagination, identity or life, the unsympathetic character you unexpectedly end up loving and feeling for when you least thought you would - is also conveyed with elegantly edited sequences and very interesting use of music (one theme by the Scottish band Boards of Canada especially stood out). Never was the contrast between the way Hollywood and Italy treat mobsters more at odds than since the release of films such as Le Conseguenze dell'Amore or L'Imbalsamatore. Another interesting element was the way in which the film made use of the protagonist's insomnia. Not unlike The Machinist (and in a far more explicit way, the Al Pacino film Insomnia), Le Conseguenze dell'Amore uses this condition to symbolise a deeper emotional malaise that's been rammed so deep into the obscurity of the unconscious, it's almost impossible to pin-point its cause (if indeed there is one). The young and sympathetic hotel waitress Sofia (played by Olivia Magnani, grand-daughter of the legendary Anna) and the memory of Titta's best friend, a man whom he hasn't seen in 20 years, unexpectedly provide a tiny window onto life that Titta eventually (though tentatively at first) accepts to look through again. Though it's never explicitly spelt out, the spectator KNOWS that to a man like Titta, accepting The Consequences of Love will have unimaginable consequences. A film without a single scene of sex or violence, a film that unfolds in its own time and concedes nothing to the spectator's expectations, Le Conseguenze dell'Amore is a fine representative of that small, quiet, discreet Renaissance that has been taking place in Italian cinema since the decline of Cinecittà during the second half of the 70s. The world is waiting for Italy to produce more Il Postino-like fare, more La Vita è Bella-style films... neglecting to explore fine creations like Le Conseguenze dell'Amore, L'Imbalsamatore and others. Your loss, world.",
+         "I saw Le Conseguenze Dell'Amore on the 2005 Rotterdam Filmfestival, It was the first of ten films I saw there. Le Conseguenze has left the most powerful impression of the ten films. From the first shot, you know the movie is going to be something special. The beautiful cinematography left me in awe of what can be done with a camera. The music is also on par with the visuals, complementing the colorful and stylish architecture-like images. Toni Servillo plays the main character in the film, Titta. He's a tax expert gone wrong who lives in a hotel. Every week, he brings a suitcase with money to a bank and the story plays around this. He is always very controlled and shows almost no emotion to anyone; Looks calculated and well-dressed. He has a habit of ignoring people who are of no significance to him. For example Sofia (played very nicely by Olivia Magnani), who works as a barmaid in the hotel where he lives. Although she's been working in the hotel for two years, he never greets her, even if she does greet him. On one day she confronts him with this and the next day he sits at the bar, instead of his usual spot at a window. From here the story really begins, and will unfold in a strong tale of love, sacrifice and the mafia. I won't spoil the rest of the film. See this film if you love stylish movies like ones from David Lynch, The Godfather, etc. Don't see this if you're an action-buff.",
+         "There are movies that are just a different version of another one, not remakes, but just similar to others, it is not. Although it talks about Mafia it is watched in another way and often it seems just a secondary theme. I went to watch that movie for case (because the otherone's theatre was full) and I was satisfied at the end. It surprised me, because of its black irony or cynicism and there are more and more interesting items to analyze. It doesn't follow the classical ways of movies, it is just different and I think not to be the only one to like that. I am very happy also because it is Italian, and I was afraid that Italian directors and producers were not enough brave to change themes. In this movie you can watch new Italian style as well, but is not blocked into clichés. I hope to be understandable enough, I know it is difficult, I hope also that this movie can be exported out of our frontiers, it is a good product to export. I want to point out also the music, very good soundtrack, the movie needs it because of its long silent pause and they are covered perfectly by that music. Many compliments to the director, and thank you, cinema needs these movies.",
+         "The consequences of love: There is really something special about this film but it's very hard to put your finger on. It is a love story of sorts but not really one i've seen before. It has several love themes running throughout the film. One mans love for a younger woman, a younger mans love for his older brother, the mafias love of money at all costs these are just some that intertwine in a story that has you guessing or rather not knowing where and how it will end. The cast are all superb from Sophia the teasing barmaid to the straight faced-ness of titta the films central character. With simple yet affective camera work bounced off an ever-changing soundtrack that mixes low-fi trip hop with lush orchestral pieces. The style of the film changes beautifully using several styles without ever getting cluttered. Love has never looked so diverse and powerful as the tales we are told rumble towards various conclusions. The director has married old and new into a rich Italian classic.",
+         "I saw this movie in the Rotterdam Film Festival and I was pleasantly surprised. The photography is just so stylish and beautiful, and the story it's just not your average mafia movie, actually that storyline is pretty much in the background. It's more the personal journey of a middle age man that is trapped in an existence he was forced to live. The actor, Toni Servillo, is superb, he excels this \"quiet man\". The girl, Olivia Magnani, is the grand-daughter of Italian actress Anna Magnani and lives up to the family surname. If you're expecting your typical Italian movie where everybody is screaming to each other in big families, this is NOT your movie. There are not you're average clichés and it's definitively worth seeing this one.",
+         "Although I totally agree with the previous comment regarding the marvellous acting of Toni Servillo as Titta Di Girolamo, I would also like to add the beautiful filming and montage which turns this movie virtually into a painting. The young director Paolo Sorrentino had the courage to experiment with different types of camera techniques which reminded me of Darren Aronofsky' Requiem for a Dream. They both used the same MTV-style filming combined with modern (alternative/techno) music, making the film � Le Consequenze dell'Amore - stand apart from the other crime/mafia movies in its genre. Even though the movie may start of very slow-paced almost \"sec\" compared to the faster Hollywood productions it should be enjoyed cause of its serenity, marvellous character portray and splendid ending. Definitely a must see for people who enjoy the European/Italian cinema. PS Toni keep on acting like this we need an encore.",
+         "This is a very visual film. By that I mean that the dialog is sparse, almost to the point of being a silent movie for some very long takes, beginning with the opening shot. The silences, however, are broken by a stunning sound track that ranges from discordant, staccato beats to a haunting mix of violins, and interspersed with vocals that sound like dreams. It's a feast for the ears as much as for the eyes, one of the early visuals being a man walking along a street, so preoccupied with his interest in a shapely woman, that he walks into a lamppost: one of the consequences of love and a metaphor for what lies in store... A long time ago, another movie � Love Story (1970) -- said that love is never having to say you're sorry. This narrative turns that idea on its head in a number of ways, beginning with the main character, Titta (Toni Sevillo), a seemingly innocuous long-term resident in a plush hotel somewhere in Switzerland. Everyday, week in, week out, he sits at the same coffee table, enjoying the passing world, his cigarettes, his coffee, his solitude � and he's been doing it for ten years. He sits, he observes, and once a week he engages in three very surprising activities that you'll find out about when you see this little masterpiece... Love is explored in another way, in a direct counterpoint to Titta's solitude and reserved nature: two older residents of the hotel are still much in love, but the man wants to die in a spectacular manner when his time comes, while his long suffering wife berates him for cheating at cards with the other guests, one of whom is Titta. Now, Titta knows about their squabbles, their love, the man's cheating, his apologies to his wife, and his whining. How? In a surprising and black-comedic manner...one of those surprise activities I mentioned. But, this is no comedy, in reality, although it does touch upon the idea of the human comedy in a Balzacian sense: the irony of life and what to do with it. That decision had been made for Titta ten years earlier when he left his wife and began to live in the hotel. He keeps in touch occasionally, and it is clear that he still loves his children (now grown up) and the sorrow in his voice speaks volumes. But, there's something more than just sorrow... Such a life as Titta's would obviously seem to be utterly boring, and it actually is from many perspectives. It is only when we learn what lies beneath his almost death-like countenance, however, that the horror of his situation hits the viewer between the eyes. But not before we know that the female bartender, Sofia (Olivia Magnani), is very interested in Titta and goes out of her way to pique Titta's interest in her. And that's when things start to unravel for Titta: he eventually succumbs to her femininity and in doing so discovers, once again, the consequences of love. Ironically, in doing so, he finally realizes what he must finally do with his life, and in a most spectacular fashion. I know that all of the above is somewhat cryptic; but, to say more would spoil the film and story for you. If you like Italian cinema � I love it! � I urge you to see this one. The acting is superb; the sound track chills the spine; the camera work is truly innovative; the direction shows the maturity of a true artist. I know I'll see this movie again, and again...",
+         "Well, where do I start... As one of the other reviewers said, you know you're in for a real treat when you see the opening shot - minutes and minutes of film time spent on a guy standing on a travelator. I won't repeat Rubin's excellent summary of the story. What I would like to say, though, is that this film gripped me more than any film I can remember. I sat open-mouthed, and on the edge of my seat all the way through. The camera work, sound track and *fantastic* performances (particularly that of Tony Servillo) draw you to the screen and won't let you look away. It's Italian, so of course everyone looks fantastic, but it is by no means merely an exercise in cool style. This is a film with lots to say about luck, loss and love. Go and see it.",
+         "OK, I'm Italian but there aren't so many Italian film like this. I think that the plot is very good for 3/4 of the film but the final is too simple, too predictable. But it's the only little mistake. The Consequences of Love in my opinion have great sequences in particular at the beginning and great soundtrack. I'd like very much the lighting work on it. The best thing on it is a great, great actor. You know, if your name were Al Pacino now everybody would have still been talking about this performance. But it's only a great theater Italian actor called Toni Servillo. Yes, someone tell me this film and this kind of performance it's too slow, it's so boring, so many silences, but i think that this components its fantastic, its the right way for describing the love story between a very talented young girl, the grand-daughter of the Italian actress Anna Magnani, Olivia and the old mysterious man Toni. One of my favorite Italian films.",
+         "I was a little worried about actors and acting in Italy then \"Le conseguenze dell'amore\" and Toni Servillo came. It was a long time that i didn't see a so charismatic actor on screen. Paolo Sorrentino has written a wonderful story about loneliness and Tony has built one of the most unforgettable characters seen in movies in recent years. The movie is not completely perfect but 'Titta Di Girolamo' will stay with you for a long time after the vision of the movie. Toni please keep on acting in movies, you're for sure the coolest actor around today (and not just in Italy, his performance deserves international acclamation). I rate this movie 9/10."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Fandango",
+         "Indigo Film",
+         "Medusa Film"
+      ],
+      "summaries": [
+         "Titta di Girolamo apparently has a regular and tedious life with nothing strange a part from his own name (as he uses to say). He lives in a Hotel in Lugano (Switzerland) since almost ten years, spending his days waiting for something we don't know. His life is too rigid, too detached following a flat routine. Titta ignore everyone and probably he has no emotions at all. Basically there is no story. But one day he decided, breaking all his personal rules, to exchange some words with Sofia, the hotel's barmaid. Incredibly all the situation change, emotions, love, mafia, death come back violently into Titta's life.",
+         "An introverted man's life changes completely when he finds himself attracted to a young bar-maid."
+      ],
+      "budget": 0
+   },
+   "movielensId": 51312,
+   "movielens": {
+      "languages": ["Italiano"],
+      "releaseDate": "2004-09-24",
+      "dvdReleaseDate": "2005-01-01",
+      "directors": ["Paolo Sorrentino"],
+      "runtime": 100,
+      "movieId": 51312,
+      "title": "The Consequences of Love",
+      "mpaa": null,
+      "actors": [
+         "Toni Servillo",
+         "Olivia Magnani",
+         "Adriano Giannini",
+         "Antonio Ballerio",
+         "Gianna Paola Scaffidi",
+         "Nino D'Agata",
+         "Vincenzo Vitagliano",
+         "Diego Ribon",
+         "Gilberto Idonea",
+         "Giselda Volodi",
+         "Giovanni Vettorazzo",
+         "Gaetano Bruno",
+         "Ana Valeria Dini",
+         "Vittorio Di Prima",
+         "Angela Goodwin"
+      ],
+      "imdbMovieId": "0398883",
+      "originalTitle": "Le conseguenze dell'amore",
+      "genres": [
+         "Crime",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Titta di Girolamo has been living in a small hotel in Lugano for ten years, he leads a dull and rigid live and has apparently lost his capability to feel human emotion. This all changes when he decides to talk to Sofia, the Barmaid.",
+      "tmdbMovieId": 24653,
+      "avgRating": 3.85714,
+      "releaseYear": "2004",
+      "numRatings": 119,
+      "posterPath": "/ch0AnBv6T2tiJNUsCjeI4gOOm1M.jpg"
+   }
+}

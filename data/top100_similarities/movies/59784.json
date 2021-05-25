@@ -1,0 +1,680 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "china",
+            "id": 478
+         },
+         {
+            "name": "martial arts",
+            "id": 779
+         },
+         {
+            "name": "kung fu",
+            "id": 780
+         },
+         {
+            "name": "mentor",
+            "id": 1310
+         },
+         {
+            "name": "snake",
+            "id": 1585
+         },
+         {
+            "name": "restaurant",
+            "id": 1946
+         },
+         {
+            "name": "shop",
+            "id": 1998
+         },
+         {
+            "name": "strong woman",
+            "id": 2660
+         },
+         {
+            "name": "bravery",
+            "id": 3930
+         },
+         {
+            "name": "tiger",
+            "id": 4809
+         },
+         {
+            "name": "turtle",
+            "id": 6362
+         },
+         {
+            "name": "panda",
+            "id": 8531
+         },
+         {
+            "name": "sensei",
+            "id": 9362
+         },
+         {
+            "name": "anthropomorphism",
+            "id": 11500
+         },
+         {
+            "name": "fighting",
+            "id": 14955
+         },
+         {
+            "name": "ancient china",
+            "id": 15036
+         },
+         {
+            "name": "monkey",
+            "id": 15149
+         },
+         {
+            "name": "master",
+            "id": 33401
+         },
+         {
+            "name": "destiny",
+            "id": 40850
+         },
+         {
+            "name": "evil",
+            "id": 156075
+         },
+         {
+            "name": "aftercreditsstinger",
+            "id": 179430
+         },
+         {
+            "name": "monkey warrior",
+            "id": 185319
+         },
+         {
+            "name": "noodle",
+            "id": 193046
+         }
+      ],
+      "imdb_id": "tt0441773",
+      "video": false,
+      "title": "Kung Fu Panda",
+      "recommendations": [
+         49444,
+         953,
+         10527,
+         425,
+         809,
+         950,
+         8355,
+         810,
+         808,
+         920,
+         2062,
+         13053,
+         10192,
+         10191,
+         22794,
+         863,
+         38757,
+         46195,
+         9806,
+         812
+      ],
+      "backdrop_path": "/UJwhgwAxU42cm9XKncO9boFAEV.jpg",
+      "revenue": 631744560,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Po (voice)",
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6ca3",
+               "name": "Jack Black",
+               "profile_path": "/vMXgtzMdt2jSAjOECFQ5F53blbr.jpg",
+               "id": 70851,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Shifu (voice)",
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6cab",
+               "name": "Dustin Hoffman",
+               "profile_path": "/3pZx8NB30KIw31rBAT62TUDQFEb.jpg",
+               "id": 4483,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Master Tigress (voice)",
+               "gender": 1,
+               "credit_id": "52fe4500c3a36847f80b6ca7",
+               "name": "Angelina Jolie",
+               "profile_path": "/6tocswK39SrSjZIRDaTpVyPxDz8.jpg",
+               "id": 11701,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Master Monkey (voice)",
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6cb3",
+               "name": "Jackie Chan",
+               "profile_path": "/pmKJ4sGvPQ3imzXaFnjW4Vk5Gyc.jpg",
+               "id": 18897,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Master Viper (voice)",
+               "gender": 1,
+               "credit_id": "52fe4500c3a36847f80b6caf",
+               "name": "Lucy Liu",
+               "profile_path": "/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg",
+               "id": 140,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Crane (voice)",
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6ce7",
+               "name": "David Cross",
+               "profile_path": "/aHSmsfJ48W59WlGB5ZiTjK67I0D.jpg",
+               "id": 212,
+               "order": 5
+            },
+            {
+               "cast_id": 18,
+               "character": "Oogway (voice)",
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6ceb",
+               "name": "Randall Duk Kim",
+               "profile_path": "/9AWMELz25S915kaUr5OzHJN4Xtm.jpg",
+               "id": 9462,
+               "order": 6
+            },
+            {
+               "cast_id": 19,
+               "character": "Mr. Ping (voice)",
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6cef",
+               "name": "James Hong",
+               "profile_path": "/8k4RrDRsqkvJDePU8ciMOOx5Zso.jpg",
+               "id": 20904,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Zeng (voice)",
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6cdb",
+               "name": "Dan Fogler",
+               "profile_path": "/75hCIe6KHpHUlJDcyoxEp035BWz.jpg",
+               "id": 58873,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Tai Lung (voice)",
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6cdf",
+               "name": "Ian McShane",
+               "profile_path": "/pY9ud4BJwHekNiO4MMItPbgkdAy.jpg",
+               "id": 6972,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Mantis (voice)",
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6ce3",
+               "name": "Seth Rogen",
+               "profile_path": "/aQc8O52P4vWDRfuxCLsz9rvnwf3.jpg",
+               "id": 19274,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Commander Vachir (voice)",
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6cf3",
+               "name": "Michael Clarke Duncan",
+               "profile_path": "/A0fXStrmFubDRFS8UeRW7xvcf6S.jpg",
+               "id": 61981,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Gang Boss (voice)",
+               "gender": 2,
+               "credit_id": "551e125992514137480020dd",
+               "name": "Wayne Knight",
+               "profile_path": "/oW9aeZwkz1S1IMjQGtd9mnvlEax.jpg",
+               "id": 4201,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "KG Shaw (voice)",
+               "gender": 2,
+               "credit_id": "551e134d925141173f001905",
+               "name": "Kyle Gass",
+               "profile_path": "/jSo0tKozbudF78NaR6DCNSXKSP9.jpg",
+               "id": 22297,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "JR Shaw (voice)",
+               "gender": 0,
+               "credit_id": "551e1364c3a3682eaf001930",
+               "name": "JR Reed",
+               "profile_path": null,
+               "id": 938432,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Awed Ninja (voice)",
+               "gender": 1,
+               "credit_id": "551e137b925141374f001ccc",
+               "name": "Laura Kightlinger",
+               "profile_path": "/4vslXi1sgtxWKekk8juHHqP0vWU.jpg",
+               "id": 61409,
+               "order": 15
+            },
+            {
+               "cast_id": 25,
+               "character": "Smitten Bunny (voice)",
+               "gender": 0,
+               "credit_id": "551e13a69251413756001e0d",
+               "name": "Tanya Haden",
+               "profile_path": null,
+               "id": 1448983,
+               "order": 16
+            },
+            {
+               "cast_id": 26,
+               "character": "Gong Pig / Grateful Bunny (voice)",
+               "gender": 0,
+               "credit_id": "551e13cc9251413743002017",
+               "name": "Stephen Kearin",
+               "profile_path": "/bEMGAE4kdMmcF61kgYWHLM7EfsT.jpg",
+               "id": 1448984,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "Pig Patron (voice)",
+               "gender": 2,
+               "credit_id": "551e143992514114d7000b44",
+               "name": "Mark Osborne",
+               "profile_path": "/uX4TukmZ2bqo164mtE1TEKnQSu1.jpg",
+               "id": 57741,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Rhino Guard (voice)",
+               "gender": 2,
+               "credit_id": "551e1494c3a3683a14001f5e",
+               "name": "John Stevenson",
+               "profile_path": "/fWrTUGH0BkT3zfdfB80JqFtsZ2I.jpg",
+               "id": 57742,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "Blind Gator (voice)",
+               "gender": 0,
+               "credit_id": "551e14b1925141374f001cf9",
+               "name": "Jeremy Shipp",
+               "profile_path": null,
+               "id": 1448987,
+               "order": 20
+            },
+            {
+               "cast_id": 41,
+               "character": "Bunny Mom (voice)",
+               "gender": 1,
+               "credit_id": "56c32787c3a36825f90025bc",
+               "name": "Melissa Cobb",
+               "profile_path": null,
+               "id": 946051,
+               "order": 21
+            },
+            {
+               "cast_id": 38,
+               "character": "Pig Fan (voice)",
+               "gender": 2,
+               "credit_id": "552e2e15c3a3686be200248f",
+               "name": "Kent Osborne",
+               "profile_path": "/iszbGHIPuEMa1YDIiJFST3pZfLy.jpg",
+               "id": 45416,
+               "order": 22
+            },
+            {
+               "cast_id": 33,
+               "character": "Bunny Fan 1 (voice)",
+               "gender": 0,
+               "credit_id": "551e159d925141374800216e",
+               "name": "Emily Burns",
+               "profile_path": null,
+               "id": 1448990,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Bunny Fan 2 (voice)",
+               "gender": 0,
+               "credit_id": "551e15b2c3a3682eaf001996",
+               "name": "Stephanie Harvey",
+               "profile_path": null,
+               "id": 1448991,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Baby Tai Lung (voice)",
+               "gender": 0,
+               "credit_id": "551e166dc3a3683a0d002093",
+               "name": "Riley Osborne",
+               "profile_path": null,
+               "id": 1397911,
+               "order": 25
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6c99",
+               "name": "Mark Osborne",
+               "profile_path": "/uX4TukmZ2bqo164mtE1TEKnQSu1.jpg",
+               "id": 57741,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6c9f",
+               "name": "John Stevenson",
+               "profile_path": "/fWrTUGH0BkT3zfdfB80JqFtsZ2I.jpg",
+               "id": 57742,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6cb9",
+               "name": "Glenn Berger",
+               "profile_path": "/jMy1SnrYNScYpgHMiwj7crdWJNc.jpg",
+               "id": 57743,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6cbf",
+               "name": "Jonathan Aibel",
+               "profile_path": null,
+               "id": 57744,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6cc5",
+               "name": "Hans Zimmer",
+               "profile_path": "/7IjJpvGtCfY0DsritmfCh2iX9I4.jpg",
+               "id": 947,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4500c3a36847f80b6ccb",
+               "name": "John Powell",
+               "profile_path": "/fFRYoiZxBtP4Gs0CAphU7F5mDk.jpg",
+               "id": 11098,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4500c3a36847f80b6cd1",
+               "name": "Yong Duk Jhun",
+               "profile_path": null,
+               "id": 57746,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4500c3a36847f80b6cd7",
+               "name": "C.K. Horness",
+               "profile_path": null,
+               "id": 57747,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55257fc2c3a3687df3001e0a",
+               "name": "James Baxter",
+               "profile_path": "/dRTLlsnpqDTqfqMJ0OHDUnPaJEY.jpg",
+               "id": 1450331,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55289020c3a3680fa50001b3",
+               "name": "Pat Sito",
+               "profile_path": null,
+               "id": 1452488,
+               "department": "Art",
+               "job": "Art Department Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55404cb9c3a3681da0000ac4",
+               "name": "Simon Otto",
+               "profile_path": null,
+               "id": 1447381,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548dd5592514155fa002326",
+               "name": "Claire Williams",
+               "profile_path": null,
+               "id": 1447556,
+               "department": "Visual Effects",
+               "job": "Color Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 37.7628,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 9502,
+      "vote_count": 4193,
+      "budget": 130000000,
+      "overview": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
+      "similar": [
+         140300,
+         278927,
+         55292,
+         812,
+         15854,
+         7549,
+         146,
+         605,
+         24,
+         604,
+         9462,
+         9053,
+         1494,
+         12289,
+         254473,
+         9461,
+         44865,
+         251516,
+         11134,
+         9823
+      ],
+      "original_title": "Kung Fu Panda",
+      "runtime": 90,
+      "poster_path": "/2Paj1nufT0jeSY0G4u3RC31HIGT.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/kP7t6RwGz2AvvTkvnI1uteEwHet.png",
+         "name": "DreamWorks Animation",
+         "id": 521,
+         "origin_country": "US"
+      }],
+      "release_date": "2008-06-04",
+      "vote_average": 7,
+      "belongs_to_collection": {
+         "backdrop_path": "/uDosHOFFWtF5YteBRygHALFqLw2.jpg",
+         "name": "Kung Fu Panda Collection",
+         "id": 77816,
+         "poster_path": "/2QT6PuYXY0T2Ry9rX0JKQYTrbwx.jpg"
+      },
+      "tagline": "Prepare for awesomeness.",
+      "adult": false,
+      "homepage": "http://www.kungfupanda.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Mark Osborne",
+         "John Stevenson"
+      ],
+      "runtime": 92,
+      "synopsis": "\"Legend tells of a legendary warrior whose kung fu skills were the stuff of legend...\" A mysterious panda donning a flowing cape and sedge hat walks through the Chinese landscape. Reputed to be a grand master of kung fu, he enters a tavern where he is immediately attacked by the local ruffians. However, they are no match for his skill and even the legendary kung fu masters, the Furious Five, bow down to the panda's skill, requesting to hang out with him and fight alongside him as... ...Po the giant panda ( Jack Black) wakes up from his dream in his room. His goose father, Mr. Ping ( James Hong) calls to him from the noodle restaurant below to help serve tables. Po admires his Furious Five action figures before going downstairs. An extreme fan of Kung Fu, Po dreams of one day becoming a master worthy of fighting alongside the Five but his girth and clumsiness makes this dream simply a dream and his kung fu talents reside only within his knowledge of moves and artifacts. He is hesitant to express his desires to his dad who is more interested in running his restaurant and advertising his famous 'secret ingredient soup'. Master Shifu ( Dustin Hoffman), a red panda who resides at the Jade Palace temple, practices kung fu in the courtyard with his students, the Furious Five; Tigress ( Angelina Jolie), Crane ( David Cross), Monkey ( Jackie Chan), Viper ( Lucy Liu), and Mantis ( Seth Rogen), before he is summoned to see tortoise Grand Master Oogway ( Randall Duk Kim). Fearing something is wrong, Shifu rushes to find him meditating in the grand hall. Oogway doesn't deny bad news but calmly tells Shifu he's predicted that the snow leopard warrior Tai Lung ( Ian McShane) will escape prison and return to the Valley of Peace to wreak destruction once again. Intent on never letting this happen, Shifu sends his goose messenger, Zeng ( Dan Fogler), to fly to Chor-Gom Prison to ensure that security is increased. Oogway then proclaims that it is time to choose the Dragon Warrior; a master of great skill who will be granted the secrets of the universe by reading the Dragon Scroll, kept delicately out of reach on the temple ceiling. Assuming that one of the Furious Five will be chosen, Shifu prepares a competition to determine which one will qualify. Flyers for the competition are spread throughout town and the villagers flock to the temple. Excited to have the opportunity to see his idols in person, Po follows with his noodle cart in tow but struggles on the long staircase to the temple. He is the last to arrive at the gates and finds that they've shut him out. In a desperate bid to see the competition before it's over, Po fashions fireworks to his cart and blasts himself high into the air, only to come crashing down in the arena just as Oogway is preparing to choose out of the Five. Po opens his eyes to see Oogway's finger pointed right at him and is shocked, along with everyone else, when he is proclaimed to be the Dragon Warrior. Oogway's decision is final, despite Shifu's protests, and Po is carried (unsuccessfully) into the temple leaving Tigress greatly disappointed since it seemed Oogway would have chosen her if Po hadn't arrived. Inside the temple, Po examines, with awe, the many weaponry and valuable artifacts before Shifu approaches him and berates him for his obvious lack of skill. He deflates Po's excitement by grabbing his finger in what Po recognizes as the Wuxi Finger Hold, reputed to be extremely powerful. Shifu promises that Po will regret ever being chosen before taking him to the Fives training room where Po is promptly put to the test. Nervous, but excited to try some kung fu moves, Po accepts the challenge but is hurtled, flung, and beaten down to a now-existing Level 0. On the way to the dormitories, Po overhears the Five poke fun at his incompetence. He has an awkward conversation with Crane, opening up to his own doubts of being the Dragon Warrior. Tigress assures his doubts, calling him a disgrace to kung fu and tells him that, if he is wise, he will leave by morning. Disheartened, Po retreats to a secluded spot. Oogway finds him sitting beneath the Peach Tree of Heavenly Wisdom with peaches stuffed into his mouth. Sensing his distress, and noting that he finds comfort in food, Oogway tells Po that he worries too much about what was or what could be. He should instead focus on the present moment rather than doubting himself. Renewed with a sense of determination, Po rises the next morning before anyone else and announces that he will stay to train. He spars with each of the Furious Five, receiving swift beatings despite his undeterred enthusiasm. Frustrated by Po's perseverance, Shifu is at a loss. However, the Five become impressed by Po's fortitude and eventually start to warm up to him, with the exception of Tigress. During an acupuncture session with Mantis, the Five reveal that Shifu was not always as stern as he currently is. Tigress explains that Tai Lung himself was the reason for Shifu's shift in personality. Having found him as a newborn on the steps of the temple, Shifu raised Tai Lung as his own and began to hope that he was the fabled Dragon Warrior when the cub displayed a natural talent in kung fu. However, when the time came to stand before Oogway, the grand master sensed darkness in Tai Lung and denied him the honor of receiving the Dragon Scroll. Enraged, Tai Lung went on a rampage through the village and attempted to take the scroll by force. Caring for him too much, Shifu was unable to fight Tai Lung and Oogway was forced to defeat him by blocking his chi. Tigress then says that Shifu never cared for anything or anyone since, not even her; his own foster daughter. Meanwhile, Zeng arrives at Chor-Gom Prison and is escorted to Tai Lung's hold by the over-confident Commander Vachir ( Michael Clarke Duncan), a rhinoceros. Vachir assures Zeng that the prison is inescapable as one of Zeng's feathers falls within reach of Tai Lung. Using his tail, he uses the feather to remove the chi-blockers in the turtle-shell contraption on his back and break free. Tai Lung escapes the prison in an explosive display of his fierce kung fu abilities and grabs Zeng, instructing him to fly back to Shifu to announce that the real Dragon Warrior is coming home. Back at the temple, Po entertains the Five with some noodle soup he prepared, imitating Shifu using a noodle as a mustache. Outside, Shifu is met by a disheveled Zeng who relays the news. Panicked, Shifu finds Oogway beside the Sacred Peach Tree and tells him that Tai Lung is on his way. Oogway is shocked, but assures Shifu that, if he finds faith in the panda and trains him, Tai Lung will be defeated and Shifu will finally find inner peace. He then gives Shifu his wooden staff and claims that his time has come. He walks near the edge of the cliff side and vanishes in a haze of peach blossoms. Shifu returns to the temple, disconsolate, and informs the Five of Oogway's passing and how Po is their last chance to defeat Tai Lung. Horrified, Po flees from the temple but is soon stopped by Shifu. Po confronts Shifu, saying that he tried to kick him out of the temple and asks how he will train him to become the Dragon Warrior. Shifu admits that he doesnt know. Overhearing this from the temple roof, Tigress leaves the Jade Palace and runs out to the countryside, soon followed by the rest of the Five, to meet Tai Lung head on. They find him crossing the Thread of Hope, a series of bridges through the mountains. They attempt to stop him on the last bridge. After an epic battle, the Five gain the upper hand and appear to have defeated Tai Lung, tying him to the remains of the severed bridge and sending him into the mist below. However, Tai Lung's skills prove superior, and he surprises them by flinging himself onto the cliff and overpowering them with a chi block. Rising that morning, Shifu finds Po in the temple kitchen, surrounded by cabinets with perfect hole punches in the doors and boards broken clean in two. Shifu entertains an idea and tells Po where Monkey keeps his cookies before hiding behind the doorway. He reenters and sees Po performing a perfect split near the ceiling, chowing down on the cookies. Realizing Po's secret, Shifu takes him high into the Wu Dan Mountains to the Pool of Sacred Tears where Oogway founded the origins of kung fu. Shifu proclaims to be Po's master and begins his rigorous training, using food as a reward. Po's unique training proves to be successful and he grows stronger and more coordinated. They return to the temple as Crane flies in, carrying the rest of the Five, who have been paralyzed by Tai Lung's attacks. Shifu rejuvenates them but Po is discouraged by the fact that five masters could not overpower Tai Lung; how could he? Shifu assures him that he will have what no one else has; the Dragon Scroll. Shifu retrieves it for Po and instructs him to read it, but Po exclaims in surprise to find nothing but a blank, reflective glaze on the scroll. Terribly disappointed, Shifu relents to have the Five evacuate the village while he remains at the temple to hold Tai Lung off. The Five reluctantly agree and Po returns to his father who is packing up the noodle shop. Ping tries to console Po, but Po admits that hes not sure of who he is and can't believe he's Ping's son. Taken aback, Ping whispers to Po something he should have told him long ago; the secret ingredient to his famous secret ingredient soup. The secret is... nothing. He explains that something becomes special if people truly believe that it is. Po opens the scroll to see his reflection on its glazed surface and realizes the secret before turning back to the temple. Shifu waits at the top of the steps until Tai Lung arrives. Refusing to give his old student the scroll, Shifu battles Tai Lung who all too easily defeats his master. Tai Lung demands his birthright to have the scroll and blames Shifu for planting dreams in his head of what he thought was his destiny. He yells at Shifu to tell him how proud he is and Shifu admits that he was proud from the first moment, but it was his pride that blinded him from seeing what Tai Lung was becoming. Not looking for apologies, Tai Lung demands only the scroll. He is stopped from dealing a deadly blow to Shifu by Po, who appears, exhausted, at the doorway of the temple. Baffled by the Dragon Warrior's pudgy exterior, Tai Lung nonetheless attacks Po when he reveals the Dragon Scroll in hand. Their battle takes them into the village, each one vying for possession of the scroll. At one point, Po imagines the scroll as a bowl of dumplings to encourage him to climb a high precipice to get it, but Tai Lung is convinced that the scroll is giving him power. Using ingenuity and his rebounding stomach, Po manages to render Tai Lung helpless. Tai Lung spews out a slur of insults before Po takes his finger in the Wuxi Finger Hold. Tai Lung calls Pos bluff and Po admits that Shifu never taught him the move - he figured it out on his own. With a triumphant \"Skadoosh!\", Po flexes his pinky, resulting in a magnificent wave of raw energy that resonates throughout the valley and is felt by the Five leading the refugees into the hills. Having presumably killed Tai Lung, Po is cheered on by the returning villagers. Tigress and the rest of the Five bow down to Po, calling him master, before Po runs back to the temple to check on Shifu. He finds Shifu lying still, but alive, on the floor of the temple and tells him he defeated Tai Lung. Shifu thanks him and tells Po that he's brought him peace before closing his eyes. Po calls out to him and Shifu reprimands him, saying that he's merely resting. Po lies down beside him and, after a quiet, meditative moment, asks if he wants to get something to eat. Shifu says, Ok. They enjoy a meal of dumplings together at the Peach Tree of Heavenly Wisdom, overlooking a new day while a seed that Shifu had previously planted begins to bloom.",
+      "writers": [
+         "Jonathan Aibel",
+         "Glenn Berger"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0441773/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTIxOTY1NjUyN15BMl5BanBnXkFtZTcwMjMxMDk1MQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jack Black, Ian McShane, Angelina Jolie | See full cast and crew »"],
+      "reviews": [
+         "Caught a screening of \"The Panda\" and all I can say is wow! I took my 6 year old daughter, who has the attention span of a 6 year old, and she wants to see it again. So do I! Jack Black is not only half of the greatest band in the world, he is also a fine voice actor. His flawed character, Po the Panda is very refreshing. So is this film. After having to sit through the boring \"Over the Hedge\" and the last two \"Shrek\" messes, I really appreciated an animated feature form Dreamworks that didn't have too many celeb voices all competing for screen time. This is Jack Black's movie. He has 75% of the lines in the script and that is not a bad thing. Don't just drop the kids off to see Kung Fu Panda. Go with them. I think it's one of those rare movies like The Incredibles and Finding Nemo that adults can enjoy as much as the kids.",
+         "I was almost dreading seeing this movie - we won tickets to the screener and from the first scene I found myself laughing out loud. The movie is so much better than I thought it would be (and that was bad) - I expected the comedy to be slapstick/junior/potty but it wasn't. The story was also good enough to keep my kids focused glued to the screen. The animation is wonderful. Music is tasteful. I can't imagine anyone but Jack Black pulling off the voice though - he definitely made the movie for me. The only thing distracted me was that most of the movie I spent trying to figure out who was doing the voice of Tai Lung (Ian McShane). As mentioned previously in the forums about the pop culture references in this movie - I don't remember one - very nice indeed - it works with some of the other movies but I can do without. This is the first movie in a while I'd like to see again.",
+         "After various 3D animated movies ranging from lacklustre \"star\" movies (\"Madagascar\"), boring tripe (\"Shark Tale\", \"Bee Movie\"), and over-rated, over-hyped overkill (\"Shrek\"), Dreamworks can finally be proud of a truly great film. (Sidebar: I actually enjoyed \"Flushed Away\" and \"Over The Hedge\".) First, the bad. If I could complain about ANYTHING it may be a few of the voices. Besides Po, Shifu and Oogway, the rest of the cast seemed pretty 'phoned-in'. Thankfully, those characters are pretty inconsequential so they're not really missed. Now the good... or rather great. While classic kung fu movies are poked fun at, Kung Fu Panda does an excellent job of treating the genre with great respect in a movie geared towards kids. And while it IS kid friendly, it is not dumbed down to the point where it's childish. All the classic elements of those great kung fu flicks are there, while still keeping it pleasantly G-rated. Let me get this out of the way: this movie has some of the greatest 3D animated fight scenes. Ever. What elevates them from good to great is that while I expected the unbelievable, gravity-defying stunts that are REQUIRED of a good kung fu movie, there is an amazing amount of 'realism' to the physics in this movie. Just watch the jailbreak and you'll understand. Speaking of animation, the cinematography, character design and backgrounds are all done very, very well. Whether it's flying through the air alongside a leaping character, the painting-like backgrounds, or the wonderful opening sequence (reminiscent of Samurai Jack), they're all beautiful. Snap zooms, slow-motion, and flying cameras are also used with great skill to further the experience. Even the music and sound is outstanding. Asian drums rumble in the background of intense fights... stones shatter and crumble away... fight sequences rise and fall with each of the music cues, or is that the other way around? Beautiful. What helps make this a new classic in my eyes is what it doesn't have. There are no Matrix, Spiderman, or other dated references. There are no inside jokes related to the voice actors. There isn't even any double entendre or unnecessary crude humour. Much like \"Finding Nemo\" or \"Monsters Inc\", there's just plenty of pop-culture-free goodness that is terribly entertaining. The last great part of this movie is often the most overlooked part of a good family film... heart. This movie has oodles of it. Other movies have tried to have a lesson in the end like 'be yourself' (\"Shrek\"), or 'the value of friends' (\"Madagascar\"), or... 'be yourself' (\"Shark Tale\"), but \"Kung Fu Panda\" has genuine cinematic moments with dialogue that carries real weight. Best line: Oogway regarding yesterday, tomorrow and today. So, finally, as a complete sucker for Pixar animation, I'm glad that another animation company can actually put proper thought and execution into a FAMILY movie. What else can I say? Congratulations Dreamworks. 10 out of 10.",
+         "From the very beginning, Kung Fu Panda had me practically falling out of my seat --- laughing. It was the perfect blend of comedy, heart, and action, all necessary elements in a successful and great animation/CGI film, in the tradition of The Incredibles and (less action, but containing the heart and laughter) Ratatouille, Finding Nemo and Monsters, Inc. I took my wife and nephew and niece to see it on a Friday night and they enjoyed it, too! We were totally laughing, smiling, and guffawing at Po, the main protagonist (voiced by Jack Black) and his misadventures at becoming a Kung Fu expert. This was certainly a flawed character, one that a lot of people can relate to because he dreams, he's funny, and he can laugh at himself. Also, the story was pretty clear and easy to follow because the storytelling was well crafted, and the animation was paired well with characters brought vividly to life by some of the most famous names in Hollywood. Jack Black and Dustin Hoffman are downright excellent as the main characters, and Ian McShane as the bad dude gave it the right fearful presence. Other big name stars don't shine as much, but that's because their roles are rather limited in the film. But that's still okay because the animators should be given equal credit (if not more) for delivering the funny, action and heart elements of this movie in an effective, amazing and (I've got to use this) AWESOME manner. Visually, this movie is stunning (notice all those scenic shots of the Chinese mountains, bodies of water, and the bridge scene; not to mention the action animation version of \"The Matrix\" with slow-mo)... simply a delight to watch. It's clear that Dreamworks has gotten back in the animation game with Kung Fu Panda, after slight ho-hums in Shrek 3 and Bee Movie (call me crazy, but I liked Over The Hedge more than those two). Hopefully, it should earn well over $500M worldwide because it is so good. This movie rightfully belongs in the top animation movies of all time (okay, let's not include the classic fairy tales of old; let's begin with the 90's onwards), alongside my faves \"The Incredibles\" \"Finding Nemo\" and \"Beauty & The Beast.\" Has the makings of being a classic. My wife and I enjoyed it so much that we saw it again the night after. And maybe another time... haha! Enjoy!",
+         "I Love it! The story was great and the background was beautiful, it really felt like an ancient Chinese city. This original story is one of the best since Shrek. And the meaning behind the story may be even better! The story is about Po, an overweight panda who is the son of a noodle maker, who dreams of Po following in his footsteps. But Po longs to be a ninja fighter. Po is as you know is a panda bear and the film's unlikely hero: as the bigger than life and completely lovable bear voiced by the comic genius Jack Black. Po is a Sweet but clumsy, bear who hears the news the ancient and long awaited dragon warrior will be named, so he runs (as much as he can) to hear who will be named at the celebration. Without giving too much away, when an \"accident\" seems to name Po as the dragon warrior (much to the horror of Master Shifu (voiced perfectly by Dustin Hoffman) and the disappointment of Furious Five: Tigress (Angelina Jolie), Viper (Lucy Liu), Mantis (Seth Rogen), Crane (David Cross) and Monkey (Jackie Chan). Shifu must find a way to train him. One hilarious moment after another continues until Shifu recognizes Po's true driving force. This is just in time as the villain Tai Lung (Ian McShane), a snow leopard has returned as he believe is the true Dragon Warrior. I can not recommend this movie enough. Certainly this is marketed for the kids \u0096 but the whole family will enjoy it.",
+         "I really wasn't expecting much, other than a few laughs, which would have been OK for a Dreamworks animation movie. But KUNG FU PANDA exceeded all expectations. The story is simple but the execution is superb. It would be really difficult to find something to improve on the production. The voice-overs are really good, esp Jack Black and Dustin Hoffman. The animation is very rich and the colors are crisp and bright. The action sequences are breath-taking. The laughs are mixed in at the appropriate moments. The theater was full and it was composed of a mixture of Adults and young kids. This is a fun for all movie. A testament to this fact is that almost the whole crowd stayed for the end credits. This is a very rare occurrence nowadays.\\ Oh.. and I hope this does not count as a spoiler. I absolutely loved the Samurai-Jack type animation for some scenes.",
+         "Like many others, I saw the \"trailers\" featuring Jack Black. The featurette made me think \"Okay, at least I got to check this out\". Not much more. It didn't make me think \"This is gonna be awesome\" or anything like that. Boy, was I ever under-expecting. At first I thought it was quite okay, decent entertainment and at least not totally crap. But then the really funny scenes and details kicked in, after Po gets into the temple. From then on, it was laugh after laugh, excellent voice acting, amazing CG animation (but this is Dreamworks so I expected that). The whole deal simply hit home run for me. Spot on. I love martial arts movies, I love Dreamworks CG movies and I must admit I find Jack Black amazingly funny (saw Be Kind Rewind the other day and loved it). There was so much charm and amusement in this movie. It's without doubt the best animation from Dreamworks since the first Shrek. Now, I am not saying this will be for everyone. There IS a lot of fighting going on, and while it is (for most of the movie) comical (yet amazing to behold) violence, it might not be suitable for the smallest of children. But for any healthy kid aged 6-7 or above (especially boys), this will be kick-a**! I cannot really put my finger on anything bad. Sure, the movie is filled with clichés, but sometimes you can go a long way with those. And this one serves them perfectly. I even rated this higher than Ratatouille, due to the fact that it took me totally by surprise. With Ratatouille, I EXPECTED it to be great. Kung Fu Panda I only expected to be decent, but it was awesome. That deserves the last point.",
+         "(Synopsis) Kung Fu Panda is the story of Po, (voice Jack Black), a sweet, but clumsy Panda who has dreams of fighting with the legendary Furious Five and protecting the city against all threats. The only problem is that Po has no real life experience of kung fu, and his real job is serving noodles at his dad's noodles shop. News of selecting the Dragon Warrior is sent out from the Jade Temple, and the whole city along with Po, go to the celebration. The competition is between the Furious Five: Tigress (voice Angelina Jolie), Viper (voice Lucy Liu), Crane (voice David Cross), Monkey (voice Jackie Chan), and Mantis (voice Seth Rogen). Po accidentally enters the contest and is named the Dragon Warrior. Master Shifu (voice Dustin Hoffman) must find a way to train Po and make him a Kung Fu Master, especially, after they learn that the snow leopard, Tai Lung (voice Ian McShane), is headed their way. (My Comment) This is a cute animated comedy that also inspires lessons in life. The audience can relate to people who have dreams of doing the impossible, just as Po. Po ultimately learns that if he believes in himself, he can do anything. Jack Black (Po) and Dustin Hoffman (Shifu) voices were just right for their parts, and the chopstick fight between them is fantastic. Ian McShane (Tai Lung) was also wonderful as the villain, and his battle sequence on the rope bridge is spectacular. This film is for the whole family, because adults will enjoy the movie just as much as their children. (DreamWorks, Run Time 1:28, Rated PG)",
+         "I saw this movie in the Cinema last night. I can not recommend this movie highly enough to kids of all ages. it is a long, long time since i have heard a Cinema audience laughing so much during a movie ( i think the last time was during Gigli!). Finally Dreamworks have managed to surpass the achievements of Pixar. All the elements are beyond anything i have seen in an Animated movie since The Lion King. the animation is hugely detailed and achingly beautiful, the script is the best i have come across in years. the only bum note in this symphony of fun is the fact that some of the immensely talented voice cast are badly underused. i can only remember hearing Jackie Chan's voice 3 times at most. having said that, the movie rests on the shoulders of jack Black and Dustin Hoffman. while playing their parts in a very different manner to each other, both are note perfect. they invest their characters with an energy (Black) and dignity (hoffman) that i could not find any fault with, even if i wanted to, not that i want to. Lastly, i believe that Oogway is the best animated character ever rendered, his facial expressions are hilarious and-surpass any previous attempts to give a character convincing facial expressions (i consider Gollum to be a CG character, not an animated character, for the record). in short, this is an utterly fantastic movie that everyone should watch 9/10",
+         "After the disappointing SHREK 3 and the only \"cute\" OVER THE HEDGE, DreamWorks Animation finally delivers another highlight to the CGI animated universe. I got used to the rather simple story of MADAGASCAR after watching it again, I really liked SHREK and even more SHREK 2 (am I the only one?). I never liked the cultural references they built in, because I think they only work in their time (but in their time they worked great!). So for me KUNG FU PANDA is the first great \"classic\" DWA film. Go see it, it also works for adults. If you have seen some of the classic martial arts film (Jackie Chan, Bruce Lee etc) you will even more enjoy it. The voice talent of Jack Black, Dustin Hoffman and Ian McShane is perfectly used. The other voices are OK. It will be a big hit for DWA, north of 200 millions domestic, eventually even 300 mil. That said, my favorite CGI's are 1. THE INCREDIBLES, 2. RATATOUILLE and 3. FINDING NEMO and closely followed by KUNG FU PANDA. Looking forward to seeing KFP an second time and then maybe it will become my new Nr. 3."
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Adventure",
+         "Comedy",
+         "Family"
+      ],
+      "productionCompanies": [
+         "DreamWorks Animation",
+         "Pacific Data Images (PDI)"
+      ],
+      "summaries": [
+         "It's the story about a lazy, irreverent slacker panda, named Po, who is the biggest fan of Kung Fu around...which doesn't exactly come in handy while working every day in his family's noodle shop. Unexpectedly chosen to fulfill an ancient prophecy, Po's dreams become reality when he joins the world of Kung Fu and studies alongside his idols, the legendary Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- under the leadership of their guru, Master Shifu. But before they know it, the vengeful and treacherous snow leopard Tai Lung is headed their way, and it's up to Po to defend everyone from the oncoming threat. Can he turn his dreams of becoming a Kung Fu master into reality? Po puts his heart - and his girth - into the task, and the unlikely hero ultimately finds that his greatest weaknesses turn out to be his greatest strengths.",
+         "A CG-animated comedy about a lazy, irreverent slacker panda, Po, who must somehow become a Kung Fu Master in order to save the Valley of Peace from a villainous snow leopard, Tai Lung. Set in the legendary world of ancient China, this is the story of Po, our unlikely hero, who enters the rigid world of Kung Fu and turning it upside down. Po ultimately becomes a Kung Fu hero by learning that if he believes in himself, he can do anything",
+         "In the Valley of Peace, Po the Panda finds himself chosen as the Dragon Warrior despite the fact that he is obese and a complete novice at martial arts."
+      ],
+      "budget": 130000000
+   },
+   "movielensId": 59784,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2008-06-04",
+      "dvdReleaseDate": "2008-11-11",
+      "directors": [
+         "Mark Osborne",
+         "John Stevenson"
+      ],
+      "runtime": 90,
+      "movieId": 59784,
+      "title": "Kung Fu Panda",
+      "mpaa": "PG",
+      "actors": [
+         "Jack Black",
+         "Dustin Hoffman",
+         "Angelina Jolie",
+         "Jackie Chan",
+         "Lucy Liu",
+         "David Cross",
+         "Randall Duk Kim",
+         "James Hong",
+         "Dan Fogler",
+         "Ian McShane",
+         "Seth Rogen",
+         "Michael Clarke Duncan",
+         "Wayne Knight",
+         "Kyle Gass",
+         "JR Reed",
+         "Laura Kightlinger",
+         "Tanya Haden",
+         "Stephen Kearin",
+         "Mark Osborne",
+         "John Stevenson",
+         "Jeremy Shipp",
+         "Melissa Cobb",
+         "Kent Osborne",
+         "Emily Burns",
+         "Stephanie Harvey",
+         "Riley Osborne"
+      ],
+      "imdbMovieId": "0441773",
+      "originalTitle": "Kung Fu Panda",
+      "genres": [
+         "Adventure",
+         "Animation",
+         "Family",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["PXi3Mv6KMzY"],
+      "plotSummary": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
+      "tmdbMovieId": 9502,
+      "avgRating": 3.6273,
+      "releaseYear": "2008",
+      "numRatings": 10923,
+      "posterPath": "/2Paj1nufT0jeSY0G4u3RC31HIGT.jpg"
+   }
+}

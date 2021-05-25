@@ -1,0 +1,842 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "mother",
+            "id": 456
+         },
+         {
+            "name": "sex",
+            "id": 572
+         },
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "fantasy",
+            "id": 2486
+         },
+         {
+            "name": "fetish",
+            "id": 2699
+         },
+         {
+            "name": "masochism",
+            "id": 3260
+         },
+         {
+            "name": "power",
+            "id": 3720
+         },
+         {
+            "name": "victim",
+            "id": 4399
+         },
+         {
+            "name": "music",
+            "id": 6027
+         },
+         {
+            "name": "concert",
+            "id": 6029
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "controversial",
+            "id": 9859
+         },
+         {
+            "name": "teacher",
+            "id": 10508
+         },
+         {
+            "name": "student",
+            "id": 12105
+         },
+         {
+            "name": "pianist",
+            "id": 14743
+         },
+         {
+            "name": "attraction",
+            "id": 15319
+         },
+         {
+            "name": "desire",
+            "id": 33513
+         },
+         {
+            "name": "submissive",
+            "id": 155813
+         },
+         {
+            "name": "voyeur",
+            "id": 180340
+         },
+         {
+            "name": "domineering",
+            "id": 203493
+         }
+      ],
+      "imdb_id": "tt0254686",
+      "video": false,
+      "title": "The Piano Teacher",
+      "recommendations": [
+         30970,
+         445,
+         37903,
+         24190,
+         32761,
+         145,
+         1987,
+         86837,
+         10217,
+         10683,
+         452,
+         649,
+         16,
+         309,
+         11481,
+         10238,
+         9065,
+         10234,
+         11490,
+         32764
+      ],
+      "backdrop_path": "/mNXNFlZXeJYSqTGIiweEaMxGYfO.jpg",
+      "revenue": 9801375,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Erika Kohut",
+               "gender": 1,
+               "credit_id": "52fe4315c3a36847f8039123",
+               "name": "Isabelle Huppert",
+               "profile_path": "/wGG9v1Uci3sfrbjt0bRXkLrTqjY.jpg",
+               "id": 17882,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "The Mother",
+               "gender": 1,
+               "credit_id": "52fe4315c3a36847f8039127",
+               "name": "Annie Girardot",
+               "profile_path": "/qNioeFO3GcaIHDT5Mhb8SYMLqC.jpg",
+               "id": 6014,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Walter Klemmer",
+               "gender": 2,
+               "credit_id": "52fe4315c3a36847f803912b",
+               "name": "Benoît Magimel",
+               "profile_path": "/aDNOzcFpleAbGiWie9LmwijedTT.jpg",
+               "id": 5442,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Mrs. Schober",
+               "gender": 1,
+               "credit_id": "52fe4315c3a36847f8039133",
+               "name": "Susanne Lothar",
+               "profile_path": "/7Lbdxz43iVMlKrNTnc7AE6gfULs.jpg",
+               "id": 19123,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Dr. George Blonskij",
+               "gender": 2,
+               "credit_id": "52fe4315c3a36847f8039137",
+               "name": "Udo Samel",
+               "profile_path": "/kHdK0LHJcZr2hSfKy1WewfZsZzR.jpg",
+               "id": 6264,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Anna Schober",
+               "gender": 0,
+               "credit_id": "52fe4315c3a36847f803912f",
+               "name": "Anna Sigalevitch",
+               "profile_path": null,
+               "id": 19122,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Mme Gerda Blonskij",
+               "gender": 1,
+               "credit_id": "52fe4315c3a36847f803913b",
+               "name": "Cornelia Köndgen",
+               "profile_path": null,
+               "id": 19124,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Baritone",
+               "gender": 0,
+               "credit_id": "538204670e0a2657cd0030f5",
+               "name": "Thomas Weinhappel",
+               "profile_path": null,
+               "id": 1324138,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Man in drive-in",
+               "gender": 2,
+               "credit_id": "538204840e0a26588c005e2f",
+               "name": "Georg Friedrich",
+               "profile_path": "/fAlqZkiBB50B6xL5UK3b65f9Ddh.jpg",
+               "id": 40526,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Naprawnik",
+               "gender": 0,
+               "credit_id": "538204980e0a26588c005e34",
+               "name": "Philipp Heiss",
+               "profile_path": null,
+               "id": 1324139,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Teacher",
+               "gender": 2,
+               "credit_id": "538204a70e0a26588c005e39",
+               "name": "William Mang",
+               "profile_path": null,
+               "id": 1103919,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Director",
+               "gender": 2,
+               "credit_id": "538204b40e0a2657cd0030fd",
+               "name": "Rudolf Melichar",
+               "profile_path": null,
+               "id": 1324140,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Teacher",
+               "gender": 0,
+               "credit_id": "538204c50e0a2624c700a5dc",
+               "name": "Michael Schottenberg",
+               "profile_path": "/x4Xm7gfng4aAehujNEsTjym84HN.jpg",
+               "id": 48103,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Margot",
+               "gender": 0,
+               "credit_id": "538204d50e0a2624bd00a5b4",
+               "name": "Gabriele Schuchter",
+               "profile_path": null,
+               "id": 1324141,
+               "order": 13
+            },
+            {
+               "cast_id": 22,
+               "character": "Singing teacher",
+               "gender": 0,
+               "credit_id": "538204ee0e0a26588c005e3f",
+               "name": "Dieter Berner",
+               "profile_path": "/6ILfskQ6R7SH6FEo7806FnoHPWy.jpg",
+               "id": 141388,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Teacher",
+               "gender": 0,
+               "credit_id": "5a7790029251417769006a01",
+               "name": "Volker Waldegg",
+               "profile_path": null,
+               "id": 1972852,
+               "order": 15
+            },
+            {
+               "cast_id": 25,
+               "character": "Teacher",
+               "gender": 0,
+               "credit_id": "5a77900292514177540065d9",
+               "name": "Martina Resetarits",
+               "profile_path": null,
+               "id": 1972853,
+               "order": 16
+            },
+            {
+               "cast_id": 26,
+               "character": "Teacher",
+               "gender": 0,
+               "credit_id": "5a7790020e0a265985007388",
+               "name": "Annemarie Schleinzer",
+               "profile_path": null,
+               "id": 1972854,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "Teacher",
+               "gender": 0,
+               "credit_id": "5a779003c3a368225b006370",
+               "name": "Karoline Zeisler",
+               "profile_path": null,
+               "id": 1434515,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "Secretary",
+               "gender": 1,
+               "credit_id": "5a779003925141776300618d",
+               "name": "Liliana Nelska",
+               "profile_path": null,
+               "id": 146810,
+               "order": 19
+            },
+            {
+               "cast_id": 29,
+               "character": "Violinist",
+               "gender": 0,
+               "credit_id": "5a7790030e0a2659880072a3",
+               "name": "Luz Leskowitz",
+               "profile_path": null,
+               "id": 1972855,
+               "order": 20
+            },
+            {
+               "cast_id": 30,
+               "character": "Pianist",
+               "gender": 0,
+               "credit_id": "5a779004c3a3682265006d93",
+               "name": "Viktor Teuflmayr",
+               "profile_path": null,
+               "id": 1972856,
+               "order": 21
+            },
+            {
+               "cast_id": 31,
+               "character": "Woman in drive-in",
+               "gender": 1,
+               "credit_id": "5a779004c3a3682265006d98",
+               "name": "Vivian Bartsch",
+               "profile_path": "/j69u1akWR6ZbOm9XAdvm00C51so.jpg",
+               "id": 1139019,
+               "order": 22
+            },
+            {
+               "cast_id": 32,
+               "character": "Pupil",
+               "gender": 0,
+               "credit_id": "5a779004c3a3682265006d9d",
+               "name": "Florian Koban",
+               "profile_path": null,
+               "id": 1972857,
+               "order": 23
+            },
+            {
+               "cast_id": 33,
+               "character": "Haydn pianist",
+               "gender": 0,
+               "credit_id": "5a7790059251417766006469",
+               "name": "Thomas Auner",
+               "profile_path": null,
+               "id": 1972858,
+               "order": 24
+            },
+            {
+               "cast_id": 34,
+               "character": "Chopin Pianist",
+               "gender": 0,
+               "credit_id": "5a7790050e0a26597f007416",
+               "name": "Andreas Donat",
+               "profile_path": null,
+               "id": 1972859,
+               "order": 25
+            },
+            {
+               "cast_id": 35,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a7790050e0a2659820075a3",
+               "name": "Gerti Drassl",
+               "profile_path": "/wKF3sysI7kgpj9SiKJdwlSQlVd7.jpg",
+               "id": 45151,
+               "order": 26
+            },
+            {
+               "cast_id": 36,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a7790059251417769006a08",
+               "name": "Klaus Händl",
+               "profile_path": "/rGotjRzAvLOe0yj8vywLjUwcp8S.jpg",
+               "id": 134492,
+               "order": 27
+            },
+            {
+               "cast_id": 37,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a7790060e0a26597f00741a",
+               "name": "Erika Kollmann-Till",
+               "profile_path": null,
+               "id": 1164121,
+               "order": 28
+            },
+            {
+               "cast_id": 38,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a77900692514177540065df",
+               "name": "Nina Kripas",
+               "profile_path": null,
+               "id": 1972860,
+               "order": 29
+            },
+            {
+               "cast_id": 39,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a7790069251417769006a0c",
+               "name": "Esther Pils",
+               "profile_path": null,
+               "id": 1972861,
+               "order": 30
+            },
+            {
+               "cast_id": 40,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a7790079251417763006191",
+               "name": "Petra Reichel",
+               "profile_path": null,
+               "id": 1972862,
+               "order": 31
+            },
+            {
+               "cast_id": 41,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a7790070e0a265985007392",
+               "name": "Arbesi Sufi",
+               "profile_path": null,
+               "id": 1972863,
+               "order": 32
+            },
+            {
+               "cast_id": 42,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a77900792514177590068b7",
+               "name": "Marcus Zeuner",
+               "profile_path": null,
+               "id": 1972864,
+               "order": 33
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4315c3a36847f8039119",
+               "name": "Michael Haneke",
+               "profile_path": "/uRcHQ895xDeeaXoSRPoPgjbLe9L.jpg",
+               "id": 6011,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4315c3a36847f803911f",
+               "name": "Michael Haneke",
+               "profile_path": "/uRcHQ895xDeeaXoSRPoPgjbLe9L.jpg",
+               "id": 6011,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4315c3a36847f8039141",
+               "name": "Veit Heiduschka",
+               "profile_path": null,
+               "id": 6098,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4315c3a36847f8039147",
+               "name": "Francis Haines",
+               "profile_path": null,
+               "id": 19125,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4315c3a36847f803914d",
+               "name": "Christian Berger",
+               "profile_path": "/goGTj0r1IEzajrsctv3O4LkHunX.jpg",
+               "id": 6027,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4315c3a36847f8039153",
+               "name": "Christoph Kanter",
+               "profile_path": null,
+               "id": 6032,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4315c3a36847f8039159",
+               "name": "Annette Beaufays",
+               "profile_path": null,
+               "id": 19126,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a059447c3a3686a8c0176d5",
+               "name": "Elfriede Jelinek",
+               "profile_path": "/GB1KJDPzA5QLAjJfrjxgdIArRx.jpg",
+               "id": 1074827,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a89a5f89251417593067232",
+               "name": "Nadine Muse",
+               "profile_path": null,
+               "id": 6029,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a89a6089251417593067253",
+               "name": "Monika Willi",
+               "profile_path": null,
+               "id": 55491,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a89a6179251410aae0652ed",
+               "name": "Hans Wagner",
+               "profile_path": null,
+               "id": 1099108,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a89a6270e0a26545306ca84",
+               "name": "Françoise Andrejka",
+               "profile_path": null,
+               "id": 1694164,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a89a631c3a36862e1066d26",
+               "name": "Fabienne Bressan",
+               "profile_path": null,
+               "id": 1980872,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a89a63ac3a368637c06642d",
+               "name": "Ellen Just-Hofmann",
+               "profile_path": null,
+               "id": 1540783,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a89a6470e0a2652ab0665c2",
+               "name": "Thi-Loan Nguyen",
+               "profile_path": null,
+               "id": 1433965,
+               "department": "Costume & Make-Up",
+               "job": "Key Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a89a65b0e0a26401107dd6d",
+               "name": "Michaela Payer",
+               "profile_path": null,
+               "id": 1980874,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Effects Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a89a6659251417599063f63",
+               "name": "Waldemar Pokromski",
+               "profile_path": null,
+               "id": 17084,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Effects Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a89a6790e0a26400b068d06",
+               "name": "Jean-Pierre Laforce",
+               "profile_path": null,
+               "id": 1408831,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a89a684c3a368637c06646e",
+               "name": "Nadine Muse",
+               "profile_path": null,
+               "id": 6029,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a89a68ec3a368637c066479",
+               "name": "Guillaume Sciama",
+               "profile_path": null,
+               "id": 1097355,
+               "department": "Sound",
+               "job": "Sound Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 7.428645,
+      "production_countries": [
+         {
+            "iso_3166_1": "AT",
+            "name": "Austria"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         }
+      ],
+      "id": 1791,
+      "vote_count": 253,
+      "budget": 3000000,
+      "overview": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+      "similar": [
+         1259,
+         1024,
+         24420,
+         27066,
+         10995,
+         17612,
+         979,
+         13,
+         27,
+         627,
+         11224,
+         22971,
+         81774,
+         86331,
+         51828,
+         228205,
+         329103,
+         341174,
+         449176,
+         398818
+      ],
+      "original_title": "La Pianiste",
+      "runtime": 131,
+      "poster_path": "/ln8Ip9Etw4jxzxSuXSTwFqsfsSY.jpg",
+      "spoken_languages": [
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Arte",
+            "id": 201,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bavaria Film International",
+            "id": 11731,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bayerischer Rundfunk (BR)",
+            "id": 7333,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canal+",
+            "id": 5358,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": "/h4ZJb3wnffXHeeU6mtcldII84fo.png",
+            "name": "Centre National de la Cinématographie",
+            "id": 310,
+            "origin_country": "FR"
+         }
+      ],
+      "release_date": "2001-05-14",
+      "vote_average": 7.2,
+      "belongs_to_collection": null,
+      "tagline": "Perversion at its wicked best!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Austria",
+      "color": "Color",
+      "budgetCurrency": "\u20ac",
+      "directors": ["Michael Haneke"],
+      "runtime": 131,
+      "synopsis": "Erika Kohut (Isabelle Huppert) is a piano professor at a Vienna music conservatory. Although already in her forties, she still lives in an apartment with her domineering mother (Annie Girardot); her father is a long-standing resident in a lunatic asylum. Throughout the film, the audience is gradually shown truths about Erika's private life. Behind her assured façade, she is a woman whose sexual repression verges into full-fledged desperation and is manifested in a long list of paraphilias, including (but by no means limited to) voyeurism and sadomasochistic fetishes such as sexual self-mutilation. Upon meeting Walter Klemmer (Benoît Magimel), a charming 17-year-old engineering student from a bourgeois background, they begin to obsess one another. Even though she initially attempts to prevent consistent contact and even tries to undermine his application to the conservatory, he eventually becomes her pupil. Like her, he appreciates and is a gifted (if distinct) interpreter of Schumann and Schubert. She destroys the musical prospects of an insecure but talented girl, Anna Schober, driven by her jealousy of the girl's contact with Walter -- and also, perhaps, by her fears that Anna's life will mirror her own. She does so by hiding shards of glass inside one of her coat pockets, permanently damaging Anna's hands and ruining her aspirations to play at the forthcoming jubilee concert. Erika is then wholly sympathetic when the girl's mother (Susanne Lothar) asks for advice on her daughter's recuperation. (The sub-plot of the pupil and her mother, mirroring the main relationship in the film, is absent in Jelinek's novel.) In what clearly qualifies, at that point of the film, as dramatic irony, the girl's mother rhetorically asks Erika who could do something so evil. Walter is increasingly insistent in his desire to start a relationship with her. But when she finally acquiesces, Walter is unwilling to indulge her violent fantasies, which repulse him. The film climaxes, however, when he finally does. He attacks her in her apartment in the fashion she let him know she desired, violently raping her as she lies prostrate after receiving a beating from him. She discovers, finally, that the reality of her desires does not match her conception of them. Shortly thereafter, minutes before the concert in which she is supposed to fill in for Anna, Erika tries to enact some speculable form of revenge or call of attention on Walter, and when confronted with his hypocritical, smug indifference she puts a knife into herself and promptly leaves the auditorium. Her onscreen injury is not severe, but the implications of the whole ending scene leave it clear to the audience that more serious self-inflicted harm is a matter of course.",
+      "writers": [
+         "Michael Haneke",
+         "Elfriede Jelinek"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0254686/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYzODg2MzYyN15BMl5BanBnXkFtZTYwNzk0MTI5._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: Isabelle Huppert, Annie Girardot, Benoît Magimel | See full cast and crew »"],
+      "reviews": [
+         "If you think piano teacher Erika Kohut (Isabelle Huppert) in Michael Haneke's film \"LA PIANISTE\" is the ultimate degree in the personification of derangement, perversion and darkness, I've got news for you: the piano teacher in Elfriede Jellinek's novel \"LA PIANISTE\" (on which the film was based) is twice as \"repulsive\", \"disgusting\", \"deranged\" and even more fascinating -- though there can't be words enough to translate the level of artistic proficiency that Isabelle Huppert has reached here, above all other mortal actresses in activity today. And who else could have played this character with such emotional power, complete with the best piano playing/dubbing an actor could deliver? In the novel as in the film, there are two big antagonists to the \"heroine\" Kohut: her own mother (wonderful, wreck-voiced Annie Girardot, in a part originally intended for Jeanne Moreau) and Austria itself. The mother personifies Jellinek's perception of her native Austria as a country that deceptively and perversely encourages racist/fascist (or at least authoritarian) behavior, sexual and emotional repression, and, let's say, übermensch ideals which are impossible to keep today without the danger of a mental breakdown. \"La Pianiste\" also deals with a very powerful and delicate issue: how dangerous it is to reveal your innermost fantasies to the one (you think) you love. We tend to think our own sexual fantasies must be as exciting to others as they are to ourselves, which may turn out to be a huge, embarrassing and sometimes tragic mistake. Here, Kohut learns (?) the lesson in the most painful and humiliating of ways. It must be mentioned that Elfriede Jellinek is one of the best-known and praised authors in Austria and Europe (well, now she's got a Nobel Prize!) and that autobiographical passages can be inferred in her novel, as she herself was a pianist and had a reportedly difficult relationship with her mother. The novel also includes long passages about Kohut's childhood and adolescence so you kind of understand how she turned into who she is now. Haneke chose to hide this information in the film, forcing us to wonder how she got to be that way (don't we all know a Erika Kohut out there?). But he very much preserves the fabric of the book in his film: unbearable honesty, to the point where most secretive, \"horrendous\" feelings painfully emerge -- envy, cruelty, violence, jealousy, hate, misery, sadism, masochism, selfishness, perversion etc. All of them unmistakably human. I thought \"La Pianiste\" was a deeply moving film, very disturbing and thought-provoking, with a handful of unforgettable scenes, and that's just all I ask of movies. It also made me buy and be thrilled by the book, discover a fantastic author I hadn't read before, and listen again and again to Schubert - so, my thanks to Haneke, Jellinek and Isabelle!!! On the other hand, if you're looking for light entertainment, please stay away. My vote: 9 out of 10",
+         "The Metaphysics of Self-Denial. This comment is bound to provoke some controversy by disagreeing with those who have easily classified this film as an indictment of sexual repression and self-denial. Michael Haneke (as a film-maker) and brilliant Isabelle Huppert (as the music professor Erika Kohut) place sexual relationships within a larger frame of reference -- that of the boundaries of one's own SELF. Erika is a highly intelligent, perfectionistic, ambitious and driven woman, who has single-mindedly and relentlessly identified her whole self with her work and achievement. In a sense, she is madly competitive and is painfully sensitive to any kind of attempt to \"sideline\" her or, even more importantly, to take her and her opinions for granted. She is no puppet in anyone's theatre. She is unpredictable and that's one of her major instruments of self-assertion. She is overly harsh on everybody surrounding her -- you need a pair of plyers to pull the most modest words of praise from her tight mouth. Observe Erika's body language in the film: accentuated pride, not an insignificant dose of aplomb and even snobbishness, cold sternness, and extremely caustic sense of humor. But look more carefully: Erika is most harsh towards herself. Unimaginably and cruelly harsh on herself! Erika's fear of sex is not just a function of her mother's repression and other hackneyed reasons examined in thousands of other movies. Erika is first and foremost obsessed with what entering into any kind of a relationship, be it casual sexual intercourse or an enduring love affair, means to her sense of personal independence. She is prepared to forego relationships and suffer as a consequence, rather than to \"succumb\" and be forever unsure of whether she had given in or emerged on top. She experiences all human relationships, and sexual ones above all else, as a field of power play, of asymmetrical exchange of influences. And there is one thing she apparently cannot withstand at all -- and that's a thought, yes -- just a thought!, of yielding. Her world is truly stark and Gothic, it's a world of maximalist and dramatic choices -- yes or no, on top or on the bottom, bright or dark. She craves the most violent contrasts and cannot stand living in the zones of shades of grey. She understands only super- or subordination in the purest of forms. Many would probably be correct to argue that Erika's obsession with remaining beyond anybody's influences is in many ways an outcome of her total mental slavery to her mother. And this is obviously a valid point. But the film's posing of the problem of sex in explicit power-related terms, in terms of a power game with fluid rules and irredeemably uncertain outcomes should be the primary focus of analysis. The Piano Teacher's finale is resounding in its relentless dramatism and even stoicism. Erika's conscious pursuit of emotional self-denial for the sake of what she deems her true (and avaricious) God -- self-sufficiency and professional greatness reveals that there is her war with her own humanity and her attempt to become godlike (as one poet said, 'eternal, cold and true'). Her God is completely indifferent to her sufferings and human flaws and needs -- He demands constant sacrifices, demonstrations of loyalty (not unlike Abraham's readiness to slay his own son Isaac at the Almighty's behest). In that sense, her character is not totally unlike the character of the obsessive and self-destructive chess player Alexander Luzhin from The Luzhin Defence or the driven John Nash from The Beautiful Mind (the parallels should not be extended). These movies both show the curative powers of love. There angelical women serve to relieve masculine anguish and self-destructiveness. Here a man discharges this function. Erika's sexuality is a function of all these considerations and complications. As a highly intelligent and sensitive woman, she is aware that any action in a relationship may be interpreted in radically divergent ways. Consequently, she alternates haltingly and hysterically between the sadistic and masochistic modes, obsessing over she is in \"charge\" of a relationship. This shows even in the horrendous scene when Erika asks her potential lover Walter to beat her up. Equally interesting and intriguing are the two other main characters in the movie, Walter and Erika's pesky and nosy mother. Walter's deep attraction to Erika reveals his inner demons -- his fantasy to serve as a redeemer, a liberator of sorts for a self-destructive woman. He desires to redeem the male part of humanity by welcoming Erika into the world of \"normal\" human sexuality, by curing her of her pains and doubts. The more he takes upon himself the mantle of a heroic redeemer, the more intense her battle of wills with him becomes, the more symbolic her conflicts with him grow. In a sense, Walter loses in the end! He deprives Erika of her virginity but she pretends to be dead and ice-cold during the act: the ultimate rejection and delegitimation! Erika's mother is probably the true monster of the movie. Avaricious vampire of a human being. She buzzes with her annoying commentaries and bileful complaints over the viewer's ear like a mosquitto that she is. A spiteful, repulsive character. This is a highly disturbing and extremely thought-provoking movie with absolutely no clear answers. Bravo, Michael Haneke and Isabelle Huppert for a brilliant movie and an equally brilliant and tense performance!",
+         "Erika (Isabelle Huppert) is a fortyish piano teacher with deeply repressed sexual feelings. She lives with her mother (Annie Girardot), a controlling, oppressive woman, and deals with her erotic longings through voyeurism, visits to sex shops and self mutilation. She still sleeps with her mother. The film largely takes place at the conservatory where she teaches and at the apartment she shares with her mother. Huppert in an excellent on-disc interview says Erika longs to be loved but is frightened of seduction. She treats her students coldly but is drawn to one who is vain and handsome, and played by Benoit Magimel. The rest is the story of her creating and accepting a masochistic relationship with the young man that spirals down into her own psycho-sexual collapse. This movie won't be everyone's choice for an evening with the kids. It's a serious, disturbing film for adults that looks grimly at repressed feelings and emotional self destruction. For the grownups, it might put you off sado-masochism for a few days. It's a first-rate film. Isabelle Huppert is one of my favorite actors. Like Depardieu, she has no apparent screen vanity; she'll do what it takes for the role. She also has the rare ability to express deep, unsettling feelings with an absolute economy of expression. She is incredible in this film. I'm happy to have the movie, but to tell you the truth I'm not sure how many more times I'll watch it.",
+         "I cannot remember the last time I was so affected by a film. I was not so much moved as emotionally shattered. When I left the theatre I had no sense of where I was or what it would take to get home. Now I can write about it, compare it, classify it, and put it out of my mind so I can move on to the next film, anything to distance myself from the experience. This is not an easy film to watch and is difficult to recommend. The images are graphic and, at times, sickening, yet I found The Piano Teacher to be a film that touches the soul and can be overwhelmingly beautiful in its dark poetry. The Piano Teacher continues the theme of alienation of Laurence Cantet's Time Out, but brings it to a new level of separation from feeling and sensitivity. It is a study of the sexual repression of a middle-aged piano teacher (Isabelle Huppert), turned into a perverse, self-hating, and destructive relationship with a student (Benoit Magimel). The brilliant and powerful performances of the actors led to best acting awards for both at last year's Cannes Film Festival. The Piano Teacher is based on a 1983 novel by Elfriede Jelinek in which she drew on her relationship with a domineering mother, and on her own repressed sexuality. Though the film ostensibly takes place in Vienna, there is no real sense of location, only interiors that could be anywhere in the world. \"This is Never-Never land where nothing ends and nothing begins\", Jelinek says. Adding to the intensity, the TV is always on in the apartment as an unwanted and intrusive presence. The Piano Teacher is filled with great music and it is a redeeming quality of the film to be able to listen to beautiful performances of Schubert and Schumann (no relation). Yet Haneke shows us people who are surrounded by great music and are numb to the emotional experience. The characters talk about the great composers with cold and intellectual certainty, yet entirely without passion. In the much-discussed toilet scene, Haneke's camera brings you so close to the action that all you can do is squirm. Although the camera never goes below the waist, the game being played of sexual domination and submission is clearly visible in the facial expressions of the characters. Ultimately, there is no release for the tension created by a character who seems torn between madness and reason, who acts on strange impulses, seems completely estranged from humanity, but remains so deeply human that we can recognize a part of ourselves on the big screen. The temptation is to say these people are not me. They are so sick. Yes, that's true, they are not you, but isn't there is a part of Erika that is becoming more and more recognizable every day? We are increasingly surrounded by people who find it difficult to express emotion, who seek satisfaction but are unable to provide it, who are desensitized to violence and any kind of human empathy, who commit murder \"to see what it feels like\". Haneke's film seems to be challenging the audience's request for sex and violence in movies. From what I have read, he has made a habit of making movies that shock and repel audiences and has decided that filmmakers and audiences alike are responsible for the cycle of creating and consuming violence. In a statement in 1996, Haneke said \" My films are polemical statements against the American 'taking -by-surprise-before-one-can-think' cinema and its disempowerment of the spectator. It is an appeal for a cinema of insistent questioning in place of 'false-because-too-quick-answers', for clarifying distance in place of violating nearness. I want the spectator to think\". He has definitely made us think and it is not a comfortable experience.",
+         "I saw this film at the 2001 Toronto International Film Festival. La Pianiste reinforces the \"Austrians=grim\" thesis I'm formulating. Isabelle Huppert won a well-deserved Best Actress award at Cannes for her portrayal of a woman who, in her efforts to attain the artistic ideal, loses her humanity. Trapped by her talent, she suppresses her emotions and her sexuality until they can only be expressed in twisted and terrifying ways. When a younger student falls in love with her, our hopes rise, but are soon dashed by the realization that she cannot experience love the way others can. It is too late for her, and the film's final 30 harrowing minutes are, tellingly, devoid of the beautiful music that carried the first 90 minutes. The message seems to be that the music itself is not enough without the life and beauty it's describing.",
+         "Contains spoilers The Piano Teacher This is a case -psychologically speaking - of Oedipal alienation but for female type :namely the Electra complex (mother substitutes as father figure).We enter into Erika's life at a late stage of her development, where her mothers all encompassing influence and control has had many winters to sink its claws in.This story is the perfect example of the literary adage \" render ,don't report\" as the references and insights that elucidate the central character Erika's psyche ,are subtle and oblique at best. Upon studying her daily routine, her mannerisms, her body language ,one gets the sense of how pervasive her mothers influence has been.So much so that we witness the hardened , inured, cold, facade ,the icy veneer that has engrained itself and formed and defined her character and informed all parts of her existence ; a life of personal ennui.The subtext is thus - her mother, by being controlling centrepiece of the family , has so isolated her daughter and steered her into an ultra-disciplined life, which has manifested itself in the mastery of the piano, and in so doing stifled any claim for Erika to learn to engage in social interactions with emotional normalcy . Whilst sublimated ,one gets the impression that Erika's mother actually has resented her from birth and secretly desired a boy instead.Further ,Erika's subject of expertise is in the field that her father, who went mad ,pursued (again the mothers influence is seen to play a part). The alienation of Erika through her mother ,has been so complete that she has been unable to enter into any consentual adult emotional exchanges.We observe clear but subtle episodes revealing her mothers place in her world.Erika still sleeps in the same bed as her mother despite having a bedroom of her own.Erika's male interest Walter, says in a pique of rage , \"your daughter should have a key to her own bedroom \".Mother incessantly rings after her when Erika is out giving lessons or playing in private recitals, thereby suggesting that for Erika to be in a place that mother doesn't know about -simply cannot be countenanced.We observe Erika visiting a sex shop booth straight after giving a recital, as if to cleanse herself of the taint of the crushing inner oppression that is her lifestyle, to wash the veneer away for a short time, to shed the straight - jacket. One witnesses a world of grey for Erika,her fierce and resolute exterior masking her inability and her manifest desire to break through such walls.So ,immersed in her lifes work from a young age, endless hours at the keyboard, and with a none-to-subtle rejoinder by mother dear to \"never ever let them be better than you\" , Erika craves emotional freedom ,wildly desires to break the shackles but knows in her heart that she in unable to accomplish such : further she knows subconsciously that she no longer knows what this 'freedom' even is. Such ongoing psychological torment, with concomitant repression ,has led Erika to a high degree of helplessness, which in turn has led to self-loathing and has had her integrate such low value of self into her internal workings, which see her using the natural instinct of her libido to manifest her self hatred .Thus her sado masochistic tendencies.We see her blithely engage in genital mutilation and we know she has done this before.She so desires to be loved , knows instinctually how it could be , infers some sense of love's potential from peripheral events around her as she has grown up, but is totally inept in putting such into practice. Her sexual identity ,being inextricably defined now through her self loathing and sadomasochism ,has been steered into fascination with things external ,things that society has taught her are 'sexual'. Since she is granite ,her inured barrier keeping everything external at bay ,she has been able to 'feel' and use her sexual desires in the enjoyment of viewing things that are typically more a male domain.It is clear at the sex shop with video booth ,that she has been here many times before, Erika stares down the loiterers outside the booth, all males who are challenged and feel uncomfortable about a real flesh and blood woman entering their fantasy domain.The way she stares at the screen blankly ,but intently ,whilst inhaling odour of semen shows the inner workings of her turmoil. Her hardened visage is able to comfortably gaze down the men outside but she is more comfortable to watch than engage. Within the context of her classes, her life , she meets Walter ,who shows keen interest in her.We suspect that she is doomed to fail from the start with him. Her life and the film has a pall of inevitable downward spiral with her confronting her psyche, with only one possible outcome.Despite the fact that she tells him \"i want want you want\" in a sexual sense ,she also insists many times that he read the list of desires she ,naturally, has written down for him (not told him face to face). Contrary to norms of society that she must be aware of ,she still writes down all the perversions that her self hatred have ,over many many years , seemed to have defined for her as her means of escape from the vacuum of the shell she resides in .She wants to be beaten ,she wants all control stripped from her ,she wants to be hurt ,she wants to be degraded : we have a little girl crying out - in essence she wants to FEEL ,she wants to be LOVED. We are shown Erika late in the film , in bed with her mother , suddenly cry out and look to attack her mother ,try feebly to communicate with her ,to get through.There is a latent desire to strangle her I'm sure in her body language but her efforts don't last long as deep down she knows she can never do it .It is the paradoxical dilemma of having being repressed and sublimated by one individual yet it is that individuals approval that one seeks and which is never forthcoming : thus the vicious circle. We see her place glass into the coat pocket of her top student -Erika feels a little resentment toward her i would suspect in most part because she reminds Erika of herself and it is for this reason Erika places the glass in her pocket so as to help the student escape the morass of a life Erika knows all too well.Erika can see the same behaviours and outcomes with the students mother as her own.It is unconscionable to think of such arrant and willful violence against a young girl but from Erika's perspective ,such an act is somehow breaking the cycle,changing the girls destiny -to Erika ,for the better .Erika does this in a cold callous way from her visage it seems ,but twisted logic suggests it is a 'kind' thing to do. Erika ever so gently chides the girls mother in an interview after the accident, where the mother says \"we have given up so much\"( in piano training) and Erika reminds her that it is her daughter that has done so and this is THE central theme of the film. There seems to be a great deal of misunderstanding about this film .Many have labeled Erika 'disgusting' and 'sick'.We are not spoon fed the reason why she is as seen.We are seeing the end product.This film is not like many American releases where the prevailing sensibility is that the audience demand everything be explicated and neatly tied up with overly simplistic reasons for at best, bland motivations.To see Erika as perverted and loathsome ,is to miss the core of the character - she surely should evoke PITY.The sexual minutiae here are not the point.The performance of Huppert is stunning, to say the least.To maintain such neutrality of facial expression ,the merest flicker giving us a clue to Erika and her desires and coping mechanisms.A difficult role ,masterfully handled.Dross in the hands of many, somehow utterly poignant and meaningful as seen through her subtleties. The nub of the film , as i saw it, was the scene where Walter storms in and is determined to somehow 'give her what she wants'.The fantasy Erika has constructed for herself (her sadomasochistic wishes as described above) , that somehow to her were to be liberating ,fulfilling or just plain validating ,go horribly horribly wrong.The one idea that she had built up and held onto for years ,the wanton expression of her libido ,where she could eschew control and somehow regain indepence of self, of spirit ,of something (this film never pretends to be neat and easy) turns out to be an utterly pathetic ,degrading ,dispiriting misery.She is hit and kicked in the face ,and lies there in her own blood, and she is not free.She lies there bewildered,apathetic, half whispering to \"please stop\", and it dawns on her that the tightly constructed mechanism that had become her fantasy was nothing short of a farce.She lies there and it dawns on her that even her inner hope has failed her , been nothing like she imagined and that her drab existence will not change, her psychological conundrum will not be resolved.Of course - there was no other possible outcome. In a final denouement and act of rebellion - importantly done in a way where no one sees - Erika goes to the recital that the student can no longer perform -as Erika's mother says \"its ONLY a recital\" - in the deserted foyer knowing she will leave the audience sitting there waiting - stabs herself in the upper left chest - clearly stabbing for the heart, a death blow intended.The tortured look on Hupperts face for a brief moment is in stark contrast to the usual way we see her -maybe we are peering into her soul and witnessing her beast.Perhaps it is a symbol of the heart needing to be excised , it has taken too much suffering.As we see her walk away and out of building with a wound, we are left piteously wondering...saddened.",
+         "First let me put on the record, Isabelle Huppert gives a dynamite performance which is both disturbing,and ultimately very sad. It is a hard film to watch as the subject matter is quite disturbing. It is not the Caffe Latte S&M of pretty young twentysomethings exploring their boundaries here, it delves into the true nature of sexual perversity. Her character is a middle aged loner, successful musician and teacher , but incapable of having any type of life let alone a functioning relationship.Her sex life is also one of unhealthy obsession involving frequenting sex shops, voyeurism and sexual self mutilation. It also gets revealed as the film progresses that she holds deeply disturbing sexual fantasies that involve humiliation and violence being committed upon her. When she becomes involved with a student who has become infatuated with her, and tries to achieve the emotional salvation she longs for by sharing these obsessions with the young man there is tragic results. , Loneliness is a terrible burden to bear and part of the strength of the film is that the director, never reduces Huppert to a freak show. Her pain is apparent even though she is at many times a fairly odious (and occasionally downright psycopathic character) Hints of what has led her to this situation are given, the unhealthy co-dependant relationship she has with her mother, the perfectionism and driven nature that pervades her working life, madness in the family.In the end it doesnt really matter how it came about as it is an examination of a person in that state and how they fall apart both emotionally and mentally that is being examined here. There are many scenes which stayed in my mind long after the film ended: 2 particular scenes stood out for me: The scene both embarassing,horrific and also incredibly sad as the young student reads with disgust a letter Huppert has written to him in front of her detailing her sadomashocistic fantasies that she harbours.We are torn between horror at the graphic nature of the degradation she fetishizes and feel sorry for the horrible and humiliating rejection she receives at the hands of the young student. Also the gut wrenching final scene , the act of self mutilation and look of madness and despair on her face, the director has captured the despair and horror of so much of human existence. An important film to see but dont expect to be uplifted!",
+         "Isabelle Huppert must be one of the greatest actresses of her or any other generation. \"La Pianiste\" truly confirms it. As if that wasn't enough, Annie Girardot plays her mother and Annie Girardot is one of the greatest actresses of her or any other generation. So, as you may well imagine, those pieces of casting are worth the horror we're put through. Isabelle and Annie play characters we've never seen before on the screen. A mother and daughter yes but with such virulent fearlessness that sometimes I was unable even to blink or to breath. Personally, I don't believe in the director's intentions, I don't believe they (the intentions that is) go beyond the shocking anecdote and the ending made me scream with frustration but I was riveted by the story written in the face of the sensational Huppert and the fierceness of Girardot's strength. I highly recommend it to cinema lovers anywhere and to the collectors of great performances like me, you can't afford to miss \"La Pianiste\"",
+         "'The Piano Teacher' is the third Haneke movie I've seen. I didn't like the other two ('Funny Games' I thought was a cop out and 'Code Unknown' a bore) so I expected little from this one. However I was wrong to prejudge it. It's a very good movie, powerful, thought provoking and features a superb performance from Isabelle Huppert. She plays a Erika Kohut, a brilliant but highly repressed pianist. Walter Klemmer (Benoit Magimel) is a young man who is very sure of himself who attempts to seduce her. The thing is she is a deeply disturbed individual and he can't cope when her true nature is uncovered. I don't want to go into any great detail about Erika or her mental state. The movie reveals this slowly and beautifully. I was impressed that there was no attempt at pop psychology or pat explanations that you would expect in a Hollywood melodrama with similar subject matter. Huppert is extraordinary throughout. I can't think of many contemporary Hollywood actresses who could have played this role as convincingly. 'The Piano Teacher' is not for those who can't face the dark side of human nature. It's far from being a life affirming \"feel good\" movie. If the difficult subject matter of 'Irreversible' or 'The War Zone' interested you then this is your kind of movie. I can't say I \"enjoyed\" it, but it was a worthwhile, rewarding experience and how often do you get to say that these days?",
+         "In the first twenty minutes we are swept away by several powerfully portrayed emotions: a suffocating and overbearing mother has a violent argument with her live-in 40yr old daughter; a piano teacher (and professor of music)'s love for her pupils expressed in unswerving critical appraisal; the joy that music can inspire both in the listener and the performer. Within this short space of time our senses have been assaulted convincingly with very real characters. We are also swept away by powerfully performed music and shown the difference between great and mediocre performance with a lot of attention to nuance. Such material alone would have been the basis for an outstanding film of widespread appeal. But the trend in French cinema being what it is, it goes deeper, exploring the repressed sexuality of the teacher, the expression of sexual freedom and subsequent breakdown within a context of passionate attraction, and the inevitable cycle of real abuse. We are drawn to her suffering and, at least initially, wonder how much suffering may be related to the accomplishment of genius, particularly in the composers she admires. The Piano Teacher contains graphic dialogue and depictions of sex and brutality in scenes that some people might rather not watch. The scenes are essential to the dilemmas which the film seeks to raise and so can hardly be called gratuitous. A great film it may be, but mainstream viewing it is not."
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Arte",
+         "Bavaria Film International",
+         "Bayerischer Rundfunk (BR)"
+      ],
+      "summaries": [
+         "Erika Kohut is a pianist, teaching music. Schubert and Schumann are her forte, but she's not quite at concert level. She's approaching middle age, living with her mother who is domineering then submissive; Erika is a victim then combative. With her students she is severe. She visits a sex shop to watch DVDs; she walks a drive-in theater to stare at couples having sex. Walter is a self-assured student with some musical talent; he auditions for her class and is forthright in his attraction to her. She responds coldly then demands he let her lead. Next she changes the game with a letter, inviting him into her fantasies. How will he respond; how does sex have power over our other faculties?",
+         "A young man romantically pursues his masochistic piano teacher."
+      ],
+      "budget": 3000000
+   },
+   "movielensId": 5269,
+   "movielens": {
+      "languages": [
+         "Français",
+         "Deutsch"
+      ],
+      "releaseDate": "2001-05-14",
+      "dvdReleaseDate": "2002-11-05",
+      "directors": ["Michael Haneke"],
+      "runtime": 131,
+      "movieId": 5269,
+      "title": "The Piano Teacher",
+      "mpaa": "",
+      "actors": [
+         "Isabelle Huppert",
+         "Annie Girardot",
+         "Benoît Magimel",
+         "Susanne Lothar",
+         "Udo Samel",
+         "Anna Sigalevitch",
+         "Cornelia Köndgen",
+         "Thomas Weinhappel",
+         "Georg Friedrich",
+         "Philipp Heiss",
+         "William Mang",
+         "Rudolf Melichar",
+         "Michael Schottenberg",
+         "Gabriele Schuchter",
+         "Dieter Berner",
+         "Volker Waldegg",
+         "Martina Resetarits",
+         "Annemarie Schleinzer",
+         "Karoline Zeisler",
+         "Liliana Nelska",
+         "Luz Leskowitz",
+         "Viktor Teuflmayr",
+         "Vivian Bartsch",
+         "Florian Koban",
+         "Thomas Auner",
+         "Andreas Donat",
+         "Gerti Drassl",
+         "Klaus Händl",
+         "Erika Kollmann-Till",
+         "Nina Kripas",
+         "Esther Pils",
+         "Petra Reichel",
+         "Arbesi Sufi",
+         "Marcus Zeuner"
+      ],
+      "imdbMovieId": "0254686",
+      "originalTitle": "La Pianiste",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["XNCBd2DaSpc"],
+      "plotSummary": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+      "tmdbMovieId": 1791,
+      "avgRating": 3.55487,
+      "releaseYear": "2001",
+      "numRatings": 1130,
+      "posterPath": "/ln8Ip9Etw4jxzxSuXSTwFqsfsSY.jpg"
+   }
+}

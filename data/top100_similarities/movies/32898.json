@@ -1,0 +1,459 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "moon",
+            "id": 305
+         },
+         {
+            "name": "mushroom",
+            "id": 333
+         },
+         {
+            "name": "dream",
+            "id": 1566
+         },
+         {
+            "name": "expedition",
+            "id": 1963
+         },
+         {
+            "name": "cannon",
+            "id": 3242
+         },
+         {
+            "name": "star",
+            "id": 3412
+         },
+         {
+            "name": "earth",
+            "id": 4627
+         },
+         {
+            "name": "satire",
+            "id": 8201
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "astronomer",
+            "id": 10222
+         },
+         {
+            "name": "short",
+            "id": 214549
+         }
+      ],
+      "imdb_id": "tt0000417",
+      "video": false,
+      "title": "A Trip to the Moon",
+      "recommendations": [
+         5698,
+         160,
+         626,
+         234,
+         992,
+         643,
+         774,
+         662,
+         82120,
+         653,
+         901,
+         26317,
+         961,
+         10098,
+         780,
+         2963,
+         147,
+         701,
+         631,
+         133063
+      ],
+      "backdrop_path": "/u2NBDskoEAcm1bkizX5f9zoxL34.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 11,
+               "character": "Professeur Barbenfouillis",
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f8020189",
+               "name": "Georges Méliès",
+               "profile_path": "/cjQ3IvPbkNArGjhj4dkGqEwOgdW.jpg",
+               "id": 11523,
+               "order": 0
+            },
+            {
+               "cast_id": 12,
+               "character": "Pilote de la fusée",
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f802018d",
+               "name": "Henri Delannoy",
+               "profile_path": null,
+               "id": 11644,
+               "order": 1
+            },
+            {
+               "cast_id": 13,
+               "character": "Femme de la Lune",
+               "gender": 1,
+               "credit_id": "52fe4275c3a36847f8020191",
+               "name": "Bleuette Bernon",
+               "profile_path": null,
+               "id": 11645,
+               "order": 2
+            },
+            {
+               "cast_id": 14,
+               "character": "Astronom",
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f8020195",
+               "name": "Brunnet",
+               "profile_path": null,
+               "id": 11647,
+               "order": 3
+            },
+            {
+               "cast_id": 15,
+               "character": "o. A.",
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f8020199",
+               "name": "Victor André",
+               "profile_path": null,
+               "id": 28963,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "o. A.",
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f802019d",
+               "name": "Jeanne d'Alcy",
+               "profile_path": "/21nbESBhrnYkdeoJzKAFfuFMk5m.jpg",
+               "id": 28964,
+               "order": 5
+            },
+            {
+               "cast_id": 17,
+               "character": "o. A.",
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f80201a1",
+               "name": "Depierre",
+               "profile_path": null,
+               "id": 28965,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Astronomer",
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f80201a5",
+               "name": "Farjaut",
+               "profile_path": null,
+               "id": 28966,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Astronomer",
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f80201a9",
+               "name": "Kelm",
+               "profile_path": null,
+               "id": 28967,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Officer of the Marines",
+               "gender": 2,
+               "credit_id": "57072e149251412b030017a3",
+               "name": "François Lallement",
+               "profile_path": null,
+               "id": 1271225,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Parade Leader",
+               "gender": 2,
+               "credit_id": "57072e519251412b090016c3",
+               "name": "Jules-Eugène Legris",
+               "profile_path": null,
+               "id": 1602569,
+               "order": 10
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f802015b",
+               "name": "Georges Méliès",
+               "profile_path": "/cjQ3IvPbkNArGjhj4dkGqEwOgdW.jpg",
+               "id": 11523,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4275c3a36847f8020161",
+               "name": "Jules Verne",
+               "profile_path": "/cFBorm2GCm2UKHQjg0IlRPnI8wh.jpg",
+               "id": 2088,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f8020167",
+               "name": "Robert Israel",
+               "profile_path": null,
+               "id": 11524,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f802016d",
+               "name": "Claudel",
+               "profile_path": null,
+               "id": 11527,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f8020173",
+               "name": "Georges Méliès",
+               "profile_path": "/cjQ3IvPbkNArGjhj4dkGqEwOgdW.jpg",
+               "id": 11523,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4275c3a36847f8020179",
+               "name": "H.G. Wells",
+               "profile_path": "/U8KahQDA3jjKToWl7Ho6df8BML.jpg",
+               "id": 11624,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f802017f",
+               "name": "Georges Méliès",
+               "profile_path": "/cjQ3IvPbkNArGjhj4dkGqEwOgdW.jpg",
+               "id": 11523,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f8020185",
+               "name": "Georges Méliès",
+               "profile_path": "/cjQ3IvPbkNArGjhj4dkGqEwOgdW.jpg",
+               "id": 11523,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f80201af",
+               "name": "Théophile Michault",
+               "profile_path": null,
+               "id": 1129746,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4275c3a36847f80201b5",
+               "name": "Lucien Tainguy",
+               "profile_path": null,
+               "id": 11526,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56b8dc6ec3a368746b000880",
+               "name": "Georges Méliès",
+               "profile_path": "/cjQ3IvPbkNArGjhj4dkGqEwOgdW.jpg",
+               "id": 11523,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56b8dca4c3a3687476000977",
+               "name": "Jeanne d'Alcy",
+               "profile_path": "/21nbESBhrnYkdeoJzKAFfuFMk5m.jpg",
+               "id": 28964,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 7.190843,
+      "production_countries": [{
+         "iso_3166_1": "FR",
+         "name": "France"
+      }],
+      "id": 775,
+      "vote_count": 429,
+      "budget": 5985,
+      "overview": "A Trip to The Moon is a science fiction film from the French film pioneer Georges Méliès from the year 1902 about a trip to the moon. The film was the first film with a self-contained plot and was the beginning of the Science Fiction genre.",
+      "similar": [
+         12092,
+         17654,
+         41513,
+         9016,
+         563,
+         150540,
+         11360,
+         21385,
+         167,
+         7450,
+         326359,
+         2210,
+         16306,
+         4593,
+         626,
+         50357,
+         4977,
+         5698,
+         461955,
+         20722
+      ],
+      "original_title": "Le Voyage dans la Lune",
+      "runtime": 14,
+      "poster_path": "/emuYkqLndEqeVNY5LpFvGXfAO3O.jpg",
+      "spoken_languages": [
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "No Language",
+            "iso_639_1": "xx"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Star-Film",
+         "id": 7159,
+         "origin_country": ""
+      }],
+      "release_date": "1902-09-01",
+      "vote_average": 7.9,
+      "belongs_to_collection": null,
+      "tagline": "A voyage to narrative cinema",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": "FRF ",
+      "directors": ["Georges Méliès"],
+      "runtime": 13,
+      "synopsis": "The movie opens with a Scientific Congress in which Professor Barbenfouillis (played by Melies) tries to convince his collegues to take part in a trip to explore the moon. Once his plan is accepted, the expedition is organized and the scientists are sent to the moon on a space ship. The missle-like ship lands right in the eye of the moon, which is represented as an anthropomorphic being. Once on the surface, the scientists soon meet the hostile inhabitants, the Selenites, who take them to their King. After discovering that the enemies easily disappear in a cloud of smoke with the simple touch of an umbrella, the French men manage to escape and return to earth. They fall into the ocean na explore the abyss until they are finally rescued and honored in Paris as heroes.",
+      "writers": [],
+      "originalLanguage": null,
+      "imdbLink": "http://www.imdb.com/title/tt0000417/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQzMDYxNzUxNl5BMl5BanBnXkFtZTgwMjgxNjkxMTE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Georges Méliès, François Lallement, Jules-Eugène Legris | See full cast and crew »"],
+      "reviews": [
+         "A group of astronomers hold a meeting where they discuss how to travel to the Moon. The head astronomer proposes that they build something like a huge gun or cannon and fire themselves at the lunar face. After some argument, this is agreed upon, and we see the construction of the cannon and its bullet-like capsule. Once on the moon, the astronomers discover the strange civilization of the Selenites. A Trip to the Moon (aka Le Voyage dans la lune, Voyage to the Moon, and even A Trip to Mars, curiously enough) is usually considered the first token sci-fi film. \"Token\" is important there, as this surely isn't the first film we could call sci-fi--even Trip to the Moon director/writer/producer/star/production designer/etc. George Méliès' own The Astronomer's Dream, or The Man on the Moon (Le Rêve d'un astronome, 1898) predates this by four years. But this is the first widely known and accepted sci-fi film, with a significant length, and it has the important distinction of a pithy, well-told story, which Méliès based on Jules Verne's De la Terre à la Lune (From the Earth to the Moon), first published in 1865, and parts of H.G. Wells' The First Men in the Moon, first published in 1901. The fact that it was intended as something of a parody is often overlooked, and recontextualizes its sci-fi progenitor status quite a bit, but in a positive way. Like horror, sci-fi frequently walks a fine line between camp and seriousness, so it is appropriate for the token seminal film to have parodic elements. Far more important than A Trip to the Moon's relation to sci-fi, however, is its significance as a film, without genre qualification. Unlike most of the other early film pioneers, Méliès had a background in show business. He was a skilled magician/illusionist who took over a famed Paris venue, the Théâtre Robert-Houdin. Méliès embraced the theatricality of film, always searching for ways to make the new medium approximate the ideals (well, or at least the ideals of the fantasy and spectacle side) of the theater. Thus, he made rapid advances in production design, literary content, special effects and further developed an early form of editing, providing a bridge between the early shorts, which were purely mise-en-scène, to a more modern form of montage. A Trip to the Moon's scenes, with their elaborate production design, complete with backdrops painted by Méliès, are still constructed in a way similar to Thomas Edison's The Barbershop (1894), or the Lumière Brothers' Baignade en mer (1895)--that is, with complex, layered, contrapuntal motion playing out before a static camera, which represents the audience's point of view as they watch the action unfold on a \"stage\". The difference is that whereas Edison and Lumière tended to shoot for a feigned naturalism (in some cases--but far fewer than the conventional wisdom has it--actually capturing a \"natural\" event), Méliès tries to see how far he can push the fantastical. The result is a film that is as much an example of surrealism as anything else. If you have a taste for those genres--as well as for sci-fi, the absurd, and so on--as I do, and you are acclimated to silent films, you are sure to love A Trip to the Moon. The sets are amazing. The painted backdrops merge seamlessly with the constructed portions and props, creating locations with great \"depth\", in worlds that seem to surreal exist and have a long history. There are a number of ingenious techniques used to further the illusions, such as the smoke pouring out of the Parisian factories (probably a satirical depiction of some of the negative results of the Industrial Revolution) as the astronomers, who are initially amusingly dressed like wizards/alchemists in long flowing robes and large pointed hats, mount the building to begin their journey. Although some of the special effects and illusions are fairly transparent--such as the descending portions of scenery to enhance the effect of the \"Earthrise\", most are surprisingly sophisticated. Visually, Méliès is as impressive as even many modern instantiations of special effects, matte paintings and such. He certainly trumps much low-budget science fiction--even through the 1960s and 1970s--in this department, plus the surrealistic touches give him an edge that I would like to see more in modern films. Just as important, the story is very entertaining. The pacing and narrative construction sustains your interest and manages to make a short that is less than 15-minutes long seem as substantial as a 90-minute feature. Although I've seen versions in the past without it, I now have a version with the intended voice-over narration included (in Kino's \"The Movies Begin\" box set). This greatly enhances the film, especially as it is frequently but dryly funny. Much has been said, and maybe not just by Freudians, of the sexual subtexts of A Trip to the Moon. For example, the astronomers are assisted by Parisian showgirls, or \"manservants\", in sexy clothing (they now seem somewhat prescient of the costumed and uniformly choreographed showgirls to come in Hollywood musicals). They build a large gun to shoot themselves to the Moon, and they land with a \"spurt\" in the Moon's eye. Whether or not any of that was intended (although Freudians, at least, would say it doesn't matter if it was intended), there are more than enough comical and satirical takes on astronomers, space travel/the nature of space, and the \"reality\" of the Moon and its surprising inhabitants to keep anyone entertained. This is truly one of the earliest masterpieces of cinema.",
+         "\"A Trip to the Moon\" is justly the most popular early film. I've seen thousands of early short movies and have commented on the most interesting cases, but this one is more amusing and imaginative than the rest. It's better than Georges Méliès's other surviving pictures because it has a more developed story--without the tableau vivant style becoming as boring as it usually does. Wacky humor and trick shots help, but that's in the rest of his oeuvre, too. Influenced by the works of Jules Verne and H.G. Wells, as well as Adolphe Dennery's adaptation of those pieces, the story is about a gang of astronomers, who, launched from a cannon onto the Moon, encounter explosive aliens (or \"Selenites\", as Méliès called them). Méliès used the stop-motion (or substitution-splice) effect and arising smoke for explosive characters in many of his films--same with superimpositions, animated miniatures and placing a fish tank in front of the camera. Additionally, his set designs were the best of the day. I easily forget it's all done within a cramped studio. He often used moving props, too, but this is one of the few that I've seen where the prop is pulled towards the camera--creating the famous rocket kissing the moon's eye gag. The following shot is a temporal replay of that action from a different perspective. It works here, but Edwin S. Porter would make the mistake of adopting the technique for \"Life of an American Fireman\", which was reedited later, leading many to believe it was a landmark in narrative editing. The \"30 tableaux\", as Méliès called it, is linked by dissolves--a common transition at the time, which Méliès introduced. Méliès made it known that his goal was to push cinema towards resembling theatre. The benefit was longer films with more developed stories. Given this, it's ironic that Méliès was one of the first filmmakers to achieve effects specific to motion pictures (i.e. incapable of being produced in theatre or other artistic media)... i.e. the trick shots. Numerous early shorts are blatant imitations of Méliès's work, but they usually weren't as funny or creative. Many studios even duped his films and sold them as their own, which led to Méliès patenting his work in the U.S. and joining the Motion Pictures Patents Company (MPPC). \"A Trip to the Moon\" represents the height of his career. His work would soon diminish under the hectic schedule of the Nickelodeon age and the monopolization by the MPCC and Pathé, and he would end up burning his own negatives. Watch Jacques Meny's documentary \"La Magie Méliès\" (1997) for a good telling of his life and films. (Note: This is one of four films that I've commented on because they're landmarks of early narrative development in film history. The others are \"As Seen Through a Telescope\", \"The Great Train Robbery\" and \"Rescued by Rover\".)",
+         "The face of cinema has been changed drastically, and the expectations from the viewers have also been changed. Nowadays we have a bunch of options before choosing a movie, from realistic dinosaurs to computer generated images and from mind throttling actions to terrifying stunts, we have them all but in this era of technology nobody can ignore the true genius of George Melies, as I had seen 'A Trip to The Moon' I was amazed that what he had done in 1902 with all his limitations. The 14 min of this short movie captivates you and the vision of Jules Verne was precisely conveyed. The editing, photography, and special effects created by Melies are immaculate. And the way he showed the landing of a rocket on the moon was very much humorous as the rocket landed on the eye of personified moon and how the native of moon threatened the astronomers to leave. These types of movies are the edifice of today's fantasy movies .In the end it's the best work by Melies and worth a watch",
+         "As one of the first films of the science fiction genre, \"Le Voyage Dans la Lune\" (or \"A Trip to the Moon\") is revered as the greatest achievement of stage magician and film pioneer Georges Méliès and one of the most important movies ever done. Written and directed by Méliès himself, \"Le Voyage Dans la Lune\" is a wonderful visual fantasy that shows Méliès' imagination at its wildest form, and how with limited resources and lots of creativity he managed to make a film like nothing the world had ever seen before. \"A Trip to the Moon\" is loosely based on the books \"From the Earth to the Moon\" by Jules Verne, and \"The First Men in the Moon\" by H. G. Wells, as it deals with the adventures of a group of astronomers in their first travel to the moon and the wonders and dangers of their Odyssey. After arriving to the Moon in their bullet-shaped spaceship (it was launched by a giant cannon), they discover the Selenites, the people from the Moon; and as their presence is unwelcome, the group of astronomers will have to fight for their survival. With a runtime of barely 14 minutes, \"Le Voyage Dans la Lune\" is an awe-inspiring ride of fantasy, adventure and magic that more than 100 years after its release, still captures the imagination with its wonderfully crafted visuals and its charming comedy. The plot is very well-written, as the story flows nicely and although of a very simple nature, it's very well-developed and really entertaining showing that Méliès was a gifted storyteller. However, the most amazing feature of \"A Trip to the Moon\" is without a doubt its amazing visuals. With a mix of stage tricks, camera tricks, and several types of animation, Méliès crafts a surreal fantastic vision of the Moon with the care of a painter and great artistic sensibility. It's almost as if a painting came to life. The now iconic image of the Man in the Moon being hit in the eye by the spaceship is only one of the many amazing scenes that the genius of Méliès crafted with great imagination. Director D.W. Griffith said about Méliès, \"I owe him everything\" and Charles Chaplin called him \"the alchemist of light\" and both men were absolutely right in their remarks. Georges Méliès' work is a must-see for every film buff and I dare to say, for everyone in general as in its simplicity, it conveys humanity's most powerful trait: Imagination. \"Le Voyage Dans la Lune\", Méliès's most famous film, is without a doubt an immortal classic and one of the greatest films ever done. 10/10",
+         "I saw this short but excellent silent film, when I was little, and it still looks great after a century of age. Despite the very primitve special effects, and the obvious phony description of the moon itself. Heck proably this movie can be made by any eight year-old today, but the overall plot and theme of the movie is well understood. The movie's director Georges MÃ©liÃ¨s, knew how to arouse people's imagination's and thought this project would work, and it did! Too bad, he didn't earn a cent on American expenses of the movie, which he wasn't expected. They even feature this movie on the famous HBO series \"From the earth to the Moon\" complete with an archieve interview of one of the person involved, I forget his name, but all fans of the wonderful film, should catch the last part of that series, they show how in great detail how the film was made and all the troubles they went through. In all, anyone can enjoy this, who knows? maybe people will think the same of our movies, 100 years from now!",
+         "George Melies's `A Trip to the Moon' welcomes a change in film making of the twentieth century. Combined with live action as well as models, the movie tells a story about astronauts who take a trip to the moon. The moon, having a human face captures the astronauts after they crash into its eye. They later escape the moon and it's moon-men and make it back to earth safely. Melies wrote, directed and starred in this movie. He used many important techniques in his films to make them successful. Not only did he develop editing skills and superimposed images, he also used double exposure to complete the magic behind his films. Still used today, Melies's special effects, small models, painted backgrounds, weird makeup and costumes were just some of the important things used in the movie `A Trip to the Moon.' For the filmmaker Melies, the use of stop action photography played an important role in `A Trip to the Moon.' He specialized in making objects vanish or change by stopping and restarting his camera. The use of self-painted sets, real people along with animated figures and the placement of real faces on objects helped this 1902 movie draw in his audience and leave them with many astonished looks.",
+         "A group of astronomers studies the way to travel to the moon. When they conclude their project, the president selects five other astronomers to travel with him. They embark in a shell and they are shot from a giant cannon to the moon. When they land, they seek shelter in a cave to protect from the snow. They meet the Selenites, the alien inhabitants of the moon, and they are destroyed by the astronomers that find that a strong hit make them explode. However, they arrive in large number and the astronomers are captured by the Selenites. But one astronomer hits their king that explodes and they run to the capsule pursued by the alien. They drop the capsule that falls through the space and reach the ocean. Then they are rescued by a steamer that brings the team safe and sound ashore. \"Le Voyage Dans la Lune\" is the first sci-fi and considered among the greatest films of the cinema history. The story uses impressive animation and special effects for a 1902 silent movie. The plot is a non-sense surrealistic comedy in the present days, but this French film is mandatory to any movie lover or student. My vote is eight. Title (Brazil): \"Viagem à Lua\" (\"Travel to the Moon\")",
+         "This film is an amazing technical feat for any era but especially so when one regards it's utter uniqueness in relation to anything that had been created at the time. The film is an embodiment of cinematic revolution coming only eight years after the Edison shorts, which had been dazzling when first released, it made all other films look ordinary and unimaginative in the face of the abounding creativity that the film demonstrates. The special effects are mind-blowing when taken in the context of the era in which it was released and the tight, structured narrative provides amusement and enjoyment for fans today, over 100 years after the film's release. The child-like creativity of the director enhances the enjoyment of the film and serves to create a world into which the audience is invited with the utmost enthusiasm. A genuine feat of making what would have previously been considered impossible possible, this is a must see for all fans of cinema of all ages, as more than any other film this can lay claim to giving birth to cinema as we know it.",
+         "Georges Melies is often credited with being the cinema's father of fantasy, and his 1902 short A Trip to the Moon would seem to support that contention. Full of imaginative uses of editing and photography and inspired by the works of Jules Verne, the film contains one of the most recognizable images in motion picture history: the sleek, steel-riveted rocket ship jutting out from one of the eye sockets of an expressive man in the moon. Most historical accounts of Melies indicate that he was a trained stage magician whose skills were well-adapted to the new medium of the cinema, but he was also the first filmmaker to produce \"commercials\" (in the sense of advertising films for a variety of companies). A Trip to the Moon is still surprisingly enjoyable and bursts with many of Melies' technical innovations.",
+         "This is a wonderful historical treasure, made with care and skill by one of the masters of early motion pictures. It is also entertaining to watch, in addition to its historical value, since it is loaded with creative ideas both in the story and in the way it was made. While many of the techniques that Méliès used are now considered outdated, almost of them still hold up well as you watch it. It's fascinating to see the ways that he used his amazing imagination to solve some of the technical challenges, in order to produce the effects that he wanted. It's equally fascinating to see the conception of space travel (mostly based on Jules Verne). It may have scientific flaws that are known to later generations, and it is sometimes stylized, but it shows marvelous inventiveness. It's no wonder that this is one of the best-remembered films from cinema's earliest years."
+      ],
+      "genres": [
+         "Short",
+         "Adventure",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": ["Star-Film"],
+      "summaries": [
+         "A group of men travel to the moon by being shot in a capsule from a giant cannon. They are captured by moon-men, escape, and return to the earth.",
+         "An association of astronomers has convened to listen to the plan of Professor Barbenfouillis, their president, to fly to the moon. With the one dissenting voice quashed by Barbenfouillis and the other members, the plan is approved with Barbenfouillis choosing five others to accompany him. Most of the preparation for the trip is in building the vessel and launching mechanism, which resemble a large bullet and a large gun respectively. Hitting the moon in the eye, the six land safely at their destination. They find that much about the moon is wonderful and fantastical, but also that much is not what they would have liked to encounter as it is life threatening. They have to find a way to get out of their alien predicament to get back home safely.",
+         "This early silent film by master artist and film pioneer Georges Melies is considered a classic by many film buffs. Although it runs for only 14 minutes this whimsical fantasy really focuses on an astronomers dream.",
+         "A group of astronomers studies the way to travel to the moon. When they conclude their project, the president selects five other astronomers to travel with him. They embark in a shell and they are shot from a giant cannon to the moon. When they land, they seek shelter in a cave to protect from the snow. They meet the Selenites, the alien inhabitants of the moon, and they are destroyed by the astronomers that find that a strong hit make them explode. However, they arrive in large number and the astronomers are captured by the Selenites. But one astronomer hits their king that explodes and they run to the capsule pursued by the alien. They drop the capsule that falls through the space and reach the ocean. Then they are rescued by a steamer that brings the team safe and sound ashore.",
+         "A group of astronomers go on an expedition to the moon."
+      ],
+      "budget": 30000
+   },
+   "movielensId": 32898,
+   "movielens": {
+      "languages": [
+         "Français",
+         "No Language"
+      ],
+      "releaseDate": "1902-09-01",
+      "dvdReleaseDate": "1997-11-26",
+      "directors": ["Georges Méliès"],
+      "runtime": 14,
+      "movieId": 32898,
+      "title": "A Trip to the Moon",
+      "mpaa": "",
+      "actors": [
+         "Georges Méliès",
+         "Henri Delannoy",
+         "Bleuette Bernon",
+         "Brunnet",
+         "Victor André",
+         "Jeanne d'Alcy",
+         "Depierre",
+         "Farjaut",
+         "Kelm",
+         "François Lallement",
+         "Jules-Eugène Legris"
+      ],
+      "imdbMovieId": "0000417",
+      "originalTitle": "Le Voyage dans la Lune",
+      "genres": [
+         "Adventure",
+         "Fantasy",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "7JDaOOw0MEE",
+         "_FrdVdKlxUk",
+         "s5x_M_vcNVY"
+      ],
+      "plotSummary": "A Trip to The Moon is a science fiction film from the French film pioneer Georges Méliès from the year 1902 about a trip to the moon. The film was the first film with a self-contained plot and was the beginning of the Science Fiction genre.",
+      "tmdbMovieId": 775,
+      "avgRating": 3.73891,
+      "releaseYear": "1902",
+      "numRatings": 676,
+      "posterPath": "/emuYkqLndEqeVNY5LpFvGXfAO3O.jpg"
+   }
+}

@@ -1,0 +1,495 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "saving the world",
+            "id": 83
+         },
+         {
+            "name": "dc comics",
+            "id": 849
+         },
+         {
+            "name": "superhero",
+            "id": 9715
+         },
+         {
+            "name": "based on comic",
+            "id": 9717
+         },
+         {
+            "name": "surrealism",
+            "id": 9887
+         },
+         {
+            "name": "super power",
+            "id": 33637
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt1494772",
+      "video": false,
+      "title": "Justice League: Crisis on Two Earths",
+      "recommendations": [
+         76589,
+         22855,
+         14011,
+         45162,
+         17445,
+         103269,
+         217993,
+         56590,
+         297556,
+         43641,
+         13851,
+         65291,
+         13640,
+         40662,
+         183011,
+         69735,
+         323027,
+         379291,
+         166076,
+         15359
+      ],
+      "backdrop_path": "/m8pvzH17KRA4ChPjDDkU781oN8W.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Superman (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000cad",
+               "name": "Mark Harmon",
+               "profile_path": "/vzthrZ2QidVi1iMMOYFzAohhVpj.jpg",
+               "id": 19728,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Batman (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000cb1",
+               "name": "William Baldwin",
+               "profile_path": "/1G9Y076nnZaobTAtzRefZd8rFNN.jpg",
+               "id": 13021,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Owlman (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000cb5",
+               "name": "James Woods",
+               "profile_path": "/fl5Jx1WFvBcg1b9VZRfXTH6LPUE.jpg",
+               "id": 4512,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Green Lantern (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000cb9",
+               "name": "Nolan North",
+               "profile_path": "/3mCPGjyH6bzSZ6yYE4Um1ntsz6x.jpg",
+               "id": 19508,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Lex Luthor (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000cbd",
+               "name": "Chris Noth",
+               "profile_path": "/3jcFzNuD9rXu1h9EwMlItNe4PZn.jpg",
+               "id": 38026,
+               "order": 4
+            },
+            {
+               "cast_id": 19,
+               "character": "Lois Lane (voice)",
+               "gender": 1,
+               "credit_id": "52fe43f99251416c91000d01",
+               "name": "Erica Durance",
+               "profile_path": "/kshDl70fwwTHOvog60VFqMjCFUL.jpg",
+               "id": 46897,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Super Woman (voice)",
+               "gender": 1,
+               "credit_id": "52fe43f99251416c91000cc1",
+               "name": "Gina Torres",
+               "profile_path": "/sLlS5wvXtHoOXBcTRKiB7Hk5Cn2.jpg",
+               "id": 9576,
+               "order": 6
+            },
+            {
+               "cast_id": 7,
+               "character": "Ultraman (voice)",
+               "gender": 0,
+               "credit_id": "52fe43f99251416c91000cc5",
+               "name": "Brian Bloom",
+               "profile_path": "/anjQjnecB4dEsm4HoqgDcYbXlg1.jpg",
+               "id": 4753,
+               "order": 7
+            },
+            {
+               "cast_id": 8,
+               "character": "Johnny Quick (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000cc9",
+               "name": "James Patrick Stuart",
+               "profile_path": "/pMrM9hZ2fEieEw4H46mHAhf7Q8T.jpg",
+               "id": 105641,
+               "order": 8
+            },
+            {
+               "cast_id": 9,
+               "character": "The Flash (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000ccd",
+               "name": "Josh Keaton",
+               "profile_path": "/a5V2UtUKApe38ZW9OiZbFRAvvTh.jpg",
+               "id": 20903,
+               "order": 9
+            },
+            {
+               "cast_id": 10,
+               "character": "Power Ring (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000cd1",
+               "name": "Jeff Bennett",
+               "profile_path": "/bms3A7TA0QItjtUlB28qv4MFFAH.jpg",
+               "id": 34982,
+               "order": 10
+            },
+            {
+               "cast_id": 11,
+               "character": "Martian Manhunter (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000cd5",
+               "name": "Jonathan Adams",
+               "profile_path": "/iz0BqE9y5NAgMxjOjwrB1BuLHFl.jpg",
+               "id": 13477,
+               "order": 11
+            },
+            {
+               "cast_id": 12,
+               "character": "Wonder Woman (voice)",
+               "gender": 1,
+               "credit_id": "52fe43f99251416c91000cd9",
+               "name": "Vanessa Marshall",
+               "profile_path": "/wOXilt4TVOd0LuTw6RbWhe5DUy4.jpg",
+               "id": 81663,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Watchtower Computer / Reporter (voice)",
+               "gender": 0,
+               "credit_id": "52fe43f99251416c91000d0b",
+               "name": "Andrea Romano",
+               "profile_path": "/1XTwon7oYI6nl9YWtrYC4AkjgID.jpg",
+               "id": 34945,
+               "order": 13
+            },
+            {
+               "cast_id": 22,
+               "character": "Uncle Super / Captain Super Jr. (voice)",
+               "gender": 0,
+               "credit_id": "52fe43f99251416c91000d0f",
+               "name": "Bruce Timm",
+               "profile_path": "/2MaucKEFexM0MMcpsHHbDtDVZbk.jpg",
+               "id": 34934,
+               "order": 14
+            },
+            {
+               "cast_id": 23,
+               "character": "Model Citizen / Black Canary (voice)",
+               "gender": 1,
+               "credit_id": "52fe43f99251416c91000d13",
+               "name": "Kari Wuhrer",
+               "profile_path": "/2WmKU8E0lMmdBcC7F9iLLz7S2Qc.jpg",
+               "id": 56152,
+               "order": 15
+            },
+            {
+               "cast_id": 24,
+               "character": "Firestorm / Black Lightning (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000d17",
+               "name": "Cedric Yarbrough",
+               "profile_path": "/xOop6M7wHmdvC8vEL6MTqsOmkiz.jpg",
+               "id": 63235,
+               "order": 16
+            },
+            {
+               "cast_id": 25,
+               "character": "President Wilson (voice)",
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000d1b",
+               "name": "Bruce Davison",
+               "profile_path": "/kYFBIffblcsbLMITDZYHhVf5c9f.jpg",
+               "id": 52374,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe43f99251416c91000cdf",
+               "name": "Bruce Timm",
+               "profile_path": "/2MaucKEFexM0MMcpsHHbDtDVZbk.jpg",
+               "id": 34934,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43f99251416c91000ce5",
+               "name": "Rick Morales",
+               "profile_path": null,
+               "id": 105642,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000ceb",
+               "name": "Jay Oliva",
+               "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
+               "id": 105643,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000cf1",
+               "name": "Dwayne McDuffie",
+               "profile_path": null,
+               "id": 105644,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43f99251416c91000cf7",
+               "name": "Sam Liu",
+               "profile_path": "/6YLCBYqgILXZNpHql8xxadZldXq.jpg",
+               "id": 90367,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43f99251416c91000cfd",
+               "name": "Lauren Montgomery",
+               "profile_path": "/3SOXrdBr9bISY7fDeZWmeUJjxbV.jpg",
+               "id": 74863,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43f99251416c91000d07",
+               "name": "Dwayne McDuffie",
+               "profile_path": null,
+               "id": 105644,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57ebe64ac3a368397e005ec0",
+               "name": "Margaret Hou",
+               "profile_path": null,
+               "id": 8068,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         }
+      ],
+      "popularity": 10.855302,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 30061,
+      "vote_count": 195,
+      "budget": 0,
+      "overview": "A heroic version of Lex Luthor from an alternate universe appears to recruit the Justice League to help save his Earth from the Crime Syndicate, an evil version of the League. What ensues is the ultimate battle of good versus evil in a war that threatens both planets and, through a devious plan launched by Batman's counterpart Owlman, puts the balance of all existence in peril.",
+      "similar": [
+         1924,
+         1452,
+         8536,
+         9531,
+         13640,
+         49521,
+         297762,
+         65291,
+         11411,
+         69735,
+         209112,
+         141052,
+         272,
+         155,
+         382322,
+         287947,
+         251519,
+         14011,
+         40662,
+         379291
+      ],
+      "original_title": "Justice League: Crisis on Two Earths",
+      "runtime": 75,
+      "poster_path": "/mImQPVPKNGlqPDmewsZ7TLvHND.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "id": 429,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/7xym5CnL4LcMPaWpp51cN1v73AR.png",
+            "name": "Warner Premiere",
+            "id": 4811,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2010-02-23",
+      "vote_average": 7.1,
+      "belongs_to_collection": {
+         "backdrop_path": "/v4ijBegXGXDltrqRbhlEQqfoDl2.jpg",
+         "name": "Justice League (Animated) Collection",
+         "id": 256287,
+         "poster_path": "/ot4XTk6kXtWykmeFMMBoEgBn3Kp.jpg"
+      },
+      "tagline": "When Justice meets its match, worlds collide.",
+      "adult": false,
+      "homepage": "http://www.warnerbros.com/justice-league-crisis-two-earths",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Sam Liu",
+         "Lauren Montgomery"
+      ],
+      "runtime": 75,
+      "synopsis": "The movie begins in an alternate universe where Lex Luthor and a heroic analogue to the Joker named the Jester are stealing a device from Crime Syndicate headquarters. After securing the \"Quantum Trigger,\" Luthor and the Jester attempt to escape, but an alarm makes them realise the Syndicate are approaching. The Jester sacrifices himself with a bomb to allow Luthor a chance to get away, killing J'edd J'arkus (the Martian Manhunter's opposite) and Angelique (Hawkgirl's counterpart) who has just stabbed him with her flaming sword, in the process. Lex Luthor is confronted by the remaining Syndicate members, only to activate his dimensional travel device and escape to the Earth of the heroic Justice League, they are delayed thinking his device is a weapon. Once there, he turns himself over to the police, who he knows will think he's the evil Luthor from this world and thereby summon the Justice League. Superman's x-ray vision confirms Lex Luthor's reversed organs mean that he's from a parallel Earth, and that \"their\" Lex Luthor is still in the Stryker's Island prison, so the League agrees to hear Lex out. Lex tells his story and asks the League for help: his Earth is being extorted by the Syndicate, who have taken control of all of Earth and systematically eliminated Luthor's Justice League members. The only thing holding them in check is the threat of a nuclear response. While waiting outside the League's meeting room, he hides the Quantum Trigger. All members of the League agree, except for Batman, who argues that the League is spread too thin for the problems of their own world, let alone Luthor's. Luthor transports the remaining members of the League to his universe, while Batman stays behind to finish building the Watchtower. Arriving at Justice League headquarters on Lex's parallel Earth, they find the Syndicate and must soon retreat. Regrouping at Jester's base, they make plans to attack Syndicate targets, and they even capture Ultraman, the villainous counterpart to Superman. However, United States President Slade Wilson orders his release, to the outrage of Lex and the Justice League. Wilson explains that he didn't \"roll over\" for the Syndicate, and that acceding to the Syndicate's demands saves millions of lives. His daughter, Rose, regards him as a coward. J'onn J'onzz inadvertently reads her mind and explains that Wilson isn't, that as a military man he actually holds life more dear than others. J'onn later saves Rose's life during an assassination attempt, and they start to fall in love. Owlman, Batman's counterpart, is building a weapon, the Quantum Eigenstate Device or Q.E.D., which the Syndicate intends to use as the equalizer to the nuclear threat. When pressed by Superwoman, Wonder Woman's counterpart, with whom he appears to be in a relationship, Owlman admits the weapon can destroy entire worlds. Operating under the theory that there are many parallel Earths, and that each one develops from the choices that every single person makes, Owlman becomes obsessed with the idea that nothing he does can possibly matter, as there will always be parallel worlds where he explored another option. Owlman begins fervently seeking Earth-Prime, the very first Earth from which all other universes branched off. Owlman plans to use his weapon to destroy Earth-Prime, causing a chain reaction that would erase the entire multiverse, as it is the only action that would not result in the creation of another alternate universe where a different choice was made; in his opinion, the only choice that could \"matter\". Superwoman notes that even as a \"murdering psychopath,\" she thinks Owlman is much crazier than she is, but agrees to help him because it would allow her to kill everyone who ever existed. When the League eventually arrives at the moonbase of the Crime Syndicate, it becomes a free-for-all fight as everyone is matched up against their alternates and, in some cases, have to help each other gain the upper hand. Eager to put his plan into action, Owlman activates the Q.E.D., and takes it to Earth-Prime. Batman deduces which universe holds Earth Prime, but without a way to get there, it appears that everyone is doomed. A plan is hatched in which Johnny Quick (the Flash's counterpart) uses his speed to eventually match the temporal vibration with the vibration of his own molecules, opening another portal to Earth-Prime so that Batman can engage Owlman. Owlman and Batman are mental equals, but Owlman is shown to be superior in combat. However, Batman outwits Owlman at the last moment, sending him and the Q.E.D. to an uninhabited Earth just before the bomb detonates. Owlman has the opportunity to disarm it in the last seconds, but in the end does nothing and dies in the ensuing blast, saying, \"It doesn't matter.\" Back on the Crime Syndicate's world, Johnny Quick dies after the vibrating caused him to age rapidly. Batman had anticipated that, which is the real motive behind claiming Flash was too slow to open the portal. The remaining members of the Syndicate (Ultraman, Superwoman, and Green Lantern counterpart Power Ring) are arrested by the U.S. Marines, led personally by President Wilson after J'onn. Wilson thanks the Justice League for giving them back their world and they are sent back to their own dimension. When they return, Wonder Woman keeps the still-cloaked plane that she stole from Owlman. Because of the League's forces being spread too thin, Batman thinks about a membership drive and opens the door to the heroes (Aquaman, Red Tornado, Black Lightning, Firestorm, and Black Canary) that he had summoned for help earlier and keeps them around to start expanding the League.",
+      "writers": [
+         "Dwayne McDuffie",
+         "Jerry Siegel"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1494772/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTUxNjY0MjA2MV5BMl5BanBnXkFtZTcwMjU5ODIxMw@@._V1_SY317_CR28,0,214,317_AL_.jpg",
+      "actors": ["Stars: William Baldwin, Mark Harmon, Chris Noth | See full cast and crew »"],
+      "reviews": [
+         "Though this is not the first animated movie based on the DC comics Justice League characters, it sure is the better one. Compared to the previous \"Justice League: The New Frontier\", Justice League: Crisis on Two Earths benefits from a more action driven storyline and mature writing that hearkens back to the style of the award winning Justice League animated TV series. Where New Frontier felt a bit squeezed and underdeveloped, Crisis on two earths gets the story pacing just right allowing for a fair mix of subtle character drama and high flying superhero smash-ups. The film starts on a pretty \"typical\" note as we see Lex Luthor and a Joker look-alike called the \"Jester\" break into a top secret facility and steal some device called the \"Quantum trigger\", prompting the DC superheroes to stop them. However things are not as it seems as apparently this is all taking place in an alternate reality where Luthor and the Jester are the good guys and the \"heroes\" are actually the \"Crime syndicate\", a corrupted bunch of super powered beings vying for world domination. The Jester is brutally dispatched as Luthor escapes to another alternate reality to enlist the help of our favorite super hero team, the Justice League. By now, this show is sure to remind long time fans of the Justice League episodes \"a better world\" in which the Justice League encounters evil alternate versions of themselves. Crisis on Two Earths carries that theme but that's where the similarities end. Dwayne McDuffie manages to craft a story that stands out on its own while carrying all the elements of what made the DCAU. Most DC animation fans would have heard the rumor that this movie was supposed to be set in the same time-line as the DCAU Justice League and justice league unlimited series. Aside from the great looking new character designs (Superman looks way handsome and Wonder woman has never been hotter) and the new voice cast, these are the same characters we know and love. It might take a while to warm up to the new voices for Superman, Batman and the rest but once past that, you'll realize that the cast does a wonderful job of fleshing out their characters to be both familiar yet fresh. The Crime Syndicate is a bunch of extremely interesting villains, the perfect foil for the heroic justice league, with James Wood's Owlman stealing the show with a perfect performance. No recent works of \"Moi Animation\" company comes to mind but their animation on this project happens to be the most fluid among all the DC animated movies so far. Every single scene has motion, even people in the background and in scenes of conversation where it would have been so easy to just settle with a few talking heads or a static matte painting. Not a single bit of \"lazy animation\" even down to simple walking. The level of detail in the artwork is maintained consistently and looks similar to the style of Green Lantern: First Flight and 2007's Wonder Woman; though one or two scenes could have been done better (for example, some scenes where walls are smashed. The part of the wall to be broken is obviously colored differently from the rest of the wall). Co-directors Lauren Montgomery and Sam Liu combine their talents to bring out the best in every scene from the subtle drama to the hard hitting fights. The best part about Crisis is that it works on both surface and a deeper level. Though the bad guys actually get more character development than the good guys, Martian Manhunter gets a well executed romance arc which comes across as very real and rather heart-warming (though it might seem a little uncomfortable at first). Among the well written script, straight forward narrative and human drama, Dwayne McDuffie manages to throw in some philosophy about free will, determinism and a theory on how choices give rise to alternate worlds (a driving force behind Owlman's insidious plot). Instead of just focusing on the main characters, the story also takes time to explore more of this alternate earth, the mindset of its people and the authorities that turn a blind eye to the deeds of the crime syndicate out of plain fear. Both this and Owlman's plot, as well as Luthor's determination to keep fighting the crime syndicate, all follow the running theme of rising up in the face of futility and attempting to challenge the unchallengeable. Bruce Timm and the rest of his production team have definitely outdone themselves this time. For fans of old, this show fits snugly between the end of Justice League and the first episode of Justice league unlimited (it explains how Wonder Woman suddenly got her invisible jet and how the JLU recruitment initiative got started) so whether you choose to watch this as a stand alone movie or as a part of the DCAU Justice League series, both ways work. For new fans, if you had to try out just one of the DC animated movies, get this one. My only caution is to Batman fans as Batman kind of gets his butt kicked quite often here. (Guess that goes to show how human he really is since he's the only one on the League without actual superpowers hence forcing him to rely on smarts to take down his much stronger opponents).",
+         "Ever wondered how Superman would act if he was evil? Or have you ever wondered how our favourite superhero's would use their powers if they were evil? Than this is a film for you! Dwayne McDuffie did a great job writing the scenario for this film. Although similar stories have been used in previous comics/animated films, he still manages to make it unique in appearance. The same kind of premium quality as the previous Justice league films/series we've come to expect from DC. Although everyone likes seeing hero's go toe-to-toe with their own alternative (evil) selves. But this film adds more than just \"twin on evil twin\" action. There's even a little present on the DVD/Blue ray, an exclusive short film featuring The Spectre. I highly recommend it to anyone that is even remotely into the genre.",
+         "I have to say I was skeptical when I reviewed the casting for this installment. I enjoyed \"Superman: Doomsday\", and \"Public Enemies\". I really like the animated movie series installments that Warner Brothers has been releasing. Having withdrawal from \"Batman: The Animated Series\" and \"Justice League\", these new animated movies are just what the doctor ordered. The main topic of discussion for this series will be why some of the main voice characters weren't cast. If I don't say it now, I will regret it. Kevin Conroy, I hope your listening, no one does Batman like you - period. I read around and didn't find a legitimate source on why you weren't cast as Batman, but I'm confident it has to do with the new \"Batman - Arkym Asylum 2\" that he is currently doing voice over work for. Warner Brothers is pretty set on the deadline of getting these series to the public, so I would conclude they made the decision to film this one with another cast of characters. I won't spoil the movie, but this particular story arc is very similar to season 2 of Justice League \"A Better World\" with a little bit of a twist. In short, If you liked the other installments - you will like this version. Yes it is a little different, and the mannerisms of some of the League members are different - but take it for what it is and enjoy the story. I give it an 8.5 (-1.5) just for the simple fact Batman isn't played by Kevin Conroy.",
+         "Story/plot: Good. In fact better than some real life movies Voice Actors: Good. Professional quality. Artwork/Animation: Good. This is the US standard without becoming CGI. Length/Run-Time: Good. It isn't too short and isn't too long for my kid. Comment: I wish there were more animations on the justice League. DC is doing much better than it was with its animations over the past decade. The story is simple with a touch of complexity and the moral is made clear enough that even my 5 year understood. The depiction of alternate Earths can lead to bigger expansion in the near future. Overall I would recommend this to other parents for their children",
+         "One of the things that makes these DC animated movies, specifically those as of late (with very few exceptions) so strong thematically is that they take the foundations of the characters from the comics and the TV shows, keep them strong, and build upon them as their own forms of mythology. We see this in Superman: Doomsday with the concept of 'Can Superman be taken down?', to even a slightly lessor film like Wonder Woman, which asks, simply, 'Is this a man's world, or is there some I Am Woman Hear Me Roar too?' While the best of the lot, Justice League New Frontier, is hard to get eclipsed in its storytelling, this new direct to video release, Crisis on Two Earths, does its best to come close. At first it might appear to be a simple bizarro-world story (or Elseworld tale as it can be called, i.e. Superman: Red Son), where the Justice League is visited by Lex Luthor(!) from the other world, who is actually battling the bad-guy versions of the JLA, and they have to stop them- specifically the mastermind Owlman- from destroying possibly both worlds... or all. What makes it richer is how the writers and directors build upon the tropes and even add some philosophy to the mix - the way Owlman looks at all of the worlds, the nihilism present, and his disgust of free will, is rather morbidly fascinating for the few minutes its given light in what would be otherwise a \"kids\" movie - and keeps fans happy. I wouldn't say this is a good place to start for newbies to these characters; not so much for a complex story, which is isn't entirely, but that some of the characters are already so well established and that some of the smaller ones may just float by without much consequence (I, who has been catching up on the Justice League animated show, didn't recognize some of the characters unless named). It really is made by fans of the series (the directors are also well-established with these films, practically covering all of the recent ones for better and worse), for fans, as a rock-em-sock-em elseworld story. While some small parts do frustrate a bit (how Owlman is so set in his path towards the end... and then proceeds to go and beat up Batman anyway seems rather redundant), it gives us some great moments in DC animated history. That one line from Batman especially to Owlman, \"The difference between you and I - we both looked in the abyss, and you blinked\", is a keeper, and some of the quips given by Superwoman and the Flash (yes, the Flash) are really funny. And though the overall outcome of who will triumph and so on can be called practically from the outset, the fun and danger comes in the instances of uncertainty between character fights and the intensity of one-on-one action, or just unexpected moments (the 'Green Arrow' in the elseworld is basically painted Red and made into the Batman villain Deadshot) that delight. One last note - the voice acting here was surprisingly good. It's tricky not having the standard voices for Super/Batmen (I'm always wary hearing Batman not as Kevin Conroy), but William Baldwin actually didn't do too bad, and same for Mark Harmon. Best of all were Gina Torres as the femme fatale in Superwoman, and James Woods dialing down his usual hammy bad-guy acting for Owlman, who sounds so cerebral one wonders why he has that big suit of armor.",
+         "PLOT IN A NUTSHELL: When a heroic version of Lex Luthor arrives from another universe to ask the Justice League for help in battling the Crime Syndicate on his world, our favorite heroes find themselves locked in a life and death struggle against evil dopplegangers who'll stop at nothing to get what they want. But who is the greater threat - the thuggish Ultraman (an evil version of Superman) or the cold, cruel calculating Owlman (evil version of Batman)? This was originally planned as being part of the DCAU Justice League/JLU continuity, bridging a gap between the end of Justice League and the beginning of JLU, but for a variety of reasons it never quite came together as it was originally envisioned, so Dwayne McDuffie reworked his own script and turned it into a stand alone feature for the direct to DVD line that DC and Warner Brothers have been working on for the last few years. For the most part it is an entertaining action adventure with some clever twists on familiar characters and a strong voice cast. James Woods of course is chillingly brilliant as the nihilistic Owlman, with Gina Torres complimenting him as a thoroughly unlikable and sadistic Super Woman (she was also Vixen on JLU). Chris Noth is equally good as the heroic Lex Luthor, and it's a shame he didn't get more recognition for his voice work in this (much like how Aaron Eckhart's work as Harvey Dent in \"The Dark Knight\" was sadly overlooked in favor of the admittedly brilliant turn by the late Heath Ledger as the Joker). William Baldwin takes a little getting used to as the voice of Batman and probably won't make anyone forget fan favorite Kevin Conroy, but he throws out a decent enough performance. What I found interesting about Mark Harmon's Superman was that he gave the Man of Steel a more rural sounding voice, as opposed to previous voice actors such as Tim Daly (from the solo Superman series as well as Public Enemies and Apocalypse), George Newbern (Justice League/JLU), and Kyle MacLachlan (New Frontier) went for more neutral, region-less voices (though there are spots where he sounds a little like Newbern). Non-celebrity voice actors Vanessa Marshall (Wonder Woman), Josh Keaton (Flash), Jonathan Adams (Martian Manhunter/J'onn J'onnzz) and Nolan North (Green Lantern/Hal Jordan & Power Ring) all do solid work - Adams at times sounds uncannily similar to Carl Lumbly, who voiced the Martian Manhunter on Justice League & JLU, which makes one wonder if he was cast based on that. Nolan North though (better known for his voice work on video games and Marvel animation projects) is sadly underused in the double role of Green Lantern and Power Ring (the only actor in the cast to play both the heroic version and the evil doppleganger). While fans disappointed by the lack of Hal Jordan in the DCAU will probably enjoy seeing him for a third time after New Frontier and GL: First Flight, Hal is more of a special effect than a character this time around, which is unfortunate given that North has shown in past roles that he clearly has the ability to play Hal's characterization right on the mark, but I guess after NF & FF they felt it was Hal's turn to merely be 'present & accounted for'. There were things that could have been done better, of course. They could have done more to show the Justice League being disturbed by their evil parallel selves - Superman in particular should have been shown to be appalled by his evil counterpart Ultraman. On that note, I was disappointed at not getting more of a smack-down between Sueprman and Ultraman during the climax, but I guess they felt Superman's fight had to take a backseat seeing as how they had just done \"Public Enemies\", which was basically an hour of Superman kicking all kinds of ass left and right. They also could have done more with the working relationship between Superman and the heroic Lex Luthor. Batman saving the day near the end was predictable, but I'll let it slide seeing as how he was mostly absent from the first act and he actually got beaten up quite a bit here by the super-villains and was shown needing to call for help, which is a nice change of pace from him triumphing over more powerful enemies by way of \"prep time\". Overall, I give this a 7 out of 10.",
+         "I really like Justice League adventures, since they espouse the spirit of cooperation among the DC superheroes which I grew up with. My favorite DC comics in my childhood were my JLA comics. I really liked the recent revival of the JLA on TV. And now, I welcome these new mature animated JLA movies. Crisis on Two Earths is exactly what the title tells us. There are two Earths in this movie. This Earth where the JLA lives in, and a parallel Earth where the characters are reversed. The JLA counterparts are part of the nefarious Crime Syndicate (Ultraman, Owlman, Superwoman, Johnny Quick Man and Power Ring), while Lex Luthor and the Joker are the self-sacrificing heroes. It is very good to see the various guest appearances of other superheroes in this movie, like the Black Canary, Aquaman, as well as evil analogues of Green Arrow (in red) and the Elongated Man. It is good to see my favorite character, the Martian Manhunter, also have a featured part, and even a love interest! As with several other JLA adventures, the Batman had the meatiest part, together with his alter-ego, Owlman. Toward the end, the future of the two Earths actually lay in their philosophical and physical entanglements. This scene, as well as the rest of this movie, was very well-written and set into animation. The voice acting was sensitive and very well-done.",
+         "I did enjoy Justice League: New Frontier, but between this and that, I consider this the slightly better movie. My only real reservations actually was two members of the voice cast. William Baldwin does what he can, but lacks the mystery and darkness of what I associate Batman with. Mark Harmon is also too monotone for Superman. My other reservation was Superman and Luthor's relationship which I think could have been expanded more. However, most of the voice acting is great. I think Chris Noth brings a great deal of heroism to Lex Luthor, and while underused Nolan North is both heroic and sinister. The best are Gina Torres, who gives Superwoman a great femme-fatale edge, and especially James Woods, whose Owlman is just superb. The animation is atmospheric and detailed with some funky character designs like with Wonder Woman and the music is haunting. The writing is mature and sharp, more so than New Frontier, Superwoman and Flash's quips are especially funny without jarring, and the story has an edge and urgency to it. I found the romance arc heart-warming with Martian Manhunter as well. All in all, I found A Crisis of Two Earths excellent. 8/10 Bethany Cox",
+         "I've seen a lot of these animated super-hero movies and this is in my opinion by far the best. It's no coincidence that it was written by Dwayne McDuffie, who also penned the wonderfully absorbing story arcs in Cartoon Network's JLA and JLU. I won't recount the plot, others have done that before me, but suffice it to say the script is intelligent, mature, doesn't talk down to the viewers, yet is also accessible to people of almost any age. There's a preponderance of action over story here, but when the characters do settle down for some exposition, McDuffie makes the most of it. The characterization, especially of the villains, never seems two dimensional. The nihilistic Owlman, especially, is fascinating and well-handled; I also think that James Woods probably gave the best voice performance in the feature among many very good ones. McDuffie has fun drawing parallels between the way the team of super-villains organize their crime empire with the real life Cosa Nostra, in one scene going into quite a bit of detail that you wouldn't necessarily expect from a cartoon kiddie show. Another standout scene has the JLA discussing the philosophical implications of taking on powerful crime figures in a parallel dimension where they have no jurisdiction, and the hardship this may place on its native inhabitants; they can stop the bad guys in the immediate present, but what happens when they leave? Are they willing to stick around forever to prevent retaliation? Are they willing to kill to make sure there isn't any? And I've become convinced no one writes better, more well-choreographed action sequences than McDuffie. An early one makes good use of suspense as two characters are fleeing pursuit through a series of massive doors that come together and lock behind them, and the sounds they hear as their pursuers batter the doors down just out of eyesight. My favorite mix-it-up action fight scene has to be the one that takes place in in a stormy sky involving several characters that fly under their own power and a sophisticated fighter jet. It really engaged a feeling of wonder in me, and envy, to be one these gods who can zoom around and play in the cloud banks. Finally, I would be remiss if I didn't mention McDuffie's wonderful ear for dialogue; he can make the discussion of fantastic elements sound so natural. A good example is when Wonder Woman brings home an invisible plane from the alternate dimension: Flash: I can't believe you kept that thing ... Wonder Woman: Spoils of war! Flash: What do you even need it for? You can fly! Green Lantern, to Flash: You drive a car ... Flash: That's completely different! Don't you think that's probably the kind of things super-folks would say if they were real? Ah, to be a member of that club ... well, I can't, and neither can you, but you can do the next best thing and watch this film.",
+         "'Justice League: Crisis on Two Earths' is Simply Awesome! An awe-inspiring animation flick, that's spectacularly mounted & executed. 'Justice League: Crisis on Two Earths' Synopsis: A good version of Lex Luthor from a parallel Earth comes to the Justice League's dimension for help to fight their evil counterparts. 'Justice League: Crisis on Two Earths' runs for 73-minutes & despite its limited length, it more than utilizes its potential. The gathering of these legendary superheroes & the gathering of these extremely bad superheroes, is a delight to watch. The Animation is top-class, amongst the finest I've seen. The Screenplay by the Late/Great Dwayne McDuffie is thoroughly engaging. Lauren Montgomery & Sam Liu's Direction is greatly crafted. A Special Mention for the absolutely brilliant Action-Sequences, that lead the narrative. Vocal Performances are Top-Notch: Mark Harmon as Superman & William Baldwin as Batman, are excellent. Chris Noth as Lex Luthor, is appropriate. Gina Torres as Superwoman, is just perfect. Brian Bloom as Ultraman, is killer. James Woods as the creepy Owlman, is outstanding. On the whole, 'Justice League: Crisis on Two Earths' is a Complete Winner!"
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Sci-Fi"
+      ],
+      "productionCompanies": ["Warner Premiere"],
+      "summaries": ["A good version of Lex Luthor from a parallel Earth comes to the Justice League's dimension for help to fight their evil counterparts."],
+      "budget": 0
+   },
+   "movielensId": 104419,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano"
+      ],
+      "releaseDate": "2010-02-23",
+      "dvdReleaseDate": "2010-02-23",
+      "directors": [
+         "Sam Liu",
+         "Lauren Montgomery"
+      ],
+      "runtime": 75,
+      "movieId": 104419,
+      "title": "Justice League: Crisis on Two Earths",
+      "mpaa": "PG-13",
+      "actors": [
+         "Mark Harmon",
+         "Billy Baldwin",
+         "James Woods",
+         "Nolan North",
+         "Chris Noth",
+         "Erica Durance",
+         "Gina Torres",
+         "Brian Bloom",
+         "James Patrick Stuart",
+         "Josh Keaton",
+         "Jeff Bennett",
+         "Jonathan Adams",
+         "Vanessa Marshall",
+         "Andrea Romano",
+         "Bruce Timm",
+         "Kari Wuhrer",
+         "Cedric Yarbrough",
+         "Bruce Davison"
+      ],
+      "imdbMovieId": "1494772",
+      "originalTitle": "Justice League: Crisis on Two Earths",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Animation"
+      ],
+      "youtubeTrailerIds": ["EJruJxZJEvI"],
+      "plotSummary": "A heroic version of Lex Luthor from an alternate universe appears to recruit the Justice League to help save his Earth from the Crime Syndicate, an evil version of the League. What ensues is the ultimate battle of good versus evil in a war that threatens both planets and, through a devious plan launched by Batman's counterpart Owlman, puts the balance of all existence in peril.",
+      "tmdbMovieId": 30061,
+      "avgRating": 3.57323,
+      "releaseYear": "2010",
+      "numRatings": 198,
+      "posterPath": "/mImQPVPKNGlqPDmewsZ7TLvHND.jpg"
+   }
+}

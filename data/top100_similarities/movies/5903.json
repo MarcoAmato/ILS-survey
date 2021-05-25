@@ -1,0 +1,1176 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "resistance",
+            "id": 836
+         },
+         {
+            "name": "fascism",
+            "id": 1755
+         },
+         {
+            "name": "totalitarian regime",
+            "id": 2137
+         },
+         {
+            "name": "destroy",
+            "id": 2535
+         },
+         {
+            "name": "phasing",
+            "id": 3236
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "book burning",
+            "id": 5737
+         },
+         {
+            "name": "outlaw",
+            "id": 9503
+         },
+         {
+            "name": "government agent",
+            "id": 163049
+         }
+      ],
+      "imdb_id": "tt0238380",
+      "video": false,
+      "title": "Equilibrium",
+      "recommendations": [
+         19959,
+         2666,
+         1272,
+         563,
+         16320,
+         861,
+         5548,
+         754,
+         9802,
+         2787,
+         36955,
+         1538,
+         6278,
+         9798,
+         36586,
+         8202,
+         167,
+         1635,
+         9739,
+         8374
+      ],
+      "backdrop_path": "/tnXrFkhkeBEFXP0tCFGMjw4QN11.jpg",
+      "revenue": 5359645,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "John Preston",
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097ef1",
+               "name": "Christian Bale",
+               "profile_path": "/2ocrTd8ChuUyJOzMuD4PsQw8eCB.jpg",
+               "id": 3894,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Brandt",
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097f19",
+               "name": "Taye Diggs",
+               "profile_path": "/1g1demRAGhwdUpwi8PA0wgFe2IX.jpg",
+               "id": 17637,
+               "order": 1
+            },
+            {
+               "cast_id": 15,
+               "character": "Mary O'Brien",
+               "gender": 0,
+               "credit_id": "52fe4478c3a36847f8097f29",
+               "name": "Emily Watson",
+               "profile_path": "/jyIC8axLoCrbQoKGGjGFRU7hfNI.jpg",
+               "id": 1639,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Dupont",
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097f0d",
+               "name": "Angus Macfadyen",
+               "profile_path": "/qTplz89WHXM4dGu0PVSarWEYHcO.jpg",
+               "id": 2464,
+               "order": 3
+            },
+            {
+               "cast_id": 3,
+               "character": "Errol Partridge",
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097ef9",
+               "name": "Sean Bean",
+               "profile_path": "/iIxP2IzvcLgr5WaTBD4UfSqaV3q.jpg",
+               "id": 48,
+               "order": 4
+            },
+            {
+               "cast_id": 2,
+               "character": "Seamus",
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097ef5",
+               "name": "Dominic Purcell",
+               "profile_path": "/dyFc8VuAtLQFjL0rKWZuztdBEoT.jpg",
+               "id": 10862,
+               "order": 5
+            },
+            {
+               "cast_id": 4,
+               "character": "Officer in Charge",
+               "gender": 0,
+               "credit_id": "52fe4478c3a36847f8097efd",
+               "name": "Christian Kahrmann",
+               "profile_path": "/2JvAMivK1VkjBP2BfEF1CrSUjD2.jpg",
+               "id": 43454,
+               "order": 6
+            },
+            {
+               "cast_id": 6,
+               "character": "Father",
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097f05",
+               "name": "Sean Pertwee",
+               "profile_path": "/mHNlvnrlFvNddFY6isD0S40lAIu.jpg",
+               "id": 28848,
+               "order": 7
+            },
+            {
+               "cast_id": 7,
+               "character": "Jürgen",
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097f09",
+               "name": "William Fichtner",
+               "profile_path": "/oIGjbztWvTqn4tnolW9rDCjpgxu.jpg",
+               "id": 886,
+               "order": 8
+            },
+            {
+               "cast_id": 5,
+               "character": "Chemist",
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097f01",
+               "name": "John Keogh",
+               "profile_path": "/7nu6eIyFoWAnCh2gXgMbl9CFJj4.jpg",
+               "id": 49486,
+               "order": 9
+            },
+            {
+               "cast_id": 9,
+               "character": "Evidentiary Storage Officer",
+               "gender": 0,
+               "credit_id": "52fe4478c3a36847f8097f11",
+               "name": "David Barrash",
+               "profile_path": null,
+               "id": 52399,
+               "order": 10
+            },
+            {
+               "cast_id": 10,
+               "character": "Gate Guard",
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097f15",
+               "name": "Dirk Martens",
+               "profile_path": "/bTdsGeHdtJnnbB2ZFfQHgJkBeem.jpg",
+               "id": 52400,
+               "order": 11
+            },
+            {
+               "cast_id": 12,
+               "character": "Robbie Preston",
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097f1d",
+               "name": "Matthew Harbour",
+               "profile_path": null,
+               "id": 52401,
+               "order": 12
+            },
+            {
+               "cast_id": 13,
+               "character": "Preston's Wife",
+               "gender": 0,
+               "credit_id": "52fe4478c3a36847f8097f21",
+               "name": "Maria Pia Calzone",
+               "profile_path": "/7EiPEELdXiJXJHW5YmdbdzdQ5bZ.jpg",
+               "id": 52402,
+               "order": 13
+            },
+            {
+               "cast_id": 14,
+               "character": "Lisa Preston",
+               "gender": 0,
+               "credit_id": "52fe4478c3a36847f8097f25",
+               "name": "Emily Siewert",
+               "profile_path": null,
+               "id": 52403,
+               "order": 14
+            },
+            {
+               "cast_id": 97,
+               "character": "Guard",
+               "gender": 2,
+               "credit_id": "565a550092514161ae001e90",
+               "name": "Florian Fitz",
+               "profile_path": "/e6QWfCpnVuPvTQUy0pRE2RJEQSp.jpg",
+               "id": 27406,
+               "order": 15
+            },
+            {
+               "cast_id": 101,
+               "character": "Proctor",
+               "gender": 2,
+               "credit_id": "59a5ed94c3a3684056014696",
+               "name": "David Hemmings",
+               "profile_path": "/k2M6UrbkWYF8FewmKQm3TWu6KMX.jpg",
+               "id": 15196,
+               "order": 16
+            },
+            {
+               "cast_id": 102,
+               "character": "Reading Room Proprietor",
+               "gender": 2,
+               "credit_id": "59a5edae9251412f500143d3",
+               "name": "Brian Conley",
+               "profile_path": "/lYJbzFpu2CzBB7rZPKFu3ylJdKF.jpg",
+               "id": 213904,
+               "order": 17
+            },
+            {
+               "cast_id": 103,
+               "character": "Crematory Technician",
+               "gender": 2,
+               "credit_id": "59a5edcdc3a36840560146ce",
+               "name": "Anatole Taubman",
+               "profile_path": "/ykaA067K1LYyERSGTM98qzSw2Rl.jpg",
+               "id": 62892,
+               "order": 18
+            },
+            {
+               "cast_id": 105,
+               "character": "Rebel Leader",
+               "gender": 0,
+               "credit_id": "5a8d7d729251412a4b00a478",
+               "name": "Francesco Cabras",
+               "profile_path": "/3m73NLKaN1wPY0iKHSQIyq2dD4F.jpg",
+               "id": 927782,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097f2f",
+               "name": "Kurt Wimmer",
+               "profile_path": "/vO84pZBssHveIxxnh2d2sbNNCLY.jpg",
+               "id": 13927,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4478c3a36847f8097f35",
+               "name": "Kurt Wimmer",
+               "profile_path": "/vO84pZBssHveIxxnh2d2sbNNCLY.jpg",
+               "id": 13927,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5320477cc3a368572e00130b",
+               "name": "Jan de Bont",
+               "profile_path": "/9kPf2LuyLLwCawSGyPIQCX7ighX.jpg",
+               "id": 2209,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532047a9c3a368574500139b",
+               "name": "Lucas Foster",
+               "profile_path": null,
+               "id": 11695,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532047cec3a368572e001314",
+               "name": "Juel Bestrop",
+               "profile_path": null,
+               "id": 14377,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532047f3c3a36824b50001fd",
+               "name": "Jeanne McCarthy",
+               "profile_path": null,
+               "id": 546,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5320483fc3a368574d00161d",
+               "name": "Klaus Badelt",
+               "profile_path": "/j4BGxQq5klTT7hiojMjbcX0hlNU.jpg",
+               "id": 122,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53204865c3a3685725001297",
+               "name": "Joseph A. Porro",
+               "profile_path": null,
+               "id": 8681,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "548da9b492514122f2004244",
+               "name": "Dion Beebe",
+               "profile_path": "/q24Jkyu8VclqhdYhPpti7fXoSkS.jpg",
+               "id": 647,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f316079251416b2f004072",
+               "name": "Tom Rolf",
+               "profile_path": null,
+               "id": 1047,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f316229251416b38003e45",
+               "name": "William Yeh",
+               "profile_path": null,
+               "id": 60521,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f316379251416b31003df3",
+               "name": "Wolf Kroeger",
+               "profile_path": null,
+               "id": 7203,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f3167e9251416b31003dfc",
+               "name": "Justin Warburton-Brown",
+               "profile_path": null,
+               "id": 1328823,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54f316989251416b31003e00",
+               "name": "Anne Kuljian",
+               "profile_path": null,
+               "id": 8706,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f316e19251416b3b003cbc",
+               "name": "Hasso von Hugo",
+               "profile_path": null,
+               "id": 1433005,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f31702c3a3681b71001e73",
+               "name": "Björn Rehbein",
+               "profile_path": null,
+               "id": 1406584,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31738c3a3683242003cbd",
+               "name": "Mauro Tamagnini",
+               "profile_path": null,
+               "id": 1433706,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f3174ec3a368323e003b15",
+               "name": "Hasso von Hugo",
+               "profile_path": null,
+               "id": 1433005,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31761c3a3683242003cc7",
+               "name": "Tanja Drewitz",
+               "profile_path": null,
+               "id": 1433707,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f3177bc3a36832480045eb",
+               "name": "Luigi Rocchetti",
+               "profile_path": null,
+               "id": 27205,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f317a59251416b3b003cce",
+               "name": "Carolin Spill",
+               "profile_path": null,
+               "id": 1433708,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f317e89251416b38003e6d",
+               "name": "Roxy Konrad",
+               "profile_path": null,
+               "id": 40754,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f31847c3a3681b71001e95",
+               "name": "Paul J. Hayes",
+               "profile_path": null,
+               "id": 1433709,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f319849251416b38003e99",
+               "name": "Fred Judkins",
+               "profile_path": null,
+               "id": 1341336,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f319999251416b35003d12",
+               "name": "Harry B. Miller III",
+               "profile_path": null,
+               "id": 13371,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f319b19251416b2c0040f8",
+               "name": "Cameron Steenhagen",
+               "profile_path": null,
+               "id": 1424160,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f319d0c3a368322f003c9a",
+               "name": "Dean Beville",
+               "profile_path": null,
+               "id": 10630,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31a189251416b41004315",
+               "name": "Matthew Dettmann",
+               "profile_path": null,
+               "id": 1433711,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f31a2bc3a368322f003caa",
+               "name": "Gary A. Hecker",
+               "profile_path": "/qyBUauN3XIS2Mlus3OdGCmrUo0S.jpg",
+               "id": 1077782,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31a479251416b3b003d05",
+               "name": "Edward M. Steidele",
+               "profile_path": null,
+               "id": 1378172,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f31a70c3a3683245003e91",
+               "name": "Michael J. Benavente",
+               "profile_path": null,
+               "id": 1413095,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31a9cc3a3683245003e96",
+               "name": "Byron Miller",
+               "profile_path": null,
+               "id": 1433716,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31ab39251416b41004331",
+               "name": "Charlie Ajar Jr.",
+               "profile_path": null,
+               "id": 1433717,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31b1e9251416b38003ec0",
+               "name": "Donald Flick",
+               "profile_path": null,
+               "id": 1335122,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31b319251416b2c004118",
+               "name": "Dana Gustafson",
+               "profile_path": null,
+               "id": 1433718,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31b629251416b41004351",
+               "name": "William Jacobs",
+               "profile_path": null,
+               "id": 1433719,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31b989251416b31003e8f",
+               "name": "Martin Lopez",
+               "profile_path": null,
+               "id": 1301145,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31bae9251416b3e0040f9",
+               "name": "Jon Mete",
+               "profile_path": null,
+               "id": 1433720,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31bc7c3a3683232004a7c",
+               "name": "Greg ten Bosch",
+               "profile_path": null,
+               "id": 1433721,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31bf39251416b3b003d49",
+               "name": "Samuel Lehmer",
+               "profile_path": null,
+               "id": 1049324,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f31c1fc3a3683239003e8f",
+               "name": "Jeffrey Perkins",
+               "profile_path": null,
+               "id": 143921,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31c3cc3a368324800465a",
+               "name": "Stephen Hunter Flick",
+               "profile_path": "/83arZqrN59fhxybLLmo5KUp0FSc.jpg",
+               "id": 554887,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f31c5c9251416b31003ea0",
+               "name": "Peter Brown",
+               "profile_path": null,
+               "id": 7239,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f31cd2c3a368324800466a",
+               "name": "Joe Gareri",
+               "profile_path": null,
+               "id": 56995,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31ceb9251416b38003ee9",
+               "name": "Kim Lavery",
+               "profile_path": null,
+               "id": 1433723,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31d279251416b35003d61",
+               "name": "Erin May",
+               "profile_path": null,
+               "id": 1433725,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31d449251416b3e004126",
+               "name": "Rodney Montague",
+               "profile_path": null,
+               "id": 1023364,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31f279251416b31003eeb",
+               "name": "Maureen O'Connor",
+               "profile_path": null,
+               "id": 1433733,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31f4ec3a3683239003edd",
+               "name": "Tim McGovern",
+               "profile_path": null,
+               "id": 1401145,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31f6d9251416b35003da2",
+               "name": "David Sosalla",
+               "profile_path": null,
+               "id": 1404533,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31f9bc3a3683245003f27",
+               "name": "Stefano Maria Mioni",
+               "profile_path": null,
+               "id": 25066,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f31fafc3a36832480046bf",
+               "name": "Jim Vickers",
+               "profile_path": null,
+               "id": 1433735,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f31ffec3a3683245003f32",
+               "name": "Gianmaria Majorana",
+               "profile_path": null,
+               "id": 1433736,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f320149251416b38003f3a",
+               "name": "Daniele Massaccesi",
+               "profile_path": null,
+               "id": 8673,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f32041c3a3683239003eee",
+               "name": "Nick Milner",
+               "profile_path": null,
+               "id": 117222,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f320679251416b31003f0c",
+               "name": "Peter Taylor",
+               "profile_path": null,
+               "id": 1393364,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f3207ec3a368323e003bef",
+               "name": "Sebastian Meuschel",
+               "profile_path": null,
+               "id": 1377503,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f32097c3a3683232004b0a",
+               "name": "Ronald Schwarz",
+               "profile_path": null,
+               "id": 1406786,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f320c7c3a3681b71001fbd",
+               "name": "Peter Kosel",
+               "profile_path": null,
+               "id": 1433737,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f320fcc3a3683232004b19",
+               "name": "Reinhard Stöckl",
+               "profile_path": null,
+               "id": 1433738,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f321319251416b3b003dcb",
+               "name": "Richard Blanshard",
+               "profile_path": null,
+               "id": 1361170,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f3216c9251416b3e0041a0",
+               "name": "Annette Borgmann",
+               "profile_path": null,
+               "id": 1332509,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54f3217f9251416b38003f51",
+               "name": "Lucinda Syson",
+               "profile_path": null,
+               "id": 1113,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f3219c9251416b38003f5c",
+               "name": "Jean Rosone",
+               "profile_path": null,
+               "id": 1322014,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f321efc3a36832480046f2",
+               "name": "Barbara Jäger",
+               "profile_path": null,
+               "id": 23717,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f3220b9251416b2c0041c3",
+               "name": "Nina Hess",
+               "profile_path": null,
+               "id": 1433740,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f3224cc3a368322f003d8f",
+               "name": "Douglas Kunin",
+               "profile_path": null,
+               "id": 1433742,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f32266c3a3683242003df6",
+               "name": "Vicki Hiatt",
+               "profile_path": null,
+               "id": 1433743,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f3227b9251416b31003f3b",
+               "name": "Stephanie Lowry",
+               "profile_path": null,
+               "id": 1409877,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f32293c3a368322f003d9f",
+               "name": "Richie Nieto",
+               "profile_path": null,
+               "id": 1433744,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f322abc3a368322f003da4",
+               "name": "Daniel Mattig",
+               "profile_path": null,
+               "id": 1433745,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f322c09251416b3b003dff",
+               "name": "Stephan Schröter",
+               "profile_path": null,
+               "id": 1433746,
+               "department": "Crew",
+               "job": "Picture Car Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f322f3c3a3683242003e05",
+               "name": "Mark Stehli",
+               "profile_path": null,
+               "id": 1433747,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f323089251416b2c0041e5",
+               "name": "Howard Samuelsohn",
+               "profile_path": null,
+               "id": 1394986,
+               "department": "Crew",
+               "job": "Dialect Coach"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54f3232e9251416b4100443a",
+               "name": "Tess Malone",
+               "profile_path": "/an4H25jTFq8uUmL8yChnVDjQIgG.jpg",
+               "id": 1433748,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f323459251416b38003f81",
+               "name": "Marco Giacalone",
+               "profile_path": null,
+               "id": 1411362,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f3235ac3a3683242003e0e",
+               "name": "Stella D'Onofrio",
+               "profile_path": null,
+               "id": 1413805,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54f3236ec3a3681b7100200c",
+               "name": "Pamela Alch",
+               "profile_path": null,
+               "id": 1344278,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570ab8b2c3a36802ee000352",
+               "name": "Erik Olson",
+               "profile_path": null,
+               "id": 1433705,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57553931c3a3686803004999",
+               "name": "Stefano Marino",
+               "profile_path": null,
+               "id": 1553236,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56607784c3a36875f4003b1b",
+               "name": "Chris Britton",
+               "profile_path": null,
+               "id": 1544415,
+               "department": "Crew",
+               "job": "Loader"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a86a3c70e0a2653db038c64",
+               "name": "Harvey Weinstein",
+               "profile_path": "/jonLOgQIZPBn650kLcsKOPois7U.jpg",
+               "id": 59839,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 25.378795,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 7299,
+      "vote_count": 1898,
+      "budget": 20000000,
+      "overview": "In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system.",
+      "similar": [
+         131631,
+         76341,
+         157350,
+         198663,
+         294254,
+         9482,
+         7512,
+         19959,
+         20504,
+         782,
+         861,
+         9659,
+         9693,
+         605,
+         2666,
+         534,
+         19,
+         63,
+         180,
+         604
+      ],
+      "original_title": "Equilibrium",
+      "runtime": 107,
+      "poster_path": "/nOPW98NU67VN7g0ms5WD5nBVgEv.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Blue Tulip Productions",
+            "id": 35304,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/cXMoZ75Zu4EoA3fRADCLTDeXBk3.png",
+            "name": "Dimension Films",
+            "id": 7405,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2002-12-06",
+      "vote_average": 6.9,
+      "belongs_to_collection": null,
+      "tagline": "In a future where freedom is outlawed, outlaws will become heroes.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Kurt Wimmer"],
+      "runtime": 107,
+      "synopsis": "Equilibrium is set in the futuristic, and dystopian city-state of Libria. The film explains how, in the early years of the 21st century, a devastating Third World War breaks out, the impact of which brings civilizations across the planet to their knees. After the war ends, world leaders fear that the human race cannot possibly survive a Fourth World War, and so set about building a new society which is free of conflict. Believing that human emotion is responsible for man's inhumanity to man, the new leaders ban all materials deemed likely to stimulate strong emotions, including art, music, and literature. These materials are rated \"EC-10\" for \"emotional content\" (a reference to the MPAA film rating system), and are typically destroyed by immediate incineration. Furthermore, all citizens of Libria are required to take regular injections, called \"intervals,\" of a liquid drug called Prozium, collected at the distribution centers known as \"Equilibrium\". Libria is governed by the Tetragrammaton Council, which is led by a reclusive figurehead known as \"Father\". Father never interacts with anyone outside the ruling council, but his image is omnipresent throughout the city in a strong cult of personality. The Tetragrammaton Council strives to create identical lives for all Librians and uses its police state apparatus to enforce unity and conformity. At the pinnacle of Librian law enforcement are the Grammaton Clerics, who are trained in the deadly martial art of Gun Kata, an art which teaches users to predict the actions of opponents during firearm combat. The Clerics exist for the purpose of locating and destroying EC-10 materials and for pursuing, apprehending, and, if necessary, terminating \"sense-offenders\"people guilty of feeling emotions. Despite the efforts of the police and Clerics, a resistance movement exists in Libria, known as \"The Underground\". Members of this movement are responsible for terrorist activity against Libria, specifically against the Prozium factories. The leaders of the Underground believe that if they can disrupt the production and distribution of Prozium for a short period of time, even a single day, then the Librians will rise up and destroy the Tetragrammaton Council. The Underground operates within Libria itself, but also has contact with resistance groups residing in \"The Nethers\", the ruins of cities destroyed during World War III. These outsiders hoard objects and artifacts from the old society before World War III, including art and literature. Subsequently, they are the targets of Librian death squads composed of police and Clerics. The film's protagonist, Grammaton Cleric First Class John Preston (Christian Bale), is Libria's highest ranking cleric. He is a widower whose wife (Maria Pia Calzone) was executed after being revealed to be a sense offender, leaving him with two children, Robbie (Matthew Harbour) and Lisa (Emily Siewert). After a raid on a group of resistance members in The Nethers, Preston notices that his partner, Grammaton Cleric First Class Errol Partridge (Sean Bean), has personally taken a copy of the poems of Yeats under false pretenses. Preston discovers that Partridge has not turned the book over for destruction and follows him to a ruined cathedral in The Nethers, where Partridge speaks of emotion and forces Preston to aid him in suicide by cop. Shortly afterwards, Preston accidentally breaks the vial of his morning dose of Prozium, and begins to experience emotions. Preston is assigned a new partner, the career-conscious Brandt (Taye Diggs). Following a standard police raid on a Librian woman, Mary O'Brien (Emily Watson), who has stopped taking Prozium, his emotional confusion is exacerbated during her interrogation. He first acts out of emotion when he makes an excuse not to execute a puppy in The Nethers. Preston has by now ceased taking Prozium and is forced to try and maintain his monotone and emotionless façade in front of his son and the increasingly suspicious Brandt. Over the course of the film, Preston's behavior increasingly mirrors that of Partridge in the beginning, even to the point of repeated dialogue. Soon, Preston is involved in illegal activities. During one visit to the Nethers, he is forced to kill several Librian policemen who find the rescued puppy in his car. Brandt, having seen Preston re-arranging his desk (signaling a dislike of conformity) and refusing to personally execute resistance members during a raid in the Nethers, becomes more suspicious. In consequence, Preston is summoned before Vice-Counsel DuPont (Angus Macfadyen), and explains that he is attempting to infiltrate the Resistance in order to destroy it. DuPont tells him that he has heard rumors of a cleric attempting to join the Resistance, and Preston promises to find this traitor. Preston soon makes contact with the Resistance. He agrees to assassinate Father (Sean Pertwee), an act which will create enough confusion for the Underground to detonate bombs in Libria's Prozium factories and hopefully bring down the Tetragrammaton Council. However, watching Mary O'Brien's execution in Libria's furnaces causes Preston to weep uncontrollably, and Brandt arrests him. Brandt brings Preston before DuPont; Preston, however, tricks DuPont into believing Brandt was the criminal. Apparently cleared, Preston is released. He returns home to destroy his stashed Prozium before police find it, and is confronted by his young son, who reveals to Preston that he and his sister have not taken Prozium for some time, and have already hidden his cache of Prozium. As part of an elaborate plot formed with the Underground, the leaders of the Resistance turn themselves in to Preston, who persuades DuPont to grant him an audience with Father. Preston arrives for his audience with Father, and is confronted by Father in a sudden reversal. Via a telescreen, Father speaks to Preston, revealing that he has been aware of Preston's sense-offense, and has staged Brandt's arrest in order to lull Preston into a false sense of security and allow him to think that his assassination scheme can go ahead. The face on the telescreen changes, revealing the face of Vice-Council DuPont, who explains that the real Father died years before, and that the Tetragrammaton Council elected DuPont as the new Head of State. Preston, however, embarks on a rampage using concealed pistols that he uses in order to reach Brandt and DuPont. Preston and Brandt face each other using paired short swords (similar in size and shape to the Japanese wakizashi), but Preston easily dispatches Brandt. Preston and DuPont then confront each other with handguns in a battle of Gun Kata masters, during which Preston manages to get the upper hand and kills DuPont. Preston then destroys the propaganda machines which broadcast across Libria, and the device which projects holographic images of Father. Realizing that the Tetragrammaton Council is faced with a crisis, the Underground detonates their bombs and the prisoners are released. The film ends with a riot signaling the destruction of the Librian government.",
+      "writers": ["Kurt Wimmer"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0238380/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTkzMzA1OTI3N15BMl5BanBnXkFtZTYwMzUyMDg5._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Christian Bale, Sean Bean, Emily Watson | See full cast and crew »"],
+      "reviews": [
+         "I know it's stupid to believe that a futuristic society is dumb enough to believe that the mere existence paintings, poems and sculptures can somehow lead to WW4. I know there's a statue as well as stylish architecture in the headquarters of the people who ban artwork. I know it's stupid to assume that a culture based on taking a drug every morning is not a very secure or feasible idea. I know it makes no sense for a culture with no emotions to still be able to fall in love, choose a spouse and desire sex to create children. I know half the people that Preston attacks are just standing there doing nothing while they wait to get their ass kicked. I know the sets look cheap. I know it's stupid that the \"police\" seem to die because their helmet glass breaks, when they'd probably be smart enough to have shatter-proof, if not bullet-proof plexiglass in the first place. I know there's no reason random citizens would sit in a square to watch a guy on a big screen giving a speech, re-enforcing what the characters already know. I know it paints a stupid picture of characters with emotion as looking like long-haired Gothic slobs who do nothing but sit in rooms with paintings and LP records and poetry books all day. I know the emotionless characters express emotions and crack facial expressions when they're probably not supposed to. I know Gun-Fu doesn't make much sense as to its practicality. I know this film is an inspired rip-off of \"Fahrenheit 451\", \"1984\", \"THX-1138\", \"Brazil\", and \"Blade Runner\". ................But I love it. Although it's a mish mash of every \"man vs. futuristic oppressive society\" film ever made, it manages to pull it off as good as some of its inspirations. The film's story and message is clear. The action is fresh, original, readable and gets the adrenaline flowing. The atmosphere is clearly defined. The production design is inspired. Christian Bale and Emily Watson are superb. The ending is satisfying. 8/10 *More power to Wimmer and Bale! I look forward to \"Ultraviolet\" and \"Batman Begins\".",
+         "I went in to see \"Equilibrium\" with no knowledge of the movie other than a two line synopsis from a local newspaper and the movie poster in the theater lobby. As usual, I was practicing my theory of \"lowered expectations.\" I expect a movie to be horribly awful ahead of time, so I can not be disappointed. I was not disappointed. At the end of the film I could not sit still in my seat. I felt the urge to go out into the world and proclaim the utter awesomeness of \"Equilibrium.\" Such words as \"Sweet,\" \"Crazy,\" and \"Righteous\" sprang forth from my lips in rapid succession when I talked about the movie with my friends. Not since the \"Fellowship of the Ring\" have I desired to sing a movie's praises. And I mean literally SING. \"Equilibrium\" could, and should, be the sleeper hit of the year. The film's action sequences stir up the blood and pump the adrenaline as if you were riding a roller-coaster. The art style, while minimalistic, and thus maybe confused for low-budget by some, is actually quite successful in portraying a totalitarian and emotionless society. The acting is excellent as well, and quite possibly the best I have seen in an action film in long time. While the nay-sayers will say that the film is too unoriginal, borrowing elements of its story and premise from \"Fahrenheit 451\" and \"Brave New World,\" these complaints can be disregarded as the movie adds enough of its own style and story to make the comparisons plausible in basic premise only. In the end, like any movie, \"Equilibrium\" is meant as entertainment. And entertain it does. It does it so very well. It mixes action and with substantial plot and original style to make an excellent whole. Go see it. Go see it twice. Go see \"Equilibrium,\" Cleric.",
+         "Set in a future, post-World War III society where emotions have been outlawed, Equilibrium tells the story of John Preston (Christian Bale), a government agent who begins to have doubts about the policy he is enforcing. Equilibrium is the perfect example why I do not rate lower for derivativeness or unoriginality. The film is basically high-concept combination of Fahrenheit 451 (1966), George Orwell's novel Nineteen Eighty-Four (original published in 1949, film versions appeared in 1954, 1956 and 1984), The Matrix (1999) and a bit of The Wizard of Oz (1939) thrown in for good measure. What matters is not how original the ideas are (assuming it's not a case of plagiarism), as whether something is original or not is an epistemological problem that tells us more about our own familiarity with other material rather than the precedent status of the artwork we're questioning, but how well the material is handled. The high-concept material in Equilibrium is handled brilliantly. On its surface, after a brief action-oriented beginning, Equilibrium is basically a progression from a fairly complex sci-fi film (meaning simply that it takes a lot of exposition to get up to speed) to a thriller to a \"gun fu\"-styled actioner. The progression is carried out deftly by writer/director Kurt Wimmer (who unfortunately hasn't shown the same level of elegant panache in other films I've seen from him, including Sphere (1998) and The Recruit (2003)), with all of the genres somewhat present throughout the film. Wimmer is so austerely slick here that Equilibrium sometimes resembles a postmodernist automobile commercial. The transition from genre to genre is incredibly smooth. The most impressive material on this surface level is the gun fu action stuff, which almost \"out-Matrixes\" The Matrix in style, if not volume. Preston is so skilled to be an almost invincible opponent. His solitary misstep as a fighter occurs once he gives himself over to emotion. This is nicely related to the common advice from kung fu senseis that emotion lessens one's effectiveness in combat. Of course a big part of Equilibrium is the set of philosophical points it has to make about emotion. There are sections of the film that are appropriately dialogue-heavy, and Wimmer is more than conspicuous with this (one of two) primary theme(s). Just as important as dialogue for Wimmer's commentary on man's emotions are body language and behavior. Some viewers might see it as a flaw that characters frequently show what they consider to be signs of emotions in their comments or behavior, but that's part of Wimmer's agenda. Because it's difficult to even say just what counts as an emotion, and emotions are so wrapped-up with being sentient beings, it would be difficult if not impossible to fully eliminate them, and it's certainly not recommendable. The cast does an excellent job of portraying characters who are supposed to be mostly emotionless but with cracks in the stoic armor continually poking through. Wimmer has a harsh view of our society's self-medication epidemic--even the title of the film seems to be a stab at the common claim that drugs like Prozac and Xanax are taken to help one \"smooth out\", or \"equalize\", extremes of mood, or extreme dispositions. The Equilibrium government extends this agenda into the tangible material realm as they also attempt to \"smooth out\" mood swings by eliminating any cultural artifacts that might promote varied moods/emotions. Wimmer seems to see it as a not-too-exaggerated extension of the modus operandi behind Prozac-like drugs. The other primary theme is one of institutional control. Wimmer has a lot to say about unquestioningly following authorities, and he's careful to show that it's not just governmental authorities that can be a problem. He does this by tightly wrapping religious allegory with his depiction of Equilibrium's government. The leader is known as \"Father\", and the government secret service members are \"clerics\". Those outside of this control are shown as authentic, free, individualistic and happy despite the hardships involved with their embrace of forbidden thought/items. More subtly, Wimmer employs the now overused washed out blue-gray cinematography of late 1990s/early 2000s genre films towards an unusual end. It's not just a stylistic device here, but represents a particular kind of reality. Under the purview of the fascistic government, blue-gray predominates. When glimpses of freedom/authenticity enter the film, the blue-gray look is gone, replaced with strongly saturated warm colors, and occasionally a more nostalgic subdued tone. This is one of the film's similarities to The Wizard of Oz, although maybe not the most significant one. If you're someone who cherishes originality for its own sake, you might not like Equilibrium as much, but you have much more serious epistemological problems to sort out. Otherwise, this is a film worth watching and thinking about.",
+         "If you are a fan of such books as Brave New World, 1984, The Giver, or This Perfect Day or movies like the Matrix and Logan's Run--Equilibrium is just the movie for you. In addition to a terrifying plot set in our very own future, the movie has mind-blowing action sequences that are choreographed beautifully (but not obviously) and shot brilliantly and spectacular acting on the part of Christian Bale. I hate predictable movies and this one is anything but...there are so many twists and turns, you'll be on the edge of your seat with suspense the majority of the time. I was hooked within the first minute! Whether you love action or a great plot line, this movie gives the Matrix trilogy (especially Reloaded and Revolutions) a run for its money--to say the least.",
+         "I watched this movie late one night on one of the Encore channels. Stayed up past my bedtime I did. Then I recorded it the next time it was on. Watched it two more times and then, AND THEN, bought the DVD and watched it a couple if not three more times. First, I rarely will watch a movie twice unless enough time has passed that I have forgotten how it ends. There are just too many movies out there and not enough time. But this movie deserved the time. I loved the fight scenes, loved the premise of the movie, loved the acting (and seeing Christian Bale shirtless). Emily Watson is an amazing actress. It's rare these days to see an action/SciFi with actual plot and dialog. How can I care about a movie if I don't care about the characters? Anyway, watch it. I've lent the movie to about 5 guys and they all liked it. One guy is into the Martial Arts and he thought the fight scenes were awesome (my word -- his word/s was/were \"the fight scenes were well choreographed\"). Moral of the story is: watch it, you won't be disappointed. Oh, and I said \"Surprisingly Good\" because I had never heard of the movie and was expecting some B movie crap -- what can I say, I couldn't sleep.",
+         "I've seen this movie 5 times (it's the nature of satellite TV) within the past week and it's true...you catch something you've missed or see something new with every successive viewing. This movie is way ahead of its time, and much better than the over-rated Matrix. Bale is always exceptional, and so is his \"Metroland\" co-star, Emily Watson. Maybe it's the Anglophile or Brit-flick fan in me, but I must say that the added presence of Sean Bean and Angus MacFadyen all but confirms the pre-eminence of UK acting in quality films. Accompanied by very appropriate techno-musik, the action sequences are fast and Euro-flashy, heavily influenced by Jan De Bont--different from the weird, drawn-out, \"suspended/string puppet\" thing that apparently passes for martial arts these days. (I miss Bruce Lee) Anyway, if you haven't seen it, give this a shot. If you already have & weren't impressed, take a look at it again. It will grow on you. See if you're inclined to show up to work the next day looking and acting very much a \"Cleric\" who missed a Prozium dose.",
+         "The \"Equilibrium\" is one of the very little action movies that actually make sense! The script was influenced by many books and it worked! The film is really great, quick action, combined with a brilliantly stated philosophical question, breathtaking scenes with lots of effects, superb actors! It perfectly balances on the verge between just a high-budget nonsense action film (despite it's low budget) and extremely boring science-fiction film. It was quite a nice surprise when I watched it, because the director is not famous! And there was not any Hollywood superstar but all and the acting is amazingly great! Like the actors completely fit in their roles and ruthlessly overwhelm the weak script parts! I still remember the change of the emphasis when the main character changed sides! With this performance it is a serious competitor of \"the matrix\" or maybe more! Although one little remark must be made in the beginning, when cleric Preston enters the barricaded room with the rebels, some shooting scenes are the same! But I guess there is not a good film without a little weakness in it, is it?",
+         "If there is one complaint about the Hollywood system that rings true, it is that Hollywood seems quite bereft of ideas. Then films like Equilibrium come out and remind us that it's not that we're out of ideas so much as we're just not trying hard enough. Not that Equilibrium is inherently new - it borrows a fair few plot concepts from Farenheit 451 and Nineteen Eighty-Four, to name the most prominent examples. It is the way in which the old ideas are combined with the new that makes Equilibrium a fun and underrated experience. The premise is simple enough. In a kneejerk reaction to the horrors of World War Three, the survivors outlaw what they blame the chaos upon. Their own emotions, in other words. As the lead character has a series of revelations, we begin to understand that in so doing, they have also outlawed much of what gives our existence a point. In the bland, lifeless world that the law-abiding citizens inhabit, everything that the audience takes for granted to make their lives worthwhile is being systematically destroyed. Shades of the America of today, the whole principle of throwing the baby out with the bathwater, are shown in a stark horror show. I've read people comparing this film to The Matrix or its sequels. Where The Matrix series' fights were overlong, and often with no payoff, Equilibrium's fights are short and to the point. The difference this makes is, needless to say, as uplifting as Preston's fight to regain the humanity he stripped so many others of. Instead of having fights with no emotional connection to the characters, the story is given sufficient development to make the audience care what happens. The film is not entirely without flaws. The Prozium element seems to have been written with no regard for the facts about psychiatric medicines. Their purpose is not to suppress emotion at all, but to balance the chemical system of the brain in order to give the patient better control of them. Sure, they're not without problems of their own, but exaggerating them like this does not do the portion of the community that needs them any favours. That aside, however, the on-camera struggle is one of the most intriguing I've viewed for some time. Ergo, this minor plot problem is made up for. The only other real complaint I have is that the film could have done with a little more footage to give some characters more of a chance to develop. I gave Equilibrium an eight out of ten. It's not the best negative science fiction you'll ever see, but it is enough of a breath of fresh air that this won't entirely matter. If the MPAA made more films like this, it wouldn't be suffering the constant financial dire straits that it so loves to blame everyone else for.",
+         "I think this movie was a good movie, and I also think that most critics were unjustified in their reasoning for panning it. Almost seems like a conspiracy. Anyway, the story was interesting, it set up some kind of a reality where we have this \"gun kata\", and stuck with it. The \"gun kata\" never became a deus ex machina, it just drove the action sequences, while staying clear of the actual plot, which had some interesting twists, certainly more than the matrix. I think Christian Bale's character was a kind of clone of keanu reeves in the Matrix, but he is clearly a better actor, and his range was really challenged. The other characters were much less \"wooden\" and comic book like than the evil characters in the matrix, which ironically made them more human, almost too human for an action movie, and that is probably why the critics were so hard on it. The matrix (at least the first one) didn't take itself too seriously, but this one did...and I think it lived up to the challenge as much as any action movie set in the distant future with some reality bending. I really enjoyed it, and would have liked to see it in the theatre, none the less a great rent if you liked the first matrix, kill bill, or any other film that blends action with choreography and weaves an interesting tale of reality. My suggestion might have been more extreme antagonists, but then, perhaps this movie will help me accept more human-like villains in action movies. Anyway give it a try!",
+         "It looks good. Well, that's the positive aspect of this film out of the way. Quite simply, it's amazing that this film even got made, being nothing more than a sorry, derivative ragbag of pilfered ideas, with not a single one of its own to justify its existence. The nearest one can come to describing this Frankenstein monster of a travesty is \"1984\" crossed with \"The Matrix\", and the latter wasn't exactly blindingly original to begin with. As if this isn't bad enough, the film is loaded with inconsistencies and plot holes, all shoddily papered over in the name of convenience as well as scenes and dialogue so hackneyed you can see them coming a mile off (and if you can't, you should really see more films. Preferably good ones). I actually uttered one line seconds before the character did, and had to stifle risible laughter when Preston came face to face with the itty bitty, cutesy-wutesy puppy. (In this scene, please note that the budget \u0096 having probably been spent all on bullets \u0096 didn't seem to stretch to any sort of animal training, as it relies on actors pointing off-camera and saying, \"Stop it! It's getting away!\" and reaching down, most unconvincingly). Laughter, in fact, is the only realistic response to the majority of this farrago, if only to stave off the angry realisation that your time is being wasted. You want laughs? AND HERE BE SPOILERS (although it's kind of hard to spoil something that's already this rank, IMHO) In the lead up to the \"climactic\" fight, one character warns Preston that, should he get too close to\"Father\" (highly original name for a \"Big Brother\" figure, eh? Lucky they didn't call him \"Uncle\" or \"Second Cousin Twice Removed\") he'll be shot down by snipers. When the spit hits the fan, however, there are no snipers, not a one: only an endless parade of policemen, doing what they do best throughout: dying. Honest, these guys, despite their fierce get-up, turn out to be the most useless, butter-fingered cannon-fodder since the Imperial Stormtroopers in the original \"Star Wars\" (and countless other Z-grade imitations). Once you realise that they couldn't hit a barn door at ten feet and that their tactics seem to consist of merely lining up to get gunned down, you're left with no tension, nothing at stake and only the tedious sight of moronic sitting ducks being blown away, noisily, time and time and time and time again. It doesn't help that, having walked Preston into a trap and taken his weapon, they don't think to search him for anything else, leaving him free to conceal guns and an abundance of spare ammo, as well as a complicated reloading mechanism...all up his sleeves. Good thing nobody shook his hand. This is the film's idea of a \"twist\": a development so implausible, so gobsmackingly unlikely that it's an insult to any intelligent film-goer. \"Equilibrium\" is the kind of film so shoddily made and yet so pretentious, it just cries out for a parody, or to be taken apart on any of the countless \"Bad Film\" sites that are on the net. It meets all the criteria for a Bad Film, that's for damned sure. It's one thing to be unoriginal \u0096only a certain number of plots in the world, yada yada \u0096 but it's another thing to be quite so offensively cack-handed about it."
+      ],
+      "genres": [
+         "Action",
+         "Drama",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Dimension Films",
+         "Blue Tulip Productions"
+      ],
+      "summaries": [
+         "In a futuristic world, a strict regime has eliminated war by suppressing emotions: books, art and music are strictly forbidden and feeling is a crime punishable by death. Cleric John Preston (Bale) is a top ranking government agent responsible for destroying those who resist the rules. When he misses a dose of Prozium, a mind-altering drug that hinders emotion, Preston, who has been trained to enforce the strict laws of the new regime, suddenly becomes the only person capable of overthrowing it.",
+         "At the end of World War III, the world fell under the control of Father and the Tetragrammaton: a government that outlaws all forms of art and emotion. Citizens are forced to take drugs that eliminate emotions. However, \"Sense Offenders\": citizens who resist the laws and operate underground are continually at war with the Tetragrammaton. John Preston is a Cleric, an elite super-soldier who's mission is to hunt down and eliminate Sense Offenders with the help of a ruthless police force. One day, Preston accidentally breaks his morning dose of emotion suppressant drug and begins to feel. Soon, he begins sympathizing with the Sense Offenders and begins to understand the beauty of feeling... A beauty that the government, in which Preston spent his life serving, would like to see destroyed.",
+         "In the future, after the Third World War, the world is ruled by a totalitarian and fascist society with the leadership of 'The Father'. Arts, music, books, luxury and feelings are not acceptable, and persons uses a drug called 'Prozium' in a daily basis to repress their feelings and feel happy. The opponents to this new world are called offenders and they form the underground resistance to the system, who are destroyed by very-well trained and powerful agents called 'The Clericks'. John Preston is one of this agents, and his life changes when he misses his daily dose of 'Prozium'.",
+         "In a Fascist future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system."
+      ],
+      "budget": 20000000
+   },
+   "movielensId": 5903,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2002-12-06",
+      "dvdReleaseDate": "2003-05-13",
+      "directors": ["Kurt Wimmer"],
+      "runtime": 107,
+      "movieId": 5903,
+      "title": "Equilibrium",
+      "mpaa": "R",
+      "actors": [
+         "Christian Bale",
+         "Taye Diggs",
+         "Emily Watson",
+         "Angus Macfadyen",
+         "Sean Bean",
+         "Dominic Purcell",
+         "Christian Kahrmann",
+         "Sean Pertwee",
+         "William Fichtner",
+         "John Keogh",
+         "David Barrash",
+         "Dirk Martens",
+         "Matthew Harbour",
+         "Maria Pia Calzone",
+         "Emily Siewert",
+         "Florian Fitz",
+         "David Hemmings",
+         "Brian Conley",
+         "Anatole Taubman"
+      ],
+      "imdbMovieId": "0238380",
+      "originalTitle": "Equilibrium",
+      "genres": [
+         "Action",
+         "Science Fiction",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["7wf8LEeoVS4"],
+      "plotSummary": "In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system.",
+      "tmdbMovieId": 7299,
+      "avgRating": 3.74054,
+      "releaseYear": "2002",
+      "numRatings": 10624,
+      "posterPath": "/nOPW98NU67VN7g0ms5WD5nBVgEv.jpg"
+   }
+}

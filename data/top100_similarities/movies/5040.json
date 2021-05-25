@@ -1,0 +1,931 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "swordplay",
+            "id": 1400
+         },
+         {
+            "name": "sword",
+            "id": 1938
+         },
+         {
+            "name": "magic",
+            "id": 2343
+         },
+         {
+            "name": "warrior woman",
+            "id": 3389
+         },
+         {
+            "name": "lone wolf",
+            "id": 3568
+         },
+         {
+            "name": "royalty",
+            "id": 9920
+         },
+         {
+            "name": "barbarian",
+            "id": 14665
+         },
+         {
+            "name": "wizard",
+            "id": 177912
+         },
+         {
+            "name": "sword and sorcery",
+            "id": 234213
+         }
+      ],
+      "imdb_id": "tt0087078",
+      "video": false,
+      "title": "Conan the Destroyer",
+      "recommendations": [
+         9387,
+         9626,
+         9604,
+         865,
+         10999,
+         9946,
+         2099,
+         9268,
+         9691,
+         9350,
+         9349,
+         9593,
+         9208,
+         10061,
+         1370,
+         8010,
+         9594,
+         9482,
+         9884,
+         9493
+      ],
+      "backdrop_path": "/aoHrTDANGQ05ygmLX49OXhTn9jA.jpg",
+      "revenue": 100000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Conan",
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba66f",
+               "name": "Arnold Schwarzenegger",
+               "profile_path": "/zooXFWF1JtrV7UnZyGRxXDW11qt.jpg",
+               "id": 1100,
+               "order": 0
+            },
+            {
+               "cast_id": 9,
+               "character": "Zula",
+               "gender": 1,
+               "credit_id": "52fe4511c3a36847f80ba673",
+               "name": "Grace Jones",
+               "profile_path": "/8MBh8TXQYoEGHbyf7XKRbXH7kTA.jpg",
+               "id": 10661,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Bombaata",
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba677",
+               "name": "Wilt Chamberlain",
+               "profile_path": "/lRFWkKyTsQGdSYx8HNq7g8q7lCn.jpg",
+               "id": 58181,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Malak",
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba67b",
+               "name": "Tracey Walter",
+               "profile_path": "/pMeImyAZ8fpQ32QyPO8g6W8gs13.jpg",
+               "id": 3801,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Akiro 'The Wizard'",
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba67f",
+               "name": "Mako",
+               "profile_path": "/gU3eoZP8OQZLFMPZ9MYWa6pajvT.jpg",
+               "id": 10134,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Queen Taramis",
+               "gender": 1,
+               "credit_id": "52fe4511c3a36847f80ba683",
+               "name": "Sarah Douglas",
+               "profile_path": "/t0FE7AH4c9O7ro4QK6wis3RfzEv.jpg",
+               "id": 31364,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Princess Jehnna",
+               "gender": 1,
+               "credit_id": "52fe4511c3a36847f80ba687",
+               "name": "Olivia d'Abo",
+               "profile_path": "/l7m7nw7wQFvc2ROXOTa4Flblh4M.jpg",
+               "id": 46423,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Man Ape / Toth-Amon",
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba68b",
+               "name": "Pat Roach",
+               "profile_path": "/5YXmfgXqCjqEhmyjz1xhuWy8Zr4.jpg",
+               "id": 10942,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Grand Vizier",
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba68f",
+               "name": "Jeff Corey",
+               "profile_path": "/qchQWDmKLhr6QRDIsUFyjezXXT.jpg",
+               "id": 9596,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Togra",
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba693",
+               "name": "Sven-Ole Thorsen",
+               "profile_path": "/vNjv3gk22eqihzOqXm2vz5yP58V.jpg",
+               "id": 20761,
+               "order": 9
+            },
+            {
+               "cast_id": 67,
+               "character": "Dagoth",
+               "gender": 2,
+               "credit_id": "57c7149092514138d2009345",
+               "name": "André the Giant",
+               "profile_path": "/wJPL8WVrzOWhkH6gCQkqGsXBdWG.jpg",
+               "id": 25504,
+               "order": 10
+            },
+            {
+               "cast_id": 81,
+               "character": "The Leader",
+               "gender": 2,
+               "credit_id": "5a0e105fc3a368628c0015e9",
+               "name": "Ferdy Mayne",
+               "profile_path": "/cUfriRFlTJpP5XxITl5Y4KxTsfl.jpg",
+               "id": 26557,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4511c3a36847f80ba647",
+               "name": "Richard Fleischer",
+               "profile_path": "/pChGBiYPxqPfozB7GlDFCIjCQxs.jpg",
+               "id": 2087,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba64d",
+               "name": "Stanley Mann",
+               "profile_path": null,
+               "id": 58180,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4511c3a36847f80ba653",
+               "name": "Raffaella De Laurentiis",
+               "profile_path": null,
+               "id": 12507,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba659",
+               "name": "Edward R. Pressman",
+               "profile_path": null,
+               "id": 32035,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba65f",
+               "name": "Basil Poledouris",
+               "profile_path": "/jEUcVOa9gppkDvr5MJOvSD5KVtj.jpg",
+               "id": 7728,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba665",
+               "name": "Jack Cardiff",
+               "profile_path": "/3WSJNaLdjX2ToZ3QrNhkpBS9fe6.jpg",
+               "id": 6603,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba66b",
+               "name": "Frank J. Urioste",
+               "profile_path": null,
+               "id": 7715,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba69f",
+               "name": "Gerry Conway",
+               "profile_path": null,
+               "id": 35287,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4511c3a36847f80ba6a5",
+               "name": "Robert E. Howard",
+               "profile_path": null,
+               "id": 57547,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba6ab",
+               "name": "Dino De Laurentiis",
+               "profile_path": "/l5skcaSr7QLDMOpAahznDjUW9Ec.jpg",
+               "id": 5398,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4511c3a36847f80ba6b1",
+               "name": "Stephen F. Kesten",
+               "profile_path": null,
+               "id": 718968,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4511c3a36847f80ba6b7",
+               "name": "Johanna Ray",
+               "profile_path": null,
+               "id": 3686,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53883b170e0a261444005cbb",
+               "name": "Pier Luigi Basile",
+               "profile_path": null,
+               "id": 16595,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54fb4538c3a368693b001bc7",
+               "name": "Roy Thomas",
+               "profile_path": null,
+               "id": 141359,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5885f2d7c3a3684d60006f88",
+               "name": "Giles Masters",
+               "profile_path": null,
+               "id": 7787,
+               "department": "Art",
+               "job": "Draughtsman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5885f2fe925141321e007d11",
+               "name": "Giorgio Desideri",
+               "profile_path": null,
+               "id": 12511,
+               "department": "Art",
+               "job": "Set Dresser"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c1820c3a36858dc000c8a",
+               "name": "José María Alarcón",
+               "profile_path": null,
+               "id": 1427535,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569c1833c3a36858cb000b9f",
+               "name": "Kevin Phipps",
+               "profile_path": null,
+               "id": 8382,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c18719251415e67000c9e",
+               "name": "Sante Barelli",
+               "profile_path": null,
+               "id": 1564962,
+               "department": "Art",
+               "job": "Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c189c9251415e73000c0f",
+               "name": "Tanya Lowe",
+               "profile_path": null,
+               "id": 1564964,
+               "department": "Art",
+               "job": "Production Illustrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c18b4c3a36858d2000c07",
+               "name": "Andrew Holder",
+               "profile_path": null,
+               "id": 1564965,
+               "department": "Art",
+               "job": "Sculptor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c18eb9251415e5e000ce9",
+               "name": "Steve Cooper",
+               "profile_path": null,
+               "id": 1198658,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c190bc3a36858d2000c15",
+               "name": "Neil Binney",
+               "profile_path": null,
+               "id": 1370844,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c19599251415e73000c24",
+               "name": "George Whitear",
+               "profile_path": null,
+               "id": 1427545,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569c1973c3a36858ce000caf",
+               "name": "John Bloomfield",
+               "profile_path": null,
+               "id": 7793,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c19e79251415e6a000bef",
+               "name": "Mirella De Rossi",
+               "profile_path": null,
+               "id": 1427532,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c19fbc3a36858c6000d18",
+               "name": "Luigi Rocchetti",
+               "profile_path": null,
+               "id": 27205,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c1a579251415e60000d6b",
+               "name": "Anuar Badin",
+               "profile_path": null,
+               "id": 1099088,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569c1a899251415e640018be",
+               "name": "Stephen F. Kesten",
+               "profile_path": null,
+               "id": 718968,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c1b1ac3a36858e5000ccb",
+               "name": "Ron Downing",
+               "profile_path": null,
+               "id": 1564968,
+               "department": "Art",
+               "job": "Standby Painter"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569c1b31c3a36858cb000bff",
+               "name": "William Stout",
+               "profile_path": null,
+               "id": 136450,
+               "department": "Art",
+               "job": "Conceptual Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c1b48c3a36858c6000d40",
+               "name": "Graham Sumner",
+               "profile_path": null,
+               "id": 1338884,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c20339251415e73000cb5",
+               "name": "Moises Pineda",
+               "profile_path": null,
+               "id": 1564986,
+               "department": "Art",
+               "job": "Set Decoration Buyer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c2056c3a36858ce000d4d",
+               "name": "Ray Alba",
+               "profile_path": null,
+               "id": 122082,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c206bc3a36858c8000d15",
+               "name": "Wayne Artman",
+               "profile_path": null,
+               "id": 1302182,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c20899251415e67000d96",
+               "name": "Milton C. Burrow",
+               "profile_path": null,
+               "id": 1377422,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c20fd9251415e73000cd6",
+               "name": "Manuel Topete",
+               "profile_path": null,
+               "id": 1564988,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c21239251415e60000e2c",
+               "name": "Antonio Balandín",
+               "profile_path": null,
+               "id": 1564484,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569c21389251415e73000cde",
+               "name": "Carlo Rambaldi",
+               "profile_path": null,
+               "id": 20504,
+               "department": "Visual Effects",
+               "job": "Creature Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c21519251415e6400196a",
+               "name": "John K. Stirber",
+               "profile_path": null,
+               "id": 1401350,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c216a9251415e67000dad",
+               "name": "Charles L. Finance",
+               "profile_path": null,
+               "id": 92229,
+               "department": "Visual Effects",
+               "job": "Visual Effects Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569c21889251415e73000ce4",
+               "name": "Vic Armstrong",
+               "profile_path": null,
+               "id": 15358,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c21a1c3a36858cb000cba",
+               "name": "Román Ariznavarreta",
+               "profile_path": null,
+               "id": 589876,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c21be9251415e67000db6",
+               "name": "Roy Furness",
+               "profile_path": null,
+               "id": 1452752,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c21fe9251415e70000dd6",
+               "name": "Frank Heeney",
+               "profile_path": null,
+               "id": 1564990,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c24739251415e6d000ce2",
+               "name": "John Matthews",
+               "profile_path": null,
+               "id": 1564996,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c24b29251415e5e000e10",
+               "name": "Mark Eggenweiler",
+               "profile_path": null,
+               "id": 1421673,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c24ee9251415e60000e8d",
+               "name": "Greig McRitchie",
+               "profile_path": null,
+               "id": 1057871,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c250a9251415e70000e18",
+               "name": "Arturo Curiel",
+               "profile_path": null,
+               "id": 1400355,
+               "department": "Crew",
+               "job": "Driver"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569c25209251415e73000d76",
+               "name": "Craig Campobasso",
+               "profile_path": null,
+               "id": 25297,
+               "department": "Crew",
+               "job": "Production Office Assistant"
+            },
+            {
+               "gender": 1,
+               "credit_id": "569c2539c3a36858cb000d16",
+               "name": "Pamela Carlton",
+               "profile_path": null,
+               "id": 1535412,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c258e9251415e73000d81",
+               "name": "Juan Clemente Prosper",
+               "profile_path": null,
+               "id": 1564500,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569c25b0c3a36858c6000e7a",
+               "name": "Anne Strick",
+               "profile_path": null,
+               "id": 74824,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5885f332925141322a0080f4",
+               "name": "Apache",
+               "profile_path": null,
+               "id": 1564967,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5885f3569251413223007cd3",
+               "name": "Mary Etta Lang",
+               "profile_path": null,
+               "id": 1743943,
+               "department": "Costume & Make-Up",
+               "job": "Ager/Dyer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5885f3839251413227007e2e",
+               "name": "Thomas Casterline",
+               "profile_path": null,
+               "id": 1481831,
+               "department": "Costume & Make-Up",
+               "job": "Wardrobe Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5885f3dbc3a3684d60007040",
+               "name": "Donah Bassett",
+               "profile_path": null,
+               "id": 1743909,
+               "department": "Editing",
+               "job": "Negative Cutter"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5885f401925141322a0081a0",
+               "name": "Nina Axelrod",
+               "profile_path": "/ow9QmF5xfj8FA7CLwskqCg6Hwjw.jpg",
+               "id": 27241,
+               "department": "Production",
+               "job": "Casting Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5885f429c3a3684d70007fd6",
+               "name": "Shelley Brown",
+               "profile_path": null,
+               "id": 1743912,
+               "department": "Sound",
+               "job": "Apprentice Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5885f44dc3a3684d5a008c3b",
+               "name": "Jeff Jones",
+               "profile_path": null,
+               "id": 1743947,
+               "department": "Sound",
+               "job": "Assistant Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5885f4629251413221007b0e",
+               "name": "Basil Poledouris",
+               "profile_path": "/jEUcVOa9gppkDvr5MJOvSD5KVtj.jpg",
+               "id": 7728,
+               "department": "Sound",
+               "job": "Conductor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5885f485c3a3684d5a008c5f",
+               "name": "Angelo Giovagnoli",
+               "profile_path": null,
+               "id": 239884,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5885f4ac925141322a00820c",
+               "name": "Daniel Allan Carlin",
+               "profile_path": null,
+               "id": 1556700,
+               "department": "Sound",
+               "job": "Supervising Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "592974a1c3a368783e04bcc0",
+               "name": "Maurice Zuberano",
+               "profile_path": null,
+               "id": 1337773,
+               "department": "Writing",
+               "job": "Storyboard"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Action",
+            "id": 28
+         }
+      ],
+      "popularity": 10.483249,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 9610,
+      "vote_count": 481,
+      "budget": 18000000,
+      "overview": "Based on a character created by Robert E. Howard, this fast-paced, occasionally humorous sequel to Conan the Barbarian features the hero (Arnold Schwarzenegger) as he is commissioned by the evil queen Taramis (Sarah Douglas) to safely escort a teen princess (Olivia D'Abo) and her powerful bodyguard (Wilt Chamberlain) to a far away castle to retrieve the magic Horn of Dagon. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen's plans fail to take into consideration Conan's strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro (Mako), the wild woman Zula (Grace Jones), and the inept Malak (Tracey Walter). Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+      "similar": [
+         37430,
+         68735,
+         57158,
+         2312,
+         12445,
+         27022,
+         809,
+         879,
+         120,
+         121,
+         616,
+         674,
+         767,
+         808,
+         259316,
+         10882,
+         10140,
+         68737,
+         150689,
+         122917
+      ],
+      "original_title": "Conan the Destroyer",
+      "runtime": 103,
+      "poster_path": "/wLIpIZ0KBopuAsvPBQRSGNjjFVT.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "De Laurentiis Entertainment Group (DEG)",
+            "id": 484,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/oappZpW9UoU3NXnjmooHlXmaPHE.png",
+            "name": "Universal Studios",
+            "id": 13,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1984-06-29",
+      "vote_average": 5.8,
+      "belongs_to_collection": {
+         "backdrop_path": "/lGhx5lQiPJ79piSrXHgN5pSmJjh.jpg",
+         "name": "Conan the Barbarian Collection",
+         "id": 43055,
+         "poster_path": "/vguM8mJmArTn9ePTm8fK0Ryt7EI.jpg"
+      },
+      "tagline": "The most powerful legend of all is back in a new adventure.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Richard Fleischer"],
+      "runtime": 103,
+      "synopsis": "While praying at an altar with his traveling companion and fellow thief Malak (Tracey Walter), Conan (Arnold Schwarzenegger) is confronted by Queen Taramis (Sarah Douglas) of Shadazar, who tests the pair in combat with several of her guards attempting to capture him. She tells him that she has a quest for him, which he initially refuses. The queen uses her power to learn his greatest desire, to resurrect his beloved Valeria, and promises to bring her back to him, to which Conan agrees to the quest. They learn that the queen's niece, Jehnna (Olivia d'Abo) has been destined, due to a special birthmark, to find a special jewel that only she can touch and with it obtain the jewelled horn of the dreaming god, Dagoth. She tasks Conan and Malak to protect her on this journey, while her captain of the guard, Bombaata (Wilt Chamberlain), is secretly asked to betray and kill Conan once the task is complete so they can sacrifice Jehnna to the god without interruption. Due to the task of confronting a powerful wizard for the gem, Conan seeks the help of his friend, another wizard named Akiro (Mako) whom he saved from a tribe of cannibals that were about to eat him to absorb his magic power. Enroute they also meet Zula (Grace Jones), a powerful warrior and a bandit whom Jehnna and Conan save from being tortured by a group of villagers she and other bandits tried to raid, she joins the quest indebted to Conan for saving her life. They find their way to the wizard Toth-Amon's (Pat Roach) icy castle upon a lake. When they camp, however, the wizard transforms into a bird of smoke and takes Jehnna during the night. The travelers make their way into the castle and Conan is able to defeat the wizard, destroying the illusion and prompting a hasty escape from the castle. With the jewel now in hand they start to make their way to where the horn is hidden. Jehnna expresses interest in Conan, but he drunkenly rejects her for Valeria. They make their way to an ancient temple, and using the power of the jewel Jehnna is able to find and obtain the horn. Guardians of the horn attack the group and they manage to slip out a back entrance. Bombaata, having failed previously to kill Conan instead blocks their exit and takes Jehnna. After the others escape they make their way back to Shadizar and find their way inside due to a secret route Malak's \"cousin's sister's brother\" used previously to escape captivity. They confront Bombaata and Conan beats him in combat, killing him. Meanwhile, Jehnna is prepared to be sacrificed and the horn is placed upon the head of the Dagoth statue. Upon its first signs of life, they attempt to sacrifice Jehnna, but Zula intervenes and kills the Grand Vizier (Jeff Corey) first. Having received an improper sacrifice, the statue becomes angry and begins to twist and distort into the demonic of version Dagoth (André the Giant). Queen Taramis is killed and Conan battles the Dagoth, eventually killing it by removing the horn from its head. After the battle, the newly crowned queen Jehnna offers each of her companions a place in her new court. Zula becomes the new captain of the guard, because Jehnna does not see any reason why a woman can't do as good a job as any man. Akiro becomes her new wiseman and advisor, and Malak steps forward and nearly trips, qualifying him for the position of court fool. She offers Conan her hand and the opportunity to rule the kingdom together, which he declines; having been promised a kingdom already, and departs on his own for further adventures and to find his own place in the world.",
+      "writers": [
+         "Robert E. Howard",
+         "Roy Thomas"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0087078/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM2NTEwODA3M15BMl5BanBnXkFtZTcwNTk2NjEzNA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Arnold Schwarzenegger, Grace Jones, Olivia d'Abo | See full cast and crew »"],
+      "reviews": [
+         "Oh, I can understand why \"Conan the Destroyer\" is the way it is. The original, classic \"Conan the Barbarian\" was a hit, but the Hollywood bigwigs decided they could get x-amount more money if they made a more family-friendly sequel, thereby opening the franchise to the lucrative kid's market (never mind that, for as long as there have been \"restrictive\" movie ratings, kids have known how to get to see the movies they want). Take out the sex, tone down the violence, crank up the humor, and... out comes this movie. It's like \"Destroyer\" is stuck in a state of half-development. The basic storyline would be okay, but the script gives Conan a coterie of unneccessary sidekicks (as if Conan were not a strong enough character to carry a movie by himself). Grace Jones is interesting to look at but gets tiresome VERY fast; the cowardly sidekick gets more irritating by the second; Mako wears this expression like he's only in this one for the money. Olivia d'Abo is just plain miscast: it's like she's a marker that should read \"Insert More Interesting Character in Second Draft.\" Arnold Schwarzenegger does a competent job as Conan, but we don't see the raw power and brute force of the first movie. There is a thin line between competence and complacency, between an actor and a star; it took Roger Moore six years to get to that point in the James Bond series, while Schwarzenegger reaches the same point with Conan in two. I think part of the problem is whether or not the Conan concept is flexible enough to become family fare, and my answer is \"no.\" Fans of Robert E. Howard's Conan work know his Cimmerian is a very rough-edged hero, a cunning, hard-drinking, hard-fighting man, and the first Conan movie captured that essence. To change him into the simple-minded do-gooder of \"Conan the Destroyer\" is to destroy what Conan is all about, and the movie suffers for it. Is \"Conan the Destroyer\" worth watching? Yes. For someone who knows absolutely nothing about Conan, I suppose it can be a harmless sword-and-sorcery popcorn flick. For Conan fans, it's kind of like \"Legend of the Lone Ranger\" for Lone Ranger fans: an irresistible example of just how badly Hollywood can treat your favorite character. I just hope that if there is ever another Conan movie (not likely, thanks to \"Destroyer\"), the producers will concentrate on following the style of \"Conan the Barbarian\" and just ignore this one.",
+         "After the worldwide success of CONAN THE BARBARIAN, it was inevitable that a sequel would be made (director John Milius envisioned the saga as a trilogy, with an aged Conan ruling his own kingdom in the final chapter). But Universal, seeing star Arnold Schwarzenegger as appealing more to younger audiences, did not like the R-rated combination of gore, sex, and machismo philosophy of the first film, so Milius was unceremoniously dumped, and more family-friendly action director Richard Fleischer was brought in to helm CONAN THE DESTROYER. Working with a script by comic book scribes Roy Thomas and Gerry Conway, much of what made the first film so unique was tossed aside. While Milius had Arnold lose weight and study Oriental swordsmanship, in an effort to tone down the bodybuilder look, and make him more flexible and believable as an arena-trained warrior, Fleischer ordered the actor to bulk up as much as possible, hoping to recreate the impossibly-muscled giant painted by Frank Frazetta on the covers of the paperback CONAN novels. Instead of being a taciturn loner, Conan would joke and 'care' about people, with an idiot sidekick (Tracey Walter) to provide comic relief. Bloodletting would be mainly off-camera, sex would consist solely of flashes of cleavage, and any monsters faced would be toned-down so children wouldn't be traumatized. While all this succeeded in garnering a PG rating, the end result was less Robert Howard's barbarian, more the generic B-movie hero seen in the dozens of imitations CONAN THE BARBARIAN had inspired. The plot is simple; Cruel but beautiful Queen Taramis (SUPERMAN I and II villainess Sarah Douglas) promises to revive Conan's dead love, Valeria, if he'll lead virgin Princess Jehnna (Olivia d'Abo) and her bodyguard (basketball legend Wilt Chamberlain), on a quest to steal a giant diamond, and use it to recover a horn that will bring god Dagoth to life. Joined by his sidekick, Malak, a wizard (Mako), and a female warrior (Grace Jones), the group faces the usual array of monsters, wizards, and enemy soldiers, and defeats them all, succeeding in the quest...but Conan discovers, nearly too late, that the bodyguard has been ordered to murder him, after the horn is retrieved, and that Jehnna is to be sacrificed as part of the process of reviving Dagoth... While the fight between Conan and Toth-Amon (Pat Roach), in a hall of mirrors, is well-staged and exciting, much of the rest of the film seems flat, with one scene, of Conan blind drunk at a campfire, ridiculously out of character and silly. CONAN THE DESTROYER didn't achieve anywhere near the success of the original, but Schwarzenegger had no reason to worry; his next film would be a low-budget SF thriller called THE TERMINATOR, and he was about to become a superstar! A footnote to CONAN...in early 2003, Schwarzenegger and John Milius tentatively agreed to bring CONAN THE KING, the final chapter of the saga, to the screen...With the original director's vision, and the improvements in FX that CGI has provided, we may yet see the ULTIMATE Conan film reach the screen, if Arnold's political career doesn't take precedence!",
+         "While the original 'Conan the Barbarian' was more dramatic, the sequel is played more for laughs. Nonetheless, it is still a highly entertaining sword and sorcery fantasy flick. The music is again outstanding and carries the movie where the dialogue fails. Of particular note is Wilt Chamberlain's impressive performance as the immense Bombatta. He has a tremendous screen presence, more than just his stature (plus he had to do his own stunts!). There are lots of memorable scenes throughout the movie. Not a cerebral film, just good old-fashioned fantasy!",
+         "If you're looking for a deep, interesting and layered fantasy flick which makes sense and has an original story, go rent out the first Conan movie. Conan the Destroyer is pure Hollywood cheese, made because the Conan the Barbarian was such a hit. The studio execs made the story more light-hearted, with sidekicks and magic and the kind of story a thirteen-year-old could watch without getting in trouble. Oddly enough, it works. While it's light years away from Robert E Howard's original Conan stories, Conan the Destroyer is still great fun, even twenty years after it was made. Arnold Schwarzenegger makes the most of the very silly lines he's given, Tracey Walter proves a capable if somewhat pointless comic foil, and the irony of casting Wilt Chamberlain as a protector of a young princess' virginity is hilarious. Mako hams it up, Grace Jones takes it all too seriously and Olivia D'Abo makes for a good childlike princess because she was 16 when the film got made. The music's over-dramatic, the lines are laughable (\"Some wizard you are! Go back to juggling apples!\") and the story's cliché, but for Saturday night viewing, nothing beats Conan the Destroyer. Possibly Interesting Trivia: This movie was produced by Raffaela De Laurentis, daughter of the famous Dino De Laurentis. She also produced the confusing big-budget epic \"Dune\". Both Dune and this movie flopped at the box office, and both were filmed in Mexico.",
+         "The plot moves on at a fair old pace from one big set piece to another and it is clear the film had a decent budget. In fact, I would say that this is excellent bubblegum sword and sorcery fodder except for a few minor, but annoying quirks. For one thing the comedy sidekick Malak is phenomenally irritating, badly acted, and takes any tension, interest etc out of any scene. Clearly they were going for a wider 'family' appeal with this film, but this was also clearly a decision made some time down the filming process. Most obviously this hits home during the fight scenes with some very choppy cutting as some of the more gruesome bits have been removed. And Conan's second encounter with the camel suffers from this too! That aside the cast carry off their roles with aplomb, Grace Jones in particular really getting across her character's zest for and love of combat. One of the better hack and slash films out there.",
+         "I don't know why it got such a low rating, I really enjoyed Conan the Destroyer. I wasn't as good as the first one, but it was a very good sequel, and definitely worth watching. Good acting, good music, the special effects could have been better, but they were still good. WATCH THIS! Arnold did a really good job with this movie. I think one of the reasons people thought it wasn't good was because it was either confusing or boring. It wasn't boring at all. And it was a little confusing because it is a fantasy adventure movie! Look at Lord of the Rings, that is fantasy, only everybody loves that! What the....",
+         "The great warrior, Conan, is promised the return of his beloved Valeria if he will lead a quest to find a horn which belongs to an evil god, Dagoth. Along this journey, accompanied by the princess of whose kingdom worships Dagoth and her giant guardian, Conan will find others to assist him along the way as they come across heavy resistance and danger to their mission to retrieve the horn. I've read many considering this a homage of sorts to Seven Samurai, and while it does contain a group joining forces to defeat a powerful enemy, this is more of an adventure tale with sword and sorcery(..absent the nudity and gore from Conan the Barbarian which actually appeals to those yearning for the more gratuitous elements sacrificed to obtain a larger audience). Quite an eclectic group we follow, too. Grace Jones as a tribal warrior. Wilt Chamberlain as the princess' guard who we all know could turn on Conan any moment. Mako as a powerful magician whose saved from nearly being a feast for a cannibal tribe. Jeff Corey as a thief who swallows gems he steals. Olivia d'Abo, the virginal princess who secretly desires Conan. The most unfortunate decision was a limited Sarah Douglas who is perfect as the sinister Queen Taramis who wants to sacrifice d'Abo so that she can command Dagoth to do her will, with designs on ruling the world..she gets little screen time which is a shame, because she's so wonderfully evil Instead the film spends a lot of time on the journey with Conan, Bombaata(Chamberlain), and princess Jehnna(d'Abo)gathering up allies, encountering opposition, providing fans with plenty of swordplay. A little bloodier than I had remembered, but nowhere near as ultra-violent as Conan the Barbarian. Arnold Schwarzenegger was in fine form during this period, but the movie doesn't demand him to flex in acting muscle, just his pecks when he wields his sword at his adversaries. Most often chuckle at Chamberlain's performance, but, let's be honest, we all know he was hired for his towering presence not his acting chops. Grace Jones goes all out as she normally does, with a giant stick, battling men with swords, eyes bulging, hyena screeching, the works. The Mexico locations provide this film with the proper setting needed for warriors battling in caves, deserts, and under the hot sun. Far less serious approach is applied here compared to Conan the Barbarian which might be why it received less critical reception. Most of the graphic violence is shot away from the viewers' eyes, certain to earn a PG rating, but what did the filmmakers sacrifice in return? Contains another masterful Basil Poledouris score, adding a riveting thrill to the battles not to mention providing Conan with a majestic aura.",
+         "When I was a little girl, my parents were hooked on the Conan movies, but The Destroyer always stood out to me more for some reason. But I haven't watched this movie for a very long time, so the other night, I was in a weird mood, I decided to watch the Conan movies. So The Destroyer was more familiar to me. But the thing is, this movie is a sort of break through for Arnold, since this movie was a flop at the box office, he doesn't like sequels, The Terminator being his only exception. So I was curious as an adult if this movie really was as bad as it's made out to be, I liked it a little bit when I was a kid, but when you're a kid, you're fascinated by anything. So watching this movie, as cheesy as it was, I still had a good time watching it. I understand why a lot of people have a distaste for it, it's definitely not up to par with the first Conan, it's more of a comedy vs. adventure. But I still enjoyed this movie, it's a good bad film that entertained me. Conan and his partner, Malek, are brought before Queen Taramis, who asks that Conan perform two tasks for her: obtain a special gem and retrieve the magic horn that can awaken the god, Dagoth. In exchange, she offers to resurrect Conan's dead lover, Valeria. Conan agrees. Conan, Malak, Jehnna, the queen's niece, and Bombaata set off on their journey. Along the way, Conan enlists the aid of his old comrade Akiro and the group later encounters Zula, who joins the party. They then set off after the magical horn, which is kept inside of a mysterious fortress. Jehnna retrieves the horn. After some difficulty from the cult residing in the fortress, they try to make their way back to Queen Taramis however, Bombaata betrays Conan and takes Jehnna, leaving the others to fight for their lives. The story is a bit much and it's not the same as the original, but if you give it a fair enough chance, I think you'll enjoy it too. It is a bit more comedic and steers away from the original story, but I think the comedy still made it fun. I loved the addition of Grace Jones, she was one tough chick and could stand proudly next to Conan; even if she did have a silly Japanese anime type of look to her hair in the end. I loved the costumes and the special effects and of course, Arnold. Conan is the part that he was meant to play and he carries the movie well with the other cast. Granted I know the direction isn't really good, it does have a more cheesy vibe as this was the same director for our favorite barbarian box office flop that was Red Sonja. There are a lot of plot holes and a script that could us a more than a few touch up's, but give the movie a fair enough chance, don't compare it to the original, on it's own, I'm sure you'll have a good time watching it. 7/10",
+         "I have been captivated by Conan's heroic fantasy world for many years. For this reason alone I am rating this film as 6/10. Do not expect a continuation of the first Conan film. 'Conan The Destroyer' is too light in its scope and Conan is not the same man anymore. The villains are also not as menacing. Having said that it was good to see Grace Jones and Sarah Douglas and also Conan's companions had good lines and were very funny at times. As a side note I found the adjective 'Destroyer' in the title quite misleading and unfortunate. For those of us that read the Conan novels we see Conan driven by his own motivations, and fighting his battles only if he had to and not for the sake of destroying. The film distributors could have picked something else to promote the movie.",
+         "Sequels are rarely as good as the original, and with a film like Conan The Barbarian to live up to this one had a hard time from the start. And yes, it's not as sophisticated a film as the original, but no it is not a bad film. Running along like a more typical S&S film, the emphasis is more on a runaway action film rather than the screen opera of the original. There's plenty of swordplay, wizards, magic etc. It does feel like it could have had a bit more to it though, maybe another place to visit or another enemy to slay and maybe a bit more depth to the supporting characters but it's not a serious drama and it's a cut above other films of this genre. Also remember, this is the film that most people remember when they think of Arnie as Conan. Sword, loincloth and not much else so it must have struck a visual chord at least. I'm glad they made this film, it's a fun romp and a great way to spend an evening. People will judge it as the weaker film, which it is, but it's also the most fun out of the two. If only King Conan: Crown Of Iron was made with Arnie as the old bearded king today it would make a nice little trilogy (Or box set of you throw in Red Sonja which is basically a Conan film!) Great stuff!"
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Fantasy"
+      ],
+      "productionCompanies": ["Dino De Laurentiis Company"],
+      "summaries": [
+         "The wandering barbarian, Conan, alongside his goofy rogue pal, Malak, are tasked with escorting Queen Taramis' virgin niece, Princess Jehnna and her bodyguard, Bombaata, to a mystical island fortress. They must retrieve a magical crystal that legends say can awaken the god of dreams, Dagoth. Along the way, Conan reunites with the wise wizard, Akiro and befriends the fierce female fighter, Zula. Together the heroes face ancient traps, powerful Wizards, plots of betrayal, and even the dream god, Dagoth, himself!",
+         "Conan, the swashbuckler, is promised that his dead love will be revived if he procures a magic crystal from a magic fortress. He gathers Grace Jones, Mako, and Tracey Walter (fighter, wizard, and thief) to help him as he overcomes the perils on the way.",
+         "Another evil threatens to conquer the world, as Conan journeys on a search to find a magic crystal before the sorcerer Toth Amon can use it. He is also required to rescue the Princess Jehnna from the treacherous Queen Taramis who plans to betray Conan and rule the world.",
+         "Conan leads a ragtag group of adventurers on a quest for a princess."
+      ],
+      "budget": 18000000
+   },
+   "movielensId": 5040,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1984-06-29",
+      "dvdReleaseDate": "1998-03-31",
+      "directors": ["Richard Fleischer"],
+      "runtime": 103,
+      "movieId": 5040,
+      "title": "Conan the Destroyer",
+      "mpaa": "PG",
+      "actors": [
+         "Arnold Schwarzenegger",
+         "Grace Jones",
+         "Wilt Chamberlain",
+         "Tracey Walter",
+         "Mako",
+         "Sarah Douglas",
+         "Olivia d'Abo",
+         "Pat Roach",
+         "Jeff Corey",
+         "Sven-Ole Thorsen",
+         "André the Giant",
+         "Ferdy Mayne"
+      ],
+      "imdbMovieId": "0087078",
+      "originalTitle": "Conan the Destroyer",
+      "genres": [
+         "Adventure",
+         "Fantasy",
+         "Action"
+      ],
+      "youtubeTrailerIds": ["C8mFwp9km-I"],
+      "plotSummary": "Based on a character created by Robert E. Howard, this fast-paced, occasionally humorous sequel to Conan the Barbarian features the hero (Arnold Schwarzenegger) as he is commissioned by the evil queen Taramis (Sarah Douglas) to safely escort a teen princess (Olivia D'Abo) and her powerful bodyguard (Wilt Chamberlain) to a far away castle to retrieve the magic Horn of Dagon. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen's plans fail to take into consideration Conan's strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro (Mako), the wild woman Zula (Grace Jones), and the inept Malak (Tracey Walter). Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+      "tmdbMovieId": 9610,
+      "avgRating": 2.85455,
+      "releaseYear": "1984",
+      "numRatings": 2097,
+      "posterPath": "/wLIpIZ0KBopuAsvPBQRSGNjjFVT.jpg"
+   }
+}

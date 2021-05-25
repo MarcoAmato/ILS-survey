@@ -1,0 +1,576 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "gay",
+            "id": 237
+         },
+         {
+            "name": "homophobia",
+            "id": 1013
+         },
+         {
+            "name": "psychopath",
+            "id": 6259
+         },
+         {
+            "name": "homosexuality",
+            "id": 10180
+         },
+         {
+            "name": "gay relationship",
+            "id": 10198
+         },
+         {
+            "name": "gay interest",
+            "id": 10199
+         },
+         {
+            "name": "in the closet",
+            "id": 11524
+         },
+         {
+            "name": "crime",
+            "id": 14536
+         },
+         {
+            "name": "criminal",
+            "id": 15009
+         },
+         {
+            "name": "gay man",
+            "id": 33458
+         },
+         {
+            "name": "homophobe",
+            "id": 154903
+         },
+         {
+            "name": "lgbt",
+            "id": 158718
+         },
+         {
+            "name": "sadistic psychopath",
+            "id": 190151
+         },
+         {
+            "name": "homophobic",
+            "id": 191225
+         },
+         {
+            "name": "male psychopath",
+            "id": 232156
+         }
+      ],
+      "imdb_id": "tt2427892",
+      "video": false,
+      "title": "Tom at the Farm",
+      "recommendations": [
+         51241,
+         110160,
+         26280,
+         265177,
+         338189,
+         285841,
+         152961,
+         266031,
+         283703,
+         284050,
+         315432,
+         89456,
+         177945,
+         271397,
+         99119,
+         4676,
+         124066,
+         287503,
+         91261,
+         42199
+      ],
+      "backdrop_path": "/qs4P8THxjbMZYc9QuZvzN95KzBM.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Tom",
+               "gender": 2,
+               "credit_id": "52fe4cbe9251416c751243b9",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "order": 0
+            },
+            {
+               "cast_id": 14,
+               "character": "Francis",
+               "gender": 2,
+               "credit_id": "52fe4cbe9251416c751243f3",
+               "name": "Pierre-Yves Cardinal",
+               "profile_path": "/2Xijup5kKMCfaXc4qq20Kml5aJE.jpg",
+               "id": 991982,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Agathe",
+               "gender": 0,
+               "credit_id": "52fe4cbe9251416c751243eb",
+               "name": "Lise Roy",
+               "profile_path": "/qzxuNaxmPhwKt6U78iIox5bs0oq.jpg",
+               "id": 130928,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "Sara",
+               "gender": 1,
+               "credit_id": "52fe4cbe9251416c751243ef",
+               "name": "Evelyne Brochu",
+               "profile_path": "/yFGIyT2f9kfXLgxWSleCHlugNtP.jpg",
+               "id": 461309,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "Barman",
+               "gender": 0,
+               "credit_id": "52fe4cbe9251416c751243fd",
+               "name": "Manuel Tadros",
+               "profile_path": "/yoWrQFO92Si1kuugkXnd6xpcS0H.jpg",
+               "id": 96592,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Priest",
+               "gender": 0,
+               "credit_id": "52fe4cbe9251416c75124401",
+               "name": "Jacques Lavallée",
+               "profile_path": "/cyDIZV088qD4nPqqoLl0vRkGNwG.jpg",
+               "id": 1152740,
+               "order": 5
+            },
+            {
+               "cast_id": 18,
+               "character": "Doctor",
+               "gender": 0,
+               "credit_id": "52fe4cbe9251416c75124405",
+               "name": "Anne Caron",
+               "profile_path": null,
+               "id": 1207760,
+               "order": 6
+            },
+            {
+               "cast_id": 4,
+               "character": "Fille a l'église",
+               "gender": 0,
+               "credit_id": "52fe4cbe9251416c751243bd",
+               "name": "Mélodie Simard",
+               "profile_path": "/afJLyDe089KlgQ7mT5EM9BbdDUj.jpg",
+               "id": 1091869,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Paul",
+               "gender": 2,
+               "credit_id": "545c956ac3a36853620035ee",
+               "name": "Olivier Morin",
+               "profile_path": "/fG3nYMFb4G1C0pV51QbwZiYD43O.jpg",
+               "id": 559580,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Employée à la station-service",
+               "gender": 0,
+               "credit_id": "545c95c5c3a368536b00343a",
+               "name": "Johanne Léveillé",
+               "profile_path": null,
+               "id": 1382647,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "Homme au dépanneur",
+               "gender": 0,
+               "credit_id": "545c9658c3a368535800375a",
+               "name": "Mathieu Roy",
+               "profile_path": null,
+               "id": 1382649,
+               "order": 12
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4cbe9251416c751243b1",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4cbe9251416c751243cf",
+               "name": "Charles Gillibert",
+               "profile_path": "/gss7U39JPmEC6eRl0EiiKIilSYs.jpg",
+               "id": 54318,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4cbe9251416c751243d5",
+               "name": "Nathanaël Karmitz",
+               "profile_path": null,
+               "id": 20488,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4cbe9251416c751243db",
+               "name": "Carole Mondello",
+               "profile_path": null,
+               "id": 92210,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4cbe9251416c751243e7",
+               "name": "Colombe Raby",
+               "profile_path": null,
+               "id": 962280,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "568f13d3925141188c000436",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "568f1436925141189200046c",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f144ac3a368324c000590",
+               "name": "Pascale Deschênes",
+               "profile_path": null,
+               "id": 1559678,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f13cac3a3683249000596",
+               "name": "Michel Marc Bouchard",
+               "profile_path": null,
+               "id": 1068493,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f13dd925141189b000476",
+               "name": "Michel Marc Bouchard",
+               "profile_path": null,
+               "id": 1068493,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 2,
+               "credit_id": "568f13eec3a3683246000529",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f140792514118a1000423",
+               "name": "Nancy Grant",
+               "profile_path": null,
+               "id": 1034358,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f1416c3a3683256000525",
+               "name": "Lyse Lafontaine",
+               "profile_path": null,
+               "id": 68317,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f1422925141189e00045f",
+               "name": "Gabriel Yared",
+               "profile_path": "/2qihER03E1ISTUYqHgUKBA9ow93.jpg",
+               "id": 5488,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "568f142ac3a368325600052f",
+               "name": "André Turpin",
+               "profile_path": null,
+               "id": 982586,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "568f1453925141189200047a",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f145e9251411895000469",
+               "name": "Michelle Côté",
+               "profile_path": null,
+               "id": 1327213,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f1468c3a368324c00059f",
+               "name": "Nathalie Dennes",
+               "profile_path": null,
+               "id": 1361053,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f14729251411895000473",
+               "name": "Carole Mondello",
+               "profile_path": null,
+               "id": 92210,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f1487c3a36832510005ef",
+               "name": "Marc Reichel",
+               "profile_path": null,
+               "id": 1363859,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a88c9139251410ac40579a6",
+               "name": "Michelle Côté",
+               "profile_path": null,
+               "id": 1327213,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a88c92c0e0a26545305f6a7",
+               "name": "Sylvain Brassard",
+               "profile_path": null,
+               "id": 1559674,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a88c93a9251417599058ad9",
+               "name": "Olivier Goinard",
+               "profile_path": "/cN6lOlCrk1LQpcuSG7pbgHNOxwh.jpg",
+               "id": 1310720,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a88c94a0e0a26545305f6d2",
+               "name": "François Grenon",
+               "profile_path": null,
+               "id": 92220,
+               "department": "Sound",
+               "job": "Sound"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 7.334572,
+      "production_countries": [
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         }
+      ],
+      "id": 184352,
+      "vote_count": 241,
+      "budget": 0,
+      "overview": "A young man travels to an isolated farm for his lover's funeral where he's quickly drawn into a twisted, sexually charged game by his lover's aggressive brother.",
+      "similar": [
+         47643,
+         26280,
+         449176,
+         383526,
+         338189,
+         413666,
+         382475,
+         380874,
+         160165,
+         26933,
+         258034,
+         376867,
+         425193,
+         428493,
+         383559,
+         52799,
+         340684,
+         10938,
+         222918,
+         377154
+      ],
+      "original_title": "Tom à la ferme",
+      "runtime": 105,
+      "poster_path": "/wS4oYOHEKva9sMLOHSr7tW19SaQ.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "MK2 Productions",
+         "id": 6274,
+         "origin_country": "FR"
+      }],
+      "release_date": "2013-09-02",
+      "vote_average": 6.9,
+      "belongs_to_collection": null,
+      "tagline": "What you don't know will hurt you",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Xavier Dolan"],
+      "runtime": 102,
+      "synopsis": null,
+      "writers": [
+         "Xavier Dolan",
+         "Michel Marc Bouchard"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt2427892/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ2MDU0MzE4N15BMl5BanBnXkFtZTgwNTM3ODk4NTE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Xavier Dolan, Pierre-Yves Cardinal, Lise Roy | See full cast and crew »"],
+      "reviews": [
+         "I was one of the lucky people to see this movie tonight at the Dutch festival 'Roze Filmdagen' (Pink Film Days) in Amsterdam before it will hit the art-house cinemas here in april. It was the opening film and the festival director Werner Borkes made clear in his opening speech that he felt like a very lucky man to be able to show us this movie already. I must say, the expectations were high and growing and most of the time high expectations are hard to live up to. But not this time. Canadian wonder child Xavier Dolan (born in '89) adapted the play by Michel Marc Bouchard, who co-wrote the script for the movie. Dolan is also playing the lead character Tom, who visits the family of his deceased lover for the funeral. The mother and homophobic brother live on a farm and when Tom tries to leave after the funeral, the brother doesn't let him. What follows is a psychological warfare between the characters and the big question is: will Tom be able to leave and does he want to� The movie is tensed from beginning till the end and the music (with a lot of strings) is used well to accompany and strengthen the secluded and somewhat claustrophobic life on the farm. Besides the tension, there is also a lot of humor in the situations and dialog that seems to turn on a dime into an awkward situation for Tom. Especially the part where Tom is talking over dinner about the so-called girlfriend Sara with the mother, who doesn't have a clue what Tom's relationship with her son is, and the brother is a memorable scene. All the actors are great and deliver the lines from their toes. Xavier Dolan is especially one to keep an eye on, this is already his third movie in his 24 years young life and he knows how to tell a great story the right way.",
+         "I've recently seen \"Tom à la ferme\", and it's safe to say that Xavier Dolan is one of the most important directors alive today. With just 25 years, he has proved to have the maturity and intelligence to make amazing films, which are not only magical in their visual aspect, but in the depth of their screenplays as well. Having said this, \"Tom á la ferme\" is no exception. Great movie, wonderful to see, and a very interesting story which is, as always, about love. However, every time Dolan shows us his vision of love, he does it in a very different way. This time is about a lost love, and the submissive aspect of it. Brilliant performances as always, all taking place in a very gloomy farm, the authorial work of Xavier Dolan just keeps getting better, so my advice: let's pay attention to this wonderful filmmaker.",
+         "This film succeeds in pulling off what \"Stranger By The Lake\" totally failed to do. The darkness draws you in and intrigues us, and the characters are brilliantly acted and engaging. Some of the editing is slightly strange, or perhaps the narrative would be a better way to describe it, i.e. there are a couple of transitions between scenes where I found I was having to piece things together arbitrarily, in my opinion, meaning I had to concentrate hard. However I'd much rather this than everything being spelled out in children's building blocks as is the way with many American films. This is one of the few \"gay\" films I've seen that had hardly anything superficial and stereotypical about it, and wasn't depressing to watch as a gay man. Hats off to the guy who played the crazy brother: dark and scary, but the homoerotic tones and suppressed desires sound through his silence, creating a fascinating villain, again, something which the aforementioned other French-language gay thriller completely failed to do, managing only to be faintly embarrassing and ridiculous.",
+         "In 'Tom a la Ferme', Canadian director Xavier Dolan creates a maximum of suspense with a minimum of resources. Three people in an isolated farmhouse, a secret shared by two of them and the psychotic behaviour of one of them - that's it. Despite the lack of action and the slow pacing, the story is so intense it gripped me from start to finish. Tom is the lover of the recently deceased Guillaume, and visits Guillaume's mother and brother to attend the funeral. But Guillaume's mother doesn't know her son was gay, so the brother makes Tom act as if he was straight, and forces him to talk about an imaginary girlfriend. The brother doesn't hesitate to use violence in order to keep up the charade, and even immobilizes Tom's car so he can't leave. While secrets from the past are slowly uncovered, the situation becomes more and more unbearable for Tom. More than once, this movie made me think about Hitchcock's best films. There is the very prominent soundtrack, complete with shrieking violins. Also, like Hitchcock, Dolan uses location as an essential element in the story. And there are small scenes that add to the unsettling atmosphere, like a dead cow being dragged away, a taxi driver who refuses to enter the driveway of the farmhouse, or the blood on the hands after the birth of a calf. 'Tom a la Ferme' is not perfect. It is rather slow, and some scenes are a bit strange. For example, Guilaume's mother bursts out in hysterical laughter after Tom quotes some perverse language from the imaginary girlfriend. But overall, this is impressive film making. (By the way: there's a very good a cappella interpretation of Michel Legrand's 'Les Moulins de mon Coeur' during the first scene. It isn't listed on IMDb' soundtrack section, but apparently it's by Canadian actress/singer Kathleen Fortin).",
+         "Finally I got the chance to see the fourth film made by Xavier Dolan. First of all, congrats on getting into Cannes. Looking forward to see Mommy soon. I have been waiting to see Tom at the farm for way too long. I have to say I hate an ending like this but I don't see any other way to end strongly and kind of liked the ending. Many people seem to be doing it (If memory serves, C.O.G. has the same ending). I like how the movie captures the aspect of what every character wants, needs and fears. It was thrilling and make me really want to know what happens the next second. I have to say I love the depiction of the desire to control and to submit. Nothing else is more satisfying to experience. Good job. As always, there is a mother figure that is interesting to consider. Just like Tom, I'm completely subjected to the brother and I love the part that the brother yells \"I need you in my life\". /Sorry if I got a little personal there. I watched the end title through and there is a little plot left in the very end. It's not very necessary, but I guess it gives some people who must need a resolve some consolation. Still thinking about the corn field scene. I have been expecting to see a sex scene but I'm happy with the fact that there isn't one. Making a exciting movie without a sex scene is like writing a good song without cursing, which makes it all more powerful.",
+         "This film tells the story of a man, called Tom, who pays an unannounced visit to his late boyfriend's farm in a small town in Quebec. He meets the brother who is violent and widely feared by the whole town. Yet, Tom is attracted to danger and stays at the farm. This story is really captivating. It has so many subtle clues as to what the psychologically disturbed characters are thinking, which explain their behaviour. It drives viewers to think deeply about the reasons for their seemingly inexplicable behaviour, which is engaging and thrilling. Tom is clearly very attracted to being abused, and his psychological state is portrayed vividly by the film. There are some really dangerous moments in the film, making it thrilling. I really enjoyed watching \"Tom at the Farm\", and I look forward to watching other films by the same director.",
+         "To follow the chronic order, I decide to watch this film before Dolan's latest MOMMY (2014), which has just freshly arrived. TOM AT THE FARM is Canadian prodigy and Cannes darling Xavier Dolan's fourth film, adapted from Michel Marc Bouchard's play, this marks the first time he is not the sole writer for his works, it is also a veer of style for him, delves into the murky suspense and violence of a psychological thriller, and notably, in its highly strained chasing-in-the-forest incident near the coda, it conspicuously recalls another exceptional gay-themed thriller Alain Guiraudie's STRANGERS BY THE LAKE (2013, 8/10) of the same year, but these two films end with two completely contrasting options for our protagonists who both face irresistible sexual attraction from the sort who is too dangerous for their own good. Sported as a perennially tacky curly blond, Dolan plays Tom, an urban advertisement editor who has just lost his boyfriend Guillaume in an accident. Driving en route to attend his funeral in a remote farm, Tom meets Guillaume's family members, his mother Agathe (Roy) and his brother Francis (Cardinal) who lives with her and whose existence has never been informed to Tom until now. On top of that, Agathe seems to be unwitting of Guillaume's sexual orientation, so Tom has to comfort her grievance by telling a white lie that Guillaume has a girlfriend named Sarah (Brochu), who in fact is just one of their common friends. Yet, Francis is the one who actually knows it all, his violent and homophobic behaviour towards Tom strikes a sadomasochistic thrill, which is not merely one-sided, as the film not-so- subtly implies Francis is a closeted homosexual himself. They both desperately or compulsively trace the resemblance or remnants of the deceased in each other, to the degree, Tom actually complies to act as a voluntary hostage on the farm and even enjoys the pastoral drudgery. One night Sarah's visit inopportunely provokes Agathe's deeply- buried agony, while apart from Francis' overcompensated interest in Sarah, Tom learns a horrible episode of his past from a bar owner, which overturns his perception of the tight corner where he is in. The second day, he decides to flee and turns his life back on track. Here, Dolan again plays the Aspect Ratio gimmick, in the scenes where Tom is physically abused by Francis, it changes from the usual 1.85:1 to a more smothering letterbox; and if one is familiar with his narcissistic disposition, here he continues to wallow in close-ups, mostly on himself especially when Tom is anguish-ridden or being suffocated to barely catch a breath under Francis' masculine domination. While the entire film is coherently enveloped in an overcast dreariness, the close-knitted cast (both Roy and Brochu are from the original play) has done an amazing job in establishing the engaging tensions and occasionally a smack of warmth glistening. Roy and Cardinal are the MVPs, the former is offered a soul-pulverising flare-up while being consistently emotive during all her presence, and the latter beefs up his boorish machismo with very disarming appeal which superbly gilds an atmosphere of ambiguity in Francis' deadly mystique; on top of that the two together also builds up a detrimental mother-son relationship, which also wittily insinuates what has happened to the mother in the end, it is an innovative modus operandi to justify the plot-line without revealing everything in front of viewer's eyes. As for our triple threat Dolan, with his Joker-alike makeup, he shows beyond doubt that apart from the ostentatious style bandwagon, he certainly is on his way to mature into a multi-faceted filmmaker who is able to tackle with the darkest corner of humanity and leaves his own trademark on it. A final nod to Dolan's cherrypick of songs, Rufus Wainwright's GOING TO A TOWN, appears in the ending credit, is an utterly poignant theme song for Tom's bumpy ride.",
+         ".... and I think Xavier Dolan threw in a subconscious symbolic message no one has picked up on. If you want to read about the plot of this movie there are plenty of reviews here that focus on that. I want to write something here that occurred to me maybe 3 or 4 days after viewing 'Tom at the Farm'. Near the end of the film after Tom has escaped from the farm and evaded the attempt by Francis to capture Tom in the woods, we see Francis walking away from the camera and on the back of his jacket is an American flag! That image left me a bit confused as to why a bold American flag. Then it occurred to me that maybe Dolan is making a statement that Francis represents what the USA is today - a neurotic phobic bully. And that is what we are given in the Francis character. The mother 'Agathe' represents the many citizens of the US that refuse to see or try to comprehend what is happening in their country. The unknown 'victim' of Francis represents the countries that have dared to 'talk-back' to what America does. And Tom, he represents the friendly nations to America and what Francis does to Tom is what the US has and is doing daily to it's friendly nations. I realize this may be reading more than really exist in this movie but ... this is the effect 'Tom at the Farm' had upon me.",
+         "This cinematic baby of director/writer/actor Xavier Dolan is a moderately successful suspense film that is prevented from being more successful by its desire to be strange and enigmatic rather than forthright about its intentions. Dolan plays a young gay man who visits the family of his recently deceased lover to attend the funeral. There, he finds himself adored by the oblivious mother who didn't know her son was gay, and hated by the crazy, violent brother who hates that his sibling was gay and intends to keep that knowledge from his mother at all costs. This plays out mostly as you would expect, with an increasing sense of claustrophobic dread. Why Dolan's character doesn't just leave this potentially dangerous situation is adequately explained through various plot devices, some of them imposed on him by external circumstances, some of them arising from his own internalized motivations. Dolan gives a very good performance, but the actor who plays the abusive antagonist is poorly cast, not menacing or threatening enough to be convincing. And a late-act plot development involving a fake female love interest for the dead brother does more to derail the movie than heighten its suspense. Still, those looking for an off-kilter watch will probably be satisfied. This movie reminded much in tone of last year's release \"Strangers by the Lake,\" though that is a much better film than this one. Grade: B+",
+         "Set in a lonely farm in Quebec, TOM A LA FERME concerns the inner life of the eponymous central character (Xavier Dolan) mourning the death of his lover. He goes to his lover's family's isolated farm for the funeral, and there encounters the mother (Lise Roy) and her other son (Pierre-Yves Cardinal), neither of whom were aware of the dead lover's sexuality. The film concentrates on the gradual discovery by the family of their dead son's secret, and how it affects them. Francis is both horrified yet strangely affected; as the action unfolds, he develops an unnatural affection for Tom that is both sadistic and sexual. The mother seems to be unaware of what's happening around her, but perhaps she is just deliberately blinding herself to the truth as a means of self-protection. Tom finds himself imprisoned at the farm; even when his close acquaintance Sarah (Evelyne Brochu) comes to visit, he cannot contrive an effective escape. TOM A LA FERME concentrates on the ways in which people conceal their private inclinations, even from their nearest and dearest, and the damage that actually causes them. This is especially true of Francis, who emerges from the film as a seriously disturbed character, masking his sexual inadequacies beneath a veil of strength. Yet the process of self-discovery for all the characters is an enabling one - so much so that when Tom finally escapes from the farm, he does not appear very happy to have done so. The film ends with a shot of him re-entering the city of Montreal, the lighted skyscrapers flashing by outside his car windows, with his face set in an expressionless gaze as he drives. It seems that 'freedom' for him is nothing more than a form of imprisonment; by extension, therefore, his imprisonment at the farm was an opportunity to discover some form of freedom. Filmed on a series of bleak winter days in stark, washed-out colors, TOM A LA FERME is a searing psychological examination of sexualities and how they are often willfully concealed."
+      ],
+      "genres": [
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "MK2 Productions",
+         "Sons of Manual",
+         "Arte France Cinéma"
+      ],
+      "summaries": [
+         "The story of Tom, who is in the grip of grief and depression following the death of his lover. When he meets the family of the deceased, it is revealed the mother was not aware of her son's sexual orientation, or his relationship with Tom either, for that matter.",
+         "A grieving man meets his lover's family, who were not aware of their son's sexual orientation."
+      ],
+      "budget": 0
+   },
+   "movielensId": 108787,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "2013-09-02",
+      "dvdReleaseDate": null,
+      "directors": ["Xavier Dolan"],
+      "runtime": 105,
+      "movieId": 108787,
+      "title": "Tom at the Farm",
+      "mpaa": "",
+      "actors": [
+         "Xavier Dolan",
+         "Pierre-Yves Cardinal",
+         "Lise Roy",
+         "Evelyne Brochu",
+         "Manuel Tadros",
+         "Jacques Lavallée",
+         "Anne Caron",
+         "Mélodie Simard",
+         "Olivier Morin",
+         "Johanne Léveillé",
+         "Mathieu Roy"
+      ],
+      "imdbMovieId": "2427892",
+      "originalTitle": "Tom à la ferme",
+      "genres": [
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "KH-I2ta24x8",
+         "8elkaKuGX6w"
+      ],
+      "plotSummary": "A young man travels to an isolated farm for his lover's funeral where he's quickly drawn into a twisted, sexually charged game by his lover's aggressive brother.",
+      "tmdbMovieId": 184352,
+      "avgRating": 3.45699,
+      "releaseYear": "2013",
+      "numRatings": 93,
+      "posterPath": "/wS4oYOHEKva9sMLOHSr7tW19SaQ.jpg"
+   }
+}

@@ -1,0 +1,1461 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "spy",
+            "id": 470
+         },
+         {
+            "name": "airport",
+            "id": 822
+         },
+         {
+            "name": "gas station",
+            "id": 1420
+         },
+         {
+            "name": "garage",
+            "id": 2101
+         },
+         {
+            "name": "pilot",
+            "id": 3203
+         },
+         {
+            "name": "chase",
+            "id": 3713
+         },
+         {
+            "name": "secret agent",
+            "id": 4289
+         },
+         {
+            "name": "rope",
+            "id": 6399
+         },
+         {
+            "name": "exploding building",
+            "id": 9778
+         },
+         {
+            "name": "car chase",
+            "id": 15483
+         },
+         {
+            "name": "police car",
+            "id": 33352
+         },
+         {
+            "name": "boy genius",
+            "id": 33353
+         },
+         {
+            "name": "duringcreditsstinger",
+            "id": 179431
+         }
+      ],
+      "imdb_id": "tt1013743",
+      "video": false,
+      "title": "Knight and Day",
+      "recommendations": [
+         27576,
+         956,
+         34544,
+         44048,
+         40805,
+         59962,
+         37821,
+         13027,
+         955,
+         9029,
+         48138,
+         27573,
+         19959,
+         35056,
+         6637,
+         59108,
+         8247,
+         20662,
+         26389,
+         13387
+      ],
+      "backdrop_path": "/sSeo9o603MABEbAv8BGkgbLn0om.jpg",
+      "revenue": 261930431,
+      "reviews": [{
+         "author": "Andres Gomez",
+         "id": "51059619760ee3609268b7ed",
+         "content": "OMFG! I thought MIssion: Impossible 2 was the worst movie I would watch from Tom Cruise ... I was wrong.\r\n\r\nThere's only one thing in Knight and Day that is not that bad as in MI2, and it is that the movie doesn't take seriously itself, something that MI2 does.\r\n\r\nAbout the mixing of Spanish stereotypes and festivities in Seville ... no comments :(",
+         "url": "https://www.themoviedb.org/review/51059619760ee3609268b7ed"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Roy Miller",
+               "gender": 2,
+               "credit_id": "52fe46739251416c91054d65",
+               "name": "Tom Cruise",
+               "profile_path": "/3oWEuo0e8Nx8JvkqYCDec2iMY6K.jpg",
+               "id": 500,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "June Havens",
+               "gender": 1,
+               "credit_id": "52fe46739251416c91054d69",
+               "name": "Cameron Diaz",
+               "profile_path": "/ahFkUN9Sm8oF1txUHE5JcJ95Ere.jpg",
+               "id": 6941,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Fitzgerald",
+               "gender": 2,
+               "credit_id": "52fe46739251416c91054d6d",
+               "name": "Peter Sarsgaard",
+               "profile_path": "/dGoUlDEJumPY0CFlT7eM6KVdLUu.jpg",
+               "id": 133,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "CIA Director Isabel George",
+               "gender": 1,
+               "credit_id": "52fe46739251416c91054d79",
+               "name": "Viola Davis",
+               "profile_path": "/9nhqKVGA09DLeZqsvWVoNeTRlRQ.jpg",
+               "id": 19492,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Antonio Quintana",
+               "gender": 2,
+               "credit_id": "52fe46739251416c91054d7d",
+               "name": "Jordi Mollà",
+               "profile_path": "/2XEuPT0T9SRwcpsOXD9vMpm4Vad.jpg",
+               "id": 31384,
+               "order": 4
+            },
+            {
+               "cast_id": 22,
+               "character": "Simon Feck",
+               "gender": 2,
+               "credit_id": "52fe46739251416c91054dad",
+               "name": "Paul Dano",
+               "profile_path": "/zEJJsm0z07EPNl2Pi1h67xuCmcA.jpg",
+               "id": 17142,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "April Havens",
+               "gender": 1,
+               "credit_id": "52fe46739251416c91054d71",
+               "name": "Maggie Grace",
+               "profile_path": "/jYgBu0uvED7P7ir5FCsFjqAi0hN.jpg",
+               "id": 11825,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Rodney",
+               "gender": 2,
+               "credit_id": "52fe46739251416c91054d75",
+               "name": "Marc Blucas",
+               "profile_path": "/1pDk3uISYLyYOb8mHeyEbjqw7i.jpg",
+               "id": 46772,
+               "order": 7
+            },
+            {
+               "cast_id": 142,
+               "character": "Molly Knight",
+               "gender": 1,
+               "credit_id": "5818d415c3a368421a00014d",
+               "name": "Celia Weston",
+               "profile_path": "/s1PvoXw5lfVCeqpBpjOwKnc51LJ.jpg",
+               "id": 1989,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Frank Knight",
+               "gender": 2,
+               "credit_id": "52fe46739251416c91054d81",
+               "name": "Dale Dye",
+               "profile_path": "/vQfhfRjwOHYN3Egx1SB21ResBI2.jpg",
+               "id": 3211,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Bernhard",
+               "gender": 2,
+               "credit_id": "52fe46739251416c91054d91",
+               "name": "Falk Hentschel",
+               "profile_path": "/6NFuHgdtpJ6dY8wqZ8CV95N82Z7.jpg",
+               "id": 118643,
+               "order": 10
+            },
+            {
+               "cast_id": 149,
+               "character": "Braces",
+               "gender": 2,
+               "credit_id": "5819fa13c3a368096000719a",
+               "name": "Lennie Loftin",
+               "profile_path": "/oqB0hQo98TCzNUe1m2uNQSscsJL.jpg",
+               "id": 42200,
+               "order": 11
+            },
+            {
+               "cast_id": 139,
+               "character": "Danny",
+               "gender": 2,
+               "credit_id": "56e2c5a29251417894002772",
+               "name": "Rich Manley",
+               "profile_path": "/4YPo6beRclgMpicCgVX7ei9Pjfg.jpg",
+               "id": 1588955,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Naomi",
+               "gender": 1,
+               "credit_id": "52fe46739251416c91054db1",
+               "name": "Gal Gadot",
+               "profile_path": "/yV2nljqQa3MjrrIK4AllDjmJIcs.jpg",
+               "id": 90633,
+               "order": 13
+            },
+            {
+               "cast_id": 150,
+               "character": "Wilmer",
+               "gender": 2,
+               "credit_id": "5819fa98c3a36809450072b1",
+               "name": "Jack O'Connell",
+               "profile_path": "/icyChFtrQ1TrXfk73ewLqPiKNRX.jpg",
+               "id": 1186003,
+               "order": 14
+            },
+            {
+               "cast_id": 151,
+               "character": "Eduardo",
+               "gender": 0,
+               "credit_id": "5819faa5c3a36809600071e7",
+               "name": "Trevor Loomis",
+               "profile_path": null,
+               "id": 1533031,
+               "order": 15
+            },
+            {
+               "cast_id": 152,
+               "character": "Allison",
+               "gender": 0,
+               "credit_id": "5819fab392514133a2006f3b",
+               "name": "Nilaja Sun",
+               "profile_path": "/aeimVP5DcWHt1f74bX5PgGJQv7i.jpg",
+               "id": 187973,
+               "order": 16
+            },
+            {
+               "cast_id": 18,
+               "character": "Fireman Paul",
+               "gender": 0,
+               "credit_id": "52fe46739251416c91054d9d",
+               "name": "Jerrell Lee Wesley",
+               "profile_path": "/4vbnRHUDDWkABhbpyLPpeoCz8fB.jpg",
+               "id": 118645,
+               "order": 17
+            },
+            {
+               "cast_id": 193,
+               "character": "Train Cook",
+               "gender": 0,
+               "credit_id": "590d1a7ec3a36864fc00547c",
+               "name": "Adam Gregory",
+               "profile_path": "/ul5d0zJI4Z0BOWxnjXamvH8eLu5.jpg",
+               "id": 1338317,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46739251416c91054d5b",
+               "name": "James Mangold",
+               "profile_path": "/1gt0VmCyBHhQLKhaBDCEIwvRWe.jpg",
+               "id": 366,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46739251416c91054d61",
+               "name": "Patrick O'Neill",
+               "profile_path": null,
+               "id": 21066,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f3814ec3a3681ddd000300",
+               "name": "Phedon Papamichael",
+               "profile_path": "/vsALQXJ7XDO3VPwS4kEYtqqLkeV.jpg",
+               "id": 432,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f3815ec3a3681deb0001cc",
+               "name": "Arnon Milchan",
+               "profile_path": "/5crR5twLRcIdvRR06dB1O0EQ8x0.jpg",
+               "id": 376,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f38168925141799700020a",
+               "name": "Joe Roth",
+               "profile_path": "/lUtmB3mtMPrA5hhoEwZBeX1U5uL.jpg",
+               "id": 18311,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f38181c3a3681dd4000254",
+               "name": "Steve Pink",
+               "profile_path": "/myHOgo8mQSCiCAZNGMRdHVr03jr.jpg",
+               "id": 3227,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f38196c3a3681ddd000310",
+               "name": "José Luis Escolar",
+               "profile_path": null,
+               "id": 582915,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f381a692514179a700020b",
+               "name": "Todd Garner",
+               "profile_path": null,
+               "id": 11814,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54f381b392514179a700020e",
+               "name": "Cathy Konrad",
+               "profile_path": null,
+               "id": 409,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f381c89251417997000216",
+               "name": "Quincy Z. Gunderson",
+               "profile_path": null,
+               "id": 1046600,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f381d5c3a3681dda000212",
+               "name": "Michael McCusker",
+               "profile_path": null,
+               "id": 433,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f381e8925141799200023b",
+               "name": "Andrew Menzies",
+               "profile_path": null,
+               "id": 7236,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54f381f792514179a4000202",
+               "name": "Donna DeSeta",
+               "profile_path": null,
+               "id": 59445,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54f3820fc3a3681ddd000323",
+               "name": "Sarah Katzman",
+               "profile_path": null,
+               "id": 436,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5818d486c3a3684222000184",
+               "name": "John Powell",
+               "profile_path": "/fFRYoiZxBtP4Gs0CAphU7F5mDk.jpg",
+               "id": 11098,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563f338dc3a3681b4d03554a",
+               "name": "Lisa Beach",
+               "profile_path": null,
+               "id": 434,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563f33efc3a3681b4d035564",
+               "name": "Jeffrey Wisniewski",
+               "profile_path": null,
+               "id": 1376898,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563f3404c3a3681b5e02c4a0",
+               "name": "Jay Hart",
+               "profile_path": null,
+               "id": 7237,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3421c3a3681b5202dd8a",
+               "name": "Arianne Phillips",
+               "profile_path": null,
+               "id": 32797,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f344bc3a3681b5c0301ea",
+               "name": "Wendy Means",
+               "profile_path": null,
+               "id": 1387217,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f347ac3a3681b5c0301f3",
+               "name": "Michael Meinardus",
+               "profile_path": null,
+               "id": 1463422,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f35c6c3a3681b540305c8",
+               "name": "Regina Cachuela",
+               "profile_path": null,
+               "id": 1401596,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f35dbc3a36862da007544",
+               "name": "Taylor Carrasco",
+               "profile_path": null,
+               "id": 1533015,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3651c3a3681b6102f596",
+               "name": "Chad Shattuck",
+               "profile_path": null,
+               "id": 1533016,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3692c3a36862da00757d",
+               "name": "Ivy Agregan",
+               "profile_path": null,
+               "id": 1417975,
+               "department": "Visual Effects",
+               "job": "Visual Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f38c692514129fe01fea2",
+               "name": "Janet Muswell",
+               "profile_path": null,
+               "id": 1533026,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3b839251417fa9006a15",
+               "name": "Josh Bleibtreu",
+               "profile_path": null,
+               "id": 1400373,
+               "department": "Crew",
+               "job": "Second Unit Cinematographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563f3bd0c3a3681b540306db",
+               "name": "Maurice K. McGuire",
+               "profile_path": null,
+               "id": 1378241,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563f3c0b9251411867006f82",
+               "name": "Rafael E. Sánchez",
+               "profile_path": null,
+               "id": 79790,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3c59c3a3681b4b02b79b",
+               "name": "Gary Dahlquist",
+               "profile_path": null,
+               "id": 1533028,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3d08c3a3681b5e02c647",
+               "name": "Frank Masi",
+               "profile_path": null,
+               "id": 1378240,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563f3d639251413b1300fe15",
+               "name": "David James",
+               "profile_path": null,
+               "id": 1389139,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3e19c3a3681b5202df3d",
+               "name": "Trevor Loomis",
+               "profile_path": null,
+               "id": 1533031,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3e5a9251416cd8006b03",
+               "name": "Philip Shanahan",
+               "profile_path": null,
+               "id": 1532613,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3eb9c3a36862da0076f1",
+               "name": "Kyle Coker",
+               "profile_path": null,
+               "id": 1021691,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563f3ed9c3a3681b6102f705",
+               "name": "Jeremy Gordon",
+               "profile_path": null,
+               "id": 970836,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563f3eed9251413b1300fe58",
+               "name": "Beth Lipari",
+               "profile_path": null,
+               "id": 1527912,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3f0cc3a3681b5202df6a",
+               "name": "Robert Q. Mathews",
+               "profile_path": null,
+               "id": 1321589,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563f3f35c3a3681b6102f717",
+               "name": "Rosa J. Colón",
+               "profile_path": null,
+               "id": 1428842,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f3f4c9251413442006879",
+               "name": "Tom Cummins",
+               "profile_path": null,
+               "id": 1428227,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f40379251417fa9006b0f",
+               "name": "Guillaume DeLouche",
+               "profile_path": null,
+               "id": 1414497,
+               "department": "Crew",
+               "job": "Armorer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563f4706c3a3681b5e02c7f8",
+               "name": "Kathrine Gordon",
+               "profile_path": null,
+               "id": 66692,
+               "department": "Costume & Make-Up",
+               "job": "Hair Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f472292514129fe020116",
+               "name": "Kristen Barry",
+               "profile_path": null,
+               "id": 1521474,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563f47909251417fa9006c17",
+               "name": "Lona Vigi",
+               "profile_path": "/ff7KuJKfJPES0csVXBHduHBbL07.jpg",
+               "id": 1533052,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f47e1c3a3681b540308d5",
+               "name": "Jane Galli",
+               "profile_path": null,
+               "id": 1316003,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f481492514134420069d4",
+               "name": "Michèle Burke",
+               "profile_path": null,
+               "id": 14192,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4836c3a3681b5e02c81f",
+               "name": "Robin Fredriksz",
+               "profile_path": null,
+               "id": 1531874,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f48f89251416cd8006ca5",
+               "name": "Kris Peck",
+               "profile_path": null,
+               "id": 1533054,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f497092514129fe02015e",
+               "name": "David V. Butler",
+               "profile_path": null,
+               "id": 1357059,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f49889251413b13010015",
+               "name": "Russell Farmarco",
+               "profile_path": null,
+               "id": 1415007,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4a44c3a3681b5e02c86d",
+               "name": "Steve Baine",
+               "profile_path": null,
+               "id": 1304276,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4a599251417fa9006c8f",
+               "name": "John T. Cucci",
+               "profile_path": null,
+               "id": 1367493,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4a75c3a3681b6102f903",
+               "name": "Dan O'Connell",
+               "profile_path": null,
+               "id": 1338372,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4aa2c3a36862da0078d6",
+               "name": "Steve Bissinger",
+               "profile_path": null,
+               "id": 106962,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563f4ac49251413442006a47",
+               "name": "Doug Jackson",
+               "profile_path": null,
+               "id": 373,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4ae09251413b1301004e",
+               "name": "Paul Pirola",
+               "profile_path": null,
+               "id": 1365542,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4affc3a3681b5202e145",
+               "name": "Hamilton Sterling",
+               "profile_path": null,
+               "id": 1360100,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4b1992514129fe02019b",
+               "name": "Derek Vanderhorst",
+               "profile_path": null,
+               "id": 113097,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4b389251413442006a65",
+               "name": "Paul Massey",
+               "profile_path": null,
+               "id": 113073,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4b53c3a3681b5202e154",
+               "name": "David Giammarco",
+               "profile_path": null,
+               "id": 113046,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4b76c3a3681b5202e159",
+               "name": "Donald Sylvester",
+               "profile_path": null,
+               "id": 1416153,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563f4c80925141186700722e",
+               "name": "Andrew Buckland",
+               "profile_path": null,
+               "id": 1533060,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56653474c3a3685112001713",
+               "name": "Pau Costa",
+               "profile_path": null,
+               "id": 1538763,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570b8e43c3a3681d2400c35c",
+               "name": "Greg Berry",
+               "profile_path": null,
+               "id": 936841,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5818d4bcc3a368421a0001b8",
+               "name": "Eric Durst",
+               "profile_path": null,
+               "id": 1432022,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5818d4f2c3a36842170001d2",
+               "name": "Marsha L. Swinton",
+               "profile_path": null,
+               "id": 1702598,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5818dff79251417b60000a8b",
+               "name": "E. Bennett Walsh",
+               "profile_path": null,
+               "id": 54252,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5819f95092514133a5006c3d",
+               "name": "E. Bennett Walsh",
+               "profile_path": null,
+               "id": 54252,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5819f96e92514133ab006a3d",
+               "name": "Robin Sweet",
+               "profile_path": null,
+               "id": 1423986,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5819fae1c3a368094f006c9e",
+               "name": "Gregg Smrz",
+               "profile_path": "/gGzjQBgbfMEzMGSSOHoT1ET6ctU.jpg",
+               "id": 1428202,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5819fb0292514133a2006f67",
+               "name": "Charles Croughwell",
+               "profile_path": null,
+               "id": 9654,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5819fba8c3a3680945007337",
+               "name": "Andrew L. Jones",
+               "profile_path": null,
+               "id": 1271756,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fbc892514133a2006fc6",
+               "name": "Andrew Birdzell",
+               "profile_path": null,
+               "id": 1399291,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fbd6c3a368094f006d08",
+               "name": "Stephen Christensen",
+               "profile_path": null,
+               "id": 1192526,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5819fc1dc3a3680945007362",
+               "name": "Paul Richards",
+               "profile_path": null,
+               "id": 138379,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fc5392514133ae006e58",
+               "name": "Mark Weissenfluh",
+               "profile_path": null,
+               "id": 1447582,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fc93c3a368094b0070d5",
+               "name": "David Moreau",
+               "profile_path": null,
+               "id": 1466029,
+               "department": "Art",
+               "job": "Conceptual Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5819fca492514133a80070c5",
+               "name": "Jim Behnke",
+               "profile_path": null,
+               "id": 79664,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fcff92514113fd000014",
+               "name": "David Luckenbach",
+               "profile_path": null,
+               "id": 1377132,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fd3cc3a36853c8000028",
+               "name": "Lee Orloff",
+               "profile_path": null,
+               "id": 1545540,
+               "department": "Sound",
+               "job": "Production Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fd60925141140a00003d",
+               "name": "Jeffrey A. Humphreys",
+               "profile_path": null,
+               "id": 1377221,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fda292514113fd000057",
+               "name": "Anna Rane",
+               "profile_path": null,
+               "id": 1345635,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fdb9c3a36853bf00004b",
+               "name": "Karen Teneyck",
+               "profile_path": null,
+               "id": 1673973,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fdc492514113f4000057",
+               "name": "Jim Wallis",
+               "profile_path": null,
+               "id": 1393435,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fe1492514113fa000083",
+               "name": "Giacomo Ghiazza",
+               "profile_path": null,
+               "id": 1703012,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fe25c3a36853b100008c",
+               "name": "Mick Cummings",
+               "profile_path": null,
+               "id": 1703013,
+               "department": "Art",
+               "job": "Set Decoration Buyer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5819fee6c3a36853b10000c5",
+               "name": "Joseph Carson",
+               "profile_path": null,
+               "id": 1703014,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819ff5a92514113f40000fd",
+               "name": "David Giammarco",
+               "profile_path": null,
+               "id": 113046,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819ff63925141140a000116",
+               "name": "Paul Massey",
+               "profile_path": null,
+               "id": 113073,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819ff80925141140400011f",
+               "name": "Ted Caplan",
+               "profile_path": null,
+               "id": 1367505,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5819fff392514113fd000154",
+               "name": "Ryan Ganimian",
+               "profile_path": null,
+               "id": 1703015,
+               "department": "Crew",
+               "job": "Post Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a0005925141140100012c",
+               "name": "Daniel Nussbaum",
+               "profile_path": null,
+               "id": 1703016,
+               "department": "Crew",
+               "job": "Post Production Assistant"
+            },
+            {
+               "gender": 2,
+               "credit_id": "581a00a2925141140a00019d",
+               "name": "Patrick Hoeschen",
+               "profile_path": null,
+               "id": 1449995,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a00f692514114040001a2",
+               "name": "Frans Wetterings III",
+               "profile_path": null,
+               "id": 1408395,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 1,
+               "credit_id": "581a018392514113fd0001fe",
+               "name": "Laura Morgan",
+               "profile_path": null,
+               "id": 1703017,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a027292514113fa000256",
+               "name": "Carmen Butts",
+               "profile_path": null,
+               "id": 1703019,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a02c6c3a368539f000268",
+               "name": "Gregory Alpert",
+               "profile_path": null,
+               "id": 109994,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "581a0301c3a36853b1000258",
+               "name": "Jeff N. Maclean",
+               "profile_path": null,
+               "id": 1703021,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "581a0348c3a36853bf00024f",
+               "name": "Luke Ramsey",
+               "profile_path": null,
+               "id": 1703022,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a036a9251411401000259",
+               "name": "Kwame Parker",
+               "profile_path": null,
+               "id": 54250,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a03a592514114070002bc",
+               "name": "Steve Cainas",
+               "profile_path": null,
+               "id": 1703023,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "581a03b8c3a36853b7000285",
+               "name": "Lori Hornung",
+               "profile_path": null,
+               "id": 1555159,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a044c9251411401000297",
+               "name": "Anthony Syracuse",
+               "profile_path": null,
+               "id": 1352964,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "581a04a0c3a36853a20003a3",
+               "name": "John Stone",
+               "profile_path": null,
+               "id": 1552497,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a057892514113fd000359",
+               "name": "Guy Adan",
+               "profile_path": null,
+               "id": 1401373,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a0862925141140a000469",
+               "name": "Gary Duncan",
+               "profile_path": null,
+               "id": 1405422,
+               "department": "Crew",
+               "job": "Picture Car Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a0917c3a36853b7000485",
+               "name": "Thomas A. Carlson",
+               "profile_path": null,
+               "id": 1404326,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "581a0cb7c3a36853a50005ba",
+               "name": "Giorgio Armani",
+               "profile_path": "/2jIUqpeLj1Iyn6u8jiX2jkcm1pY.jpg",
+               "id": 103057,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581a0cc4c3a36853c80005a7",
+               "name": "Ralph Lauren",
+               "profile_path": null,
+               "id": 1703036,
+               "department": "Crew",
+               "job": "Thanks"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 21.49935,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 37834,
+      "vote_count": 1911,
+      "budget": 117000000,
+      "overview": "A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one \u2013 even themselves \u2013 are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.",
+      "similar": [
+         954,
+         56288,
+         8810,
+         2502,
+         1701,
+         27582,
+         27576,
+         37724,
+         36955,
+         9737,
+         9654,
+         206647,
+         302699,
+         646,
+         681,
+         36669,
+         47971,
+         207703,
+         9486,
+         916
+      ],
+      "original_title": "Knight and Day",
+      "runtime": 109,
+      "poster_path": "/aHEpzwXvMtIEMBE13tWXS5oHZ7d.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Pink Machine",
+            "id": 21845,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Tree Line Films",
+            "id": 84,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Dune Entertainment",
+            "id": 444,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+            "name": "Regency Enterprises",
+            "id": 508,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2010-06-15",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "Every Hit Man Deserves a Second Shot!",
+      "adult": false,
+      "homepage": "http://www.knightanddaymovie.com",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["James Mangold"],
+      "runtime": 109,
+      "synopsis": "Knight and Day follows the adventures of Roy Miller (Tom Cruise), a rogue spy, and June Havens (Cameron Diaz), a car restorer. We see Miller watching Havens, and he bumps into her a couple of times as they go through security at Wichita Airport. Havens is making her way back home to Boston from Wichita after picking up spare parts for her deceased father's classic GTO car, which she is restoring for her sister as a wedding gift. Even though she has a confirmed reservation for her flight, she is told at the gate that it is overbooked. Miller is able to board, whispers to her that she is better off taking the next flight. Unbeknownst to Havens, FBI Special Agent Fitzgerald (Peter Saarsgard) is monitoring Miller's movements and, believing she is working with Miller, puts her back on the flight list. On board the flight, Havens notices that there are only 4 or 5 other people present. She relaxes with a drink, and Miller chats about his dream of someday driving to Cape Horn while he checks out the other passengers. She is charmed, and goes to the restroom to freshen up. While she is occupied, Miller is attacked by the remaining passengers and crew. All are dispensed, including the pilots. After she emerges from the restroom Miller calmly informs her that everyone onboard is dead. Thinking that he is joking, Havens plays along until Miller enters the cockpit. In a spell of turbulence, she notices the dead bodies falling over in their seats, and spilling onto the aisle. Miller lands the plane on a highway, but skids off the end of the road into a corn field. Miller gives Havens a drink, and explains that she may be questioned by various officials. She is not to get in any vehicle with them, nor accompany them if they suggest taking her away to a \"safe\" place. Havens passes out due to a knock-out drug in the drink, but awakes at home amongst clues that Miller brought her there, ensuring her safety. Havens struggles through the day trying on bridesmaid dresses for her sister, April's (Maggie Grace) wedding. Talking over what to do with their dad's GTO car Havens is shocked to learn that April wants to sell it. She is lured out of the shop and is accosted by a group of intelligence agents who, with assurances that she will be safe, drive her away. She is shown some files pertaining to Miller, and is questioned by the agents to determine if she is working with him. Suddenly, Miller shows up, and with much shooting and acrobatics, \"rescues\" Havens. Havens doesn't know who or what to believe and flees to the firehall, where her former boyfriend, Rodney (Marc Blucas), works as a firefighter. Upon hearing her story he thinks she is merely stressed from the wedding, and takes her out for pie. While they are chatting, Miller arrives and kidnaps Havens. He handcuffs her and shoots Rodney in the leg, telling him this will all turn him into an overnight hero and virtually guarantee his desired promotion to lieutenant. Miller explains that Havens is safer with him; and Havens agrees to follow him as they go to pick up Simon Feck (Paul Dano), a genius inventor who created a perpetual energy battery called the Zephyr. Miller arrives at his safe house in New York City where he left Feck. He is missing, but has left clues that he can be found on a train in Austria. The two are immediately ambushed by men belonging to Antonio (Jordi Mollà), a Spanish arms dealer. After Miller again drugs Havens, she drifts in and out of consciousness between their capture and escape from Antonio's men. Miller brings her to an island that is off the grid, which he calls his home. After leaving Miller in frustration to wander the island, Havens notices a message on Miller's cell phone with a Boston address. While studying this, her cell phone rings, showing her sister's caller ID. In answering the phone, she accidentally leads Antonio's group to the hideaway. They try to kill Miller and Havens with a remote drone. Again knocking out Havens, Miller transports them to a train heading through the Alps. Havens awakes alone and, missing a message from Miller, leaves to get breakfast in the dining car where she encounters Danny (Rich Manley), a German assassin. When she looks at the message, she realizes that Feck is with Miller, and Danny is someone else. Using tricks learned from Miller, Havens manages to survive, and Danny is eventually knocked out of a window by Miller and presumedly killed by a train coming from the opposite direction. Miller puts Havens and Feck up in a hotel in Salzburg, and heads to a meeting with a mysterious beautiful woman. Havens follows him, and hears him make a deal to sell the Zepher to Antonio. Havens is picked up by the CIA and meets the director of counter-intel, who confirms that Miller is a rogue agent, and gives her a pen to signal them when she is with Miller and the Zepher. Miller meets her back at the hotel, and shows her the Zephyr, which is now showing signs of overheating. Havens uses a pen transmitter to notify the agents, but Miller escapes to the roof-tops. After leading the CIA agents on a chase, Miller is apparently shot and falls into a canal. Havens is sent home by the agents in time to stand at her sister's wedding. When Havens hears the song that Miller used as his ring-tone, she heads to the address she remembered from his iPhone. She meets the people at the address, and realizes that they are Miller's parents. She learns that Miller's real name is Matthew Knight. They believe their son, a former Army sergeant and Eagle Scout, is dead; but they are fabulously wealthy from winning lotteries and sweepstakes they don't remember entering. Havens leaves the Knights', and calls her own voice mail, leaving a message that she has the Zephyr. She is quickly captured by Antonio's men and taken back to Spain. She is drugged with truth serum, which makes her relaxed and happy. Antonio realizes that she doesn't have the Zephyr, and the only way he can get the device is to pay Fitzgerald who has kidnapped Feck. Miller has been following Feck using a tracking app on his iPhone, and stumbles upon Havens in the Spaniard's compound. Havens is rescued as she is being taken out for execution. They pursue Fitzgerald and Feck on a motorcycle, while eluding Antonio's men during the Running of the Bulls. Fitzgerald is able to escape in an amphibious plane with the now extremely hot Zephyr while Miller is grazed by a bullet as he saves Feck. Feck comments that the battery is unstable. As they watch the plane climb, the battery explodes, killing Fitzgerald. Miller collapses from the gunshot wound, but wakes in a hospital. He receives an apology from the director (Viola Davis), who tells him that he routed out a corrupt team. He asks about Havens, and is told that she has returned home. He is warned that he can't be distracted, and must forget her to continue with his job. The Director also explains to Miller that the Agency will \"Transfer you to a secure facility tomorrow, for your safety\" using the same wording that he warned Havens about. As they leave, a nurse enters, and gives Miller his medication. Miller realizes that he's been drugged, but then sees that the nurse is Havens. Miller comes to in the rebuilt classic car that belonged to Havens' father. After he asks what day it is, Havens kisses him and says it's \"someday.\" She drives off, traveling along a coastal road past a signpost for Cape Horn. The final scene shows Roy's mom telling her husband that they have just received two tickets to Cape Horn. Though she blames her husband for ordering them by mistake, she insists that they go.",
+      "writers": ["Patrick O'Neill"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1013743/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM0Mzg0MzI3Ml5BMl5BanBnXkFtZTcwNjIyNzk1Mw@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Tom Cruise, Cameron Diaz, Peter Sarsgaard | See full cast and crew »"],
+      "reviews": [
+         "Knight and Day\" is a comfort food movie. It's a pleasant diversion, a fun time at the cinema that doesn't ask a lot of of it's audience and offers an enjoyable ride. We've seen it all before, but it worked pretty well then, and it works pretty well now. June Havens (Cameron Diaz) is an average perky blonde romantic comedy heroine who runs into the charming and mysterious Roy Miller (Tom Cruise) at the airport, and is sucked into a series of misadventures when Roy turns out to be a secret agent fighting rogue elements in his own agency . . . or maybe HE's the rogue agent . . . It depends on who she listens to. there's a mysterious device called the Zephyr that Roy is either protecting or trying to steal. All of this is fairly predictable, and, again, nothing new. But director James Mangold (\"Copland\", \"Walk the Line\", \"3:10 to Yuma\") always knows how to make a film play, and his skills haven't deserted him here. His pacing is brisk and fun, and he stages some terrific action (including one sequence from Diaz' point of view that did feel genuinely new). Of course, this is a star vehicle, and whether you enjoy it will depend a lot on how you feel about Tom Cruise. Dismissing his personal life as utterly irrelevant, I find him to be a solid and dependable actor who does action better than almost anyone in Hollywood. And, here, he gets a rare chance to flex his comic muscles, and hie's quite funny (though too much of the best material is in the trailer). Diaz is pleasant, but tries a little too hard to be cute. And, occasionally, the film itself has the same problem. But, overall, it's a funny little spy movie. part adventure, part romcom. Not destined for any Ten Best Lists, but enjoyable summer entertainment.",
+         "Critics feared the worst when word surfaced that re-shoots, re-writes and re-edits for this much-delayed, much-troubled film were still going on as late as May 2010 - barely seven weeks prior to its scheduled release. Pre-screenings were limited, and thumbs were primed to point down. But guess what? The finished product is surprisingly enjoyable - particularly the rollicking first hour. Tom Cruise and Cameron Diaz are obviously having a blast, and anytime they are on screen, the movie's energy and fun level pegs the meter. The break-neck pace can keep the audience guessing about where Cruise's character is dragging Diaz's reluctant heroine off to next. Kudos to the leads for not carrying the movie with their effervescent acting, but also for doing many of their own stunts.",
+         "We saw the Saturday sneak preview for Knight and Day, cautiously optimistic for a film that has had almost no reviews despite the fact it releases on Wednesday. To avoid spoilers, I'll make this simple: The Good * Tom Cruise turns in a star performance, and Diaz holds her own. * Story has several twists and turns * Walks a fine line between comedy and action well (for the most part) * I never looked at my watch once and the film running time flew by The Not So Good * CGI is weak and there is a lot of it * Can get a little campy from time to time * Predictable Overall this was quite entertaining. If your expecting an Oscar caliber film you will be disappointed. If your looking for some above average summer fun buy your ticket without hesitation!",
+         "Jump-starting the Mysterious Plot Summer Season (Knight and Day, Salt, Inception, Piranha 3-D), Knight and Day is quite an interesting thrill ride that's very fresh in the midst of a summer season with very little originality. With the two leads delivering charismatic, fun, and great performances, this movie is propelled by star power, intrigue, and never allowing the audience to be one step ahead of the flick. The twists and turns may have been a little unnerving, and the movie does suffer from being quite vague at times, the overall package is a fun one. Unlike most summer clunkers (there was some robot movie last year that was dismally pathetic, if only I remember the name) this one is forgivable for its flaws because of its style, loose direction, and freshness. Without revealing too much (trust me, predicting the movie from the trailer will do you no good), Knight and Day follows a secret agent (Tom Cruise) that accidentally involves a bystander (Cameron Diaz) in the middle of a crazy fight spanning multiple agencies and multiple countries. Written by Patrick O'Neal, this script is very unique, very refreshing, and at times quite off-the-wall. The story moves very fast, but has time for some character development and character revelations�even if they become little blurbs here and there. The only issue is that characters are revealed in such quick and awkward manners, but it might be more an editing issue rather than a writing issue. Cameron Diaz and Tom Cruise were perfect for their leading roles here. Cameron Diaz has an undeniable charm that has made her not only a major box office draw over the years, but one of the few actresses that can carry any movie past mediocrity. At the same time, Tom Cruise also has the ability to propel movies with his impeccable charm and subtle timing. So, naturally, with these two together, movie magic is accomplished. Just like in Vanilla Sky (even if the editing and obscurity allowed the movie to collapse), Knight and Day is jump-started and propelled by Diaz and Cruise acting together. Their comic timing is great, and can still deliver the emotions when you need them to. Everyone else did a respectable job, but they consisted of dozens of small roles. The movie however suffers from one major flaw: potential. This movie could have been something very special if it had been given a little more love, a bit more budget, and better editing. James Mangold is heavily varied in his directing resume (Cop Land, Walk the Line, Identity, 3:10 to Yuma) so he has the ability to run an action film (unlike the indie-director of the last James Bond flick). But, the movie does this mildly irritating thing in which it sets up potential action sequences, but skips them entirely. While the movie does offer plenty of action, this irritating directing/editing blunder was done at least three times. The fact that it could have done so much more doesn't distract from the overall quality, but does unveil its potential. With a budget of over $120 million, Knight and Day looks like an action movie that was running out of cash. The action that we do get to see is plentiful, and fun. Plausibility and realism takes a timeout as we get insane chases, dozens of explosions, and plenty of fights. There is very little slowdown, very little time for the audience to breathe. The CGI is sometimes a bit much, but doesn't distract too much from the movie. Adding to the mayhem is the dozens of plot twists and turns, which range from small, to changing the flick entirely. Unfortunately, it seems like it was edited by someone with a samurai sword and too much sugar in his blood. Bottom Line: While it could have been so much more, and could have really been something truly special, Knight and Day is still an admirable movie thanks to its leads---even if age is starting to catch up to them. With a crazy script edited in a crazy manner, this movie is far from your average summer movie, and is a mildly refreshing visual trip around the world. No sequel or remake connections here, as the plot is unique, even if the action is your usual CGI-heavy fare. The directing, editing, and content choices however keep it from truly hitting the big leagues. But if you want something different and sequel-free to watch this summer (without screaming for mercy as the movie continues), then Knight and Day is your flick. Unique concept, unique movie, unique flaws.",
+         "*** out of (****) I just came back from an advanced screening of \"Knight and Day\" and I have to say, I was extremely impressed. I, as well as you, are tired of formulaic Hollywood movies that are disposable and provide little to no new elements to the table. This is the exact opposite of what the final product is of this film. \"Knight and Day\" brings many twists and turns, it is far from by-the-numbers, and is easily unforgettable. For starters, the action is quite remarkable and pretty darn satisfying. And the movie was just hilarious and had great comic timing. It should mean something when I tell you that the crowded audience was laughing. Not just a few people, the WHOLE audience and they took up almost all the seats. \"Killers\", a movie that fits under the action/comedy genre was one that I was looking forward to, but was a huge letdown. \"Knight and Day\" definitely doesn't disappoint and brings the laughs, with the big action. This movie is probably the most fun I've had in a while, and this is coming from a very harsh grader and someone that is let down very easily due to high expectations. \"Knight and Day\" revolves around Cameron Diaz, who is boarding a plane to see her sister April get married. At first, she is forbidden to board the plane, but then the flight attendant finds a seat for her. And guess who Diaz sits next to? The inevitable Tom Cruise. After having a little \"talk\" with the pilot, the passengers, and the flight attendant, him and Diaz seek out to hunt down the antagonists, one which is played by Peter Sarsgaard. Although, Cruise warns Diaz that the bad guys will say that they are the \"FBI\" and will pretend she's in a safe place. However, through further investigation, Diaz may think that Cruise is unto something. In the meantime, the bad guys are looking for the battery and are not too thrilled about who holds its possession. First, let's get to the positives. First off, I liked that this movie established character development. Most action/comedy films fail to fully flesh out are leads and then we aren't registered with them. 3:10 to Yuma director makes us care about these characters, and when put in a tough situation, we just hope the best. Second of all, I thought the script was great. I thought this movie had some really funny one-liners and the film had great comic timing. It couldn't have been better. Thirdly, I thought that the performances were great. All the characters did their job and even stood out, especially Cameron Diaz and Tom Cruise. Diaz and Cruise also had wonderful chemistry and their relationship never felt forced or phony. It came out as very authentic rather than artificial and syrupy. Moreover, I thought the film's pacing was excellent. The film is shy of two hours, yet feels like half of that. After the film was over, I thought there would be at least another hour added. Furthermore, I thought the action was awesome. It definitely delivered and this is the best action I've seen in a long time. And lastly, the cinematography was just amazing. I loved the scenery and great production values I must add. There are very minimal flaws with this movie. However, there are some. First of all, I know this film is intentionally nonsensical, but some scenes went so over-the-top, that when it occasionally was meant to be serious, it came off as cheesy or laugh worthy, fortunately, like I said, occasionally. Second of all, I enjoyed this movie so much that I just wish it were longer. Overall, \"Knight and Day\" is a great film because of its fresh script, great performances, amazing action, great comic timing, breathtaking cinematography, and a fascinating direction. And for the first time, it's actually not mindless! If you keep your brain on, you'll still thoroughly enjoy it. If you were disappointed by \"Killers\", don't worry, so was I, because you will still like this movie. Shoot, I enjoyed it so much I think it's even better than \"Mr. & Mrs. Smith\" which I liked. \"Knight and Day\" is one of those rare movies that just works on every level and is one of those rare movies that is worth full admission. See it at night with a large crowd, with a big bucket of popcorn, and a drink, and you'll have a blast. I enjoyed the movie so much that I wanted it to last from \"Knight\" to \"Day\". It comes highly recommended.",
+         "I saw \"Knight and Day\" tonight at an advanced screening. I really liked it. For me, I considered it more of a comedy, rather than a thriller. Tom Cruise and Cameron Diaz have great chemistry, and did wonderful line deliveries of several running jokes. Their facial expressions, non-verbal actions, and then their unique line delivery - just made everything fit together into a delightful comedy. You will enjoy yourself and laugh out loud. Tom Cruise does a great job of reminding us why we like him as a performer and actor. (Recently, I think too many of us have been side-tracked by his off-camera non-PC comments and antics; so it's good to get back to the basics, that he really is a wonderful actor.) Cameron Diaz is funny, warm,beautiful, and spunky. I loved the way these two actors interacted with each other. Well done. I know another reviewer here kept dropping \"Oscar award winning\" several times - but for myself, I would not go that far. I don't think this has the emotional depth that you'd think of for an Oscar; but nevertheless, I think this is a delightful funny movie that will make you laugh and enjoy an evening out. I recommend this movie. You will feel good.",
+         "Well I had hopes for this film from the previews I'd seen. It lived up to what I had anticipated. Very humorous banter, action flowed well, never a dull moment and the acting and chemistry worked for my wife and I. I'm not sure why there is any comparison to Mr. and Mrs. Smith as I couldn't see any communality other than there being a woman and man in the title character. Anyway, if you're looking for an entertaining movie that moves well and is pretty funny then you'll like this film. Not going to make it for an Emmy but certainly delivers on what it was expected to deliver. Didn't mention this but for some reason they had one showing at our Cinemark and so bought some tickets in the morning. Definitely worth the ticket price.",
+         "Finally a great action flick with the perfect combination of action, humor, story, and romance. The cast was fantastic and so was the overall feel of the film. I also really enjoyed how every detail wasn't just bluntly explained....i have a brain, thanks for realizing. Everyone in the theater seemed to love it, lot's of laughs...seriously, i haven't laughed that much at the movies in a while. And it also kept my complete attention throughout the entire film...and with some serious ADD that says a lot. So.. if i can close with anything..it's to just go see this movie. Don't over expect anything because this is my opinion, but definitely see it. I personally think you won't be disappointed.",
+         "People will cast around for comparisons to explain what 'Knight and Day' copies most. Is it Brad and Angelina in Mr. and Mrs. Smith? Not really, but certainly dozens of sources have been gleefully plundered. A close comparison is early 'Bourne,' with Diaz's Franka Potente to Cruise's Matt Damon, but with the humor, braggadocio, and indifference to logic of the original James Bond stories. This couple in adversity, like the 'Bourne' one, is a linkage that comes about seemingly by accident when Joan Havens (Diaz) happens to wind up on a nearly empty plane to Kansas City that Roy Miller (Cruise) hijacks, after its crew tries to kill him. Miller is a CIA man, or a former one. He's gone rogue, or so some say. He's also in possession of some kind of inexhaustible energy source MacGuffin thingie created by a brilliant teenager nerd pal of his called Simon Feck (Paul Dano). Naturally everybody wants to get hold of this thingie, and later of young Simon. Sarsgaard is a CIA agent called Fitzgerald who's chasing Roy, and his boss is a black lady called Isabel (Viola Davis). Joan, who rebuilds classic American cars, is on her way to her sister's wedding. The greatest tribute to Roy's skill and a sign of his attention to the human side of things is that he gets her to the wedding, after a few car explosions and chases and dozens of dead bodies. Roy has two main ways of relating to people. He kisses them or he kills them. There isn't time for much else. Cruise carries this off with panache. Diaz is equal to the demands of her role: ditsy -- but glamorous and sexy -- blonde who's also a Charlie's Angel. When the stuff happens on the plane at the beginning, it's not remotely believable. It isn't meant to be. How believable is any blockbuster action? How believable is anything anywhere? 'Knight and Day' establishes right away (watch how the plane rocks when there's turbulence) that this is a garish, over-the-top comedy. The ridiculous opening sequence clearly establishes that this is an outrageous comedy -- and a romance -- as much as it's an actioner. The filmmakers are simply betting that the vivacity of the action and the charm of the stars will get you involved and that involvement will grow rather than diminish as the story progresses. The action is preposterous, but the protagonists are in trouble, so you forget it's silly and start to worry -- but you don't forget to laugh, and you're meant to. The movie manages to ramp up all three aspects and keep the cocktail stirred. This is a shameless effort to appeal simultaneously to three different genre demographics: Comedy, Action, Romance. And it just may succeed. Is this Ron Miller (Tom Cruise) a man on a crucial mission -- or an out-of-control nut case? This is the question this movie poses, and this is a role that both Cruise's friends and his enemies may find appropriate. . . But to stick with this movie and enjoy its wild action-romance-comedy ride, you need to set aside any feelings the actor's couch-jumping antics may have awakened and focus on the great movies he has been in, observe how well he and ace comedienne Cameron Diaz work together, and there's entertainment to be had here. 'Knight and Day' is completely empty and pointless, but also quite a lot of fun. It's too long (like so many of the new pictures), and contains such a rich, indigestible mélange of action stuff -- somersaulting cars exploding on highways, shootouts, chases, fires -- and such lush locations, including Pamplona at bull run time, picturesque Austrian towns, Langley, and the Orient Express, you feel overfed. But then you walk out and it's all, pleasantly, forgotten, except for Tom Cruise's manic smile and Cameron Diaz's look of wide-eyed astonishment, which are enough to take home from a summer blockbuster in a season when one of the NY Times' lead critics praises Jonah Hex and Pixar's strung-out third installment of Toy Story is hailed as a masterpiece. Empty of solid content though it may be, 'Knight and Day' succeeds, for one thing, because it does something woefully lacking in today's blockbusters -- alternates the heavy action with quiet times. Here, they're usually romantic pauses, in which the lady (Diaz) changes into something more comfortable. Joe Carnahan, who has a sense of humor and knows his way around tough-guy scenes, should have kept this in mind when he made 'The A-Team,' a movie that never lets up and consequently leaves you just feeling weary. You remember nothing but Liam Neeson puffing on cigars in a movie he should never have been in. 'Knight and Day' has sense enough to give its leads appropriate roles and let you catch your breath every now and then. In development, this movie went through various titles; the one it landed with, 'Knight and Day,' only makes sense at the end and even then won't hit you over the head with its logic. 'K & D' also went through many writers -- at least nine. Considering that, it's a tribute to director and cast that the whole thing hangs together as well as it does and the different sequences don't just feel like pieces in a disassembled puzzle. Tom Cruise's character is invincible and his accidental partner, Joan, tends to get overexcited or lose her ability to cope with the gangs of assassins, the 90-mile-an-hour car chases, and the explosions and Roy resorts to drugging her so he can whisk them both safely away. From being scared and dubious, Joan begins to have more and more confidence in Roy and as this turns to attraction she shows startling abilities of her own: \"you've got skills,\" Roy tells her. Indeed. And however preposterous, so does 'Knight and Day.'",
+         "Greetings again from the darkness. I really liked director James Mangold's two most recent films - Walk the Line, and 3:10 to Yuma. Tom Cruise and Cameron Diaz both have great smiles and look really good in swim attire. Paul Dano (There Will Be Blood, Little Miss Sunshine) is well cast as an off-center nerdy scientist. That's the end of all the positive comments I have for this film. The negative comments are for just about everything else in this summer \"blockbuster\". It is billed as an Action-Comedy. There is plenty of action, though much of it is so far-fetched and ridiculous. There is almost no comedy. The rapid fire banter between Cruise and Diaz would have been much more effective had it been well written. A quality action movie needs a real force coming from the bad guy. Here, the filmmakers instead provide us with a \"is he a good guy or a bad guy\" story line with Cruise. Anyone surprised at the real answer? Because of that, we don't have anyone to root against. Some generic Spainish arms dealer played by Jordi Molla (Blow) and the government agent played generically by Peter Saarsgard. Generic is not a word you want associated with your movie. This is Cruise and Diaz together for the first time since the far-superior Vanilla Sky. They both deserve better than this slop, though I feel confident they had a good time with the globe-trotting to Spain, Austria, Jamaica and a few U.S. stops in between. The fun they had filming did not translate into fun for me as a viewer. In fact, as they were driving away, I kept hoping for an ending like Thelma and Louise."
+      ],
+      "genres": [
+         "Action",
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Twentieth Century Fox Film Corporation",
+         "Regency Enterprises",
+         "Pink Machine"
+      ],
+      "summaries": [
+         "June Havens finds her everyday life tangled with that of a secret agent who has realized he isn't supposed to survive his latest mission. As their campaign to stay alive stretches across the globe, they soon learn that all they can count on is each other.",
+         "June has a garage in Boston. At an airport heading home, a man bumps into her a few times and tries to keep her off the plane. He's under FBI surveillance; they wonder if he and she are working together, so they let both on a flight full of armed men wanting to arrest the stranger. He's Roy, he shoots his way out of trouble and tells her she's in danger. She's home the next day, miraculously, when agents pick her up; Roy saves her again, and a transcontinental chase ensues with Roy convincing her that he's the good guy, protecting an energy source that a rogue agent wants to sell on the black market. Can she trust Roy, and will trust matter when the bullets start flying?",
+         "A young woman gets mixed up with a disgraced spy who is trying to clear his name."
+      ],
+      "budget": 117000000
+   },
+   "movielensId": 79185,
+   "movielens": {
+      "languages": [
+         "English",
+         "Deutsch",
+         "Español"
+      ],
+      "releaseDate": "2010-06-15",
+      "dvdReleaseDate": "2010-11-30",
+      "directors": ["James Mangold"],
+      "runtime": 109,
+      "movieId": 79185,
+      "title": "Knight and Day",
+      "mpaa": "PG-13",
+      "actors": [
+         "Tom Cruise",
+         "Cameron Diaz",
+         "Peter Sarsgaard",
+         "Viola Davis",
+         "Jordi Mollà",
+         "Paul Dano",
+         "Maggie Grace",
+         "Marc Blucas",
+         "Celia Weston",
+         "Dale Dye",
+         "Falk Hentschel",
+         "Lennie Loftin",
+         "Rich Manley",
+         "Gal Gadot",
+         "Jack O'Connell",
+         "Trevor Loomis",
+         "Nilaja Sun",
+         "Jerrell Lee Wesley",
+         "Adam Gregory"
+      ],
+      "imdbMovieId": "1013743",
+      "originalTitle": "Knight and Day",
+      "genres": [
+         "Action",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": [
+         "JGPl86DBNNs",
+         "VDoNfrBlY3o",
+         "r73tMMDKjas",
+         "CwbzV51Q9c0"
+      ],
+      "plotSummary": "A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one \u2013 even themselves \u2013 are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.",
+      "tmdbMovieId": 37834,
+      "avgRating": 3.25387,
+      "releaseYear": "2010",
+      "numRatings": 2198,
+      "posterPath": "/aHEpzwXvMtIEMBE13tWXS5oHZ7d.jpg"
+   }
+}

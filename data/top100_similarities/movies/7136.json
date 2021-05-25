@@ -1,0 +1,663 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "individual",
+            "id": 30
+         },
+         {
+            "name": "paris",
+            "id": 90
+         },
+         {
+            "name": "shyness",
+            "id": 367
+         },
+         {
+            "name": "adultery",
+            "id": 596
+         },
+         {
+            "name": "hotel",
+            "id": 612
+         },
+         {
+            "name": "detective",
+            "id": 703
+         },
+         {
+            "name": "lovesickness",
+            "id": 725
+         },
+         {
+            "name": "job-hopping",
+            "id": 906
+         },
+         {
+            "name": "hotel room",
+            "id": 922
+         },
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "night watchman",
+            "id": 1406
+         },
+         {
+            "name": "montmartre",
+            "id": 1407
+         },
+         {
+            "name": "shoe seller",
+            "id": 1408
+         },
+         {
+            "name": "brothel",
+            "id": 1411
+         },
+         {
+            "name": "amateur detective",
+            "id": 1735
+         },
+         {
+            "name": "repair",
+            "id": 4826
+         },
+         {
+            "name": "students' movement",
+            "id": 5246
+         },
+         {
+            "name": "balzac",
+            "id": 5742
+         },
+         {
+            "name": "army",
+            "id": 6092
+         },
+         {
+            "name": "secret love",
+            "id": 7879
+         },
+         {
+            "name": "extramarital affair",
+            "id": 34094
+         },
+         {
+            "name": "eiffel tower paris",
+            "id": 164889
+         },
+         {
+            "name": "may 68",
+            "id": 214991
+         }
+      ],
+      "imdb_id": "tt0062695",
+      "video": false,
+      "title": "Stolen Kisses",
+      "recommendations": [
+         258,
+         259,
+         1818,
+         42513,
+         27030,
+         256,
+         2912,
+         34181,
+         753,
+         31742,
+         1421,
+         8286,
+         4191,
+         2262,
+         84823,
+         5055,
+         15244,
+         105711,
+         106196,
+         125150
+      ],
+      "backdrop_path": "/h39p97Pn0b55PV63PislftZslhk.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Antoine Doinel",
+               "gender": 2,
+               "credit_id": "52fe422ec3a36847f800a287",
+               "name": "Jean-Pierre Léaud",
+               "profile_path": "/dzkPODapVe4CSubEqI9ytTCqnZ7.jpg",
+               "id": 1653,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Christine Darbon",
+               "gender": 1,
+               "credit_id": "52fe422ec3a36847f800a28b",
+               "name": "Claude Jade",
+               "profile_path": "/k4xPizzH9iiNezQRdsispRCw7uV.jpg",
+               "id": 3507,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Fabienne Tabard",
+               "gender": 1,
+               "credit_id": "52fe422ec3a36847f800a28f",
+               "name": "Delphine Seyrig",
+               "profile_path": "/4JzI3nS7kOKq9bkaIuMG6RxvmDy.jpg",
+               "id": 3508,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Georges Tabard",
+               "gender": 2,
+               "credit_id": "52fe422ec3a36847f800a293",
+               "name": "Michael Lonsdale",
+               "profile_path": "/pEF7YiXY9yMKUVX5n2Ly7OYH5Op.jpg",
+               "id": 2369,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Monsieur Darbon",
+               "gender": 2,
+               "credit_id": "52fe422ec3a36847f800a297",
+               "name": "Daniel Ceccaldi",
+               "profile_path": "/mog9FrCetK1a6MKqWFl0pWXyr6X.jpg",
+               "id": 3509,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Madame Darbon",
+               "gender": 1,
+               "credit_id": "52fe422ec3a36847f800a29b",
+               "name": "Claire Duhamel",
+               "profile_path": "/h2IbIwLuxlNOaJWQzgYocJyohMf.jpg",
+               "id": 3510,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Monsieur Henri",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a29f",
+               "name": "Harry-Max",
+               "profile_path": "/dGLdV0PA3oeJ4mlnuqwJ8qnnKQW.jpg",
+               "id": 3511,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Monsieur Blady",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2a3",
+               "name": "André Falcon",
+               "profile_path": "/krndjE9m7Zfw8o3vhKeDjF2ViQ7.jpg",
+               "id": 3513,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Catherine",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2a7",
+               "name": "Catherine Lutz",
+               "profile_path": "/hzGLWvnNxOTZWixEXEKV8mBjafW.jpg",
+               "id": 3514,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Gérante",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2ab",
+               "name": "Martine Ferrière",
+               "profile_path": "/3XFY4ZEPuMVvjKsP9gXE0kKrBS6.jpg",
+               "id": 3515,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Unknown Man",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2af",
+               "name": "Serge Rousseau",
+               "profile_path": "/qkUagtoCImuh2xgczqucCRGqqWe.jpg",
+               "id": 3516,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Julien",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2b3",
+               "name": "Paul Pavel",
+               "profile_path": "/kGJt5oIUe3AZQzB7Ua6sVG2JOsP.jpg",
+               "id": 3517,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Adjudant Picard",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2b7",
+               "name": "François Darbon",
+               "profile_path": "/szPaCkBxdGxdndTtfqx9CybSetU.jpg",
+               "id": 3518,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Neighbour, Dentist",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2bb",
+               "name": "Léon Elkenbaum",
+               "profile_path": null,
+               "id": 3519,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Prostitute 1",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2bf",
+               "name": "Madeleine Parard",
+               "profile_path": null,
+               "id": 3520,
+               "order": 14
+            },
+            {
+               "cast_id": 17,
+               "character": "Prostitute 2",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2c3",
+               "name": "France Monteil",
+               "profile_path": null,
+               "id": 3521,
+               "order": 15
+            },
+            {
+               "cast_id": 18,
+               "character": "Tall girl",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2c7",
+               "name": "Carole Noe",
+               "profile_path": null,
+               "id": 3522,
+               "order": 16
+            },
+            {
+               "cast_id": 19,
+               "character": "Hotel Manager",
+               "gender": 2,
+               "credit_id": "52fe422ec3a36847f800a2cb",
+               "name": "Roger Trapp",
+               "profile_path": "/lRakygO8Yeq1HTI3a43t5Y9pQow.jpg",
+               "id": 3523,
+               "order": 17
+            },
+            {
+               "cast_id": 31,
+               "character": "M. Albani",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a311",
+               "name": "Albert Simono",
+               "profile_path": "/1q1C2pM4vdiRQo5MAnZ5ottwn6Z.jpg",
+               "id": 3533,
+               "order": 18
+            },
+            {
+               "cast_id": 32,
+               "character": "Mademoiselle Ida",
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a315",
+               "name": "Christine Pellé",
+               "profile_path": null,
+               "id": 3534,
+               "order": 19
+            },
+            {
+               "cast_id": 33,
+               "character": "Vendeuse",
+               "gender": 1,
+               "credit_id": "52fe422ec3a36847f800a319",
+               "name": "Chantal Banlier",
+               "profile_path": "/vsrBavY8cPE3hYnJnfsfNKVGAL5.jpg",
+               "id": 55925,
+               "order": 20
+            },
+            {
+               "cast_id": 34,
+               "character": "Monsieur Colin",
+               "gender": 2,
+               "credit_id": "54b7b6b49251411d79001ee3",
+               "name": "Jacques Rispal",
+               "profile_path": "/sWFr0JdijBjhrqg42fzFhZXndGp.jpg",
+               "id": 39443,
+               "order": 21
+            },
+            {
+               "cast_id": 35,
+               "character": "Robert Espannet",
+               "gender": 0,
+               "credit_id": "54b7bb42c3a36820b700175e",
+               "name": "Jacques Delord",
+               "profile_path": "/f6QTTo7GOO4M0Gxt6z9y05HfgSZ.jpg",
+               "id": 1413879,
+               "order": 22
+            },
+            {
+               "cast_id": 36,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54b7bea2c3a3686c5f001ede",
+               "name": "Marcel Berbert",
+               "profile_path": "/ktxkk99X4Yj3uTKCEkkVRhWTPSo.jpg",
+               "id": 3524,
+               "order": 23
+            },
+            {
+               "cast_id": 37,
+               "character": "La Parisienne suivie dans la rue",
+               "gender": 0,
+               "credit_id": "54b7bfa9c3a3686c6f001f51",
+               "name": "Pascale Dauman",
+               "profile_path": "/npqDgjKHiiR5LSz9O6spHtu4fKl.jpg",
+               "id": 9883,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe422ec3a36847f800a283",
+               "name": "François Truffaut",
+               "profile_path": "/apCCV99N3FqB5NsEPqOzetlkprL.jpg",
+               "id": 1650,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe422ec3a36847f800a2d1",
+               "name": "Marcel Berbert",
+               "profile_path": "/ktxkk99X4Yj3uTKCEkkVRhWTPSo.jpg",
+               "id": 3524,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe422ec3a36847f800a2d7",
+               "name": "François Truffaut",
+               "profile_path": "/apCCV99N3FqB5NsEPqOzetlkprL.jpg",
+               "id": 1650,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2dd",
+               "name": "Denys Clerval",
+               "profile_path": null,
+               "id": 3525,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2e3",
+               "name": "Agnès Guillemot",
+               "profile_path": null,
+               "id": 3526,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2e9",
+               "name": "Claude Pignot",
+               "profile_path": null,
+               "id": 3527,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2ef",
+               "name": "René Levert",
+               "profile_path": null,
+               "id": 3528,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe422ec3a36847f800a2f5",
+               "name": "Antoine Duhamel",
+               "profile_path": "/hvVxYwaaU0TxUCzqh1O3X0HMT3g.jpg",
+               "id": 3529,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a2fb",
+               "name": "Léo Chauliac",
+               "profile_path": null,
+               "id": 3530,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe422ec3a36847f800a301",
+               "name": "François Truffaut",
+               "profile_path": "/apCCV99N3FqB5NsEPqOzetlkprL.jpg",
+               "id": 1650,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a307",
+               "name": "Claude de Givray",
+               "profile_path": null,
+               "id": 3531,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe422ec3a36847f800a30d",
+               "name": "Bernard Revon",
+               "profile_path": null,
+               "id": 3532,
+               "department": "Writing",
+               "job": "Author"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 9.138443,
+      "production_countries": [{
+         "iso_3166_1": "FR",
+         "name": "France"
+      }],
+      "id": 255,
+      "vote_count": 76,
+      "budget": 350000,
+      "overview": "The third in a series of films featuring François Truffaut's alter-ego, Antoine Doinel, the story resumes with Antoine being discharged from military service. His sweetheart Christine's father lands Antoine a job as a security guard, which he promptly loses. Stumbling into a position assisting a private detective, Antoine falls for his employers' seductive wife, Fabienne, and finds that he must choose between the older woman and Christine.",
+      "similar": [
+         843,
+         634,
+         283227,
+         166,
+         284,
+         37710,
+         110415,
+         82695,
+         59436,
+         858,
+         14,
+         88,
+         244772,
+         1278,
+         744,
+         2288,
+         258480,
+         1643,
+         916,
+         1586
+      ],
+      "original_title": "Baisers volés",
+      "runtime": 90,
+      "poster_path": "/5qHh1Vp2TOOX5IaTVt4wyT8OTnR.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Les Films du Carrosse",
+            "id": 53,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Les Productions Artistes Associés",
+            "id": 64,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1968-08-13",
+      "vote_average": 7.4,
+      "belongs_to_collection": {
+         "backdrop_path": "/hT6f042PKqsMjt0t8vPEE7yocKj.jpg",
+         "name": "The Adventures of Antoine Doinel",
+         "id": 185682,
+         "poster_path": "/66hyq0YtgBjrfT2kB1YJu33UDcy.jpg"
+      },
+      "tagline": "Antoine knows what he wants to do ... his problem is doing it.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["François Truffaut"],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": [
+         "François Truffaut",
+         "Claude de Givray"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0062695/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTEzNTY3ODAwMzFeQTJeQWpwZ15BbWU4MDM5NDE5MzEx._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jean-Pierre Léaud, Claude Jade, Delphine Seyrig | See full cast and crew »"],
+      "reviews": [
+         "Stolen Kisses (for me) has got to be one the most beautiful film ever made. All of the films in the Antoine Doinel cycle are brilliant (even the half-baked \"Love On The Run\" is still quite enjoyable). But \"Stolen Kisses\" hits a spot, which films seem to never hit. It captures an age of awkwardness that seems to be ignored...the early twenties. Not like a typical high school or after college film (ie: \"Risky Business\" or \"Graduate\"), \"Stolen Kisses\" is about learning the survival skills to make it to adulthood (whether it's keeping a job, or making it in love). Antoine Doinel is in the third cycle of the series (\"400 Blows\" and \"Love At Twenty/ Antoine And Collette\" being it's predecessor), and Antoine has just been dishonourably discharged from the army for being of unstable character. Antoine haphazzardly begins to go through jobs, trying to find his nitch in life, while being obsessed with love. He begins as a nightwatchman of a hotel, to being a private detective of Blady's, which puts him as a planted spy in Monsieur Tobard's Shoe Shop, and finally settling down as an accident prone TV Repair man. Antoine is the awkward anti-hero youth of the sixties. During the 68' Paris riots (which were unbelievably carrying on during the filming), the youth of France had a sort of displaced position in the work force. Antoine (superbly played by Jean-Pierre Leaud) typlifies this kind of youth. He is full of nervous energy, politically working class, is love lorn, and uneducated. He is full of human qualities that are real and relateable. He lies, he loves, he fails, and he succeeds. He is just as much as the \"everyman\" of France, as Jimmy Stewart was in America. But interestingly, where he has once resembled director Francois Truffaut in the earlier works, he now was metamorphasising into Jean-Pierre Leaud's character, but resembling Truffaut more in look. Antoine Doinel was never meant to be just Truffaut, but Leaud as well. And the confusion of this identity is brilliantly displayed as Antoine confirms his identity by manically reciting his name in a mirror, displaying his search for identity to the point of near madness. The beautiful Clade Jade gives an underated performance as the hip, bourgoise student, that makes Antoine's obsessiveness seem somehow justified. The girl that is loved best by Antoine, when out of reach. The film also has a theme, about the differing strengths of love. When Antoine is in love with Christine, she doesn't love him. When Antoine loves Fabienne (the shoe shop's owner's wife), Christine is in love with Antoine. Every character is immersed in a love triangle. And asks the question, \"Does love really ever exist on an equal basis?\" But aside from the romantic cynicism, also lays some of the most romantic cinematic moments in history. The scene in which we follow up the stairs to find Antoine and Christine laying in bed peacefully, and the morning after, where Antoine purposes to Christne (with what looks like a fancy spoon or bottle opener, taking the place of a real ring?) is one of the most poetic moments in film history. The music score is fantastic as well as the cinematography gentle and sweet. For some, the ending is somewhat confusing and abrupt. But only shows, that the man that now stalks Christine with such passion, is now looked at by Antoine as resembling his once passionate feelings for her, that no longer burn with the same intensity. A bittersweet opening to the followup \"Bed And Board\". This film is a classic on all accounts!!! A must see, and my favourite film of ALL TIME!!! I rate it a 15 out of 10!!!",
+         "This is absolutely my favourite Truffaut film. Being a film which is based on real events in Truffaut's life (like most of his films), this film shows who Truffaut liked to be (looked at). The charismatic Jean-Pierre Léaud completes this image perfectly. The wonderful soundtrack makes it even better. Some might say that this film is less revolutionary than his nouvelle vague stuff, but this film is much more effective and up-to-date. It is the funniest and most interesting part of the Doinel-series, which, sadly, had to be finished with the worthless L'amour en fuite. Watching this film makes you understand what Truffaut thinks about himself, and the 'family-business'of movie making. Watching this film combined with La nuit Américaine, and you'll know what Truffaut really is about. This film steals more than your kisses. It might steal you heart.",
+         "It is incredible how well this film has held up over the years, and how it continues to fill you with all the spirit of hope and exultation that was part of l'epoque. This is not an overtly political film, though there are passing references to and images of the contemporary demonstrations which would shake France to its core in May of '68. Nonetheless, it captures spectacularly well the revolutionary feel of the times and makes perfectly understandable why Truffaut and Godard would call for the cancellation of the Cannes Festival of 1968. Nothing could go on has it had in the past after May '68, and \"Stolen Kisses\" itself was a statement of that refusal. The film is perhaps the best political film of the upheaval of that period for at least two reasons: 1) the attitude towards work: Antoine Doinel passes from job to job without a second thought, not worrying himself about a \"career,\" and with a playful attitude that seemed inspired by Guy Debord's slogan of \"ne travaillez jamais\" (\"never work\"); 2) the attitude towards life in general: the film reflects that sensibility of the '68 movement that \"everything is possible\", that life can be lived as one adventure after another (as opposed to the dreary workaday life proffered by the bourgeoisie), that the craziest things can happen to you and that you should be open to taking them into your life (e.g., Christine falling in love with Antoine and vice versa). The lightness of the film is its greatest quality, for it suggests that all those \"heavy\" structures, physical, psychological, political and societal, can be overcome (\"sous les pavés, la plage\"/\"beneath the pavement lies the beach\") and life can be recovered.",
+         "There were three films in this series, beginning with the less well-known, but excellent \"Soft Skin\" -- a beautiful title in English, but even more beautiful in French. \"Stolen Kisses\" -- remembered now almost thirty years since I first saw it -- tops the others. \"Bed and Board\" is the third; amusing, even wise, in a way, but not nearly in the same league with either \"Skin\" or \"Kisses.\" This film is one of a handful which confirmed me as a life-long cinephile; first seen in my early twenties. It's Truffaut's happiest film, which might damn it to many people in a way, prevent it from being regarded as a great film. Who cares? It's tremendously amusing, the young actors are beautiful to watch (women may find other leading men more handsome than Leaud, but men won't other young ladies more beautiful than Claude Jade, to my mind). But -- even better -- this baby moves. It's lively and full of great, odd plot developments. It's easy to miss the sheer genius of the writing, the filming -- tremendous inventiveness is evident in both. This film led the way; it's as wild as some of Woody Allen's goofier earlier films, but without anywhere near the level of neuroticism. I could go on and on. I've seen it at least six or seven times. There's nothing else like it, truly. A few of Alan Rudolph's films begin to explore this vein a bit, but then they came much later. \"Stolen Kisses\" -- a beautiful film for young lovers to see, for a first date, perhaps, and for more mature lovers, too. For everybody, young and old. A perfect Valentines' Day film, but not mere fluff, either. There's Paris, women's shoes, detectives, lots of scheming, a triumph over shyness, lots of flirting, and plenty of stolen kisses, of many varieties, including a few to be kept and sealed away forever.",
+         "After being discharged from the army for insubordination, Antoine Doinel (Jean-Pierre Léaud) visits his former girlfriend Christine Darbon (Claude Jade), and her father finds a temporary job of night watchman for Antoine in a hotel. The naive Antoine is deceived by a private eye in his first night shift, and fired on the next morning. The investigator invites the clumsy Antoine to work in his company, where he is assigned for some minor jobs, until he has to investigate why the owner of a shoes store, Mr. Georges Tabard (Michel Lonsdale), is detested by his employees. Meanwhile Antoine falls in love for the gorgeous Mrs. Fabienne Tabard (Delphine Seyrig). \"Baisers Volés\" is a delightful romantic comedy of François Truffault. Using his alter-ego, Antoine Doinel, this movie pictures the romantic and very funny adventures of this character in Paris with prostitutes, with his girlfriend and with his married passion. The soundtrack, with song \"Que reste-t-il de nos amours?\" of Léo Chauliac, is simply wonderful. This classic story is still charming and not dated almost forty years later. My vote is eight. Title (Brazil): \"Beijos Roubados\" (\"Stolen Kisses\")",
+         "For the role of Christine Darbon, Truffaut cast a nineteen-year-old actress, Claude Jade, who had impressed him in the stage play Enrico IV. Truffaut had been \"completely taken by her beauty, her manners, her kindness, and her joie de vivre.\" Her polite upbringing and charismatic girl-next-door quality, as far as Truffaut was concerned, made Claude Jade perfect for the role of the pure-hearted Christine who would eventually win Antoine's heart. As Christine, Claude Jade is as cute as a button and her scenes are often the most charming ones in the film. Her introductory scene, stepping out of the Parisian night appearing like an angel to wave shyly at Antoine through a glass wall, is a delight. Later, Christine attempts to guess Antoine's latest job, amusingly tossing out way-off-the-mark guesses like cab driver or water taster. It is a ticklish scene but also hints that Christine, as of yet, doesn't think so highly of Antoine's employable skills. By the film's end, Antoine has become a TV repairman. He has been holding a grudge against Christine, so she wins him back in a fetching manner. She calls his company for service even as she is removing a component from her TV. The company sends Antoine, who is then forced to stay for hours trying to fix an irreparable TV. The best romantic scene in the film, however, is a quaint breakfast scene one morning in Christine's kitchen. Christine is busy teaching Antoine how to butter toast. Antoine, for his part, wishes to pose a question to her. Too embarrassed to express himself in words, he writes his question on a notepad instead and hands it to her. She immediately writes her reply and hands it back to him. They continue in this manner for a few more exchanges before Antoine withdraws a scissor from a nearby drawer and hangs it on Christine's ring finger. It is a touching and intimate moment between the two young lovers and communicates, without intrusive words, their affection for one another.",
+         "Stolen Kisses is a film unlike any other, perhaps because it combines so many elements into such a breezy film experience. Though Francois Truffaut broke into the film industry with his debut The 400 Blows depicting the young, misplaced Antoine Doinel as a youth attempting to find his way amidst the chaos of Paris, Stolen Kisses might be a more mature and understanding film to its protagonist. Like Antoine, Truffaut has grown up. This adventure follows Antoine's departure from the army and his attempt to find steady work in Paris, that gorgeous and timeless city with the ethereal Sacre Coeur looming in the background. He goes through a number of professions, all of which are completely captivating in their interest to us the audience and Antoine himself. Tying all this together is his constant affection for the girl he left for the army, Christine, who very well may hold the key to his heart. What is so endlessly fascinating about this film is the stark simplicity Truffaut films it in. Like his previous work, this film has remarkable fluid camera movements as he gives us a breathtaking view of the eternal city and the journey Antoine is on in hopes of discovering his place. We are dropped into various situations such as a small hotel, a private detective agency and a TV repair truck, all of which are Antoine's attempts to find stability in a most unstable of times: Paris, 1968. What must be said about this remarkable film is that it is at its core a most personal story. Clearly, Antoine represented Truffaut in The 400 Blows and he does here. From adolescence to teen angst to young adulthood, Truffaut has shown us in three examples an everyman many of us can relate to. He is self-conscious, anxious, awkward around women yet tries to do the best he can. In Truffaut's eyes, and ours, this is the source of his innocence and charm.",
+         "\"Stolen Kisses\" is about Antoine Doinel (Jean-Pierre Leaud, in an exquisite performance), part of a three-film cycle about this young man who is trying to figure out life, love, and where and with whom he belongs. In the beginning of the film, Antoine is dishonorably discharged from the army and thus his job hunt begins. He's really not very good as a gift-wrapper, or as the night watchman at a hotel, or as a private detective. The detective job takes up most of the film. He is dispatched to work undercover in a shoe shop to find out why nobody likes the boss. He falls head over heels for the boss' stunningly beautiful wife Fabienne. We also see Antoine dealing with his on-again, off-again relationship with his girlfriend Christine, who wants him when he doesn't want her, and vice versa. Accompanied by a beautiful music score and set in '60s Paris, \"Stolen Kisses\" is a whimsical, sometimes cynical film about different levels of love (often existing in one relationship), the search for self, and for loving the unattainable. The follow-up is \"Bed and Board.\"",
+         "After a stint in the army, Antoine Doinel is released from active duty because of insubordination and ineptitude. The releasing officer does not have kind words for the soon to be civilian young man. As he comes out from the place, he does not take long to find his way to have sex with a prostitute and to reclaim his humble abode in a run down apartment. Antoine is lucky in getting a position at a hotel thanks to the parents of Christine, his on and off girlfriend. It is obvious Antoine is not fit for the position as he bungles a situation where a cheating wife is surprised with her lover in a room where the reception clerk is duped by the older P.I. behind the case. The older detective feels bad for having caused Antoine's the loss of his job and recommends him to apply for a job with his agency. The detective agency proves to be no different from Antoine's previous experiences. His best success in a case is when his superior asks him to infiltrate the shoe store owned by M. Tabard, who feels his employees simply hate him and wants to find out what is he doing wrong. No one is happier to meet Antoine than Fabienne Tabard, the stylish wife of the owner; she sees in Antoine a man she can seduce and who will appreciate her charms. \"Stolen Kisses\" is a continuation on Francois Truffaut's take on the character that first was examined in his \"400 Blows\". It is a picaresque comedy because the way Antoine sees the world around him, a society where he does not fit snugly. Mr. Truffaut made a few films around his Antoine Doinel and this one, even 44 years after it was released, still is enjoyable to watch. It is light in tone as the inept young hero of the story goes from one occupation to the next without not knowing where his future will take him. His girlfriend Christine Darbon, is an afterthought in the narrative, although by the end Antoine gets serious about getting more involved, and in a way, settled with the lovely young lady. It would have been inconceivable to think anyone else but Jean-Pierre Leaud, the original Antoine of a few years before, not playing him again. Mr. Leaud had a good working with Mr. Truffaut as they collaborated on different projects together. Best thing in the film is the elegant Delphine Seyrig, playing Fabienne Tabbard, a sophisticated seductress that captures Antoine's vivid imagination. Claude Jade appears as the sweet Christine, the woman Antoine desires. Michael Lonsdale is also perfect as M. Tabard, the shoe store owner. \"Stolen Kisses\" remains among Francois Truffaut most best comedies, which seen today, evokes a bygone era and the atmosphere of a bygone period in Paris, which was lovingly photographed by Denys Clerval, with a musical score by Antoine Duhanel.",
+         "It amazes me that everybody watch \"The 400 Blows\", love the film but doesn't have interest in following all the other adventures of Antoine Doinel or people seem to lose track of just five films but prefer to watch all James Bond films. What amazes me even more is that the other films of Antoine appeals more to me than the original one, although I love and rank them on the same level. In the most comical film of Doinel series \"Stolen Kisses\", Jean-Pierre Léaud playing his unforgettable character, is discharged from the army and needs to find a new job. He starts as night watchman, something ridiculous happens and then he's out of work. Later, he works as a private investigator, having an unique talent for the job and getting himself involved with some bizarre investigations; and one of them takes him to his new fake job as a stock boy in Mr. Tabard's shoes-shop when this guy wants to know why nobody likes him and Doinel must find the reason. While there, he falls in love with Tabard's wife who also seems obsessed with him; Doinel has other things to investigate and other female interests, and of course he meets Colette and Christine again, women presented in Doinel's other films. Here's what Truffaut makes: he takes this hard-working character, puts him in strange, humored yet very realistic situations of the day-by-day, brings back some connections of the previous films too and the result is a nice, funny, beautiful film that gives a positive light to Antoine Doinel, a man only trying to survive in the best way he can. It's very surprising how he can manage to do so many things in different lines of work specially if you consider that in \"The 400 Blows\" he hated school, he hadn't patience to sit and learn, the same thing happen in the beginning of this film, the reason why he was discharged of Army, yet he can do lots of things, a multi task man for all seasons. Truffaut succeeds in doing what Woody Allen sometimes tries so hard to do and that is make something really funny with a sense of realism and absurd going altogether, hand in hand. It's a perfect romantic comedy too, since Doinel is seen chasing women and all (the funniest date he has is with a woman so tall that makes him feel like a midget next to her, this moment can be seen also in \"Love on the Run\"). Léaud is always brilliant playing the director's alter ego, he's very funny, charming, very good looking. The story is all good with great and hilarious dialogs and insights, unforgettable sequences and plenty of humor. And who could possibly predict that Doinel's life would be THAT good? Certainly not me, not him or anyone else. Here's a surprising and lovely film, and one of the most funniest I've ever seen. 10/10"
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Les Films du Carrosse",
+         "Les Productions Artistes Associés"
+      ],
+      "summaries": [
+         "Antoine Doinel joined the army but has just been discharged. The film tells his reunion with Christine Darbon, the girl he was in love with before the beginning of the film, and his adventures in his jobs : first as a night watchman, then as a private investigator, especially during one investigation within Mr Tabard's shoes-shop... Mme Tabard is so fascinating...",
+         "After being discharged from the army for insubordination, Antoine Doinel visits his former girlfriend Christine Darbon, and her father finds a temporary job of night watchman for Antoine in a hotel. The naive Antoine is deceived by a private eye in his first night shift, and fired on the next morning. The investigator invites the clumsy Antoine to work in his company, where he is assigned for some minor jobs, until he has to investigate why the owner of a shoes store, Mr. Georges Tabard, is detested by his employees. Meanwhile Antoine falls in love for the gorgeous Mrs. Fabienne Tabard."
+      ],
+      "budget": 350000
+   },
+   "movielensId": 7136,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "1968-08-13",
+      "dvdReleaseDate": "2002-04-23",
+      "directors": ["François Truffaut"],
+      "runtime": 90,
+      "movieId": 7136,
+      "title": "Stolen Kisses",
+      "mpaa": "R",
+      "actors": [
+         "Jean-Pierre Léaud",
+         "Claude Jade",
+         "Delphine Seyrig",
+         "Michael Lonsdale",
+         "Daniel Ceccaldi",
+         "Claire Duhamel",
+         "Harry-Max",
+         "André Falcon",
+         "Catherine Lutz",
+         "Martine Ferrière",
+         "Serge Rousseau",
+         "Paul Pavel",
+         "François Darbon",
+         "Léon Elkenbaum",
+         "Madeleine Parard",
+         "France Monteil",
+         "Carole Noe",
+         "Roger Trapp",
+         "Albert Simono",
+         "Christine Pellé",
+         "Chantal Banlier",
+         "Jacques Rispal",
+         "Jacques Delord",
+         "Marcel Berbert",
+         "Pascale Dauman"
+      ],
+      "imdbMovieId": "0062695",
+      "originalTitle": "Baisers volés",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["nB3UyhrfyDU"],
+      "plotSummary": "The third in a series of films featuring François Truffaut's alter-ego, Antoine Doinel, the story resumes with Antoine being discharged from military service. His sweetheart Christine's father lands Antoine a job as a security guard, which he promptly loses. Stumbling into a position assisting a private detective, Antoine falls for his employers' seductive wife, Fabienne, and finds that he must choose between the older woman and Christine.",
+      "tmdbMovieId": 255,
+      "avgRating": 3.86604,
+      "releaseYear": "1968",
+      "numRatings": 265,
+      "posterPath": "/5qHh1Vp2TOOX5IaTVt4wyT8OTnR.jpg"
+   }
+}

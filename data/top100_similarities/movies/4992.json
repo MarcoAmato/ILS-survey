@@ -1,0 +1,617 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "lover (female)",
+            "id": 1808
+         },
+         {
+            "name": "love of one's life",
+            "id": 2038
+         },
+         {
+            "name": "time travel",
+            "id": 4379
+         },
+         {
+            "name": "kiss",
+            "id": 5091
+         },
+         {
+            "name": "past",
+            "id": 6162
+         },
+         {
+            "name": "secret love",
+            "id": 7879
+         },
+         {
+            "name": "fish out of water",
+            "id": 11860
+         }
+      ],
+      "imdb_id": "tt0035423",
+      "video": false,
+      "title": "Kate & Leopold",
+      "recommendations": [
+         2642,
+         2018,
+         9489,
+         11529,
+         4806,
+         8874,
+         858,
+         9778,
+         11467,
+         12658,
+         11355,
+         1921,
+         9919,
+         7303,
+         2044,
+         3981,
+         9007,
+         2064,
+         6964,
+         11931
+      ],
+      "backdrop_path": "/peukS1zqbrHl4WuKb4LAGBarSb8.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Kate McKay",
+               "gender": 1,
+               "credit_id": "52fe44169251416c750286e7",
+               "name": "Meg Ryan",
+               "profile_path": "/3WMxDdHAtgtSqHjiMyf3liErY3.jpg",
+               "id": 5344,
+               "order": 0
+            },
+            {
+               "cast_id": 9,
+               "character": "Leopold",
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286eb",
+               "name": "Hugh Jackman",
+               "profile_path": "/dFbNlPpiEPupTAlNVNh5vrxBU1h.jpg",
+               "id": 6968,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Stuart Besser",
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286ef",
+               "name": "Liev Schreiber",
+               "profile_path": "/qFn3npmqd1qaYOk6yohmi3FbPhc.jpg",
+               "id": 23626,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Charlie McKay",
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286f3",
+               "name": "Breckin Meyer",
+               "profile_path": "/7V3hXjmSJXApsuu2aGkEgFFAy03.jpg",
+               "id": 33654,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Darci",
+               "gender": 1,
+               "credit_id": "52fe44169251416c750286f7",
+               "name": "Natasha Lyonne",
+               "profile_path": "/8rhl25eCPQQFhv1Mvqe9eMP3MpS.jpg",
+               "id": 10871,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "J.J. Camden",
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286fb",
+               "name": "Bradley Whitford",
+               "profile_path": "/66brylvzWLg94TRMd6QFrVyMOei.jpg",
+               "id": 11367,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Uncle Millard",
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286ff",
+               "name": "Paxton Whitehead",
+               "profile_path": "/kqj2BMIx8BZiHNW4Ilay889QFiv.jpg",
+               "id": 129996,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Dr. Geisler",
+               "gender": 2,
+               "credit_id": "52fe44169251416c75028703",
+               "name": "Spalding Gray",
+               "profile_path": "/xXUGK1bQRi6vBT8Xu0NsShIEKRe.jpg",
+               "id": 8978,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Colleague Bob",
+               "gender": 2,
+               "credit_id": "52fe44169251416c75028707",
+               "name": "Josh Stamberg",
+               "profile_path": "/g9RVuzJiWYdbfyllZEDgGbUM9xL.jpg",
+               "id": 21882,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Ad Executive Phil",
+               "gender": 2,
+               "credit_id": "52fe44169251416c7502870b",
+               "name": "Matthew Sussman",
+               "profile_path": null,
+               "id": 159869,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Patrice",
+               "gender": 1,
+               "credit_id": "52fe44169251416c7502870f",
+               "name": "Charlotte Ayanna",
+               "profile_path": "/7gylpOlomdAFyx83NUaQqQqgen0.jpg",
+               "id": 6281,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Otis",
+               "gender": 2,
+               "credit_id": "52fe44169251416c75028713",
+               "name": "Philip Bosco",
+               "profile_path": "/8B8EQk868fQF8fGZ1w33XDV5Z1S.jpg",
+               "id": 6541,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Roebling",
+               "gender": 2,
+               "credit_id": "52fe44169251416c75028717",
+               "name": "Andrew Jack",
+               "profile_path": "/cP8drTO21gQ9qJWNkc39BuN878N.jpg",
+               "id": 240629,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Photographer",
+               "gender": 0,
+               "credit_id": "52fe44169251416c7502871b",
+               "name": "Stan Tracy",
+               "profile_path": null,
+               "id": 205583,
+               "order": 13
+            },
+            {
+               "cast_id": 22,
+               "character": "Miss Tree",
+               "gender": 0,
+               "credit_id": "52fe44169251416c7502871f",
+               "name": "Kristen Schaal",
+               "profile_path": "/rn84XtsczLSvJOWWNXLocaLx2df.jpg",
+               "id": 109869,
+               "order": 14
+            },
+            {
+               "cast_id": 39,
+               "character": "Policewoman",
+               "gender": 1,
+               "credit_id": "5726ddc9c3a3683c8500093b",
+               "name": "Viola Davis",
+               "profile_path": "/9nhqKVGA09DLeZqsvWVoNeTRlRQ.jpg",
+               "id": 19492,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286bf",
+               "name": "James Mangold",
+               "profile_path": "/1gt0VmCyBHhQLKhaBDCEIwvRWe.jpg",
+               "id": 366,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286c5",
+               "name": "James Mangold",
+               "profile_path": "/1gt0VmCyBHhQLKhaBDCEIwvRWe.jpg",
+               "id": 366,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286cb",
+               "name": "Steven Rogers",
+               "profile_path": "/nnoNT62XaKMdBO0eItAq1KeZn7U.jpg",
+               "id": 47283,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44169251416c750286d1",
+               "name": "Cathy Konrad",
+               "profile_path": null,
+               "id": 409,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286d7",
+               "name": "Rolfe Kent",
+               "profile_path": null,
+               "id": 24190,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286dd",
+               "name": "Stuart Dryburgh",
+               "profile_path": null,
+               "id": 7262,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44169251416c750286e3",
+               "name": "David Brenner",
+               "profile_path": null,
+               "id": 6051,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56263e069251413980004a68",
+               "name": "Steven Rogers",
+               "profile_path": "/nnoNT62XaKMdBO0eItAq1KeZn7U.jpg",
+               "id": 47283,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56263e2a92514135b0009239",
+               "name": "Kerry Barden",
+               "profile_path": "/zb3khdNgVHerkFz4esvjSZHnbDW.jpg",
+               "id": 5328,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56263e3ec3a3680e10015379",
+               "name": "Billy Hopkins",
+               "profile_path": "/vTGamEl7a1D93TCh165v8IyZZMG.jpg",
+               "id": 3192,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56263e52c3a3680e0e016e10",
+               "name": "Suzanne Smith",
+               "profile_path": "/fASNhfD4Tmw6KPW0LoPUycIFxEL.jpg",
+               "id": 4023,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56263e679251413980004a7d",
+               "name": "Mark Friedberg",
+               "profile_path": null,
+               "id": 5670,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56263e7a925141179d0030c5",
+               "name": "Jess Gonchor",
+               "profile_path": null,
+               "id": 10575,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56263e93c3a3680e16013fb9",
+               "name": "Stephanie Carroll",
+               "profile_path": null,
+               "id": 4907,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56263ea9c3a368686800e64c",
+               "name": "Donna Zakowska",
+               "profile_path": null,
+               "id": 18321,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56263ecd9251415bdd002071",
+               "name": "John Quaglia",
+               "profile_path": null,
+               "id": 1523419,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56263ee8c3a3680e16013fd2",
+               "name": "Carla White",
+               "profile_path": null,
+               "id": 1415080,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56263f03c3a3680e100153ba",
+               "name": "Karen Kawahara",
+               "profile_path": null,
+               "id": 1524763,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56263f22925141179d003100",
+               "name": "Claire Kirk",
+               "profile_path": null,
+               "id": 1336514,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56263f509251416398001ec4",
+               "name": "Amy Andrews",
+               "profile_path": null,
+               "id": 1412119,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56263f66c3a3680e20017b60",
+               "name": "Frankie Ritacco",
+               "profile_path": null,
+               "id": 1524768,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56263f7cc3a3680e20017b6a",
+               "name": "Laura Steinman",
+               "profile_path": null,
+               "id": 1524770,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56263fa19251413bda002aa6",
+               "name": "Sheila Waldron",
+               "profile_path": null,
+               "id": 1400540,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a86a358c3a368637c034b4a",
+               "name": "Harvey Weinstein",
+               "profile_path": "/jonLOgQIZPBn650kLcsKOPois7U.jpg",
+               "id": 59839,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 7.26585,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11232,
+      "vote_count": 538,
+      "budget": 0,
+      "overview": "When her scientist ex-boyfriend discovers a portal to travel through time -- and brings back a 19th-century nobleman named Leopold to prove it -- a skeptical Kate reluctantly takes responsibility for showing Leopold the 21st century. The more time Kate spends with Leopold, the harder she falls for him. But if he doesn't return to his own time, his absence will forever alter history.",
+      "similar": [
+         10340,
+         41154,
+         23048,
+         105,
+         59436,
+         2288,
+         11036,
+         206487,
+         8390,
+         2313,
+         6003,
+         1648,
+         1267,
+         688,
+         1919,
+         14337,
+         2134,
+         10683,
+         10691,
+         8873
+      ],
+      "original_title": "Kate & Leopold",
+      "runtime": 118,
+      "poster_path": "/cpydhxnOQra4knQpcvGugwCqgpI.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Konrad Pictures",
+            "id": 85,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/sNhxHhbyJ0xo52nr9xI2cJKkWFO.png",
+            "name": "Miramax Films",
+            "id": 14,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2001-12-25",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "If they lived in the same century they'd be perfect for each other.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["James Mangold"],
+      "runtime": 118,
+      "synopsis": "In 1876, Leopold Alexis Elijah Walker Gareth Thomas Mountbatten, Duke of Albany and future inventor of the elevator, is a stifled dreamer. Strict Uncle Millard (Paxton Whitehead) has no patience for Leopold's disrespect for the monarchy, chastising him and telling him he must marry a rich American, as the Mountbatten family finances are depleted. His uncle has told him that on his \"thirtieth birthday he had become a blemish to the family name\". The Duke finds Stuart Besser (Liev Schreiber), an amateur physicist (and descendant of Leopold, according to deleted scenes) perusing his schematic diagrams and taking photographs of them. He had seen him earlier at Roebling's speech about the Brooklyn Bridge. Leopold follows Stuart and tries to save him from what he thinks is a suicide, falling after him into the portal that brought the man there in the first place. Leopold awakens in 21st century New York. He is at first confused and thinks that he has been kidnapped. Stuart says that he has created formulae to forecast portals in the temporal universe and that Leopold must stay inside his apartment until the portal opens again a week later. As Stuart takes his dog out, he is injured by falling into the elevator shaft, and is eventually institutionalized for speaking about his scientific discovery. Leopold is intrigued by the cynical and ambitious Kate McKay (Meg Ryan), Stuart's ex-girlfriend, who comes to the apartment for her Palm Pilot stylus. He observes that she is a \"career woman\" and that her field, market research, is a fine avocation for a woman and states that he once dated a librarian from Sussex. Kate dismisses him and demands that he take Stuart's dog for a walk. Leopold is overwhelmed to see that Roebling's bridge is still standing. Back at the apartment, he befriends Charlie (Breckin Meyer), Kate's brother and an actor between gigs, who believes him to be an actor as well, steadfast to his character. Kate and Leopold become romantically involved, as they dine and tour New York. When shooting begins on the commercial in which Leopold has agreed to act, he finds the product, diet margarine, disgusting. He cannot understand how Kate would have him endorse a flawed item without qualms, and declares that \"when someone is involved in something entirely without merit, one withdraws\". Echoing his uncle, Kate says that sometimes one has to do things they don't want to. He chides her about integrity. She retorts, \"I don't have time for pious speeches from two hundred year old men who have not worked a day in their life\". Their dalliance seems at an end. Stuart escapes from the mental hospital, and while Kate is accepting her promotion at a company banquet, he and Charlie are racing to meet her. Moments before she goes on stage, they arrive and produce pictures from Stuart's camera that show her in 1876. Stuart says that he had thought he disrupted the spacetime continuum, but actually \"the whole thing is a beautiful 4-D pretzel of kismetic inevitability\". Kate chooses a life with Leopold over her career, and the three of them escape to the Brooklyn Bridge. There, catching the portal before it closes, Kate vanishes into 1876 where Leopold is himself about to announce Miss Tree as his bride. As he opens his mouth to speak, he sees Kate and announces her name, Kate McKay, as his bride. In the closing scene, they kiss and the camera is drawn outward showing a wall clock depicting 12:15.",
+      "writers": [
+         "Steven Rogers",
+         "James Mangold"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0035423/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BODU1MzU0OTUwOF5BMl5BanBnXkFtZTYwNjA5NTA5._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Meg Ryan, Hugh Jackman, Liev Schreiber | See full cast and crew »"],
+      "reviews": [
+         "If you can accept the totally ridiculous premise of KATE AND LEOPOLD and enjoy romantic fantasies of this sort, you'll find yourself drawn into the plot because of the very charismatic HUGH JACKMAN. He is the main reason for watching and carries the film on his sturdy shoulders, so adept is he at being a \"knight in shining armor\". As for MEG RYAN, she is giving her usual Meg Ryan schtick--a sort of slightly brighter version of Goldie Hawn--but here it doesn't matter because Jackman manages to steal every scene he's in. BRECKIN MEYER is excellent as her boorish brother who learns a few things from his 18th Century friend about manners and etiquette. But it's the time travel aspect of the story that is its weakest link. Highly recommended as a romantic comedy that owes much of its charm to the performance of its leading man--an actor of remarkable skill whose hunky presence dominates much of the movie. It's the sort of romantic fluff that would have starred JEAN ARTHUR and GARY COOPER had it been made in the '30s. The New York location photography is excellent.",
+         "Honestly, my wife rented this and I wasn't planning on watching - but the luscious cinematography and some interesting writing drew me in. Hugh Jackman sealed the deal with his totally straight portrayal - this guy's earning power can only go up! Looking for some fluff and a laugh? It's better than most of the romantic comedy crap out there. Not a waste of time if you are in the mood to have something wash over you.",
+         "I'm a fan of Meg Ryan and think that she's one of the best there is in Hollywood right now. Yet, I believe that it was HUGH JACKMAN who stole the show in this movie. He is so charming and charismatic that you can hardly resist falling head over heels for him! Leopold is a duke from the 18th century who mistakenly lands up in the 21st century one day...and is obviously bewildered with everything he sees. He stays with the man who got him there at the first place, Stuart,Kate's (Meg Ryan) ex-boyfriend. Predictably, Leopold falls in love with Kate and she retaliates. Yet, he has to go back where he came from, and that poses a problem for their relationship. It's a cute movie, yet, I couldn't agree with the ending, though it was predictable. I just couldn't see eye to eye with the reasoning they gave us for the step Kate took. Okay movie...great if you have nothing else to do and like chick-flicks. That's exactly the reason I watched it. I liked it..but I've seen better by Meg Ryan.",
+         "Kate & Leopold is more or less a romantic comedy that has been done so many times before. Woman and man see each other and don't like each other. Than they fall in love, but destiny comes in between them. In the end they overcome all problems and will live happily ever after... It's exactly the same as always, but this time they have added an interesting extra ingredient to it. Kate, her brother, her ex and Leopold all live in New York. The only problem is that Leopold is from the 1870's, while the others live in the 21st century. Kate's brother has found a way to travel through time, meets Leopold and accidentally takes him with him to the 21st century. I guess I don't have to explain everything that happens afterward... Even though I'm not always a huge fan of romantic comedies, I have to admit that I had a good time watching this one. Thanks to the original approach, this movie is better than average. The actors are convincing, although I was surprised to see how easily a man from the 19th century adapted to the 21st. It never really seemed a shocking experience to him. If I had directed the movie, I would have accentuated it more... But hey, if you can see past that and you are a romantic soul, I'm sure that you'll love this modern fairy tale. You know it's impossible, but you would like to believe it. I give it a 7/10 for that.",
+         "For those whose comments show a serious lack of humour, get a life! Why find picky details to criticise when this movie is here to enjoy! Those not hung up with identifying finer points of historical inaccuracy, go ahead and enjoy the movie. It is a comedy, not a PhD thesis. A good 2 hours of fun (but I must admit Meg Ryan's hair is a bit scruffy)",
+         "This movie wouldn't really be anything to write home about. You could call it science fiction because it's about time travel, but any serious science fiction buff would know better. But, there's something absolutely extraordinary about this movie that has me watching it again and again. I wasn't a big Hugh Jackman fan when I watched this movie. I suppose I'm still not. I'm too old for that kind of thing, but the character Leopold has a stillness, a quality of listening and putting other people (man or woman) first. He demonstrates an etiquette that is not at all stiff, that is less about precise forms and rules than about a genuine care for other people. I go back and watch Kate and Leopold when I wish I knew somebody who cared that much for me.",
+         "\"Kate & Leopold\" is not a top quality film, but has some seriously funny and entertaining moments. Most of those were delivered from Breckin Meyer, who plays Kate's brother. For example, the part when he keeps talking in the background and nobody is listening to him. I also enjoyed when he said \"we have a saying in our household 'shake and bake the chicken'\" or something of that sort. The best part of this movie by far is Hugh Jackman. Not only is he devastatingly dashing and handsome, but his performance shows off his acting chops quite well. However, he and Meg Ryan had little on screen chemistry. If you like silly romantic comedies, or if you just like Hugh Jackman, I would advise you to check out this film. You also shouldn't expect much plot wise. The script lacks continuity and has a few plot holes and many inconceivable ideas (well, so do most films, but others do a better job of making you believe it). **1/2",
+         "Kate and Leopold was not a perfect movie, but I enjoyed the fantasy. With all the stress and bad news in the real world today, I like to take an escapist trip with a movie now and then. Hugh Jackman is very engaging as Prince Charming, I mean Leopold. Meg Ryan is okay but I agree with the other posters who say that her hair and lips are distracting. I disagree that she is too old, given that she was about 38 when she made the film. I'd like to see the sequel, \"Kate and Leopold: Rude Awakening\" where Kate realizes that she will never again vote, own property, have a career, be taken seriously by any other man besides her husband, wear a comfortable bra, use a tampon, and her chances of dying during childbirth will increase dramatically. Leopold should have stayed in the present and had a successful career as a TV commercial actor. I think they could have overcome the problems with the elevators.",
+         "Dear folks who hated this movie, If you didn't like Bewitched, or Dark Shadows, or oldie's but goodies, like Here Comes Mr. Jordon, or I Married a Witch, you aren't going to like Kate and Leopold. It's a fantasy which makes it your broccoli and spinach salad with cod liver oil dressing. So, please move on and let the rest of us enjoy it. This is not to say the movie is without flaws. It's got them. K&L has been out for a couple of years now and people still complain about Leopold's suit and plot holes and the supposed incest. Interestingly, when I first read a very early blurb about the movie it said that Leopold was from 200 years in the past, which would have put him in about the Regency era. The 200 years would have also pushed the 'incest' concern back another three or four generations. It would also have explained his Regency style getup. The folks who were doing the counting on this incest thing would have to have at least admitted that at 6 or 7 generations removed, Kate and Start would have only shared something like 1/138th blood. That's a bit less than the 1/4 it would be for second cousins marrying, etc. If you keep it at 100 or so years separation, it would still be around 1/16th shared blood. But even that kind of thinking means we're getting away from 'it's a fantasy, folks!' I have a few personal gripes about the movie. When it was out at the theater I saw it twice. Not a usual occurrence for me, even with Hugh Jackman's hunky persona. Frankly, during the first viewing, I could not get past Meg Ryan's hair. I was literally stunned by it. She's such a pretty woman, it amazes me that she thinks (or thought) that the Cookie the Clown haircut was cute. Not! Ms. Ryan, what were you thinking? Was this a mid-life crisis reaction? I've gotten used to Ms. Ryan's hair now and just don't see it anymore. But her performance, seemed to be Meg Ryan phoning is as Meg Ryan. Hugh Jackman was utterly charming as Leopold and so was the young actor who played Kate's brother. Some of their scenes together are the best in the movie. I though the use of profanity was overdone. My reaction is not out of prudishness (I can use the f-word and a heap of others when my car has a flat or won't start or I'm stuck in traffic, etc.) But it seems to me to lessen the authenticity of a character's intelligence. (Think about that the next time you overhear someone swearing continually in line at the grocery store.) It surprised me that Leopold didn't object to Kate's constant swearing (she was, after all, a lady) or that he didn't make a comment on it in general. I didn't feel he was reacting within the social attitudes of his own time. Even if it is a fantasy, he's not going to acclimate to our times all *that* quickly. I read a lot of sci-fi and fantasy, so had no problem with the supposed 'incest' line. It's fantasy. And it's a paradox to begin with. During the time frame Stuart and Kate are in, Kate is NOT his several times removed great-grandmother. Think about *that* end of it. So, shared blood aside, I can't say I'm sure who it was who was getting their knickers in a twist over that. That all said, it is a charming movie that could have been a blockbuster hit the likes of Sleepless but is not. I'm not sure where the fault lies in that. The Cookie the Clown haircut? Direction? The last minute/panic edit? Certainly in some of the writing. At this date none of that is going to change, so simply enjoy the movie for itself. There are far worse ways to spend two hours. (6/10)",
+         "I must admit the characters in Kate & Leopold were superb.! Meg Ryan was great and Hugh Jackman .... incredible. This is the kind of movie you'd skip a night out in town on a saturday night to watch. This is definitely for the women out there who still believe in true romance. I'm one of them ! I really don't mind watching Hugh Jackman in more comedy romances. Leopold will sweep you off your feet and steal your heart away.!"
+      ],
+      "genres": [
+         "Comedy",
+         "Fantasy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Konrad Pictures",
+         "Miramax"
+      ],
+      "summaries": [
+         "Kate and her actor brother live in N.Y. in the 21st Century. Her ex-boyfriend, Stuart, lives above her apartment. Stuart finds a space near the Brooklyn Bridge where there is a gap in time. He goes back to the 19th Century and takes pictures of the place. Leopold -- a man living in the 1870s -- is puzzled by Stuart's tiny camera, follows him back through the gap, and they both ended up in the present day. Leopold is clueless about his new surroundings. He gets help and insight from Charlie who thinks that Leopold is an actor who is always in character. Leopold is a highly intelligent man and tries his best to learn and even improve the modern conveniences that he encounters.",
+         "Leopold is an English and broken baron living in New York in the end of the Nineteenth Century. He needs to get married with a rich fiancée to recover his family position from ruin. Kate is a successful businesswoman living also in New York, but in 2001. Due to a time incident, they meet each other in the present days and they fall in love to each other."
+      ],
+      "budget": 48000000
+   },
+   "movielensId": 4992,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français"
+      ],
+      "releaseDate": "2001-12-25",
+      "dvdReleaseDate": "2002-06-11",
+      "directors": ["James Mangold"],
+      "runtime": 118,
+      "movieId": 4992,
+      "title": "Kate & Leopold",
+      "mpaa": "PG-13",
+      "actors": [
+         "Meg Ryan",
+         "Hugh Jackman",
+         "Liev Schreiber",
+         "Breckin Meyer",
+         "Natasha Lyonne",
+         "Bradley Whitford",
+         "Paxton Whitehead",
+         "Spalding Gray",
+         "Josh Stamberg",
+         "Matthew Sussman",
+         "Charlotte Ayanna",
+         "Philip Bosco",
+         "Andrew Jack",
+         "Stan Tracy",
+         "Kristen Schaal",
+         "Viola Davis"
+      ],
+      "imdbMovieId": "0035423",
+      "originalTitle": "Kate & Leopold",
+      "genres": [
+         "Comedy",
+         "Fantasy",
+         "Romance",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["lFJywpD2PU4"],
+      "plotSummary": "When her scientist ex-boyfriend discovers a portal to travel through time -- and brings back a 19th-century nobleman named Leopold to prove it -- a skeptical Kate reluctantly takes responsibility for showing Leopold the 21st century. The more time Kate spends with Leopold, the harder she falls for him. But if he doesn't return to his own time, his absence will forever alter history.",
+      "tmdbMovieId": 11232,
+      "avgRating": 3.1539,
+      "releaseYear": "2001",
+      "numRatings": 4074,
+      "posterPath": "/cpydhxnOQra4knQpcvGugwCqgpI.jpg"
+   }
+}

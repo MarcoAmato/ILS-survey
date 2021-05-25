@@ -1,0 +1,507 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "love of one's life",
+            "id": 2038
+         },
+         {
+            "name": "magic",
+            "id": 2343
+         },
+         {
+            "name": "magic show",
+            "id": 2594
+         },
+         {
+            "name": "prince",
+            "id": 3071
+         },
+         {
+            "name": "sorcerer's apprentice",
+            "id": 3873
+         },
+         {
+            "name": "enchantment",
+            "id": 4158
+         },
+         {
+            "name": "unicorn",
+            "id": 163227
+         }
+      ],
+      "imdb_id": "tt0084237",
+      "video": false,
+      "title": "The Last Unicorn",
+      "recommendations": [
+         13225,
+         8983,
+         11704,
+         14517,
+         16220,
+         11827,
+         27273,
+         114242,
+         2199,
+         24662,
+         126914,
+         36934,
+         29901,
+         110395,
+         64170,
+         50916,
+         215405,
+         47841,
+         19975,
+         10380
+      ],
+      "backdrop_path": "/vvM6rA4Be344964qmyX45DI1Dck.jpg",
+      "revenue": 6455530,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 9,
+               "character": "Schmendrick (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007af9",
+               "name": "Alan Arkin",
+               "profile_path": "/gcrKO2z0YVUXBXVeB9V8PndG0IJ.jpg",
+               "id": 1903,
+               "order": 0
+            },
+            {
+               "cast_id": 10,
+               "character": "Prince Lir (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007afd",
+               "name": "Jeff Bridges",
+               "profile_path": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg",
+               "id": 1229,
+               "order": 1
+            },
+            {
+               "cast_id": 11,
+               "character": "Unicorn / Amalthea (voice)",
+               "gender": 0,
+               "credit_id": "52fe43369251416c75007b01",
+               "name": "Mia Farrow",
+               "profile_path": "/kuLfS2jQOnfIOwCO7RHlwjDIERQ.jpg",
+               "id": 12021,
+               "order": 2
+            },
+            {
+               "cast_id": 12,
+               "character": "Molly Grue (voice)",
+               "gender": 0,
+               "credit_id": "52fe43369251416c75007b05",
+               "name": "Tammy Grimes",
+               "profile_path": "/bUWIHI7EqFXcnks9vtUwjqnbNuV.jpg",
+               "id": 63998,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Mommy Fortuna (voice)",
+               "gender": 1,
+               "credit_id": "52fe43369251416c75007b09",
+               "name": "Angela Lansbury",
+               "profile_path": "/nMy8sPPLf8fjSglFLP3IzIGbjly.jpg",
+               "id": 14730,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "King Haggard (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007b0d",
+               "name": "Christopher Lee",
+               "profile_path": "/aVzp6zflzedmdKPLxaPqcZ05PDK.jpg",
+               "id": 113,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "The Tree (voice)",
+               "gender": 1,
+               "credit_id": "52fe43369251416c75007b11",
+               "name": "Nellie Bellflower",
+               "profile_path": null,
+               "id": 12998,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "The Cat (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007b15",
+               "name": "Don Messick",
+               "profile_path": "/2JfSTw3cqnsbpcW4ShaNTa4cWH9.jpg",
+               "id": 16422,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Captain Cully / Harpy (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007b19",
+               "name": "Keenan Wynn",
+               "profile_path": "/vKRcpt50Eh9AQ6yi9umy1YFZWyf.jpg",
+               "id": 4966,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "The Butterfly (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007b1d",
+               "name": "Robert Klein",
+               "profile_path": "/aONhw3dZwlvXF1tjtZUshripyf8.jpg",
+               "id": 26715,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Mabruk (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007b21",
+               "name": "Paul Frees",
+               "profile_path": "/ey4xNbw7AfFW7brHnb3C9ADL34Q.jpg",
+               "id": 16417,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "The Skull (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007b25",
+               "name": "Rene Auberjonois",
+               "profile_path": "/eAF43tqzBqq7Lgi7jG27BBUZ6Bp.jpg",
+               "id": 9807,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Ruhk (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007b29",
+               "name": "Brother Theodore",
+               "profile_path": "/2OLcOFM5vzJuINo8zDKWiFCRkgH.jpg",
+               "id": 16413,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Hunter #1 / Old Farmer / Cully's Men (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007b2d",
+               "name": "Jack Lester",
+               "profile_path": null,
+               "id": 103813,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Jack Jingley / Cully's Men (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007b31",
+               "name": "Ed Peck",
+               "profile_path": null,
+               "id": 84325,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Hunter #2 / Cully's men (voice)",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007b35",
+               "name": "Kenneth Jennings",
+               "profile_path": null,
+               "id": 1077310,
+               "order": 15
+            },
+            {
+               "cast_id": 25,
+               "character": "The Balladeer (voice)",
+               "gender": 0,
+               "credit_id": "52fe43369251416c75007b39",
+               "name": "Gerry Beckley",
+               "profile_path": null,
+               "id": 1077311,
+               "order": 16
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007acb",
+               "name": "Jules Bass",
+               "profile_path": "/6QU9zlGh3BA4DN4h4bNv5ZfLo6e.jpg",
+               "id": 16410,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007ad1",
+               "name": "Arthur Rankin, Jr.",
+               "profile_path": "/ea8EC04C9VhDd0iMpIyCmZHnMak.jpg",
+               "id": 16411,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007ad7",
+               "name": "Peter S. Beagle",
+               "profile_path": "/q3OQYKr5bk8Pmh2ThmneSoktUbi.jpg",
+               "id": 16386,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007add",
+               "name": "Peter S. Beagle",
+               "profile_path": "/q3OQYKr5bk8Pmh2ThmneSoktUbi.jpg",
+               "id": 16386,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007ae3",
+               "name": "Arthur Rankin, Jr.",
+               "profile_path": "/ea8EC04C9VhDd0iMpIyCmZHnMak.jpg",
+               "id": 16411,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007ae9",
+               "name": "Jules Bass",
+               "profile_path": "/6QU9zlGh3BA4DN4h4bNv5ZfLo6e.jpg",
+               "id": 16410,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43369251416c75007aef",
+               "name": "Jimmy Webb",
+               "profile_path": "/hWNr6XzL5TiAkr93eVFSbILhVYr.jpg",
+               "id": 15178,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43369251416c75007af5",
+               "name": "Tomoko Kida",
+               "profile_path": null,
+               "id": 633,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 11.24544,
+      "production_countries": [
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 10150,
+      "vote_count": 150,
+      "budget": 0,
+      "overview": "From a riddle-speaking butterfly, a unicorn learns that she is supposedly the last of her kind, all the others having been herded away by the Red Bull. The unicorn sets out to discover the truth behind the butterfly's words. She is eventually joined on her quest by Schmendrick, a second-rate magician, and Molly Grue, a now middle-aged woman who dreamed all her life of seeing a unicorn. Their journey leads them far from home, all the way to the castle of King Haggard.",
+      "similar": [
+         808,
+         809,
+         2312,
+         10882,
+         37430,
+         672,
+         674,
+         675,
+         767,
+         224141,
+         68728,
+         11224,
+         408,
+         129,
+         38757,
+         68735,
+         76492,
+         10144,
+         12445,
+         10020
+      ],
+      "original_title": "The Last Unicorn",
+      "runtime": 92,
+      "poster_path": "/m8HUHltLUdPBzsMKY3U7evgkQVX.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/65PkdDSyh6fwXgwg47x73pvgWiW.png",
+            "name": "Rankin/Bass Productions",
+            "id": 688,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Incorporated Television Company",
+            "id": 1155,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Topcraft",
+            "id": 29,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1982-11-19",
+      "vote_average": 7,
+      "belongs_to_collection": null,
+      "tagline": "There's Magic in Believing!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Jules Bass",
+         "Arthur Rankin Jr."
+      ],
+      "runtime": 92,
+      "synopsis": "Two hunters ( Jack Lester, Kenneth Jennings) ride through the forest searching for game when they come to a quiet part of the forest. One hunter announces that the forest is magical; hence why there is no snow that falls and it always seems like spring, and that there must be a unicorn living there. The other hunter is skeptical and claims that there are no more unicorns left in the world. The other argues that there must be just one left and, while she exists, there will be no game to hunt in this forest. They turn around, watched by a unicorn ( Mia Farrow) who wonders if she is indeed the last. She is approached by a butterfly ( Robert Klein) who sings to her and quotes poetry; a typical trait of most butterflies. She asks him if, in all his travels, he's ever seen another unicorn. He taunts her, at first, with riddles and nonsensical lyrics before announcing that all the other unicorns were taken away by a Red Bull that covered their tracks long ago. He then flies away, singing. The unicorn, though hesitant, resolves to leave the safety of her forest and search for the others. She travels over hundreds of miles before coming to a series of farmlands. One elderly farmer ( Jack Lester) tries to tame her, mistaking her for a white mare; a mistake which infuriates the unicorn. She cannot believe that all the man sees her as is but a horse and she runs off. However, she comes to realize that if man has forgotten what a unicorn looks like, there may very well be unicorns left in the world hiding in plain sight. One night, while she's sleeping, a side-show caravan led by the witch Mommy Fortuna ( Angela Lansbury) comes along. Fortuna places a spell on the unicorn to keep her sleeping before putting her in a cage. The next evening, Fortuna's lackey, Ruhk ( Brother Theodore), entertains a group of spectators, introducing them one by one to Fortuna's freaks of nature. He finally shows them the unicorn who has a fake horn placed on her head so that they may actually see it. She is approached by Fortuna's magician, Schmendrick ( Alan Arkin), who can see her for what she is and asks her to point out the other captives of the side-show. The unicorn reveals most of them to be normal animals with illusions placed on them, all but the harpy, Celaeno ( Keenan Wynn), who is real and as immortal as the unicorn. That night, Schmendrick uses his somewhat faulty magic to free the unicorn who then, in turn, frees all the other captives. However, when she frees the harpy, it turns and attacks her. Mommy Fortuna comes outside with Ruhk to investigate the ruckus and they are both killed by the vengeful harpy while the unicorn and Schmendrick escape. Though Fortuna predicted her death by the claws of the harpy, she dies deliriously happy that the harpy will always know that Fortuna was the one to cage her. Schmendrick accompanies the unicorn on her quest to find the other unicorns and tells her that he knows of a Red Bull that is owned by a king named Haggard ( Christopher Lee), though his very existence is shrouded in mystery. Before very long, a group of bandits ride down the road and, while the unicorn hides, Schmendrick is taken captive. He's brought back to their camp where he's welcomed by their leader, Captain Cully ( Keenan Wynn) and the scullery maid, Molly Grue ( Tammy Grimes). Schmendrick surprises them all, and himself, with a bout of successful magic in which he procures images of the legendary Robin Hood and his merry men. Irritated and frightened by Schmendrick's abilities, Captain Cully ties him to a nearby tree. Schmendrick tries to free himself with magic but accidentally brings the tree to life. The tree ( Nellie Bellflower) falls in love with him and nearly smothers him until the unicorn arrives and uses her magic to free Schmendrick. They are then joined by Molly Grue who can also see the unicorn for what she is and weeps at the sight of her, cursing her for coming to her as an older woman rather than a young maid. Molly joins the group as they continue on their journey, much to Schmendrick's disapproval. When they finally have Haggard's castle in sight, the group is suddenly attacked by the Red Bull which ignores Schmendrick and Molly and attempts to herd the unicorn towards the castle. Urged by Molly to do something, Schmendrick uses a great deal of magic to transform the unicorn into a human girl. Confused by the unicorn's different form, the Red Bull leaves. Molly criticizes Schmendrick for turning the unicorn into a mortal and the unicorn is equally upset, crying out that she can 'feel this body dying all around me.' Nevertheless, they continue to the dreary castle and are welcomed into Haggard's decrepit hall, introducing themselves as Haggard's new magician and cook accompanied by the Lady Amalthea. Intrigued by Schmendrick's potential to please him, Haggard dismisses his current magician, Mabruk ( Paul Frees), who laughs at Haggard's ill judgement, claiming that he's let his doom walk right through the front door. Lady Amalthea catches the eye of both Haggard and his adopted son, Lir, ( Jeff Bridges), though she ignores the advances of both and spends her days wandering the castle, slowly losing memory of who she was or what she was looking for. Realizing that they are losing time and Amalthea is becoming more and more human, Schmendrick and Molly do their best to discover where the lair of the Red Bull is while performing daily tasks to keep Haggard entertained. Finally, Molly receives word from the resident cat ( Don Messick) that the lair is located at the base of an old clock, but will only grant entry at the right 'time'. Molly scorns the cat for speaking only in riddles, but the cat merely admits that no cat ever gave a straight answer. Meanwhile, Amalthea and Lir fall in love while Haggard suspects her of her true nature. He tells her that he once saw a unicorn and that it gave him such joy that he sought to keep it for himself. So he commissioned the Red Bull to gather up all the unicorns of the world and drive them into the sea below his castle so that he may look upon them every day. Molly tells Schmendrick that she knows where the entrance to the Bull's lair is and they gather Amalthea and head to the old clock in the main hall. Across from the clock, upon a bureau, lies a crowned skeleton who speaks to them but can only giggle and laugh at their frustration. Per instructions from the cat, Molly produces a bottle of water; the best she can do in lieu of the wine she was supposed to get. When Schmendrick feigns turning the water into wine, the skeleton's interest peaks and he agrees to tell them the secret of entering the lair if they give him the 'wine', now an empty bottle. The skeleton tells them that all they have to do is walk through the clock before gulping down the invisible liquid. However, when he catches sight of Amalthea, he recognizes her as a unicorn and cries out to Haggar. Haggar runs down to the hall and swings his sword at Schmendrick just as Molly and Amalthea enter the realm between the clock and the lair. Schmendrick soon follows just as Haggar destroys the clock portal, trapping them inside. Lir appears, stating that he saw where Amalthea went and he followed. All together, they walk down the lair in search of the exit. Schmendrick explains their plight to Lir who reveals that he doesn't care who or what Amalthea is; he loves whom he loves. Amalthea is inspired by his words and claims that she wants to remain human and die with him, but Lir objects. He tells her that, as a hero, he knows when things should happen, and what should happen is that Amalthea continue her quest and save the unicorns, even if it means that she must become one again and therefore be unable to return Lir's love. The Red Bull suddenly appears and recognizes Amalthea for what she really is. Schmendrick manages to transform her back into a unicorn and she leads the Bull out of its lair onto the beach. With Schmendrick unable to do anything, Lir steps forward but is trampled by the Bull. Enraged, the unicorn turns to face the Bull and intimidates it into the sea where a large wave appears, unicorns emerging from the foam. They envelope the Bull in sea water before storming the beach. They all run upwards towards the castle, releasing it from its rocky base. Before he tumbles to his death in the sea, Haggar shouts out to the unicorn, \"I knew you were the last!\" The unicorn returns to Molly and Schmendrick and revives Lir before saying her farewells and departing. The remaining trio returns to the countryside where Lir says his goodbyes before leaving to find his own way. Schmendrick asks Molly to go with him and she agrees. Later the next evening, as they sleep at their camp, the unicorn returns to Schmendrick and expresses her thanks, even if she is the first unicorn ever to feel the sting of mortality and the pain of regret. Schmendrick apologizes but the unicorn tells him that she also learned love, and there are unicorns in the world again thanks to him. For that, she is grateful even if she must feel regret for leaving. She returns home to her forest as Molly and Schmendrick look on after her; at the last unicorn.",
+      "writers": [
+         "Peter S. Beagle",
+         "Peter S. Beagle"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0084237/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYxOTY1NDM5MV5BMl5BanBnXkFtZTcwMTU4Mzc0NA@@._V1_SY317_CR19,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jeff Bridges, Mia Farrow, Angela Lansbury | See full cast and crew »"],
+      "reviews": [
+         "The first time I saw this movie was when I was very young. So young, in fact, that the only things I can remember about this movie are subtle images; I couldn't even remember if I liked it or not. Now, more than twelve years later and after reading the book, I can honestly say that this is a truly great film. I have seen very few films that have actually brought me close to tears, and most of those movies are ones I didn't like. The Last Unicorn is an especially good film not just because it stays true to the book, which animated films are rarely good at, but also because it breaks away from the Disney formula for telling the story. All the characters in this film are sympathetic in one way or another, including the villains King Haggard and Mommy Fortuna. Many people would ask why a villain would need to be sympathetic? The simple answer is they don't. The villains are sympathetic though because they are human. The unicorn herself doesn't truly become sympathetic until she is transformed. I say this film is in the spirit of the great filmmaker and master animator Hayao Miyazaki, a Japanese director, because even though this film is a fantasy, it is not a fairy tale. Miyazaki has become famous for making animated films that are enjoyable for children, but are also sophisticated and deep enough for adults. What makes this movie great is its story. One of the things that makes this movie so special for me is because it has become one of my favorite love stories. More specifically, it is a story about hopeless love. There are only four love stories, this one included, that I regard as my favorites. One them being Princess Mononoke, one of the many great films by Miyazaki. It is also a unique love story because it is about true eternal love. How is it eternal? I will not say because I don't want to spoil the movie. My only real complaint about this movie is that the animation isn't very fluid, but I am willing to let that slide because the film was obviously low budget. I only hope that the live-action version will be as good and hopefully even better than the animated version, because even though this movie was well paced there were certain things from the book I hope they mention in the new version that they didn't have time to put into the animated version. I also hope the live-action version is as truthful to the book as this movie was, and leans more to the adult side of the story so more emotion and character development can come out of it. You're never to old to believe in the impossible.",
+         "I only saw this movie recently and I wondered why I had never seen it before. I haven't read the book, and I only vaguely remembered some of my friends mentioning this movie. I'm not usually a big fan of classic medieval fantasy, even though I love fantasy in general, but I enjoyed this movie so much. Even though it's a family movie, it doesn't get too cutesy and doesn't sweeten the story and the universe that the characters evolve in. And the characters do evolve, which is another of the good points in it. Even though it's a fairy tale, it's easy to apply some themes of the movie to our world. By example, we can suppose that this is a movie about staying true to yourself. This is no Disney movie. The ending can be seen in a positive as well as in a negative light. You can have many opinions about it, which is one thing I liked so much. The art and character design is beautiful. You can tell it was made in the 70's or early 80's and it just adds more appeal to it. The style is a mix between anime and occidental cartoon style, but it works very well, specially since this type of collaboration cartoon was so frequent at that time. The atmosphere of the movie is helped by the gentle colors and the music. Yes, the music.. The music wasn't so great, I have to admit, but it really worked well for one reason. They didn't take instrumental music, they didn't try to compose fantasy-themed music for it. They used modern music, and even though it wasn't the best, it added a different and pleasant feeling to it.. In my opinion this is a beautiful movie that deserves a really high mark..",
+         "The Last Unicorn, a unforgettable 1982 Animation Fantasy classic that enchanted fans of Fantasy and animation since it first came out. It is about a lonely Unicorn who thinks she is the last of her kind and sets out on a quest to find them throughout the dangerous yet magical world that she has never seen before, along the way she meets a cast of colorful characters including my favorite \" Schmendrick The Magician\", who is a goofy-but-lovable magician that magically transforms Unicorn into a Beautiful Human maiden to fool the bad guys. This is indeed a beautiful, fabulous and touching animated movie that is one of my faves. It's both appealing to children and their parents, highly recommended.",
+         "Whether it's a combination of the soundtrack by America, or the super-dramatic vocal talents of the actors, this is one movie that sticks with you for... oh, about 20 years. I can recall lines (and sometimes cry) even when I haven't seen the movie in ages. I was lucky enough to get the (slightly poor) DVD release this week and watched it three times in a night. Any line that Molly Grue says makes the hairs on my neck stand up. Not being a big anime or fantasy film buff, I still list this as a top child-hood movie to watch over and over (and over again much to the chagrin of my husband). Mia Farrow sounds like an angel. Alan Arkin is just lovable. Jeff Bridges \"sounds\" handsome (which is about all his character has to be). I'm almost afraid to see the new live version coming out in 2006. I don't want to lose the fantasy of this film.",
+         "I remember watching this movie as a child and wearing out the old VHS tape. The music provided by the 70s music group, America, provides a wonderful folk mood to the piece. I recently discovered this movie on DVD and immediately bought the movie. I watched the movie and read the book. I love how the animators were able to bring forward the essence of Peter Beagle's masterpiece of fantasy fiction. The Last Unicorn is story about friendship and love. The Unicorn discovers that she is the last unicorn in the world. Searching for a sense of identity, she starts a quest to find the other unicorns. That quest introduces her to Schmendrick and Molly Grue. The Unicorn, Schmendrick and Molly are each searching to fill a void, and as an audience member, I vicariously find a way to fill my void through their experiences.",
+         "This is one of my all time favorite movies. I grew up watching this movie and cherished it. The characters are timeless and the quotes from this movie are so moving. The things that the characters say are so real and true to life. They often reflect some of what's in my own soul and I love that. I read earlier that one of the other reviewers compared this to a Hayao Miyazaki and I would totally have to agree. It has the same elements of the films, the whole reality without the happy ending thing, but it's not sad either. As Schmendrick says, \"There are no happy endings because nothing ends.\" I admire Peter S. Beagle for not only writing a fabulous book by the same title, but for writing this fabulous screenplay as well. I must admit, I'm a bit hesitant to see the upcoming movie for fear it will ruin the old one. I wonder what they will do about songs. America's songs are timeless. They take you to another place and you are part of the magical world that is created for you through animation. While my family is sick of me watching it all the time still and my roommates are definitely tired of me watching it, I will continue to do so since this is a movie that can be watched over and over without anyone getting tired of it. Fabulous. Definitely give it two thumbs way up! Huzzah!",
+         "The Last Unicorn stands out as that rarest of beasts: a film far better than the book. This can be attributed to the fact that the book's author, Peter S. Beagle, was forced by the constraints of film to pare his work down to the bare essentials. The Last Unicorn is marketed as a children's film, but it's far more than that -- a tale of redemption, of the search for identity, truth, and lost innocence. Molly Grue's meeting with the Unicorn stands as one of the most poignant moments in cinema.",
+         "or this film had some sort of supernatural power over me...I think all three are true because I saw this film once when I was 3 or 4 and fell so deeply in love with it that since we didn't have a VCR I somehow found out when it was on again, mashed scotch tape over a cassette I found, shoved it into my new huge Fisher Price tape recorder and audio recorded the entire movie. At that age I already knew this film held the secrets of the universe and if I could get that on tape I had it made. Well I lost the tape and haven't seen the film since, so someday I'll watch it again and see if I was right....wow...the soundtrack must've been awesome because I can still hum the song in my head(!)",
+         "I saw this movie in theaters when I was a kid. I didn't see it again for the longest time until I found it on video recently. I rented it and was instantly reminded of what a wonderful movie this is. I bought my own copy a week later. It's one of the few book-to-movie translations that actually stays true to the spirit of the book. Probably due to the fact that Peter S. Beagle wrote the screenplay. A must-see. Gotta love that theme song!",
+         "This is an excellent animation that I have loved since childhood. The story, voices, and music are by far more beautiful and memorable than any other animated movie I have seen. In fact, there are few animations that can top the cast of great stars that provided their voice talents for this movie. The music is astoundingly wonderful and even after it had been years since I had seen the movie I would still often find the tunes playing inside my head. As for the profanity and nudity mentioned on the other review I have to say that I can't recall either (I own the DVD and have watched it recently). I would say this movie is by far suitable for any child that can handle a one or two mildly frightening scenes. Great movie and I still love it!"
+      ],
+      "genres": [
+         "Family",
+         "Animation",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Rankin/Bass Productions",
+         "Incorporated Television Company (ITC)",
+         "Topcraft"
+      ],
+      "summaries": [
+         "From a riddle-speaking butterfly, a unicorn learns that she is supposedly the last of her kind, all the others having been herded away by the Red Bull. The unicorn sets out to discover the truth behind the butterfly's words. She is eventually joined on her quest by Schmendrick, a second-rate magician, and Molly Grue, a now middle-aged woman who dreamed all her life of seeing a unicorn. Their journey leads them far from home, all the way to the castle of King Haggard...",
+         "A brave unicorn and a magician fight an evil king who is obsessed with attempting to capture the world's unicorns."
+      ],
+      "budget": 0
+   },
+   "movielensId": 6093,
+   "movielens": {
+      "languages": [
+         "English",
+         "Deutsch"
+      ],
+      "releaseDate": "1982-11-19",
+      "dvdReleaseDate": "2004-03-16",
+      "directors": [
+         "Jules Bass",
+         "Arthur Rankin",
+         " Jr."
+      ],
+      "runtime": 92,
+      "movieId": 6093,
+      "title": "The Last Unicorn",
+      "mpaa": "G",
+      "actors": [
+         "Alan Arkin",
+         "Jeff Bridges",
+         "Mia Farrow",
+         "Tammy Grimes",
+         "Angela Lansbury",
+         "Christopher Lee",
+         "Nellie Bellflower",
+         "Don Messick",
+         "Keenan Wynn",
+         "Robert Klein",
+         "Paul Frees",
+         "Rene Auberjonois",
+         "Brother Theodore",
+         "Jack Lester",
+         "Ed Peck",
+         "Kenneth Jennings",
+         "Gerry Beckley"
+      ],
+      "imdbMovieId": "0084237",
+      "originalTitle": "The Last Unicorn",
+      "genres": [
+         "Fantasy",
+         "Animation",
+         "Family"
+      ],
+      "youtubeTrailerIds": ["t-UpwWauZ50"],
+      "plotSummary": "From a riddle-speaking butterfly, a unicorn learns that she is supposedly the last of her kind, all the others having been herded away by the Red Bull. The unicorn sets out to discover the truth behind the butterfly's words. She is eventually joined on her quest by Schmendrick, a second-rate magician, and Molly Grue, a now middle-aged woman who dreamed all her life of seeing a unicorn. Their journey leads them far from home, all the way to the castle of King Haggard.",
+      "tmdbMovieId": 10150,
+      "avgRating": 3.63924,
+      "releaseYear": "1982",
+      "numRatings": 1282,
+      "posterPath": "/m8HUHltLUdPBzsMKY3U7evgkQVX.jpg"
+   }
+}

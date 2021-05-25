@@ -1,0 +1,949 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "clone",
+            "id": 402
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "robot",
+            "id": 14544
+         }
+      ],
+      "imdb_id": "tt0986263",
+      "video": false,
+      "title": "Surrogates",
+      "recommendations": [
+         18501,
+         31867,
+         10200,
+         8202,
+         19898,
+         2207,
+         9381,
+         9620,
+         8452,
+         19901,
+         7299,
+         2026,
+         1738,
+         18487,
+         7551,
+         1635,
+         9739,
+         13027,
+         4141,
+         34851
+      ],
+      "backdrop_path": "/lQ872mmHvHXip5sC1t0cvCSP8IO.jpg",
+      "revenue": 122444772,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Tom Greer",
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac1f5",
+               "name": "Bruce Willis",
+               "profile_path": "/kI1OluWhLJk3pnR19VjOfABpnTY.jpg",
+               "id": 62,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Jennifer Peters",
+               "gender": 1,
+               "credit_id": "52fe47fc9251416c750ac1f9",
+               "name": "Radha Mitchell",
+               "profile_path": "/kKbnljNC07nqiucGeouxhKESXUC.jpg",
+               "id": 8329,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Maggie Greer",
+               "gender": 1,
+               "credit_id": "52fe47fc9251416c750ac20f",
+               "name": "Rosamund Pike",
+               "profile_path": "/wevcai4tcGA5niawACntEzgZsKN.jpg",
+               "id": 10882,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Dr. Lionel Canter",
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac213",
+               "name": "James Cromwell",
+               "profile_path": "/f9HU6zS2K2DCRt2WoJBK61ElqPJ.jpg",
+               "id": 2505,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Prophet",
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac217",
+               "name": "Ving Rhames",
+               "profile_path": "/8nS83GOu0iqxjL2Oj2DgwkAceFQ.jpg",
+               "id": 10182,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "JJ the Blonde",
+               "gender": 1,
+               "credit_id": "52fe47fc9251416c750ac21b",
+               "name": "Helena Mattsson",
+               "profile_path": "/r92GuI3Q8VFhafNAKqJMjOn8EK5.jpg",
+               "id": 113676,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Andrew Stone",
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac21f",
+               "name": "Boris Kodjoe",
+               "profile_path": "/wJ9DwJ5KufQ6adRjvbRjAvhLZpV.jpg",
+               "id": 80758,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Andre",
+               "gender": 0,
+               "credit_id": "52fe47fc9251416c750ac223",
+               "name": "Ian Novick",
+               "profile_path": "/aHDg0cm7c0A1b0FE9K1h7P5BgRD.jpg",
+               "id": 587701,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Bobby Saunders",
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac227",
+               "name": "Devin Ratray",
+               "profile_path": "/oPWvdGJKDZcvQagrrNfQmOb5lpy.jpg",
+               "id": 11516,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Miles Strickland",
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac22b",
+               "name": "Jack Noseworthy",
+               "profile_path": "/g30R5ax6RSN8OSdsWZnG2IhLDFT.jpg",
+               "id": 22133,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Victim",
+               "gender": 0,
+               "credit_id": "52fe47fc9251416c750ac22f",
+               "name": "Danny F. Smith",
+               "profile_path": "/zM5Ij6CVDByCKuvkdfieCIR3V27.jpg",
+               "id": 172303,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Armando",
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac233",
+               "name": "Jeffrey De Serrano",
+               "profile_path": "/sg7Nb65NnNWqpmFRUw4s5ynuXbZ.jpg",
+               "id": 1016151,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Colonel Brendon",
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac237",
+               "name": "Michael Cudlitz",
+               "profile_path": "/BMed7j9hfFNPO7yocDjtQnVgdl.jpg",
+               "id": 52415,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Surrie / Greer",
+               "gender": 0,
+               "credit_id": "52fe47fc9251416c750ac23b",
+               "name": "Trevor Donovan",
+               "profile_path": "/odMUg8AdVEuGtG6ulTNTlcJ2hHc.jpg",
+               "id": 1233560,
+               "order": 13
+            },
+            {
+               "cast_id": 41,
+               "character": "Landlady",
+               "gender": 1,
+               "credit_id": "58fcd8f5c3a3687984023b5f",
+               "name": "Jennifer Alden",
+               "profile_path": "/6J4SJiv4HbcowULJiRS3GeOYX8V.jpg",
+               "id": 180327,
+               "order": 14
+            },
+            {
+               "cast_id": 42,
+               "character": "Uniformed Cop",
+               "gender": 0,
+               "credit_id": "58fcd932c3a3687a1502075d",
+               "name": "Michael Philip",
+               "profile_path": "/82z3Pk90Ofwjk09MQlKBKMFwP17.jpg",
+               "id": 1234039,
+               "order": 15
+            },
+            {
+               "cast_id": 43,
+               "character": "Canter",
+               "gender": 0,
+               "credit_id": "58fcd973c3a3687a25022625",
+               "name": "James Francis Ginty",
+               "profile_path": "/xAyXVBrFGywgZ1iWrm5o5RMagF6.jpg",
+               "id": 55582,
+               "order": 16
+            },
+            {
+               "cast_id": 44,
+               "character": "Undergrad #1",
+               "gender": 0,
+               "credit_id": "58fcdb8e92514163e3024623",
+               "name": "Andrew Haserlat",
+               "profile_path": "/mP5dSBpkJMIsmSTwzKzYiXC3Saf.jpg",
+               "id": 1717251,
+               "order": 17
+            },
+            {
+               "cast_id": 45,
+               "character": "Undergrad #2",
+               "gender": 0,
+               "credit_id": "58fcdcc492514163e302471c",
+               "name": "Justin Goodrich",
+               "profile_path": "/a6s00wITUu18v1mDIdT2I19XRW.jpg",
+               "id": 1802035,
+               "order": 18
+            },
+            {
+               "cast_id": 46,
+               "character": "Assistant",
+               "gender": 0,
+               "credit_id": "58fcdd56c3a36879db024a5a",
+               "name": "Rachel Sterling",
+               "profile_path": "/1rp2SCEZlEG9k9JUv00tvAYI8IV.jpg",
+               "id": 169677,
+               "order": 19
+            },
+            {
+               "cast_id": 47,
+               "character": "Female Counsel",
+               "gender": 1,
+               "credit_id": "58fcdd81c3a36879db024a7b",
+               "name": "Meta Golding",
+               "profile_path": "/fvIy2cWlYs2PcuXjTLMt4QpOQnf.jpg",
+               "id": 165242,
+               "order": 20
+            },
+            {
+               "cast_id": 48,
+               "character": "Female Lawyer",
+               "gender": 1,
+               "credit_id": "58fcddb4925141640b0233b4",
+               "name": "Taylor Cole",
+               "profile_path": "/ogV3A4WUcYmN1EJ2AIOHeORKIMB.jpg",
+               "id": 54182,
+               "order": 21
+            },
+            {
+               "cast_id": 49,
+               "character": "Victor Welch",
+               "gender": 2,
+               "credit_id": "58fcddd392514164280230e3",
+               "name": "Jordan Belfi",
+               "profile_path": "/7sgOfcECWFIoy0zH2abkiCI6hwF.jpg",
+               "id": 144675,
+               "order": 22
+            },
+            {
+               "cast_id": 50,
+               "character": "Steinberg",
+               "gender": 0,
+               "credit_id": "58fcde5ec3a36879f4020174",
+               "name": "J.L. Highsmith",
+               "profile_path": "/dD0NrY3b1o409NQoOHv1r1h9Kzr.jpg",
+               "id": 1802036,
+               "order": 23
+            },
+            {
+               "cast_id": 51,
+               "character": "Female Newscaster",
+               "gender": 0,
+               "credit_id": "58fcdf5cc3a3687a15020b80",
+               "name": "Lisa Hernandez",
+               "profile_path": "/xq4fnKFQG78jjBTwFrNCyNciUqO.jpg",
+               "id": 1802037,
+               "order": 24
+            },
+            {
+               "cast_id": 52,
+               "character": "Male Newscaster",
+               "gender": 0,
+               "credit_id": "58fcdfff92514163df023d9e",
+               "name": "Kirk Hawkins",
+               "profile_path": "/vSTccEnKDEFS4i50wx43e6ECZRO.jpg",
+               "id": 1802038,
+               "order": 25
+            },
+            {
+               "cast_id": 53,
+               "character": "Pulaski / Commando",
+               "gender": 0,
+               "credit_id": "58fce0b3c3a36879be023fd0",
+               "name": "Nicholas Purcell",
+               "profile_path": "/iSbvcxIx3uI4C4WfrZt7aqPi8z1.jpg",
+               "id": 1802039,
+               "order": 26
+            },
+            {
+               "cast_id": 54,
+               "character": "Captain",
+               "gender": 0,
+               "credit_id": "58fce11292514163e30249ef",
+               "name": "Max Murphy",
+               "profile_path": "/hSVw2oVSbJLJZIdZyWjbPd3Drc6.jpg",
+               "id": 1802040,
+               "order": 27
+            },
+            {
+               "cast_id": 55,
+               "character": "Lopez",
+               "gender": 2,
+               "credit_id": "58fce14dc3a3687984024166",
+               "name": "Victor Webster",
+               "profile_path": "/c2yOkMhJnehLXcRxqTDDaX59US8.jpg",
+               "id": 1215144,
+               "order": 28
+            },
+            {
+               "cast_id": 56,
+               "character": "Bridget",
+               "gender": 1,
+               "credit_id": "58fce1649251416428023316",
+               "name": "Valerie Azlynn",
+               "profile_path": "/sFTa7qjamPCIdKfQrcWKaqBhgo6.jpg",
+               "id": 66636,
+               "order": 29
+            },
+            {
+               "cast_id": 57,
+               "character": "Cop",
+               "gender": 0,
+               "credit_id": "58fcf846925141640b0244d3",
+               "name": "David Klefeker",
+               "profile_path": "/rmdUNn8R0L8wzYk4t6OXzYFIQ60.jpg",
+               "id": 1802115,
+               "order": 30
+            },
+            {
+               "cast_id": 59,
+               "character": "Salesman",
+               "gender": 0,
+               "credit_id": "58fcf93492514163e3025b03",
+               "name": "Chad Williams",
+               "profile_path": "/r84ExkOEq0pgtpOt77FzDfV4L82.jpg",
+               "id": 1802120,
+               "order": 32
+            },
+            {
+               "cast_id": 60,
+               "character": "Hunk",
+               "gender": 0,
+               "credit_id": "58fcf99cc3a36879db025d35",
+               "name": "Mike Randy",
+               "profile_path": "/6FP9DDjUzKVq4wRA7EJDXudmLRH.jpg",
+               "id": 1802128,
+               "order": 33
+            },
+            {
+               "cast_id": 61,
+               "character": "Gate Guard",
+               "gender": 0,
+               "credit_id": "58fcfa1dc3a3687a25023c7e",
+               "name": "Michael DeMello",
+               "profile_path": "/cjduEWFDpBXcSfX9bsCbDVMMwGG.jpg",
+               "id": 1511961,
+               "order": 34
+            },
+            {
+               "cast_id": 62,
+               "character": "Pedestrian",
+               "gender": 0,
+               "credit_id": "58fcfbc2c3a36879840253f5",
+               "name": "Ron Murphy",
+               "profile_path": "/ztuZKjraVf0KeaHmWkR5liUIlbL.jpg",
+               "id": 1753529,
+               "order": 35
+            },
+            {
+               "cast_id": 63,
+               "character": "Miller",
+               "gender": 2,
+               "credit_id": "58fcfc5bc3a3687a15021e0a",
+               "name": "David Conley",
+               "profile_path": "/8a76BlFhS6Occ2SsoQGMWxjZffw.jpg",
+               "id": 187812,
+               "order": 36
+            },
+            {
+               "cast_id": 64,
+               "character": "Bud",
+               "gender": 2,
+               "credit_id": "58fcfc9fc3a3687a2a022c23",
+               "name": "Bruce-Robert Serafin",
+               "profile_path": "/vIXgI9dVdT5AuzUxNoHvjU2n2im.jpg",
+               "id": 141932,
+               "order": 37
+            },
+            {
+               "cast_id": 65,
+               "character": "Boy Canter",
+               "gender": 2,
+               "credit_id": "58fcfdbb925141642f024d8b",
+               "name": "Cody Christian",
+               "profile_path": "/jzl2zTlhIKvcIDO76YcEkZyo3gH.jpg",
+               "id": 219664,
+               "order": 38
+            },
+            {
+               "cast_id": 66,
+               "character": "Brian",
+               "gender": 2,
+               "credit_id": "58fcfdf1925141642f024dba",
+               "name": "Todd Cahoon",
+               "profile_path": "/oHyNEkutmTGDZIsm7HyZpH7XxWE.jpg",
+               "id": 1224687,
+               "order": 39
+            },
+            {
+               "cast_id": 67,
+               "character": "Lisa",
+               "gender": 1,
+               "credit_id": "58fcfe08925141640b024849",
+               "name": "Ella Thomas",
+               "profile_path": "/kMXsNErfNVCXAnNS0Gtk2CAVR0O.jpg",
+               "id": 206045,
+               "order": 40
+            },
+            {
+               "cast_id": 68,
+               "character": "Agent #1",
+               "gender": 2,
+               "credit_id": "58fcff62c3a36879be02557b",
+               "name": "Gabriel Olds",
+               "profile_path": "/rsPF64LgMNaWQ3eoDUjZoyoMI9r.jpg",
+               "id": 106435,
+               "order": 41
+            },
+            {
+               "cast_id": 69,
+               "character": "Agent #2",
+               "gender": 0,
+               "credit_id": "58fcff76925141643c025111",
+               "name": "Eamon Brooks",
+               "profile_path": "/12Sjj7mMZLEWpmJCxiEmR1lSZIC.jpg",
+               "id": 1802145,
+               "order": 42
+            },
+            {
+               "cast_id": 70,
+               "character": "Clerk",
+               "gender": 2,
+               "credit_id": "58fd001bc3a3687a2a022e59",
+               "name": "Rick Malambri",
+               "profile_path": "/19UVd9VCfNcKlhEqjH9cFVK5UwE.jpg",
+               "id": 138009,
+               "order": 43
+            },
+            {
+               "cast_id": 71,
+               "character": "Beautiful Woman",
+               "gender": 1,
+               "credit_id": "58fd0037c3a368798402573b",
+               "name": "Anya Monzikova",
+               "profile_path": "/1sdm1sLNT1MjVYYoBIgWIZcphao.jpg",
+               "id": 210292,
+               "order": 44
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac1ff",
+               "name": "Jonathan Mostow",
+               "profile_path": "/hHJjES7xDqHhFhyPvqytwJ8yGk3.jpg",
+               "id": 7213,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac205",
+               "name": "Michael Ferris",
+               "profile_path": null,
+               "id": 7215,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47fc9251416c750ac20b",
+               "name": "John D. Brancato",
+               "profile_path": null,
+               "id": 7214,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5378c7df0e0a26142800515c",
+               "name": "Max Handelman",
+               "profile_path": null,
+               "id": 1005814,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5378c7f50e0a26141f005415",
+               "name": "David Hoberman",
+               "profile_path": "/l63YjASljQOAB8ys4zR3DWUXltP.jpg",
+               "id": 31710,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5378c82c0e0a26141f00541f",
+               "name": "Todd Lieberman",
+               "profile_path": null,
+               "id": 62758,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5378c8450e0a26141f005426",
+               "name": "Janet Hirshenson",
+               "profile_path": null,
+               "id": 2874,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5378c8670e0a2614250053b7",
+               "name": "Michelle Lewitt",
+               "profile_path": null,
+               "id": 6876,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5378c87b0e0a261416005468",
+               "name": "Oliver Wood",
+               "profile_path": null,
+               "id": 11409,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5378c8900e0a261431005375",
+               "name": "Richard Marvin",
+               "profile_path": null,
+               "id": 21467,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5378c8a20e0a261428005183",
+               "name": "Kevin Stitt",
+               "profile_path": null,
+               "id": 11001,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5378c8de0e0a26143100537e",
+               "name": "Jeff Mann",
+               "profile_path": null,
+               "id": 7233,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5378c8f70e0a26141c005540",
+               "name": "Dan Webster",
+               "profile_path": null,
+               "id": 11508,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5378c90d0e0a26141f005440",
+               "name": "Debbie Cutler",
+               "profile_path": null,
+               "id": 1321011,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5378c9230e0a261431005384",
+               "name": "Fainche MacCarthy",
+               "profile_path": null,
+               "id": 73348,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5378c9440e0a26141f00544c",
+               "name": "April Ferry",
+               "profile_path": null,
+               "id": 7238,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5378c9610e0a2614190050a3",
+               "name": "Jeff Dawn",
+               "profile_path": null,
+               "id": 3995,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5378c9890e0a261416005483",
+               "name": "Virginia Johnson",
+               "profile_path": null,
+               "id": 1318814,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "542e7e04c3a3682187002002",
+               "name": "Jane Jenkins",
+               "profile_path": "/aVOlC6UkKaxZpzvpdRxCjkMtJHI.jpg",
+               "id": 3275,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5523ef5fc3a36847c8002d53",
+               "name": "Anthony Di Ninno",
+               "profile_path": null,
+               "id": 1355894,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5692aa3c9251416557000040",
+               "name": "Brian Avery",
+               "profile_path": "/w1IlD3q192i2JmCW8TLNMP5nDB3.jpg",
+               "id": 1552521,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570830489251415bc000054b",
+               "name": "Allen Hall",
+               "profile_path": null,
+               "id": 1368867,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570f0c6e92514102b3001892",
+               "name": "Kris Cole",
+               "profile_path": null,
+               "id": 1457666,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579d0ba4c3a3682830001662",
+               "name": "Kevin Kaska",
+               "profile_path": "/azlSu8Sz9QGeK3xgQS9p3ZvR9q9.jpg",
+               "id": 68016,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58fa524b92514158ae00eeb5",
+               "name": "Jim Ford",
+               "profile_path": "/l8jDa6fVlhEHAPUtG2aneQnomll.jpg",
+               "id": 1198454,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5abf9612c3a368444402bd32",
+               "name": "David E. Scott",
+               "profile_path": null,
+               "id": 1195362,
+               "department": "Art",
+               "job": "Production Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 22.346826,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 19959,
+      "vote_count": 1449,
+      "budget": 80000000,
+      "overview": "Set in a futuristic world where humans live in isolation and interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to investigate the murders of others' surrogates.",
+      "similar": [
+         2048,
+         281,
+         357096,
+         59967,
+         238636,
+         97020,
+         9507,
+         445954,
+         984,
+         9739,
+         10651,
+         2749,
+         123109,
+         18587,
+         15069,
+         26390,
+         8090,
+         15762,
+         1586,
+         1949
+      ],
+      "original_title": "Surrogates",
+      "runtime": 89,
+      "poster_path": "/pHAnrezPCpWzNYYceLivTMcQ4jM.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Wintergreen Productions",
+            "id": 11845,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "id": 9195,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/3YfRy3DBl4abcqkzGx4RVNz12yl.png",
+            "name": "Mandeville Films",
+            "id": 10227,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Top Shelf Productions",
+            "id": 41978,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2009-09-24",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "How do you save humanity when the only thing that's real is you?",
+      "adult": false,
+      "homepage": "http://chooseyoursurrogate.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jonathan Mostow"],
+      "runtime": 89,
+      "synopsis": "The movie opens with an intro explaining the back-story in detail. In 2017, humans live in near-total isolation, rarely leaving the safety and comfort of their homes, thanks to remotely-controlled robotic bodies that serve as \"surrogates,\" designed as better-looking versions of their human operators. Because people are safe all the time, and damage done to a surrogate is not felt by its owner, it is a peaceful world free from fear, pain, and crime. We next come upon a young teenage man taking to someone over the phone. After a weird nightclub scene, we then see the teenager making out with a girl he had met in there. They're about to get it on when they're interrupted by a mysterious man wearing a motorcycle helmet, who proceeds to shoot the two surrogate-controlled civilians, then cause a massive car accident while making his escape on his motorcycle. Agent Tom Greer (Bruce Willis) is an FBI agent who, through the use of his own surrogate, investigates the first murder in years. Turns out the teenager was none other than Jarod Canter, the college student son of Doctor Lionel Canter (James Cromwell), the man who invented the surrogates, and who uses multiple surrogates himself. Geer and his partner Peters (Radha Mitchell) visit the home of the female surrogate's owner, only to find that she was actually a man, and that he is dead in his own operator chair. After the bizarre and horrifying turn of events, it's revealed that Greer had a son who had died in a car accident, causing a strain in he and his wife Maggie (Rosamund Pike)'s relationship. Since then, Maggie despondently restricts most of her daily activities using her surrogate. The case grows more complicated, however, when several humans are murdered when their surrogates are destroyed, something which is not supposed to happen, as the human operator is normally safe from the damage done to his/her surrogate. Greer begins investigating the murder and is lead to the Dreads, a group of humans led by a mysterious man known only as The Prophet (Ving Rhames) who are against the use of surrogates. With the help of the system administrator, who does not use a surrogate, Greer and Peters determine the identity of the murderer is a Dread named Miles. Miles used a unique weapon to kill Jarod as well as five cops tracking him with the weapon. Greer barely escapes death by the weapon. He survives by disconnecting himself from his surrogate as the weapon is fired, and then resumes his connection to the surrogate afterwards. Although his surrogate is physically damaged, it is able to pursue Miles before his surrogate is destroyed by the Dreads. Greer is badly hurt by the weapon despite disconnecting. Maggie finds him in his apartment. Greer is then taken to the hospital and survives, although his boss suspends him, Stone, and is not allowed to use a surrogate while his actions are investigated. At the Dread Reservation, Miles is approached by The Prophet who demands information about the weapon. Miles is apparently killed by The Prophet or his lackeys. When Greer goes into the Reservation, he stumbles upon Miles' funeral and then approaches The Prophet, asking about the weapon Miles used. As Greer leaves the Reservation, it is revealed that The Prophet has the weapon. Greer meets with Dr. Canter, again using one of his surrogates, who suggests the weapon was manufactured by the military. Greer meets with a member of the military and learns that the weapon sends a computer virus into the surrogates that shuts them down, but it also disables the failsafe mechanisms and kills the operator. A mysterious surrogate goes to the home of Greer's partner Peters and kills her, then transfers control of her surrogate to an unknown party who uses it to go through the financial records of the FBI. The Peters surrogate learns that Stone is apparently behind the death of Jarod, having been assigned by the company that creates the surrogates to kill Dr. Canter, which he in turn assigned to Miles. Jarod was using one of his father's surrogates and as such was mistaken for him. At the Dread compound, The Prophet orders delivery of the weapon to Peters just before the military attacks. The Prophet and his men are killed, but The Prophet is revealed to be a surrogate of Doctor Canter. The Peters surrogate tricks Greer into getting information about the weapon from Stone's computer. The Peters surrogate then flees from Greer, taking the information and the weapon. Greer chases her, but she escapes and goes to FBI headquarters where she hooks the weapon up the surrogate network to kill all the surrogate operators. Greer calls the system administrator who reveals that Peters has taken him hostage. Greer heads to Canter's home and forces his way into Dr. Canter's home to find him. At the FBI building, the Peters surrogate forces Stone to come talk to her. Dr. Canter reveals that he is now controlling the Peters surrogate. Stone confirms he did try to have Canter assassinated, and Canter kills Stone with the weapon and returns to uploading the weapon's virus to all the surrogates. Greer makes his way through Canter's mansion and finds Canter's many surrogates, which includes the one that killed the real Peters. Greer then finds Canter (who disconnects from the Peters surrogate) who then reveals he wants to destroy the surrogates so that real humans can return to their prior lifestyle. Canter has already started the process through the Peters surrogate, and then he kills himself. Greer takes control of the Peters surrogate. With the assistance of the system administrator, Greer insulates the surrogate operators so they will survive even if the surrogates go down. He is then given the choice of whether or not to save the surrogates. FBI troops storm the room as Greer decides not to cancel the transmission before the Peters surrogate is killed. The virus from the weapon uploads and destroys every surrogate worldwide, leaving his or her operators alive, but having to go back to using their real bodies again. Greer goes home and connects with his pale and unattractive wife in her real body. In the final shots, media broadcasts reveal the surrogates are down worldwide and no one knows if they will ever be able to be recreated again.",
+      "writers": [
+         "Michael Ferris",
+         "John D. Brancato"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0986263/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEzMTU5OTY0Ml5BMl5BanBnXkFtZTcwMDA0NjA3Mg@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Bruce Willis, Radha Mitchell, Ving Rhames | See full cast and crew »"],
+      "reviews": [
+         "It's a great concept. In the future, the Sims style online gaming, where people live vicariously through characters, has evolved to living out real-life, in the real world, via surrogate robots. Everybody stays home all the time, 24/7. They work, play and travel via their surrogates, from the comfort of their home. I'm not spoiling anything here -- this all happens in the first 5 minutes. The result of this new era of existence is the dramatic drop in violent crimes, sexually transmitted diseases, death by accident, etc. Well, it's a great concept. And the CGI is good. Because of the plot, every character is insanely pretty, so the screen is filled with beautiful people. But... it just... doesn't... quite... gel. The whole thing feels like a cool episode of Star Trek, or something on TV. The story is not riveting. I didn't really care about the characters. The timing was off; things either came too late (I was bored, expecting them) or so fast I couldn't really appreciate. Surrogates lacks that wow-factor. Example of bad timing: At the start, one wonders, \"What do the users really look like? Anything like like their surrogate robots?\" I would expect that, at first, we see Bruce Willis, just some facial hair which his robot doesn't have. Then, eventually, we see that he is older than his robot, so he's \"cheating\" on age too. Even later still, maybe we'd see an obese person at home posing as an athlete via a surrogate which looks nothing like him. Well, \"Surrogates\" skips all that build up and goes straight for the punchline: within 10 minutes we see a hot chick robot making with a young man; turns out the hot chick is actually slovenly a middle-aged man. Any twists to come later, in this variety, loses all punch. Worth a rental.",
+         "Surrogates is a sci-fi movie about a future where every human being can connect their bodies into machines & they instantly live a different life through their robotic human-looking surrogates. Anybody can just stay home all day while they are connected online with their surrogates that can just easily live outside in the real world. But when a surrogate was killed along with its user, FBI agent Greer unravels a conspiracy that can lead to the death of billions of lives. The storyline of this movie falls somewhere around the categories where movies like Blade Runner, Minority Report, and I-Robot belong. A movie that talks about how future technologies can affect human life and provide some philosophical point-of-view that is worth pondering on. The idea of technology progressing into and reaching the boundaries that it becomes an abomination of nature. The movie tends to be thought provoking, but does not make it good enough to be worth an entire evening of discussion. There were some moments that seemed preachy, but could have been delivered more effectively if given a proper execution or interpretation. I am talking about the moments when our main character realizes the beauty of a world free from technological complexities. We also have the minor subplot of a corporation just concerned about safeguarding their own products. And a main character coming to the realization that these products eventually diminish the humanity of a person. It is surprising that the weaker point of this movie is the action. The terminator rip-off scenes seemed bland and there was a chase scene with a female surrogate that looked goofy because it employed a \"superhero\" type of action. To make it worse, there are some visual effects that look like they've been rendered 15 years ago. With the main character of Bruce Willis running around in his actual human form for most parts of the movie, we realize that he basically is the weaker person in this world of robotic mannequins, and yes we do see him bleed a lot in this movie (it is funny to note that Willis is one of those actors that just look cooler when he gets more scars and bruises, it's like John McClane only without the crazy action). With him being the frail character, that alone clearly reminds you that this is not your regular Bruce Willis action flick. The movie just basically starts out as a futuristic detective-type movie then progresses into the same mood as Willis was in films like \"Unbreakable\" where he stumbles around a maze that leads him to some enlightening truth. The high points of this movie lie in the storyline. Second is the way the movie creates this amazing-looking world of a future inhabited mostly by surrogates. The surrealism of the movie is not too far-out that most of what you see seem like they exist in the present world; there are no flying cars or rockets everywhere; its just the simple existence and presence of mannequin-like robots everywhere. The storyline may be good enough to be enjoyably satisfying, but it certainly is not the best, or perhaps not good enough to be groundbreaking. All in all, SURROGATES is one of those good sci-fi movies that will simply entertain those who are fans of smart sci-fi movies. Action junkies may be a little disappointed though. This is a far cry from Blade Runner, but this certainly gives you a cheaper version of that kind of enjoyment. I loved it. But it is definitely not unforgettable.",
+         "SURROGATES presents a strong sci fi storyline that isn't so convoluted that it exhausts the viewer from mental analysis of what's going on. It also is crafted well so that unlike a number of sci fi action movies, the balance between the action and the human relationship components are in sync. This hybrid sci fi movie includes elements from I, ROBOT (2004) that introduced many of the similar robotic images, THE MATRIX (1999) that introduced the notion of virtual reality plug ins, ESCAPE FROM NEW YORK (1981) that introduced a post-modern society isolated from the rest of humanity, and FAHRENHEIT 451 (1966) that presented the dystopic future angst of a couple separated by technology. Bruce Willis continues at the top of his game in this movie bringing an even more subdued and sympathetic character to the screen. The action is compelling and strong, the technological premise of this movie is well executed, and the human/surrogate disconnect is remarkably engaging on an emotional level. Unfortunately, in somewhat of a less than powerful and poignant delivery, unlike FAHRENHEIT 451, SURROGATES ultimately has as its core the more traditional and perhaps predictable resolution and tidying up of lose ends favoring a more conservative and pedestrian movie overall.",
+         "With the action heroes of my generation all too old or M.I.A. (Ford, Hackman, Eastwood), I have consistently made the comment, \"Thank God for Bruce Willis\". Good ole Bruce, aging towards his mid-fifties, consistently brings action films to our local theatres year after year after year. As an actor, he has 70+ projects contained within his historical biography and the guy keeps making bad films mediocre and mediocre films watchable. Surprisingly, he has but one credit to his name in 2009, Surrogates, a film that looks ripped from just about every other science fiction fantasy you have ever seen or read. Extracted by a graphic novel by Robert Venditti and Brett Weldele, Surrogates transports us to a future where people live through robotic surrogates from the privacy and safety of their own sanctuary and can manipulate their avatars into either copies of themselves or they can transform themselves into just about anything they want (I say just about anything because the world was not full of Megan Fox's). The opening credits give us a 14 year history of how we got to whatever future we are in at Present Day. But when a murder � the first in an eon � occurs, FBI agent Greer (Willis) is assigned the case and his subsequent investigation outside of his own surrogate is filled with enough revelations to bring down the entire Utopian world. I can't even begin to ramble of the countless movies the Surrogates borrows from in an effort to keep us entertained for the very swift 88 minutes of running time. Hell, there were even a few television programs I thought it copied for certain scenes. That noted, Surrogates is not all that bad. Director Jonathon Mostow (Terminator 3 � which I actually liked) might not have put the most seasoned piece of sci-fi on the screen, but he could have done much worse with the cheesy premise. The special effects are kinda few and kinda crappy. A scene with a surrogate riding on the hood of a car was blue screen embarrassment. But the special effects are kept in tow as Mostow tries for more of an atmosphere than he does an all out future world experience. Bruce Willis always throws me off in movies where he has hair and Ving Rhames shows up as a human (?) who opposes the surrogate conglomerate. It's been 15 years since Rhames and Willis had screen time together and I was thankful there was no plastic ball in their mouth and a gimp parading in front of them while they approached their purpose in the script. Surprisingly, for all the borrowing and lack of any true originality, Surrogates, is watchable. The ideas are all squished (think of a marshmallow being squeezed through a key hole) into an entertaining if not enthralling sit that might not exactly be worth $50 and a babysitter to make a night out of, but it can easily be a rewarding DVD rental in the new year. Recommendation is clearly to rent it. www.killerreviews.com",
+         "This film was an interesting twist on the robot as human concept, with a plot that managed to keep the viewer interested right up until the dramatic ending. A high tech company has specialized in mass producing surrogates, or personal robots, which are sold to the American middle class. They are quickly adopted to perform routine functions and then essentially perform high level functions (like one's job). The main theme was how the surrogates assumed people's lives and identities to such an extent the flesh & blood owner of the surrogate could stay home and presumably pursue higher level interests. The reality was most people simply fell into a spiritual stupor, resorting to alcohol or drugs to pass their time. The actors were all very good and up to the task of portraying themselves in robotic fashion (this doesn't require great acting skill but the screenplay was quite good). I thought Bruce Willis did a good job in the lead role(s) as FBI Agent Tom Geer (he also played his \"surrogate\" as a very low key robot). Bruce's surrogate is investigating the death of the son of the founder of the corporation that invented and produced the surrogates. This kicked off the main plot, which centered around an armed resistance group opposed to surrogates and attempting to defeat the surrogates and the corporation that produced them. If the plot sounds confused, at times it is, and the ending may be less than satisfying. But for a far fetched sci-fi movie about robots, this was one of the better ones I've seen.",
+         "As with most films, the trailer made this look like it would be something good � an action movie with an interesting sci-fi concept behind the world created for us. For this reason I was a bit surprised to see the \"finishing time\" of the film being listed as barely 90 minutes after the start time because I thought it would be hard to do all the things that the trailer proposed in such a comparatively short time. Leaving the film at the end, I found it easily fitted into the 90 minute time period and sadly it achieved this by not actually doing a great deal that I had hoped it would. The plot sees us in a world where the majority of humans live their lives from the comfort of their homes, experiencing life through the android clones (surrogates). Although pockets of humanity have banded together to resist this, generally they are seen as weirdos rather than having any sort of point. Due to the surrogates, accidental death has been nearly eliminated while crime is at an all-time low. However when the destruction of a surrogate leads to the death of the user, Detective Tom Greer is assigned to the case � a case that becomes even more high profile when the victim turns out to be the son of the creator of the surrogacy system. The potential is there in the plot and the various things they put in around it (Tom's marriage, the loss of a child etc) but it doesn't really deliver on much of it. The subject matter isn't really that thought provoking, partly because it doesn't hold out a lot for consideration by the viewer but partly because the film doesn't even seem happy with its own world creation. The whole idea is full of holes to the point that the film can't hide them or distract from them for very long and you get the sense that it is rushing a bit before it all runs out through its cupped hands. This is a shame because it niggles the whole way through and becomes worse whenever we see what surrogates can do (their speed, strength etc) because you wonder why the world looks the same as it does when full of \"normal\" people. Outside of this though it is still an action film of sorts so one hopes for thrills of that side. Unfortunately this doesn't really spark either. The running/jumping effects are not perfect and the scale of some of the action sequences means that some come over as being remote and not engaging or thrilling � a bit like watching someone else playing an video game that you don't really care about. It isn't bad though � the effects do still work, the action is still noisy and the plot is decent enough to at least not irritate � but that is the sort of level of film we're dealing with, one where my \"praise\" of it includes me saying its not too irritating! The performances sort of match the patchwork feel to the world and the film � it doesn't seem to be sure of itself and neither are they. Willis does his best (despite the wig etc he has to wear) but doesn't manage to balance the action with the character stuff and, thanks to the material, doesn't really deliver on either. Mitchell is so-so, as is Pike, while Cromwell essentially dials in a character he has sort of played before (but it made sense in other films) and Rhames is just plain odd. Surrogates is not an awful film � but it is a distinctly average one thanks to the amount of things it half does. Whether it is the action, the substance, the effects, the performances or whatever, it all appears to be \"OK\" but never pushing for more than that. Improved focus, a stronger script and a longer running time could have made this a better film but ultimately it was just average.",
+         "When I first began watching the documentary-style introduction to Surrogates, I had to admit I was impressed because I'm a sucker for these openings (I loved District 9), but I was afraid I was in for another cool futuristic type movie like Minority Report or I, Robot. Admittedly, these were two great movies yet I feared this movie would bring nothing new to the table. We've already seen huge interactive ads, protests against machines, moral dilemmas, and conflicted leaders trying to make statements (James Cromwell plays almost the same character in both I, Robot and Surrogates!). What new things could the director of Terminator 3 show us? It turns out he could bring us what I, Robot failed to deliver as effectively: a good knockout resolution. In other words, this movie delivered a non-Hollywood type ending, similar in the vein of Watchmen (though that is thanks to the great Alan Moore). I always appreciate when a director is willing to go out and boldly create a vision (even if it is based on a graphic novel, some directors like Carter Smith still change the ending � as he did for The Ruins movie). The film is the tale of a world where everyone's basically a couch potato. Technology is so amazing that we can create multiple robots of ourselves, in any form, and control them from the safety of our own homes! We're completely safe as long as we're plugged into the network and no one harms us as we operate the surrogate robot, or \"surrey.\" But as usual, conflict arises and the characters are drawn into a world of corruption, rebellion, and sacrifices. The screenplay is full of twists and turns, all very smart and satisfying, though somewhat predictable. Doesn't really matter to me though; films like these are made for mindless action with parts that make you think. Or so I thought. Mostow, a natural action director, handles the camera very well in action sequences. It's the usual Hollywood fare with great, fast-moving action and impressive special effects (though I keep thinking of Transformers 2 when I say that, so I probably won't mention CGI again). I also really liked how much he utilizes the element of surprise: there were many moments where I jumped back in shock, though there wasn't anything necessarily that scary. It's just the juxtaposition-ing of calm and BANG. It's clear Mostow is good with the action cam (nothing new in the era of Michael Bay), as he demonstrated in T3, but this time around I was impressed by how he directed the emotional scenes with Bruce Willis and his wife. He handled the feelings well. This in part has to do with Bruce Willis as an actor as well. He did a fine job with this movie, solid. There's also some good humor too, though I think I laughed too much. And it all led to the final punch. These are all similar-sounding critiques for me. I tend to enjoy cinema for what it is: for pleasure. However, what was different was the ending. I was expecting the typical run-of-the-mill Hollywood ending, but it certainly wasn't (though there was a bit of a twist). I must admit I gasped a bit when I saw the end. I said, \"Whoa.\" If a film, amidst good stuff, brings home something new (District 9, for example, was a seriously good commentary besides an action film), I'm impressed. I appreciate it very much: Mostow keeps the audience in mind. Sure, there were flaws (like its short running time, sometimes it takes itself too lightly) but overall it was a great viewing experience. I was enjoying it as I watched � as I usually do for movies � but the bold Watchmen-like finish really brought it home for me. Oh, and Ving Rhames was pretty damn bad-ass.",
+         "Finally saw this and I'm with the majority here... a solid 7/10 film. This surprisingly compelling sci-fi film takes a while to set up its universe but delivers down the stretch. It's borderline whether they establish enough credibility so as to invest real emotion in to the characters and buy in to the premise. If you allow yourself to buy in to the bizarre concept of living life through android duplicates, then the film works on a few levels. It's somewhat weak on certain of those levels but raises interesting questions concerning the level of our technological dependency as we live our lives. The emotional aspect of this movie plays better thanks to a fine performance by Bruce Willis. His character's journey through this bizarre world is obviously the heart of the film and it's written and portrayed very well.",
+         "I see many reviews here that denigrate the film, and a few that celebrate it. I believe it deserves neither fulsome praise nor vitriol, as it is a somewhat better than average film betrayed by bad choices. I'll keep this short: The concept is decent, the execution is mediocre, the result is that I give it 7 out of 10 stars. I would have graded this far higher had the creators spent more time making several of the characters more human (which is funny, given that \"humanity\" as compared to a more machine-like existence is a core concept of the screenplay), but they didn't. The only character in the film who achieves anything like true humanity is Bruce Willis', and this occurs only because the plot requires it. When a film's construction and leverage depend on the very definition of humanity as it's core concept, leaving the humanity of most of the characters behind is something more than stupid -- it cripples the film. This doesn't mean the film is unwatchable; it has enough elements of action, pathos, suspense & revenge to make it worth your time throughout. But it could have been so much better, if not for so many poor choices.",
+         "With the number of mainstream movies centered around a future human dependency on robots, it would be incredibly stupid if we actually let that happen. \"Surrogates\" is the latest of these concepts and surprisingly one of the more well thought-out ones. Based on the graphic novel by Robert Venditti and Brett Weldele, \"Surrogates\" imagines a world where humans interact with the world solely through robot versions of themselves called surrogates. They don't have to leave their homes and are impervious to danger. Writers Michael Ferris and John D. Brancato, who previously collaborated with director Jonathan Mostow on \"Terminator 3: Rise of the Machines\" and sadly also wrote the Halle Berry \"Catwoman,\" do their best work with this script, which is of course not saying much. The positive here is that they truly embrace and explored the possibilities of a word where people don't interact with people -- just the robot versions of themselves. It's the saving grace of the film. Bruce Willis stars as a homicide detective assigned to the very first case on record where the actual human operator of a surrogate died when the surrogate was killed. With nearly all of the planet using surrogates, any knowledge of danger would throw the world into panic. Willis -- Det. Greer -- must track down the weapon that did the damage. When his surrogate is destroyed, Greer begins to re-examine life through non-virtual eyes. Without question, however, the concept and the setting are far more clever than the script. Ironically like robots, when you boil down the exterior of \"Surrogates,\" it's composed of overused clichés and recycled components of Isaac Asimov and Philip K. Dick stories. The simple premise and thoroughly conceived world of \"Surrogates\" manages to override some lousy story lines and character development, but I'm not sure that most viewers who come to \"Surrogates\" looking for more action and less high-concept science fiction will be able to say the same. The subplots and back stories given to Greer and other characters are throw-away. At 89 minutes long, \"Surrogates\" offers just enough in terms of story development to be a glorified TV detective show set in the future. The twists are foreseeable and the character motivations barely scratched at, but it keeps your attention and stays focused enough on the central story that you never have to actually dwell on the more hollow elements of the film. The venerable James Cromwell, who plays the disgruntled inventor of surrogates, has never looked more shallow in a role, but it's hardly of any consequence. Sci-fi epiphany? None here, but a well-calculated exploration of a possible new technology - - yes. \"Surrogates\" is not mindless fun, but it's not artistic science fiction perfected to a tee either. It does just enough to intrigue the future-curious mind with a different cut from the same robot mold. ~Steven C Visit my site moviemusereviews.com"
+      ],
+      "genres": [
+         "Action",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Touchstone Pictures",
+         "Mandeville Films",
+         "Top Shelf Productions"
+      ],
+      "summaries": [
+         "People are living their lives remotely from the safety of their own homes via robotic surrogates -- sexy, physically perfect mechanical representations of themselves. It's an ideal world where crime, pain, fear and consequences don't exist. When the first murder in years jolts this utopia, FBI agent Greer discovers a vast conspiracy behind the surrogate phenomenon and must abandon his own surrogate, risking his life to unravel the mystery.",
+         "In a near future, with the development of the robotic, mankind stays at home operating surrogates with their signature to live their lives in the outside world and resolving issues like racism, complex and safety and reducing crime rates. Only a few people live in reservations the traditional way of life without the use of substitutes. When the surrogates of a man and a woman are destroyed by a sophisticated weapon, the FBI agents Tom Greer and Peters are assigned to the case and sooner they discover that the operators have also died. Tom Greer goes further in his investigation and finds that there is a conspiracy involving the army, the company VSI that manufactures the androids, the FBI, The Prophet leader of the humans and the scientist that had developed the surrogate technology Canter.",
+         "In the future artificial lifeforms called Surrogates are created so that humans can link up with them and go out into the world without having to deal with dangers the world presents. There's a movement led by a man calling himself The Prophet who believes that Surrogates are an abomination and they live in areas where surrogates are not allowed. When a surrogate is attacked supposedly by one of his members but the human controlling it was also killed which is very strange. So FBI agents Greer and Peters investigate and they learn that the human who was killed is the son of the creator of the Surrogates. When the attacker is found, Greer chases him but he ends up in the \"No Surrogates\" zone and is attacked. Eventually his surrogate is destroyed. Greer then for the first time in years goes out and continues to investigate and discovers that there's a lot going on.",
+         "In the not too distant future, technology allows humans to live their lives through robots they call surrogates. Humans have in effect cocooned themselves in their homes, never venturing outside. Rather, they explore life through their surrogates who may or may not resemble them. Tom Greer and his partner Peters are FBI agents assigned to investigate the destruction of two surrogates that has also caused the unthinkable: the human hosts were also killed. The use of surrogates is not universally endorsed with some humans living in technology and machine-free zones. Led by a man called The Prophet, the fear is that they have put their hands on a weapon that would fundamentally change human society. Greer believes they have also put their hands on a weapon that could fundamentally change society, though he begins to wonder if that might be a good thing.",
+         "Set in a futuristic world where humans live in isolation and interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to investigate the murders of others' surrogates."
+      ],
+      "budget": 80000000
+   },
+   "movielensId": 71530,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français"
+      ],
+      "releaseDate": "2009-09-24",
+      "dvdReleaseDate": "2010-01-26",
+      "directors": ["Jonathan Mostow"],
+      "runtime": 89,
+      "movieId": 71530,
+      "title": "Surrogates",
+      "mpaa": "PG-13",
+      "actors": [
+         "Bruce Willis",
+         "Radha Mitchell",
+         "Rosamund Pike",
+         "James Cromwell",
+         "Ving Rhames",
+         "Helena Mattsson",
+         "Boris Kodjoe",
+         "Ian Novick",
+         "Devin Ratray",
+         "Jack Noseworthy",
+         "Danny F. Smith",
+         "Jeffrey De Serrano",
+         "Michael Cudlitz",
+         "Trevor Donovan",
+         "Jennifer Alden",
+         "Michael Philip",
+         "James Francis Ginty",
+         "Andrew Haserlat",
+         "Justin Goodrich",
+         "Rachel Sterling",
+         "Meta Golding",
+         "Taylor Cole",
+         "Jordan Belfi",
+         "J.L. Highsmith",
+         "Lisa Hernandez",
+         "Kirk Hawkins",
+         "Nicholas Purcell",
+         "Max Murphy",
+         "Victor Webster",
+         "Valerie Azlynn",
+         "David Klefeker",
+         "Chad Williams",
+         "Mike Randy",
+         "Michael DeMello",
+         "Ron Murphy",
+         "David Conley",
+         "Bruce-Robert Serafin",
+         "Cody Christian",
+         "Todd Cahoon",
+         "Ella Thomas",
+         "Gabriel Olds",
+         "Eamon Brooks",
+         "Rick Malambri",
+         "Anya Monzikova"
+      ],
+      "imdbMovieId": "0986263",
+      "originalTitle": "Surrogates",
+      "genres": [
+         "Action",
+         "Science Fiction",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "Zl_h9RaL0es",
+         "TPS4cQDP-3Q"
+      ],
+      "plotSummary": "Set in a futuristic world where humans live in isolation and interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to investigate the murders of others' surrogates.",
+      "tmdbMovieId": 19959,
+      "avgRating": 3.26448,
+      "releaseYear": "2009",
+      "numRatings": 2883,
+      "posterPath": "/pHAnrezPCpWzNYYceLivTMcQ4jM.jpg"
+   }
+}

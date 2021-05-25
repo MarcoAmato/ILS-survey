@@ -1,0 +1,1379 @@
+{
+   "tmdb": {
+      "original_language": "ja",
+      "keywords": [
+         {
+            "name": "island",
+            "id": 2041
+         },
+         {
+            "name": "television",
+            "id": 2136
+         },
+         {
+            "name": "survivor",
+            "id": 5385
+         },
+         {
+            "name": "soldier",
+            "id": 13065
+         },
+         {
+            "name": "battle",
+            "id": 14643
+         },
+         {
+            "name": "death",
+            "id": 34079
+         },
+         {
+            "name": "game of death",
+            "id": 157376
+         },
+         {
+            "name": "school class",
+            "id": 229184
+         }
+      ],
+      "imdb_id": "tt0266308",
+      "video": false,
+      "title": "Battle Royale",
+      "recommendations": [
+         3177,
+         1255,
+         11075,
+         3989,
+         4689,
+         94329,
+         2666,
+         9696,
+         49797,
+         670,
+         1992,
+         4550,
+         13310,
+         10775,
+         431,
+         46838,
+         2292,
+         763,
+         79,
+         59
+      ],
+      "backdrop_path": "/2RUohbrXVlWG7O1amjNdGNADECI.jpg",
+      "revenue": 25000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 9,
+               "character": "Kitano",
+               "gender": 2,
+               "credit_id": "52fe438dc3a36847f805cd91",
+               "name": "Takeshi Kitano",
+               "profile_path": "/xkXZ7HC8uyhu5MtNnbdP8mhdiFN.jpg",
+               "id": 3317,
+               "order": 0
+            },
+            {
+               "cast_id": 40,
+               "character": "Mizuho Inada (Girls #1)",
+               "gender": 1,
+               "credit_id": "57d09d8ac3a3684895000c7d",
+               "name": "Tsuyako Kinoshita",
+               "profile_path": "/lQDBs5HWAmrhESQw9BFH0e63R0A.jpg",
+               "id": 1676248,
+               "order": 1
+            },
+            {
+               "cast_id": 19,
+               "character": "Yukie Utsumi (Girl #2)",
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cdb9",
+               "name": "Eri Ishikawa",
+               "profile_path": "/gjPcD4ycrTh0pDCCkiNSVNg8Uda.jpg",
+               "id": 1006726,
+               "order": 2
+            },
+            {
+               "cast_id": 42,
+               "character": "Megumi Eto (Girls #3)",
+               "gender": 1,
+               "credit_id": "57d0a1f2c3a36848c0000ec0",
+               "name": "Sayaka Ikeda",
+               "profile_path": "/u7Ks50QNmyHZyYRmVeUnKHDUOYz.jpg",
+               "id": 1676270,
+               "order": 3
+            },
+            {
+               "cast_id": 43,
+               "character": "Sakura Ogawa (Girls #4)",
+               "gender": 1,
+               "credit_id": "57d0a2c99251417e6a00104c",
+               "name": "Tomomi Shimaki",
+               "profile_path": "/fClARu3IsDhrE2L8pX5mmu23fur.jpg",
+               "id": 1676272,
+               "order": 4
+            },
+            {
+               "cast_id": 44,
+               "character": "Izumi Kanai (Girls #5)",
+               "gender": 1,
+               "credit_id": "57d0a3c09251417e26001085",
+               "name": "Tamaki Mihara",
+               "profile_path": "/ybPFWbMQTKW6brnA0L99V9dHP05.jpg",
+               "id": 1676273,
+               "order": 5
+            },
+            {
+               "cast_id": 45,
+               "character": "Yukiko Kitano (Girls #6)",
+               "gender": 1,
+               "credit_id": "57d0a461c3a3684840001116",
+               "name": "Yukari Kanasawa",
+               "profile_path": "/2ArKuL9l6oixo0VdhzjiRcJUzou.jpg",
+               "id": 1676274,
+               "order": 6
+            },
+            {
+               "cast_id": 46,
+               "character": "Yumiko Kusaka (Girls #7)",
+               "gender": 1,
+               "credit_id": "57d0a4f19251417e26001134",
+               "name": "Misao Kato",
+               "profile_path": "/rBtjKUrsAxUqpQ37G7l9bNoWctR.jpg",
+               "id": 1676275,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Kayoko Kotôhiki (Girl #8)",
+               "gender": 1,
+               "credit_id": "52fe438dc3a36847f805cdc9",
+               "name": "Takayo Mimura",
+               "profile_path": "/y3OQGg1orqwTYaDfHkcwecbTX4C.jpg",
+               "id": 97565,
+               "order": 8
+            },
+            {
+               "cast_id": 47,
+               "character": "Yuko Sakaki (Girls #9)",
+               "gender": 1,
+               "credit_id": "57d0a67692514173a5003d6f",
+               "name": "Hitomi Hyuga",
+               "profile_path": "/meFAT4LX1ZTNPrS7LpNbLVsDJih.jpg",
+               "id": 1676276,
+               "order": 9
+            },
+            {
+               "cast_id": 48,
+               "character": "Hirono Shimizu (Girls #10)",
+               "gender": 1,
+               "credit_id": "57d0a70fc3a3684987001256",
+               "name": "Anna Nagata",
+               "profile_path": "/njb90wPRwMiOuRgpxVFMIs04uHF.jpg",
+               "id": 58607,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Mitsuko Souma (Girl #11)",
+               "gender": 1,
+               "credit_id": "52fe438dc3a36847f805cdc1",
+               "name": "Kou Shibasaki",
+               "profile_path": "/h7uWDk847sApWaJJgOn2I2V1ndX.jpg",
+               "id": 58593,
+               "order": 11
+            },
+            {
+               "cast_id": 41,
+               "character": "Mitsuko Souma (Girls #12)",
+               "gender": 1,
+               "credit_id": "57d0a126c3a3684af1000e03",
+               "name": "Satomi Ishii",
+               "profile_path": "/mDwW1QsVPsmrf56PnN9OUdBWI1e.jpg",
+               "id": 1676267,
+               "order": 12
+            },
+            {
+               "cast_id": 13,
+               "character": "Takako Chigusa (Girl #13)",
+               "gender": 1,
+               "credit_id": "52fe438dc3a36847f805cda1",
+               "name": "Chiaki Kuriyama",
+               "profile_path": "/ccaYcabNnxA4MPItZdKAMdqEqTk.jpg",
+               "id": 2538,
+               "order": 13
+            },
+            {
+               "cast_id": 49,
+               "character": "Mayumi Tendo (Girls #14)",
+               "gender": 1,
+               "credit_id": "57d0a81d92514173a5003e6f",
+               "name": "Haruka Nomiyama",
+               "profile_path": "/8ieOWFxlnEcIX4wCWZJZSpk5yN5.jpg",
+               "id": 1676278,
+               "order": 14
+            },
+            {
+               "cast_id": 11,
+               "character": "Noriko Nakagawa (Girl #15)",
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cd99",
+               "name": "Aki Maeda",
+               "profile_path": "/wpRkVndISU2bjhOyM61cT6OTDs9.jpg",
+               "id": 31079,
+               "order": 15
+            },
+            {
+               "cast_id": 50,
+               "character": "Yuka Nakagawa (Girls #16)",
+               "gender": 1,
+               "credit_id": "57d0a8bfc3a36848c000127c",
+               "name": "Satomi Hanamura",
+               "profile_path": "/5KEkffbZnEXbBjL3ryYQnkphZWg.jpg",
+               "id": 85976,
+               "order": 16
+            },
+            {
+               "cast_id": 20,
+               "character": "Satomi Noda (Girl #17)",
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cdbd",
+               "name": "Sayaka Kamiya",
+               "profile_path": "/e1tFSH0Xpjm85ulJOD2h95fGtxA.jpg",
+               "id": 1006727,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Fumiyo Fujiyôshi (Girl #18)",
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cdc5",
+               "name": "Aki Inoue",
+               "profile_path": "/ttRponp9heWuBR9uvzZ9HsORCZy.jpg",
+               "id": 1083282,
+               "order": 18
+            },
+            {
+               "cast_id": 51,
+               "character": "Chisato Matsui (Girls #19)",
+               "gender": 1,
+               "credit_id": "57d0a931c3a3681635003b07",
+               "name": "Asami Kanai",
+               "profile_path": "/v1V8yv5Vzgviq2Zv9HTdXM9IlH8.jpg",
+               "id": 1620351,
+               "order": 19
+            },
+            {
+               "cast_id": 39,
+               "character": "Kaori Minami (Girl #20)",
+               "gender": 1,
+               "credit_id": "57d09cabc3a3684895000beb",
+               "name": "Mai Sekiguchi",
+               "profile_path": "/ieXKGOms8lCkFx01SIh4l9FOLkH.jpg",
+               "id": 1676247,
+               "order": 20
+            },
+            {
+               "cast_id": 52,
+               "character": "Yoshimi Yahagi (Girls #21)",
+               "gender": 1,
+               "credit_id": "57d0aabcc3a3684af10013ae",
+               "name": "Takako Baba",
+               "profile_path": "/pcHyVy1OObV79tEHkjEGiFEEKuE.jpg",
+               "id": 1676279,
+               "order": 21
+            },
+            {
+               "cast_id": 53,
+               "character": "Yoshio Akamatsu (Boys #1)",
+               "gender": 2,
+               "credit_id": "57d0ab6fc3a3681635003cc4",
+               "name": "Shin Kusaka",
+               "profile_path": "/4aX7VOvOPcqvGP46xe4NHg3YVnq.jpg",
+               "id": 1202958,
+               "order": 22
+            },
+            {
+               "cast_id": 25,
+               "character": "Keita Îjima (Boy #2)",
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cdd1",
+               "name": "Ren Matsuzawa",
+               "profile_path": "/ApUUk3lr2LraehSvrnnKmurwiGS.jpg",
+               "id": 1083287,
+               "order": 23
+            },
+            {
+               "cast_id": 54,
+               "character": "Toshinori Oda (Boys #4)",
+               "gender": 2,
+               "credit_id": "57d0b0f6c3a3684af1001893",
+               "name": "Shigehiro Yamaguchi",
+               "profile_path": "/6T2JP5sm03kwD76nNH6ZvQP8QvE.jpg",
+               "id": 1676288,
+               "order": 24
+            },
+            {
+               "cast_id": 12,
+               "character": "Shogo Kawada (Boy #5)",
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cd9d",
+               "name": "Taro Yamamoto",
+               "profile_path": "/kZI8zf8imvjzk9KHwgfMHqHNU0R.jpg",
+               "id": 31080,
+               "order": 25
+            },
+            {
+               "cast_id": 27,
+               "character": "Kazuo Kiriyama (Boy #6)",
+               "gender": 2,
+               "credit_id": "52fe438dc3a36847f805cdd9",
+               "name": "Masanobu Ando",
+               "profile_path": "/nrOOXnq0fpGIBp2ld1FmMj3T4BI.jpg",
+               "id": 74862,
+               "order": 26
+            },
+            {
+               "cast_id": 18,
+               "character": "Yôshitoki Kuninobu (Boy #7)",
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cdb5",
+               "name": "Yukihiro Kotani",
+               "profile_path": "/pZyFuxrx5irtyxFV4fdYONPzaIE.jpg",
+               "id": 1006725,
+               "order": 27
+            },
+            {
+               "cast_id": 37,
+               "character": "Hiroki Sugimura (Boy #11)",
+               "gender": 0,
+               "credit_id": "540630f6c3a36816af003e6b",
+               "name": "Sousuke Takaoka",
+               "profile_path": "/2JtbuW3InfhXEcL4zAPnEX4gLj9.jpg",
+               "id": 105405,
+               "order": 28
+            },
+            {
+               "cast_id": 24,
+               "character": "Yûtaka Seto (Boy #12)",
+               "gender": 2,
+               "credit_id": "52fe438dc3a36847f805cdcd",
+               "name": "Yutaka Shimada",
+               "profile_path": "/zdqzOTtv8eU20tpa2bGaJ08pbAq.jpg",
+               "id": 1083285,
+               "order": 29
+            },
+            {
+               "cast_id": 10,
+               "character": "Shuya Nanahara (Boy #15)",
+               "gender": 2,
+               "credit_id": "52fe438dc3a36847f805cd95",
+               "name": "Tatsuya Fujiwara",
+               "profile_path": "/xPFYGeg1tE4e21AnQGuwbbHNXgB.jpg",
+               "id": 31078,
+               "order": 30
+            },
+            {
+               "cast_id": 26,
+               "character": "Kazushi Nîda (Boy #16)",
+               "gender": 2,
+               "credit_id": "52fe438dc3a36847f805cdd5",
+               "name": "Hirohito Honda",
+               "profile_path": "/5piiic3GbuDXtgfwI0ERdD8bF5.jpg",
+               "id": 1083288,
+               "order": 31
+            },
+            {
+               "cast_id": 56,
+               "character": "Mitsuru Numai (Boys #17)",
+               "gender": 2,
+               "credit_id": "57d0b36b92514173ac00466f",
+               "name": "Yousuke Shibata",
+               "profile_path": "/qbEHAeIuPuYItVumM6LmyNIK55P.jpg",
+               "id": 1676295,
+               "order": 32
+            },
+            {
+               "cast_id": 14,
+               "character": "Shinji Mimura (Boy #19)",
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cda5",
+               "name": "Takashi Tsukamoto",
+               "profile_path": "/h8AL47RXoqrjwGn8u1mUW7w010R.jpg",
+               "id": 121796,
+               "order": 33
+            },
+            {
+               "cast_id": 36,
+               "character": "Kyôichi Motobuchi (Boy #20)",
+               "gender": 2,
+               "credit_id": "53e7f9d1c3a368398a0023a2",
+               "name": "Jirô Nitta",
+               "profile_path": "/gl5Pt7jYQD7Tpoq1zPNm3y9RUmV.jpg",
+               "id": 1089195,
+               "order": 34
+            },
+            {
+               "cast_id": 55,
+               "character": "Kazuhiko Yamamoto (Boys #21)",
+               "gender": 2,
+               "credit_id": "57d0b296c3a3684840001b17",
+               "name": "Yasuomi Sano",
+               "profile_path": "/npP0iNnQrqwn61eQ2yEAfucfRoE.jpg",
+               "id": 1190946,
+               "order": 35
+            },
+            {
+               "cast_id": 28,
+               "character": "Training Video Girl",
+               "gender": 1,
+               "credit_id": "52fe438dc3a36847f805cddd",
+               "name": "Yuko Miyamura",
+               "profile_path": "/aXRz2l0YzDtiuJSTkKJPaeKdLNN.jpg",
+               "id": 83768,
+               "order": 36
+            },
+            {
+               "cast_id": 29,
+               "character": "Basketball referee",
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cde1",
+               "name": "Kazutoshi Yokoyama",
+               "profile_path": "/hSrVYQeeWbZfv96CnkXNCq1DQ5q.jpg",
+               "id": 1095960,
+               "order": 37
+            },
+            {
+               "cast_id": 34,
+               "character": "Keiko",
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cdfd",
+               "name": "Minami",
+               "profile_path": "/c2kUMHqk03lrxKGO8PioCBdUjZ5.jpg",
+               "id": 1104911,
+               "order": 38
+            },
+            {
+               "cast_id": 57,
+               "character": "Hiroshi Kuronaga (Boys #9)",
+               "gender": 0,
+               "credit_id": "586bc33e9251415d310068d5",
+               "name": "Yuuki Masuda",
+               "profile_path": null,
+               "id": 986154,
+               "order": 39
+            },
+            {
+               "cast_id": 58,
+               "character": "Shô Tsukioka (Boys #14)",
+               "gender": 0,
+               "credit_id": "586bc33e9251415d240066bc",
+               "name": "Shigeki Hirokawa",
+               "profile_path": null,
+               "id": 1732018,
+               "order": 40
+            },
+            {
+               "cast_id": 59,
+               "character": "Onna no hito - won last Battle Royale",
+               "gender": 0,
+               "credit_id": "586bc33f9251415d2a0067d8",
+               "name": "Ai Iwamura",
+               "profile_path": null,
+               "id": 1241811,
+               "order": 41
+            },
+            {
+               "cast_id": 60,
+               "character": "Shiori - Kitano no aijô (voice)",
+               "gender": 0,
+               "credit_id": "586bc33f9251415d310068d7",
+               "name": "Ai Maeda",
+               "profile_path": "/2GbGAFBU5AjHRh1iZL6R3M1J8TL.jpg",
+               "id": 31082,
+               "order": 42
+            },
+            {
+               "cast_id": 61,
+               "character": "Reporter",
+               "gender": 0,
+               "credit_id": "586bc33fc3a3685ea3006ffc",
+               "name": "Michi Yamamura",
+               "profile_path": null,
+               "id": 1732019,
+               "order": 43
+            },
+            {
+               "cast_id": 62,
+               "character": "Young Mitsuko (in Special Version)",
+               "gender": 0,
+               "credit_id": "586bc33f9251415d240066c3",
+               "name": "Suzuka Tonegawa",
+               "profile_path": null,
+               "id": 1732020,
+               "order": 44
+            },
+            {
+               "cast_id": 63,
+               "character": "Middle-aged man (in Special Version)",
+               "gender": 2,
+               "credit_id": "586bc340c3a3685e9c00637c",
+               "name": "Taro Suwa",
+               "profile_path": "/ci1v3bteihMoUP0panFapVUKNy1.jpg",
+               "id": 20327,
+               "order": 45
+            },
+            {
+               "cast_id": 64,
+               "character": "Mitsuko no okâsan (in Special Version)",
+               "gender": 0,
+               "credit_id": "586bc340c3a3685ea900648f",
+               "name": "Reiko Kataoka",
+               "profile_path": "/4dU1PXbK4rTp4avgjE3uWtRfJLO.jpg",
+               "id": 96558,
+               "order": 46
+            },
+            {
+               "cast_id": 65,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc340c3a3685ea600678d",
+               "name": "Takeyuki Hirai",
+               "profile_path": null,
+               "id": 1732021,
+               "order": 47
+            },
+            {
+               "cast_id": 66,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc341c3a3685eb20060e6",
+               "name": "Tomu Asakawa",
+               "profile_path": null,
+               "id": 1732022,
+               "order": 48
+            },
+            {
+               "cast_id": 67,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc341c3a3685ea9006492",
+               "name": "Yûya Nakahara",
+               "profile_path": null,
+               "id": 1732023,
+               "order": 49
+            },
+            {
+               "cast_id": 68,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc341c3a3685ea9006497",
+               "name": "Takashi Komori",
+               "profile_path": null,
+               "id": 1732024,
+               "order": 50
+            },
+            {
+               "cast_id": 69,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc342c3a3685e9e0069d6",
+               "name": "Ryôta Nakamura",
+               "profile_path": null,
+               "id": 1732025,
+               "order": 51
+            },
+            {
+               "cast_id": 70,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3429251415d1e006598",
+               "name": "Akihiro Ugajin",
+               "profile_path": null,
+               "id": 1732026,
+               "order": 52
+            },
+            {
+               "cast_id": 71,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc342c3a3685eb20060ee",
+               "name": "Yôichi Murakami",
+               "profile_path": null,
+               "id": 1732027,
+               "order": 53
+            },
+            {
+               "cast_id": 72,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc342c3a3685ea900649c",
+               "name": "Tsuguharu Niizaki",
+               "profile_path": null,
+               "id": 1732028,
+               "order": 54
+            },
+            {
+               "cast_id": 73,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3439251415d240066cc",
+               "name": "Jun'ichi Nashiki",
+               "profile_path": null,
+               "id": 1732029,
+               "order": 55
+            },
+            {
+               "cast_id": 74,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc343c3a3685e9e0069db",
+               "name": "Hiroshi Kitagawa",
+               "profile_path": null,
+               "id": 1732030,
+               "order": 56
+            },
+            {
+               "cast_id": 75,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3439251415d21006705",
+               "name": "Hideaki Kawashima",
+               "profile_path": null,
+               "id": 1732031,
+               "order": 57
+            },
+            {
+               "cast_id": 76,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3449251415d1e00659d",
+               "name": "Umiji Tasaki",
+               "profile_path": null,
+               "id": 1732032,
+               "order": 58
+            },
+            {
+               "cast_id": 77,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc344c3a3685ea3007002",
+               "name": "Hidetsugu Okumura",
+               "profile_path": null,
+               "id": 1732033,
+               "order": 59
+            },
+            {
+               "cast_id": 78,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3449251415d2100670b",
+               "name": "Daisuke Yazawa",
+               "profile_path": null,
+               "id": 1732034,
+               "order": 60
+            },
+            {
+               "cast_id": 79,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3459251415d310068dd",
+               "name": "Nobuki Baba",
+               "profile_path": null,
+               "id": 1732035,
+               "order": 61
+            },
+            {
+               "cast_id": 80,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc345c3a3685eb20060f3",
+               "name": "Naoki Iwasawa",
+               "profile_path": null,
+               "id": 1732036,
+               "order": 62
+            },
+            {
+               "cast_id": 81,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc345c3a3685ea90064a2",
+               "name": "Kôji Tokuhisa",
+               "profile_path": null,
+               "id": 1732037,
+               "order": 63
+            },
+            {
+               "cast_id": 82,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc345c3a3685e9e0069df",
+               "name": "Mikiya Sanada",
+               "profile_path": null,
+               "id": 239523,
+               "order": 64
+            },
+            {
+               "cast_id": 83,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc346c3a3685ea3007007",
+               "name": "Kazuhiro Yokokura",
+               "profile_path": null,
+               "id": 1732038,
+               "order": 65
+            },
+            {
+               "cast_id": 84,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3469251415d21006710",
+               "name": "Shigeki Homma",
+               "profile_path": null,
+               "id": 1732039,
+               "order": 66
+            },
+            {
+               "cast_id": 85,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc346c3a3685e9e0069e4",
+               "name": "Kazuo Araki",
+               "profile_path": null,
+               "id": 1732040,
+               "order": 67
+            },
+            {
+               "cast_id": 86,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3479251415d270068cf",
+               "name": "Gôshi Matsuhara",
+               "profile_path": null,
+               "id": 1732041,
+               "order": 68
+            },
+            {
+               "cast_id": 87,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3479251415d1e0065a4",
+               "name": "Akira Yoshizawa",
+               "profile_path": null,
+               "id": 1732042,
+               "order": 69
+            },
+            {
+               "cast_id": 88,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc347c3a3685eae006aea",
+               "name": "Kenzo Shirahama",
+               "profile_path": null,
+               "id": 1732043,
+               "order": 70
+            },
+            {
+               "cast_id": 89,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc348c3a3685ea6006798",
+               "name": "Kanji Okumura",
+               "profile_path": null,
+               "id": 1732044,
+               "order": 71
+            },
+            {
+               "cast_id": 90,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3489251415d1e0065a9",
+               "name": "Shôji Takano",
+               "profile_path": null,
+               "id": 1732045,
+               "order": 72
+            },
+            {
+               "cast_id": 91,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3489251415d1c0063ca",
+               "name": "Ryouji Sugimoto",
+               "profile_path": null,
+               "id": 1108224,
+               "order": 73
+            },
+            {
+               "cast_id": 92,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3489251415d2d00671a",
+               "name": "Hajime Yoneda",
+               "profile_path": null,
+               "id": 1732046,
+               "order": 74
+            },
+            {
+               "cast_id": 93,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc349c3a3685e9c006387",
+               "name": "Hideaki Kojima",
+               "profile_path": null,
+               "id": 1732047,
+               "order": 75
+            },
+            {
+               "cast_id": 94,
+               "character": "Mitsuko no tomodachi (in Special Version)",
+               "gender": 0,
+               "credit_id": "586bc3499251415d1e0065af",
+               "name": "Nanami Ohta",
+               "profile_path": null,
+               "id": 1732048,
+               "order": 76
+            },
+            {
+               "cast_id": 95,
+               "character": "Mitsuko no tomodachi (in Special Version)",
+               "gender": 0,
+               "credit_id": "586bc3499251415d1e0065b4",
+               "name": "Ayana Noguchi",
+               "profile_path": null,
+               "id": 1732049,
+               "order": 77
+            },
+            {
+               "cast_id": 96,
+               "character": "Jô Kitô, Basketball player of Class 3-A (in Special Version)",
+               "gender": 0,
+               "credit_id": "586bc34ac3a3685eae006aef",
+               "name": "Kotaru Kamijou",
+               "profile_path": null,
+               "id": 1732050,
+               "order": 78
+            },
+            {
+               "cast_id": 97,
+               "character": "Kôsuke Okiyama, Basketball player of Class 3-A (in Special Version)",
+               "gender": 0,
+               "credit_id": "586bc34ac3a3685ea600679d",
+               "name": "Hirobumi Seki",
+               "profile_path": null,
+               "id": 1732051,
+               "order": 79
+            },
+            {
+               "cast_id": 98,
+               "character": "Shinichirô Tanaka, Basketball player of Class 3-A (in Special Version)",
+               "gender": 0,
+               "credit_id": "586bc34a9251415d1e0065b9",
+               "name": "Kiyoyuki Matsumoto",
+               "profile_path": null,
+               "id": 1732052,
+               "order": 80
+            },
+            {
+               "cast_id": 99,
+               "character": "Lieutenant Anjo",
+               "gender": 0,
+               "credit_id": "586bc34bc3a3685eae006af4",
+               "name": "Gou Ryugawa",
+               "profile_path": null,
+               "id": 1732053,
+               "order": 81
+            },
+            {
+               "cast_id": 101,
+               "character": "Hayashida-san - Teacher Class 3B",
+               "gender": 0,
+               "credit_id": "586bc34bc3a3685eb20060fb",
+               "name": "Ken Nakaide",
+               "profile_path": null,
+               "id": 1732054,
+               "order": 83
+            },
+            {
+               "cast_id": 102,
+               "character": "Basugaido",
+               "gender": 0,
+               "credit_id": "586bc34b9251415d240066d5",
+               "name": "Kanako Fukaura",
+               "profile_path": "/d7hzsxt36tIIf2TiuuUbsY0tBtc.jpg",
+               "id": 552340,
+               "order": 84
+            },
+            {
+               "cast_id": 103,
+               "character": "Ryûhei Sasagawa (Boys #10)",
+               "gender": 0,
+               "credit_id": "586bc3abc3a3685ea90064e4",
+               "name": "Shiro Go",
+               "profile_path": null,
+               "id": 1411900,
+               "order": 85
+            },
+            {
+               "cast_id": 104,
+               "character": "Tatsumichi Ôki (Boys #3)",
+               "gender": 0,
+               "credit_id": "586bc3ab9251415d21006765",
+               "name": "Gouki Nishimura",
+               "profile_path": null,
+               "id": 1732055,
+               "order": 86
+            },
+            {
+               "cast_id": 105,
+               "character": "Yôji Kuramoto (Boys #8)",
+               "gender": 0,
+               "credit_id": "586bc3abc3a3685e9e006a30",
+               "name": "Osamu Ohnishi",
+               "profile_path": null,
+               "id": 1732056,
+               "order": 87
+            },
+            {
+               "cast_id": 106,
+               "character": "Tadakatsu Hatagami (Boys #18)",
+               "gender": 0,
+               "credit_id": "586bc3ab9251415d1c00640b",
+               "name": "Satoshi Yokomichi",
+               "profile_path": null,
+               "id": 1732057,
+               "order": 88
+            },
+            {
+               "cast_id": 107,
+               "character": "Yûichiro Takiguchi (Boys #13)",
+               "gender": 0,
+               "credit_id": "586bc3acc3a3685ea90064e9",
+               "name": "Junichi Naitou",
+               "profile_path": null,
+               "id": 1732059,
+               "order": 89
+            },
+            {
+               "cast_id": 108,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "586bc3ac9251415d2a00682d",
+               "name": "Mitsuaki Tachikawa",
+               "profile_path": null,
+               "id": 1732060,
+               "order": 90
+            },
+            {
+               "cast_id": 109,
+               "character": "Teacher Class 3A (in Special Version)",
+               "gender": 0,
+               "credit_id": "586bc3ac9251415d2a006832",
+               "name": "Tetsu Masuda",
+               "profile_path": null,
+               "id": 1732061,
+               "order": 91
+            },
+            {
+               "cast_id": 110,
+               "character": "Shuya's Father",
+               "gender": 2,
+               "credit_id": "59e37995c3a36846ae013c17",
+               "name": "Takashi Taniguchi",
+               "profile_path": null,
+               "id": 1241742,
+               "order": 92
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cd63",
+               "name": "Koushun Takami",
+               "profile_path": null,
+               "id": 31072,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cd69",
+               "name": "Kenta Fukasaku",
+               "profile_path": null,
+               "id": 31073,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe438dc3a36847f805cd6f",
+               "name": "Kinji Fukasaku",
+               "profile_path": "/2gQZxy5oZ0UJJDFjaKBGuOMLwfu.jpg",
+               "id": 31074,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe438dc3a36847f805cd75",
+               "name": "Kinji Fukasaku",
+               "profile_path": "/2gQZxy5oZ0UJJDFjaKBGuOMLwfu.jpg",
+               "id": 31074,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cd7b",
+               "name": "Kenta Fukasaku",
+               "profile_path": null,
+               "id": 31073,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cd81",
+               "name": "Kimio Kataoka",
+               "profile_path": null,
+               "id": 31075,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cd87",
+               "name": "Chie Kobayashi",
+               "profile_path": null,
+               "id": 31076,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cd8d",
+               "name": "Toshio Nabeshima",
+               "profile_path": null,
+               "id": 31077,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cdab",
+               "name": "Kyôko Heya",
+               "profile_path": null,
+               "id": 551587,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cdb1",
+               "name": "Katsumi Yanagijima",
+               "profile_path": null,
+               "id": 4998,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe438dc3a36847f805cde7",
+               "name": "Masumi Okada",
+               "profile_path": "/ur60NjAiEol6HHaCDbMbu9YLI9N.jpg",
+               "id": 305332,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cded",
+               "name": "Masamichi Amano",
+               "profile_path": null,
+               "id": 548005,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe438dc3a36847f805cdf3",
+               "name": "Hirohide Abe",
+               "profile_path": null,
+               "id": 58673,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 20.021245,
+      "production_countries": [{
+         "iso_3166_1": "JP",
+         "name": "Japan"
+      }],
+      "id": 3176,
+      "vote_count": 1240,
+      "budget": 4500000,
+      "overview": "In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary \"Battle Royale\" act.",
+      "similar": [
+         9093,
+         205,
+         238636,
+         101299,
+         3600,
+         74997,
+         10029,
+         341006,
+         19995,
+         1865,
+         8456,
+         431,
+         4141,
+         667,
+         681,
+         948,
+         955,
+         12162,
+         1427,
+         8810
+      ],
+      "original_title": "バトル・ロワイアル",
+      "runtime": 114,
+      "poster_path": "/4J5hW5wwT20hYSEPfxvfxNLjHcg.jpg",
+      "spoken_languages": [{
+         "name": "日本語",
+         "iso_639_1": "ja"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "AM Associates",
+            "id": 11538,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Kobi Co.",
+            "id": 11539,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Nippon Shuppan Hanbai (Nippan) K.K.",
+            "id": 3032,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "MF Pictures",
+            "id": 11540,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "WoWow",
+            "id": 5073,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "GAGA",
+            "id": 3656,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2000-12-16",
+      "vote_average": 7.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/gKpdj5aKtxrAoAbJJ3EtBZHcsyP.jpg",
+         "name": "Battle Royale Collection",
+         "id": 16302,
+         "poster_path": "/rKlCCB5PXnrZmL0KkmpfhWcx0kB.jpg"
+      },
+      "tagline": "Could you kill your best friend?",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Japan",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Kinji Fukasaku"],
+      "runtime": 114,
+      "synopsis": "The story opens with a frantic news broadcast about a young girl being brought back to mainland Japan after she wins the latest \"Battle Royale\", a contest that pits high school students against each other in a fight to the death on a remote island. While being filmed, the girl smiles. Shuya Nanahara, a Japanese middle school student, attempts to cope with life after his father's suicide by hanging. Meanwhile, schoolmate Noriko Nakagawa is the only student attending class -- 3-B. Their teacher, Kitano, quietly leaves upon her tardy, apologetic arrival, but is attacked by student Yoshitoki Kuninobu and resigns after recovering from his wound. One year later, class 3-B takes a field trip after completing their compulsory studies; however, the class is gassed on their bus. They wake up in a \"briefing room\" on a remote island, wearing electronic collars. Kitano explains that the class has been chosen to participate in this year's Battle Royale as a result of the BR Act, which was passed after 800,000 students walked out of school. The orientation video cheerfully instructs the class to kill each other for three days until only one student remains. Students resistant to their rules or entering one of the randomly placed \"death zones\" for each day are to be killed by the collar's detonation. One of the 42 students, Fumiyo Fujiyoshi, interferes with the video by whispering to her friends; Kitano kills her on the spot with a thrown knife. While a shocked class is subdued by soldiers, Kuninobu openly confronts the viciousness of Kitano and the teacher slashes him with a knife (in the back of leg - the same area Kuninobu attacked Kitano two years earlier) before detonating his collar while Shuya, his best friend, watches in horror. Each student is provided a bag of food and water, map of the island, compass, and one item containing either a lethal weapon (firearm, sickle, knife, potassium cyanide) or an item apparently worthless toward survival (paper fan, binoculars, coat hanger, saucepan lid). The weapons are supposed to eliminate any natural advantage any one student might have over the others. The program's first six hours see twelve deaths, four of which are suicides. Brazen, mute \"exchange student\" Kazuo Kiriyama and quietly deranged classmate Mitsuko Souma soon become the most dangerous players in the game, while another exchange student, Shogo Kawada seems somewhat more merciful. Shuya promises to keep Noriko safe for Kuninobu because he was in love with her, but never told her. Other students have various goals in the game: Shinji Mimura and his friends plot to hack into the military's computer systems and destroy their base of operations; Hiroki Sugimura searches for his best friend Takako Chigusa and his love interest Kayoko Kotohiki. Chigusa runs into Kazushi Niida, who is sexually obsessed with her; Chigusa kills him after he attempts forcing himself on her, but is herself killed by Mitsuko. Kawada teams with Shuya and Noriko, and reveals that he won a previous Battle Royale at the cost of his girlfriend, Keiko; he now swears vengeance. The trio are forced to separate when Kiriyama attacks, and Sugimura rescues Shuya, assisted by his assigned \"weapon,\" a GPS tracking device. Shuya awakens bandaged by Yukie Utsumi in the island's lighthouse, where she helps reorient him to the events of the past 14 hours; five other girls on the school's cheerleading squad have also been guarding and hiding out in the building, apparently since the beginning of the program. Utsumi gathers the girls around the dining table to weigh in on a possible method of escape from the island which Shuya has informed her of. Yuko Sakaki, thinking that Shuya murdered a friend of hers, attempts to poison Shuya's food, but it is inadvertently eaten by one of the girls, killing her and sparking a massive, fear-fueled gunfight resulting in all the girls' deaths -- except Yuko. She realises the enormity of her paranoia and commits suicide, jumping from the deck of the lighthouse. Shuya returns to Noriko and Kawada, and they set out to find Mimura's group. To a small warehouse, Sugimura tracks down Kotohiki, who panics and kills him shortly after; Sugimura professes his love before dying. Kotohiki cries in despair, and is found and killed by Mitsuko. Watching from the rafters, Kiriyama then guns down and kills Mitsuko after she sadly dispenses some fitting advice to her two (dead) classmates. Upon the rapidly-consecutive deaths of Sugimura, Kotohiki and Souma, all of the seven students remaining are either preparing or willing to completely subvert the operations of the \"game\" - save for the psychopathic Kazuo. \"The Third Man\", a hacker group consisting of Mimura, Iijima and Yutaka, successfully infiltrate the military's computer system and prepare to destroy the perimeter using a truck converted into a fire-bomb. However, at the last second they are found by Kiriyama, who kills them all, but one of them manages to detonate the truck, seriously injuring the killer. When Kawada, Noriko and Shuya arrive at the hackers' burning base, Kawada confronts and kills the shrapnel-blinded, Uzi-armed Kiriyama with his SPAS-12 shotgun. On the morning of the final day, Kawada, aware of the collars' internal microphones, takes Shuya and Noriko aside and fakes their deaths. Suspecting that Kawada has won through manipulation of the BR system, Kitano ends the game and dismisses the troops before establishing final protocol, intent on personally killing the young man. Kitano realizes that Kawada, and not Mimura, has hacked into the game's intranet system months beforehand, and has now disabled Shuya and Noriko's tracking devices. Kitano unveils a homemade painting of the dead students, with Noriko indicated as the winner. He reveals that he was unable to bear the mutual hatred between him and his students, having been rejected by his daughter, Shiori. He also confesses that he always thought of Noriko as a daughter. He asks the confused, reluctant Noriko to kill him, but is quickly shot by Shuya after he threatens her at gunpoint. As he falls, Kitano shoots, and it is shown that the weapon in his hand was a mere water-gun. Suddenly, his phone rings, and Kitano sits down to answer it, telling Shiori that \"if you hate someone, you take the consequences\" before finally dying. Shuya, Noriko and Kawada leave the island on a boat, but Kawada dies from injuries sustained in his gunfight with Kiriyama -- \"glad\" that in the end, he \"found true friends.\" Shuya and Noriko are declared fugitive murderers, and last seen on the run in the direction of Tokyo's Shibuya train station.",
+      "writers": [
+         "Koushun Takami",
+         "Kenta Fukasaku"
+      ],
+      "originalLanguage": "Japanese",
+      "imdbLink": "http://www.imdb.com/title/tt0266308/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY4ODkwMjcxNl5BMl5BanBnXkFtZTgwNDY4MzU4MzE@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: Tatsuya Fujiwara, Aki Maeda, Tarô Yamamoto | See full cast and crew »"],
+      "reviews": [
+         "Kinji Fukasaku made a film called Battle Royale back in 2000. He's made plenty of films in the past. I've seen very few of them, apart from Battle Royale but I'm always searching for more. Battle Royale is a film that has affected many, many people. There are rabid fans of Battle Royale and there are even more people that hate it. Let me tell you why. Battle Royale is a film that exercises its right to explore an idea. Many films have great ideas but most are poorly realized. Battle Royale is simply an awesome movie about one of the most hypothetically traumatic things that could ever happen to teenagers. For those that don't know, the film focuses on what happens when a group of high school students are sent to an abandoned island to kill each other. What brings such a bizarre idea to fruition includes civil unrest, teenage anxiety, and a nation literally terrorized by their youth. It's set in Japan and though it is just a movie it still hit pretty close to reality due to current problems with Japanese youth. In fact, the film was poorly received by the government who feared that the release of the film would incite riots and other such acts of mayhem by the same youth which it focused on. The problem is the same the world around. Young people are much more volatile than they ever were say 20-30 years ago and Battle Royale captures the essence of the horror that today's youth would face going into such a circumstance. Friends kill other friends and bullies all to survive. At the same time they get to live out those videogames that they loved to play at home. [SIDE NOTE: Counter-Strike, a Half-Life (popular videogame) mod for example, easily prepares young people for the reality of weapons. How many bullets are in a clip of an MP5? What does an assault rifle sound like? Questions like these are easily answered by the videogames of today. Sure, these weapons are also on the streets and in some parts of the world they are even in the hands of children as young as five years-old but the videogame set up creates a comfortable experience with such weapons. It's not that videogames necessarily make people want to get guns rather it gives familiarity to guns. I should mention that I love to play Counter-Strike myself and will continue to play it in the future. I don't hate the game, I'm just pointing out that it does present a fairly realistic portrayal of weapons.] The problem is that there can be only one survivor of this island massacre, this only adds extra pressure to the already unprepared children who have to fight for their lives. What is truly shocking is that the actors and actresses who have been selected to portray these teens are around the same ages of their characters. They aren't the aging 20-30 somethings that just happen to look young; they are literally teenagers. This flick has some serious bite! It's such a great comment on how we are living in the 21st century in a time when frequently the fear for a country comes from within rather than outside forces. Certainly, terrorism is at the forefront of the average North American's mind due to the World Trade Center attacks and CNN's endless coverage of the horrors of said event have easily made the problem an international event. But before that the biggest headline grabbers focused on young people, filled with `rage', unleashing their anger on their helpless peers using an array of weapons (mainly guns). School shootings shocked the world when children started killing their peers. Battle Royale is not meant to trivialize school shootings and youth violence. Rather, it's an examination of the lengths which a government will go in order to discipline the youth. It's such a ludicrous idea. But the characters stay true to form as they profess long held crushes with their dying breath all the way down to naively trusting others who they've always admired as the popular kids. It's sick. Strange. Beautiful. Familiar. Different. And completely engaging. Most people are against the film because they feel that the plot is simply silly or because the dialogue is too hammy or some such nonsense. At the same time, those naysayers will praise films like Braveheart for its honest portrayal of Scotland's only historical hero. I loved Braveheart. I thought it was great too but it's bogus, for the most part. Certain battles and events really did happen. But William Wallace was no man to look up to. He raped and killed women and small children but none of that made it into the film because it was not that kind of \"feel good\" thing that would sell Wallace as a hero. Battle Royale, since it draws on fictitious characters and plot is far more interesting because it really makes you think about your own life. Could you kill your best friend from high school if the two of you are stuck on an island of death? To this day I refuse to answer that question. It sickens me to think of such a thing and so I felt disturbed by what those 42 kids had to do in Battle Royale. What's even worse is that they were picked by lottery to end up on the island. In the Japan that exists in Battle Royale, each year a random high school class is picked for the event. We are led to believe that all youth in Japan are bad seeds in this film but that really doesn't seem to apply to the class which the film follows. For all intents and purposes, they were innocent. The dialogue between characters is poignant, real, and totally innocent. You can literally see how limited their vocabulary and understanding of the world around them is. Furthermore, as I mentioned earlier, some of the characters even profess love for their classmates without even knowing what love is all about. High school is a weird time for anybody. It's an awkward time that is all about experience and misunderstandings. So many people AFTER high school really learn the truth about who liked them and what people really thought of them. During high school there's always some social wall that stops any REAL open communication between two people. Being on the island forces unchecked emotions and feelings to flow out of the characters because death is on the horizon. Can you really label the dialogue as lousy in those circumstances? Obviously, there are intelligent and well-organized people in the world. Some exist in high school but for the most part teenagers are brash, foolish, and irresponsibly reckless because they've yet to learn from experience. They rarely have any experience. Teenagers put on an island to kill themselves will certainly not learn anything new and if they do it won't matter considering that they'll soon be dead. Naturally, some go insane and mutter those math equations that their teachers promised them would be valuable in the real world. Others feel the need to fulfill their sexual desires, who wants to die as a virgin, right? Still others try to make the best of the situation by spending their last few hours alive as civilized as possible. But the purpose of the game affects all of these teenagers. They have to hurry. If the battle isn't finished in 3 days they all must die which is easy for the people in charge who have low-jacked each teenager with collars that explode. Not enough to take the head clean off, by default, but rather just enough of an explosion to open up the jugular. They bleed out until they die.their hopes and dreams for the future go with them. This is a grisly film that doesn't specifically cater to gore hounds. Certainly there are some really disturbing death scenes and moments but nothing TOO over the top. The idea is shocking enough, there's no need to be excessive. At first this fact upset me. I wanted this film to be a bloody parade of carnage because I reasoned that it's just a movie. Just some form of entertainment that existed to please me. But the whole idea is sickening and compelling enough to satisfy on more layers than just the visual. In the end, this is not a film for just anyone off the street. There are so many sceptics and people who are unable to maturely grasp the concept of the film. These are the people that really hate it and you can't really blame them. For too long, Hollywood has been the dominant authority on filmmaking in the world. What was once a greatly expressive and thought-provoking medium has now simply become a trite and boring thing. Everything is recycled over and over. It's repackaged, re-sold, re-distributed to the point that people can hardly accept something new and radical and different. If it's not safe, generic, or commercial than the reason for a film's existence appears to be highly questionable. Battle Royale isn't going to change the world. I wish it could but the damage has already been done and now there is no place for a film that challenges socio-political norms or has subtitles. But that's alright. Films that matter are still being made even if they don't get the same amount of press or attention that the next Leonardo DiCaprio movie will get. If you enjoy Battle Royale then Kinji Fukasaku, who directed and adapted the film for the screen along with his son Kenta, will be able to rest in peace. The man died on January 12th, 2003. He was 72 years-old and all he wanted to do was make movies until he died. He got his wish. I am a fan. \"Don't Hate Yourself... because no matter how hard you try there's always someone that does it better.\" - J.Symister 2002",
+         "This film is film that I believed had to be made, and it was only a matter of time before it was. Yet it was a film that the US mainstream could never have conceived making. Firstly to get it out of the way I will say that I loved this movie, although at no point did I feel comfortable while watching it. It had the power and emotional content, that while not necessarily apparent in the dialogue was visible on screen at all times. I am truly glad that this film has come out of mainstream Japanese cinema. It would have only been made in the US by independent film-makers who would have basked in the glory of its controversy and felt oh-so-smug that they had created it, while shoving a moral in your face. While I actually have no problem with US Indie film I do feel that a Western background would have comprised on visceral content, and upped the content of cheap moral points. For those who say the violence was \"cartoon-style\" and laughable must have been watching a different film. Whilst this film is heavy in black humour I can clearly say that the deaths are shocking in the extreme, and there is no relenting from the beginning to the end. Only occasionally does the camera pan away from the final deed. The only deaths that have a dark humour content to them, are those involving Kitano (Beat Takeshi) and the \"lone\" vigilante (those who have seen the film will know what I am talking about). Other sections, such as the \"Training Video\" are equally comedic, and absurd. Yet other deaths are shocking in the extreme, and show how the slightest suspicion can have disastrous consequences for groups that only have trust to keep them together, a truly shocking scene in the Lighthouse reinforces this. The fact that this film employs Children as the main protagonists of the story is the key to the whole impact of the film. We have all seen films like The Running Man where adults fight adults for survival and it seems that much less shocking, albeit that film was handled in a completely different manner. Children have the innocence that makes the brutality of this film that much more shocking, adults in the same situation would have had the reaction from audiences of cheering at the screen as the hero dispatches yet another victim. This could never and would never have been the case with this film. To another commentator who felt that this film sticks with you less than Scream, I simply fail to find this to be anywhere close to the truth. The deaths in Scream although bloody are nothing but pastiche of those films that Scream is mimicking, ultimately throwaway deaths that up in brutality in order to out-do the last one that have one or two psychotic perpetrators, who eventually get their comeuppance. In this film their are no victims and besides one exception there are no villains amongst the children. They simply HAVE to play the game or die. Well I encourage all those who feel they can stomach it to go and see this film or find it available somewhere (as I believe it has been banned in the US). It is not truly a film denouncing the evils of Reality TV or showing us the future of that trend of Broadcasting, that is merely a plot device to place the children in this situation. The nature of the film lies in its deconstruction of Friendships, Trust and our views on Innocence. Go and see it not as a spectator of this BR spectacle but as one of the participants and remember what was important to you when you were at school, and whether any of those rivalries, hatreds and friendships would have been enough for you to decide who deserves to die and who deserves to live.",
+         "Most of the reviewers here speak from their own viewpoints, i.e. non-Japanese westerners, and they praise/knock the movie based on its violence, plot, etc. That's fine. But through their ignorance of the culture this film springs from, they are missing its subtleties. I've been teaching in a Japanese high school for three years now. Once I saw this movie, I could instantly appreciate its skill and surprising frankness at commenting on some of the sad and strange realities of Japan's modern youth. Japan is a culture obsessed with youth. Almost everything here is tailored to the under-30 (and much younger, actually) crowd. For example, most westerners watching Japanese TV will be surprised at how childish it seems. The things that seem childish to your average American junior-high student are very appealing for a Japanese high-school student. Girls in their 30s desperately try to be \"cute\" to attract guys. Adults and children alike read comics by the droves, and sometimes pops up a strange, not-too-well-hidden undercurrent of pedophilia. This movie takes the heavily cliquish, often childish, and often incomprehensible (to me) social system of young Japanese boys and girls and gives them guns. This is the natural result. Take it from me, the characters and situations are very realistic. This gets mixed with the growing anxiety among the older generation at the rising rudeness and rebellion of the new generation in a culture that values politeness above all else. From a frustrated and humiliated teacher; to students killing each other over seemingly unimportant squabbles; to the overly-cutesy, peppy training video that perfectly mimics nearly any show on NHK these days -- this film subtly and brilliantly comments on half-a-dozen issues that weigh heavily on the minds of Japanese people today. That's why it was such a big hit in Japan. Maybe you just have to live here to get it. I give it 5 stars.",
+         "Battle Royale is based on the shockwave novel by Koushun Takami, which is a bestseller in Japan, and which has become very controversial in a very short time (and it is really easy to understand why). The plot is relatively simple (a class of junior high school students are forced to kill each other on a desert island, the last survivor wins and can go back home), but it is this simplicity that makes its strength. No need for a very long prologue before we enter the main act. Each of the 42 pupils involved in this \"game\" are not volunteers (no one would be..,), and of course they are forced to kill their best friends /girlfriends in order to survive this horror. The personalities and characteristics of each of the participants are of course very contrasted and even if there are some cliches, well, the worst has been avoided. There are even quite \"realistic\" (even if it is very difficult to judge what can be realistic with such a plot) moments. The transcription of the inner thoughts of the characters, which is one of the strengths of the book, is averagely well retranscripted. Takeshi Kitano plays a \"teacher\" (whose name is ...Kitano), leading the operation of surveilliance of this \"game\". It is very difficult to give an objective comment on this movie. Violent. Ultra-Violent. And bloody. This is for sure. The book has to be read for a more complete description of the hesitations and fears, but the movie restranscripts very well the book is the sense that it is all \"absurd\". There is no real meaning to this violence. The students know this, but it can not be avoided. It is quite sad that the movie dropped an essential background element of the book (the story in the book takes place in an imaginery Japan which would have not lost WWII, and the movie takes place in a slightly modified modern Japan), but I guess that making this happen in the \"real-world\" shows that there is no need to go to an imaginary world to see to what extreme behaviors humans are capable of. Highly disturbing. Rated R-15 (forbidden to under 15), very, very violent, but nonetheless interesting.",
+         "I couldn't believe my eyes. Out of all of the horror/survival films I have ever seen, this is definitely on top of the list. I don't just mean that in terms of foreign films, I mean in terms of film. I was immersed into this crazy scenario that may seem absolutely ridiculous at first, but once you look at it, it almost turns into a not so outlandish thought. The story is laid out like this: Japan has is going down the proverbial crapper. Unemployment is at an all time high and kids everywhere are boycotting school. The country is in chaos. The government decides to pass a law that is basically aimed at scaring the country into order. The Law is called the BR Act. Heres the crazy part. A class is selected by impartial lottery (and the grades seem totally random, as indicated by the shot of the 1st or 2nd grader in the opening sequence) and sent to an undisclosed, evacuated location. The classmates then have 3 days to kill each other off until there is only one student left. This year, it is a class of 9th graders (keep in mind that Japanese kids go to school year round. in our school years, these kids would be seniors). They are sent to an island, given weapons, and fight to survive. The cast in this film is chock full of Japanese Stars. Kitano Takeshi (Kitano) plays the teacher that basically plays the ringleader. If you have watched spike TV, you have seen him before. This is the actor that plays as \"Vic Ramono\" on MXC. The rest of the cast is comprised of Japanese teen pop idols. Most notably, the gorgeous Chiaki Kuriyama (Chigusa). You probably know her too. She was Gogo Yubari in Kill Bill Vol 1. Ando Masanobu (Kiriyama) plays the most menacing villain I have ever seen. Asside from the classic Japanese blood sprays and the amount of ammo some of the guns put out, there is great attention to detail in this film. From what I have read, since the author (Kinji Fukasaku) of the original book directed the film, everything is kept true to the book as close as possible. Every time a student dies, their names appear on the screen in the order they died. Inside the main building, there is huge system of screens that show who is dead and what not. Anyway, that screen is exact on the names as well as the 'danger zone' map. I had to look twice to realize that. That is damn good editing right there. The characters in the film, though Japanese, can be related right back to the kids you knew in high school. I joke around with my friends all of the time saying, \"Oh thats so and so\" and, \"oh man, that is definitely so and so.\" This brings so much depth into the film. It is simply amazing to watch how everything plays out. This is like Darwinism in the 21st century. I watch this film just saying, \"this is what would happen.\" That is what the entire film is based on, the crazy idea of 'this could happen.' The whole tag line of the movie is, \"could you kill your best friend?\" The question is so spooky, I don't even know if I could answer it. It taps into something so deep that you really have to think about it. This film does have some comical moments. It is just too damn funny to watch Takeshi Kitano sit on a couch and eat cookies while at the same time watching his former pupils kill each other. There is just everything in this movie. There are those love stories that you saw all too often in school as well as those feuds between certain cliques and egos. If you want a superb psychological thriller, this is the movie. This film sent shock waves across Japan when it burst onto the scene. Intelligent writing, great acting, beautiful locations, and decent effects bring this film together. Its Lord of the Flies with High School Kids. Its just great. 10 out of 10",
+         "In today's fast paced world Kinji Fukasaku takes the single idea of competition and twists it into a stunning metaphor for the battle for a place in society. Set in a fictional reality, the story tells of how in the early 22nd century Japan's economy collapsed and nearly 800.000 people were out of work, nearing 15% of the population. Seeing their chance, the students revolted against school and the system itself. Fearing the youth and the rise of teen violence, the adults along with the government passed the re-educational system also known as the BR act. The story takes place approximately 5 years into the future after the BR act has been put in order, a group of rowdy ninth graders are chosen to play the Battle Royale. While the outer look of BR may seem like a cheap excuse for pointless slaughter, the movie itself offers numerous views and critiques against the modern society in which we live in. From the opening scene with the stunning use of visual and audio techniques, when the winner of last years game is presented to the press, to the taunting instruction video in how to play Battle Royale properly, the movie seems to take a bite at every aspect of the Japanese and perhaps even the western culture. The instruction video that is shown to the `contestants' features a young and beautiful girl who, wearing a similar necklace as the contestants, instructs with an overly cheery fashion the rules and layout of Battle Royale, while at the same time their former teacher taunts them sadistically. When the game begins, the viewer is constantly kept aware of the situation in it, an almost deity like being informs the viewer every now and then of the contestants who have died in the brutal battle. Also a certain subconscious like text appears to the characters in times of need, this can be interpreted as the directors way of showing last thoughts that go through a dying contestants head before they finally die or the despair or motive of a contestant. The single scene in which a contestant that has been portrayed as a ruthless killer to the viewer dies, a single sentence makes the viewer re-think their opinion about her. Kinji Fukasaku was one of the most revered directors of Japanese movies. He directed over 60 movies in his lifetime of which Battle Royale was the last one, and while some have proposed that he had lost his touch over the years, BR proves otherwise. Fukasaku directs steadily without resorting into too many gimmicks of visual presentation and some scenes almost attain a film noir visuality. While certain moments are very Kubrick like, the movie is refreshingly different from the western style of movie making, and perhaps in the hands of a younger director the movie possibly couldn't have made such valuable points that it now makes. In Japan the movie received a mixed reception. While Fukasaku wished that the movie would open for mostly all ages above 15, the censors believed that the brutality would not suit children that age and placed the movie into the over 18 movies. Annoyed, Fukasaku edited a new version of his film for he wished that younger audiences would see the movie for it's message, he succeeded and the movie opened then for audiences of 15 and above. What the censors did not see was that while Fukasaku edited the movie so that many killings were explained and made more understandable and the ending was changed to a more satisfying one, Fukasaku actually added via computer technology more blood into certain battles and some critics even consider that the edited version is even more brutal than the original. Fukasaku uses surprisingly young actors unknown outside of Japan to portray the out of control 9th graders who are chosen to the game. This mainly is that he wanted to show the Japanese youth that where being over competitive can lead to. Fukasaku also uses veterans fromm Japanese movies, Takeshi `Beat' Kitano portrays with unquestionable devotion the sadistic yet melancholy spirit of Kitano, the teacher who runs the BR program. Kitano's presentation rises well over the other actors mainly because of the talent that he has attained over the years of cinema and theatre, his other movie roles include the renowned `Hana-Bi' and `Brother' which he directed himself. Also the acting talents of the young rising star Kou Shibasaki stand out of the crowd. The atmosphere in the movie can be compared even to the bleak and depressing image of George Orwell's `1984'. But while `1984' uses subtle yet depressing imagery to portray a society gone wrong, BR focuses on shocking people into realizing the wrongs of the society that occupies our everyday lives, and while BR may portray this in a surrealistic and over the top way, deep down it portrays a biting satire that really has something important to say.",
+         "The Place: Japan. The Time: The not-so-distant-future. Faced with the prospect of losing control over the nation's young people, a totalitarian government decides upon a ruthless demonstration of power. The Battle Royale Act annually sends a randomly-selected class of high school students to an uninhabited island where they are compelled to kill each other until only one of their number survives. The reasoning behind this bizarre piece of legislation is perhaps the weakest part of the plot - but the Director deftly causes us to suspend disbelief by drawing us surely and touchingly into the feelings of the young cast. Unlike many western movies which trot out a body count of simplistic characters who are only there to die horribly for our entertainment, Battle Royale somehow manages to rapidly introduce us to the story's potential victims and make us care about them. You will read reviews that describe this film as excessively violent. I believe that this is a gross overstatement. Though there are many deaths and not a little blood, the main emphasis is upon simple human values - issues such as trust, friendship, love and hate - which the competition tests to their very limits. Children who have little genuine experience of living are forced to evaluate their relationships with each other if they want to stay alive. Alliances are formed and broken; long suppressed crushes and barely buried antagonisms influence their decisions. There are no easy or mindless deaths in Battle Royale. The violent scenes make the point that violence and death are not cool or funny. This is not Kill Bill; every character in Battle Royale has value as a living, breathing human being. It may sound corny to say that the movie is an emotional roller-coaster ride, but it truly is - having dared to give us three dimensional people who bleed when they are cut, the Director sometimes further dares to cruelly follow scenes of tragedy with jarring moments of biting, dark and sarcastic wit. If this was an American movie, the class would be played by people in their twenties and thirties. Two or three of the students would be given a lot of screen time and the rest would be faceless cannon fodder. Five seconds after the opening titles, you would know who was going to survive. Despite its odd premise, Battle Royale seems closer to reality because its teenagers really are teenagers and it allows no comforting certainties about who lives or dies. The true genius of Battle Royale lies in the talented playing of the entire cast. Although young, not one of them strikes a dud note and the script gives almost all of the students a chance to shine at some point. The fight scenes are not staged in the style of 'Enter The Dragon' - the kids are not weapons experts or Karate champions. We see them kill each other but we are not invited to hate them - they are, after all, children and they are scared and desperate. Even a student who takes to killing with apparent relish deserves our sympathy. Some reviewers have criticised aspects of the dialogue as unrealistic. There are certainly times when the script seems stagy - but it is important to remember that these Japanese children are products of a national culture which often finds the expression of passionate emotions problematical. If anything, the formal phrasing and awkwardness of their most heartfelt expressions only serves to make them more meaningful. The Special Edition ends (quite literally) with a question. You will find yourself going back to this movie time and time again to answer it. Each viewing is rewarded with details that you probably missed previously - the depth of characterisation and the layers of hidden-in-plain-sight clues continually allow you to understand the story from fresh perspectives.",
+         "It is no secret that the Japanese regularly produce some of the most all-fired messed up movies ever made, but recently a film was released over there that tested even the normally bloodthirsty native film industry. That film is BATTLE ROYALE, and having finally seen it, I can see why it caused such uproar. The setup in a nutshell: at the dawn of the millennia, students have taken to boycotting school and have become a bunch of indolent little turds. The teachers have virtually no control over them, and the kids have even begun to assault authority figures without fear of the consequences. As a result of this anarchy, the Millennium Educational Reform Act, a.k.a. the BR act, is passed into law. The BR act renders it legal for a student class chosen by lottery to be kidnapped and taken to an island in the middle of nowhere that is policed by armed troops. Once on the island, the students are informed that they are now unwilling participants in Battle Royale, a three-day, no rules, literal fight to the death to see which student deserves to return to society. All participants are issued a kit containing a map, a flashlight, food and water, \"personal\" items for the girls, and a weapon. They also find that they have been fitted with collars that will explode and kill them if they don't participate. Every six hours, the students are updated on the status of dead participants and which areas of the island are \"danger zones\"; if they don't steer clear of the danger zones, their collars will blow their heads off. As a result, there is no hope of holing up in one place for the whole three days. By the end of three days, there can only be one survivor; if there is more than one, all that remain will die. The story follows an unlucky class of ninth graders who are gassed into unconsciousness and kidnapped during what they think is a school trip. Upon waking, they are presented with the previously outlined situation and turned loose, one by one, onto the island. Since this is a do-or-die scenario, the kids take drastic measures; some become vicious predators while others, realizing that they are in no way cut out for this, commit suicide. Former members of the same clique betray their superficial bond and turn on their friends, formerly put-upon kids feel the power that a weapon grants them, and virtually no one can be trusted. The three main protagonists are Shuya (a sensitive kid who ends up in a foster home after his loser father hangs himself out of utter despair), Noriko (a sweet young thing who ends up being the \"princess\" that Shuya vows to protect), and Kawada (the mysterious, bandana-wearing tough guy), all of whom are forced to rely on each other during the three-day hell. Since their fellow participants are armed with weapons that run the gamut from grenades to pump-action street sweeper shotguns, mercy is a thing that is best forgotten, and Shuya and Noriko clearly undergo sweeping changes by the end of the story. Two other characters of note are Mitsuko and Kirayama. Mitsuko is the class hottie, and once the deadly seriousness of their situation is apparent, she becomes a frighteningly efficient predator, dispatching her classmates with icy precision. If you see this sickle-wielding beauty coming, RUN. Kirayama is the other side of the Mitsuko coin; an exchange student who joined the class because he knew the Battle Royale was going to take place. Merrily blasting his way through the other participants with a machine gun, Kirayama is an unbridled psychopath whose total disregard for human life is truly numbing to behold. The rest of the remaining 42 students serve as a cross-section of every student type you've ever known, and it is fascinating to see their approaches to their situation. Techno-nerds prove to be a force to be reckoned with, groups of girls try to be peacemakers with varying degrees of success, previously unexpressed love plays out with tragic results, and the whole group struggles with the fact that when the end comes there can only be one left. When BATTLE ROYALE hit the Japanese theaters, it kicked box office ass, but was eventually removed from theaters by concerned parents groups and defenders of public decency. Needless to say, in the post-Columbine climate this movie doesn't stand a chance in hell of landing an American distribution deal, especially in its unedited form. We're talking instant NC-17 here, kids, which is sad because the violence and gore in this film would have passed with an R rating back in the mid-to-late seventies. However, bear in mind that this no mere exploitation movie; the director wanted kids the age of its protagonists to see it to remind them that authority over them does still exist, and to stop acting like a bunch of douchebags. Imagine if an American director went public with that sentiment! BATTLE ROYALE is easily the most thought-provoking film I've seen in a long time, and I give it my highest recommendation. It is available in the states on an all-regions subtitled DVD and is well worth searching out. It's either BATTLE ROYALE or NOT ANOTHER TEEN MOVIE. How will you choose?",
+         "There have been contrasting cries of \"greatest film ever made\" and \"pointless gore fest\" made about BR, and neither are accurate in my opinion. What it is, is a commentary about \"perceived\" (real or otherwise) problems among Japanese teens in the late 90's. In one review, someone basically likened it to a movie involving young Japanese girls running around in school uniforms acting violent....DUH, thats the whole point. A lot of peoples only knowledge of Japan is Manga and Hentai. If people bothered to watch the news once in awhile, they may know that the establishment in Japan were VERY worried about young people getting out of control, and BR portrays all this perfectly. Its NOT ultra violent, although the fact that they are supposed to be teens makes it disturbing. Battle Royale is no worse than Lord of the flies, but for some reason that has been deified as a work of art, and BR is classed as trash. I'd say its more about cultural snobbery than actual appreciation of a truly magnificent film.",
+         "\"Battle Royale\" is one of the most controversial and challenging movies ever made.The film is very gory and violent,but it's also witty,satirical and thought provoking.The concept of \"Battle Royale\" is pretty simple.The act of Battle Royale decrees that once a year a class of 9th graders is chosen at random,stranded on a small island,and armed with random weapons.The kids are also outfitted with strange necklaces that monitor their locations and life functions,and explode if more than one student is alive at the end of 72 hours.The kids are forced to become savage killers,and the movie provides them with interesting personalities and human reactions to the horrible situation in which they find themselves.The acting is brilliant and the violence is horrific and merciless.The film is very exciting and well-photographed.A masterpiece that needs to be seen by every fan of wonderful Japanese cinema!"
+      ],
+      "genres": [
+         "Action",
+         "Drama",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "AM Associates",
+         "Fukasaku-gumi",
+         "GAGA"
+      ],
+      "summaries": [
+         "Forty-two students, three days, one deserted Island: welcome to Battle Royale. A group of ninth-grade students from a Japanese high school have been forced by legislation to compete in a Battle Royale. The students are each given a bag with a randomly selected weapon and a few rations of food and water and sent off to kill each other in a no-holds-barred (with a few minor rules) game to the death, which means that the students have three days to kill each other until one survives--or they all die. The movie focuses on a few of the students and how they cope. Some decide to play the game like the psychotic Kiriyama or the sexual Mitsuko, while others like the heroes of the movie--Shuya, Noriko, and Kawada--are trying to find a way to get off the Island without violence. However, as the numbers dwell down lower and lower on an hourly basis, is there any way for Shuya and his classmates to survive?",
+         "In the beginning of the 21st Century, the economy of Japan is near a total collapse, with high rates of unemployment and students boycotting their classes. The government approves the Battle Royale Act, where one class is randomly selected and the students are sent to an island wearing necklaces with few supplies and one weapon. After three days, they have to kill each other and the survivor wins his or her own life as a prize. The 42 students of a ninth-grade class are selected to participate in the survival game and abducted while traveling in their bus. Under the command of their former teacher Kitano, they have to eliminate each other following the rules of the sadistic game where only one wins.",
+         "Ninth-grade students are taken to a small isolated island with a map, food, and various arms. They have to fight each other for three days until the last one remains, and they are forced to wear a special collar that will explode when they break a rule.",
+         "A random class of Japanese ninth-grade students are--in this fictional universe--randomly selected by a fascist government lottery. They are kidnapped and forced onto an isolated island, where they are equipped with food, water, a map, and a random weapon. On the island, they have to compete in a violent death-match game till only one victor remains. Failure to follow the rules or participate in the death match results in death by an exploding collar that everyone has to wear.",
+         "At the dawn of the new millennium, Japan is in a a state of near-collapse. Unemployment is at an all-time high, and violence among the nation's youth is spiraling out of control. With schoolchildren boycotting their classes and physically abusing their teachers, a beleaguered and near-defeated government decides to introduce a radical new measure: the Battle Royale Act Overseen by their former teacher Kitano and requiring that a randomly chosen school class is taken to a deserted island and forced to fight each other to the death, the Act dictates that only one pupil is allowed to survive the punishment. He or she will return, not as the victor, but as the ultimate proof of the lengths to which the government is prepared to go to curb the tide of juvenile disobedience.",
+         "In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary \"Battle Royale\" act."
+      ],
+      "budget": 4500000
+   },
+   "movielensId": 7022,
+   "movielens": {
+      "languages": ["日本語"],
+      "releaseDate": "2000-12-16",
+      "dvdReleaseDate": null,
+      "directors": ["Kinji Fukasaku"],
+      "runtime": 114,
+      "movieId": 7022,
+      "title": "Battle Royale",
+      "mpaa": "R",
+      "actors": [
+         "Takeshi Kitano",
+         "Tsuyako Kinoshita",
+         "Eri Ishikawa",
+         "Sayaka Ikeda",
+         "Tomomi Shimaki",
+         "Tamaki Mihara",
+         "Yukari Kanasawa",
+         "Misao Kato",
+         "Takayo Mimura",
+         "Hitomi Hyuga",
+         "Anna Nagata",
+         "Kou Shibasaki",
+         "Satomi Ishii",
+         "Chiaki Kuriyama",
+         "Haruka Nomiyama",
+         "Aki Maeda",
+         "Satomi Hanamura",
+         "Sayaka Kamiya",
+         "Aki Inoue",
+         "Asami Kanai",
+         "Mai Sekiguchi",
+         "Takako Baba",
+         "Shin Kusaka",
+         "Ren Matsuzawa",
+         "Shigehiro Yamaguchi",
+         "Taro Yamamoto",
+         "Masanobu Ando",
+         "Yukihiro Kotani",
+         "Sousuke Takaoka",
+         "Yutaka Shimada",
+         "Tatsuya Fujiwara",
+         "Hirohito Honda",
+         "Yousuke Shibata",
+         "Takashi Tsukamoto",
+         "Jirô Nitta",
+         "Yasuomi Sano",
+         "Yuko Miyamura",
+         "Kazutoshi Yokoyama",
+         "Minami",
+         "Yuuki Masuda",
+         "Shigeki Hirokawa",
+         "Ai Iwamura",
+         "Ai Maeda",
+         "Michi Yamamura",
+         "Suzuka Tonegawa",
+         "Taro Suwa",
+         "Reiko Kataoka",
+         "Takeyuki Hirai",
+         "Tomu Asakawa",
+         "Yûya Nakahara",
+         "Takashi Komori",
+         "Ryôta Nakamura",
+         "Akihiro Ugajin",
+         "Yôichi Murakami",
+         "Tsuguharu Niizaki",
+         "Jun'ichi Nashiki",
+         "Hiroshi Kitagawa",
+         "Hideaki Kawashima",
+         "Umiji Tasaki",
+         "Hidetsugu Okumura",
+         "Daisuke Yazawa",
+         "Nobuki Baba",
+         "Naoki Iwasawa",
+         "Kôji Tokuhisa",
+         "Mikiya Sanada",
+         "Kazuhiro Yokokura",
+         "Shigeki Homma",
+         "Kazuo Araki",
+         "Gôshi Matsuhara",
+         "Akira Yoshizawa",
+         "Kenzo Shirahama",
+         "Kanji Okumura",
+         "Shôji Takano",
+         "Ryouji Sugimoto",
+         "Hajime Yoneda",
+         "Hideaki Kojima",
+         "Nanami Ohta",
+         "Ayana Noguchi",
+         "Kotaru Kamijou",
+         "Hirobumi Seki",
+         "Kiyoyuki Matsumoto",
+         "Gou Ryugawa",
+         "Ken Nakaide",
+         "Kanako Fukaura",
+         "Shiro Go",
+         "Gouki Nishimura",
+         "Osamu Ohnishi",
+         "Satoshi Yokomichi",
+         "Junichi Naitou",
+         "Mitsuaki Tachikawa",
+         "Tetsu Masuda",
+         "Takashi Taniguchi"
+      ],
+      "imdbMovieId": "0266308",
+      "originalTitle": "バトル・ロワイアル",
+      "genres": [
+         "Drama",
+         "Thriller",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": ["qMOCEF4n_zs"],
+      "plotSummary": "In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary \"Battle Royale\" act.",
+      "tmdbMovieId": 3176,
+      "avgRating": 3.79404,
+      "releaseYear": "2000",
+      "numRatings": 6341,
+      "posterPath": "/4J5hW5wwT20hYSEPfxvfxNLjHcg.jpg"
+   }
+}

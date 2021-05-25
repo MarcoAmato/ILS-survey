@@ -1,0 +1,781 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "post-apocalyptic",
+            "id": 4458
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "zombie",
+            "id": 12377
+         },
+         {
+            "name": "zombie apocalypse",
+            "id": 186565
+         },
+         {
+            "name": "interspecies romance",
+            "id": 212760
+         },
+         {
+            "name": "based on young adult novel",
+            "id": 223438
+         }
+      ],
+      "imdb_id": "tt1588173",
+      "video": false,
+      "title": "Warm Bodies",
+      "recommendations": [
+         60304,
+         72710,
+         109491,
+         46529,
+         68728,
+         58595,
+         58151,
+         133805,
+         132232,
+         72331,
+         50620,
+         22970,
+         81005,
+         109431,
+         123553,
+         62213,
+         50619,
+         59962,
+         37735,
+         114150
+      ],
+      "backdrop_path": "/eYz9092lI2IFS6Ho0Xs296A5YJK.jpg",
+      "revenue": 116980662,
+      "reviews": [
+         {
+            "author": "Andres Gomez",
+            "id": "544e12160e0a2608cd004227",
+            "content": "If you like zombie's gener you will love this movie ... or not!\r\n\r\nIt cheats in a cheap way through creating 2 level of zombies: the good ones and the bad ones. Also, it breaks tons of zombies stereotypes to be able to build the story, that's why you may end hating it if you are a \"purist\".\r\n\r\nAs this is not my case, I really enjoyed this movie. Fun script, good casting and great performances by Hoult and Palmer. Also, always a pleasure to watch a movie with John Malkovich.",
+            "url": "https://www.themoviedb.org/review/544e12160e0a2608cd004227"
+         },
+         {
+            "author": "Per Gunnar Jonsson",
+            "id": "5a9b9d2b0e0a2605c602b82e",
+            "content": "This is a quite different zombie movie. I think it can best be described as a romantic zombie movie with a humorous touch and some action thrown in for good measure. It is not at all a bad movie. I do prefer the \u201cshot everything that moves and when it doesn\u2019t move anymore shot some more just to be sure\u201d type of zombie movies but I still quite enjoyed this one. The words \u201cromantic\u201d and \u201czombie\u201d is of course two words that you really would never expect to see in the same sentence. Surprisingly enough it does indeed work in this movie.\n\nI think my main enjoyment of this movie was the voice-over with R\u2019s thoughts though. At times it is incredibly funny. The actual story, that the zombies\u2019 magically starts to heal themselves is of course pretty nonsensical but you do not really watch zombie movies for their elaborate plot anyway. I have seen worse and this was not really supposed to be a horror-zombie movie anyway so I can live with that.\n\nThis is the first zombie-movie that I have watched where you actually see the story from the zombies perspective. Another thing that, surprisingly enough, worked quite well. The voice-overs helped a lot to make that happen.\n\nThe special effects are fairly low key for being a zombie movie but I would say that they are just about right for this movie. The \u201cbonies\u201d are the most monster-like ones in the movie and their make-up is quite cool. Unfortunately their movements are quite stiff and look decidedly computer generated. That is a shame and pretty much the only complaint I have concerning the actual implementation of this movie.\n\nUnless you are totally allergic to zombies I would recommend watching this movie. I would especially recommend it if you are not normally into zombie movies. You are likely to be surprised.",
+            "url": "https://www.themoviedb.org/review/5a9b9d2b0e0a2605c602b82e"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 13,
+               "character": "R",
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad65",
+               "name": "Nicholas Hoult",
+               "profile_path": "/27NbnWKzco1CCDHtR2AVVab8Dli.jpg",
+               "id": 3292,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Julie Grigio",
+               "gender": 1,
+               "credit_id": "52fe48649251416c9108ad5d",
+               "name": "Teresa Palmer",
+               "profile_path": "/tEtdhkeKak6eJIlZj3N0kJYqhnC.jpg",
+               "id": 20374,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Nora Greene",
+               "gender": 1,
+               "credit_id": "52fe48649251416c9108ad61",
+               "name": "Analeigh Tipton",
+               "profile_path": "/oFTEyLJykoAWtUOT9RPKco3F1FJ.jpg",
+               "id": 124644,
+               "order": 2
+            },
+            {
+               "cast_id": 16,
+               "character": "M / Marcus",
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad71",
+               "name": "Rob Corddry",
+               "profile_path": "/k2zJL0V1nEZuFT08xUdOd3ucfXz.jpg",
+               "id": 52997,
+               "order": 3
+            },
+            {
+               "cast_id": 15,
+               "character": "Perry Kelvin",
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad6d",
+               "name": "Dave Franco",
+               "profile_path": "/sWsW3mFSJzfbMUf43R0J8tY8BeW.jpg",
+               "id": 54697,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Colonel Grigio",
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad69",
+               "name": "John Malkovich",
+               "profile_path": "/tCtiWZbKKRgHhLxFCIPfveYAsdc.jpg",
+               "id": 6949,
+               "order": 5
+            },
+            {
+               "cast_id": 17,
+               "character": "Kevin",
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad75",
+               "name": "Cory Hardrict",
+               "profile_path": "/kyDECJG3Y8nBAIGrtDvfJA5Cwwr.jpg",
+               "id": 74302,
+               "order": 6
+            },
+            {
+               "cast_id": 29,
+               "character": "Perry's Dad",
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108adaf",
+               "name": "Vincent Leclerc",
+               "profile_path": "/dRi3BljTme2NbAsYvtvhhxX1jPK.jpg",
+               "id": 982065,
+               "order": 7
+            },
+            {
+               "cast_id": 28,
+               "character": "Soldier #1",
+               "gender": 0,
+               "credit_id": "52fe48649251416c9108adab",
+               "name": "Daniel Rindress-Kay",
+               "profile_path": "/yxbPLpJMeOUfkQis9MiTzSiwNOo.jpg",
+               "id": 1172760,
+               "order": 8
+            },
+            {
+               "cast_id": 35,
+               "character": "Soldier #2",
+               "gender": 2,
+               "credit_id": "57d0171ac3a3687e75004d51",
+               "name": "Chris Cavener",
+               "profile_path": "/9BcPr1pc2s8PvBOROaOoDNjT51O.jpg",
+               "id": 1676049,
+               "order": 9
+            },
+            {
+               "cast_id": 40,
+               "character": "Soldier #3",
+               "gender": 2,
+               "credit_id": "57d01b69c3a3687bd9004ca0",
+               "name": "Aaron Janke",
+               "profile_path": "/2c1YeVrdmqRULYXG81sRz0N7ca.jpg",
+               "id": 1676052,
+               "order": 10
+            },
+            {
+               "cast_id": 42,
+               "character": "Soldier #4",
+               "gender": 2,
+               "credit_id": "57d01e9492514134a0009ea6",
+               "name": "Serge Alain Cambronne",
+               "profile_path": "/9YF7DOBSP1NRMVes30N6kTSz361.jpg",
+               "id": 1676060,
+               "order": 11
+            },
+            {
+               "cast_id": 30,
+               "character": "Janitor",
+               "gender": 0,
+               "credit_id": "5310f5249251410fe600145e",
+               "name": "Robert Reynolds",
+               "profile_path": "/3qdwA5hiyHDK6pQLwKjrx4x0A4a.jpg",
+               "id": 101221,
+               "order": 12
+            },
+            {
+               "cast_id": 31,
+               "character": "TSA Zombie",
+               "gender": 0,
+               "credit_id": "5310f5d8925141104d0014d9",
+               "name": "John Topor",
+               "profile_path": "/tcg139Qavp4eCc5YhtpuAJQ3HQh.jpg",
+               "id": 1195616,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Athletic Woman",
+               "gender": 0,
+               "credit_id": "52fe48649251416c9108ad79",
+               "name": "Ayisha Issa",
+               "profile_path": "/lCrVPwyBgXDBvuwY7NTwZpG8FYu.jpg",
+               "id": 231517,
+               "order": 14
+            },
+            {
+               "cast_id": 32,
+               "character": "Laughing Girl",
+               "gender": 1,
+               "credit_id": "5310f6809251411013001446",
+               "name": "Debbie Wong",
+               "profile_path": "/jw0VljYmIB5Km1ZfMix3F7WC7kL.jpg",
+               "id": 164860,
+               "order": 15
+            },
+            {
+               "cast_id": 33,
+               "character": "Stadium Soldier",
+               "gender": 2,
+               "credit_id": "5310f7a8925141102a0013da",
+               "name": "Christian Paul",
+               "profile_path": "/7jkudDEHvuVxnewyzFqFp7z5QqD.jpg",
+               "id": 1141258,
+               "order": 16
+            },
+            {
+               "cast_id": 20,
+               "character": "Hunting Zombie",
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad7d",
+               "name": "Patrick Sabongui",
+               "profile_path": "/aEJ7963PHcFLBrXE0qJdS5GfU2L.jpg",
+               "id": 102742,
+               "order": 17
+            },
+            {
+               "cast_id": 36,
+               "character": "Boy at Airport",
+               "gender": 2,
+               "credit_id": "57d018629251416e21002aa0",
+               "name": "Clifford Leduc-Vaillancourt",
+               "profile_path": "/aRZLTeV3ZqkOiyENMhTIfjNEcA6.jpg",
+               "id": 1359659,
+               "order": 18
+            },
+            {
+               "cast_id": 37,
+               "character": "Sunset Corpse",
+               "gender": 2,
+               "credit_id": "57d019b59251416c69002d18",
+               "name": "Bineyam Girma",
+               "profile_path": "/5WLTImYnKltRX0zN33tecQhOrdl.jpg",
+               "id": 1548738,
+               "order": 19
+            },
+            {
+               "cast_id": 38,
+               "character": "Airport Corpse",
+               "gender": 2,
+               "credit_id": "57d01a709251411d8b0051a2",
+               "name": "Chimwemwe Miller",
+               "profile_path": "/aGUvOmWRCA2iYslQKF4o1rNPCLH.jpg",
+               "id": 1676050,
+               "order": 20
+            },
+            {
+               "cast_id": 39,
+               "character": "Plague Corpse",
+               "gender": 2,
+               "credit_id": "57d01af5c3a36866e8002e38",
+               "name": "Raphael Grosz-Harvey",
+               "profile_path": "/cqSfsEs9UaNKjgo201GkcMJ5zhy.jpg",
+               "id": 1272480,
+               "order": 21
+            },
+            {
+               "cast_id": 47,
+               "character": "Baseball Corpse",
+               "gender": 2,
+               "credit_id": "57d02aa4c3a36816210003c5",
+               "name": "Brent Skagford",
+               "profile_path": "/nbxfbTZYzAXSFsqOxvZr6owKzYA.jpg",
+               "id": 522169,
+               "order": 22
+            },
+            {
+               "cast_id": 41,
+               "character": "Female Corpse on Tarmac",
+               "gender": 1,
+               "credit_id": "57d01c68c3a3686490002cbd",
+               "name": "Josée Laviolette",
+               "profile_path": "/w7TIKQ7jtfZ2uwFQlsa7trzV7QS.jpg",
+               "id": 1612617,
+               "order": 23
+            },
+            {
+               "cast_id": 43,
+               "character": "Berg",
+               "gender": 2,
+               "credit_id": "57d01f53c3a36866a400320b",
+               "name": "Jonathan Dubsky",
+               "profile_path": "/jMUIR0StAZTKuHALUgHyzKbhjlv.jpg",
+               "id": 119707,
+               "order": 24
+            },
+            {
+               "cast_id": 44,
+               "character": "Perry (11 years old)",
+               "gender": 2,
+               "credit_id": "57d0203e925141739d000038",
+               "name": "Alec Bourgeois",
+               "profile_path": "/ucGI7PjXUKAnzNwAQFXBC0q3sx3.jpg",
+               "id": 1676064,
+               "order": 25
+            },
+            {
+               "cast_id": 45,
+               "character": "Woman",
+               "gender": 1,
+               "credit_id": "57d0258c92514173a0000253",
+               "name": "Christine Rodriguez",
+               "profile_path": "/ckN4E4m5bYiYRp11VfbFzbtuFjb.jpg",
+               "id": 1548179,
+               "order": 26
+            },
+            {
+               "cast_id": 46,
+               "character": "Emily",
+               "gender": 1,
+               "credit_id": "57d027a992514173b20002d0",
+               "name": "Quinn O'Neill",
+               "profile_path": "/ck1t7QhBvK06x5RPucBG6XWzvYk.jpg",
+               "id": 1504467,
+               "order": 27
+            },
+            {
+               "cast_id": 48,
+               "character": "Zombie Patient",
+               "gender": 0,
+               "credit_id": "57d02d53925141739d0004e2",
+               "name": "Arthur Holden",
+               "profile_path": "/y0aCeMJKAzVJO3pydEiVCV2Ca4k.jpg",
+               "id": 115596,
+               "order": 28
+            },
+            {
+               "cast_id": 49,
+               "character": "Corpse Attacking Julie (uncredited)",
+               "gender": 2,
+               "credit_id": "57d02d7492514173ac000527",
+               "name": "Abdul Ayoola",
+               "profile_path": "/vMBJ2j1Rt88a9Fdfukl32pVt1aV.jpg",
+               "id": 229561,
+               "order": 29
+            },
+            {
+               "cast_id": 50,
+               "character": "Dr. Burke (uncredited)",
+               "gender": 0,
+               "credit_id": "57d02d8cc3a368161d0004cc",
+               "name": "Dawn Ford",
+               "profile_path": "/1aKWK9ksGeSUEwWCg3FnvNFEYBq.jpg",
+               "id": 1091868,
+               "order": 30
+            },
+            {
+               "cast_id": 51,
+               "character": "Human Survivor (uncredited)",
+               "gender": 1,
+               "credit_id": "57d02da692514173ac000541",
+               "name": "Angie Medrano",
+               "profile_path": "/zBMA23KMRiK2n8kmDDgKYkc46Gs.jpg",
+               "id": 1147107,
+               "order": 31
+            },
+            {
+               "cast_id": 52,
+               "character": "Hunting Zombie (uncredited)",
+               "gender": 1,
+               "credit_id": "57d02dedc3a36816320004e3",
+               "name": "Rochelle Okoye",
+               "profile_path": "/f94kvwnNx4cAbYkEnSsxBLRJMb1.jpg",
+               "id": 1547887,
+               "order": 32
+            },
+            {
+               "cast_id": 55,
+               "character": "Hunting Zombie (uncredited)",
+               "gender": 2,
+               "credit_id": "57d031bc92514173ac0006ea",
+               "name": "Patrick Sabongui",
+               "profile_path": "/aEJ7963PHcFLBrXE0qJdS5GfU2L.jpg",
+               "id": 102742,
+               "order": 33
+            },
+            {
+               "cast_id": 53,
+               "character": "Zombie (uncredited)",
+               "gender": 1,
+               "credit_id": "57d02fcec3a36816240005e4",
+               "name": "Sylvia Stewart",
+               "profile_path": "/xnzGB8Q9Ebec8LgSq2DyQnMwJh4.jpg",
+               "id": 141746,
+               "order": 34
+            },
+            {
+               "cast_id": 54,
+               "character": "Zombie (uncredited)",
+               "gender": 1,
+               "credit_id": "57d02ff092514173ac000623",
+               "name": "Diana Noris",
+               "profile_path": "/i4dGoSuJgQlzrBhAELHIaEedYk1.jpg",
+               "id": 1676101,
+               "order": 35
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad23",
+               "name": "Jonathan Levine",
+               "profile_path": "/gfJOKZPSbpzls7FV0Ogv4IpEeXh.jpg",
+               "id": 56661,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad29",
+               "name": "Jonathan Levine",
+               "profile_path": "/gfJOKZPSbpzls7FV0Ogv4IpEeXh.jpg",
+               "id": 56661,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48649251416c9108ad2f",
+               "name": "Isaac Marion",
+               "profile_path": null,
+               "id": 928444,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe48649251416c9108ad3b",
+               "name": "Joanna Colbert",
+               "profile_path": null,
+               "id": 45841,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad41",
+               "name": "Rich Mento",
+               "profile_path": null,
+               "id": 224387,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48649251416c9108ad47",
+               "name": "Suzanne Cloutier",
+               "profile_path": "/tg99irty3EnFllM5eKB8r9nmJF7.jpg",
+               "id": 130223,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48649251416c9108ad4d",
+               "name": "Laurie Webb",
+               "profile_path": null,
+               "id": 189331,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48649251416c9108ad53",
+               "name": "Bruna Papanadrea",
+               "profile_path": null,
+               "id": 928447,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48649251416c9108ad59",
+               "name": "Cori Shepherd Stern",
+               "profile_path": null,
+               "id": 928449,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48649251416c9108ad83",
+               "name": "Nicolas Stern",
+               "profile_path": null,
+               "id": 959114,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad89",
+               "name": "Todd Lieberman",
+               "profile_path": null,
+               "id": 62758,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad8f",
+               "name": "David Hoberman",
+               "profile_path": "/l63YjASljQOAB8ys4zR3DWUXltP.jpg",
+               "id": 31710,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ad95",
+               "name": "Marco Beltrami",
+               "profile_path": "/tTBQHKWVieP5ARRfJRMkbnLTW6C.jpg",
+               "id": 7229,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48649251416c9108ad9b",
+               "name": "Buck Sanders",
+               "profile_path": null,
+               "id": 1014937,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ada1",
+               "name": "Martin Whist",
+               "profile_path": null,
+               "id": 51987,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48649251416c9108ada7",
+               "name": "George L. Little",
+               "profile_path": null,
+               "id": 12040,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57667af1c3a3687f530001dc",
+               "name": "Javier Aguirresarobe",
+               "profile_path": "/5KUDE1mJ9X6o8Gu9PAPHXDTuDIt.jpg",
+               "id": 403,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57d03244c3a3681629000710",
+               "name": "David McKeown",
+               "profile_path": null,
+               "id": 1611794,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58700e60c3a368265f0023a2",
+               "name": "Lorette Leblanc",
+               "profile_path": null,
+               "id": 1519867,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 14.308625,
+      "production_countries": [{
+         "iso_3166_1": "CA",
+         "name": "Canada"
+      }],
+      "id": 82654,
+      "vote_count": 3156,
+      "budget": 35000000,
+      "overview": "After a zombie becomes involved with the girlfriend of one of his victims, their romance sets in motion a sequence of events that might transform the entire lifeless world.",
+      "similar": [
+         6479,
+         72190,
+         19908,
+         287424,
+         157350,
+         198663,
+         294254,
+         336843,
+         13648,
+         7512,
+         605,
+         604,
+         262504,
+         131631,
+         76341,
+         281,
+         101299,
+         335984,
+         333339,
+         782
+      ],
+      "original_title": "Warm Bodies",
+      "runtime": 97,
+      "poster_path": "/jqJEkZKTqoAlmaexoWZIkjHdtA7.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+         "name": "Summit Entertainment",
+         "id": 491,
+         "origin_country": "US"
+      }],
+      "release_date": "2013-01-31",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "Cold body. Warm heart.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jonathan Levine"],
+      "runtime": 98,
+      "synopsis": "The movie starts with R explaining that he is a zombie but doesn't remember who he was or how he became a zombie or how he ended up at the airport. He wanders around and shows you his life. Julie is with a group of youths, about to go outside the safe walls of the city to retrieve some much needed pharmaceuticals. She tries to grab her boyfriend, Perry's hand but he pulls away. They watch a video about how the zombies are dead, they do not feel, they do not bleed, they are not human anymore and proceed to the outside world. R tells his best friend, M, that he is hungry so they embark on a journey towards the city. Julie and her friends are in the drug store when R and his friends burst in to eat them. R is immediately taken by Julie. She sees him but decides not to shoot and aims towards another zombie. Perry shoots R so R attacks and kills him. He reveals that if he eats the body, Perry will come back as a zombie, but if he eats the brain, he will gain Perry's memories and it tastes a lot better. So he eats the brain and we are sent into a land of Perry's memories as a child and his first love, Julie. After R has had enough, he stashes some of Perrys brain in his jacket and goes to protect Julie. He can see that she will be overrun soon. She throws a knife into his chest but he pulls if out and continues towards her. He rubs blood over her face and tells her she will be safe and leads her to follow him. The other zombies don't notice her because they think she is one of them. Julie cries while she follows R back through the airport and back to his plane. He has it filled with all sorts of random items that he liked and records of various artists. He tries to tell her she will be safe. She holds a knife and fears for the worst. He covers her with a blanket and puts on a song she might like. In the morning she complains about being hungry. R goes out to find her some real food. She sees the advantage and tries to run. Quickly, she sees many other zombies and they are smelling the air noticing that an alive human is nearby. R grabs her and tells her to act dead. He leads her back to the airplane and explains that she needs to stay a few days or else the other zombies will notice. He says they will forget in a few days. The two gather some food for Julie and go for a joy ride. They try to play games and listen to music. Julie is increasingly bewildered by R. His heart has been beating now for a couple of days and he continues to eat Perry's brian to see his memories. He is disturbed by the memory of Perry dying at the hands of R. When he wakes, he sees that Julie has fled again. He finds her trying to fight off a group of corpses including his best friend. He beats them off. M tells him that living are for eating R disagrees and they run off together. They are cut off by a group of bonies, which care not for life or love. M saves them and tells them to jump on and he will take them to safety. They agree and he leads them back to the car they had driven before. Other zombies are there. Julie grabs R's hand and the zombies are taken aback by this occurrence of feeling. They let them pass and hold off the bonies from attacking. It starts to rain and eventually Julie can't stand the cold any longer. They pull into a neighborhood and find her some food and a Polaroid camera to play with. Julie asks R to sleep on the floor next to her and undresses to dry her clothes. R finally falls asleep and has a dream about being with the humans and hoping for a future. He wakes to find that Julie has left him there and taken the car. He begins to walk back towards the airport and vows to never think or feel again. It starts to rain and R feels cold for the first time since becoming a zombie. Julie runs out of gas and has to walk the rest of the way, although she looks back for R. She is stopped at the city gates but proceeds inside after being tested and hugging her father. R, on his way back to the airport, runs into M and a group of zombies. M tells him that he has had dreams and started to feel again. But that they cannot return home because the bonies want to destroy them all now. R leads them to the secret exit from the city that he learned about during one of Perry's memories and tells them to wait. He goes forward alone. Julie is in her bedroom telling Nora about her zombie friend. She admits to missing him. Soon she is out on the balcony and R yells out her name much like Romeo and Juliet. She sees him and Nora comes running out to find out what all the commotion is about. They let him in and lead him upstairs. They decide to tell Julie's Dad, Grigio, about R and how he was changing. The girls give R a make over so that he could blend in with the crowd. They go to a secret meeting of Julie's father. The town has noticed large groups of corpses and bonies heading their direction. Julie tries to explain that the zombies are changing and are on their side. Grigio refuses to listen. R jumps out and tries to tell him. He is about to shoot R when Nora holds a gun to his head so Julie and R can escape. Julie and R are running when they come across some bonies. R fights them off. Meanwhile, the humans are running towards the fight when they see that the zombies are already attacking the bonies. M says hello to the humans so they decide to only attack the bonies. R protects Julie from a long fall and almost dies himself. The two kiss and realize how amazing they are together and kiss again. Grigio shoots R in the chest and proclaims that the next shot will be through his head. Julie stands in front of him to defend him. She points out that he is bleeding and corpses don't bleed. Grigio has been getting reports all day about zombies helping in the fight and refraining from attacking the living. He decides to take a chance on R. The humans and zombies kill all the bonies and eventually the city walls come down. The zombies slowly learn how to be alive again and the humans learn how to tolerate and teach them. M realizes that his name was Marcus. R still can't remember his name but prefers R anyway. He and Julie hold hands while they watch the city walls fall.",
+      "writers": [
+         "Jonathan Levine",
+         "Isaac Marion"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1588173/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ4MjY2MjMzOV5BMl5BanBnXkFtZTcwMDUxNzIwOQ@@._V1._CR43,43.16667175292969,1298,1960.9999542236328_SX214_AL_.jpg",
+      "actors": ["Stars: Nicholas Hoult, Teresa Palmer, John Malkovich | See full cast and crew »"],
+      "reviews": [
+         "I was looking forward to this since the moment I saw the trailer and so got myself out of bed for the 10:05 am showing on opening day. It looked funny, like 'Shaun of the Dead,' and seemed to have its own interesting take, which is rare in the zombie genre. Usually the plots of zombie films are about as aimless as the zombies. The best way to describe this film is a zombie romantic comedy. It does have some action and some tense moments later on but the initial set up is the zombie, R's, emotional growth and how meeting this girl sparks something in him to evolve. This is nothing like 'Twilight,' and those that are saying that have either not seen it or are too absorbed in the fact that the two leads are good looking, which is the only commonality this film has with 'Twilight.'But, let's face it, the majority of leads in films are attractive, so, that's not much to base a similarity on. 'Shaun of the Dead' was just a comedy, where this is a comedy with heart and depth. It's a satire, but they don't force feed the point of the film, instead they make it very subtle, which is nice. It wasn't a laugh-out-loud comedy, but I don't know that I necessarily thought it would be when I saw the trailer. It definitely had more emotional depth than I thought it would which gave me a much fonder attachment to the film than if it had simply been made for laughs. The two leads had great chemistry and were believable and well cast. The directing, writing, and pretty much everything in the film was well done. I have no complaints. It delivered what it said it would and exceeded my expectations which is rare these days in entertainment.",
+         "This movie was great! I brought my friends and they thought it was going to be lame but they ended up loving it just as much as I did! Go see this movie, its adorable! I loved how its dark and gory in a cute way. This movie is funny, suspenseful, a little bit of a horror and romantic; its the perfect date movie! I don't get scared easily but this movie made me jump a few times... The whole movie i was entertained! I was very impressed with the way the make-up and hair team were able to make the zombies so realistic! R was very easy to relate with and this movie has a little bit of everything for everyone. I suggest going even if your a bit skeptic about it. Go out and see this movie!",
+         "Going into Jonathan Levine's (50/50, The Wackness) new film Warm Bodies, I was intrigued. I didn't know quite what I was going to get as the concept was fresh and unique. Zombies have taken over, yet one zombie, named R, played wonderfully by Nicholas Hoult has a mind of his own and is not your typical zombie. He has a conscious mind at work, and soon he falls for a pretty girl named Julie (Teresa Palmer) that he encounters. This is where the movie puts a twist on the whole zombie genre. He soon becomes enamored by her and becomes more human, as she has stimulated his heart. Can a zombie find solace with another person and...love? That is the main theme of this movie, and it's a damn good one. Their chemistry will draw you in and actually make you buy it, no matter how ridiculous it is. R's friend, M, played hilariously by Rob Corddry steals the show with funny scene after funny scene. With Warm Bodies you get a mix of comedy, romance, and zombie-horror. It's a fresh spin on all three, and it was truly a fun time at the theater. It's well paced and has a great feel to it from the get-go, mostly in part to wonderful narration from Holt, and smooth direction from Levine. It's only February but I already found one of my early favorites of 2013.",
+         "'Warm Bodies' is a fantastic film about a zombie named 'R' who falls in love with a human and tries his best to protect her from the rest of the zombies. The plot is very strange but if you embrace its weirdness and eccentricity then it is brilliant. A lot of people have described it as being like Twilight except with zombies but it is far better � there's depth to the characters, a lot of really funny and embarrassing scenes but there is also a lot of really frightening parts which I did not expect. I am glad there were some scary moments, with zombies you expect a little scare here and there regardless of the genre but, I am surprised at the films' 12a rating. The plot is well paced and you're not bored or waiting for something interesting to happen � the film entertains you from start to finish. Nicholas Hoult is brilliant in this; it must have been difficult to do this role � especially without blinking most of the time. It's good to see that he is making it in large popular films now because he fully deserves it. Theresa Palmer is also really good; it's nice to see a female lead have some humorous scenes for a change compared to the mind- numbingly dull Bella in Twilight. Dave Franco was also really good here but he was not in the film for very long which is a shame because he can be really funny. Overall, this is a really funny film with a decent amount of horror included. If you are considering taking children between 8 and12 you should know that there are some pretty frightening scenes. There's a fairly small amount of gore but the 'boneys' can be quite scary � particularly towards the end. However, the film is really nice, funny and even heart-warming sometimes.",
+         "Finally the great zombie romance? Well, maybe not, but it's the closest I've seen. You get to see zombie life from the perspective of a zombie, who starts to get feelings for a girl who's alive. Through a set of circumstances, he \"rescues\" her and they take refuge in a grounded plane at an airport overrun by the undead. There were several original elements that I had never seen in a zombie movie. First and foremost is the narration by our young zombie giving us insights into his condition. He can barely utter words, but weirdly, in his head, he seems smart and talks normally. I liked that part and I was kinda sorry when he got somewhat better at talking, therefore evacuating most of his thoughts. Second original element was the romance. I wasn't impressed by it, but at least it was slow-building, somewhat charming, avoiding most of the disgusting stuff, and you kind of rooted for them by the end. Third original element would be the zombies not stuck as they are. They can \"evolve\" (our hero) or \"devolve\" (bonies, zombies who shed their outer skins, looking almost like black ghouls or skeletons). Speaking of bonies, I thought they looked amazing, creepy even, but their movements were stiff and made them look computer-generated. Also, who knew that eating brains for zombies could be a way for them to live vicariously the past life of the person they ate, through visions. It's not even the only way they can \"change\", although the other way, though nice, seemed a bit far-fetched and too quick. Fourth original element was that there was sometimes a humanistic, hopeful even, vibe to the proceedings despite the dramatic elements. There's something at the end involving the zombies and the bonies that I had never seen before. So the movie is more original than one might think, however the execution wasn't flawless. Sure, overall, I found the movie had charms, but for me the laughs were few and far between, like most romantic comedies I suppose. Because it's supposed to be one of those, but with obviously more somber elements. The drama could have used more \"teeth\" to make this film truly memorable and moving though. The movie even made me think of Romeo & Juliet as well as Edward Scissorhands, not bad stories to be associated with. The creators never really went into total parody or silly mode, which I think was a smart choice. What really took me out of the picture at several occasions though is that they didn't follow their own internal rules. We're told by our hero that zombies can only shamble slowly, yet not long after, we see zombies running. It's like they can have bursts of speed at will. Also, bonies, for some reason, move fast despite being in a more advanced stage of zombification. Also, I know it's a short movie, but zombies \"evolve\" too quickly, especially the best friend. Acting was fairly good, not exceptional, but I particularly liked the main character. Why? Because he's a nice, smart freak, quite lonely and having trouble to express his feelings in words and actions, but able to be slowly \"healed\" by kindness and love. It made him interesting and relatable to me and probably others. Yes, the movie could even be seen as an allegory on solitude, not fitting in, and how hard it is to truly connect to others in modern society. Zombie makeup was rather minimal, and they managed to make the protagonist kind of attractive, in a goth-like way, mostly because of his great hair and pale blue eyes. I thought there were wasted opportunities with the concept, but it could have been done much, much worse. So, I liked the movie, I would even recommend it to most people not allergic to zombies to see a different take on them. It's very minimally bloody and the most \"gory\" part is when they show a zombie shedding his skin to become a bonie, and even that's not too disgusting. I think it would make a good date movie. Warm Bodies didn't leave me cold and the more I dwell on it, the warmer my feelings for it get. Rating: 7 out of 10 (Good)",
+         "I went to see \"Warm Bodies\" on opening night, something I rarely do. I have to say, I wasn't disappointed in this strangely romantic comedy. Don't be turned off by the premise of a zombie romantic comedy - it manages to parody human relationships on many levels the way \"Shaun of the Dead\" parodied zombie movies. Nicholas Holt does a wonderful job parodying the awkward teenager filled with angst and a longing to connect, yet his inner dialog makes for much of the movie's comedy. He manages to have a bromance and a romance and make you laugh at the same time. Rob Corddry does a wonderful job holding up his end of the bromance if you will, and I didn't even catch his part in aiding the Shakespearian nod. Yes, this movie manages to pull a pun on Shakespeare while also light-heartedly setting out themes for what defines a person as human. Teresa Palmer does a wonderful job rounding out the chick flick humor with Analeigh Tipton. I thoroughly enjoyed the film and will be going to see it again. I was too busy laughing to see the plot holes. I also have purposefully avoided reading the book, so I wouldn't have any preconceived notions of the movie. I get that the book was much darker than the film, which would set a viewer up for disappointment in a romantic comedy.",
+         "When I was going to see this movie, i was thinking that it gonna be another teen movie about a girl that's discover the natural identity of her boyfriend, but it wasn't like this, it was so much better, with alternative focus and interesting events this movie comes with a brand new type of history, a very well produced time line that will keep you with your eyes opened until the last second, it's simply awesome, great for family, adaptable for all ages, and will touch even the youngest and the oldest person that goes to see it, it's not a reflexive movie, that will be in your head for a long time, but it's a huge font of entertainment, i recommend it for all the people in the world. Of course, this movie has a lot of existing elements, that make it a little boring to see, but it's a great film for a Saturday night, to see with your friends. Thanks all of you, and sorry about my English, i'm from other country.",
+         "And they said you couldn't have a zombie romance story. Take that vampires! The zombie R was surprisingly strong, but sensitive, sweet, loving, and protective. He wanted to talk to the pretty girl but had trouble finding the words, at least vocalizing them. When it comes to his thoughts it doesn't take long to realize he does have a brain and his warmth and good natured attitude was endearing. Julie was not some wussy victim or brainless babe. It made me happy to see she was tough and could take care of herself. She had a rebellious feisty streak that made her entertaining to watch and a softer affectionate side that showed itself with R. I can honestly say I liked both characters and wanted to see them succeed. I particularly enjoyed the scenes where R eats the brains and we saw more of Julie, her old boyfriend, her father, and how they all fit together. It was heart felt and well-done. The relationships and the complexity of them was less evident in the movie than in the book but I could still feel it. If you liked the movie I highly suggest reading the book, btw. Warm Bodies was one of the better zombie movies I have ever seen - I was surprised. You should see it, and provided you aren't dead inside you'll probably enjoy it!",
+         "Here's something you don't see every day: A romantic comedy involving zombies. Thus, \"Warm Bodies\", a fresh, fast-paced, sensational and truly original delight that is sure to knock your socks off from beginning to end. Start with the premise: After an plague has caused people to turn into zombies, the real humans including General Grigio (John Malkovich) separate themselves from the brain-eating zombies by building up a wall in order to keep them away. Along the way, we get to meet one of those zombies. Meet R (the charming British heartthrob Nicholas Hoult). He doesn't quite like this life, knowing that he has to eat brains in order to survive and to live off the memories of the humans he's killed. He's looking for someone to connect to, which is really explained through his facial expressions and inner monologues. Then it's love at first bite, when he's finally connecting to Julie (Australian beauty Teresa Palmer), daughter of General Grigio. When he sees her after she shoots most of his friends, he decides to protect her and to \"keep her safe\". Yes, this zombie is in love. Protecting her in his abandoned airplane filled with vinyl records, a record player, and other resourceful things, R finally gets to realize that something was missing in him all along, leaving his heart beating to realize that he loves her. That's when R, his friend M (a wonderful Rob Corddry) and the other zombies are starting to change. That's all good, until the CG skeletal creatures known as Bonies will do anything to prevent that from happening, which leads off into the film's fantastical climax. \"Warm Bodies\", directed by Jonathan Levine (of the delightful comedy-drama \"50/50\" and the incredibly wicked \"The Wackness\"), who also adapted the film from Isaac Marion's bestselling book for young adults, combines a mixture of 5 different genres (comedy, horror, romance, drama, even a little bit of sci-fi) that makes the film more smarter and even more better than \"The Twilight Saga\". (Take that, Jacob Black.) What also makes it work is the inspired casting of Nicholas Hoult from \"About a Boy\", \"X-men: First Class\" and the upcoming \"Jack the Giant Slayer\". As R, he literally dives deep into the emotions as well as having terrific comic timing through his expressions and his inner monologues by using a spot-on American accent. He also develops great chemistry with Teresa Palmer, known as the butt-kicking alien Six in \"I Am Number Four\", who, as Julie, has a tough and fearless personality as well as a emotional side to her. The supporting cast is also incredible, including Analeigh Tipton, who is hilarious as Julie's friend, Nora, Dave Franco (James's little brother from last year's \"21 Jump Street\") who gets a brief amount of screen time, but really sticks it out as Julie's ex-boyfriend, Perry, who (in order not to spoil this) gets called for a dinner date that includes brains on the menu and the great John Malkovich excels as a man who believes that the zombies are nothing more than just flesh-eating corpses looking forward to get shot in the head, but doesn't believe that his only daughter is in love with one. I know what you're thinking, this is just another zombie movie. But \"Warm Bodies\" is certainly different than that. It revives the zombie genre by bringing something original to the screen. For those who love the TV series \"The Walking Dead\" and the other zombie comedies \"Zombieland\" and \"Shaun of the Dead\", not to mention George A. Romero \"...of the Dead\" series, you actually will get a taste of what the zombie world is like through the eyes of one. And maybe like R's, your heart will warm up too. This is the best surprise so far this year. Note: \"Warm Bodies\" is pretty tame, but pushing the envelope for a PG-13 film involving zombies who eats brains and Bonies who consumes hearts. Those are hardly seen, but there are people who shoot zombies in the head with guns. That works in order to keep it very organic.",
+         "\"Warm Bodies\" is a comedic, romantic, action-filled zombie flick. Being a zombie movie, people do get chased, attacked, eaten by zombies but since it is PG-13, it's not too graphic. Fun surprise: zombies aren't the only creatures stalking humans in this movie. This movie opens with a wonderfully fun and clever introduction to the zombie apocalypse as well as the main zombie character named R. Nicholas Hoult's R is funny, loyal, curious, likable, protective, charming. Definitely not a typical zombie. There are many scenes where our zombie friend goes about his daily life, accompanied by hilarious and clever voice overs. It's interesting how he questions everything, thinks constantly, longs to connect. This opportunity arises when he meets Julie, sparking a sort-of Romeo and Juliet type of relationship. Julie is a resistance fighter whose dad (John Malcovich) leads the humans. She is strong and brave yet vulnerable and sweet. The chemistry between R and Julie is undeniable. I can honestly say that I cared what happened to them. All the actors did a fantastic job. John Malkovich is great as always. Dave Franco's character was quite tragic. Analeigh Tipton is wonderful as Jule's best friend, providing some funny lines and support, though it would have been nice to have more of her. A shout-out to Rob Corddry is required as he has some of the best lines and is just fantastic as a fellow zombie. (Definitely would be on my crew during the zombie apocalypse) I absolutely recommend \"Warm Bodies.\" It's fun, fast-paced, clever, looks great, has interesting characters, action, some scares, romance. Maybe see with a date or by yourself or a group of friends, up to you."
+      ],
+      "genres": [
+         "Comedy",
+         "Horror",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Summit Entertainment",
+         "Make Movies",
+         "Mandeville Films"
+      ],
+      "summaries": [
+         "With much of the world's population now an undead horde, R is a young and oddly introspective zombie. While fighting with and feeding on a human scavenger party, R meets Julie and feels an urge to protect her. What happens next is the beginning of a strangely warm relationship that allows R to begin regaining his humanity. As this change spreads through the local undead population like a virus, Julie and R eventually have to face a larger issue when the very nature of their friendship is challenged. Caught between the paranoid human forces and the ferocious \"Bonies\", zombies who are a mutual threat, R and Julie must find a way to bridge the differences of each side to fight for a better world no one thought possible.",
+         "In a post-apocalyptic USA, the survivors live in a city surrounded by walls that separate them from the living dead. Their leader Grigio sends a group of teenagers, including his daughter Julie, her boyfriend Perry and her friend Nora, to the outside to collect food and supplies for the population. However, they are surprised by a group of zombies. Among them, R, who is a young zombie without recollections but very introspective. R eats Perry's brain and revives his memories and sensations with Julie, and he falls in love with her. R saves Julie from the other zombies and hides her in the plane where he lives. Along the days, they develop a weird relationship and become friends. When a group of zombies led by R's friend M finds Julie, R protects her. Soon the zombies including R change their emotions and are capable to dream. But the fearful Bonies are seeking out Julie and R...",
+         "After a highly unusual zombie saves a still-living girl from an attack, the two form a relationship that sets in motion events that might transform the entire lifeless world."
+      ],
+      "budget": 35000000
+   },
+   "movielensId": 99007,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2013-01-31",
+      "dvdReleaseDate": null,
+      "directors": ["Jonathan Levine"],
+      "runtime": 97,
+      "movieId": 99007,
+      "title": "Warm Bodies",
+      "mpaa": "PG-13",
+      "actors": [
+         "Nicholas Hoult",
+         "Teresa Palmer",
+         "Analeigh Tipton",
+         "Rob Corddry",
+         "Dave Franco",
+         "John Malkovich",
+         "Cory Hardrict",
+         "Vincent Leclerc",
+         "Daniel Rindress-Kay",
+         "Chris Cavener",
+         "Aaron Janke",
+         "Serge Alain Cambronne",
+         "Robert Reynolds",
+         "John Topor",
+         "Ayisha Issa",
+         "Debbie Wong",
+         "Christian Paul",
+         "Patrick Sabongui",
+         "Clifford Leduc-Vaillancourt",
+         "Bineyam Girma",
+         "Chimwemwe Miller",
+         "Raphael Grosz-Harvey",
+         "Brent Skagford",
+         "Josée Laviolette",
+         "Jonathan Dubsky",
+         "Alec Bourgeois",
+         "Christine Rodriguez",
+         "Quinn O'Neill",
+         "Arthur Holden",
+         "Abdul Ayoola",
+         "Dawn Ford",
+         "Angie Medrano",
+         "Rochelle Okoye",
+         "Patrick Sabongui",
+         "Sylvia Stewart",
+         "Diana Noris"
+      ],
+      "imdbMovieId": "1588173",
+      "originalTitle": "Warm Bodies",
+      "genres": [
+         "Horror",
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["x3ErWNBX9Rc"],
+      "plotSummary": "After a zombie becomes involved with the girlfriend of one of his victims, their romance sets in motion a sequence of events that might transform the entire lifeless world.",
+      "tmdbMovieId": 82654,
+      "avgRating": 3.3432,
+      "releaseYear": "2013",
+      "numRatings": 1993,
+      "posterPath": "/jqJEkZKTqoAlmaexoWZIkjHdtA7.jpg"
+   }
+}

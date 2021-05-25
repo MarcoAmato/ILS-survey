@@ -1,0 +1,2542 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "dc comics",
+            "id": 849
+         },
+         {
+            "name": "crime fighter",
+            "id": 853
+         },
+         {
+            "name": "secret identity",
+            "id": 1308
+         },
+         {
+            "name": "scarecrow",
+            "id": 3151
+         },
+         {
+            "name": "sadism",
+            "id": 4426
+         },
+         {
+            "name": "chaos",
+            "id": 4630
+         },
+         {
+            "name": "gotham city",
+            "id": 6969
+         },
+         {
+            "name": "vigilante",
+            "id": 7002
+         },
+         {
+            "name": "joker",
+            "id": 9537
+         },
+         {
+            "name": "superhero",
+            "id": 9715
+         },
+         {
+            "name": "based on comic",
+            "id": 9717
+         },
+         {
+            "name": "tragic hero",
+            "id": 10044
+         },
+         {
+            "name": "organized crime",
+            "id": 10291
+         },
+         {
+            "name": "criminal mastermind",
+            "id": 18023
+         },
+         {
+            "name": "district attorney",
+            "id": 33518
+         },
+         {
+            "name": "super power",
+            "id": 33637
+         },
+         {
+            "name": "imax",
+            "id": 156395
+         },
+         {
+            "name": "super villain",
+            "id": 163074
+         }
+      ],
+      "imdb_id": "tt0468569",
+      "video": false,
+      "title": "The Dark Knight",
+      "recommendations": [
+         272,
+         49026,
+         1726,
+         122,
+         120,
+         121,
+         603,
+         10138,
+         1891,
+         27205,
+         10528,
+         49538,
+         11,
+         280,
+         557,
+         1771,
+         1930,
+         562,
+         13475,
+         558
+      ],
+      "backdrop_path": "/hqkIcbrOHL86UncnHIsHVcVmzue.jpg",
+      "revenue": 1004558444,
+      "reviews": [
+         {
+            "author": "tricksy",
+            "id": "557693fac3a368569a003fab",
+            "content": "Excellent movie. Best of the trilogy. Lovely music. Nolan is a genius. So is Heath Ledger.",
+            "url": "https://www.themoviedb.org/review/557693fac3a368569a003fab"
+         },
+         {
+            "author": "talisencrw",
+            "id": "574639f9c3a36806b00002c1",
+            "content": "This has no competition. It is the very finest comic-book character movie ever made. Knowing the Burton, Donner and Nolan filmic adaptations of Batman and Superman exist helps me to sleep at night. They are Exhibit A of 'How to Make a Comic-Book Movie'. Nothing else has ever come even remotely close. These seven films (I include 'Superman II' because it was mostly Donner's work)--and Nolan's trilogy especially--are what I imagine a great director like Kubrick, Hitchcock or Kurosawa would have come up with, if they had ever been asked to make a Superman or Batman movie. They are the easiest for an audience to identify with because in these the scripts most approximate human emotions and the typical conundrums of the human experience--in short, are the closest, in a good way, they come to the complexities of the human condition. Peerless.",
+            "url": "https://www.themoviedb.org/review/574639f9c3a36806b00002c1"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 35,
+               "character": "Bruce Wayne / Batman",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d17",
+               "name": "Christian Bale",
+               "profile_path": "/2ocrTd8ChuUyJOzMuD4PsQw8eCB.jpg",
+               "id": 3894,
+               "order": 0
+            },
+            {
+               "cast_id": 17,
+               "character": "Alfred Pennyworth",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005cf9",
+               "name": "Michael Caine",
+               "profile_path": "/vvj0JMSFpOajXCE46Hy4dyqSP2U.jpg",
+               "id": 3895,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Joker",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005cbf",
+               "name": "Heath Ledger",
+               "profile_path": "/5Y9HnYYa9jF4NunY9lSgJGjSe8E.jpg",
+               "id": 1810,
+               "order": 2
+            },
+            {
+               "cast_id": 15,
+               "character": "Harvey Dent",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005cf1",
+               "name": "Aaron Eckhart",
+               "profile_path": "/aRSofX2rMpOhPanB9Wh7veYmFn4.jpg",
+               "id": 6383,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "James Gordon",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005cf5",
+               "name": "Gary Oldman",
+               "profile_path": "/tofLS5A6lBXNjeROGvgpfe2JwaT.jpg",
+               "id": 64,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Rachel Dawes",
+               "gender": 1,
+               "credit_id": "52fe421fc3a36847f8005cd5",
+               "name": "Maggie Gyllenhaal",
+               "profile_path": "/dgFGI8y7QUKkwI1o0pJaZtjR30m.jpg",
+               "id": 1579,
+               "order": 5
+            },
+            {
+               "cast_id": 34,
+               "character": "Lucius Fox",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d13",
+               "name": "Morgan Freeman",
+               "profile_path": "/oGJQhOpT8S1M56tvSsbEBePV5O1.jpg",
+               "id": 192,
+               "order": 6
+            },
+            {
+               "cast_id": 258,
+               "character": "Ramirez",
+               "gender": 1,
+               "credit_id": "55dc9083c3a3686572000193",
+               "name": "Monique Gabriela Curnen",
+               "profile_path": "/4t0DdcDaMkKhAMtKr02qQUgdKOh.jpg",
+               "id": 53651,
+               "order": 7
+            },
+            {
+               "cast_id": 228,
+               "character": "Wuertz",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d65",
+               "name": "Ron Dean",
+               "profile_path": "/a910oOgeYR0IxutHf3GeyDNw3qY.jpg",
+               "id": 57597,
+               "order": 8
+            },
+            {
+               "cast_id": 227,
+               "character": "Lau",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d61",
+               "name": "Chin Han",
+               "profile_path": "/xvMCVDvrQ2WlAB2LmkG6HAzlYag.jpg",
+               "id": 101015,
+               "order": 9
+            },
+            {
+               "cast_id": 225,
+               "character": "Mayor",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d59",
+               "name": "Nestor Carbonell",
+               "profile_path": "/yALf2koeUAc2UNoT5o0hQO6Akzn.jpg",
+               "id": 21316,
+               "order": 10
+            },
+            {
+               "cast_id": 229,
+               "character": "Maroni",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d69",
+               "name": "Eric Roberts",
+               "profile_path": "/45i6fsxBwH1UyA74tWQ6am0DntC.jpg",
+               "id": 21315,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Dr. Jonathan Crane / Scarecrow",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005cfd",
+               "name": "Cillian Murphy",
+               "profile_path": "/gybXt7gjFCeV67l3jgJtp6Pxm77.jpg",
+               "id": 2037,
+               "order": 12
+            },
+            {
+               "cast_id": 232,
+               "character": "Chechen",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d71",
+               "name": "Ritchie Coster",
+               "profile_path": "/kYXTkSP5fbgM1kBrYlqOwI8vrlJ.jpg",
+               "id": 13939,
+               "order": 13
+            },
+            {
+               "cast_id": 224,
+               "character": "Engel",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d55",
+               "name": "Anthony Michael Hall",
+               "profile_path": "/eQnkUzHVrO69bQ08W82Qa9idJxp.jpg",
+               "id": 1904,
+               "order": 14
+            },
+            {
+               "cast_id": 233,
+               "character": "Stephens",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d75",
+               "name": "Keith Szarabajka",
+               "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg",
+               "id": 87957,
+               "order": 15
+            },
+            {
+               "cast_id": 234,
+               "character": "Loeb",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d79",
+               "name": "Colin McFarlane",
+               "profile_path": "/iUQFSfX8H17g2xumh6G7WLvtXOJ.jpg",
+               "id": 128386,
+               "order": 16
+            },
+            {
+               "cast_id": 260,
+               "character": "Reese",
+               "gender": 2,
+               "credit_id": "560c2501c3a368681f005b6e",
+               "name": "Joshua Harto",
+               "profile_path": "/8jRaYHrZX6sZoUOOXZI1H6EQNQa.jpg",
+               "id": 34544,
+               "order": 17
+            },
+            {
+               "cast_id": 230,
+               "character": "Barbara Gordon",
+               "gender": 1,
+               "credit_id": "52fe4220c3a36847f8005d6d",
+               "name": "Melinda McGraw",
+               "profile_path": "/2teouIhRdYzFPL1dNZ2Anq2qi2e.jpg",
+               "id": 58692,
+               "order": 18
+            },
+            {
+               "cast_id": 261,
+               "character": "James Gordon",
+               "gender": 2,
+               "credit_id": "560c253492514171910064b3",
+               "name": "Nathan Gamble",
+               "profile_path": "/zn5ueTFn51JQMzyu5aoIpVMfb48.jpg",
+               "id": 18052,
+               "order": 19
+            },
+            {
+               "cast_id": 226,
+               "character": "Bank Manager",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d5d",
+               "name": "William Fichtner",
+               "profile_path": "/oIGjbztWvTqn4tnolW9rDCjpgxu.jpg",
+               "id": 886,
+               "order": 20
+            },
+            {
+               "cast_id": 262,
+               "character": "Rossi",
+               "gender": 2,
+               "credit_id": "560c2548925141501900012f",
+               "name": "Michael Vieau",
+               "profile_path": "/AkeYIbEkVjIwWLCbxYkxcOf3FvI.jpg",
+               "id": 1052875,
+               "order": 21
+            },
+            {
+               "cast_id": 237,
+               "character": "Dopey",
+               "gender": 0,
+               "credit_id": "53aa63de0e0a2646d80030b5",
+               "name": "Michael Stoyanov",
+               "profile_path": "/hywQ6MpqibcyS0h5HaOek39tEn1.jpg",
+               "id": 1196130,
+               "order": 22
+            },
+            {
+               "cast_id": 235,
+               "character": "Happy",
+               "gender": 0,
+               "credit_id": "53aa62f00e0a2646c2001238",
+               "name": "William Smillie",
+               "profile_path": "/peKlOZUvgfeA9lBVzYTnS1GBCIv.jpg",
+               "id": 1334139,
+               "order": 23
+            },
+            {
+               "cast_id": 241,
+               "character": "Gambol",
+               "gender": 2,
+               "credit_id": "555b4fc29251415878000a6b",
+               "name": "Michael Jai White",
+               "profile_path": "/zvt4lOlPVVq1MZXmJDWNmBQDnWl.jpg",
+               "id": 64856,
+               "order": 24
+            },
+            {
+               "cast_id": 236,
+               "character": "Grumpy",
+               "gender": 2,
+               "credit_id": "53aa63a00e0a2646d20011d3",
+               "name": "Danny Goldring",
+               "profile_path": "/nufdKuciAuJ1vzwXnVQcUDeAsoA.jpg",
+               "id": 16477,
+               "order": 25
+            },
+            {
+               "cast_id": 385,
+               "character": "Chuckles",
+               "gender": 0,
+               "credit_id": "5993cadf925141541200cf42",
+               "name": "Matthew O'Neill",
+               "profile_path": null,
+               "id": 1208967,
+               "order": 26
+            },
+            {
+               "cast_id": 263,
+               "character": "Drug Dealer",
+               "gender": 0,
+               "credit_id": "560c25b3c3a368681f005b86",
+               "name": "Olumiji Olawumi",
+               "profile_path": "/ziNrSsE5Iq5kzl8NLwwsaXtUHYz.jpg",
+               "id": 1056090,
+               "order": 27
+            },
+            {
+               "cast_id": 386,
+               "character": "Drug Buyer",
+               "gender": 0,
+               "credit_id": "5993cb54c3a3687eff00c2ae",
+               "name": "Greg Beam",
+               "profile_path": null,
+               "id": 1870607,
+               "order": 28
+            },
+            {
+               "cast_id": 387,
+               "character": "Junkie",
+               "gender": 0,
+               "credit_id": "5993cb67c3a3687eff00c2d3",
+               "name": "Erik Hellman",
+               "profile_path": null,
+               "id": 1870608,
+               "order": 29
+            },
+            {
+               "cast_id": 238,
+               "character": "Natascha",
+               "gender": 1,
+               "credit_id": "53aa646e0e0a2646d20011ec",
+               "name": "Beatrice Rosen",
+               "profile_path": "/897MnsgQUwXuN0OfMwY19BMFULl.jpg",
+               "id": 101014,
+               "order": 30
+            },
+            {
+               "cast_id": 264,
+               "character": "Crime Boss",
+               "gender": 2,
+               "credit_id": "560c2614c3a368681400691d",
+               "name": "Vincenzo Nicoli",
+               "profile_path": "/5X8yKJ6pjiMrJftrmlXPWnJU3BR.jpg",
+               "id": 24595,
+               "order": 31
+            },
+            {
+               "cast_id": 265,
+               "character": "LSI VP",
+               "gender": 0,
+               "credit_id": "560c262bc3a368680b006225",
+               "name": "Edison Chen",
+               "profile_path": "/MjNMCwLuknzhgKr2H99s6iaWpp.jpg",
+               "id": 20372,
+               "order": 32
+            },
+            {
+               "cast_id": 388,
+               "character": "Judge Surrillo",
+               "gender": 0,
+               "credit_id": "5993cbe7c3a3687f4600cbbb",
+               "name": "Nydia Rodriguez Terracina",
+               "profile_path": null,
+               "id": 1522073,
+               "order": 33
+            },
+            {
+               "cast_id": 389,
+               "character": "Brian",
+               "gender": 0,
+               "credit_id": "5993cbf8c3a3687eda00c910",
+               "name": "Andy Luther",
+               "profile_path": null,
+               "id": 1870609,
+               "order": 34
+            },
+            {
+               "cast_id": 390,
+               "character": "Man No. 1",
+               "gender": 0,
+               "credit_id": "5993cc18c3a3687f4600cc10",
+               "name": "James Farruggio",
+               "profile_path": null,
+               "id": 1870610,
+               "order": 35
+            },
+            {
+               "cast_id": 391,
+               "character": "Man No. 2",
+               "gender": 0,
+               "credit_id": "5993cc2cc3a3687f9e00dc32",
+               "name": "Tom McElroy",
+               "profile_path": null,
+               "id": 1840452,
+               "order": 36
+            },
+            {
+               "cast_id": 266,
+               "character": "Assistant DA",
+               "gender": 0,
+               "credit_id": "560c26efc3a3686814006948",
+               "name": "Will Zahrn",
+               "profile_path": "/5JDnuufySepQ1fig7Hga4xL4nio.jpg",
+               "id": 1226696,
+               "order": 37
+            },
+            {
+               "cast_id": 392,
+               "character": "Thug at Party",
+               "gender": 0,
+               "credit_id": "5993ccd7c3a3687eda00ca6e",
+               "name": "James Fierro",
+               "profile_path": null,
+               "id": 1870611,
+               "order": 38
+            },
+            {
+               "cast_id": 267,
+               "character": "Gentleman at Party",
+               "gender": 2,
+               "credit_id": "560c2766c3a3686810006628",
+               "name": "Patrick Leahy",
+               "profile_path": "/qEHnebEyr22RGiPyOETt3VxjKvl.jpg",
+               "id": 853194,
+               "order": 39
+            },
+            {
+               "cast_id": 393,
+               "character": "Male Guest",
+               "gender": 0,
+               "credit_id": "5993cd04c3a3687f8400ceba",
+               "name": "Sam Derence",
+               "profile_path": null,
+               "id": 1526574,
+               "order": 40
+            },
+            {
+               "cast_id": 394,
+               "character": "Female Guest",
+               "gender": 1,
+               "credit_id": "5993cd5ac3a3687ec400df11",
+               "name": "Jennifer Knox",
+               "profile_path": null,
+               "id": 1870612,
+               "order": 41
+            },
+            {
+               "cast_id": 268,
+               "character": "Judge Freel",
+               "gender": 0,
+               "credit_id": "560c27bdc3a368681f005bbb",
+               "name": "Patrick Clear",
+               "profile_path": "/5P7Qup6N7HCA9q1faM6j7PfIXuN.jpg",
+               "id": 1424043,
+               "order": 42
+            },
+            {
+               "cast_id": 269,
+               "character": "Maroni's Mistress",
+               "gender": 1,
+               "credit_id": "560c27d09251417e9e0045d4",
+               "name": "Sarah Jayne Dunn",
+               "profile_path": "/caMXHA2Alu50ugklGjt7g1EEllq.jpg",
+               "id": 1220201,
+               "order": 43
+            },
+            {
+               "cast_id": 270,
+               "character": "Gambol's Bodyguard (as Chucky Venn)",
+               "gender": 0,
+               "credit_id": "560c27e7c3a368680e005fec",
+               "name": "Charles Venn",
+               "profile_path": null,
+               "id": 147895,
+               "order": 44
+            },
+            {
+               "cast_id": 271,
+               "character": "Gambol's Bodyguard (as Winston Ellis)",
+               "gender": 0,
+               "credit_id": "560c284f925141719c006141",
+               "name": "Winston G. Ellis",
+               "profile_path": "/nNGcQ2rjJmLs7x27d21Ak8iwXDD.jpg",
+               "id": 1195758,
+               "order": 45
+            },
+            {
+               "cast_id": 223,
+               "character": "Joker's Thug",
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d51",
+               "name": "David Dastmalchian",
+               "profile_path": "/3cdrnfthY40ZsIhq1FBEwGJq9mE.jpg",
+               "id": 83854,
+               "order": 46
+            },
+            {
+               "cast_id": 395,
+               "character": "Reporter",
+               "gender": 0,
+               "credit_id": "5993ce0a925141542b00d59b",
+               "name": "Sophia Hinshelwood",
+               "profile_path": null,
+               "id": 1870613,
+               "order": 47
+            },
+            {
+               "cast_id": 272,
+               "character": "Heckler",
+               "gender": 2,
+               "credit_id": "560c28dbc3a3686814006985",
+               "name": "Keith Kupferer",
+               "profile_path": "/8iYC1mkinpTGXF39FiKRYLlkwtQ.jpg",
+               "id": 1313093,
+               "order": 48
+            },
+            {
+               "cast_id": 396,
+               "character": "Cop Heckler",
+               "gender": 0,
+               "credit_id": "5993ce2fc3a3687ec400e0b1",
+               "name": "Joseph Luis Caballero",
+               "profile_path": null,
+               "id": 1678566,
+               "order": 49
+            },
+            {
+               "cast_id": 273,
+               "character": "Acting Commissioner",
+               "gender": 2,
+               "credit_id": "560c2902c3a3686824005e29",
+               "name": "Richard Dillane",
+               "profile_path": "/t40mFDjVQoOLLLzqSy41GNmpBSn.jpg",
+               "id": 176227,
+               "order": 50
+            },
+            {
+               "cast_id": 397,
+               "character": "Officer at Intersection",
+               "gender": 0,
+               "credit_id": "5993ce98c3a3687ec400e177",
+               "name": "Daryl Satcher",
+               "profile_path": null,
+               "id": 1870614,
+               "order": 51
+            },
+            {
+               "cast_id": 398,
+               "character": "Convoy Leader",
+               "gender": 0,
+               "credit_id": "5993ceb5c3a3687f4600d06e",
+               "name": "Chris Petschler",
+               "profile_path": null,
+               "id": 1870615,
+               "order": 52
+            },
+            {
+               "cast_id": 399,
+               "character": "Fat Thug",
+               "gender": 0,
+               "credit_id": "5993cec3925141543300d25e",
+               "name": "Aidan Feore",
+               "profile_path": null,
+               "id": 1870616,
+               "order": 53
+            },
+            {
+               "cast_id": 274,
+               "character": "Murphy",
+               "gender": 0,
+               "credit_id": "560c2a12c3a368680b00628b",
+               "name": "Philip Bulcock",
+               "profile_path": "/1HTTFGHLopYndPS5aYucpG79wTO.jpg",
+               "id": 1128854,
+               "order": 54
+            },
+            {
+               "cast_id": 275,
+               "character": "Cop with Fat Thug",
+               "gender": 2,
+               "credit_id": "560c2a3fc3a3686824005e4c",
+               "name": "Paul Birchard",
+               "profile_path": "/iDEyo8cSZAVy9HsmZMv9mPs5tx4.jpg",
+               "id": 29617,
+               "order": 55
+            },
+            {
+               "cast_id": 400,
+               "character": "Medic",
+               "gender": 0,
+               "credit_id": "5993cf53c3a3687eff00c8f5",
+               "name": "Walter Lewis",
+               "profile_path": null,
+               "id": 1781739,
+               "order": 56
+            },
+            {
+               "cast_id": 276,
+               "character": "Cop at 250 52nd St.",
+               "gender": 2,
+               "credit_id": "560c2a8c92514171a3006640",
+               "name": "Vincent Riotta",
+               "profile_path": "/gehmkVGC3jh8DTPmY8xLxILiG4C.jpg",
+               "id": 26669,
+               "order": 57
+            },
+            {
+               "cast_id": 401,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "5993cf78c3a3687ec400e300",
+               "name": "Nancy Crane",
+               "profile_path": null,
+               "id": 1631707,
+               "order": 58
+            },
+            {
+               "cast_id": 277,
+               "character": "Polk",
+               "gender": 2,
+               "credit_id": "560c2ad6c3a368681f005c14",
+               "name": "K. Todd Freeman",
+               "profile_path": "/2L7Qh4hA2dsCIPZAVfgerax7i2q.jpg",
+               "id": 143328,
+               "order": 59
+            },
+            {
+               "cast_id": 278,
+               "character": "Berg",
+               "gender": 0,
+               "credit_id": "560c2b4dc3a3686824005e6e",
+               "name": "Matt Shallenberger",
+               "profile_path": null,
+               "id": 1464854,
+               "order": 60
+            },
+            {
+               "cast_id": 404,
+               "character": "Cop at Hospital",
+               "gender": 0,
+               "credit_id": "5993d0a4925141543300d56e",
+               "name": "Michael Andrew Gorman",
+               "profile_path": null,
+               "id": 1870623,
+               "order": 61
+            },
+            {
+               "cast_id": 402,
+               "character": "Bartender",
+               "gender": 0,
+               "credit_id": "5993d02bc3a3687f4600d2b8",
+               "name": "Lanny Lutz",
+               "profile_path": null,
+               "id": 1870620,
+               "order": 62
+            },
+            {
+               "cast_id": 403,
+               "character": "Civilian",
+               "gender": 2,
+               "credit_id": "5993d03e925141542300cb8a",
+               "name": "Peter DeFaria",
+               "profile_path": "/kdkZv7tpAqLAdAkcpttQJH2bSdn.jpg",
+               "id": 1624910,
+               "order": 63
+            },
+            {
+               "cast_id": 279,
+               "character": "First Mate",
+               "gender": 2,
+               "credit_id": "560c2ba4c3a36868100066b9",
+               "name": "Matt Rippy",
+               "profile_path": "/ciqAhTXb5phzdstwBC6tFZlnd5g.jpg",
+               "id": 78047,
+               "order": 64
+            },
+            {
+               "cast_id": 280,
+               "character": "Prison Ferry Pilot",
+               "gender": 2,
+               "credit_id": "560c2bc6c3a368680b0062b1",
+               "name": "Andrew Bicknell",
+               "profile_path": "/4lkCkXl4IhbuO7DTmwdTt6WTSXJ.jpg",
+               "id": 47525,
+               "order": 65
+            },
+            {
+               "cast_id": 281,
+               "character": "Guard Commander",
+               "gender": 0,
+               "credit_id": "560c2be1c3a36868100066bf",
+               "name": "Ariyon Bakare",
+               "profile_path": "/xjJlH9hU58Ocy6GxKfBlEvTif1p.jpg",
+               "id": 1238461,
+               "order": 66
+            },
+            {
+               "cast_id": 282,
+               "character": "Businessman",
+               "gender": 0,
+               "credit_id": "560c2bffc3a368680b0062ba",
+               "name": "Doug Ballard",
+               "profile_path": null,
+               "id": 1232399,
+               "order": 67
+            },
+            {
+               "cast_id": 405,
+               "character": "Mother",
+               "gender": 0,
+               "credit_id": "5993d0c3925141542b00d992",
+               "name": "Helene Wilson",
+               "profile_path": null,
+               "id": 1661772,
+               "order": 68
+            },
+            {
+               "cast_id": 283,
+               "character": "Passenger",
+               "gender": 0,
+               "credit_id": "560c2c85c3a3686824005e90",
+               "name": "Tommy Campbell",
+               "profile_path": "/pmg7YmD3Dib00CItssxpPVzQIP8.jpg",
+               "id": 122345,
+               "order": 69
+            },
+            {
+               "cast_id": 284,
+               "character": "Passenger",
+               "gender": 0,
+               "credit_id": "560c2ca5c3a36868140069e9",
+               "name": "Craig Heaney",
+               "profile_path": null,
+               "id": 1215332,
+               "order": 70
+            },
+            {
+               "cast_id": 285,
+               "character": "Passenger",
+               "gender": 0,
+               "credit_id": "560c2d12c3a36868140069fa",
+               "name": "Lorna Gayle",
+               "profile_path": "/yF38Y8QzpT01dmTpQFcrpJdgks4.jpg",
+               "id": 209990,
+               "order": 71
+            },
+            {
+               "cast_id": 286,
+               "character": "Passenger",
+               "gender": 1,
+               "credit_id": "560c2d31925141719c0061d4",
+               "name": "Lisa McAllister",
+               "profile_path": "/aEC3kXwCwqEB1brSHWpGOWguHzH.jpg",
+               "id": 139946,
+               "order": 72
+            },
+            {
+               "cast_id": 287,
+               "character": "Passenger",
+               "gender": 0,
+               "credit_id": "560c2d44925141157f0005be",
+               "name": "Peter Brooke",
+               "profile_path": "/bOffHK0N95QJqviDk1j8NoEYr9C.jpg",
+               "id": 1070855,
+               "order": 73
+            },
+            {
+               "cast_id": 406,
+               "character": "SWAT Sniper",
+               "gender": 2,
+               "credit_id": "5993d0f1c3a3687ec400e510",
+               "name": "Joshua Rollins",
+               "profile_path": "/vgfpA3enShhlxQLA6c5DKTbGuOi.jpg",
+               "id": 1674439,
+               "order": 74
+            },
+            {
+               "cast_id": 407,
+               "character": "SWAT Leader",
+               "gender": 0,
+               "credit_id": "5993d102925141540e00cede",
+               "name": "Dale Rivera",
+               "profile_path": null,
+               "id": 1870625,
+               "order": 75
+            },
+            {
+               "cast_id": 239,
+               "character": "Prisoner on Ferry",
+               "gender": 2,
+               "credit_id": "53d7244c0e0a260337000c0c",
+               "name": "Matthew Leitch",
+               "profile_path": "/nIsSrvUw4HVqnhuhUijITAtQek8.jpg",
+               "id": 141770,
+               "order": 76
+            },
+            {
+               "cast_id": 288,
+               "character": "Tattooed Prisoner",
+               "gender": 2,
+               "credit_id": "560c2da992514171a0006010",
+               "name": "Tom Lister Jr.",
+               "profile_path": "/UY4xouwBs8p9QmcXbnP8iy2uYp.jpg",
+               "id": 8396,
+               "order": 77
+            },
+            {
+               "cast_id": 289,
+               "character": "Reporter #3",
+               "gender": 0,
+               "credit_id": "560c2dd5925141719c0061ee",
+               "name": "Thomas Gaitsch",
+               "profile_path": null,
+               "id": 1394354,
+               "order": 78
+            },
+            {
+               "cast_id": 290,
+               "character": "Evans",
+               "gender": 2,
+               "credit_id": "560c2e12c3a3686814006a1d",
+               "name": "William Armstrong",
+               "profile_path": "/tvDYVuankQhCze9O2PXs6raOXPf.jpg",
+               "id": 29616,
+               "order": 79
+            },
+            {
+               "cast_id": 408,
+               "character": "Honor Guard Man",
+               "gender": 0,
+               "credit_id": "5993d1ed925141540e00d010",
+               "name": "Adam Kalesperis",
+               "profile_path": null,
+               "id": 1870627,
+               "order": 80
+            },
+            {
+               "cast_id": 291,
+               "character": "Uniform Cop",
+               "gender": 2,
+               "credit_id": "560c2e4c92514171a30066b0",
+               "name": "Tristan Tait",
+               "profile_path": "/8XDYVxAyJq81qysTzE5p0KCgSKY.jpg",
+               "id": 170230,
+               "order": 81
+            },
+            {
+               "cast_id": 292,
+               "character": "Bounty Hunter",
+               "gender": 2,
+               "credit_id": "560c2e6f92514171a0006035",
+               "name": "Bronson Webb",
+               "profile_path": "/oBADYTZzjZI2wAhgnf0ZeKy9q3T.jpg",
+               "id": 75076,
+               "order": 82
+            },
+            {
+               "cast_id": 293,
+               "character": "Bounty Hunter",
+               "gender": 2,
+               "credit_id": "560c2e8692514171910065cd",
+               "name": "David Ajala",
+               "profile_path": "/oVVARWDY7NISsqKEp5nBG4NTcas.jpg",
+               "id": 971049,
+               "order": 83
+            },
+            {
+               "cast_id": 409,
+               "character": "Fox's Secretary",
+               "gender": 0,
+               "credit_id": "5993d224925141542b00db48",
+               "name": "Gertrude Kyles",
+               "profile_path": null,
+               "id": 1870629,
+               "order": 84
+            },
+            {
+               "cast_id": 294,
+               "character": "Passenger Ferry Pilot",
+               "gender": 2,
+               "credit_id": "560c2eabc3a368680e0060c1",
+               "name": "Jonathan Ryland",
+               "profile_path": null,
+               "id": 119414,
+               "order": 85
+            },
+            {
+               "cast_id": 410,
+               "character": "Guardsman",
+               "gender": 0,
+               "credit_id": "5993d2b5c3a3687ec400e780",
+               "name": "James Scales",
+               "profile_path": null,
+               "id": 1870631,
+               "order": 86
+            },
+            {
+               "cast_id": 411,
+               "character": "Warden",
+               "gender": 0,
+               "credit_id": "5993d2c8c3a3687f6200d2e2",
+               "name": "Nigel Carrington",
+               "profile_path": null,
+               "id": 1655526,
+               "order": 87
+            },
+            {
+               "cast_id": 295,
+               "character": "Corrections Officer",
+               "gender": 0,
+               "credit_id": "560c2ef0925141501900025e",
+               "name": "Ian Pirie",
+               "profile_path": "/wBQsI3PN3r0cDri8gt3z12kQgoY.jpg",
+               "id": 95716,
+               "order": 88
+            },
+            {
+               "cast_id": 296,
+               "character": "Prisoner",
+               "gender": 0,
+               "credit_id": "560c2f0dc3a368681900620c",
+               "name": "Lateef Lovejoy",
+               "profile_path": null,
+               "id": 1122545,
+               "order": 89
+            },
+            {
+               "cast_id": 297,
+               "character": "Prisoner",
+               "gender": 0,
+               "credit_id": "560c2f2a9251417196005dc4",
+               "name": "Grahame Edwards",
+               "profile_path": null,
+               "id": 578699,
+               "order": 90
+            },
+            {
+               "cast_id": 298,
+               "character": "Prisoner",
+               "gender": 0,
+               "credit_id": "560c2f4492514171a30066d6",
+               "name": "Roger Monk",
+               "profile_path": null,
+               "id": 126316,
+               "order": 91
+            },
+            {
+               "cast_id": 299,
+               "character": "Prisoner",
+               "gender": 2,
+               "credit_id": "560c2f5b925141157f0005fb",
+               "name": "Ronan Summers",
+               "profile_path": "/oqUPzj0rY7cI3QvLSVf7a6ldtOs.jpg",
+               "id": 1132153,
+               "order": 92
+            },
+            {
+               "cast_id": 412,
+               "character": "Hong Kong Detective",
+               "gender": 2,
+               "credit_id": "5993d34892514153ff00dff5",
+               "name": "Wai Wong",
+               "profile_path": "/fz2xRpnd2VOabI9fWv32yrFZiu.jpg",
+               "id": 1599260,
+               "order": 93
+            },
+            {
+               "cast_id": 413,
+               "character": "Honor Guard Leader",
+               "gender": 0,
+               "credit_id": "5993d35b92514153ff00e033",
+               "name": "Michael Corey Foster",
+               "profile_path": null,
+               "id": 1870636,
+               "order": 94
+            },
+            {
+               "cast_id": 414,
+               "character": "Gordon's Daughter",
+               "gender": 0,
+               "credit_id": "5993d36892514153ff00e073",
+               "name": "Hannah Gunn",
+               "profile_path": null,
+               "id": 1870637,
+               "order": 95
+            },
+            {
+               "cast_id": 415,
+               "character": "Armored Car SWAT",
+               "gender": 0,
+               "credit_id": "5993d375c3a3687f9e00e7e3",
+               "name": "Brandon Lambdin",
+               "profile_path": null,
+               "id": 1870638,
+               "order": 96
+            },
+            {
+               "cast_id": 300,
+               "character": "Waiter (uncredited)",
+               "gender": 0,
+               "credit_id": "560c3c94925141719c006489",
+               "name": "Jon Lee Brody",
+               "profile_path": "/u1agQE1nYgt2LOijksYJMPYxpKh.jpg",
+               "id": 1161711,
+               "order": 97
+            },
+            {
+               "cast_id": 301,
+               "character": "Bank Patron (uncredited)",
+               "gender": 0,
+               "credit_id": "560c3cc2c3a36868170066c2",
+               "name": "Debbi Burns",
+               "profile_path": "/6PSjSnOTelZmjgCXs9yHBU0qkv8.jpg",
+               "id": 580566,
+               "order": 98
+            },
+            {
+               "cast_id": 302,
+               "character": "Party Guest (uncredited)",
+               "gender": 0,
+               "credit_id": "560c3ce49251417196006004",
+               "name": "Maritza Cabrera",
+               "profile_path": "/wZbE2kzW5NZGquzMyd9r7nJNeQe.jpg",
+               "id": 1128275,
+               "order": 99
+            },
+            {
+               "cast_id": 303,
+               "character": "Party Guest with Glass (uncredited)",
+               "gender": 0,
+               "credit_id": "560c3d0892514171a3006975",
+               "name": "Shirin Caiola",
+               "profile_path": null,
+               "id": 1185594,
+               "order": 100
+            },
+            {
+               "cast_id": 304,
+               "character": "Party Guest (uncredited)",
+               "gender": 0,
+               "credit_id": "560c3d3dc3a368680e00635a",
+               "name": "Laura Chernicky",
+               "profile_path": null,
+               "id": 1197335,
+               "order": 101
+            },
+            {
+               "cast_id": 357,
+               "character": "Lau Henchman (uncredited)",
+               "gender": 0,
+               "credit_id": "567b1eb19251417de3000a3c",
+               "name": "Henry Milton Chu",
+               "profile_path": null,
+               "id": 1552999,
+               "order": 102
+            },
+            {
+               "cast_id": 306,
+               "character": "Paramedic (uncredited)",
+               "gender": 1,
+               "credit_id": "560c3f899251417e9e0049a3",
+               "name": "Kelli Clevenger",
+               "profile_path": "/jWgexVNg98n124drNJKhs4DXihQ.jpg",
+               "id": 1192165,
+               "order": 103
+            },
+            {
+               "cast_id": 307,
+               "character": "Chechen Gangster (uncredited)",
+               "gender": 0,
+               "credit_id": "560c3fea9251415019000533",
+               "name": "Richard Divizio",
+               "profile_path": null,
+               "id": 1131169,
+               "order": 104
+            },
+            {
+               "cast_id": 308,
+               "character": "Press Conference Heckler (uncredited)",
+               "gender": 0,
+               "credit_id": "560c4017c3a3686817006783",
+               "name": "Tony Domino",
+               "profile_path": null,
+               "id": 580567,
+               "order": 105
+            },
+            {
+               "cast_id": 310,
+               "character": "Pedestrian (uncredited)",
+               "gender": 0,
+               "credit_id": "560c40d892514171a3006a6b",
+               "name": "David Fultz",
+               "profile_path": null,
+               "id": 228305,
+               "order": 106
+            },
+            {
+               "cast_id": 311,
+               "character": "Ferry Passenger (uncredited)",
+               "gender": 1,
+               "credit_id": "560c413c92514171a3006a7a",
+               "name": "Natalie Hallam",
+               "profile_path": null,
+               "id": 1392731,
+               "order": 107
+            },
+            {
+               "cast_id": 312,
+               "character": "Police Officer (uncredited)",
+               "gender": 0,
+               "credit_id": "560c4185c3a368680b0066da",
+               "name": "Jordon Hodges",
+               "profile_path": null,
+               "id": 593182,
+               "order": 108
+            },
+            {
+               "cast_id": 313,
+               "character": "Prisoner (uncredited)",
+               "gender": 0,
+               "credit_id": "560c41f092514171a3006ab7",
+               "name": "Erron Jay",
+               "profile_path": "/3m9xg34R06HnLAFiJUiSb3QQwUe.jpg",
+               "id": 1086373,
+               "order": 109
+            },
+            {
+               "cast_id": 315,
+               "character": "Immigrant Ferry Passenger (uncredited)",
+               "gender": 0,
+               "credit_id": "560c4268925141719c0065d6",
+               "name": "Daniel Jefferson",
+               "profile_path": "/lWy5MZMXcLuzsGdAeT9GuDdo4F9.jpg",
+               "id": 1207205,
+               "order": 110
+            },
+            {
+               "cast_id": 316,
+               "character": "Shotgun SWAT (uncredited)",
+               "gender": 2,
+               "credit_id": "560c42dfc3a3686814006e66",
+               "name": "Nicky Katt",
+               "profile_path": "/dbAeUQXzyf2HDFYtifWkHfE3SNW.jpg",
+               "id": 18070,
+               "order": 111
+            },
+            {
+               "cast_id": 317,
+               "character": "Parade Police Officer (uncredited)",
+               "gender": 0,
+               "credit_id": "560c431ec3a3686814006e74",
+               "name": "Thomas Kosik",
+               "profile_path": null,
+               "id": 580560,
+               "order": 112
+            },
+            {
+               "cast_id": 319,
+               "character": "Maroni's Henchman (uncredited)",
+               "gender": 0,
+               "credit_id": "560c43e8925141719100697f",
+               "name": "Don Kress",
+               "profile_path": null,
+               "id": 505400,
+               "order": 113
+            },
+            {
+               "cast_id": 320,
+               "character": "Assistant D.A. (uncredited)",
+               "gender": 0,
+               "credit_id": "560c442b925141719600617d",
+               "name": "Tim Krueger",
+               "profile_path": null,
+               "id": 1058964,
+               "order": 114
+            },
+            {
+               "cast_id": 321,
+               "character": "Police Sgt. Spellman / Gotham Bomb Squad (uncredited)",
+               "gender": 0,
+               "credit_id": "560c448e9251417e9e004aa2",
+               "name": "Dan Latham",
+               "profile_path": null,
+               "id": 1261397,
+               "order": 115
+            },
+            {
+               "cast_id": 367,
+               "character": "Helicopter SWAT Sniper (uncredited)",
+               "gender": 0,
+               "credit_id": "56e215d9c3a3686ff5000892",
+               "name": "Tom McComas",
+               "profile_path": null,
+               "id": 1551776,
+               "order": 116
+            },
+            {
+               "cast_id": 322,
+               "character": "Ferry Passenger (uncredited)",
+               "gender": 2,
+               "credit_id": "560c461cc3a3686814006ede",
+               "name": "James Mellor",
+               "profile_path": null,
+               "id": 1111803,
+               "order": 117
+            },
+            {
+               "cast_id": 323,
+               "character": "Officer (uncredited)",
+               "gender": 2,
+               "credit_id": "560c465c92514171910069e2",
+               "name": "Joseph Oliveira",
+               "profile_path": "/nFJX5qWKlHyew7AHKUFE3EQnMO5.jpg",
+               "id": 1360008,
+               "order": 118
+            },
+            {
+               "cast_id": 324,
+               "character": "Joker's Thug #2 (uncredited)",
+               "gender": 0,
+               "credit_id": "560c46bdc3a36868240062d9",
+               "name": "Buster Reeves",
+               "profile_path": null,
+               "id": 1426334,
+               "order": 119
+            },
+            {
+               "cast_id": 314,
+               "character": "Prisoner (uncredited)",
+               "gender": 2,
+               "credit_id": "560c4218c3a368680e006473",
+               "name": "Peter Rnic",
+               "profile_path": "/zOCtOfOL6w9HNl0OkUlcQDxczFq.jpg",
+               "id": 30450,
+               "order": 120
+            },
+            {
+               "cast_id": 240,
+               "character": "Party Guest (uncredited)",
+               "gender": 0,
+               "credit_id": "551bf00d9251414af6003148",
+               "name": "Amit Shah",
+               "profile_path": "/g2DvJ5CDNDNf3r4uPaMvDPAaqkx.jpg",
+               "id": 1209046,
+               "order": 121
+            },
+            {
+               "cast_id": 325,
+               "character": "Angry Hospital Relative (uncredited)",
+               "gender": 0,
+               "credit_id": "560c4757925141157f0009ff",
+               "name": "Michelle Shields",
+               "profile_path": null,
+               "id": 1058963,
+               "order": 122
+            },
+            {
+               "cast_id": 326,
+               "character": "Evacuee (uncredited)",
+               "gender": 0,
+               "credit_id": "560c4787c3a36868170068e4",
+               "name": "Sofiya Smirnova",
+               "profile_path": null,
+               "id": 98994,
+               "order": 123
+            },
+            {
+               "cast_id": 327,
+               "character": "High-Ranking Police Official (uncredited)",
+               "gender": 0,
+               "credit_id": "560c47e7c3a3686824006305",
+               "name": "Bruce Spielbauer",
+               "profile_path": null,
+               "id": 1108073,
+               "order": 124
+            },
+            {
+               "cast_id": 328,
+               "character": "Extra (uncredited)",
+               "gender": 0,
+               "credit_id": "560c4842c3a3686814006f50",
+               "name": "Robert Patrick Stern",
+               "profile_path": null,
+               "id": 1185600,
+               "order": 125
+            },
+            {
+               "cast_id": 329,
+               "character": "Dept. of Corrections Resident (uncredited)",
+               "gender": 0,
+               "credit_id": "560c48dd92514171a000651f",
+               "name": "Robert Stone",
+               "profile_path": null,
+               "id": 1209051,
+               "order": 126
+            },
+            {
+               "cast_id": 330,
+               "character": "Detective (uncredited)",
+               "gender": 0,
+               "credit_id": "560c491292514171a0006527",
+               "name": "Richard Strobel",
+               "profile_path": null,
+               "id": 99223,
+               "order": 127
+            },
+            {
+               "cast_id": 318,
+               "character": "Police Officer (uncredited)",
+               "gender": 0,
+               "credit_id": "560c43a99251417e9e004a7d",
+               "name": "Tom Townsend",
+               "profile_path": null,
+               "id": 79810,
+               "order": 128
+            },
+            {
+               "cast_id": 331,
+               "character": "Chechen's Bodyguard (uncredited)",
+               "gender": 0,
+               "credit_id": "560c496fc3a368680b006843",
+               "name": "John Turk",
+               "profile_path": null,
+               "id": 204276,
+               "order": 129
+            },
+            {
+               "cast_id": 332,
+               "character": "Detective (uncredited)",
+               "gender": 0,
+               "credit_id": "560c499ec3a368681f00612c",
+               "name": "John Warman",
+               "profile_path": null,
+               "id": 1209055,
+               "order": 130
+            },
+            {
+               "cast_id": 305,
+               "character": "Party Guest (uncredited)",
+               "gender": 0,
+               "credit_id": "560c3f18925141157f000862",
+               "name": "Erik A. Williams",
+               "profile_path": null,
+               "id": 1512023,
+               "order": 131
+            },
+            {
+               "cast_id": 333,
+               "character": "Major Crime Unit Detective (uncredited)",
+               "gender": 2,
+               "credit_id": "560c4a079251417e9e004bb1",
+               "name": "Chris Wilson",
+               "profile_path": "/ppUivDVfStQv0n6rQYpk5MGwBnf.jpg",
+               "id": 127005,
+               "order": 132
+            },
+            {
+               "cast_id": 334,
+               "character": "Party Staff (uncredited)",
+               "gender": 0,
+               "credit_id": "560c4a57c3a368680e0065ad",
+               "name": "Kevin Zaideman",
+               "profile_path": null,
+               "id": 1380656,
+               "order": 133
+            },
+            {
+               "cast_id": 416,
+               "character": "Man Trying to Reach Coleman Reese",
+               "gender": 0,
+               "credit_id": "5a6669910e0a26031b005407",
+               "name": "Matt Skiba",
+               "profile_path": null,
+               "id": 1024279,
+               "order": 134
+            },
+            {
+               "cast_id": 417,
+               "character": "Man Trying to Reach Coleman Reese (uncredited)",
+               "gender": 0,
+               "credit_id": "5a66699bc3a3685701004c82",
+               "name": "Matt Skiba",
+               "profile_path": null,
+               "id": 1024279,
+               "order": 135
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005cbb",
+               "name": "Christopher Nolan",
+               "profile_path": "/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg",
+               "id": 525,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005cc5",
+               "name": "Jonathan Nolan",
+               "profile_path": "/rYBQ8M3hDDY0eThVIvWHmrf4i0Y.jpg",
+               "id": 527,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005ccb",
+               "name": "Hans Zimmer",
+               "profile_path": "/7IjJpvGtCfY0DsritmfCh2iX9I4.jpg",
+               "id": 947,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005cd1",
+               "name": "Wally Pfister",
+               "profile_path": "/tyYtVatXW16EM7NYJZkxI3K2NQi.jpg",
+               "id": 559,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005cdb",
+               "name": "James Newton Howard",
+               "profile_path": "/5UTEMYS7rydwe7ooOmj2dLRFuu2.jpg",
+               "id": 1213,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005ce1",
+               "name": "Christopher Nolan",
+               "profile_path": "/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg",
+               "id": 525,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe421fc3a36847f8005ce7",
+               "name": "Charles Roven",
+               "profile_path": "/4uJLoVstC1CBcArXFOe53N2fDr1.jpg",
+               "id": 282,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe421fc3a36847f8005ced",
+               "name": "Emma Thomas",
+               "profile_path": "/f12TsNlAEomPdwxueS7ImMoJtsP.jpg",
+               "id": 556,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d03",
+               "name": "Christopher Nolan",
+               "profile_path": "/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg",
+               "id": 525,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d0f",
+               "name": "David S. Goyer",
+               "profile_path": "/vh0ULL0N22JlVlQ5mXFmreA6Ubz.jpg",
+               "id": 3893,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4220c3a36847f8005d1d",
+               "name": "Thomas Tull",
+               "profile_path": "/5UG4FK7rsmhzJDYxpU28acqfxtu.jpg",
+               "id": 54211,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d23",
+               "name": "Michael Uslan",
+               "profile_path": "/lJ8n7Z9JB0XH4dxdgI48HG9jX1o.jpg",
+               "id": 10949,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d29",
+               "name": "Kevin De La Noy",
+               "profile_path": null,
+               "id": 75804,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d2f",
+               "name": "Benjamin Melniker",
+               "profile_path": null,
+               "id": 10951,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4220c3a36847f8005d35",
+               "name": "Lee Smith",
+               "profile_path": "/5XNVKGYwQraa4LYk0pjRhvdC3c1.jpg",
+               "id": 3904,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4220c3a36847f8005d3b",
+               "name": "Nathan Crowley",
+               "profile_path": "/lI5Q6oEf1nj3AAHuTltwpckQW3n.jpg",
+               "id": 15327,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4220c3a36847f8005d41",
+               "name": "Peter Lando",
+               "profile_path": null,
+               "id": 60714,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4220c3a36847f8005d47",
+               "name": "John Papsidera",
+               "profile_path": "/quM89TMS6BncoIh4NdlWugXVhuF.jpg",
+               "id": 561,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4220c3a36847f8005d4d",
+               "name": "Lindy Hemming",
+               "profile_path": "/8DiTuVH0dysJ6j1psjXE0XQ4BKR.jpg",
+               "id": 10714,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a0e9849251412974001144",
+               "name": "Mark Bartholomew",
+               "profile_path": null,
+               "id": 11167,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a0e999c3a3681ce30011eb",
+               "name": "James Hambidge",
+               "profile_path": null,
+               "id": 1034754,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a0e9c2925141297d001240",
+               "name": "Craig Jackson",
+               "profile_path": null,
+               "id": 86591,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55a0e9fdc3a3681cde0010b7",
+               "name": "Steven Lawrence",
+               "profile_path": null,
+               "id": 10788,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a0ea0e9251412980001112",
+               "name": "Naaman Marshall",
+               "profile_path": null,
+               "id": 17677,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a0ea4fc3a3681ce7001136",
+               "name": "Deena Adair",
+               "profile_path": null,
+               "id": 1417400,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55a0ea81c3a3681cf3001211",
+               "name": "Sue Robb-King",
+               "profile_path": null,
+               "id": 1486214,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a0ea989251412977001115",
+               "name": "John Caglione Jr.",
+               "profile_path": null,
+               "id": 15845,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55a0eab19251412971001182",
+               "name": "Nancy Hancock",
+               "profile_path": null,
+               "id": 1426762,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55a0eadb925141296e00119d",
+               "name": "Jenne Lee",
+               "profile_path": null,
+               "id": 1395430,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55a0eb32925141296e0011a4",
+               "name": "Nicholas Gall",
+               "profile_path": null,
+               "id": 1486217,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55a0eb4a925141296b0010f8",
+               "name": "Lucinda Syson",
+               "profile_path": null,
+               "id": 1113,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55a0eb8bc3a3681cf5001143",
+               "name": "Steve Gehrke",
+               "profile_path": null,
+               "id": 1367508,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b300d92514171a3003f06",
+               "name": "Richard M. Daley",
+               "profile_path": null,
+               "id": 1233538,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b2f4c3a368168b000ea4",
+               "name": "Janice Alexander",
+               "profile_path": null,
+               "id": 1417398,
+               "department": "Costume & Make-Up",
+               "job": "Hair Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570a7b3ac3a3687757005056",
+               "name": "Kevin Kavanaugh",
+               "profile_path": null,
+               "id": 15328,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570a7b4992514140f3001f71",
+               "name": "Simon Lamont",
+               "profile_path": null,
+               "id": 1325917,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563659d0c3a3681b5c01cbda",
+               "name": "Brad Dechter",
+               "profile_path": null,
+               "id": 1530327,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5644d9c99251410a4c006237",
+               "name": "Alyson Dee Moore",
+               "profile_path": null,
+               "id": 1397823,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5654a5bec3a36817810001cf",
+               "name": "Dennis Davidson",
+               "profile_path": null,
+               "id": 1540477,
+               "department": "Production",
+               "job": "Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566dbae8925141664f00be5a",
+               "name": "Kimberley Spiteri",
+               "profile_path": null,
+               "id": 1443032,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674b1b0c3a368168b000e65",
+               "name": "Stephen Vaughan",
+               "profile_path": null,
+               "id": 1390535,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b1fbc3a3681689000e69",
+               "name": "Alex Gibson",
+               "profile_path": null,
+               "id": 1403490,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b20ac3a368167c000f5e",
+               "name": "Daniel Pinder",
+               "profile_path": null,
+               "id": 1400088,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674b22592514179e1000f20",
+               "name": "Richard King",
+               "profile_path": null,
+               "id": 1341403,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674b22fc3a3681683000ee7",
+               "name": "Richard King",
+               "profile_path": null,
+               "id": 1341403,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b24dc3a3681689000e78",
+               "name": "Ed Novick",
+               "profile_path": null,
+               "id": 1550832,
+               "department": "Sound",
+               "job": "Production Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b26992514179d4000f5f",
+               "name": "Lora Hirschberg",
+               "profile_path": null,
+               "id": 1327030,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b28792514179e1000f31",
+               "name": "Gary Rizzo",
+               "profile_path": null,
+               "id": 138618,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b29692514179e1000f38",
+               "name": "Michael Magill",
+               "profile_path": null,
+               "id": 1341405,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b2a5c3a368168b000e94",
+               "name": "Hugo Weng",
+               "profile_path": null,
+               "id": 1050930,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b2b992514179d7000faa",
+               "name": "Michael W. Mitchell",
+               "profile_path": null,
+               "id": 1377222,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b2ccc3a368167c000f86",
+               "name": "Michael Babcock",
+               "profile_path": null,
+               "id": 1417514,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674b3e392514179db000fb7",
+               "name": "Bob Gorelick",
+               "profile_path": null,
+               "id": 1395281,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674b3e9c3a368167c000fc1",
+               "name": "Bob Gorelick",
+               "profile_path": null,
+               "id": 1395281,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b41792514179dd000f1b",
+               "name": "Tom Struthers",
+               "profile_path": null,
+               "id": 1550851,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b428c3a368168e0010a9",
+               "name": "Paul Jennings",
+               "profile_path": null,
+               "id": 44006,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674b43e92514179dd000f27",
+               "name": "Rick Le Fevour",
+               "profile_path": null,
+               "id": 1327404,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f07429251416b52003f23",
+               "name": "David Orr",
+               "profile_path": null,
+               "id": 1552549,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a1894bc3a36858e501133f",
+               "name": "Jim Wilkey",
+               "profile_path": "/dm76GkmW61dFaOsCabNZzhu3lCg.jpg",
+               "id": 1025090,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a2c87cc3a3683893000ca6",
+               "name": "Mark Mottram",
+               "profile_path": null,
+               "id": 1411061,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56b632bb9251414a25003d55",
+               "name": "Lorne Orleans",
+               "profile_path": null,
+               "id": 20643,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56b78193c3a36806ec00e6db",
+               "name": "Nilo Otero",
+               "profile_path": null,
+               "id": 1566280,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ba97bac3a3681b750008b2",
+               "name": "Jeff Atmajian",
+               "profile_path": null,
+               "id": 936765,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d4e894c3a3681e3c01794f",
+               "name": "Donald Likovich",
+               "profile_path": null,
+               "id": 1440853,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d9d28fc3a3682cef01228c",
+               "name": "Rick Avery",
+               "profile_path": "/rXar2OrwkorJyQ9dRGf18zUEByW.jpg",
+               "id": 81687,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56e215adc3a3686ff500088c",
+               "name": "Tom McComas",
+               "profile_path": null,
+               "id": 1551776,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ff24a89251416776000810",
+               "name": "Doug Hemphill",
+               "profile_path": "/jpShbzJgiLoM4iZZcDe3KmoqnG4.jpg",
+               "id": 1377220,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5753102092514109150003c4",
+               "name": "Bruce Fowler",
+               "profile_path": null,
+               "id": 932186,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5766ca0d9251416995000624",
+               "name": "Bob Kane",
+               "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+               "id": 3794,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5766cabf92514113a600002a",
+               "name": "Jordan Goldberg",
+               "profile_path": null,
+               "id": 113913,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5766cbcc92514113a600005a",
+               "name": "Conor O'Sullivan",
+               "profile_path": null,
+               "id": 1638257,
+               "department": "Costume & Make-Up",
+               "job": "Prosthetic Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5766cc859251416995000678",
+               "name": "David E. Hall",
+               "profile_path": null,
+               "id": 1571601,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5766cda1925141135c000094",
+               "name": "Jim Boulden",
+               "profile_path": null,
+               "id": 1532224,
+               "department": "Crew",
+               "job": "Animatronic and Prosthetic Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576ac579c3a368638e0001e2",
+               "name": "Patrick Caulfield",
+               "profile_path": null,
+               "id": 1522745,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5797967c9251411b59000106",
+               "name": "Brian Christensen",
+               "profile_path": "/wdIASyG4raEPsYpdUZagnvutKuQ.jpg",
+               "id": 1332017,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579d0e12c3a368283000172e",
+               "name": "Kevin Kaska",
+               "profile_path": "/azlSu8Sz9QGeK3xgQS9p3ZvR9q9.jpg",
+               "id": 68016,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57bc774dc3a368228f006813",
+               "name": "Mira Husseini",
+               "profile_path": null,
+               "id": 1411118,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57d6e9fb9251412043000414",
+               "name": "Bob Hall",
+               "profile_path": null,
+               "id": 1532610,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 1,
+               "credit_id": "587fd913c3a36863cc00051e",
+               "name": "Jessie Graff",
+               "profile_path": "/8LtVGuIhn2kW76adfYoKPQny2Mi.jpg",
+               "id": 996220,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58f2c9de9251413d84006e96",
+               "name": "Bill Finger",
+               "profile_path": "/8YNi67GimJjHTmXR3nUhkEJGV95.jpg",
+               "id": 198034,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58f2c9e9c3a368081e007301",
+               "name": "Jerry Robinson",
+               "profile_path": "/606OVQrzUFksbBERMiNxsm8MQtL.jpg",
+               "id": 1356195,
+               "department": "Writing",
+               "job": "Characters"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 35.717684,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 155,
+      "vote_count": 14477,
+      "budget": 185000000,
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "similar": [
+         272,
+         49026,
+         209112,
+         382322,
+         40662,
+         414,
+         44912,
+         263115,
+         59859,
+         156022,
+         1924,
+         1452,
+         364,
+         49521,
+         141052,
+         297762,
+         69735,
+         8536,
+         408220,
+         242643
+      ],
+      "original_title": "The Dark Knight",
+      "runtime": 152,
+      "poster_path": "/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "普通话",
+            "iso_639_1": "zh"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "id": 9993,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "id": 429,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "id": 923,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "id": 9996,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2008-07-16",
+      "vote_average": 8.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg",
+         "name": "The Dark Knight Collection",
+         "id": 263,
+         "poster_path": "/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg"
+      },
+      "tagline": "Why So Serious?",
+      "adult": false,
+      "homepage": "http://thedarkknight.warnerbros.com/dvdsite/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Christopher Nolan"],
+      "runtime": 152,
+      "synopsis": "The movie begins with a gang of men with clown masks breaking into the bank where the mob has a large portion of their money stashed. It begins with five clowns, each getting a cut of the spoils. They suggest that a sixth member of the gang - nicknamed 'The Joker' - who did the planning, but sat out the robbery, doesn't deserve a cut. As the robbery goes on, the clowns begin to kill each other in order to get a larger cut, until a school bus crashes through the wall of the bank, killing another clown. A mob bank manager, who was himself shot with an automatic weapon after he tried to take out the clowns with a shotgun, tells the remaining clown that he doesn't know who he is dealing with. The clown kneels down and tells the banker, \"Whatever doesn't kill you simply makes you...stranger...\" then removes his mask to reveal that he himself is The Joker. Joker puts a grenade into the banker's mouth and boards the bus, leaving a string attached to the pin. The bus pulls out with all of the bank's cash and the pin pops out. It is just a gas grenade. The Joker joins a long line of school buses leaving the scene as the police arrive. Gotham is then seen at night with criminals afraid to commit crimes under the watchful sign of the batsignal projected onto the clouds. We see Lt. James Gordon manning the batsignal, waiting for Batman with Det. Anna Ramirez, who asks if he's coming. Gordon explains that it is okay if he is not, hoping that he is busy elsewhere. Meanwhile, in a parking garage, the Scarecrow is negotiating with the Russian mob members over the sale of some of his fear-inducing drugs. The sale is interrupted when some of Gotham's citizens dressed as Batmen wanna-be's begin shooting at the men. As he gases one of the fake Batmen with his mind-altering drugs from his cuff, the Scarecrow notes that they are not the real Batman, because Batman would never use a gun. Suddenly the Batmobile/Tumbler crashes through a barricade and Scarecrow notes, \"That's more like it!\" The Batmobile fires rockets into a nearby office, causing the remaining mobsters to begin to flee. The real Batman arrives on the scene and bends the rifle of one of the wanna-be Batmen before knocking him out. The Chechen sends his rottweilers to attack the Batmen, and as Batman saves them he takes the dogs out after being badly bitten in the arm. The Scarecrow attempts to flee in a white van but Batman jumps onto the van and begins cutting into the side with his device called the mangler. Scarecrow swerves into a support which sends Batman to the ground. As Scarecrow gets away down a spiraling passageway, Batman leaps onto the roof of his van, smashing it to a halt. He leaves the fake Batmen and the Scarecrow along with some of the mobsters tied up together for the police to eventually round up. Gordon arrives at the bank the Joker held up earlier with Ramirez who shows him the Joker's picture from a security camera. Batman arrives to inspect the scene, noting that they have irradiated the drug money to make it easier to trace. When Gordon asks him if the Joker is a threat, Batman informs him that he cannot worry about one man when there is an entire mob to bring down. The next day, as Bruce Wayne stitches himself up from the dog bite, Alfred offers his concerns, warning Bruce to 'know his limits'. He notices Bruce keeping a close watch on newly appointed district attorney Harvey Dent via some computer screens, as Bruce is trying to decide whether or not Dent can be trusted. Alfred wonders if he is really spying on the relationship that Rachel Dawes has developed with Harvey Dent. Harvey Dent arrives in court to join Rachel Dawes in prosecuting mobster Salvatore Maroni, the alleged new leader of the Falcone crime family. One of Maroni's men takes the fall in court, and attempts to shoot Dent from the witness stand. The gun doesn't go off and Dent punches the man before he is hauled off to jail. Maroni is eventually set free, to the dismay of Dent. Dent meets Lt. Gordon, and after a short exchange of words, they both express their distrust for those that are working in each other's offices. Harvey interrogates Gordon over his involvement with the Batman and Harvey tells him he wants to meet him. Gordon requests search warrants for five banks that are believed to be holding the remainder of the mobs money. Dent agrees to back Gordon's search warrants, forming a tenuous trust with the honest Gordon, who in turn hails Dent as Gotham's \"White Knight\" while Dent questions Gordon about another nickname they had for him when he was at I.A.D., a nickname Gordon claims to have no knowledge of. Lucius Fox holds a board meeting at Wayne Enterprises, negotiating an joint venture with Lau, the head of Lau Security Investments, based in Hong Kong. After the meeting with Lau, Wayne expresses his reservations with Lucius Fox about Lau's business operation, apparently illegal based on their profits. After agreeing to cancel the deal, Wayne asks Fox for a new suit. He explains that he needs to be lighter, and faster, in case he runs into any more guard dogs. That night, Harvey dines out with Rachel. Harvey tells Rachel he had to make a reservation weeks earlier, and even then needed to exercised his influence to get a table at the very fashionable restaurant. Bruce and his date, the prima ballerina for the Russian ballet, encounter Rachel and Harvey. Bruce has them pull a table together so they can dine together, informing Harvey that he owns the restaurant. At first, Bruce seems jealous and threatened by Harvey, based on the fact that he is dating his own love interest, but Harvey explains how he supports the work of Batman and appreciates his help. Bruce changes his tune and informs Harvey that he intends to throw a massive fund-raiser for him. Meanwhile, all of the top mob members are having a meeting. Because of their inside sources in the police, they were aware that the banks that their money was stashed in were going to be searched. Lau appears to them on a television monitor from his plane on his way back to Hong Kong. He informs the mob that all of their money has already been moved to a single secure location, just as Lt. Gordon and company are searching the banks, finding nothing but the irradiated trace money. When the Chechen expresses concern over the man with the clown makeup stealing $68 million from one of their banks, Maroni dismisses him as nothing but a nobody. The Joker enters in the room, and after killing a hostile mob member's crony by way of a 'magic trick', sits down and talks with the mob about how pathetic they've become since Batman came around. He tells them their one solution is to 'Kill the Batman', and offers to do so for half the mob's money. He warns them about Lau, saying he knows a squealer when he sees one, causing Lau to promptly turn off his monitor. The mob laughs, and as one of the mobsters, Gambol, rises from his seat and threatens the Joker, the Joker opens his coat, exposing grenades. Gambol tells the Joker that he's putting a price out on his head. The Joker tells the mob that when they plan to take things a little more seriously, give him a call, and presents them with 'his card', a joker playing card. And with that, he exits. But not before warning that Batman will come for Lau. Harvey Dent, with Gordon, lights the batsignal to meet with Batman, who appears. As Dent and Gordon blame one another for the money's disappearance due to leaks from corrupt officers in the other's departments, they explain to Batman that they need Lau back, realizing that Batman is under no one's jurisdiction. They want to make him talk, and give up all the mob members' names. Batman agrees and disappears. Fox shows Wayne his new suit, and Wayne begins planning an impromptu trip to Hong Kong. Fox will accompany him, making it look like the only reason for his visit was to cancel the negotiations with Lau's company. Gambol is playing pool with some of his associates until one of them informs him that a group of hoodlums havd killed the Joker, and has the body. The body is brought in covered in a bag, and as Gambol is about to pay, the Joker rises up and holds a knife to his face while his men hold guns to his associates' heads. The Joker tells a story about how he got his scars from his father, and then kills Gambol. He offers the three surviving associates an opportunity to join his team, but he has only one opening. He leave the three with the halves of a broken, sharp pool stick and no choice but to fight each other for their lives. Meanwhile, Fox arrives in Hong Kong to meet with Lau. He checks in his mobile phone at the front desk at Lau's building, as there are no cell phones allowed on the premises. Fox meets with Lau, and informs him of Wayne Enterprises' plans to cancel negotiations with his company. However, he secretly keeps one cell phone in his pocket, which has been adapted to produce a sonar map of the surrounding area. Upon leaving the building, he does not pick up the phone he dropped off, and he produces the map of the building to Bruce Wayne. That night, the phone that Fox left at the front desk emits a high frequency that shuts down all power in the building. Batman crashes in through a window in Lau's office, and after disabling some guards, grabs Lau and escapes by sending a balloon attached to a cable to a plane he has chartered flying over Lau's building. Back in Gotham, Lau is interrogated by Rachel with Dent and Gordon looking on. Rachel presses him to give them the money Lau has taken, but Lau will not give in. After she threatens to have him moved to the County lock-up, Lau tells her that he can give them the names of the mobsters and their pooled investments. Dent then realizes that they will have the leverage they need in a RICO case of conspiracy to link all of the mob members together. Gordon decides to keep Lau in his holding cell at the Major Case Unit building and Lau agrees to cooperate with the police, and give the names of the mob members. Gordon appears at Maroni's restaurant as the police rush in to arrest all of the mob members in attendance. As all of the mob members that Lau informed the police are rounded up for arraignment, Judge Janet Surrillo finds a Joker card in the middle of the stack of conviction papers. Dent gives a televised impromptu interview denying Batman's involvement while expressing gratitude for the police work in bringing the mob members to justice. Dent, Gordon, and Commissioner Loeb meet with the mayor to tell him that Dent's rash indictment of the mob members will give the mayor clean streets for 18 months. The mayor informs Dent that his brash actions will bring down the full might of Gotham's underworld and corrupt citizens solely upon him. When the mayor asks if Dent is ready to be the city's target the dead body of a Batman wanna-be hanging by a noose slams against the mayor's window dressed up in a Batman suit, with makeup on his face like the Joker's - complete with the sides of the mouth sliced into a grin - and with a Joker card pinned to him reading 'Will the real Batman please stand up?'. Bruce and Alfred watch on as a video tape is played on the news of the Joker tormenting the wanna-be before killing him. He then promises that until Batman takes off his mask and shows everyone who he really is, people will die every day. As Harvey Dent's fund-raiser at Wayne's penthouse gets underway, Rachel and a nervous Dent arrive and mingle. Wayne arrives with three models via helicopter and seeks out Harvey, whom he applauds and throws his full support behind claiming, \"I believe in Harvey Dent.\" Minutes later, Rachel meets with Bruce on the balcony upset that Bruce is making fun at Dent but Bruce tells her that he truly believes in Harvey and that he could be the White Knight that will allow him to hang up his mantle as Batman so they can be together. Dent joins them to thank Bruce and retrieve Rachel. Meanwhile Gordon discovers that there are 3 traces of DNA on the Joker card, from Commissioner Loeb, Harvey Dent, and Judge Surrillo, the Judge that is trying all of the mob members and found the card among the paperwork. Gordon takes this as a threat on their lives, and begins preparations to protect them. In the case of the Judge and Commissioner Loeb, however, this fails. The Judge's car blows up when the police arrive to take her into protective custody and Commissioner Loeb dies of severe poisoning from his liquor bottle before Gordon can stop him from drinking. Dent takes Rachel aside to ask her to marry him, but she is torn and cannot give him an answer. Bruce subdues Dent and locks him in a closet while Rachel watches in shock. Bruce tells Rachel that they (the Joker and his goons) have come for Harvey and to stay hidden from sight. The Joker and his goons burst in telling the guests that they are tonight's 'entertainment.\" The Joker scans the room seeking out Harvey Dent when Rachel steps forward. He grabs her and pulls a knife on her telling her a different version of the story about how he got his scars, claiming that his wife was scarred by loan sharks and that he took a razor to himself to \"make her smile,\" but that she left him over it. Rachel kicks him away and he comes after her saying that he likes that \"little fight\" in her, when Batman shows up and sends him reeling. A fight breaks out between Batman, the Joker, and his goons with the Joker and the goons beating on Batman pretty well. When Batman gains the upper hand he sees the Joker holding a gun at Rachel's head as he dangles her out of a shot out window. Batman demands he let her go, to which the Joker replies \"Very poor choice of words\" and lets her fall. Batman dives out the window and saves her using his cape to slow their fall as they crash into the roof of a car on the street. The Joker apparently vanishes from the scene. The next day, Wayne tries to figure out what the Joker is after. Alfred relates a story of when he was in Burma with friends attempting to nullify the local criminals by bribing them with jewels. One thief however, tossed these bribes away and continued to raid the local convoys. When Bruce seems confused over this behavior Alfred informs him that some men can't be reasoned with, they don't want anything in particular, that they kill for sport. Alfred observes that they just want to watch the world burn, as Bruce fixates on the Joker's face on a monitor. Batman is seen on the edge of a rooftop listening in to cell phone frequencies when he overhears a plot against Harvey Dent. Gordon rushes to the apartment with Ramirez and Batman to find two policemen murdered, with the last names \"Harvey\" and \"Dent.\" Ramirez begins to blame Batman, but Gordon cuts her off. As Batman removes a piece of concrete wall that contains a bullet used in the murders in hopes of finding evidence, Gordon notes that the Joker has left an advance copy of tomorrow's newspaper indicating the death of the mayor. At Wayne Enterprises, Fox meets with Wayne's accountant Coleman Reese, who claims to know about certain problems with Wayne's funding in research and development, claiming that Wayne has some sort of government project with cell phones for the army underway. He also uncovers Fox's designs for the Batmobile/Tumbler. He tells Fox that he wants $10 million per year for the rest of his life to keep this a secret. Fox smiles and says, \"Let me get this straight. You think that your client, one of the wealthiest and most powerful men in the world is a secretly a vigilante who spends his nights beating criminals to a pulp with his bare hands, and your plan is to blackmail this person? Good luck.\" Fox helps Wayne reconstruct the bullet taken from the murder scene and produces a fingerprint. Fox asks him if he has reassigned the R&D department. Bruce acknowledges that he has, claiming he is playing this one \"close to the chest.\" Wayne traces the bullet fingerprint's owner to an apartment overlooking the funeral speeches for Commissioner Loeb and takes off on motorcycle. As the ceremony continues on the street below, Wayne inspects a room where he believes the Joker might be, and he finds several men tied up. They tell Wayne that their guns and uniforms were stolen. Wayne inspects binoculars pointed out of a blinded window. The window blind is connected to a timer. As the timer reaches zero, the blinds quickly raise, and the police snipers positioned around the area all shoot in that direction. At the same time, the Joker, who had removed his makeup and played himself off as a member of the honor guard for the ceremony, turns and takes a shot at the mayor, but Lt. Gordon dives in the way, getting shot in the back and falling. Everyone panics and runs, but the police shoot one member of the honor guard in the leg and haul him into a truck. Dent himself climbs in the truck, and upon inspecting the criminal, sees that the name-tag on his uniform reads 'Officer Rachel Dawes'. He calls Rachel and informs her that she's been targeted, and to get to the safest place she can, which in her case is Bruce's penthouse. He tells her he loves her, but there is no answer from Rachel. Gordon's family is visited at home, to inform them of the death of Gordon at the funeral ceremony. Gordon's wife, Barbara, shouts out at the empty sky to Batman that he has brought this craziness upon Gotham. Gordon's young son catches a brief glimpse of Batman mournfully watching the scene. Meanwhile, Batman enters a club and grabs Maroni after beating on his men. He interrogates Maroni on the Joker's whereabouts, who claims that he should have held him from a higher location. Batman drops him off the ledge, injuring his legs and learns that Maroni has no idea where the Joker is. Maroni explains that the Joker has no friends and no one will give him up because unlike Batman, he plays by no rules. As Dent is interrogating the captured so-called honor guard member about what he knows about the Joker, he is enraged and holds a gun to his head. He flips his father's lucky silver dollar for his life, coming up on heads. As he flips the coin again, Batman shows up and snatches the coin in midair, asking if Dent would really leave a thug's life up to chance, to which Dent answers, \"Not exactly.\" He informs Harvey that this criminal - Thomas Schiff - is a paranoid schizophrenic patient from Arkham Asylum and that he won't learn anything from him. He also tells Harvey that if anyone saw this unjust way of interrogating someone, all that good work that Dent's done for Gotham would be lost. He tells Harvey to hold a press conference the following day, because he wants to use that opportunity to turn himself in. As Batman leaves, Harvey yells at him that he can't give in. Bruce arrives back in his penthouse to find Rachel waiting. She tells him that turning himself in will not stop the Joker's murderous rampage, but Bruce says he has enough blood on his hands already. He reminds her that she promised him that they would be together if and when he hung up the mantle of Batman. She tells Bruce not to make her his only hope for a normal life and they share a kiss. She tells Bruce that if he turns himself in as Batman that the city will never let them be together. Back at Wayne's secret base of operations for Batman, he and Alfred begin destroying everything that might tie Lucius Fox or Rachel to Batman. Alfred tries to talk Bruce out of it, asking him to endure these trying times and allow Batman to make the right choice that nobody else can for the good of the city. Bruce explains that Batman cannot endure the responsibility for innocents dying, especially where Rachel is concerned. At the press conference, Harvey attempts to reason with the assembled press and police to not give in to the fear that the Joker has unleashed upon the city. He agrees that Batman is a vigilante but that the people of Gotham should hold him accountable, and not give in to the whims of this terrorist known as the Joker. However, the people are overcome with fear, crying out \"No more dead cops,\" to applause indicating that Harvey will not be able to sway them. Upon his failure, Harvey announces that HE is the Batman, and gets handcuffed and taken away. Bruce Wayne is shown with a look of confusion on his face. Rachel, watching the news conference at Bruce Wayne's penthouse, confronts Alfred over Bruce's seeming cowardice in allowing Harvey to take the fall when he claims to be Batman. Alfred explains to Rachel that Batman is instead allowing himself to be something else besides a hero, mainly a figure outside of the system that the people can both turn to or blame in times of need, that Batman can 'take it\". Rachel gives Alfred a letter for Bruce and tells him to give it to Bruce when the time is right. When Alfred asks what it is, she tells him it is open and hugs him before departing to see Harvey as he is being transported to the County lock-up. While being taken to a convoy that will transport him to a county, Harvey explains to Rachel that this is Batman's chance. He then pulls out the coin and says \"Heads: I go through with this,\" and flips it, landing on heads. When Rachel tells him that he can't leave something like that to chance, he tosses her the coin, revealing that it is a two-headed coin. During this transport, he's planning on getting attacked by the Joker, and he's planning on Batman to come and save him, and to capture the Joker. The convoy takes off. While transporting Harvey, the Joker and some goons start taking out the police cars in a large semi truck. He pulls out an RPG and beings firing at the armored truck carrying Dent. The Tumbler arrives and attempts to stop the Joker, and gets hit with the RPG in the process. His car takes 'catastrophic' damage, and he's forced to eject. However, the ejection in this car is a bike, that deploys out the front of the car. This bike becomes known as the 'Batpod'. Batman chases down the Joker on his Batpod, and after firing some cables at the truck and weaving them through some light poles and buildings, flips the truck completely over. The Joker emerges with a Smith & Wesson M76 Submachine gun and shoots at Batman, who speeds towards him on his Batpod, all the while screaming at Batman to hit him. Batman honors his own non-lethal code and swerves around the Joker then crashes into the flipped truck, falling to the ground. As the Joker jumps on him with a knife, one of the SWAT officers holds a gun to the back of his head, and upon removing his helmet and mask, shows that it was Lt. Gordon, who faked his death to protect his family. The Joker is hauled away to the MCU. Harvey gets out of the truck and into a cruiser, stating he is off to see a worried girlfriend. At Gordon's Major Crimes Unit building, Gordon is promoted to Commissioner by the Mayor. The Joker shares a cell with a large man who complains about his insides hurting. Commissioner Gordon, after reuniting with his family, gets a call explaining that Harvey never made it home. He returns to the prison to interrogate the Joker. During the interrogation, Batman appears and starts beating on the Joker, trying to find out where Harvey is. The Joker gets under Batman's skin telling him that they are both freaks and that when the people of Gotham no longer view Batman as a necessity, they will turn on him. Batman becomes enraged and puts a chair under the door and beats the Joker savagely, but The Joker just laughs and defiantly tells Batman that there is nothing he can do to him to hurt him and that he actually enjoys the beatings. The Joker sadistically reveals that not just Harvey, but Rachel are in separate locations, both tied up and strapped to explosives that will explode in a short amount of time. He gives the locations of the two, saying that he only has time to save one of them and that he must make a choice that will violate Batman's \"code\" of non-lethal means...that one of them will die since Batman cannot save them both. Batman heads off, telling Gordon that he's going after Rachel. Gordon gets some men ready and heads off after Harvey. As Batman and the police are rushing towards the two prisoners, Harvey awakens to hear Rachel's voice. Whoever captured them set up an intercom system so that the two can communicate. Harvey tells Rachel that everything will be OK, and Rachel tells Harvey that she wants to marry him. While Dent's trying to hop around in his chair trying to find something sharp to cut his ropes with, he falls over and knocks an oil drum down, and the gasoline spills all over half of his face. Meanwhile, back at the jail, the Joker tricks a cop and holds him hostage, and he tells the other cops he just wants his phone call. Upon getting a cell phone and dialing a number, the large man that was in the cell with him blows up. The Joker had cut him open and implanted a cell phone-triggered device inside of him. The Joker grabs Lau and flees the jail. Batman arrives at the address that the Joker had told him Rachel was at, but when he opens the door, he finds Harvey Dent instead, who screams in despair at having been found instead of Rachel. Gordon arrives at the supposed location for Dent but the warehouse explodes and Rachel is killed. As Batman saves Dent by carrying him out of the warehouse, the explosion ignites the gas that saturated Dent's face, horribly burning it. Dent is taken to Gotham General Hospital. Batman visits Dent in the hospital, and leaves him the two-headed coin that they found at Rachel's site of death. One side of the coin is still shiny, while the other side is scraped and burnt. Alfred reads Rachel's letter. She explains that she is going to marry Harvey Dent and that when she told him that she would be with him when he no longer need to be Batman that she meant it. However, she realizes that he will always be Batman so she will always be there as his friend. Bruce expresses to Alfred his devastation behind losing Rachel and that he feels responsible for inspiring madness and death. he tells Alfred that she was going to wait for him. Alfred chooses not to give him her letter, saying the time is not right and that with Harvey Dent hospitalized, it will be up to him alone to fight the crime in Gotham City. Meanwhile, Harvey wakes up in the hospital with a large bandage over half of his face, finds his now scarred two-headed coin, and screams out in anguish over losing the one person he loved. Commissioner Gordon visits Dent and tries to tell him how sorry he is for what has transpired, questioning why Dent refused skin grafts and how he can stand to be in unrelenting agony over his disfigurement. Harvey is filled with rage for Gordon not listening to him when he warned Gordon not to trust the corrupt officers that Dent investigated during his time in Internal Affairs which has resulted in Dent's disfigurement and ultimately Rachel's death. Dent demands Gordon tell him the nickname they had for him when he was in I.A., which Gordon ashamedly replies \"Harvey Two-Face,\" while being forced to stare at the extensive burns and scarred tissue that have enveloped half of Harvey's face. As Gordon leaves an emotionally devastated Harvey, he runs into Maroni in the hallway who tells him that the Joker has gone too far and that if Gordon wants the clown, he knows where he will be. Wayne's accountant Reese appears on a news show claiming to be able to tell the world who Batman is. He tells Gotham that he is going to reveal Batman's identity, but before he can, the Joker calls in to the show saying that he doesn't want this lawyer to ruin his fun. He says that if the lawyer is not killed within 60 minutes, he is going to blow up a hospital. This triggers the police to rush in and protect the lawyer, and try to carry him to safety. At the same time, other police are evacuating all of the hospitals in Gotham City. When they get to Gotham General, a police officer attempts to evacuate a nurse in Harvey Dent's room, which then turns out to be the Joker, and he kills the cop. He then explains to Two-Face how he needs to introduce a little anarchy and chaos, how easy it is to bring down all the good people in the world and how it's all fair. Joker unties Two-Face and hands him a pistol. Two-Face, bent on revenge and now believing everything in the world should be decided by chance, flips the double-headed coin to decide whether or not to shoot Joker which Joker agrees is only fair. Though we don't see it, the coin obviously lands on the clean side since the next scene shows Joker leaving Gotham General Hospital as it blows up in the background. Afterwards, the Joker appears on TV again, forcing kidnapped GCN reporter Mike Engle to read out his plans. He reads that Gotham City now belongs to the Joker, starting that very evening. Anyone that doesn't want to be a part of his game should leave now, but they are going to have a hard time leaving the city by the bridges. He alludes to the fact that something big was going to happen that very night. During which, Two-Face enters a local bar where Detective Wuertz - the 'dirty' cop that had picked him up after the Joker was captured - hangs out. After questioning him, he flips the coin which lands on the dirty side and he kills Wuertz. At the same time, Batman uses Fox's 'cell phone sonar' technology to somehow turn every single cell phone in Gotham into a sonar device, giving him the opportunity to spy on everyone in Gotham. He calls Fox in, and tells him to monitor the screens, and give him updates on the Joker's location when he sees him. Fox is appalled that Batman would use his technology to spy on the citizens of Gotham and reluctantly agrees to help, stating that the machine must be destroyed after the Joker is captured or he will have to retire. Two-Face continues to question mob members, trying to uncover the identity of the dirty cop that kidnapped Rachel. When confronting Maroni in Maroni's car, he learns that the other cop is Ramirez. He then flips the coin for Maroni, which lands on the clean side. \"Lucky Man,\" he remarks before he flips it again. It lands on the dirty side and he buckles up and states, \"But he's not\" as he shoots Maroni's driver, causing the car to veer off the road and crash into the dockyards. Meanwhile, two large ferries leave Gotham due to the Joker's threats. One is inhabited by criminals that Harvey and Gordon helped put away, the other is packed with innocent citizens - the city's bridges apparently being wired with explosives. While sailing off, the two boats completely lose all power and their engines die. Both ships eventually realize that there are explosives strewn all about the boat, and they both find detonators. It is at this time that the Joker's voice is heard over the loudspeaker of both ferries, and he informs them that they are part of a social experiment. The detonator on each boat is for the other boat. One ferry must press the button and destroy the other boat by midnight, or else the Joker will destroy both boats. This brings about much chaos in both boats, and a lot of soul searching about morality and about if anyone could actually do such a thing. Fox finds the Joker, who is holed up in a building still being constructed with many clown guards. Batman notifies Gordon of the location, and speeds off towards the building. Meanwhile, Two-Face forces a frightened Ramirez to call Gordon's family and tell his wife and children to meet her at the exact spot where Rachel was killed. They believe her because they trust her. Afterwards, Two-Face, angered with Ramirez's pleas to spare her life for the sake of her sick mother, flips for Ramirez's life. The coin lands on heads, so he just knocks her out, telling her that she \"lives to fight another day.\" As Gordon arrives at the building where the Joker is, he gets a call from his family telling him they are being held captive by Two-Face in the place where Rachel was killed. Gordon rushes off to save his family as Batman breaks in to the building. After realizing that the clown guards are the actual hostages and the doctors/hostages are the Joker's goons, he beats down some SWAT members in order to prevent them from killing the clown guards, and he disables the goons as he makes his way up to the Joker's location. When he finally confronts the Joker, the Joker sends the Chechen's rottweilers after him, and while Batman fights them off, the Joker beats him brutally with a blunt metal object, and eventually throws him close to the edge of the building, trapping him under a metal beam. At the same time, the two boats are still debating what to do with the detonators. On the 'criminal ferry', one of the largest and meanest-looking convicts makes a speech about the warden holding the trigger not knowing how to take life, then goes up to the warden and asks to take the trigger so he himself can do what the warden should have done ten minutes ago. The warden hands the convict the trigger and the convict promptly throws it out of the ferry, making it impossible for anyone on the convict ferry to blow up the 'innocent' ferry. On the innocent ferry, after having voted to use their detonator, the officials can't bring themselves to act out the decision. A man stands up, takes the detonator but is unable to press the button. The Joker, on top of Batman while holding him down, shows signs of disappointment when neither of the ferries' passengers will stoop to his level. As he's about to destroy the two boats, Batman fires his gauntlet darts at him, knocking the detonator out of his hands, and throws him over the edge of the building. Before he can hit the ground, however, Batman fires one of his grappling gun tools at him and saves him. While hanging in front of Batman, the Joker tells him that the two of them are destined to fight forever, and how Batman really IS incorruptible. The Joker reveals to him, however, that his real plan was to engineer the fall of Gotham's White Knight, Harvey Dent, since that would introduce much more chaos when a good man like Dent is shown descending into chaos and evil. Batman heads off to find Harvey, while the SWAT team captures the Joker. At 250 52nd St, Gordon arrives to see Two-Face holding his family hostage. Two-Face knocks him to the ground and tells him that he's going to make him suffer just as he did, as he grabs his young son Jimmy and prepares to flip the coin for his fate. Batman arrives and tells him to stop, and to blame the people responsible for Rachel's death. So then Two-Face flips the coin for Batman, which lands on the dirty, scarred side, and Two-Face shoots him. He then flips the coin for himself and it lands on the clean side. As he's flipping the coin for Gordon's son, he tells Gordon to lie to the boy and tell him that everything will be alright, just as Dent himself had to tell Rachel earlier, seconds before she was killed. Batman gets up and tackles him and they fall off of the building together. Unseen by them, the coin lands on the clean side. Batman hands Jimmy up to Gordon as Batman himself falls to the ground next to Two-Face, who lies motionless. As Gordon climbs down to check on Batman, Batman laments that, in the end, the Joker won. By corrupting Harvey Dent and turning him evil, he tore down the best of them. If Gotham were to find out about Dent's murders, then the symbol of hope and faith he had given Gotham would diminish and all the prisoners he helped put back in jail would be let out, thus creating chaos. Batman explains that Gotham can never find out about the murders, and takes the blame of them on himself, so that the Joker wouldn't win and the city's peace would remain. We see a montage of Commissioner Gordon and other members of the Gotham City Police Department gathered at a memorial to Harvey Dent. It is unclear whether he was killed or not. Gordon then smashes the Bat Signal above the MCU Building, while Alfred burns Rachel's note and Lucius shuts down the sonar machine with a pleased look. Batman, in the background, continues to explain that by taking the blame of the killings, the faith that the people of Gotham had in Harvey Dent can be rewarded, and they can feel justified. Batman then runs from Gordon as the cops begin to chase him, and Gordon tells his son that while Harvey Dent was the hero Gotham needed, Batman is the hero that Gotham deserved. The bat-signal is destroyed and a manhunt is issued for Batman. Batman gets on his Batpod and speeds away, while Gordon declares: \"He's a silent Guardian. A watchful protector. A Dark Knight.\"",
+      "writers": [
+         "Jonathan Nolan",
+         "Christopher Nolan"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0468569/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Christian Bale, Heath Ledger, Aaron Eckhart | See full cast and crew »"],
+      "reviews": [
+         "We've been subjected to enormous amounts of hype and marketing for the Dark Knight. We've seen Joker scavenger hunts and one of the largest viral campaigns in advertising history and it culminates with the actual release of the movie. Everything that's been said is pretty much spot on. This is the first time I can remember where a summer blockbuster film far surpasses the hype. For as much action as there is in this movie, it's the acting that makes it a great piece of work. Between all the punches, explosions and stunt-work is some great dialog work. All the actors have their moments. Bale's Batman is the definitive Batman because we see everything in this character finally on film. Martial arts skills, cunning, great tactical thinking, forensic application, technological genius to advance or improve Luscious Fox's inventions/technological breakthroughs, intimidating personality, and even a little swashbuckling. As for Heath, yes he gets credit for his performance as the Joker. But you have to also recognize Jonathan and Chris Nolan for the writing and treatment of the character. It's not just the fact that Ledger makes the Joker so menacing, but the Nolans have given the character this great manifesto that drives its actions. The Joker's stance on chaos, order, anarchy, the morality of the average modern human being make the character so interesting psychologically. The Nolans drafted a complex character and only a perfect performance could've pulled something like this off. That's how difficult of a role this was, and that's why Ledger's performance is so great. This isn't an action movie. It's a film that explores literary themes of the hero and villain, as well as order and anarchy. Yes, listen to the dialog because it's all in there.",
+         "Christopher Nolan's second bundle of joy \"The Dark Knight\" EXCEEDED all of my expectations!!! With the success of 2005's reboot of the Batman franchise, they took what was already established and expanded it, amped it up, and gave a deeper, darker and brooding story that is more gripping and the suspense is likely to catch you of guard several times throughout. Christian Bale delves more deeper into Batman, sworn to fight evil and injustice, though also quite reluctant and uncertain if his crusade can ever end and cleanse his inner turmoil from his fractured soul due to the murder of his beloved parents. But with the help of his trusted butler/ally Alfred (played superbly by Michael Cane) grounds him, gives him moral support, and keeps him in check. But the real star of the show is Heath Ledger as Batman's most deadly enemy, The Joker. I can HONESTLY tell you that: as good as Jack Nicholson was in Batman'89 he is CHILD'S PLAY compared to this Joker. He is sadistic, psychotic, and downright SCARIER and PSYCHOLOGICALLY disturbing than the previous incarnation of The Clown Prince of Crime and Ledger gives it his all to do him justice. Along with the original cast comes some fresh faces such as Aaron Eckhart, Maggie Gyllenhaal and more. I must say though I liked Katie Holmes, Gyllenhaal gives a much better performance and is a far cry from the \"damsel-in-distress\" stereotype (though there's a little of it, THANKFULLY) that's common in films. Bale and Gyllenhall have MUCH better chemistry this time around more so than Holmes. Even better, the fight sequences are vastly improved and feature more brutal and bone crushing combat than \"Begins\" in addition to new technology at Batman's disposal. Also worth mentioning is screenwriter Jonathan Nolan, who gives the film an added frosting to an already delicious cake. Simply put, The Dark Knight is totally more bad ass than \"Begins.\" The action is great, and the plot is more deeper and engrossing. I applaud Christopher Nolan, Christian Bale, and especially Heath Ledger (who sadly passed away earlier this year) and all those aboard for believing in Mr. Nolan's talents for this second installment. Although some may feel a bit of melancholy over Ledger's death, but as a final note I will say this sincerely from my heart: Remember Heath Ledger and honor him in your minds and hearts not only for his performances, but as a human being and father to his daughter Matilda Ledger. May we issue him best wishes for his family and friends and his daughter for years to come. Remember . . . Honor him not only for this role and past roles, but as an incredible individual and talented actor. Rest in peace. Heath Ledger: 4/4/1979-1/22/2008.",
+         "I had the honor of watching TDK during a screening and was completely blown away! This isn't just the best Batman movie ever made, this is one of the best movie ever made. Everything in this film is excellent, not one piece of annoyance. Bale marvels as Bruce Wayne/Batman, Ledger has made The Joker in to an iconic movie villain. His performance belongs there at the top with Hopkins Lecter. The Joker has finally been portrait properly on film, he has earned his place between the big boys in movie villandom. This is the true Joker every Batman fan knows, loves and fears. Ledger deserves any and every movie award known to man for this brilliant display. Nolan has made his \"I will always be remembered\" movie, this is the crownjewel in his portfolio. Perfect directing, perfect story, perfect balance between action and drama, everything is perfect. Even if you hate Batman, you will love this film. If you don't, then something beez wrongz with youz!",
+         "I must say I was excited for this movie since the instant BATMAN BEGINS appeared on screen at the end of the first film. It was always going to be good, and sadly, it was always going to be over-hyped by the advertising warhorses. It is rare though, that a movie can surpass all the hype and pass all expectations on the film. Nolan (The Prestige, Begins) delivers on more than the Joker we remember from the 'Old Days' of Burton and Nicholson. Instead we're given a psychopathic sadist who pleasures from sheer anarchy. All the hailing of Ledger's performance are grounded. Watching it will make you feel a different chill down your spine than you'd remember from any other film. It's impossible, quite literally to relate to The Joker. He gets inside your head with his stories of how he got his scars, makes you laugh at his sick jokes, then makes you instantly wonder why you're laughing. If Ledger wasn't enough to horrify you - wait for Harvey Dent. Brilliantly portrayed by Aaron Eckhart as Gotham's 'fallen White Knight' and Batman's direct counterpart. His transformation will put Tommy Lee Jones' portrayal look like children's breakfast cartoons. Gyllenhaal had perfect chemistry with both Bale and Eckhart, Michael Caine and Morgan Freeman both work well as Batman's 'conscience' and of course, Gary Oldman as Lieutenant Gordon were all solid. There are some major differences between The Dark Knight and Begins. Firstly, the music is extremely disconcerted compared with the 'majestic but unfinished' tones of Begins - but it suits the film's tone: Anarchy in every sense. There was a more solid singular villain (compared with the many in Begins) - but there was also a lot more henchmen in TDK. The martial art direction was faster and more efficient - as mentioned in the film, learning through experience. I was disappointed at the role of Scarecrow in this film, it just felt like a loose thread and wasn't quite closed up or explained, and the ending, while it wasn't what I expected (others have said that it was predictable, but for me it wasn't) was solid and suited the film well. All in all, this is a film that is quite close, if it isn't already, a masterpiece. Nolan has a great thing going and unlike previous 'Superhero' adaptations (Spiderman and Fantastic Four for example), there isn't campiness creeping in. In face, if Batman Begins was 10/10, The Dark Knight deserves a 12. Quite simply, the best possible sequel that could've been given. If you watch this (which I implore that you do), you certainly won't regret it. One of the best movies of 2008 (I'll wait till Quantum of Solace comes out before I pass judgement) - but certainly a film worth getting excited for. If you don't like it, then that's also fine - but keep in mind that you probably thought Meet The Spartans was a good movie, so the rest of us won't take it to heart. Stunning in every aspect, and exceeds all hype and expectation... Can't wait to watch it again, or for the Blu-Ray!",
+         "I used to leave a theatre after seeing a highly anticipated movie, specifically a sequel, and be so revved up about what I saw that I would declare that movie to be the best of a series. After each of the prequel \"Star Wars\" films, I rated that one the best, as good as any of the originals...for a time, until my opinion balanced out and I had a more well-rounded take. For that reason, I steer away from that mindset, and did for \"Dark Knight\". Though my opinion is solidifying already after having seen a Warner Bros. screening last night, \"Dark Knight\" ably stands on its own with or without \"Batman Begins\". At a two and a half hour runtime, it's definitely an epic of a movie, but one that never runs out of gas. A delightful addition to this experience was a healthy amount of IMAX footage, which significantly adds to the feel of being on a personal, and gruesome, tour of Gotham City. Christian Bale plays such a well rounded Batman and Bruce Wayne, qualities that none of those who have donned the cowl before him have pulled off. I still have to remember that Bale is British since he speaks with such a spot on American accent. Bale has a particular slurring lisp that serves him quite well, charmingly for Bruce Wayne and threateningly for Batman. Countering him is the late Heath Ledger, who plays such a scary and creepy Joker that I found it impossible to NOT have chills half the time I saw him on screen. What really separates this brand of Joker from Jack Nicholson's portrayal is true unpredictability. It's obvious that, to be a good guy and think like the Joker, it really takes a toll, and it sure isn't easy. How exactly does one take him down when he's woven his harebrained plot around multiple hostages, explosives, or disappearing parlor tricks? Initially, I was uneasy about how the character of Harvey Dent would be handled. In my mind, there was really only one faithful portrayal of him, and that could be found in the \"Batman\" animated series of the early 90s. As well as Tommy Lee Jones COULD have handled him in \"Batman Forever\", he certainly did not, though it still was a highlight of that movie. Aaron Eckhart ably assumes the mantle here, delivering a performance out of this world, easily on par with the Batman animated series. Be it known, this caped avenger stands for the good of Gotham City that the police force and its counterparts can't represent, the good that has no jurisdiction, no procedures...and no rules, save for one. I can only hope that we've seen just the prelude to the Dark Knight's upcoming legendary battles with the worst of Gotham City's dark underside. \"The Dark Knight\" gets a solid 10 of 10 stars.",
+         "I thought Batman Begins was a very well conceived and put together movie. We finally get Batman as a fully rendered character. We gain new insight into his motivations and the variables he must contend with in his role as protector of Gotham. We get to see Gary Oldman as an honest-to-goodness good guy. And we get to see Liam Neeson conducting perhaps his strangest facial hair experiment yet. But after seeing The Dark Knight, Batman Begins will forevermore be viewed (by me at least) as a handy little prologue to a FRICKIN' MASTERPIECE of a superhero film. To say it's the deepest mainstream comic adaptation ever produced would be akin to calling the Nolan/Ledger Joker 'a bit eccentric'. While watching it, I found myself thinking it was very long, which is usually a sign that it's TOO long, and therefore boring. But that's not actually the case here. The script is bulging with ideas, philosophical musings, THEMES, which Christopher Nolan is not content to gloss over in favour of cool set-pieces (as many comic adaptations are), but wants to explore, wants to allow the characters to explore, at a logical pace. So, what I guess I'm saying is, considering what it sets out to do, the movie is long ENOUGH, while still constantly holding the viewer's interest. And that's not to say the thematic exploration comes at the EXPENSE of big action, either. On the contrary, there is some truly awesome stuff going on here. The chase with the truck, for example, is fantastic, and there's some great hand-to-hand stuff too. But what engages us most is the characters, and, while the script is brilliant (the dialogue is sharp, and quite funny for the first two-thirds, before the drama really kicks in), this mainly comes down to the cast. Christian Bale. Taller than Michael Keaton was. More menacing than Val Kilmer was. Less like Adam West than George Clooney was. Solid and committed as always. He gives the character LIFE, and actually makes us feel for him. The word 'tortured' keeps coming to mind...and I suppose it's pretty appropriate. Heath Ledger. Y'know, I'd heard talk of an Oscar nomination, and thought it sounded a bit dubious. A Batman villain? Winning an Oscar? Is that what it's come to? Then I thought, is it because he didn't get one for Brokeback? Or more dubious still...is it because he...died? But...well...how can I put it...? It seems a bit blasphemous to compare Jack Nicholson to Cesar Romero, but after seeing Heath at work...Jack (who once seemed so awesome) just looks...well...lame. If you've seen it, you hopefully get what I mean. If you haven't...you need to. You will discover the true definition of commitment. Maggie Gyllenhaal. I didn't have any problem with Katie in the first one (at the time), but I doubt she could have pulled off the more emotional stuff Rachel goes through here. Seeing recasting was necessary (does Tom have a problem with his wife being involved with Batman? Too many bad memories perhaps? Why am I even talking about such garbage here?) they could have done a butt-load worse than Maggie. She rocks. As does Aaron Eckhart. But I'm not giving ANYTHING away. Suffice it to say my mind was blown...AGAIN. Makes Tommy Lee Jones look like...you get the idea. Michael Caine. Still one of my favourite actors. Alfred is the shiz. Morgan Freeman. Morgan Freeman. AOK. Gary Oldman. As in BB, no mania. No psychosis. No nervous tics. Absolute subtlety. Manages to hold his own alongside Christian, Heath and Aaron without resorting to parlour tricks. Sign of spectacular talent. Go Gaz. Eric Roberts! William Fichtner! Michael Jai White! Tiny Lister! The whole thing is just a big bag of thoughtful, well-executed entertainment. It's equal parts cerebral and visceral. Ideas and action. I've liked every Batman movie so far (okay, besides Batman & Robin), but this one makes them all look pretty bloody ordinary.",
+         "Batman has always been my favourite superhero ever since the first time I heard about him because he his human with no powers, also he is much more questionable than any other superhero. The story of the film is about Batman, Lieutenant James Gordon, and new district attorney Harvey Dent beginning to succeed in rounding up the criminals that plague Gotham City. They are unexpectedly challenged when a mysterious criminal mastermind known as the Joker appears in Gotham. Batman's struggle against the Joker becomes deeply personal, forcing him to \"confront everything he believes\" and to improve his technology (which introduces the recreation of the Batcycle, known as the Batpod and the Batsuit was redesigned) to stop the madman's campaign of destruction. During the course of the film, a love triangle develops between Bruce Wayne, Dent and Rachel Dawes. There are now six Batman films and I must say that The Dark Knight is the best out of all of them. The title is good because that is what Batman actually is. It has been 3 years for the adventure to continue from Batman Begins but that entire wait was worth it. Gotham city is very Gothic looking and is very haunting and visionary. The whole movie is charged with pulse-pounding suspense, ingenious special effects and riveting performances from a first-rate cast especially from Heath Ledger who gave an Oscar nomination performance for best supporting-actor. It is a shame that he can't see his terrific work on-screen. The cinematography is excellent which is made so dark & sinister that really did suit the mood for the film. Usually sequels don't turn out to be better than the original but The Dark Knight is one of those rare sequels that surpasses the original like The Godfather 2. I also really liked the poster where the building is on fire in a Bat symbol & Batman is standing in front of it. Christopher Nolan is a brilliant director and his film Memento is one of my most favourite films. He hasn't made 10 movies yet and 3 of them are already on the IMDb top 250. Overall The Dark Knight is the kind of movie that will make the audience cheer in the end instead of throwing fruit & vegetables on the screen.",
+         "(Synopsis) Bruce Wayne/Batman (Christian Bale) continues to eliminate crime in Gotham City with the help of Lt. Jim Gordon (Gary Oldman) and the new District Attorney, Harvey Dent (Aaron Eckhart). The Dark Knight wants to finally get rid of organized crime for good and be free of their corruption. Batman soon finds that a new psychopathic mastermind known as the Joker (Heath Ledger) has taken over organized crime. The Joker's plan is to terrify the citizens and throw the city into chaos, and kill Batman. Batman takes the fight with the Joker personal, which makes him confront his own beliefs. The Joker is the most dangerous criminal that Batman has encountered, and he will need all his strength and vigilance to defeat him. (My Comment) This film just blew me away. Christian Bale is a natural as Bruce Wayne/Batman, and Michael Caine fits the part of Alfred, the trusted butler. Heath Ledger's performance as the sadistic Joker was absolutely disturbing and scary yet simply amazing. I would not want to meet the Joker in a dark alley, and whatever you do, don't ask him how he got his smile, especially, when he has a knife in his hand. Ledger's performance has turned the Joker into a new iconic movie villain image. Between all the punches, mayhem, and explosions, there is some good sinister dialog. The movie not only has a lot of action, it also tells the story of the internal struggle that Bruce Wayne is having with being the Batman hero. Bruce Wayne wants to be himself and maintain the difference between himself and Batman. Bruce must decide to follow the code or do what has to be done without affecting his own morals. The movie explores the literary themes of Hero verses Villain, as well as Order verses Anarchy, and the Joker explains to Batman that to have one you must have the other, and because of that, they will always be connected. The movie is long, but it went by so fast. You will love the last 45 minutes, because of the non-stop action with Batman in his new sonic suit and his BatPod. With all the explosions, body count, and the dark mood of the movie, I don't think parents should take young children. (Warner Bros. Pictures, Run Time 2:32, Rated PG-13)(10/10)",
+         "I think the big question...or the question everyone actually cares about is this: Is Christopher Nolan's follow up to the critically acclaimed 2005 film \"Batman Begins,\" The Dark Knight, as good as everyone is saying? Quite simply, yes, yes it is. There is no doubt about it, one of the most anticipated movies of the 21st century duly deserves every amount of praise lavished onto it. This is no ordinary superhero movie, this is a character and dialogue driven piece, not as action orientated as you might expect. I will not go into plot details, because there is a lot of it. However, a basic one sentence summary is: Batman now has to face his most cunning and psychotic enemy, someone with no real motives...The Joker. Now that that is out of the way, I will start off with the actors (and boy, is there a lot to talk about). Christian Bale has done a tremendous job as our beloved Caped Crusader, with him already blowing everyone else out of water with \"Batman Begins.\" Bruce Wayne has a flawed personality that hangs on the balance between righteousness and criminal. His perception of justice causes an emotional and personal shift, whether he is a wealthy businessman who fights crime in a gadget-riddled suit or just a normal man who is sick of all the scum in Gotham City and decides to give the law-breakers a dose of their own medicine. Because of this, and Bale's tremendous acting, Bruce Wayne is justified, and we emphasise with Bale's flawed hero more than any of the other actors. If there ever was an excellent Batman, this is it. The theme of right and wrong is played well with his character here. Of course, I am sure you all want know if Heath Ledger was that good. And I can safely say that he most definitely was. Ledger's Joker is not only the best, but is now the greatest superhero film villain ever. His performance is truly terrifying, chilling, brilliant; any synonyms of the previous adjectives. Every scene he is in is stolen. The Joker truly is Batman's worst villain; cunning and psychotic, nothing quite matches his laugh and sinister makeup. If Ledger nabs the Oscar for Best Actor, I honestly will not be surprised. It is a true tragedy to see such a talented actor fall at such a young age... All the other actors cannot be forgotten, though. Aaron Eckhart has definitely proved himself previously (\"Thankyou for Smoking\") as someone to watch out for. Here, as Harvey Dent (and later Two Face) he is very powerful. All he wants is justice; to bring down every single criminal. Eckhart is the definitive Two Face. Maggie Gyllenhaal as Wayne and Dent's love interest, Rachel Dawes is much better than Katie Holmes. Gyllenhaal's performance has substance, I really cared for her and her future and she was terrific in every scene. Michael Caine can do no wrong, and as Alfred Pennyworth he provides some comical and emotional scenes. Morgan Freeman as Lucius Fox, although a limited role, does inject some sly humour and much needed morals into the story. Finally, Gary Oldman's Lt. James Gordon is riveting. He at least needs a Best Supporting Actor nomination for his performance as another crime-fighting hero who faces some challenging situations. Wally Pfister's cinematography is simply stunning. Gotham has never looked so good, so big and deep. His wide shots purvey a dirty aura and contribute to the feel of the film. Without it, it may not have been the same. Another Oscar worthy portion, THE MUSIC! With Hans Zimmer AND James Newton Howard at the helm, how could it go wrong? The score sets the mood in every scene, giving an epic and thrilling tone. During the action sequences it really ups the adrenaline. And on the topic of action, The Dark Knight succeeds in having the best fight sequences and car chases in a comic book adaptation yet. With no obvious or over-use of CGI, the explosions and accidents are the real deal. Thrilling, edge of your seat and violent, this is brutally awesome stuff. Nevertheless, none of this would be possible without Christopher Nolan, the man behind it all. Pairing up with the writer (and brother) Jonathon Nolan, the darkest Batman movie yet is the best, and the best so far this year. This does not feel like a comic book film, the dialogue and situations feel so realistic. And, it IS the script that drives this film. The dialogue is very, very well written and is the centre of the conflict and the movie. It may be bold to say this, but this is the best superhero film of all time. There are others that are magnificent (\"Superman\" and \"X-Men\" are two examples) but this is the most complex, the most dark and the most spectacular and epic of them all. See it for Bale, for Ledger, for the music, the action and for Nolan's flawless direction. 5/5 and the best film of 2008 so far!!",
+         "I have just come out of the \"Dark Curtain\" Screening for The Dark Knight in Adelaide, and I'm blown away. Nolan's directing is sublime, the pacing of the movie was so well kept, managing to keep the audience enthralled in an almost 3 hour movie. There were several shots in the film that had me saying \"Now how in the hell did they do that?!\", Brilliant scores by James Newton Howard and Hans Zimmer. Every actor shines, no one person steals the film. I don't want to say much about it, because whatever is said cannot do it justice, there is enough hype surrounding it's release, but it's there for a reason. Top Notch film. Bravo to Nolan and his crew for giving a movie that Batman truly deserves. 9/10."
+      ],
+      "genres": [
+         "Action",
+         "Crime",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Warner Bros.",
+         "Legendary Pictures",
+         "Syncopy"
+      ],
+      "summaries": [
+         "Batman raises the stakes in his war on crime. With the help of Lieutenant Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the city streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as The Joker.",
+         "Set within a year after the events of Batman Begins, Batman, Lieutenant James Gordon, and new district attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City until a mysterious and sadistic criminal mastermind known only as the Joker appears in Gotham, creating a new wave of chaos. Batman's struggle against the Joker becomes deeply personal, forcing him to \"confront everything he believes\" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent and Rachel Dawes.",
+         "The follow-up to Batman Begins, The Dark Knight reunites director Christopher Nolan and star Christian Bale, who reprises the role of Batman/Bruce Wayne in his continuing war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to destroy organized crime in Gotham for good. The triumvirate proves effective. But soon the three find themselves prey to a rising criminal mastermind known as The Joker, who thrusts Gotham into anarchy and forces Batman closer to crossing the fine line between hero and vigilante.",
+         "Gotham's new district attorney has been elected. His name is Harvey Dent, and he has a radical new agenda that threatens to take down Gotham's organized crime underworld once and for all with an iron fist. But the emergence of the rogue vigilante known as Batman has caused problems for Dent and his agenda. A new criminal mastermind known only as \"The Joker\" has arrived and aims to take Gotham out from under Harvey Dent's iron fist. The Joker stages a masterfully planned bank robbery and robs the Gotham mob blind. He uses this money to stage a series of horrific and strategic attacks against the city and its' people - each one carefully planned and aimed at Dent and Batman while causing the rest of the city to enter panic mode. Meanwhile, Batman thinks he might have found a lead to The Joker thanks to Wayne Enterprises' dealings with a shady Chinese banker, and that takes Batman and Alfred to Hong Kong. The Joker has no rules, but Batman has only one, and the Joker aims to make Batman break his only rule. But who will be the one to take him out - will it be rogue vigilante Batman or will it be elected official Harvey Dent, the new hero with a face?",
+         "One year after the events of Batman Begins, Batman, Gordon, and the new DA, Harvey Dent plan to launch an attack on the mob by arresting the shady accountant of the mob, Lau. Lau is abducted from his building by Batman and is thrown into jail. Lau divulges the secrets which results in almost all the mob bosses thrown in jail. The desperate mob bosses turn to the Joker, a sadistic psycopath with green hair, completely yellow teeth and a custom purple suit. The Joker kills a judge,the commissioner of police and tries to kill the Mayor and Harvey. The acts of Joker produces anarchy and chaos of in the people of Gotham forcing Batman to Come to terms to which may seem to be his greatest test to fight injustice and come clser to the fine line between hero and vigilante.",
+         "With just one year having passed after taking out Ra's Al Ghul's plan to have Gotham eliminated and the mysterious disappearance of Dr. Jonathan Crane AKA the Scarecrow, and after the city was nearly plundered with his toxins, Bruce Wayne and his vigilante alter-ego the Batman, continue the seemingly endless effort to bring order to Gotham, with the help of Lt. James Gordon and newly appointed District Attorney Harvey Dent. But a new threat has now emerged into the streets. The Dark Knight faces a rising psychopathic criminal called The Joker, whose eerie grin, laughter, and inhuman morality makes him as dangerous than what he has yet to unleash. It becomes an agenda to Batman to stop the mysterious Joker at all costs, knowing that both of them are in an opposite line. One has no method at all and seeks to see the world plunge into the fire he has yet to light. One represents the symbol of hope and uses his own shadow to bring the peace and order he has yet to accomplish doing.",
+         "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice."
+      ],
+      "budget": 185000000
+   },
+   "movielensId": 58559,
+   "movielens": {
+      "languages": [
+         "English",
+         "普通话"
+      ],
+      "releaseDate": "2008-07-16",
+      "dvdReleaseDate": "2008-12-09",
+      "directors": ["Christopher Nolan"],
+      "runtime": 152,
+      "movieId": 58559,
+      "title": "The Dark Knight",
+      "mpaa": "PG-13",
+      "actors": [
+         "Christian Bale",
+         "Michael Caine",
+         "Heath Ledger",
+         "Aaron Eckhart",
+         "Gary Oldman",
+         "Maggie Gyllenhaal",
+         "Morgan Freeman",
+         "Monique Gabriela Curnen",
+         "Ron Dean",
+         "Chin Han",
+         "Nestor Carbonell",
+         "Eric Roberts",
+         "Cillian Murphy",
+         "Ritchie Coster",
+         "Anthony Michael Hall",
+         "Keith Szarabajka",
+         "Colin McFarlane",
+         "Joshua Harto",
+         "Melinda McGraw",
+         "Nathan Gamble",
+         "William Fichtner",
+         "Michael Vieau",
+         "Michael Stoyanov",
+         "William Smillie",
+         "Michael Jai White",
+         "Danny Goldring",
+         "Matthew O'Neill",
+         "Olumiji Olawumi",
+         "Greg Beam",
+         "Erik Hellman",
+         "Beatrice Rosen",
+         "Vincenzo Nicoli",
+         "Edison Chen",
+         "Nydia Rodriguez Terracina",
+         "Andy Luther",
+         "James Farruggio",
+         "Tom McElroy",
+         "Will Zahrn",
+         "James Fierro",
+         "Patrick Leahy",
+         "Sam Derence",
+         "Jennifer Knox",
+         "Patrick Clear",
+         "Sarah Jayne Dunn",
+         "Charles Venn",
+         "Winston G. Ellis",
+         "David Dastmalchian",
+         "Sophia Hinshelwood",
+         "Keith Kupferer",
+         "Joseph Luis Caballero",
+         "Richard Dillane",
+         "Daryl Satcher",
+         "Chris Petschler",
+         "Aidan Feore",
+         "Philip Bulcock",
+         "Paul Birchard",
+         "Walter Lewis",
+         "Vincent Riotta",
+         "Nancy Crane",
+         "K. Todd Freeman",
+         "Matt Shallenberger",
+         "Michael Andrew Gorman",
+         "Lanny Lutz",
+         "Peter DeFaria",
+         "Matt Rippy",
+         "Andrew Bicknell",
+         "Ariyon Bakare",
+         "Doug Ballard",
+         "Helene Wilson",
+         "Tommy Campbell",
+         "Craig Heaney",
+         "Lorna Gayle",
+         "Lisa McAllister",
+         "Peter Brooke",
+         "Joshua Rollins",
+         "Dale Rivera",
+         "Matthew Leitch",
+         "Tom Lister Jr.",
+         "Thomas Gaitsch",
+         "William Armstrong",
+         "Adam Kalesperis",
+         "Tristan Tait",
+         "Bronson Webb",
+         "David Ajala",
+         "Gertrude Kyles",
+         "Jonathan Ryland",
+         "James Scales",
+         "Nigel Carrington",
+         "Ian Pirie",
+         "Lateef Lovejoy",
+         "Grahame Edwards",
+         "Roger Monk",
+         "Ronan Summers",
+         "Wai Wong",
+         "Michael Corey Foster",
+         "Hannah Gunn",
+         "Brandon Lambdin",
+         "Jon Lee Brody",
+         "Debbi Burns",
+         "Maritza Cabrera",
+         "Shirin Caiola",
+         "Laura Chernicky",
+         "Henry Milton Chu",
+         "Kelli Clevenger",
+         "Richard Divizio",
+         "Tony Domino",
+         "David Fultz",
+         "Natalie Hallam",
+         "Jordon Hodges",
+         "Erron Jay",
+         "Daniel Jefferson",
+         "Nicky Katt",
+         "Thomas Kosik",
+         "Don Kress",
+         "Tim Krueger",
+         "Dan Latham",
+         "Tom McComas",
+         "James Mellor",
+         "Joseph Oliveira",
+         "Buster Reeves",
+         "Peter Rnic",
+         "Amit Shah",
+         "Michelle Shields",
+         "Sofiya Smirnova",
+         "Bruce Spielbauer",
+         "Robert Patrick Stern",
+         "Robert Stone",
+         "Richard Strobel",
+         "Tom Townsend",
+         "John Turk",
+         "John Warman",
+         "Erik A. Williams",
+         "Chris Wilson",
+         "Kevin Zaideman",
+         "Matt Skiba",
+         "Matt Skiba"
+      ],
+      "imdbMovieId": "0468569",
+      "originalTitle": "The Dark Knight",
+      "genres": [
+         "Drama",
+         "Action",
+         "Crime",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["kmJLuwP3MbY"],
+      "plotSummary": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "tmdbMovieId": 155,
+      "avgRating": 4.17716,
+      "releaseYear": "2008",
+      "numRatings": 42745,
+      "posterPath": "/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg"
+   }
+}

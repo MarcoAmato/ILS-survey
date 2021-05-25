@@ -1,0 +1,414 @@
+{
+   "tmdb": {
+      "original_language": "ja",
+      "keywords": [
+         {
+            "name": "competition",
+            "id": 271
+         },
+         {
+            "name": "flying",
+            "id": 334
+         },
+         {
+            "name": "witch",
+            "id": 616
+         },
+         {
+            "name": "maze",
+            "id": 2158
+         },
+         {
+            "name": "magic",
+            "id": 2343
+         },
+         {
+            "name": "broom",
+            "id": 3872
+         },
+         {
+            "name": "inspiration",
+            "id": 3993
+         },
+         {
+            "name": "school",
+            "id": 10873
+         },
+         {
+            "name": "girl",
+            "id": 14659
+         },
+         {
+            "name": "dungeon",
+            "id": 34137
+         },
+         {
+            "name": "magical girl",
+            "id": 201061
+         },
+         {
+            "name": "quest",
+            "id": 207372
+         },
+         {
+            "name": "anime",
+            "id": 210024
+         },
+         {
+            "name": "young animator training project",
+            "id": 210904
+         }
+      ],
+      "imdb_id": "tt2704454",
+      "video": false,
+      "title": "Little Witch Academia",
+      "recommendations": [
+         347413,
+         186919,
+         181656,
+         333350,
+         71172,
+         62331,
+         199571,
+         333623,
+         58107,
+         41017,
+         91847,
+         52120,
+         46955,
+         63439,
+         44415,
+         60669,
+         36865,
+         32,
+         54306,
+         276306
+      ],
+      "backdrop_path": "/f1zcD7BnDZjuysKjGIFuUJZQTKQ.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Akko Kagari (voice)",
+               "gender": 1,
+               "credit_id": "52fe4c7b9251416c7511bccd",
+               "name": "Megumi Han",
+               "profile_path": "/hbZsSUqFOLShJ29uY32UHdW7RYI.jpg",
+               "id": 1164931,
+               "order": 0
+            },
+            {
+               "cast_id": 7,
+               "character": "Lotte Yanson (voice)",
+               "gender": 1,
+               "credit_id": "52fe4c7b9251416c7511bcd1",
+               "name": "Fumiko Orikasa",
+               "profile_path": "/2kfzSkZ9bPyrZ3iJkgroDJeLWbC.jpg",
+               "id": 23988,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Sucy Manbavaran (voice)",
+               "gender": 0,
+               "credit_id": "52fe4c7b9251416c7511bcd5",
+               "name": "Michiyo Murase",
+               "profile_path": null,
+               "id": 1164932,
+               "order": 2
+            },
+            {
+               "cast_id": 21,
+               "character": "Diana Cavendish (voice)",
+               "gender": 1,
+               "credit_id": "5656d1c69251410188007c11",
+               "name": "Youko Hikasa",
+               "profile_path": "/w9iGCBXANC7MqkWrNRm7lYOHrSF.jpg",
+               "id": 1072774,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Professor Ursula (voice)",
+               "gender": 0,
+               "credit_id": "55b7515ec3a3682274001e52",
+               "name": "Noriko Hidaka",
+               "profile_path": "/yswUeNWfjrWhqGyMB3QDSP8D8v.jpg",
+               "id": 55662,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Barbara (voice)",
+               "gender": 1,
+               "credit_id": "55b7514892514120e1001f64",
+               "name": "Chinatsu Akasaki",
+               "profile_path": "/cmCV7BNdE3qZm1fQiuuGGTyzOOB.jpg",
+               "id": 1296666,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Hanna (voice)",
+               "gender": 0,
+               "credit_id": "55b75152c3a368227c001d0e",
+               "name": "Eri Nakao",
+               "profile_path": null,
+               "id": 1247793,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "Old Teacher (voice)",
+               "gender": 1,
+               "credit_id": "572252d69251413ea300010e",
+               "name": "Hisako Kyouda",
+               "profile_path": "/3HC0RARybfpcA1D0vS349UHwCea.jpg",
+               "id": 615,
+               "order": 7
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4c7b9251416c7511bcb1",
+               "name": "Yoh Yoshinari",
+               "profile_path": "/8Is7ToIkoFEitmi2LU04m0XMJ4F.jpg",
+               "id": 109197,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4c7b9251416c7511bcc3",
+               "name": "Yoh Yoshinari",
+               "profile_path": "/8Is7ToIkoFEitmi2LU04m0XMJ4F.jpg",
+               "id": 109197,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4c7b9251416c7511bcc9",
+               "name": "Naoki Tsutsumi",
+               "profile_path": null,
+               "id": 1164928,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58cc7ee29251415a39000fe0",
+               "name": "Michiru Oshima",
+               "profile_path": "/jF0WbxhJCRjleeSMvwSgzmuXUWZ.jpg",
+               "id": 73191,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54027024c3a3684360003f72",
+               "name": "Masahiko Otsuka",
+               "profile_path": null,
+               "id": 1164927,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55b751dac3a3682279001e22",
+               "name": "Yuuji Kaneko",
+               "profile_path": null,
+               "id": 1315688,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55b751ea92514120e9001dfb",
+               "name": "Toyonori Yamada",
+               "profile_path": null,
+               "id": 109194,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57128d99c3a3686678004807",
+               "name": "Yoh Yoshinari",
+               "profile_path": "/8Is7ToIkoFEitmi2LU04m0XMJ4F.jpg",
+               "id": 109197,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57128dd9c3a36831e1007c01",
+               "name": "Yukiko Kakita",
+               "profile_path": null,
+               "id": 1506173,
+               "department": "Visual Effects",
+               "job": "Color Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57128de992514134f300026a",
+               "name": "Kentarou Tsubone",
+               "profile_path": null,
+               "id": 1495415,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         }
+      ],
+      "popularity": 4.35875,
+      "production_countries": [{
+         "iso_3166_1": "JP",
+         "name": "Japan"
+      }],
+      "id": 182131,
+      "vote_count": 79,
+      "budget": 480000,
+      "overview": "Inspired by a magician named Shiny Chariot, the lively Akko Kagari enters the Little Witch Academy with the dream of one day becoming as cool as her idol.",
+      "similar": [
+         10515,
+         4935,
+         129,
+         27022,
+         16859,
+         10693,
+         76492,
+         37430,
+         159824,
+         430447,
+         13754,
+         44683,
+         2395,
+         12445,
+         34584,
+         1124,
+         671,
+         672,
+         675,
+         767
+      ],
+      "original_title": "リトルウィッチアカデミア",
+      "runtime": 26,
+      "poster_path": "/e32PRLhvKJtISPVjdz52tZpdrLz.jpg",
+      "spoken_languages": [{
+         "name": "日本語",
+         "iso_639_1": "ja"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Trigger",
+         "id": 50908,
+         "origin_country": ""
+      }],
+      "release_date": "2013-03-02",
+      "vote_average": 7.1,
+      "belongs_to_collection": {
+         "backdrop_path": "/6unyFHjrCtPzY5e7iB7yvA6IDN9.jpg",
+         "name": "Little Witch Academia Collection",
+         "id": 330075,
+         "poster_path": "/h7QRVD4oqpoS1eKzaCdxcq36FKc.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://littlewitchacademia.jp/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Japan",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Yô Yoshinari"],
+      "runtime": 26,
+      "synopsis": null,
+      "writers": [
+         "Yô Yoshinari",
+         "Masahiko Ôtsuka"
+      ],
+      "originalLanguage": "Japanese",
+      "imdbLink": "http://www.imdb.com/title/tt2704454/",
+      "coverLink": null,
+      "actors": [
+         "Megumi Han",
+         "Fumiko Orikasa",
+         "Michiyo Murase"
+      ],
+      "reviews": [
+         "As a young child Akko Kagari idolised a witch named Shiny Chariot so much that she decided to become a witch herself. When she gets to Witch Academy she is horrified to discover that her schoolmates have a low opinion of Shiny Chariot; believing her to give witchcraft a bad name with her shows. Akko does not excel at school; unlike the other girls she doesn't come from a family of witches and she hasn't learnt basic things like flying but is too proud to admit it. When the class goes into the labyrinth as part of a treasure hunt Akko is keen to slay monsters and rushes ahead of her friends Sucy and Lotte. Meanwhile Diana; the top witch in the school accidentally releases a dragon from deep within the labyrinth and everything anybody does to stop it just seems to make it bigger\u0085 inevitably it is Akko who must save the day with the help of magic she saw Shiny Chariot when she was young. This anime short is a lot of fun and packs a good little story into its short twenty six minute run time. Akko is a good protagonist; even though one can guess that she will eventually triumph she isn't too perfect\u0085 in fact she is far from perfect as she falls asleep in class, nearly kills herself trying to fly and races ahead in the labyrinth. Sucy and Lotte were fun sidekicks; especially Sucy; the results of her potions were quite hilarious. Diana made a good antagonist without being a bad person. The animation is very good with cute, distinctive character designs. There is nothing in the story to cause offence and even the scariest moments should be suitable for viewers of all ages. It is just a pity that this was a one off as I'd have loved to see more episodes. These comments are based on watching the series in Japanese with English subtitles.",
+         "I am an anime fan, and I have seen a fair few in my time. This anime short blew me away. It is a beautiful, funny, fun and interesting adventure for all ages. The side characters, such as Sucy, are hilarious and very creative. It is a well-told story, with a good soundtrack and it instantly makes you want to see more. Little Witch Academia was a one-off anime short, at about 24 minutes, but their kickstarter campaign for Little Witch Academia 2 was successful, though a release date hasn't been announced. I for one can't wait until the follow up comes out, and many people feel the same. There is very little to fault with this. Verdict: A must-see for all anime fans. Stay classy, friends. Steve",
+         "This review is for both this \"movie\" and its sequel~. Wow what an amazing ride, it does not feel even close to only 25minutes for this show. There's so much going on, your instantly attached and just begging for more, to explore this fun colorful world of magic. Trigger is amazing, its as simple as that. I'm in absolute love with the animation and artwork/art style in this show, I can't get enough of it. Every single detail of this show is great, every piece of background, every character, all of it is just so inviting. You just want to live in this world. The characters are so diverse, they're all great. For such a short show they all have so much personality & uniqueness you instantly fall in love with them all, they're all drawn so well you just want to eat them. The music & sounds are great nothing feels wrong or out of place. The English dub is amazing, every single voice matches its character perfectly I was very impressed. & The ending credit song of the sequel is so great, the voice of an angel. I could listen to it over and over again. Little Witch Academia is all about a fun ride, it just makes you want to smile while watching it & leaves you wanting to explore this world more. It would be really nice to see a series come out of this show in the near future. 4/5 Why? Its just a great fun, enjoyable ride from start to finish. Characters draw you in instantly, the animation is top notch, on point English dub. There is absolutely no negatives about this show except for the fact that its so short (currently consisting of two short movies 1.5hrs total). If your looking for something that your gonna enjoy but not something you really want to commit to like an entire 12+ series then this is perfection, you'll smile, laugh, & wish for more!",
+         "\"Little Witch Academia\" is a Japanese anime short film from almost 3 years ago that runs for slightly under 30 minutes. It is about the title character, but also her friends at an academy for teenage witches and we get to watch their interactions with their teachers, but also what happens when a mighty dragon comes into play. I must say I was never blown away by this little movie, but it was still a pretty decent watch from start to finish. The action is interesting and same goes for all the characters. The animation was convincing as well. And finally, there was a good deal of comedy, some of it already came from the random over-the-top reactions of the characters. But there is more than that. To me personally, it was not good enough to really make me want to check out the sequel, at least not immediately. If you truly enjoyed this short film by Yô Yoshinari and writing rookie Masahiko Otsuka, then go for the second film, which is about twice as long. It certainly becomes obvious in their collaboration here that they have a good deal of talent and I recommend the watch.",
+         "This is the first Trigger anime I watched. I heard of it before, but I was worried to watch it because it had a kid protagonist and usually, kid protagonists are bratty, overly silly, precocious and stereotypical. I thought that Akko was going to be one of the annoying characters but she actually wasn't that annoying, and she carried the story well. Though, the characters don't bring that much new to the table. Akko is an aloof fourteen-year-old girl who has an attitude, and too childish. Don't be like \"Oh, it's for a younger audience. I don't care if it's clichéd!\" I'd like something original and not just something we've seen a thousand times before. The art was alright, and so was the decent voice acting. The art doesn't deviate too much from other anime. Though, due to the anime being so short, it was a little confusing to watch, I think if it had more development instead of being rushed and showing a clichéd ending where all the girls were flying, it would've been more enjoyable. All in all, this is a cute story, though people over the age of 10 might find this too silly but isn't unwatchable. Not bad, it's nice to find an anime that showed a lot of tension and conflict. The beginning was awesome, though I think parents might be a little concerned about their small children watching this. Rating: 6.7"
+      ],
+      "genres": [
+         "Animation",
+         "Short",
+         "Comedy",
+         "Family",
+         "Fantasy"
+      ],
+      "productionCompanies": ["Trigger"],
+      "summaries": ["Inspired by a magician named Shiny Chariot, the lively Akko Kagari enters the Little Witch Academy with the dream of one day becoming as cool and great as her idol."],
+      "budget": 0
+   },
+   "movielensId": 142843,
+   "movielens": {
+      "languages": ["日本語"],
+      "releaseDate": "2013-03-02",
+      "dvdReleaseDate": null,
+      "directors": ["Yoh Yoshinari"],
+      "runtime": 26,
+      "movieId": 142843,
+      "title": "Little Witch Academia",
+      "mpaa": null,
+      "actors": [
+         "Megumi Han",
+         "Fumiko Orikasa",
+         "Michiyo Murase",
+         "Youko Hikasa",
+         "Noriko Hidaka",
+         "Chinatsu Akasaki",
+         "Eri Nakao",
+         "Hisako Kyouda"
+      ],
+      "imdbMovieId": "2704454",
+      "originalTitle": "リトルウィッチアカデミア",
+      "genres": [
+         "Action",
+         "Animation",
+         "Comedy",
+         "Fantasy"
+      ],
+      "youtubeTrailerIds": ["siI44zxkRUs"],
+      "plotSummary": "Inspired by a magician named Shiny Chariot, the lively Akko Kagari enters the Little Witch Academy with the dream of one day becoming as cool as her idol.",
+      "tmdbMovieId": 182131,
+      "avgRating": 3.4,
+      "releaseYear": "2013",
+      "numRatings": 35,
+      "posterPath": "/e32PRLhvKJtISPVjdz52tZpdrLz.jpg"
+   }
+}

@@ -1,0 +1,564 @@
+{
+   "tmdb": {
+      "original_language": "ja",
+      "keywords": [
+         {
+            "name": "man vs machine",
+            "id": 312
+         },
+         {
+            "name": "cyborg",
+            "id": 679
+         },
+         {
+            "name": "terrorist",
+            "id": 949
+         },
+         {
+            "name": "metropolis",
+            "id": 1761
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "post-apocalyptic",
+            "id": 4458
+         },
+         {
+            "name": "mecha",
+            "id": 10046
+         },
+         {
+            "name": "cyberpunk",
+            "id": 12190
+         },
+         {
+            "name": "based on manga",
+            "id": 13141
+         },
+         {
+            "name": "police officer",
+            "id": 15090
+         }
+      ],
+      "imdb_id": "tt0401233",
+      "video": false,
+      "title": "Appleseed",
+      "recommendations": [
+         13981,
+         45295,
+         269650,
+         13391,
+         12140,
+         33380,
+         14258,
+         14282,
+         15618,
+         41972,
+         14571,
+         129175,
+         14801,
+         19506,
+         239367,
+         14572,
+         34341,
+         46737,
+         39468,
+         919
+      ],
+      "backdrop_path": "/2ynxC25bh0lTazbCcUv6n1MTOjj.jpg",
+      "revenue": 1461989,
+      "reviews": [{
+         "author": "Andres Gomez",
+         "id": "50cb1166760ee330a0145c06",
+         "content": "Crappy stereotypical story, bad and cheesy dialogues and an animation that shows some quality when representing non living characters: people have not facial expression whatsoever.",
+         "url": "https://www.themoviedb.org/review/50cb1166760ee330a0145c06"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Deunan",
+               "gender": 0,
+               "credit_id": "52fe446c9251416c750343e3",
+               "name": "Ai Kobayashi",
+               "profile_path": "/90iLbU0MZ4gQ9ddi8Sf0wMSPoTE.jpg",
+               "id": 68918,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Briareos",
+               "gender": 2,
+               "credit_id": "52fe446c9251416c750343e7",
+               "name": "Jūrōta Kosugi",
+               "profile_path": "/em3Zh1IzkTDSdaoGBVLx89u6GuI.jpg",
+               "id": 70098,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Hitomi",
+               "gender": 1,
+               "credit_id": "52fe446c9251416c750343eb",
+               "name": "Yuki Matsuoka",
+               "profile_path": "/9O23DQ0wRBDMaqJ2KdO0GDliegp.jpg",
+               "id": 70099,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Deunan (motion actor)",
+               "gender": 1,
+               "credit_id": "52fe446c9251416c750343ef",
+               "name": "Asumi Miwa",
+               "profile_path": "/gH3uNPWNNFQgsSCHhD3OrcdmzQq.jpg",
+               "id": 20313,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Athena",
+               "gender": 1,
+               "credit_id": "52fe446c9251416c750343f3",
+               "name": "Mami Koyama",
+               "profile_path": "/vqdcJrnO2VMMxyvg7j5Pft0dhmn.jpg",
+               "id": 1680,
+               "order": 4
+            },
+            {
+               "cast_id": 24,
+               "character": "Deunan (motion actor)",
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034463",
+               "name": "Akimoto Tsubasa",
+               "profile_path": null,
+               "id": 1120475,
+               "order": 5
+            },
+            {
+               "cast_id": 25,
+               "character": "Uranus",
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034467",
+               "name": "Yuzuru Fujimoto",
+               "profile_path": null,
+               "id": 114739,
+               "order": 6
+            },
+            {
+               "cast_id": 26,
+               "character": "Young Deunan",
+               "gender": 0,
+               "credit_id": "52fe446d9251416c7503446b",
+               "name": "Tomoko Kawakami",
+               "profile_path": "/4drohdK6CqiGtlQcD8Makj5O28E.jpg",
+               "id": 124476,
+               "order": 7
+            },
+            {
+               "cast_id": 27,
+               "character": "Hades",
+               "gender": 2,
+               "credit_id": "52fe446d9251416c7503446f",
+               "name": "Takehito Koyasu",
+               "profile_path": "/cReYEHxQj6JdLb7bNSUfrGYn44F.jpg",
+               "id": 84508,
+               "order": 8
+            },
+            {
+               "cast_id": 28,
+               "character": "Yoshitsune",
+               "gender": 2,
+               "credit_id": "52fe446d9251416c75034473",
+               "name": "Toshiyuki Morikawa",
+               "profile_path": "/aAmwmPXJBnwTnvWVDx74OdNGo8q.jpg",
+               "id": 9706,
+               "order": 9
+            },
+            {
+               "cast_id": 29,
+               "character": "1st Elder Electryon",
+               "gender": 0,
+               "credit_id": "52fe446d9251416c75034477",
+               "name": "Ryûji Nakagi",
+               "profile_path": null,
+               "id": 1120476,
+               "order": 10
+            },
+            {
+               "cast_id": 30,
+               "character": "Seven Old Men",
+               "gender": 0,
+               "credit_id": "52fe446d9251416c7503447b",
+               "name": "Ikuo Nishikawa",
+               "profile_path": null,
+               "id": 1120477,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c750343f9",
+               "name": "Shinji Aramaki",
+               "profile_path": "/o55bdhuHfQeSoCihjUD8Jml6Ngz.jpg",
+               "id": 70100,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446c9251416c750343ff",
+               "name": "Masamune Shirow",
+               "profile_path": null,
+               "id": 57303,
+               "department": "Crew",
+               "job": "Comic-Zeichner"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034405",
+               "name": "Haruka Handa",
+               "profile_path": null,
+               "id": 70101,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c7503440b",
+               "name": "Tsutomu Kamishiro",
+               "profile_path": null,
+               "id": 70102,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034411",
+               "name": "Fumihiko Sori",
+               "profile_path": "/ymKjJzgPYHz4CsSNFccVbBBKSkv.jpg",
+               "id": 70103,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034417",
+               "name": "Paul Oakenfold",
+               "profile_path": "/dpUVLvWFwsMpz36EyLeu6OUpmCY.jpg",
+               "id": 70104,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c7503441d",
+               "name": "T. Raumschmiere",
+               "profile_path": null,
+               "id": 70105,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe446c9251416c75034423",
+               "name": "Ryuichi Sakamoto",
+               "profile_path": "/sznCz9OIUYxBgNhn7hsd9LK5jsN.jpg",
+               "id": 11382,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034429",
+               "name": "Matt Greenfield",
+               "profile_path": null,
+               "id": 229503,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c7503442f",
+               "name": "Haruyo Kanesaku",
+               "profile_path": null,
+               "id": 1690,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034435",
+               "name": "Yutaka Maseba",
+               "profile_path": null,
+               "id": 1692,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c7503443b",
+               "name": "Hiroe Tsukamoto",
+               "profile_path": null,
+               "id": 1694,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034441",
+               "name": "Nobu Yamamoto",
+               "profile_path": null,
+               "id": 1120474,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034447",
+               "name": "Hideki Goto",
+               "profile_path": null,
+               "id": 929976,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c7503444d",
+               "name": "James Yosuke Kobayashi\t",
+               "profile_path": null,
+               "id": 929975,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034453",
+               "name": "John Ledford",
+               "profile_path": null,
+               "id": 122179,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c75034459",
+               "name": "Eiichi Takahashi",
+               "profile_path": null,
+               "id": 1116327,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe446c9251416c7503445f",
+               "name": "Shinji Aramaki",
+               "profile_path": "/o55bdhuHfQeSoCihjUD8Jml6Ngz.jpg",
+               "id": 70100,
+               "department": "Art",
+               "job": "Production Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 8.020871,
+      "production_countries": [{
+         "iso_3166_1": "JP",
+         "name": "Japan"
+      }],
+      "id": 11633,
+      "vote_count": 125,
+      "budget": 10000000,
+      "overview": "In a utopian society created at the end of the third world war, a female warrior who has been plucked from the badlands begins to see cracks in this new facade. And what does this community have planned for the rest of humankind?",
+      "similar": [
+         13981,
+         9323,
+         604,
+         605,
+         12244,
+         2048,
+         87101,
+         5548,
+         19,
+         97020,
+         76341,
+         263115,
+         603,
+         534,
+         281,
+         296,
+         335984,
+         280,
+         9482,
+         5550
+      ],
+      "original_title": "アップルシード",
+      "runtime": 101,
+      "poster_path": "/dyROof1YUhe0eul1P1js6ghYtkQ.jpg",
+      "spoken_languages": [{
+         "name": "日本語",
+         "iso_639_1": "ja"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/lYCOp17DBEjFD1UygdRor98PVWR.png",
+            "name": "Toho Company",
+            "id": 882,
+            "origin_country": "JP"
+         },
+         {
+            "logo_path": null,
+            "name": "Tokyo Broadcasting System (TBS)",
+            "id": 1393,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Digital Frontier",
+            "id": 3361,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Geneon Entertainment",
+            "id": 3362,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Mainichi Broadcasting System (MBS)",
+            "id": 3363,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Micott Basara K.K.",
+            "id": 3364,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "TYO Productions",
+            "id": 3365,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Appleseed Film Partners",
+            "id": 3360,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2004-04-17",
+      "vote_average": 6.8,
+      "belongs_to_collection": {
+         "backdrop_path": "/3uFYlHmUZtEGBiwdxtSlphbmfjK.jpg",
+         "name": "Appleseed Collection",
+         "id": 87800,
+         "poster_path": "/AoM1NzRnSpo6VtIs3wpzKUSObUX.jpg"
+      },
+      "tagline": "Humanity's last chance for survival.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Japan",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Shinji Aramaki",
+         "Steven Foster"
+      ],
+      "runtime": 101,
+      "synopsis": "Deunan Knute is a young highly skilled female soldier and is one of the last survivors of the Global War. During a battle, she is rescued by Hitomi, a Second Generation Bioroid. Deunan attempts to escape from a hospital and takes Hitomi hostage, but is stopped by Briareos Hecatonchires, her former lover, who is now a cyborg. She learns that the war had ended and she is in a Utopian city called Olympus. Its population is half-human and half-clone, a genetically-engineered species called Bioroids. Olympus is governed by three factions: Prime Minister Athena Areios; General Edward Uranus III, head of the Olympus Army; and a Council of Elders. Everything in the city is observed by an artificial intelligence named Gaia from a building called Tartaros. While there, Deunan joins the ESWAT organization. The Bioroids were created from the DNA of Deunan's father, Carl, making the Second Generation Bioroids her brothers and sisters. However, they have a much shorter lifespan than humans due to suppressed reproductive capabilities. The Bioroids life extension facilities are destroyed by a secret faction of the Regular Army in a terrorist attack against the Bioroids. However, the Appleseed data, which contains information on restoring the Bioroids reproduction capabilities, still exists. Olympus is plagued by conflicting factions. Along with a strike force, Deunan and Briareos head to the building where the Bioroids were originally created. She activates a holographic recording showing the location of the Appleseed data. Dr. Gilliam Knute, who created the Bioroids, entrusted Appleseed to Deunan, but was shot by a soldier. Colonel Hades, the anti-Bioroid terrorist, reveals to Deunan that Briareos had intentionally allowed his Landmate, a large exoskeleton-like battlesuits, to escape. They run to the roof where their team is killed and they are cornered by the Regular Army. Uranus tries to convince Deunan that Bioroids seek to control humanity, and he wants to destroy D-Tank full of virus material in Tartarus. Briareos tells Uranus that the Elders were the ones who planned this; the D-tanks virus was originally believed to keep Bioroids in line, but in actuality is capable of sterilizing humanity. Hades convinces Uranus that negotiating is pointless, and blames Carl for all that has happened before Deunan kills him. They manage to escape, and later wash up on a beach. Briareos, badly damaged in the firefight, lays dying in the sand. Grief-stricken, Deunan refuses to leave his side. Briareos confeses everything to Deunan, hoping to coax her into continuing on. Mechanic Yoshitsune Miyamoto arrives in his Landmate and begins repairing Briareos. Deunan takes the Landmate back to Olympus, where the Appleseed data is used to fully restore Bioroid reproductive functions. Despite the relief, Deunan confronts the Council of Elders and force them to admit that they killed her mother. They reveal they plan to use the D-tank virus to sterilize all humans, allowing their race to die out slowly, leaving the Bioroids the new rulers of Earth. They needed the Appleseed data to keep the Bioroids alive, but Gilliam hid the data so they could not move forward with their plan. Athena, stepping in to stop them and announcing that Uranus has surrendered, tells Deunan that the Elders had been acting on their own and had shut Gaia down once they realized humanity had softened their stance against Bioroids. The Elders state that they will soon die since Gaia kept them alive, but that they were ready to sacrifice themselves. They then activate the city's mobile fortress defenses, which begin marching towards Tartaros. Athena states that D-tank's security system is nearly impenetrable, but a shot from the fortresses' main cannons might puncture the tank, releasing the virus. ESWAT begins mobilizing, but suffer heavy casualties due to the fortresses' heavy weaponry. Briareos arrives and asks Deunan to join the battle. Despite the Elders objections, Deunan goes with Briareos to the towers. Deunan attempts to enter the password to shut the defenses down, but a malfunction makes it difficult to complete. The final password letter appears by itself, and Deunan secures the D-Tank. The film ends with Deunan stating that the sins of humanity will probably get worse, but that there is always the chance that future generations will learn from these mistakes. She vows to keep fighting for the children, who are \"the true new race of man.\"",
+      "writers": [
+         "Masamune Shirow",
+         "Haruka Handa"
+      ],
+      "originalLanguage": "Japanese",
+      "imdbLink": "http://www.imdb.com/title/tt0401233/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg5OTkyODE2MF5BMl5BanBnXkFtZTcwMzAxOTU4MQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Ai Kobayashi, Jûrôta Kosugi, Yuki Matsuoka | See full cast and crew »"],
+      "reviews": [
+         "First things first; if you're looking for a literary masterpiece or an anime masterful like the works of Hayao Miyazaki and Mamoru Oshii, then Appleseed is not for you. It's plot is cliché with the overused science fiction premise of struggle between two coexisting races and the flaws and sins of humans, and the general execution of the plot is also in no way an outstanding one of the genre. What Appleseed truly is, is a technological achievement in 3D animation for Japanese anime. It's animation style is far from Hollywood animation features like Finding Nemo and Shrek, instead it uses cel-shading technology which we've already seen in video games, and takes it up to a very high and polished level. The result is a beautiful movie with jaw-dropping animation, such that one cannot doubt that this style will pave the way for the future of anime movies. The range of emotions expressed through the CG is impressive; and motion capture has worked beautifully into the film, making it a seamless viewing experience. As a whole product, it's graphical presentation rivals that of great 2D animation features. Other aspects are fairly well done; the music is done fairly well, with the opening song giving it a distinct flavour but later that fades away to the average run-of-the-mill songs that aren't particularly effective in rousing the emotions and senses. The artistic direction is great, with wonderful colors and tones chosen to accentuate the mood from the bleak dark ruins to the pastel colors of the Utopia. Scene execution is also stellar, and the structural development of the movie is natural although inter character relationships are somewhat lacking in development. As a whole, it's an extremely graphically polished product based on an overused premise.",
+         "rating - 10/10 (saw it subbed). I would give it an 11 if I could. After reading a 5.6/10 and watching, the movie far exceeded any expectation I had, that I could have dreamed of. Having read all of the manga and data books, this movie not only captures but adds to them. The 3D style looks better in motion than in screen shots, validating its place in Anime's future (for characters, Ghost in the Shell already displayed the awesome extent to which environments can benefit). The mechanical engineering (just wait until you see the cannons) of EVERYTHING is superlative. The complexity and detail of the city is awe inspiring. Every scene has this attention to detail. And the action? Just watch the beginning of the movie to understand how cool the ride is going to be, because I assure you, it does not let up. Well worth any price of admission. This is a work of love, a commitment to total quality. I see the score increasing rapidly in the near future. Thank you Shinji Aramaki, Masamune Shirow (comic) Haruka Handa (screenplay) & Tsutomu Kamishiro (screenplay)",
+         "My thoughts on Appleseed may be perceived as a bit more negative then the reviews preceding mine, but that is pretty much because my experience with the movie was greatly influenced by the reaction of the audience I saw it with. This was at the U.S. premiere of Appleseed as part of the Boston Fantastic Film Festival which screened the Japanese language, English subtitled print of the film. And it is important to note that the group around me were there because they wanted to be. The BFFF is an all science fiction, horror and genre film festival and is only in its second year. So anyone there was there because they love these types of movies. Once the film started the reaction was good. Everyone(including myself) seemed stunned by the visuals, and if not impressed at least forgiving of the Matrix style slow-mo shots. But about forty minutes in people began laughing. Unfortunately the laughter was actually coming from the ridiculous nature of many clichéd and over dramatized moments. The first of which came when the character Hitomi, an emotionally engineered \"Bioriod,\" wonders what it would be like if she was able to love, leading a soft piano chord to swell onto the soundtrack. The entire audience actually burst into laughter. Sadly to say Appleseed has quite a few more moments that caused the same reaction: When the heroine flashbacks realizing that she is the key to the plot, one character dies dramatically in the others arms, it is revealed that the baddies can be stopped if only the failsafe button way up there can be reached, the heroine reaches breathlessly for the button with seconds to go, etc, etc. And when the movie ended EVERYONE in the theater burst into discussion of what they had just seen. But the conversations I overheard were not favorable. Most people seemed to think they had wasted their money and I even heard one guy in the theater alley afterward saying it was \"the worst movie he'd ever seen.\" I don't feel nearly that feral toward the movie. Personally, I have to say Appleseed is one of the most groundbreaking animes in the last six or seven years. The visuals are stunning, the action is well paced, and most of the capabilities of this cell-shaded CGI animation are explored, delivering many moments that would be impossible in hand drawn. And I also liked much of the art style and how it called back to all the post-apocalyptic cyberpunk anime and manga of the late 80s/Early 90s. The environments and characters really seemed like living, breathing versions of the ones in Akira and Ghost in the Shell. But the distracting and embarrassing clichés in Appleseed seem to come from this new art style. With the cell-shaded CGI you are experiencing anime style characters existing in an environment much more like the real world then 2D hand-drawn anime. The characters are bound very close to real world physics in this form of animation. Their heads can't grow big when they yell, a single drop of sweat can't appear on the temple of their foreheads when they are embarrassed and a flashing colored background can't run behind them when they transform or become excited. But the creators of this new Appleseed movie still kept many of the story elements and character mannerisms that are convention to other anime. Along with all the other over dramatized Japanese sentimentality that have been in so many hand-drawn movies anime fans don't blink twice at them. But they just didn't work in this form of animation. Ultimately, this movie will have difficulty becoming a classic the way Akira and GitS did, because Appleseed doesn't break new ground in story as it does with visuals the way earlier anime classics have. But it's still a wonderful first stepped toward new possibilities in both Japanese and world animation.",
+         "I went to this movie with very high expectations, and after about 30 mins I knew this movie had already delivered. I won't talk about the story (do a search on google if you want it spoiled) but I can say that the plot is interesting enough to keep the viewers attention. The pace of the movie feels very right, action scenes and slower character building scenes are vow en into each other without any of them feeling forced. Although the movie is not without cliché's, especially in some sentimental parts, they do not ruin the overall experience. I have not read the manga so I cannot comment on if it stays true to the source material. Technically it's in a league of it's own. The 3d visuals were amazing, even on the low quality cinema I watched it in. The camera swoops in and out of the action and you end up just staring in awe at the screen. Designs and the attention to detail is incredible. What takes getting used to is the cell shading of the characters. Done to mimic 2d animation, the characters are not able to deliver the same amount of personality and emotions as the handrawn ones are. I wonder if it would look better with pure 3d characters ala Squares Advent Children. Sound effects were also excellent, and I thought the industrial techno soundtrack was very fitting. All in all the most impressive anime movie I have seen so far, that is if it could be seen as an anime? The director was actually present at the screening I attended and he raised this question as well. Seeing as Appleseed was not made and does not look like any traditional anime at all why should it be considered as one? Maybe we are looking at a new genre in animated movies. If so the Appleseed has certainly set the new standards as to how it should be done.",
+         "I fought so hard to get tickets to see the World Sneak Preview to Appleseed in London on 4th March 2004 - and the effort paid off. I won a pair in a website competition 2.5 hours before the start of the movie. The event was a media soirée with plenty of media hacks and a few minor celebs swanning around as they dished out free beer and sushi. Having not seen the original Appleseed I had no concept of the plot or the scenario at all, so i was grateful when the producer gave us an overview lecture (with a flip chart and everything) as it is a little complex. The second the film started i knew we were witnessing something special. The animation is outstanding. This film has the production values and attention to detail present in films like The Matrix. My jaw hit the floor just as hard with Appleseed as it did with Trinity's opening fight scene in the first Matrix. The soundtrack is exceptionally well put together with contributions from Basement Jaxx, Paul Okenfold and the awesome Boom Boom Satellites who also performed a live set after the preview. Often, when you build yourself up too much to see a movie, the reality can do nothing but disappoint. The opposite was true with Appleseed. I went in expecting 10/10... I got 11. This movie has boldly raised the bar for animation and set a bold new standard by which i believe other animations will be judged in the future. Truly a masterpiece, the highest complements are deserved by everyone involved in this production. Roll on next year's Academy awards!!!",
+         "Appleseed simultaneously suffers from the worst Anime has to offer and benefits from the best animation and production a modern production can have. If you are a hardcore Manga fan (or just occasionally fond of it like me) you'll be aware of the most typical clichés, most of which make up the bulk of the Appleseed story. So...we have a world set after WWIII, in which a Utopian Society has finally found peace. But there are still some people who cannot help but let their anger and bigotry take hold. Android/Clones with suppressed emotions help balance out Utopia and some even want to be fully-fledged humans. There are humans who hate these Androids and wish them to all die out. And there are some Android who hate humans and wish them to all die out. And finally, there is a big computer who runs everything. Nothing there you haven't seen before huh? It also takes a while to build up momentum. Though when it does, the plot twists and turns and action scenes are truly exhilarating. The animation quality is breath-taking with seamless blending of hand-drawn, motion capture, CGI and 3D images. Style and plot-wise it is very, very similar to Sky Blue/Wonderful Days. But since they were in production at the same time one cannot accuse the other of plagiarism. The sheer amount of technology and hardware in the movie will make you drool. There are loads of cool devices, futuristic inventions and awesome weaponry. There is also loads of atmosphere with gorgeous, gorgeous sunsets, storm-lashed oil rigs and wonderfully blue-sky-ed cityscapes with an environmentally friendly amount of trees everywhere. The Matrix 'inspired' action can be a bit annoying sometimes. We've seen people diving through the air in slow motion will taking out supposedly highly-trained soldiers? And the music is kinda uninspiring. With contributions from Basement Jaxx and Paul Oakenfold one expected it to be a lot better. When you take the good with the bad, Appleseed still comes out as worthwhile and enjoyable. If your new to Anime then you can forgive the clichés, if your a big fan then you'll be awe-struck by the impressive production values.",
+         "With nice cel-shaded graphics and fantastic CGI in a nice blend, Appleseed will not disappoint the eye. There is enormous attention to detail, reflections, shading and other small things. Many of the scenes, especially involving the giant city complex, could have worked as art if you froze the frame. The story is pretty unoriginal though, which is a shame. I won't tell you anything, but it's likely you'll see references from a wild collection of sources. Characters have varying depth, and some felt like they needed a bit of fleshing out. Lip-sync was so-so and the same goes for most of the voices(in Japanese). Music is cool and futuristic, with a few surprises thrown in(Basement Jaxx? What the?) and fits the scenes nicely. Sound follows the same pedantic attention-to-detail pattern as the animations. The action is very, very cool, even though it's not a pure action fest. While the storyline doesn't feel too much like Manga, the animation really is. Manga eyes can be bugging, but it was OK. The transformer-esquire mechs where really cool even though they were very similar(then again, I've never watched Transformers). So, in closing, is this worthwhile? Sure. It's storyline is not so complex you need to scratch your head, like other anime(Akira or Final Fantasy), and the animation is a feast to the eyes. Give it a try.",
+         "First of all, this piece is brilliantly animated. Combining the visual effects with the sound effects this way makes me think of The Matrix, with fast cuts, some slow-motion sessions and of course a lot of doppler effects. I thought the plot was quite OK, not too original but not too hasty either. It has a good development I thought, and I have to admit that I were a bit worried for a while if it'd be able to sum things up in a good way, which I think it did quite well. Here's a bit of everything, violence and fighting scenes, hi-tech armory, some love and some conspiracy as well. I'll give this a 7/10. I can't say how much in fact the plot has earned these points, but if you like visual effects and fast-paced fighting scenes you're probably going to like this.",
+         "This cg/cell style anime is the most incredible i've seen. Most of what I can say has already been mentioned by others that have commented. Suffice it to say, Appleseed is worth watching simply for it's eye goggling effects. The story is decent but not spectacular and has changed just a bit more that i would've preferred from the original premise of the manga. I rate this an 8/10 because i did enjoy it thoroughly. The -2 pts is for what someone else mentioned...the too typical clichés. Every dramatic moment is something you've seen pinched from some other overdramatized movie.",
+         "This movie astonished me in two ways. First the visuals and sounds are more than breathtaking, but on the other hand I wondered how they can tell the story in such a confusing way. Maybe it was the subtitles, but it just didn't feel right. The storytelling never minded to explain the background a bit more. The movie reminded me of the Korean anime \"Wonderful Days\", which also had great visuals but the story just didn't fit seamless. That said, if you like last generation visual animation, good sound and a lot of action this is *the* movie for you. And the story is not bad, but missing pieces. Animation: 10/10 Story: 6/10"
+      ],
+      "genres": [
+         "Sci-Fi",
+         "Action",
+         "Animation"
+      ],
+      "productionCompanies": [
+         "Appleseed Film Partners",
+         "Digital Frontier",
+         "Geneon Entertainment"
+      ],
+      "summaries": ["In a utopian society created at the end of the third world war, a female warrior who has been plucked from the badlands begins to see cracks in this new facade. And what does this community have planned for the rest of humankind?"],
+      "budget": 0
+   },
+   "movielensId": 31184,
+   "movielens": {
+      "languages": ["日本語"],
+      "releaseDate": "2004-04-17",
+      "dvdReleaseDate": "2005-05-10",
+      "directors": ["Shinji Aramaki"],
+      "runtime": 101,
+      "movieId": 31184,
+      "title": "Appleseed",
+      "mpaa": "",
+      "actors": [
+         "Ai Kobayashi",
+         "Jūrōta Kosugi",
+         "Yuki Matsuoka",
+         "Asumi Miwa",
+         "Mami Koyama",
+         "Akimoto Tsubasa",
+         "Yuzuru Fujimoto",
+         "Tomoko Kawakami",
+         "Takehito Koyasu",
+         "Toshiyuki Morikawa",
+         "Ryûji Nakagi",
+         "Ikuo Nishikawa"
+      ],
+      "imdbMovieId": "0401233",
+      "originalTitle": "アップルシード",
+      "genres": [
+         "Animation",
+         "Action",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["ps4iKlkc41E"],
+      "plotSummary": "In a utopian society created at the end of the third world war, a female warrior who has been plucked from the badlands begins to see cracks in this new facade. And what does this community have planned for the rest of humankind?",
+      "tmdbMovieId": 11633,
+      "avgRating": 3.45322,
+      "releaseYear": "2004",
+      "numRatings": 855,
+      "posterPath": "/dyROof1YUhe0eul1P1js6ghYtkQ.jpg"
+   }
+}

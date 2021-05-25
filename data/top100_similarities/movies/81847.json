@@ -1,0 +1,3069 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "hostage",
+            "id": 1562
+         },
+         {
+            "name": "magic",
+            "id": 2343
+         },
+         {
+            "name": "horse",
+            "id": 2673
+         },
+         {
+            "name": "fairy tale",
+            "id": 3205
+         },
+         {
+            "name": "musical",
+            "id": 4344
+         },
+         {
+            "name": "princess",
+            "id": 7376
+         },
+         {
+            "name": "animation",
+            "id": 10336
+         },
+         {
+            "name": "tower",
+            "id": 33787
+         },
+         {
+            "name": "blonde woman",
+            "id": 155658
+         },
+         {
+            "name": "selfishness",
+            "id": 162219
+         },
+         {
+            "name": "healing power",
+            "id": 163545
+         },
+         {
+            "name": "based on fairy tale",
+            "id": 179411
+         },
+         {
+            "name": "duringcreditsstinger",
+            "id": 179431
+         },
+         {
+            "name": "disney",
+            "id": 191117
+         },
+         {
+            "name": "healing gift",
+            "id": 215258
+         },
+         {
+            "name": "animal sidekick",
+            "id": 234183
+         }
+      ],
+      "imdb_id": "tt0398286",
+      "video": false,
+      "title": "Tangled",
+      "recommendations": [
+         10198,
+         10020,
+         812,
+         2062,
+         9502,
+         62177,
+         10674,
+         10144,
+         953,
+         10191,
+         809,
+         13053,
+         808,
+         425,
+         46195,
+         10527,
+         8355,
+         22794,
+         10192,
+         10193
+      ],
+      "backdrop_path": "/uFg02Gt69UM6Ouam4slMdD0s029.jpg",
+      "revenue": 591794936,
+      "reviews": [
+         {
+            "author": "Andres Gomez",
+            "id": "5444ebccc3a3683e0e0073e5",
+            "content": "Tangled main characters really remember Aladdin's. The chameleon character could have been more juicy and it also repeats with stubborn determination Disney's intent of making any other animal to behave like dogs.\r\n\r\nAll in all, it is a stereotypical Disney movie that nails the template but it does it so well that it is also really entertaining. In addition, they get to add some of the fresh characteristics brought by Shrek to the scene.",
+            "url": "https://www.themoviedb.org/review/5444ebccc3a3683e0e0073e5"
+         },
+         {
+            "author": "ohlalipop",
+            "id": "589c3fcb925141250a00338f",
+            "content": "Been wanting to watch this movie for quite some time. But then I wasn't sure if I really wanted to watch this or not because it might be just like Frog Prince (which I haven't seen completely yet). Even if I was tired (slept late the night before and woke up early when we got a phone call that Matt and Toby will come over to play Wii) and I didn't have money anymore, I wanted to watch this movie just to keep Matt entertained.\r\n\r\nI wasn't disappointed. I really like this movie. It was like a classic Disney movie: a Princess, her prince charming, animal sidekick, and the best of all, MUSIC! I liked how the Princess was not the typical Disney princess. Rapunzel was strong and active. She wasn't very timid and proper like the usual Disney princess that I grew up watching. Flynn Rider was really cute which was a big plus. He was really charming. The animal sidekicks, Mascal and Maximus, were funny. All in all, I really like this movie and I strongly recommend it to all.",
+            "url": "https://www.themoviedb.org/review/589c3fcb925141250a00338f"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 33,
+               "character": "Rapunzel (voice)",
+               "gender": 1,
+               "credit_id": "530d35a2925141141e0017ff",
+               "name": "Mandy Moore",
+               "profile_path": "/15sDtRpe301tZWrRYV31wjMuFpx.jpg",
+               "id": 16855,
+               "order": 0
+            },
+            {
+               "cast_id": 34,
+               "character": "Flynn Rider (voice)",
+               "gender": 2,
+               "credit_id": "530d35bf9251411435001765",
+               "name": "Zachary Levi",
+               "profile_path": "/ezGnRBi5zn9S6WFxuVxFfZdRH3e.jpg",
+               "id": 69899,
+               "order": 1
+            },
+            {
+               "cast_id": 35,
+               "character": "Mother Gothel (voice)",
+               "gender": 1,
+               "credit_id": "530d35d4925141141e001802",
+               "name": "Donna Murphy",
+               "profile_path": "/tUQp54rrkCJ9u9Ygy8IYiq9DvMk.jpg",
+               "id": 2517,
+               "order": 2
+            },
+            {
+               "cast_id": 42,
+               "character": "Young Rapunzel / Little Girl (voice)",
+               "gender": 0,
+               "credit_id": "530d3712c3a3685bee001acb",
+               "name": "Delaney Rose Stein",
+               "profile_path": null,
+               "id": 1273208,
+               "order": 3
+            },
+            {
+               "cast_id": 39,
+               "character": "Hook Hand Thug (voice)",
+               "gender": 2,
+               "credit_id": "530d363e92514114310017d7",
+               "name": "Brad Garrett",
+               "profile_path": "/wXihtlnIvqP2oSNj33hiorDd3v9.jpg",
+               "id": 18,
+               "order": 4
+            },
+            {
+               "cast_id": 36,
+               "character": "Stabbington Brother (voice)",
+               "gender": 2,
+               "credit_id": "530d35e59251411421001835",
+               "name": "Ron Perlman",
+               "profile_path": "/xZyrXT2iEmSOokQRc1hedmxrbTi.jpg",
+               "id": 2372,
+               "order": 5
+            },
+            {
+               "cast_id": 38,
+               "character": "Big Nose Thug (voice)",
+               "gender": 2,
+               "credit_id": "530d3624925141142400188e",
+               "name": "Jeffrey Tambor",
+               "profile_path": "/csB350am07xyRL5Ik1BWuSY12tH.jpg",
+               "id": 4175,
+               "order": 6
+            },
+            {
+               "cast_id": 41,
+               "character": "Vlad (voice)",
+               "gender": 0,
+               "credit_id": "530d36b0c3a3685c0c001aad",
+               "name": "Richard Kiel",
+               "profile_path": "/wop4KV2ywl6gdYnCUs1OthtGylM.jpg",
+               "id": 10460,
+               "order": 7
+            },
+            {
+               "cast_id": 70,
+               "character": "Captain of the Guard (voice)",
+               "gender": 2,
+               "credit_id": "53254b82c3a36824b500886a",
+               "name": "M.C. Gainey",
+               "profile_path": "/icWXPTZlbOytDwMzRLM37TyBcox.jpg",
+               "id": 22132,
+               "order": 8
+            },
+            {
+               "cast_id": 71,
+               "character": "Short Thug (voice)",
+               "gender": 0,
+               "credit_id": "533539b8c3a3680a1e003e08",
+               "name": "Paul F. Tompkins",
+               "profile_path": "/io7wjqqVziL3P9Cg9myX46h9lTd.jpg",
+               "id": 1219029,
+               "order": 9
+            },
+            {
+               "cast_id": 43,
+               "character": "Guard 1 / Thug 1 (voice)",
+               "gender": 2,
+               "credit_id": "530d373cc3a3685c28001a22",
+               "name": "Nathan Greno",
+               "profile_path": "/7MobIiqJBvbgJ2pnUvo6E7XfFFx.jpg",
+               "id": 121830,
+               "order": 10
+            },
+            {
+               "cast_id": 45,
+               "character": "Guard 2 / Thug 2 (voice)",
+               "gender": 2,
+               "credit_id": "530d37b8c3a3685c12001a4d",
+               "name": "Byron Howard",
+               "profile_path": "/fFV0pdhOWSxUnAsQDVkzEzhXCfy.jpg",
+               "id": 76595,
+               "order": 11
+            },
+            {
+               "cast_id": 46,
+               "character": "Guard 3 (voice)",
+               "gender": 2,
+               "credit_id": "530d37c9c3a3685c03001a1a",
+               "name": "Tim Mertens",
+               "profile_path": "/bTvLvMndvtu3oN7qFHJgqgRqCws.jpg",
+               "id": 61958,
+               "order": 12
+            },
+            {
+               "cast_id": 346,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5aab1bea0e0a261e4f007f01",
+               "name": "Michael Bell",
+               "profile_path": "/izjtUFQ3zJsInc0TSIhrVmUpSd7.jpg",
+               "id": 19546,
+               "order": 13
+            },
+            {
+               "cast_id": 347,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5aab1c009251413feb0071ef",
+               "name": "Bob Bergen",
+               "profile_path": "/8MRcVeLPBvzr368tOhvsLz4BDhl.jpg",
+               "id": 78317,
+               "order": 14
+            },
+            {
+               "cast_id": 348,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "5aab1c0dc3a3686c23007c4c",
+               "name": "Susanne Blakeslee",
+               "profile_path": "/mJ3dkcAX9STU3SPN06IsTltham8.jpg",
+               "id": 89042,
+               "order": 15
+            },
+            {
+               "cast_id": 349,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "5aab1c339251413fe8007844",
+               "name": "June Christopher",
+               "profile_path": "/jUal4qlcpFhyVhyBPZligb164hR.jpg",
+               "id": 1196879,
+               "order": 16
+            },
+            {
+               "cast_id": 350,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "5aab1c3e9251413ff700703d",
+               "name": "Roy Conli",
+               "profile_path": null,
+               "id": 56612,
+               "order": 17
+            },
+            {
+               "cast_id": 351,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5aab1c49c3a3686c0e007cc3",
+               "name": "David Cowgill",
+               "profile_path": "/kcGjj4EuHfMp0VILRVoacoPqNFL.jpg",
+               "id": 60232,
+               "order": 18
+            },
+            {
+               "cast_id": 352,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "5aab1c550e0a261e4c007bfb",
+               "name": "Terri Douglas",
+               "profile_path": "/lECiABogAKm5Zl8Je6niNAoqz5N.jpg",
+               "id": 186605,
+               "order": 19
+            },
+            {
+               "cast_id": 353,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5aab1c869251413fee007550",
+               "name": "Chad Einbinder",
+               "profile_path": null,
+               "id": 166421,
+               "order": 20
+            },
+            {
+               "cast_id": 354,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5aab1c960e0a261e4900778d",
+               "name": "Pat Fraley",
+               "profile_path": "/AgkuaIlLifSE5i9MzFepIfd8RTw.jpg",
+               "id": 34737,
+               "order": 21
+            },
+            {
+               "cast_id": 355,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5aab1ca10e0a261e4c007c49",
+               "name": "Eddie Frierson",
+               "profile_path": "/AqhFDbBiLsYtQGeimiEzp1EEKCL.jpg",
+               "id": 146186,
+               "order": 22
+            },
+            {
+               "cast_id": 356,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "5aab1cac0e0a261e46007f46",
+               "name": "Jackie Gonneau",
+               "profile_path": null,
+               "id": 950773,
+               "order": 23
+            },
+            {
+               "cast_id": 357,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5aab1cb7c3a3686c05007078",
+               "name": "Nicholas Guest",
+               "profile_path": "/ohlltWmy7xiyQ7CwEZhV6KnyeKO.jpg",
+               "id": 36821,
+               "order": 24
+            },
+            {
+               "cast_id": 358,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "5aab1cc5c3a3686c08007757",
+               "name": "Bridget Hoffman",
+               "profile_path": "/jlPhkFXDUAgy2y9BMkf6RvHLhqV.jpg",
+               "id": 173428,
+               "order": 25
+            },
+            {
+               "cast_id": 359,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "5aab1cd50e0a261e4200872e",
+               "name": "Daniel Kaz",
+               "profile_path": null,
+               "id": 1340676,
+               "order": 26
+            },
+            {
+               "cast_id": 360,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "5aab1d0d0e0a261e52008085",
+               "name": "Anne Lockhart",
+               "profile_path": "/c2gcaCg9q9uBEyieeaxSWWlrhN1.jpg",
+               "id": 41227,
+               "order": 27
+            },
+            {
+               "cast_id": 361,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "5aab1d1c9251413fe2007935",
+               "name": "Mona Marshall",
+               "profile_path": "/9BK7xa1tn6lPIuYOR2fPvUxP6fw.jpg",
+               "id": 111466,
+               "order": 28
+            },
+            {
+               "cast_id": 362,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5aab1d2d0e0a261e42008773",
+               "name": "Scott Menville",
+               "profile_path": "/otVTyLzkIRp8ovXL0pciJ1MnFtl.jpg",
+               "id": 113916,
+               "order": 29
+            },
+            {
+               "cast_id": 363,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "5aab1d390e0a261e4200877a",
+               "name": "Laraine Newman",
+               "profile_path": "/ApYftBOqDMBnVColOQwXIodOt5s.jpg",
+               "id": 35159,
+               "order": 30
+            },
+            {
+               "cast_id": 364,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5aab1d47c3a3686c11007dbc",
+               "name": "Paul Pape",
+               "profile_path": null,
+               "id": 174563,
+               "order": 31
+            },
+            {
+               "cast_id": 365,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "5aab1d58c3a3686c050070ed",
+               "name": "Lynwood Robinson",
+               "profile_path": null,
+               "id": 1296646,
+               "order": 32
+            },
+            {
+               "cast_id": 366,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "5aab1dc10e0a261e3f00808a",
+               "name": "Fred Tatasciore",
+               "profile_path": "/lNe4zn9fJ302GehQVaFk5BNcGGM.jpg",
+               "id": 60279,
+               "order": 33
+            },
+            {
+               "cast_id": 367,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "5aab1e320e0a261e3f0080fa",
+               "name": "Hynden Walch",
+               "profile_path": "/gCHMyVwt2vlQt3AYPfoknVmklXI.jpg",
+               "id": 113919,
+               "order": 34
+            },
+            {
+               "cast_id": 368,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "5aab1e429251413ff70071f2",
+               "name": "Kari Wahlgren",
+               "profile_path": "/9QEOdp5yM9B8IMAopBeX3Cz09tO.jpg",
+               "id": 116315,
+               "order": 35
+            },
+            {
+               "cast_id": 371,
+               "character": "Pascal/Maximus (voice)",
+               "gender": 2,
+               "credit_id": "5ab71ea6925141395b01504b",
+               "name": "Frank Welker",
+               "profile_path": "/b3gImArbw13mMKJIe9leFc9YYb7.jpg",
+               "id": 15831,
+               "order": 36
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46db9251416c910620ad",
+               "name": "Nathan Greno",
+               "profile_path": "/7MobIiqJBvbgJ2pnUvo6E7XfFFx.jpg",
+               "id": 121830,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46db9251416c910620bf",
+               "name": "Byron Howard",
+               "profile_path": "/fFV0pdhOWSxUnAsQDVkzEzhXCfy.jpg",
+               "id": 76595,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46db9251416c910620dd",
+               "name": "Wilhelm Grimm",
+               "profile_path": null,
+               "id": 5448,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46db9251416c910620e3",
+               "name": "Jacob Grimm",
+               "profile_path": "/4HTsSB1QyKnZJOeEFTWlMEeHaYo.jpg",
+               "id": 38748,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46db9251416c910620e9",
+               "name": "Alan Menken",
+               "profile_path": "/oB6at40BmYJxpRMIkCdk4lk5fJT.jpg",
+               "id": 15813,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46db9251416c910620fb",
+               "name": "Roy Conli",
+               "profile_path": null,
+               "id": 56612,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46db9251416c91062101",
+               "name": "John Lasseter",
+               "profile_path": "/7EdqiNbr4FRjIhKHyPPdFfEEEFG.jpg",
+               "id": 7879,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46db9251416c91062107",
+               "name": "Glen Keane",
+               "profile_path": "/wFxCDcFi1PRl894WlTneXEKsvzl.jpg",
+               "id": 139474,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46db9251416c91062119",
+               "name": "Jamie Sparer Roberts",
+               "profile_path": null,
+               "id": 137198,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc4c3c3a3687ff90000c2",
+               "name": "Dan Fogelman",
+               "profile_path": "/grLBoLU2blYEoT8vjGFOiM8mw1D.jpg",
+               "id": 15892,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc544c3a368012f0000d1",
+               "name": "Glenn Slater",
+               "profile_path": null,
+               "id": 1017262,
+               "department": "Sound",
+               "job": "Songs"
+            },
+            {
+               "gender": 0,
+               "credit_id": "550d7f219251414695005afd",
+               "name": "Aimee Scribner",
+               "profile_path": null,
+               "id": 1443211,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5542343f9251413d6d003a7b",
+               "name": "Rick Moore",
+               "profile_path": null,
+               "id": 1447483,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5543e0cf925141586d0026f3",
+               "name": "James Finn",
+               "profile_path": null,
+               "id": 1447400,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548cc21c3a368787e0020f1",
+               "name": "Merrick Rustia",
+               "profile_path": null,
+               "id": 1447497,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bca45c3a3680133000136",
+               "name": "Lino DiSalvo",
+               "profile_path": null,
+               "id": 1123657,
+               "department": "Crew",
+               "job": "Supervising Animator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc54cc3a36801330000b9",
+               "name": "Alan Menken",
+               "profile_path": "/oB6at40BmYJxpRMIkCdk4lk5fJT.jpg",
+               "id": 15813,
+               "department": "Sound",
+               "job": "Songs"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc56ec3a368013d0000be",
+               "name": "Tim Mertens",
+               "profile_path": "/bTvLvMndvtu3oN7qFHJgqgRqCws.jpg",
+               "id": 61958,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc589c3a368012f0000dd",
+               "name": "Steve Goldberg",
+               "profile_path": null,
+               "id": 1210381,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc5a0c3a3687ff70000b7",
+               "name": "David Goetz",
+               "profile_path": null,
+               "id": 1552863,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc5c292514138850000c2",
+               "name": "Dan Cooper",
+               "profile_path": null,
+               "id": 61422,
+               "department": "Art",
+               "job": "Co-Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc5d3c3a3687ffd0000a3",
+               "name": "Douglas Rogers",
+               "profile_path": null,
+               "id": 12072,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc61492514138900000e1",
+               "name": "Mark Kennedy",
+               "profile_path": null,
+               "id": 61414,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc62fc3a3687ff90000e9",
+               "name": "Scott Beattie",
+               "profile_path": null,
+               "id": 1615775,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc6aec3a3687ffd0000ca",
+               "name": "Mark Hammel",
+               "profile_path": null,
+               "id": 1615776,
+               "department": "Crew",
+               "job": "Technical Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc6ee92514138850000ec",
+               "name": "Glen Keane",
+               "profile_path": "/wFxCDcFi1PRl894WlTneXEKsvzl.jpg",
+               "id": 139474,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc6f992514138820000d3",
+               "name": "John Kahrs",
+               "profile_path": null,
+               "id": 8020,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc70a92514138850000f0",
+               "name": "Clay Kaytis",
+               "profile_path": null,
+               "id": 1281387,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc76b92514138850000f8",
+               "name": "Richard E. Lehmann",
+               "profile_path": null,
+               "id": 1615777,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc7dc92514138940000ef",
+               "name": "Robert L. Miles",
+               "profile_path": null,
+               "id": 1615778,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc813c3a3687ff9000136",
+               "name": "Brian Leach",
+               "profile_path": null,
+               "id": 1615779,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc84e925141388e00010c",
+               "name": "Alessandro Jacomini",
+               "profile_path": null,
+               "id": 1615780,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc88dc3a368013d0000fd",
+               "name": "Ernest J. Petti",
+               "profile_path": null,
+               "id": 1615781,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc8cac3a368012f00013e",
+               "name": "Josh Staub",
+               "profile_path": null,
+               "id": 1470064,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc8e3c3a3680140000100",
+               "name": "Chris Springfield",
+               "profile_path": null,
+               "id": 1615782,
+               "department": "Lighting",
+               "job": "Lighting Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc943925141389400010e",
+               "name": "Doeri Welch Greiner",
+               "profile_path": null,
+               "id": 1554457,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc95a925141388e000121",
+               "name": "Bérénice Robinson",
+               "profile_path": null,
+               "id": 1464355,
+               "department": "Production",
+               "job": "Executive In Charge Of Post Production"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc96c92514138880000f8",
+               "name": "Chris Montan",
+               "profile_path": null,
+               "id": 953331,
+               "department": "Crew",
+               "job": "Executive Music Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bc97ec3a3687ff7000114",
+               "name": "Tom MacDougall",
+               "profile_path": null,
+               "id": 1291315,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bc9fb925141388500012e",
+               "name": "Cameron Frankley",
+               "profile_path": null,
+               "id": 1424167,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bca0e925141388e00013a",
+               "name": "Tim Pauer",
+               "profile_path": null,
+               "id": 1381896,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bca20925141389600012f",
+               "name": "Jennifer Christine Vera",
+               "profile_path": null,
+               "id": 1464361,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bcbb3c3a3680133000154",
+               "name": "Glen Keane",
+               "profile_path": "/wFxCDcFi1PRl894WlTneXEKsvzl.jpg",
+               "id": 139474,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bcbbec3a368012f000196",
+               "name": "Bill Schwab",
+               "profile_path": null,
+               "id": 1447499,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bcbcc925141388200012d",
+               "name": "Shiyoon Kim",
+               "profile_path": null,
+               "id": 1461364,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 1,
+               "credit_id": "572bccae9251413885000196",
+               "name": "Lauren Airriess",
+               "profile_path": null,
+               "id": 1615784,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bcd14c3a3687ff7000184",
+               "name": "Laurent Ben-Mimoun",
+               "profile_path": null,
+               "id": 1368856,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bcd5cc3a368014000019e",
+               "name": "Justin Cram",
+               "profile_path": null,
+               "id": 1615785,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bcdb0925141388e0001e1",
+               "name": "Gustaf Aspegren",
+               "profile_path": null,
+               "id": 1615786,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bce6d92514138960001e0",
+               "name": "Lorelay Bove",
+               "profile_path": null,
+               "id": 1461361,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 1,
+               "credit_id": "572bce8f92514138960001e3",
+               "name": "Lisa Keene",
+               "profile_path": null,
+               "id": 1461399,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 1,
+               "credit_id": "572bcea7c3a368013d0001e4",
+               "name": "Claire Keane",
+               "profile_path": null,
+               "id": 1615787,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bcf05c3a368012c0001f6",
+               "name": "Craig Mullins",
+               "profile_path": null,
+               "id": 1615788,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bcf0fc3a368012f000270",
+               "name": "Kent Melton",
+               "profile_path": null,
+               "id": 1552865,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bcf87c3a368012c000219",
+               "name": "Scott Watanabe",
+               "profile_path": null,
+               "id": 1615789,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bcf979251413894000216",
+               "name": "Victoria Ying",
+               "profile_path": null,
+               "id": 1615790,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd038925141388800021a",
+               "name": "Cory Rocco Florimonte",
+               "profile_path": null,
+               "id": 1615791,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bd093c3a3687ff700022f",
+               "name": "Allen Blaisdell",
+               "profile_path": null,
+               "id": 1615792,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bd0c9c3a368012f0002af",
+               "name": "Rob Dressel",
+               "profile_path": null,
+               "id": 1615793,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd11a925141388e000264",
+               "name": "Todd Allen Erickson",
+               "profile_path": null,
+               "id": 1615794,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd1439251413882000243",
+               "name": "Daniel Hu",
+               "profile_path": null,
+               "id": 1461397,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd151c3a368012c000248",
+               "name": "Brian Kesinger",
+               "profile_path": null,
+               "id": 1461363,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd15d925141388800024b",
+               "name": "Terry Moews",
+               "profile_path": null,
+               "id": 1615795,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd1979251413882000254",
+               "name": "John Murrah",
+               "profile_path": null,
+               "id": 1578645,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bd1b5c3a3687ff7000271",
+               "name": "Christopher K. Poplin",
+               "profile_path": null,
+               "id": 1615796,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bd2069251413888000267",
+               "name": "Wally Schaab",
+               "profile_path": null,
+               "id": 1615797,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd2ccc3a368012c00026c",
+               "name": "Richard Turner",
+               "profile_path": null,
+               "id": 1615799,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd2eec3a368013d000275",
+               "name": "Doug Walker",
+               "profile_path": null,
+               "id": 1451279,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd309925141388800027f",
+               "name": "David Wainstain",
+               "profile_path": null,
+               "id": 1615800,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bd3f9925141388200029f",
+               "name": "Brent Burley",
+               "profile_path": null,
+               "id": 1615802,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bd403c3a36801400002ac",
+               "name": "Brendan Duncan",
+               "profile_path": null,
+               "id": 1615803,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bd492c3a368012f000352",
+               "name": "Kevin Kliesch",
+               "profile_path": null,
+               "id": 65644,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd4cb92514138880002d5",
+               "name": "Brent W. Hall",
+               "profile_path": null,
+               "id": 928608,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd4ee92514138940002b8",
+               "name": "David E. Fluhr",
+               "profile_path": null,
+               "id": 112609,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bd502c3a3687ff90002fd",
+               "name": "Dean A. Zupancic",
+               "profile_path": null,
+               "id": 83091,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "572bd51792514138960002cb",
+               "name": "Ai-Ling Lee",
+               "profile_path": "/laK9Vh9RVKPxs9WqkDPy6fjsunv.jpg",
+               "id": 1367494,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "572bd539925141388a0002e3",
+               "name": "Jason W. Jennings",
+               "profile_path": null,
+               "id": 1408301,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ac80fa92514158f60148f7",
+               "name": "Mark Mitchell",
+               "profile_path": null,
+               "id": 1763017,
+               "department": "Crew",
+               "job": "Supervising Animator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aaaee120e0a261e3c005837",
+               "name": "Lori Alan",
+               "profile_path": "/mNfJWzuaKgkIaK7CuirXOMosd2h.jpg",
+               "id": 24358,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaee479251413fe200560c",
+               "name": "Yuriko Senoo",
+               "profile_path": null,
+               "id": 1645690,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaeecb9251413ff4005163",
+               "name": "Carlos Arévalo",
+               "profile_path": null,
+               "id": 1999090,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaef1fc3a3686c11005a36",
+               "name": "Melissa Bada",
+               "profile_path": null,
+               "id": 1999093,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aaaef7dc3a3686c1c0050f8",
+               "name": "Jessi Collins",
+               "profile_path": null,
+               "id": 1781300,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaef8ac3a3686c11005a73",
+               "name": "Jessica Dearborn",
+               "profile_path": null,
+               "id": 1999094,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaefb30e0a261e3c00590a",
+               "name": "Caitlin Dietz",
+               "profile_path": null,
+               "id": 1999095,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaefe40e0a261e4200628d",
+               "name": "Barbara Dirickson",
+               "profile_path": "/ssvoZ09Fu2LP5qICbcIgWHLdVPp.jpg",
+               "id": 1257847,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaeff00e0a261e4c005b0c",
+               "name": "Pamela Dugan",
+               "profile_path": null,
+               "id": 1999096,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf044c3a3686c23005b77",
+               "name": "Kevin Geiger",
+               "profile_path": null,
+               "id": 1713391,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf0579251413fe500547e",
+               "name": "Roy Gilbrecht",
+               "profile_path": null,
+               "id": 1999101,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf08d0e0a261e52005daf",
+               "name": "Shannon Torres Gilman",
+               "profile_path": null,
+               "id": 1999104,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf0b30e0a261e420062f0",
+               "name": "David Hermanson",
+               "profile_path": null,
+               "id": 1999105,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf0e0c3a3686c08005713",
+               "name": "Rosendo Hernandez",
+               "profile_path": null,
+               "id": 1999106,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf1239251413ff10056bb",
+               "name": "Christopher Hibler",
+               "profile_path": null,
+               "id": 101771,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf14cc3a3686c16005fff",
+               "name": "Kiran Bhakta Joshi",
+               "profile_path": null,
+               "id": 1361021,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf154c3a3686c0e005c12",
+               "name": "Frances Knott",
+               "profile_path": null,
+               "id": 1999107,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf17e9251413feb00533b",
+               "name": "Bill Konersman",
+               "profile_path": null,
+               "id": 1999108,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aaaf29a0e0a261e4200643d",
+               "name": "Arthur Lee",
+               "profile_path": "/j0fNPc6TBSfHeoBjjOQn6twsR3S.jpg",
+               "id": 1422743,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf2ac9251413fe200588e",
+               "name": "Kellie D. Lewis",
+               "profile_path": null,
+               "id": 1999109,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aaaf2e5c3a3686c1c005275",
+               "name": "Phil Lofaro",
+               "profile_path": null,
+               "id": 1629867,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf2f1c3a3686c23005d2a",
+               "name": "Nicole Maul",
+               "profile_path": null,
+               "id": 1999110,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf31dc3a3686c0e005d0c",
+               "name": "Erick Miller",
+               "profile_path": null,
+               "id": 1999111,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf34b0e0a261e3c005b25",
+               "name": "Chani Mintz",
+               "profile_path": null,
+               "id": 1999112,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aaaf3740e0a261e49005834",
+               "name": "Shane Morris",
+               "profile_path": null,
+               "id": 119863,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf3800e0a261e3f00601d",
+               "name": "Elisa Muffelman",
+               "profile_path": null,
+               "id": 1999113,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf3b7c3a3686c23005d8f",
+               "name": "Ruben I. Navarro",
+               "profile_path": null,
+               "id": 1999115,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf3e50e0a261e46005efc",
+               "name": "Kyle Odermatt",
+               "profile_path": null,
+               "id": 1461357,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf49b0e0a261e3c005bc8",
+               "name": "Ricardo R. Palma",
+               "profile_path": null,
+               "id": 1999117,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf4df9251413ff7005448",
+               "name": "Elizabeth Rega",
+               "profile_path": null,
+               "id": 1999118,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf5079251413fee00578a",
+               "name": "Ali Rowghani",
+               "profile_path": null,
+               "id": 1999119,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf536c3a3686c1600620b",
+               "name": "Tighe Sheldon",
+               "profile_path": null,
+               "id": 1438903,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf553c3a3686c0800596f",
+               "name": "Ronnie Specter",
+               "profile_path": null,
+               "id": 548412,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf5620e0a261e420065af",
+               "name": "Struart Sumida",
+               "profile_path": null,
+               "id": 1999120,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf58d0e0a261e3f006138",
+               "name": "Angel Valles",
+               "profile_path": null,
+               "id": 1999123,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf5bcc3a3686c0b00616f",
+               "name": "Arno Zinke",
+               "profile_path": null,
+               "id": 1999127,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf7d59251413fe2005b43",
+               "name": "Petra Bach",
+               "profile_path": null,
+               "id": 1424155,
+               "department": "Sound",
+               "job": "ADR Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aaaf7f6c3a3686c050055e8",
+               "name": "Terri Douglas",
+               "profile_path": "/lECiABogAKm5Zl8Je6niNAoqz5N.jpg",
+               "id": 186605,
+               "department": "Production",
+               "job": "ADR Voice Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf8359251413ff7005645",
+               "name": "Jason Anastas",
+               "profile_path": null,
+               "id": 1763089,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aaaf8420e0a261e4c005f9b",
+               "name": "Doug Bennett",
+               "profile_path": null,
+               "id": 1763005,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf84e9251413fe5005863",
+               "name": "Patrick Bonneau",
+               "profile_path": null,
+               "id": 1999134,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf858c3a3686c1c00552c",
+               "name": "Joe Bowers",
+               "profile_path": null,
+               "id": 1763095,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf8630e0a261e4f006238",
+               "name": "Darrin Butters",
+               "profile_path": null,
+               "id": 1763097,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf86d9251413ff7005662",
+               "name": "Tony Cabrera",
+               "profile_path": null,
+               "id": 1999136,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aaaf876c3a3686c0500563b",
+               "name": "Katie Cheang",
+               "profile_path": null,
+               "id": 1763098,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf87f0e0a261e3f0062ef",
+               "name": "Youngjae Choi",
+               "profile_path": null,
+               "id": 1763101,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf8d6c3a3686c08005b32",
+               "name": "Jeremy Collins",
+               "profile_path": null,
+               "id": 1999138,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf8fe9251413fe8005cda",
+               "name": "Christopher Cordingley",
+               "profile_path": null,
+               "id": 1763103,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf90ac3a3686c0e00604f",
+               "name": "Bob Davies",
+               "profile_path": null,
+               "id": 1763104,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf9159251413fe8005ced",
+               "name": "Claudio de Oliveira",
+               "profile_path": null,
+               "id": 1996856,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf91fc3a3686c0e006062",
+               "name": "Renato Dos Anjos",
+               "profile_path": null,
+               "id": 1763014,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf9299251413feb005709",
+               "name": "Adam Dykstra",
+               "profile_path": null,
+               "id": 1763105,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf9399251413ff4005723",
+               "name": "Chadd Ferron",
+               "profile_path": null,
+               "id": 1763106,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf9559251413fe50058fc",
+               "name": "Jason Figliozzi",
+               "profile_path": null,
+               "id": 1994935,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf9619251413fe5005903",
+               "name": "Danny Galieote",
+               "profile_path": null,
+               "id": 1999141,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf96a9251413ff1005b1a",
+               "name": "Minor Gaytan",
+               "profile_path": null,
+               "id": 1994971,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf9760e0a261e3c005ece",
+               "name": "Dave Gottlieb",
+               "profile_path": null,
+               "id": 1763107,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf9800e0a261e4f0062d7",
+               "name": "Adam Green",
+               "profile_path": null,
+               "id": 1717777,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf98a0e0a261e4f0062df",
+               "name": "Jennifer Hager",
+               "profile_path": null,
+               "id": 1717778,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf994c3a3686c160064b6",
+               "name": "Brent Homman",
+               "profile_path": null,
+               "id": 1999143,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf99e9251413fe2005c52",
+               "name": "Darrell W. Johnson",
+               "profile_path": null,
+               "id": 1994943,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaf9d6c3a3686c050056f9",
+               "name": "Alex Kupershmidt",
+               "profile_path": "/SV7HPzdWUxs4guq2VnT4g06AqD.jpg",
+               "id": 1552189,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aaafa0e0e0a261e4c0060d5",
+               "name": "Amy Lawson Smeed",
+               "profile_path": null,
+               "id": 1763128,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafa189251413ff7005739",
+               "name": "Kira Lehtomaki",
+               "profile_path": null,
+               "id": 1994917,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aaafa580e0a261e3c005f47",
+               "name": "Sam Marin",
+               "profile_path": "/1Uwy5SibOAISb1X8tFPWA9mErCX.jpg",
+               "id": 1251102,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafa669251413ff40057c8",
+               "name": "Marlon Nowe",
+               "profile_path": null,
+               "id": 1459732,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aaafa8ac3a3686c1100608f",
+               "name": "Patrick Osborne",
+               "profile_path": "/c0X2OH2vYigh92DgQO94DGICLj0.jpg",
+               "id": 1364881,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafa960e0a261e3c005f74",
+               "name": "Hyrum Virl Osmond",
+               "profile_path": null,
+               "id": 1763117,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafaa00e0a261e3f006445",
+               "name": "Zach Parrish",
+               "profile_path": null,
+               "id": 1194137,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafaab0e0a261e49005c0a",
+               "name": "Claus Pedersen",
+               "profile_path": null,
+               "id": 1999146,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafb4bc3a3686c08005cca",
+               "name": "Malcon Pierce",
+               "profile_path": null,
+               "id": 1717780,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafb56c3a3686c0b0064f9",
+               "name": "Joel Reid",
+               "profile_path": null,
+               "id": 1994953,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafb76c3a3686c0e0061ce",
+               "name": "Alli Sadegiani",
+               "profile_path": null,
+               "id": 1288174,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafb82c3a3686c0b00650c",
+               "name": "Joe Sandstrom",
+               "profile_path": null,
+               "id": 1998399,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafb8c0e0a261e460063a2",
+               "name": "Chad Sellers",
+               "profile_path": null,
+               "id": 1994918,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafb979251413feb005861",
+               "name": "Tony Smeed",
+               "profile_path": null,
+               "id": 1763129,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaafdf1c3a3686c1100628f",
+               "name": "Ron Smith",
+               "profile_path": null,
+               "id": 1779910,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaff2a9251413ff4005a5d",
+               "name": "Mike Surrey",
+               "profile_path": null,
+               "id": 1563747,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaff35c3a3686c0e0063f5",
+               "name": "Wayne Unten",
+               "profile_path": null,
+               "id": 1763023,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaff3f9251413fee005d24",
+               "name": "Rebecca Wilson Bresee",
+               "profile_path": null,
+               "id": 1763096,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaff52c3a3686c1c0058b6",
+               "name": "John Wong",
+               "profile_path": null,
+               "id": 1462696,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaff6ac3a3686c0e00640c",
+               "name": "Alexander Mark",
+               "profile_path": null,
+               "id": 1763113,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaffad9251413ff100715c",
+               "name": "Christopher D. Lindsay",
+               "profile_path": null,
+               "id": 1462688,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aaaffe20e0a261e4600665e",
+               "name": "Nik Ranieri",
+               "profile_path": "/53myt9tYIeOLuBa9iJGWuErHpe6.jpg",
+               "id": 1337303,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab01000e0a261e42006d19",
+               "name": "Dara McGarry",
+               "profile_path": null,
+               "id": 1077828,
+               "department": "Production",
+               "job": "Assistant Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab01249251413feb005b8b",
+               "name": "Shannon Stein",
+               "profile_path": null,
+               "id": 1117307,
+               "department": "Editing",
+               "job": "Associate Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab01389251413ff4005ba4",
+               "name": "Cymbre Walk",
+               "profile_path": null,
+               "id": 1461416,
+               "department": "Production",
+               "job": "Casting Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab01710e0a261e4c00654c",
+               "name": "Jesus Canal",
+               "profile_path": null,
+               "id": 1994980,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab01a39251413fe80061db",
+               "name": "Jin Kim",
+               "profile_path": null,
+               "id": 1615783,
+               "department": "Visual Effects",
+               "job": "Character Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab029bc3a3686c23006647",
+               "name": "James Bancroft",
+               "profile_path": null,
+               "id": 8087,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab02ac9251413fe8006286",
+               "name": "Jay Banks",
+               "profile_path": null,
+               "id": 1999151,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab02bb9251413fe200619e",
+               "name": "Jan Berger",
+               "profile_path": null,
+               "id": 1998411,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab02c9c3a3686c0e006647",
+               "name": "Mark Empey",
+               "profile_path": null,
+               "id": 1717781,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab02d3c3a3686c1c005a92",
+               "name": "Amy Shimano",
+               "profile_path": null,
+               "id": 1999152,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab02f90e0a261e490060ba",
+               "name": "Glen Claybrook",
+               "profile_path": null,
+               "id": 1998420,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab033dc3a3686c08006188",
+               "name": "Erik Eulen",
+               "profile_path": null,
+               "id": 1994984,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab03730e0a261e49006113",
+               "name": "John Kahwaty",
+               "profile_path": null,
+               "id": 1999153,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab037e9251413fe5005ead",
+               "name": "Serguei Kalentchouk",
+               "profile_path": null,
+               "id": 1999154,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab03880e0a261e4c00669b",
+               "name": "William D. Kastak",
+               "profile_path": null,
+               "id": 1994986,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab03929251413ff7005c69",
+               "name": "Dave K. Komorowski",
+               "profile_path": null,
+               "id": 1462003,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab039c0e0a261e3f00697d",
+               "name": "Andrei Savu",
+               "profile_path": null,
+               "id": 1999155,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aab03d59251413ff4005d0d",
+               "name": "Gregory Smith",
+               "profile_path": null,
+               "id": 1453539,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab03e00e0a261e4c0066c5",
+               "name": "Marc Thyng",
+               "profile_path": null,
+               "id": 1998429,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab03fbc3a3686c16006b2d",
+               "name": "Hubert Leo",
+               "profile_path": null,
+               "id": 1994987,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab05a39251413ff10074a7",
+               "name": "Kellie Parker",
+               "profile_path": "/y0tFEqZ6Wq9reO2IL7osJdlXU7d.jpg",
+               "id": 1403020,
+               "department": "Crew",
+               "job": "Choreographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab06429251413feb005e92",
+               "name": "Jim Passon",
+               "profile_path": null,
+               "id": 13223,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0665c3a3686c0e00682c",
+               "name": "Chris DeLaGuardia",
+               "profile_path": null,
+               "id": 1610869,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab067bc3a3686c110067b8",
+               "name": "Michael Kosarin",
+               "profile_path": null,
+               "id": 1748511,
+               "department": "Sound",
+               "job": "Conductor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab06cc9251413ff1007536",
+               "name": "Mac George",
+               "profile_path": null,
+               "id": 1763038,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab06dbc3a3686c0b006c4e",
+               "name": "Kevin Nelson",
+               "profile_path": null,
+               "id": 1713402,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab06e79251413fe50060a1",
+               "name": "David Womersley",
+               "profile_path": null,
+               "id": 61421,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0735c3a3686c0e006896",
+               "name": "David V. Butler",
+               "profile_path": null,
+               "id": 1357059,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab078d0e0a261e3f006c0b",
+               "name": "Paul Bronkar",
+               "profile_path": null,
+               "id": 1695269,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0886c3a3686c110068f5",
+               "name": "Julianne Hale",
+               "profile_path": null,
+               "id": 1748506,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0891c3a3686c230069b7",
+               "name": "Frank William Knittel",
+               "profile_path": null,
+               "id": 1995022,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab089ac3a3686c0b006d44",
+               "name": "Linda Y. Matsuoka",
+               "profile_path": null,
+               "id": 1995023,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab08b80e0a261e3c006704",
+               "name": "Colin King Miller",
+               "profile_path": null,
+               "id": 1059020,
+               "department": "Production",
+               "job": "Finance"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab08ce9251413ff7005f30",
+               "name": "Matt Ornstein",
+               "profile_path": null,
+               "id": 1999169,
+               "department": "Visual Effects",
+               "job": "Fix Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab08d8c3a3686c05005f00",
+               "name": "Michael Sabalvaro",
+               "profile_path": null,
+               "id": 1999170,
+               "department": "Visual Effects",
+               "job": "Fix Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab08e39251413fee0062db",
+               "name": "Alyson Dee Moore",
+               "profile_path": null,
+               "id": 1397823,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aab08ed0e0a261e46006bce",
+               "name": "John Roesch",
+               "profile_path": null,
+               "id": 1116937,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aab09040e0a261e42007202",
+               "name": "Mary Jo Lang",
+               "profile_path": null,
+               "id": 1461371,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0948c3a3686c16006e73",
+               "name": "Chris Jolly",
+               "profile_path": null,
+               "id": 1999174,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab096c9251413ff7005fb8",
+               "name": "Dan Haring",
+               "profile_path": null,
+               "id": 1455462,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab097fc3a3686c110069b8",
+               "name": "Ryan DeYoung",
+               "profile_path": null,
+               "id": 1994888,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab098a0e0a261e4c006a21",
+               "name": "Paula Goldstein",
+               "profile_path": null,
+               "id": 1999175,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab099bc3a3686c23006a6b",
+               "name": "Jongo",
+               "profile_path": null,
+               "id": 1994551,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0c1bc3a3686c0b0070ea",
+               "name": "Enrique Munoz",
+               "profile_path": null,
+               "id": 1999179,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0c3f9251413ff400634a",
+               "name": "Daniel Naughton",
+               "profile_path": null,
+               "id": 1999180,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0c4dc3a3686c08006803",
+               "name": "Derek Nelson",
+               "profile_path": null,
+               "id": 1994878,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0c56c3a3686c08006812",
+               "name": "Jorge Obregon",
+               "profile_path": null,
+               "id": 1994877,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0c5fc3a3686c11006d00",
+               "name": "Amy Pfaffinger",
+               "profile_path": null,
+               "id": 1998513,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0c6d0e0a261e3c006aaf",
+               "name": "Raqi Syed",
+               "profile_path": null,
+               "id": 1999182,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0c8b9251413fee006660",
+               "name": "David Tanner",
+               "profile_path": null,
+               "id": 1877813,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0c960e0a261e46006faa",
+               "name": "LaTasha Tobias",
+               "profile_path": null,
+               "id": 1999183,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0ca0c3a3686c1c0060ce",
+               "name": "Emily Tse",
+               "profile_path": null,
+               "id": 1999184,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0ca9c3a3686c1600722c",
+               "name": "Katie Tucker-Fico",
+               "profile_path": null,
+               "id": 1995175,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0cb39251413fe5006559",
+               "name": "John Huikku",
+               "profile_path": null,
+               "id": 1999185,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0cbc9251413fee006690",
+               "name": "Frances Kumashiro",
+               "profile_path": null,
+               "id": 1999187,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0cc7c3a3686c0b0071b6",
+               "name": "Jason MacLeod",
+               "profile_path": null,
+               "id": 1994866,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0cd39251413fe20069aa",
+               "name": "Alan Precourt",
+               "profile_path": null,
+               "id": 1999188,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0cdc9251413fe8006a73",
+               "name": "Amol Sathe",
+               "profile_path": null,
+               "id": 1995037,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0ce89251413ff700631b",
+               "name": "Mark Siegel",
+               "profile_path": null,
+               "id": 1995039,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0dd80e0a261e5200717c",
+               "name": "Jennifer Yu",
+               "profile_path": null,
+               "id": 1999190,
+               "department": "Lighting",
+               "job": "Lighting Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab0fab0e0a261e49006a32",
+               "name": "Pierre Blondin",
+               "profile_path": null,
+               "id": 1394759,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab10460e0a261e46007339",
+               "name": "Brian Dinkins",
+               "profile_path": null,
+               "id": 1460664,
+               "department": "Crew",
+               "job": "Mix Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab10be0e0a261e5200742f",
+               "name": "Brian Dinkins",
+               "profile_path": null,
+               "id": 1460664,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab1102c3a3686c0b00757b",
+               "name": "James Doherty",
+               "profile_path": null,
+               "id": 1999200,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab11270e0a261e4f00744c",
+               "name": "Eryn Katz",
+               "profile_path": null,
+               "id": 1763042,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab11329251413ff1007de2",
+               "name": "Joe Kwong",
+               "profile_path": null,
+               "id": 1763043,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab113b0e0a261e49006b67",
+               "name": "Akin Bilgic",
+               "profile_path": null,
+               "id": 1999202,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab11450e0a261e3f0074e5",
+               "name": "Sing Khamnouane",
+               "profile_path": null,
+               "id": 1999203,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab115f9251413fe8006e47",
+               "name": "Jon Krummel",
+               "profile_path": null,
+               "id": 1459620,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab1195c3a3686c050066cf",
+               "name": "David B. Mooy",
+               "profile_path": null,
+               "id": 1999204,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab119d0e0a261e49006bf2",
+               "name": "Samy Segura",
+               "profile_path": null,
+               "id": 1763052,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aab11c00e0a261e4c0071ed",
+               "name": "Joe Whyte",
+               "profile_path": "/nBWyiV2dbhMAebwXagfNWej5on4.jpg",
+               "id": 61425,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aab11d89251413ff400681f",
+               "name": "Earl Ghaffari",
+               "profile_path": null,
+               "id": 1341141,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab11e39251413ff1007e9d",
+               "name": "Charles Paley",
+               "profile_path": null,
+               "id": 1813303,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aab11f2c3a3686c0b007661",
+               "name": "Sally Boldt",
+               "profile_path": null,
+               "id": 1551219,
+               "department": "Crew",
+               "job": "Temp Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab124ac3a3686c23007291",
+               "name": "George Doering",
+               "profile_path": null,
+               "id": 1043374,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab12569251413feb00687d",
+               "name": "James Thatcher",
+               "profile_path": null,
+               "id": 1741194,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab12629251413fe2006ed3",
+               "name": "Wade Culbreath",
+               "profile_path": null,
+               "id": 1821933,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab12af0e0a261e3f00764b",
+               "name": "Eric Bradley",
+               "profile_path": null,
+               "id": 1337044,
+               "department": "Sound",
+               "job": "Musician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab131a0e0a261e52007692",
+               "name": "Michael Starobin",
+               "profile_path": null,
+               "id": 1136912,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab13250e0a261e49006d4c",
+               "name": "Michael Starobin",
+               "profile_path": null,
+               "id": 1136912,
+               "department": "Sound",
+               "job": "Songs"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab1344c3a3686c1c006646",
+               "name": "Gabriel Guy",
+               "profile_path": null,
+               "id": 1397844,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab134e0e0a261e3f0076d0",
+               "name": "Bill Higley",
+               "profile_path": null,
+               "id": 1459648,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab13570e0a261e3c00708c",
+               "name": "Doc Kane",
+               "profile_path": null,
+               "id": 8157,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab13639251413fe5006b4f",
+               "name": "Roy Latham",
+               "profile_path": null,
+               "id": 1999215,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab13900e0a261e4c00735b",
+               "name": "Frank Wolf",
+               "profile_path": null,
+               "id": 1623542,
+               "department": "Sound",
+               "job": "Scoring Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aab13b89251413fe2007009",
+               "name": "Fletcher Sheridan",
+               "profile_path": "/1XV5vdVSFTvePXxQQg8ev3lspl6.jpg",
+               "id": 1656606,
+               "department": "Sound",
+               "job": "Playback Singer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aab140ac3a3686c0e007458",
+               "name": "Gerald White",
+               "profile_path": null,
+               "id": 1999216,
+               "department": "Sound",
+               "job": "Playback Singer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab147cc3a3686c1c006732",
+               "name": "Elissa Sussman",
+               "profile_path": null,
+               "id": 1999217,
+               "department": "Editing",
+               "job": "Editorial Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab153ac3a3686c050069b4",
+               "name": "Kristin Yadamec",
+               "profile_path": null,
+               "id": 1464409,
+               "department": "Lighting",
+               "job": "Lighting Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab15d4c3a3686c230075ed",
+               "name": "Yvett Merino Flores",
+               "profile_path": null,
+               "id": 1999218,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab16769251413fee006f3c",
+               "name": "Nicole P. Hearon",
+               "profile_path": null,
+               "id": 1742294,
+               "department": "Visual Effects",
+               "job": "Animation Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab171f9251413ff4006c61",
+               "name": "Dexter Cheng",
+               "profile_path": null,
+               "id": 1995185,
+               "department": "Crew",
+               "job": "Software Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab174a0e0a261e52007a62",
+               "name": "Tighe Sheldon",
+               "profile_path": null,
+               "id": 1438903,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab176f0e0a261e3c007403",
+               "name": "Rik Bomberger",
+               "profile_path": null,
+               "id": 1995154,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab177a0e0a261e490071b5",
+               "name": "Michael McClure",
+               "profile_path": null,
+               "id": 1998443,
+               "department": "Crew",
+               "job": "Systems Administrators & Support"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab17aec3a3686c0b007c46",
+               "name": "Mary Meacham",
+               "profile_path": null,
+               "id": 1995019,
+               "department": "Art",
+               "job": "Title Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab17c60e0a261e52007af0",
+               "name": "Collin Maxfield Parrish",
+               "profile_path": null,
+               "id": 1999223,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab17d50e0a261e4c00775f",
+               "name": "Ian J. Coony",
+               "profile_path": null,
+               "id": 1998438,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab17e4c3a3686c08007212",
+               "name": "MacDuff Knox",
+               "profile_path": null,
+               "id": 1998511,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab17f20e0a261e460079f7",
+               "name": "Martin Furness",
+               "profile_path": null,
+               "id": 1999224,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab181a9251413fe800742a",
+               "name": "Olivier Mouroux",
+               "profile_path": null,
+               "id": 1999226,
+               "department": "Production",
+               "job": "Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aab188c9251413fe5007003",
+               "name": "Mohit Kallianpur",
+               "profile_path": null,
+               "id": 1763026,
+               "department": "Lighting",
+               "job": "Lighting Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabde20c3a3680f1600027f",
+               "name": "Jon Michaels",
+               "profile_path": null,
+               "id": 1662356,
+               "department": "Sound",
+               "job": "First Assistant Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabde2fc3a3680f0d000295",
+               "name": "Jon Michaels",
+               "profile_path": null,
+               "id": 1662356,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5abba5690e0a2609de013977",
+               "name": "Daniel Martín Peixe",
+               "profile_path": null,
+               "id": 1994950,
+               "department": "Visual Effects",
+               "job": "Animation"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 41.860589,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 38757,
+      "vote_count": 4336,
+      "budget": 260000000,
+      "overview": "When the kingdom's most wanted-and most charming-bandit Flynn Rider hides out in a mysterious tower, he's taken hostage by Rapunzel, a beautiful and feisty tower-bound teen with 70 feet of magical, golden hair. Flynn's curious captor, who's looking for her ticket out of the tower where she's been locked away for years, strikes a deal with the handsome thief and the unlikely duo sets off on an action-packed escapade, complete with a super-cop horse, an over-protective chameleon and a gruff gang of pub thugs.",
+      "similar": [
+         10882,
+         812,
+         4523,
+         9479,
+         808,
+         10530,
+         34584,
+         10198,
+         10020,
+         809,
+         109445,
+         321612,
+         14128,
+         224141,
+         10144,
+         10193,
+         10895,
+         41513,
+         9325,
+         3933
+      ],
+      "original_title": "Tangled",
+      "runtime": 100,
+      "poster_path": "/re6AOJbhBk9FIK3knwU6rYlbPDx.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+            "name": "Walt Disney Animation Studios",
+            "id": 6125,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+            "name": "Walt Disney Pictures",
+            "id": 2,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2010-11-24",
+      "vote_average": 7.5,
+      "belongs_to_collection": {
+         "backdrop_path": "/5MNCqO4PKK7McD4PKeXJZ6DEY9L.jpg",
+         "name": "Tangled Collection",
+         "id": 463959,
+         "poster_path": "/hhIZI7RBzzEAj2evkO1vgFoxNht.jpg"
+      },
+      "tagline": "They're taking adventure to new lengths.",
+      "adult": false,
+      "homepage": "http://disney.go.com/disneypictures/tangled/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Nathan Greno",
+         "Byron Howard"
+      ],
+      "runtime": 100,
+      "synopsis": "We open with the camera settling on a Wanted poster for Flynn Rider ( Zachary Levi) that is mounted to a tree. Flynn's voice narrates: \"This is the story of how I died. But, don't worry, this is actually a fun story and the truth is it isn't even mine. This is the story of a girl named Rapunzel, and it starts with the sun.\" Flynn proceeds to tell us the backstory. Centuries ago, a droplet of sunlight falls from the sky and lands on Earth. When it touches the ground, a radiant, glowing yellow flower blossoms. It is capable of healing the sick and injured. An old crone named Gothel ( Donna Murphy) finds the flower and discovers that, when she sings a certain song to it (\"Flower, gleam and glow. Let your power shine. Make the clock reverse, bring back what once was mine, what once was mine\") , it emits a power that restores her youth. Vain and possessive of the flower, Gothel hides it beneath a woven basket and regularly returns to it to keep herself young. Time goes by, and just a hop, skip and a boat ride away, the kingdom of Corona grows and prospers. The ruling king and queen desperately wish for a child and, when the queen becomes pregnant, the entire kingdom celebrates. However, the queen soon falls deathly ill. Upon hearing a rumor that speaks of a legendary flower created by a drop of sunlight with the potential to heal illness, the king spares no time and dispatches his soldiers out to find it. After searching the countryside and nearby forests, the soldiers finally come upon the golden flower that Gothel has been hoarding. They bring it back to the castle where it gets distilled into an elixir and is given to the queen. To everyone's great relief, she recovers and soon gives birth to a beautiful baby girl who, unlike her parents, has shining golden hair. The royal family marks the occasion by painting a paper lantern with the emblem of a sun, lighting it, and releasing it into the sky. Gothel, however, is not pleased. She is determined not to lose the magical powers that gave her eternal youth, so she breaks into the castle late one night and finds the baby princess lying in her crib. She recites the old song and the baby's hair glows just as the flower had. Gothel attempts to cut just enough hair to keep but the clipped hair turns brown in her hands, void of its power. Frustrated and desperate, Gothel resolves to kidnap the princess and flee with her deep into the forest. She takes the baby to a secret tower hidden in an alcove where she gives her the name Rapunzel and raises her as her own daughter. She teaches the girl to sing the old song to make her hair glow and restore Gothel's beauty and keeps her hidden from the world, telling her that it is for her own safety and that anyone on the outside wouldn't hesitate to steal her magic hair. The only access to the world Rapunzel has is a wide window from which Mother Gothel comes and goes, using Rapunzel's 70 foot long hair as a rope ladder. Despite playing the part as 'mother', Gothel often cruelly teases Rapunzel and guilt-trips her whenever she is upset or disappointed, dramatically proclaiming, \"now I'm the bad guy\". As the years pass, Rapunzel ( Mandy Moore) becomes fascinated by an annual event that seems to happen only on her birthday. That night, every year, she witnesses thousands of floating lights in the sky, brighter than the stars and beautiful in all their colors. Unknown to her, it is the releasing of the paper lanterns that her biological parents are making, in tradition of their daughter whom they hope will return to them one day. Eighteen years later, Rapunzel is a creative young woman, finding numerous ways to keep herself entertained during the day while Mother Gothel is away, including painting, cleaning, brushing, and playing hide and seek with her pet chameleon Pascal. Though she is happy with her life in the tower, she longs to someday explore the outside world and see the place where the lanterns in the sky come from. Within the kingdom, standing on the roof of the castle, young thief Flynn Rider goes over the plans to his latest heist with his associates, the Stabbington brothers ( Ron Perlman), who are differentiated by one of them having an eyepatch. They use a rope to lower Flynn into the throne room where the missing princess's prized tiara sits on a guarded pedestal. Flynn steals the priceless artifact and is hoisted back to the roof with the palace guards hot in pursuit, led by the Captain of the Guard ( M.C. Gainey) and his loyal horse, Maximus. The thieves make it outside the kingdom and seek refuge in the forest but soon come to a dead end in a ditch. The Stabbington brothers tell Flynn that, if he gives them the satchel with the tiara in it, they'll hoist him up to the high ledge above. Once at the top, they then command that Flynn help them up. But Flynn reveals that he still has the tiara, placed in a second satchel, and has double-crossed them. He ditches the brothers and runs into the forest. Seeking refuge, Flynn comes to Rapunzel's tower and climbs the vines to the open window above. There, he is seemingly alone and takes the tiara out of his satchel to admire it, but not before Rapunzel knocks him out with a frying pan. Rapunzel steps forward, and she and Pascal investigate the intruder. Pascal, using his color schemes, advises Rapunzel to be wary of the young man since Gothel has often told (false) stories of men bearing sharp teeth. However, Rapunzel finds nothing outwardly menacing about Flynn and hides him in her closet as Mother Gothel comes home. Rapunzel decides that she will show Mother Gothel the young man, proving that she can take care of herself, in hopes that she will be let out of the tower for her approaching 18th birthday. However, when Rapunzel plucks up the courage to ask to leave the tower and see the floating lights, Mother Gothel spurns her request. She tells Rapunzel that the world is much too dangerous for someone as naïve as her and that she is never to leave the tower, singing that \"Mother Knows Best\". Rapunzel solemnly promises not to ask to leave the tower again and, thinking it pointless now, keeps from telling Mother Gothel that she has a stranger locked away in her closet. Instead, she asks if Mother Gothel could restore her white paint by collecting special white seashells for her birthday. Mother Gothel is hesitant about making the three day journey to the shore, but acquiesces and leaves. Once out of sight, Rapunzel takes Flynn out of the closet and uses her hair to tie him up to a chair. When he comes to, she proposes a deal. She will give him his satchel with the tiara back (which she has hidden) if he takes her to see the floating lights and brings her back to the tower before Mother Gothel returns. Flynn reluctantly agrees. Outside the tower, Rapunzel digs her toes into grass for the first time and runs about the forest in bursts of elation and panic while Flynn can only watch. While excited to be out in the world for the first time, Rapunzel feels equally ashamed for having defied her mother. Despite her guilt and confusion, she assures Flynn that she is fine enough to continue the journey. Hoping to dissuade her, Flynn takes her to the nearby Snuggly Duckling Inn, a tavern which is frequented by an assortment of thugs and bandits. Flynn's plan to scare Rapunzel into going back to the tower backfires when the thugs recognize him from wanted posters and attempt to hold him for a reward while one of their associates goes to tip off the guards. Rapunzel pleads with them to release Flynn and asks if any of them have ever had a dream. Her innocence melts their hearts and they all confess their dreams. When the guards arrive at the inn, they stage a distraction to help Rapunzel and Flynn escape through a secret tunnel and encourage her to live her dream. As they make their way down the tunnel, the horse Maximus arrives at the inn and sniffs Flynn's trail to the secret trapdoor. He leads the guards to a large quarry where they corner Rapunzel and Flynn. Maximus unhinges a large wooden beam to try and get to them but this renders the dam overlooking the quarry unstable. It collapses and a wave of water surges into the quarry. Rapunzel and Flynn become trapped inside a cave as falling rocks block the entrance. Water begins to flood into the cave and, realizing their doom, Rapunzel and Flynn each admit a secret to the other. Flynn confesses that his true name is Eugene Fitzherbert. Rapunzel tells him that her hair glows when she sings. However, she realizes that she can use that to her advantage and begins singing. Her glowing hair illuminates a break in the rocks where water flows out and Flynn manages to dislodge the rocks, injuring his hand slightly, and break out the other side. Meanwhile, Mother Gothel returns to the tower early, having found seashells at a nearby market. She is shocked to discover Rapunzel gone and even more surprised when she finds the tiara hidden under the staircase with a satchel and a wanted poster of Flynn. Bent on retrieving Rapunzel, Gothel takes the satchel and tiara and sets out to search for her. She manages to track Rapunzel to the Snuggly Duckling, through the secret passage, into the quarry, and through the cave into the forest once more. There, she is confronted by the Stabbington brothers, but uses them to her advantage by bargaining their help for the tiara, revenge against Flynn for double-crossing them, and 'something worth much more'. That evening, Rapunzel and Eugene set up camp and Rapunzel reveals to Eugene that her hair does not just glow as she wraps it around his injured hand. She sings and, as her hair glows, it heals Eugene's injury, to his shock. He asks her not to spread word of his true name for fear that it would ruin his reputation, explaining that he adopted his current pseudonym of 'Flynn Rider' as an orphan, inspired by stories of a thief named 'Flynn'. Growing up, he dreamed of having enough money to travel the world and relished the freedom of it all. Even so, Rapunzel tells him that she actually prefers his real name. When Eugene leaves to gather more firewood, Mother Gothel appears to Rapunzel from the nearby bushes and tells her that they must return to the tower. Rapunzel refuses to leave and tells Mother Gothel that she thinks Eugene likes her. Mother Gothel scoffs at the idea and tells Rapunzel that Flynn is only interested in one thing before revealing the satchel with the tiara. She tells Rapunzel to prove her wrong and test Eugene by giving him the satchel but not to come crying if he takes it and leaves. Unsure but fearful that Mother Gothel may be right, Rapunzel hides the satchel as Flynn returns. They settle down for the night while Gothel and the Stabbington brothers keep an eye on them nearby. The next morning, Eugene wakes to see a soaking wet Maximus glaring angrily down at him. Maximus attempts to carry Eugene off but Rapunzel befriends the horse and convinces him to let Eugene stay with her until after she sees the floating lights. Maximus relents but accompanies the pair as they travel into the kingdom. The marketplace is alive with vendors and townsfolk preparing for the sky lantern festival and Rapunzel's hair is tightly braided to prevent it from dragging. While she and Eugene tour the kingdom, she notices a large tile portrait of the Royal family, including a baby with golden hair. Eugene finds himself growing fond of Rapunzel and, as the time for the lanterns to be released approaches, takes her out on a boat to the middle of the lake surrounding the castle. There, they watch in awe as the lights are released and the sky is filled with a soft orange glow. One lantern with a sun emblem on it floats down and Rapunzel gently pushes it back skyward. She then reveals the satchel she had been hiding to Eugene but, unlike what Mother Gothel predicted, he puts it aside and takes Rapunzel's hands in his. Before they can kiss, Eugene spies the Stabbington brothers on the nearby shore. He rows the boat in, tells Rapunzel to wait, and goes to meet them with the satchel. Realizing that he cares more about Rapunzel than the tiara, he gives the satchel to the brothers but they reveal they're no longer interested in the tiara. While she waits by the boat, Rapunzel is shocked to see the Stabbington brothers approach. They tell her that Eugene betrayed her trust and point to his silhouette in a boat on the lake before attempting to kidnap her for her hair's power. Horrified, Rapunzel tries to run but her long hair gets caught on a tree log. Before the brothers can grab her, Mother Gothel appears and knocks both of them unconscious. In tears and promising to never disobey her again, Rapunzel leaves with Mother Gothel back to the tower. Eugene's boat, meanwhile, docks just outside the palace. Maximus watches from nearby as Flynn comes to, having been knocked out and tied to the mast of the boat with the tiara beside him. The guards on the dock immediately arrest him. Back within the confines of the tower, Mother Gothel comforts Rapunzel and tells her that they shall put this whole experience behind them. As she walks up to her room, Rapunzel notices a recurring theme: all around her, painted on the walls and embroidered on her bed sheets, is the same sun emblem that she saw within the kingdom and on the very lantern she pushed skyward. She remembers the baby with golden blonde hair held by her brown-haired parents and suddenly realizes that she is the missing princess! She confronts Gothel about this who admits the truth but maintains that everything she did was for Rapunzel's protection. When Rapunzel asks what's to become of Eugene, Gothel tells her that he is to be executed. Enraged, Rapunzel goes to leave but Gothel resolves to 'be the bad guy' and approaches her menacingly. As he is led to the gallows, Eugene sees the Stabbington brothers incarcerated in their own cell. He demands to know what has happened to Rapunzel and they admit that they were acting under the promises of Mother Gothel to get Rapunzel back. Eugene struggles to escape, knowing that Rapunzel is in danger, but is unable to. Maximus then arrives with a few of the thugs from the Snuggly Duckling ( Jeffrey Tambor, Brad Garrett, Paul F. Tompkins, and Richard Kiel) and they help Eugene break out so that he can ride out to Rapunzel's tower. Beneath the tower, he calls out to Rapunzel and her hair is let down for him to climb. When he reaches the top, however, he finds Rapunzel bound and gagged in a chair. Before she can warn him, Gothel emerges from the shadows and stabs Eugene in the side with her dagger. He reels back, falling against a vanity mirror and breaking the glass. Gothel then tells Rapunzel that she will take her far away where no one will ever find her. Struggling against her gag, Rapunzel promises that she will go with Gothel willingly if she is allowed to heal Eugene. Gothel agrees and Rapunzel goes to the dying Eugene. Before she can begin singing he pulls her close and cuts her hair with shard of glass. With the enchantment broken, Rapunzel's hair turns into its normal brown and Gothel staggers back as her skin begins to wrinkle. Horrified by her reflection, she trips over some of Rapunzel's cut hair and falls out the window. By the time her cloak hits the ground, she's rapidly aged into a pile of ashes. With his dying breath, Eugene tells Rapunzel that she was his new dream and she tells him the same. Crying over him, Rapunzel recites her song one last time. A lone tear falls from her eyes into Eugene's and the last bit of magic that remained in her revives him. The two lovers embrace and kiss before traveling together back to the castle where Rapunzel is reunited with her real parents. Eugene, now addressed by his true name, is welcomed into the Royal family. He and Rapunzel are soon married and live happily ever after.",
+      "writers": [
+         "Dan Fogelman",
+         "Jacob Grimm"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0398286/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Mandy Moore, Zachary Levi, Donna Murphy | See full cast and crew »"],
+      "reviews": [
+         "I will start by saying that I am a 62 year old grandfather of three (9, 8, and 5) who has no connection to Disney in any way. I took the grandkids today to see this movie and they loved it, as did I. The 3D is worth going to. There is enough silliness, adventure, and romance to allow boys and girls of almost all ages to love this show. There were some funny lines in the show that kids would not understand, but adults would enjoy. I heard a gentleman laughing throughout the whole show. I am not around teenagers, so I am not sure how a teenager would respond to this show. The storyline was different but predictable. That should not discourage anyone from going to this show. I would rate it as one of the best, if not the best animation show I have ever seen. This show is a winner as a family show.",
+         "I saw the finished movie at the screening before the wrap party. The movie works on every level. The Characters, the animation, the story, the score, the romance, and it's all very cute as well (in a way Disney can apparently still pull off). The one thing that I didn't get into was the songs (Except maybe the \"Mother Knows Best\" reprise). They were a little weak melodically and you won't be singing them for weeks like I do \"Part of Your World\" every time I watch the \"Little Mermaid.\" However, the songs are good enough not to bring the movie down. There are so many touching scenes in this movie and you will love all of the characters by the end and have an amazing time in the process. It is definitely worth seeing in the theater, as this is probably the prettiest computer animated movie I've seen. I just can't wait to see it in stereo! (BTW, I'm a 30 year old male who grew up with Disney. And I feel like I'm being objective when I say this movie works as a movie and not as a movie exclusively for 10 year old girls.)",
+         "I was very sketchy walking into this movie. I didn't know what to expect, it's Disney which is promising, but it's also Disney's first CGI Disney movie that got a PG rating, so it seemed different. It was pretty hard for me to choose between 'Tangled' or 'Burlesque' but I'm glad I made the decision to watch 'Tangled'. This film has everything, for everyone, boys girls and tongue in cheek humor for adults. It's Disney's answer to Shrek, but in a classy way, that doesn't feed off of pop culture. The story of the film is simple. Rapunzel is a princess that has hair that has power to heal and keep people young, but once it's cut, it loses all power. When Rapunzel was just an infant she was kidnapped by an old woman who locked her away in a tower to keep her hair all to herself. Rapunzel grows up thinking that her kidnapper is in fact her mother, and the reason she's locked away is because her 'mother' wants to keep her safe from the hardships of the world. I'd tell you more about the movie but I don't want to ruin it. Let's just say she runs away. Very simple, fairy tale plot. I was kind of saddened that Disney has succumbed to making Princess movies using CGI, but watching this movie I realize that some scenes wouldn't have the power it had, if it were in 2D. The lantern lighting scene, for example, was amazing. It wouldn't have been the same in 2D. The music, was perfect. Enough musical number to keep Disney fans more than satisfied and not enough to where it's overkill. The songs were heartfelt and meaningful, they all served a purpose, it wasn't just a nameless song thrown into the movie. The voice acting, by Mandy Moore and Zachary Levi were amazing. I was a little sketchy about Mandy. I'm a long time fan, but I wasn't sure if she had the right voice to be a Disney Princess. She gave Rapunzel so much life, and innocence, I couldn't think of any other actress who could play her better. Zachary gave Flynn life, and humor, and made him a very likable character. However, the two characters that stole the show were Pascal, the chameleon, and Maximus, the horse. Although these supporting characters have no speaking lines, through actions and emotions, you know exactly what they want to say, and the message comes in loud and clear. This movie has enough action and comedy to keep boys happy and enough emotion, romance and drama to keep the girls happy. There are a few scenes that made me tear a little, well maybe more than a little. Some scenes have so much emotion and depth that it tugs at your heartstrings, and gives you goosebumps, especially the lantern scenes. Disney is testing the waters of their film making with this one. There were many alcohol references and even references about being drunk. There's violence, people getting stabbed, and yes, even blood. Which you never see is Disney movies. Overall, I highly recommend this movie, to everyone. Anyone could enjoy this movie. It's very hard not to like it. With theater prices so high, I suggest you don't spend 10 dollars to watch Cher and Christina, but watch 'Tangled' instead. They don't make movies like this anymore. It's much better than last year's 'Princess and the Frog'. Rapunzel is now in the line-up of classic Disney princess. I cannot stress how amazing this film is. Go out and see it.",
+         "I was apprehensive, to say the least, when I went to see Tangled, after the disappointment that was Princess and the Frog. First, Disney's back with CGI animation, which hasn't really worked that great except, maybe to some extent, Bolt. Second, the trailers made it look really slapstick -- I'm rather wary of today's animation features that try too hard to be hip and fast-paced and silly. I was pleasantly surprised. Sure, there were slapstick and broad humor sure to make little kiddos laugh. But I was surprised by the sophistication as well. The screwball comedy between the hero and heroine is very well done; adults can appreciate that. The sidekicks, in particular the Max and Pascal, are hilarious. The hero and heroine are very likable and not flat. And there's a sense of sadness/wistfulness throughout the whole show that the adults will understand. But what really is great is the animation. This is Pixar-worthy great. In fact, after a while I forgot it was CGI (which tends to be a bit stiff and crude when it comes to character animation). The human characters have that hand-drawn quality even though they're CG. In fact, they're more expressive than the hand-drawn characters in Princess and the Frog. The backgrounds are gorgeous (I can count every blade of grass). And there's an iconic scene where the kingdom rouses from darkness to light with thousands of floating lanterns -- it really is magical. It reminds me of classics such as Beauty and the Beast and Sleeping Beauty. Best of all, the movie is not just all laughs and slapstick. It has heart too. Even the minor characters such as the King and Queen -- you can feel the emotions. And the romance is believable and not cheesy. Like I said, I was very pleasantly surprised. It's something that is worthy of Pixar, and I'm glad to see Disney back on their game. While Princess and the Frog was a missed opportunity, Tangled is almost perfect.",
+         "Not often does a movie bring tears in my eye, and this one truly turned on the waterworks. Maybe because I am going through my own hard times, or because I had just read a throughly heartbreaking the night before, but regardless, Tangled currently stands as one of the greatest animated films I have ever seen. To put it in a few words, Tangled had everything, and much more. The only way to truly experience this spectacular viewing is to see it for yourself! It spoke volumes to me, and on so many different levels! As a 19 year old male, the typical blood and guts, Saving Private Ryan movie goer, I went into the theater expecting to be bored out of my mind. Truth me told, I was not ecstatic during some of the singing scenes, but I was throughly amazed by almost every other scene in this film. It reminds me greatly of Enchanted, or even The Princess Bride. Romantic love stories, with quite a struggle, and great humor! I would recommend this movie to everyone, young and old! You have not lived until this movie can touch your heart, as it has mine. I look forward to seeing this amazing movie again, hopefully in theaters before I buy it as soon as it becomes available on DVD, where I can watch it over and over!",
+         "Honestly, when is the last time you saw a decent Disney Animated feature? No no, PIXAR does not count. I'm talking about just a regular ol' straight laced Disney flick. If your like me, I'm sure your answer falls somewhere in the mid 90's. But isn't that a shame? What happened to the totally awesome Disney movies? If your excuse is because of technology, i assure you that your wrong. You can make a great animated movie without resorting to actual hand drawn art. But where is that old feeling we all use to share? Well i can tell you this much....i already knew that Disney had something special here, mainly because the VP of PIXAR jumped ship and decided to fund this project. The first time anyone from PIXAR has ever done so, let alone the freakin VP. So needless to say, Disney finally had enough, and pulled out all the stops for this one. I kid you not when i say this....\"Tangled\" is easily the best Disney Animated feature i have seen since \"Aladdin\".....yes, it is that good. They finally let go of trying to find something new and different and settled with what was working for them almost 20 years ago. It's a princess tale that easily falls into the same category with the classics. So wait, does that mean i'm comparing it to the likes of \"Snow White\" \"Cinderella\" and \"Sleeping Beauty\"? You damn right i am! Sure the storyline is cliché' and relative to other Disney classics, but it felt so good to see and feel something that helped recall your childhood. But other than those minor speed bumps, the movie is spot on. The animation is spectacular, and you would be a fool not to see it in 3D. The musical sequences didn't seem forced and were never boring. And i can almost guarantee you that it will snag the best song award at the Oscars. I'm just glad that they didn't work the story around the music, which is what a lot of animated features tend to slip up on. But this one did an amazing job of hybriding them together. Bottom Line, ladies and gentleman, this is the Disney picture you have been waiting for. It will definitely win your heart and please audiences both young and old.",
+         "I saw Tangled yesterday in 3D, and let me just say, I'm glad I did. When I entered the theater and saw a HUGE line, I immediately noticed that every person in the line was under the age of nine. Now, while I was a little embarrassed, I was still too excited to see the movie to care that much. Tangled's heroine, Rapunzel, is a typical Disney princess. When I say that, I don't mean like Cinderella or Snow White, waiting for her prince to come and get her. I mean like Ariel, Belle, or Jasmine. She's curious about the world, headstrong, passionate, beautiful, and, of course, sweet and kind. Oh, and she's a girl that knows what she wants--to see a spectacular light show in person. But Rapunzel is stuck up in her tower with her mother, Gothel. Now, as the movie shows us, Rapunzel doesn't mind the tower all that much. She really loves Gothel, and she's kind of scared of the world outside. All she wants to do is see thousands of lanterns lit and launched into the sky, which she watches from her window every year on her birthday. This seems like a pretty reasonable request to me. But Gothel doesn't want her daughter to leave the tower for her own selfish, vain reasons (that you have to watch the movie to find out about). So poor, lonely Rapunzel seems doomed to spend the rest of her life trapped in a tower, watching and waiting for someone to come along and save her. And someone does come along! The swashbuckling thief, Flynn Rider, steals a crown and runs for cover before the palace guards can arrest him. He just happens to end up in the secluded spot of the forest that Rapunzel's tower is in. He gets one glance of her hair, then is knocked out with a frying pan and shoved in a closet. After coming to, Rapunzel bargains with her prisoner. She'll give him back the crown if he guides her to the lanterns, then takes her home. Flynn agrees. The music in this film isn't quite up to par with Disney's best (Circle of Life, Part of Your World, etc.), but since it was written by Alan Menken, it's definitely good enough to get into your head--and stay there. The song \"When Will My Life Begin\", sung by Mandy Moore as Rapunzel, is my personal favorite. The pop/country style is modern but fits the story, and the tune is catchy. The other songs are \"Mother Knows Best\", \"I've Got a Dream\", and \"I See the Light\". While Rapunzel and Flynn Rider are great characters, I have to say that a certain Maximus the horse stole the show for me. The speechless character's facial expressions and quirky mannerisms are hilarious. He seems to hate Flynn, but he later proves how lovable and loyal he really is. Pasqual the chameleon also provides some comic relief, but the one to look for is a short, drunk old man wearing only a diaper and wings. He has very limited screen time, but he always says something hilarious. I saw this film in 3D, which, although beautiful, probably wasn't a very different experience than it was in 2D, except for one scene towards the end, when Rapunzel and Flynn are surrounded by thousands of glowing lanterns. It was breathtaking. I rate Tangled a 9.5/10. It's creative, visually astounding, and possesses that Walt Disney magic that is so hard to find lately. But don't just take my word for it. Spend the money�you won't regret it. P.S. I originally wrote this review on my new blog (througharabbithole.blogspot.com), so I'd love if you'd check it out! This is my only post so far, but more will come.",
+         "We took our two kids (4 and 6)to see a preview of this days before the official release. In short, it was one of the best Disney films yet. Everyone simply loved it. The 3-D effects were noticeable and wonderful. We got a kick watching our 4-year-old raise his hands as if to catch some of the action float off the screen. There were tears, and much laughter, as is Disney's style. The story of Rapunzel is very well told here, with great villains, heroes and wonderfully entertaining scene-stealers, like the non-verbal horse, Maximus. The music is very theatrical and very typical of the usual Alan Menken genius (Beauty and the Beast, Aladdin, Little Mermaid, etc.). This movie is very entertaining for adults, and the kids will absolutely go crazy for it! Treat your family this season to a great movie! You won't be disappointed.",
+         "Disney is back with Tangled and they have finally found themselves again. First I have to say as much as I loved Tangled it made me sad and angry that Disney could not accomplish the same thing for The Princess and the Frog. Here was there one chance to showcase a Black princess and they missed the mark by a football field. Well so much for that. Back to Tangled. The animation is more than great. The characters are well drawn and thought out, especially the true villain-the old lady. Disney movies are only as good as their villains and heroines; this movie does a great job at both while also giving you a good hero. It is funny and bright, cute and sad. Everyone should spend an afternoon with Tangled. Though the music is not the \"knock your socks off\" great it is good and goes well with the plot. 10/10",
+         "A few days ago I saw \"Megamind\", and thought it was just okay. I enjoyed it for what it was, but I didn't think it too spectacular. My faith in CGI entertainment was on the wane. Well, tonight Disney pulled me from that depression, and help reinvigorate my belief in, well, just plain Disney. What we have here is Rapuntzel turned on her head, with a dash of \"Snow White\" and \"Sleeping Beauty\" stirred in to keep our interest. The film was charming, clever and witty without being too much of either. The comic timing was toned down for the young kiddies in the audience, mostly little girls and some younger boys, but the comedic aspect itself did not lose luster for this. If anything it showed just what good clever comedy was. Note Rapuntzel's improvised weapon, and how she brings it to bear on the baddies in the local tavern. Classic character sketch comedy, and I don't care if I was the only one who noticed it and was laughing. You're supposed to laugh! The story itself regards fleeing the nest from a \"Mime\" like character, whose interest in our heroine is less than altruistic. The dashing rogue comes in to ground the story and keep Mandy Moore's character from running amuck and falling into despair. All in all, even though a middle aged dude like myself is no where near the target audience, I enjoyed it immensely. Some criticisms; the villainess seemed marginally cliché. She had the liberated 70s woman gone bad thing going on for her, but it almost seems like we may have seen this character before. Not sure, really. The horse was extremely likable, but his rider could have played more of a role. In fact the supporting cast almost seemed as if they were denied screen time so we could revel in Rapuntzel's golden locks. For all that, and even though the action did dive into classic Warner Brother's cartoon territory, \"Tangled\" does make a very respectable showing. That, and it was good to hear the voice of Richard Kiel play a big galoot who turns out to be a good guy. :) My final note is that there was a very good message for young girls at the end, and in fact anyone with some sense will have caught on to it. It's a message that won't last too long, but hopefully will serve as a reminder to those who paid attention. Remember, hair isn't everything. Regardless of color *wink* Take the family, but, if you're the father, then please, PLEASE, do not spend countless minutes like the idiot in front of me paying for his four member family with several credit cards while the ticket taker next to him managed to whiz through four or five parties of several members each for the 7:20 showing at the Redwood City theatre on Theatre Row. Yeah, if you're reading this, you know who you are. Stop being a putz! Everyone else, go see and enjoy the film :)"
+      ],
+      "genres": [
+         "Animation",
+         "Comedy",
+         "Family",
+         "Fantasy",
+         "Musical",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Walt Disney Animation Studios",
+         "Walt Disney Pictures"
+      ],
+      "summaries": [
+         "After receiving the healing powers from a magical flower, the baby Princess Rapunzel is kidnapped from the palace in the middle of the night by Mother Gothel. Mother Gothel knows that the flower's magical powers are now growing within the golden hair of Rapunzel, and to stay young, she must lock Rapunzel in her hidden tower. Rapunzel is now a teenager and her hair has grown to a length of 70-feet. The beautiful Rapunzel has been in the tower her entire life, and she is curious of the outside world. One day, the bandit Flynn Ryder scales the tower and is taken captive by Rapunzel. Rapunzel strikes a deal with the charming thief to act as her guide to travel to the place where the floating lights come from that she has seen every year on her birthday. Rapunzel is about to have the most exciting and magnificent journey of her life.",
+         "Once, a drop of the sun falls on Earth and grows a magic golden flower with the ability to heal the sick and injury. Mother Gothel sees the flower and hides it; then she finds that when she sings to the flower, she rejuvenates. Centuries pass and a kingdom is raised in the place where the flower is hidden. When the beloved Queen is about to have a baby, she gets sick and the only hope to save her is to find the magic flower. But Mother Gothel does not want to share the sun's gift and keeps the flower hidden. However, the spot is found and the magic of the golden flower heals the Queen. When the Queen's daughter Rapunzel is born, she receives the healing power from the flower and Gothel abducts her to use her magic hair to stay young. Gothel raises Rapunzel as a daughter, without cutting her hair and locks her in a high tower in an isolated area. She keeps Rapunzel far from other people, telling that it is for her own protection. The King and the Queen celebrate the anniversary of their beloved daughter releasing lanterns to the sky, and Rapunzel dreams of leaving the tower to see the floating lights from the outside world. When the thief, cheater and liar Flynn Rider steals the crown with two bandits, he is chased by the royal guard. However, he double-crosses the other thieves and flees, and climbs the tower to hide. However, Rapunzel hits him with a frying pan and hides his satchel with the crown. Rapunzel promises to return the satchel if Flynn takes her to see the lanterns. He accepts the deal and they start a dangerous journey of discoveries and love chased by the guards, the bandits and Mother Gothel.",
+         "Rapunzel, the missing daughter of a Queen and King, meets Flynn Rider, a witty criminal who teams up with the long haired princess to escape the tall tower she had been trapped in for 18 years. As they set out to find the lanterns that roam the sky each year on her birthday, they run in to silly mishaps and engage in a sing-along adventure for children of all ages!",
+         "The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is."
+      ],
+      "budget": 260000000
+   },
+   "movielensId": 81847,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2010-11-24",
+      "dvdReleaseDate": "2011-03-29",
+      "directors": [
+         "Nathan Greno",
+         "Byron Howard"
+      ],
+      "runtime": 100,
+      "movieId": 81847,
+      "title": "Tangled",
+      "mpaa": "PG",
+      "actors": [
+         "Mandy Moore",
+         "Zachary Levi",
+         "Donna Murphy",
+         "Delaney Rose Stein",
+         "Brad Garrett",
+         "Ron Perlman",
+         "Jeffrey Tambor",
+         "Richard Kiel",
+         "M.C. Gainey",
+         "Paul F. Tompkins",
+         "Nathan Greno",
+         "Byron Howard",
+         "Tim Mertens"
+      ],
+      "imdbMovieId": "0398286",
+      "originalTitle": "Tangled",
+      "genres": [
+         "Animation",
+         "Family"
+      ],
+      "youtubeTrailerIds": [
+         "gsYKF8ecC8g",
+         "u5dKMfc2vPo"
+      ],
+      "plotSummary": "When the kingdom's most wanted-and most charming-bandit Flynn Rider hides out in a mysterious tower, he's taken hostage by Rapunzel, a beautiful and feisty tower-bound teen with 70 feet of magical, golden hair. Flynn's curious captor, who's looking for her ticket out of the tower where she's been locked away for years, strikes a deal with the handsome thief and the unlikely duo sets off on an action-packed escapade, complete with a super-cop horse, an over-protective chameleon and a gruff gang of pub thugs.",
+      "tmdbMovieId": 38757,
+      "avgRating": 3.75701,
+      "releaseYear": "2010",
+      "numRatings": 7204,
+      "posterPath": "/re6AOJbhBk9FIK3knwU6rYlbPDx.jpg"
+   }
+}

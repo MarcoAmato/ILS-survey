@@ -1,0 +1,478 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "biography",
+            "id": 5565
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "v.a. hospital",
+            "id": 175329
+         },
+         {
+            "name": "junk sale",
+            "id": 175331
+         },
+         {
+            "name": "jellybean",
+            "id": 175336
+         },
+         {
+            "name": "greeting card",
+            "id": 175339
+         },
+         {
+            "name": "file clerk",
+            "id": 175340
+         },
+         {
+            "name": "garage sale",
+            "id": 175343
+         },
+         {
+            "name": "comic book art",
+            "id": 175345
+         },
+         {
+            "name": "neurotic",
+            "id": 175357
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt0305206",
+      "video": false,
+      "title": "American Splendor",
+      "recommendations": [
+         9685,
+         8272,
+         31662,
+         9786,
+         11004,
+         10683,
+         9452,
+         24071,
+         16550,
+         10217,
+         1548,
+         68924,
+         9675,
+         11382,
+         1999,
+         3472,
+         10503,
+         47692,
+         1444,
+         5709
+      ],
+      "backdrop_path": "/aQkd5dg24P6Dyc6KlLtHVKyE1F3.jpg",
+      "revenue": 6003587,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 7,
+               "character": "Harvey Pekar",
+               "gender": 2,
+               "credit_id": "52fe436cc3a36847f805310f",
+               "name": "Paul Giamatti",
+               "profile_path": "/rX4LRmkYshMRfQ6lVbeZVAfqVKI.jpg",
+               "id": 13242,
+               "order": 0
+            },
+            {
+               "cast_id": 19,
+               "character": "Joyce Brabner",
+               "gender": 1,
+               "credit_id": "54a10010c3a368764f0089c4",
+               "name": "Hope Davis",
+               "profile_path": "/m1RBUwfxms0o4PAOaHYaGT0DpAj.jpg",
+               "id": 15250,
+               "order": 1
+            },
+            {
+               "cast_id": 16,
+               "character": "Toby Radloff",
+               "gender": 2,
+               "credit_id": "53f588bbc3a36833f7003204",
+               "name": "Judah Friedlander",
+               "profile_path": "/vxu9cJFuratBSLAhzz3KFqRv6R4.jpg",
+               "id": 52860,
+               "order": 2
+            },
+            {
+               "cast_id": 15,
+               "character": "Robert Crumb",
+               "gender": 2,
+               "credit_id": "53f588adc3a3683407002f1a",
+               "name": "James Urbaniak",
+               "profile_path": "/13cOcBh08yfhJQGvrnZ6ZteWfzw.jpg",
+               "id": 58528,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Real Harvey",
+               "gender": 2,
+               "credit_id": "52fe436cc3a36847f8053113",
+               "name": "Harvey Pekar",
+               "profile_path": "/jCjGiVo9rOQgcuXfrEVBxlKMZD1.jpg",
+               "id": 27976,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Herself",
+               "gender": 1,
+               "credit_id": "54a10025925141198b000d70",
+               "name": "Joyce Brabner",
+               "profile_path": null,
+               "id": 93466,
+               "order": 5
+            },
+            {
+               "cast_id": 5,
+               "character": "Young Harvey",
+               "gender": 0,
+               "credit_id": "52fe436cc3a36847f8053107",
+               "name": "Daniel Tay",
+               "profile_path": "/dTQ9PaOdN9CxdqntlVgxngyECua.jpg",
+               "id": 27974,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Stage Actor Harvey",
+               "gender": 2,
+               "credit_id": "53f588cec3a36833f40030c4",
+               "name": "Donal Logue",
+               "profile_path": "/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg",
+               "id": 10825,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Stage Actor Joyce",
+               "gender": 1,
+               "credit_id": "53f588dbc3a36833fd003021",
+               "name": "Molly Shannon",
+               "profile_path": "/11Ade9QKtTSwUeRNH9cVCWoaeQj.jpg",
+               "id": 28640,
+               "order": 8
+            },
+            {
+               "cast_id": 21,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "54a100399251411d53006aa1",
+               "name": "Toby Radloff",
+               "profile_path": null,
+               "id": 1007589,
+               "order": 9
+            },
+            {
+               "cast_id": 3,
+               "character": "Robin",
+               "gender": 2,
+               "credit_id": "52fe436cc3a36847f80530ff",
+               "name": "Josh Hutcherson",
+               "profile_path": "/nbq1QWACCGEtPjL5MQeFlTLvgST.jpg",
+               "id": 27972,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "The Guitarist",
+               "gender": 0,
+               "credit_id": "54a1005e925141190d000dff",
+               "name": "Eytan Mirsky",
+               "profile_path": null,
+               "id": 1403521,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Mr. Boats",
+               "gender": 2,
+               "credit_id": "54a1006d925141236b003427",
+               "name": "Earl Billings",
+               "profile_path": "/rboYbjPjmgKaBgkEYr3l4QvM88Q.jpg",
+               "id": 87119,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Alice Quinn",
+               "gender": 1,
+               "credit_id": "54a10078c3a368764f0089ca",
+               "name": "Maggie Moore",
+               "profile_path": null,
+               "id": 82105,
+               "order": 13
+            },
+            {
+               "cast_id": 2,
+               "character": "Batman",
+               "gender": 0,
+               "credit_id": "52fe436cc3a36847f80530fb",
+               "name": "Joey Krajcar",
+               "profile_path": null,
+               "id": 27971,
+               "order": 14
+            },
+            {
+               "cast_id": 1,
+               "character": "Superman",
+               "gender": 0,
+               "credit_id": "52fe436cc3a36847f80530f7",
+               "name": "Chris Ambrose",
+               "profile_path": null,
+               "id": 27970,
+               "order": 15
+            },
+            {
+               "cast_id": 4,
+               "character": "Green Lantern",
+               "gender": 0,
+               "credit_id": "52fe436cc3a36847f8053103",
+               "name": "Cameron Carter",
+               "profile_path": null,
+               "id": 27973,
+               "order": 16
+            },
+            {
+               "cast_id": 6,
+               "character": "Housewife",
+               "gender": 0,
+               "credit_id": "52fe436cc3a36847f805310b",
+               "name": "Mary Faktor",
+               "profile_path": null,
+               "id": 27975,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Danielle",
+               "gender": 1,
+               "credit_id": "5574ecbc9251413efe002849",
+               "name": "Madylin Sweeten",
+               "profile_path": "/hHC9UUjrLbP39HZr8sulaYJdwkI.jpg",
+               "id": 1229502,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe436cc3a36847f8053119",
+               "name": "Shari Springer Berman",
+               "profile_path": "/tEtNUrXSYBQG4mHW5p4TZeWin9h.jpg",
+               "id": 72205,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436cc3a36847f805311f",
+               "name": "Robert Pulcini",
+               "profile_path": "/nUUPNrIwC6vJNGLwyfhq89yr4T4.jpg",
+               "id": 72206,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436cc3a36847f8053125",
+               "name": "Harvey Pekar",
+               "profile_path": "/jCjGiVo9rOQgcuXfrEVBxlKMZD1.jpg",
+               "id": 27976,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe436cc3a36847f805312b",
+               "name": "Joyce Brabner",
+               "profile_path": null,
+               "id": 93466,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe436cc3a36847f8053131",
+               "name": "Shari Springer Berman",
+               "profile_path": "/tEtNUrXSYBQG4mHW5p4TZeWin9h.jpg",
+               "id": 72205,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436cc3a36847f8053137",
+               "name": "Robert Pulcini",
+               "profile_path": "/nUUPNrIwC6vJNGLwyfhq89yr4T4.jpg",
+               "id": 72206,
+               "department": "Writing",
+               "job": "Writer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 11.116805,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 2771,
+      "vote_count": 153,
+      "budget": 0,
+      "overview": "An original mix of fiction and reality illuminates the life of comic book hero everyman Harvey Pekar.",
+      "similar": [
+         5915,
+         152532,
+         404,
+         8272,
+         769,
+         462,
+         858,
+         11202,
+         49519,
+         112160,
+         11005,
+         141,
+         634,
+         640,
+         693,
+         396371,
+         371638,
+         318846,
+         324786,
+         93456
+      ],
+      "original_title": "American Splendor",
+      "runtime": 101,
+      "poster_path": "/qIJHt9PO13mAuFnHgrJUAq5p8Bf.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [],
+      "release_date": "2003-08-15",
+      "vote_average": 7,
+      "belongs_to_collection": null,
+      "tagline": "Ordinary life is pretty complex stuff",
+      "adult": false,
+      "homepage": "http://www.newline.com/properties/americansplendor.html",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Shari Springer Berman",
+         "Robert Pulcini"
+      ],
+      "runtime": 101,
+      "synopsis": null,
+      "writers": [
+         "Harvey Pekar",
+         "Joyce Brabner"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0305206/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA0MjYxNjY1MV5BMl5BanBnXkFtZTcwNDkwMjAwMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Paul Giamatti, Shari Springer Berman, Harvey Pekar | See full cast and crew »"],
+      "reviews": [
+         "In `American Splendor,' Paul Giamatti plays Harvey Pekar, the comic book creator who became famous as a recurring guest on the David Letterman Show. A resident of Cleveland, Pekar was a socially backward man who found he had the talent to translate the pain, loneliness and frustration of his own unhappy life into universal truths, writing material that other artists would then illustrate in comic book form. He began a series entitled `American Splendor,' which was really an ongoing autobiographical narrative, drawing on people and events in his own life as his source of inspiration. The film, a pseudo-documentary of sorts, tells his life story by cutting back and forth between both staged reenactments of the events in the stories and interviews with Pekar himself commenting on those events. `American Splendor' is an offbeat little gem that, in many ways, approximates the look and style of a comic book. As the story plays itself out, captions often appear on the screen, as well as illustrations from Pekar's actual work based on the scene we are witnessing. Robert Pulcini and Sheri Springer Berman, who wrote and directed the film together, create a surrealistic tone by having Pekar and his real friends and companions frequently appear on screen next to the actors who are portraying them (some of them dead ringers for the originals). This technique brings a homespun, homey sweetness to the film. `American Splendor' is a paean to all the social misfits in the world, people who, for whatever reason, can't seem to fit into society's prescribed mold but who often develop strong, meaningful bonds with similar individuals. The movie is also a tribute to the power of art, both for the artist who finds purpose and release through his work and for those to whom his work speaks on a personal and emotional level. The people who inhabit Pekar's strange world \u0096 both in reality and within the borders of his comic strip boxes \u0096 are seen in the film as warm, good-natured individuals, not socially astute, perhaps, but not losers either. The emotional focal point for the film is Harvey's relationship with his wife, Joyce, beautifully played by Hope Davis. Despite the somewhat bizarre nature of their marriage, Harvey and Joyce forge a lasting commitment based on reciprocity and devotion. In fact, in the latter sections, the film achieves an emotional depth one doesn't expect it to early on, partly because Harvey is dealt a cruel blow of fate that he and his wife are forced to navigate through together. Yet, the film as a whole is filled with a sly, deadpan, mischievous sense of humor that demonstrates a keen grasp of the absurdities of life. As Pekar, Paul Giametti turns in a flawless performance, capturing the nebbishness, cantankerousness and ultimate likeability of the man he is portraying. In both style and content, `American Splendor' is aptly named.",
+         "It's always hardest to write about what you love and I not only love, but also, to steal a joke from Woody Allen in ANNIE HALL, loaf, luff and lerve this magnificent film. Therefore this will be difficult. Here goes anyway... No-one can possibly deny that this is innovative in its use of the real Harvey Pekar (and people from his life) frequently intruding into the fictionalised account. But this is more than just a neat trick. It works brilliantly. Instead of distancing the viewer from the narrative makes one feel more involved in the film's world. How dare this work? This kind of arty-farty stuff is usually guaranteed to annoy me - but this is nothing short of revelatory in its Russian doll-like idea of having fiction within fiction within fact...and you don't need to be some kind of high-brow film critic to appreciate it! All the performances are gob-smackingly good, and there isn't one moment in the film that bores, irritates, patronises or rings a false note. The cast inhabit their roles like they were born to play them. and the determination not to idealise them or their situations, makes my cynical anti-Hollywood production values heart sing for joy. Do not, I beg you, be put off by the epithet \"cult\" with which this film has been tarred as if it would appeal only to comic-book fans. No, the appeal here is universal - dealing with Pekar's existential worries and his search for the meaning in his life. It's criminal that American SPLENDOR with all its wit, heart and slickness isn't more highly regarded or more widely known. Masterpiece.",
+         "I must confess that I was a bit apprehensive in going to see this film. I thought it would be one of those movies that are hyped to the max by the adoring critics, but that it would turn out to be a darling of the reviewers and not the great film everyone was making it to be. Well, I was thoroughly surprised by the brilliant film making shown by the directors Shari Springer Berman and Robert Pulcini. They have created a film that works in different levels. First, it is the story of Harvey Pekar told in cinematic terms. Secondly, by presenting the real Harvey Pekar to speak to the camera as he is interviewed, it adds another dimension about the directors' vision in bringing him to us to tell us in his own words, that yes, there is a real person whose life we are getting to know. And thirdly, it works as the weird comic strip that Harvey Pekar might have conceived in his mind. Harvey Pekar is an example of a strange man who lives and functions within the American society, yet, for all practical purposes, he is in his own little world of collecting books and records and writing his wry observations on what he sees around him. Are we to say we are normal and Harry is not? What if it turns out that Harvey had it all figured out and we had no clue? Let the viewer decide for himself. The directors great achievement is the brilliant casting. Paul Giamatti is the closest thing anyone would have selected to the real Harvey. Up to now, I have only seen Mr. Giamatti in comedies that didn't have the weight of this film. His take on Harvey is so intense that there are parts when we see the actor and immediately, the real Harvey comes on a different scene. Separating them is almost impossible, as Giamatti's performance leads to Harvey and vice versa. He is totally believable here. He proves that whatever he is doing on screen is what we would expect the real Harvey to do on his own life. The other incredible casting is the one of Hope Davis as Joyce Brabner. Ms. Davis gets the essence of Joyce with very little effort. We can almost see that the Joyce of Hope Davis will result in the actual Joyce we see in the interviews as herself. The resemblance is uncanny. Ms. Davis is outstanding in the film. We wonder what could have attracted her to Harvey, in the first place. Of course, we realize her passion for comics, but on a physical level, these two, as a couple, are miles and miles apart. Yet, their marriage, unlike Harvey's other two before her, survives and grows. Ms. Davis scenes with the young Danielle are pure poetry. We can see it in her face that motherhood for her is very important, yet, she cannot have a child of her own with Harvey. She is thoroughly rewarded at the end with the arrival of Danielle who finds in Joyce a kind soul and a mother because her real one could not be bothered with her. The rest of the cast is just as magnificent. Judah Friedlander as Toby is both funny and pathetic. He is another product of the society he lives in. Also effective, James Urbaniak as the illustrator Bob Crumb who sees in Harvey's stories the potential for great comic books. This is a triumph for all that were involved in this film.",
+         "Successfully innovative, American Splendor combines fiction and reality in a spellbinding and amusing way, winning awards at Cannes and Sundance, and proving its maxim that life is pretty complex (and endlessly fascinating) stuff . . . The story features Harvey Pekar, as himself, as the played by actor Paul Giamatti and as the comic book persona that he has created based on himself. Pekar is downbeat, depressed, in a dead end filing job, rather bitter. His best friend is a self-confessed nerd. Yet when the events of his life are epitomized in comic book snapshots they are intensely poignant, they seem to reach the disenfranchised, the dysfunctional within each of us. We follow him into a marriage that is as weird as he is. The originality of the material is reflected in its postmodern style of presentation, self-awareness of audience-manipulation blending seamlessly with entertainment and artistic delivery. Scenes are introduced and blended with comic book taglines, storyboarding, and even transitions from interloping set discussions with the real Pekar to the actor playing the scene under discussion. If it sounds pretentious, it's not \u0096 simply because it works so well and in an unpretentious way. Lovingly created and very moving. Probably the first real classic of 2003 and not to be missed, and for lovers of jazz/blues a soundtrack collectors item. (Seeing it at the Edinburgh International Film Festival I also had the privilege of seeing the real life Pekar, his wife and adopted daughter together with Paul Giamatti, truly topping off a multi-media experience haha!)",
+         "Harvey Pekar is a filing clerk at his local hospital; he is miserable; he is on his way out of a second terrible marriage and his only interests are collecting second hand records, reading and listening to jazz. However a chance meeting with aspiring cartoonist Robert Crumb turns him on to the ability of comic books as an art form. Crumbs later success inspires Harvey to write a different type of comic \u0096 one based on his own life, chronicling the dreary and absurd moments of his days and life. As his down to earth portrayal of working class reality starts to generate a cult following, Harvey finds a new wife and greater fame \u0096 but actual happiness? Well, that's a different story. I have never read any of Pekar's comics and, to be honest, have little interest in the world of comics because I am consistently put off by the price of them for what you get (I'm a Batman fan but local prices for very thin comics are too high for me to start it as a habit). Despite this I was attracted to this film by it being different and offering me an interesting choice of leading man in Giamatti, but, given the very non-blockbuster appeal of the film, it was barely had any time in my local cinema and I missed it there and had to catch it on DVD. When I sat to watch it I was immediately taken in by the design of the film \u0096 the comic book opening and, more importantly, the narration and candid footage of the real Pekar (and others). This gives the film a much more interesting appeal because, although we don't know him, we get the total feeling that this is a real person we are seeing \u0096 and indeed he is. Not having read the comic itself I can only go off what the film and other reviewers have told me they are like and, from that understanding, I feel that the film is stronger for having basically the same strengths as the comic. That is to say, it is very down to earth and gritty, without sparkling scenes or flowery dialogue but with a simple wit to the weird collection of characters. This warts and all presentation is moved forward by a pretty good narration from Pekar but the ultimate strength of the film is its collection of characters \u0096 like the comic, they are the story of Pekar's life and they are the heart of the film. It is hard to describe but the collection of bitterness, psychosis's, nerds and other weirdoes makes for a good film that is interesting, humorous and, most effectively, true. Giamatti is not leading man material but here he shows that he is more that the comic relief and he delivers a really good performance throughout \u0096 not even letting the presence of the real Pekar put him off his stride. Pekar himself is also good \u0096 very easy to listen to but also unhappy and not the sort of person you talk to at work. The support cast is also pretty strong and features all manner of minor characters that make the film add up to greater than the sum of its parts. Like I said, it is hard to pigeonhole this film and the cast but it seems to work and even people who have never heard of Pekar (ie \u0096 me) will be able to enjoy it. Overall a very different film about a strange little man who managed to get much more success than he ever though possible but yet never let it change his unhappy and normal ways. It is amusing, cleverly structured and populated with ordinary weirdoes who make it fun to watch. Kudo to the director for getting the uninitiated into the film with such ease and managing to produce a film that is surprisingly weird to find in a multiplex but one that is strangely accessible to most people.",
+         "Throughout the years, people have read dozens of comic books: Spider-Man, Batman, Superman, The Green Latern, X-Men, Hulk, etc., looking for escape from reality, but at the same time, looking for a relation from those books. With \"American Splendor\" on the other hand, it's quite a different comic book. What makes it so special? It's depicting real life where it shows the character Harvey Pekar in different situations. \"American Splendor\" is a comic/drama biography about the life of Harvey Pekar(Played by Paul Giamatti) in which the film plays like a comic book showing scenes that are real and fiction. Even the real Harvey makes appearances quite often in the film to talk about his life, his wife(Joyce) and everything that sort of made him the person who he is today. Harvey Pekar can be described as one of those characters who don't seem to give a damn about the world. The reason that I root for this character is that he's the type person that lives in his own world, from not giving a crap about the incidents in the world, to not having a formal college education, to working at a dead end job where in the future, people are still laughing at him. And yet, I don't blame him. I am reminded of two other movies that had losers, but made an impact on male society: \"The Big Lebowski\" and \"Fast Times At Ridgemont High\" in which both male characters didn't have to worry about anything or go out on dates, or even pleasing society(shame on you, people). All in All, American Splendor is a great movie. Though the film's target audience are for guys, I still encourage people to see this movie. The film also stars, Hope Davis portraying Harvey's wife, Joyce. One of the Best Films!",
+         "I'm sorry, but I just saw this movie this week on cable, and went out and bought the DVD immediately thereafter. I have since watched it about 15 times, so far. I'm not a comic book fan (at all), and I've never heard of Harvey Pekar (though perhaps vaguely remember his appearances on David Letterman, since seeing this film). Giamatti's performance alone is worth the time in watching this film. I don't think anything Brando, Pacino, or DeNiro has done, to name a few, compares to what Giamatti pulls off in this film. And with that said, perhaps I'm still too new and enthusiastic a viewer to be reviewing his performance. However, PG's every nuance, from his eyebrow twitches and raises, to the shrug of his shoulders, to his speech pattern, to the manner in which he says \"OK, OK\" early on to his doctor when he's getting his throat checked to his walk...EVERYTHING is just so wonderfully \"channeled\". He offers such a natural character, and whether or not he is Pekar spot on, I don't know. However, he created his own wonderful big little character. (The scene in which he is talking to Joyce (Hope Davis' character) on the phone, urging her to meet him in Cleveland, is quietly hysterical). Hope Davis was also great, and it's amazing how much her natural voice and speech pattern resemble that of Pekar's wife. Full of laughs and pathos, in addition to wonderful jazz scores (I haven't checked if there's a soundtrack for the film...I hope that there is one)....this is a must-see film...absolutely brilliant! I don't even know if P. Giamatti was nominated for his performance, but he should have won every award that year, including the Oscar (or at least tie with Sean Penn). I know I have spent all this time commenting on just the two main characters, because they are both so breathtakingly brilliant in their interpretations. Therefore, I'll offer a note about the film overall as well. First, the film is brilliantly executed. Combining both actors and original screenplay material along with some real-life footage of Harvey Pekar himself was very inventive. And, the use of this approach never bordered on being \"cutesy\" or clever, as Pekar's perspective and ongoing commentary truly validates the entire film. As I mentioned before, P. Giamatti seems to inhabit Pekar....and provides a very endearing portrait in the process. I have for so many years far preferred quieter, character-driven films, which happen to typically fall within the \"indie\" category. This film has simply solidified my love for character-driven stories. It is insightful, very droll, and full of pathos. I am now even contemplating subscribing to the comic book \"American Splendor\", and I am someone who ABSOLUTELY ABHORS all forms of animation. I particularly despise animated films, and only read \"Cathy\", \"Dilbert\", and \"Doonesbury\" from the strips. However, I might just start subscribing to \"American Splendor\". Because I missed this film when it first came out, I am not certain how large an audience it originally attracted, quite frankly. However, watching it has made me shun, just a little bit more, larger, Hollywood productions, including typical, cookie-cutter romantic comedies (as for another mass-produced Hollywood genre....action/adventure films...I've always hated them and never watch them). I won't turn into a snob and completely shun all Hollywood films, but there certainly is something to be said for quiet, thoughtful pieces that are accompanied by a refreshingly wonderful jazz soundtrack (too many films today appear to have been written around x number of popular songs...it can be quite annoying). As for this film, it's a treasure. Please rent it and ENJOY!",
+         "I guess I am sucker for biographies of weird people. This certainly qualifies for that. What makes this film different from others is the combination of fictional and real people playing the two main characters: Harvey and Joyce Pekar. For most of the film, Paul Giamatti portrays Pekar - the main focus of the film, and Hope Davis plays his wife, Joyce. However, interspersed in the film are comments from the real Harvey and Joyce. Strange!!! The only thing stranger that the film structure is the story of these actual people. You wouldn't think that two dull introverts like this could be made to look so interesting, but they are. What a testimony to the job the filmmakers did here....and the actors. Giamatti was amazing. After seeing this movie, I was inspired to go out and obtain several of Harvey Pekar's comic books. Whew! I should have stuck with just the movie. The comics stink!! Don't waste your money.",
+         "So-called \"underground comics\" have been around for a long time but they took on new life in the 60s when anger at racism and the Vietnam War led to new strips, some engagingly pornographic. The rise of an alternative press, largely bicoastal, provided readers with often sharp and incisive and not infrequently insipid comics. Complementing the regular appearance of topical newspaper comic strips, comics also sprouted in similar form but not in content to the eagerly anticipated ten cent publications of my childhood. Stores specializing in these comics appeared in urban areas and near some campuses. Into this scene came Harvey Pekar, the anti-hero from America's Heartland, along, later, with his wife, Joyce Brabner. \"American Splendor,\" a comic series still treasured by segments of an aging population, was his contribution to a divided and troubled nation. And this movie is a minor gem of cultural recollection. The film starts with Harvey as a little boy trick-or-treating in his Cleveland neighborhood. His companions are all decked out as Superheroes but Harvey is in ordinary street clothes which prompts questioning, perhaps a challenge, by a would-be neighbor with a tray of treats. Harvey is less a committed non-conformist than he is simply out of the peer jetstream. Segue to a twice divorced Harvey who lives in an apartment dominated by LPs and books - and trash - and employed as a Veterans Administration medical center file clerk. As portrayed by Paul Giamatti, Harvey isn't desperately unhappy or even neurotically despondent. He has a life but it isn't complete. He doesn't rage against his fixed station in life but he wonders: Why? The real Harvey turned his introspective queries about ordinary life into a crude series of comics (he couldn't draw for offal) which a successful illustrator-friend recognized as having marketing potential. While not anti-existentialist, Harvey's stories bucked a pseudointellectual trend by highlighting without despair his character's everyday life. The result, \"American Splendor,\" appeared to sell well without bringing any significant income to its creator. The \"American Splendor\" series of comics adumbrated the similar pictorial descriptions of \"Mr. Urban Everyman\" that now appear in formerly alternative but now mainstream papers like New York's The Village Voice. Into Harvey's bleak (and well-filmed) pad and life comes Joyce Brabner, a comics fan who connects from afar with the Pekar persona. Played with insight and vitality by Hope Davis, Joyce sojourns to Cleveland to meet Harvey and never leaves. They marry. In a land dominated by TV where freaks and saints both can enjoy fifteen minutes of fame, Pekar becomes an irregular guest on late night national TV shows. The irony, beautifully shown here, is that the TV interludes provide brief occupancy of luxury hotel suites while Harvey's imperative to keep his day job never ceases. Joyce and Harvey have a close but quixotic relationship. She wants kids, he doesn't. He accepts living in Cleveland, she needs to dash off to the globe's tinderboxes to aid children in crisis. A true crisis for Harvey is a cancer diagnosis with the uncertainty of outcome darkening the couple's life. His plight is depicted with short but painful realism. As both resistance to the disease and a new artistic partnership, Joyce and Harvey write \"Our Cancer Year,\" a comic strip account of what was hardly a comic time. Veering between comedy and drama, Harvey and Joyce's story is uneven but so is life and \"American Splendor\" captures that reality beautifully. A clever approach that works has the real Harvey, and to a lesser extent the real Joyce, alternate with Giamatti and Davis in telling their tales. The real Harvey is less dramatic than his counterpart but his wry and disarming irony suggests a man who has managed to stay in control of his life. Hope Davis, uncharacteristically un-blond, looks a lot like the actual Joyce. Giamatti captures Harvey's aligning and merging of a unique and insightful creativity with an ordinary life populated by a variety of friends and co-workers all with their own quirks. Harvey doesn't try to change them: he simply incorporates the gang into his stories. They're the \"Mr. Rogers Neighborhood\" of the 60s and 70s underground comics scene. Well-filmed and acted, \"American Splendor\" is worth seeing. It brings back memories for some and insight for all. 7/10.",
+         "By no means your average true story, American Splendor blends fact with fiction to create a slightly surreal world. Surreal, because it's so down-to-earth. It's a tale about the life of Harvey Pekar, essentially a relative non-entity. His one saving grace is that he writes comic books, the twist being that they're not about superheroes or anything extraordinary. Rather, they're about gritty reality. Pekar is the star of his own stories, and the life he leads, the people he knows and the everyday things he does are the essence of what his stories entail. It's a strange story, and to rate it as a movie seems odd, somehow. The guy has led a pretty staple life, and there's nothing in it which elevates him above anyone else. Then again, that's really the point. There are plenty of elements in here which we can all relate to, and consequently, we find ourselves drawn into it. Ultimately it's convincing. The acting is generally pretty impressive, particularly from Paul Giamatti as Harvey. Given the real Harvey features in the movie (Hence the blending of fact and fiction) we are able to compare them, and it must be said Giamatti gets it spot on. He does a great job of portraying a grump with a heart. By no means is Pekar ever shown as a mercenary worker, but it's pretty obvious he's one of the good guys; hence another strength here. Because he's shown as wysiwyg, you feel like you either know him, or are him. He's the epitome of your average man, and not even just American. It's a quirky subject for a movie, but it certainly works and entertains. It's so ordinary yet surreal that it demands your attention, and it's a worthwhile journey to go on. For many people, this movie is a mirror."
+      ],
+      "genres": [
+         "Biography",
+         "Comedy",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Good Machine",
+         "Dark Horse Entertainment"
+      ],
+      "summaries": [
+         "Harvey Pekar is file clerk at the local VA hospital. His interactions with his co-workers offer some relief from the monotony, and their discussions encompass everything from music to the decline of American culture to new flavors of jellybeans and life itself. At home, Harvey fills his days with reading, writing and listening to jazz. His apartment is filled with thousands of books and LPs, and he regularly scours Cleveland's thrift stores and garage sales for more, savoring the rare joy of a 25-cent find. It is at one of these junk sales that Harvey meets Robert Crumb, a greeting card artist and music enthusiast. When, years later, Crumb finds international success for his underground comics, the idea that comic books can be a valid art form for adults inspires Harvey to write his own brand of comic book. An admirer of naturalist writers like Theodore Dreiser, Harvey makes his American Splendor a truthful, unsentimental record of his working-class life, a warts-and-all self portrait. First published in 1976, the comic earns Harvey cult fame throughout the 1980s and eventually leads him to the sardonic Joyce Barber, a partner in a Delaware comic book store who end ups being Harvey's true soul mate as they experience the bizarre byproducts of Harvey's cult celebrity stature.",
+         "An original mix of fiction and reality illuminates the life of comic book hero everyman Harvey Pekar."
+      ],
+      "budget": 0
+   },
+   "movielensId": 6620,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2003-08-15",
+      "dvdReleaseDate": "2004-02-03",
+      "directors": [
+         "Shari Springer Berman",
+         "Robert Pulcini"
+      ],
+      "runtime": 101,
+      "movieId": 6620,
+      "title": "American Splendor",
+      "mpaa": "R",
+      "actors": [
+         "Paul Giamatti",
+         "Hope Davis",
+         "Judah Friedlander",
+         "James Urbaniak",
+         "Harvey Pekar",
+         "Joyce Brabner",
+         "Daniel Tay",
+         "Donal Logue",
+         "Molly Shannon",
+         "Toby Radloff",
+         "Josh Hutcherson",
+         "Eytan Mirsky",
+         "Earl Billings",
+         "Maggie Moore",
+         "Joey Krajcar",
+         "Chris Ambrose",
+         "Cameron Carter",
+         "Mary Faktor",
+         "Madylin Sweeten"
+      ],
+      "imdbMovieId": "0305206",
+      "originalTitle": "American Splendor",
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["WccCSUTDyXQ"],
+      "plotSummary": "An original mix of fiction and reality illuminates the life of comic book hero everyman Harvey Pekar.",
+      "tmdbMovieId": 2771,
+      "avgRating": 3.78773,
+      "releaseYear": "2003",
+      "numRatings": 4221,
+      "posterPath": "/qIJHt9PO13mAuFnHgrJUAq5p8Bf.jpg"
+   }
+}

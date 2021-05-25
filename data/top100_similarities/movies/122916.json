@@ -1,0 +1,2313 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "sequel",
+            "id": 9663
+         },
+         {
+            "name": "superhero",
+            "id": 9715
+         },
+         {
+            "name": "based on comic",
+            "id": 9717
+         },
+         {
+            "name": "female villain",
+            "id": 166726
+         },
+         {
+            "name": "norse mythology",
+            "id": 179101
+         },
+         {
+            "name": "marvel cinematic universe",
+            "id": 180547
+         },
+         {
+            "name": "norse god",
+            "id": 230105
+         },
+         {
+            "name": "thor",
+            "id": 239926
+         }
+      ],
+      "imdb_id": "tt3501632",
+      "video": false,
+      "title": "Thor: Ragnarok",
+      "recommendations": [
+         141052,
+         315635,
+         283995,
+         181808,
+         297762,
+         343668,
+         284054,
+         284052,
+         263115,
+         271110,
+         335984,
+         76338,
+         339403,
+         166426,
+         99861,
+         339964,
+         281338,
+         353486,
+         246655,
+         330459
+      ],
+      "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+      "revenue": 854229371,
+      "reviews": [
+         {
+            "author": "Gimly",
+            "id": "59f09b979251416ac10169f7",
+            "content": "_Ragnarok_ is a tough one to review completely without spoiler, so I'll keep this brief:\r\n\r\n* I was bothered by a small number of things that happened in this movie.\r\n* I was in love with a large number of things that happened in this movie.\r\n* _Thor: Ragnarok_ is not the MCU's best movie.\r\n* _Thor: Ragnarok_ is the MCU's most fun movie.\r\n* Can we **please** have a worldwide ban on putting anything that happens in the third act of your movie, in said movie's trailers?\r\nThank you for your time. 4 stars.\r\n\r\n\r\n_Final rating:★★★★ - Very strong appeal. A personal favourite._",
+            "url": "https://www.themoviedb.org/review/59f09b979251416ac10169f7"
+         },
+         {
+            "author": "Movie Queen41",
+            "id": "5a08bdccc3a368672a006056",
+            "content": "The Best CBM movie of 2017\r\n\r\nThe film is one of the most entertaining of the MCU films so far and a HUGE improvement over Thor: The Dark World. Cate Blanchett as the villainess Hela, the Goddess of Death, is a far better villain that TDW's lame Malekith. Kat Dennings' annoying Darcy and Natalie Portman's bland Jane are not missed at all. Instead, we get Tessa Thompson's badass Valkyrie, who can hold her own in a fight and isn't just there just as a love interest for Thor (Chris Hemsworth). Jeff Goldblum is hilarious as Grandmaster, who runs the gladiator fights on the planet Sakaar. But the real pleasure of the movie is watching the love-hate brother relationship between Thor and his adoptive brother, Loki (Tom Hiddleston). The relationship between the two men was the only redeeming feature of TDW, and it's great to see it expanded in this movie. Also great is seeing Thor buddy up with Bruce Banner/ Hulk (Mark Ruffalo). The only thing I didn't like about the movie was the fate of The Warriors Three. They deserved better than that. But otherwise, it's a great comic book movie.",
+            "url": "https://www.themoviedb.org/review/5a08bdccc3a368672a006056"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Thor Odinson",
+               "gender": 2,
+               "credit_id": "545d46a80e0a261fb3004e81",
+               "name": "Chris Hemsworth",
+               "profile_path": "/lrhth7yK9p3vy6p7AabDUM1THKl.jpg",
+               "id": 74568,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Loki",
+               "gender": 2,
+               "credit_id": "545d46c7c3a3686cbb00002d",
+               "name": "Tom Hiddleston",
+               "profile_path": "/qB1lHPFBPIzw6I7EvsciZ5wyUNS.jpg",
+               "id": 91606,
+               "order": 1
+            },
+            {
+               "cast_id": 11,
+               "character": "Hela",
+               "gender": 1,
+               "credit_id": "570bf50e92514179e6000026",
+               "name": "Cate Blanchett",
+               "profile_path": "/5HikVWKfkkUa8aLdCMHtREBECIn.jpg",
+               "id": 112,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Heimdall",
+               "gender": 2,
+               "credit_id": "562f1ec4c3a3681b6100d214",
+               "name": "Idris Elba",
+               "profile_path": "/d9NkfCwczP0TjgrjpF94jF67SK8.jpg",
+               "id": 17605,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Brunnhilde / Valkyrie",
+               "gender": 1,
+               "credit_id": "570bf530c3a36802b90007d5",
+               "name": "Tessa Thompson",
+               "profile_path": "/fycqdiiM6dsNSbnONBVVQ57ILV1.jpg",
+               "id": 62561,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Grandmaster",
+               "gender": 2,
+               "credit_id": "573fbb7dc3a36808ac000f36",
+               "name": "Jeff Goldblum",
+               "profile_path": "/t812WlNdP6F2ksRj21JF68DUiwz.jpg",
+               "id": 4785,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Skurge",
+               "gender": 2,
+               "credit_id": "573fbb9cc3a368276b00185d",
+               "name": "Karl Urban",
+               "profile_path": "/tHYOUO33K7iaDw8nXyqRvDIkVuM.jpg",
+               "id": 1372,
+               "order": 6
+            },
+            {
+               "cast_id": 6,
+               "character": "Bruce Banner / Hulk",
+               "gender": 2,
+               "credit_id": "56223272c3a3680e1900b19b",
+               "name": "Mark Ruffalo",
+               "profile_path": "/w5yqDZo2IZV0vsrsMWUqloNiutb.jpg",
+               "id": 103,
+               "order": 7
+            },
+            {
+               "cast_id": 15,
+               "character": "Odin",
+               "gender": 2,
+               "credit_id": "573fbc3b925141644b000573",
+               "name": "Anthony Hopkins",
+               "profile_path": "/btweZvSRBiE6jaMME93BSXeTQN6.jpg",
+               "id": 4173,
+               "order": 8
+            },
+            {
+               "cast_id": 100,
+               "character": "Hogun",
+               "gender": 2,
+               "credit_id": "59ea0d4bc3a3687f81012c25",
+               "name": "Tadanobu Asano",
+               "profile_path": "/zlZsST8s1Apm6D6bCyYeWrCKZCy.jpg",
+               "id": 13275,
+               "order": 9
+            },
+            {
+               "cast_id": 101,
+               "character": "Volstagg",
+               "gender": 2,
+               "credit_id": "59ea0d589251412cf501253a",
+               "name": "Ray Stevenson",
+               "profile_path": "/bcd9uqwfCVYsu7rduZnPVYUkyfU.jpg",
+               "id": 56614,
+               "order": 10
+            },
+            {
+               "cast_id": 102,
+               "character": "Fandral",
+               "gender": 2,
+               "credit_id": "59ea0d5f9251410c740142be",
+               "name": "Zachary Levi",
+               "profile_path": "/ezGnRBi5zn9S6WFxuVxFfZdRH3e.jpg",
+               "id": 69899,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Stephen Strange / Doctor Strange",
+               "gender": 2,
+               "credit_id": "57f388d79251410c31009321",
+               "name": "Benedict Cumberbatch",
+               "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
+               "id": 71580,
+               "order": 12
+            },
+            {
+               "cast_id": 98,
+               "character": "Topaz",
+               "gender": 1,
+               "credit_id": "5973f9b09251415843008673",
+               "name": "Rachel House",
+               "profile_path": "/8UGo2lHG5wtnH55lKPDm8oJ0IOk.jpg",
+               "id": 15298,
+               "order": 13
+            },
+            {
+               "cast_id": 51,
+               "character": "Korg / Surtur (mo-cap)",
+               "gender": 2,
+               "credit_id": "58f66cb69251415e37001d04",
+               "name": "Taika Waititi",
+               "profile_path": "/8JBRfEb6mz7GdLwpoKDUOG6B5gy.jpg",
+               "id": 55934,
+               "order": 14
+            },
+            {
+               "cast_id": 99,
+               "character": "Surtur (voice)",
+               "gender": 2,
+               "credit_id": "5974d81392514157f7019c5d",
+               "name": "Clancy Brown",
+               "profile_path": "/xBVifBW0riMSbedEQ27hObjPqVw.jpg",
+               "id": 6574,
+               "order": 15
+            },
+            {
+               "cast_id": 97,
+               "character": "Barber",
+               "gender": 2,
+               "credit_id": "597093299251412a7302b16e",
+               "name": "Stan Lee",
+               "profile_path": "/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg",
+               "id": 7624,
+               "order": 16
+            },
+            {
+               "cast_id": 42,
+               "character": "Actor Odin",
+               "gender": 2,
+               "credit_id": "58701cdfc3a368266b002f3c",
+               "name": "Sam Neill",
+               "profile_path": "/1ZHExb2rz6210NutoUhQcqQpwnl.jpg",
+               "id": 4783,
+               "order": 17
+            },
+            {
+               "cast_id": 121,
+               "character": "Actor Thor",
+               "gender": 2,
+               "credit_id": "59f0c5039251416ad001afde",
+               "name": "Luke Hemsworth",
+               "profile_path": "/524YwxvMCtwVzpxW1DkAgmE3j5d.jpg",
+               "id": 216986,
+               "order": 18
+            },
+            {
+               "cast_id": 123,
+               "character": "Actor Loki",
+               "gender": 2,
+               "credit_id": "59f12b3e9251416acb023a1f",
+               "name": "Matt Damon",
+               "profile_path": "/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg",
+               "id": 1892,
+               "order": 19
+            },
+            {
+               "cast_id": 103,
+               "character": "Asgardian Date #1",
+               "gender": 0,
+               "credit_id": "59ea0e1fc3a36875e200859d",
+               "name": "Georgia Blizzard",
+               "profile_path": "/uEfBOQdEHjUCzpAlIAjMdjvnfxM.jpg",
+               "id": 1909074,
+               "order": 20
+            },
+            {
+               "cast_id": 104,
+               "character": "Asgardian Date #2",
+               "gender": 0,
+               "credit_id": "59ea0e29c3a3687f15014dcf",
+               "name": "Amali Golden",
+               "profile_path": "/vNklN2rj7BecTG6UJu6flpjMEJD.jpg",
+               "id": 1909075,
+               "order": 21
+            },
+            {
+               "cast_id": 105,
+               "character": "Actor Sif",
+               "gender": 1,
+               "credit_id": "59ea0e3b9251412cf5012624",
+               "name": "Charlotte Nicdao",
+               "profile_path": "/oxjxXsxjRyYL17JW6ieq510JX7L.jpg",
+               "id": 1434826,
+               "order": 22
+            },
+            {
+               "cast_id": 106,
+               "character": "Odin's Assistant",
+               "gender": 0,
+               "credit_id": "59ea0e48c3a3687fa6011b5d",
+               "name": "Ashley Ricardo",
+               "profile_path": "/8fQtPROhSKOa0iNGfPxE6aaI88O.jpg",
+               "id": 1909076,
+               "order": 23
+            },
+            {
+               "cast_id": 107,
+               "character": "College Girl #1",
+               "gender": 0,
+               "credit_id": "59ea0e569251410c16013b59",
+               "name": "Shalom Brune-Franklin",
+               "profile_path": "/z7MhEtDrHJsLIaJiE6wTs5L6SsO.jpg",
+               "id": 1687354,
+               "order": 24
+            },
+            {
+               "cast_id": 108,
+               "character": "College Girl #2",
+               "gender": 0,
+               "credit_id": "59ea0e649251412c870118cb",
+               "name": "Taylor Hemsworth",
+               "profile_path": "/42GSbXwBwsPAYBtJVKaYf4Ojc71.jpg",
+               "id": 1909077,
+               "order": 25
+            },
+            {
+               "cast_id": 109,
+               "character": "Lead Scrapper",
+               "gender": 2,
+               "credit_id": "59ea0f299251410c12013ebf",
+               "name": "Cohen Holloway",
+               "profile_path": "/7g9JZKwKxFPYVLWkTkrhAnlWRrr.jpg",
+               "id": 939388,
+               "order": 26
+            },
+            {
+               "cast_id": 110,
+               "character": "Golden Lady #1",
+               "gender": 0,
+               "credit_id": "59ea0f349251410c740144e1",
+               "name": "Alia Seror-O'Neill",
+               "profile_path": "/yTCWy64wzfu8hDPoc2ryDIjM0DE.jpg",
+               "id": 1535059,
+               "order": 27
+            },
+            {
+               "cast_id": 111,
+               "character": "Golden Lady #2",
+               "gender": 0,
+               "credit_id": "59ea0f44c3a36875e2008716",
+               "name": "Sophia Laryea",
+               "profile_path": "/mu3xju5vkC6Y4PuuRVjH1A6i1i9.jpg",
+               "id": 1909079,
+               "order": 28
+            },
+            {
+               "cast_id": 112,
+               "character": "Cousin Carlo",
+               "gender": 0,
+               "credit_id": "59ea0f50c3a3687fa6011ca7",
+               "name": "Stephen Oliver",
+               "profile_path": null,
+               "id": 1310264,
+               "order": 29
+            },
+            {
+               "cast_id": 113,
+               "character": "Beerbot 5000",
+               "gender": 0,
+               "credit_id": "59ea0f5c9251410c6201459a",
+               "name": "Hamish Parkinson",
+               "profile_path": "/2nBXQDn5nFkrLHS4hwtH2WLUGkc.jpg",
+               "id": 1570328,
+               "order": 30
+            },
+            {
+               "cast_id": 19,
+               "character": "Warden",
+               "gender": 2,
+               "credit_id": "57b75e64c3a36823ba001650",
+               "name": "Jasper Bagg",
+               "profile_path": "/6Z0mpyBSX3JjfobOqeRI18wuLp.jpg",
+               "id": 187016,
+               "order": 31
+            },
+            {
+               "cast_id": 114,
+               "character": "Asgardian Daughter",
+               "gender": 0,
+               "credit_id": "59ea0f7dc3a3687fa6011cd7",
+               "name": "Sky Castanho",
+               "profile_path": null,
+               "id": 1909080,
+               "order": 32
+            },
+            {
+               "cast_id": 115,
+               "character": "Asgardian Mother",
+               "gender": 1,
+               "credit_id": "59ea0f879251415b1f0017d6",
+               "name": "Shari Sebbens",
+               "profile_path": "/ptXEjpYvIRJTurnTfYvyYgNdmaZ.jpg",
+               "id": 1058106,
+               "order": 33
+            },
+            {
+               "cast_id": 116,
+               "character": "Asgardian Uncle",
+               "gender": 0,
+               "credit_id": "59ea0fa09251410c12013f50",
+               "name": "Richard Green",
+               "profile_path": null,
+               "id": 1909081,
+               "order": 34
+            },
+            {
+               "cast_id": 117,
+               "character": "Asgardian Son",
+               "gender": 0,
+               "credit_id": "59ea0fad9251410c12013f60",
+               "name": "Sol Castanho",
+               "profile_path": null,
+               "id": 1909082,
+               "order": 35
+            },
+            {
+               "cast_id": 47,
+               "character": "Valkyrie Sister #1",
+               "gender": 1,
+               "credit_id": "58ec13eec3a3687302086b6c",
+               "name": "Jet Tranter",
+               "profile_path": "/137Ze7d18pUrNiDY5g3kzMpCauM.jpg",
+               "id": 1527566,
+               "order": 36
+            },
+            {
+               "cast_id": 118,
+               "character": "Valkyrie Sister #2",
+               "gender": 0,
+               "credit_id": "59ea0fcec3a3687f15015008",
+               "name": "Samantha Hopper",
+               "profile_path": null,
+               "id": 1909083,
+               "order": 37
+            },
+            {
+               "cast_id": 119,
+               "character": "Asgardian Woman",
+               "gender": 0,
+               "credit_id": "59ea0ff19251410c16013d45",
+               "name": "Eloise Winestock",
+               "profile_path": null,
+               "id": 1674205,
+               "order": 38
+            },
+            {
+               "cast_id": 120,
+               "character": "Asgardian Man",
+               "gender": 2,
+               "credit_id": "59ea0ffbc3a3687f94014407",
+               "name": "Rob Mayes",
+               "profile_path": "/AmuOGIDRUcfOoOQf9Vw4ikqWG53.jpg",
+               "id": 110909,
+               "order": 39
+            },
+            {
+               "cast_id": 44,
+               "character": "Asgardian",
+               "gender": 1,
+               "credit_id": "58b89d499251415fb4002eb6",
+               "name": "Tahlia Jade",
+               "profile_path": "/xhifAb1hwqREG8EKBqLi1ZJeeWg.jpg",
+               "id": 1768699,
+               "order": 40
+            },
+            {
+               "cast_id": 49,
+               "character": "Asgardian",
+               "gender": 0,
+               "credit_id": "58ef9d33c3a3680695000a07",
+               "name": "Winnie Mzembe",
+               "profile_path": "/lUTozzeBvTZZkpUQLE5V5baS12X.jpg",
+               "id": 1690239,
+               "order": 41
+            },
+            {
+               "cast_id": 92,
+               "character": "Asgardian",
+               "gender": 0,
+               "credit_id": "59145b2ac3a368423c00c917",
+               "name": "Sean Edward Frazer",
+               "profile_path": null,
+               "id": 1328711,
+               "order": 42
+            },
+            {
+               "cast_id": 94,
+               "character": "Asgardian",
+               "gender": 0,
+               "credit_id": "59146ffcc3a36842d600dbdd",
+               "name": "Connor Zegenhagen",
+               "profile_path": null,
+               "id": 1394464,
+               "order": 43
+            },
+            {
+               "cast_id": 93,
+               "character": "Asgardian",
+               "gender": 0,
+               "credit_id": "59146faec3a368413900d1bb",
+               "name": "Tracie Filmer",
+               "profile_path": "/82s9hKwTXNhPVPFeEiPw8Xw9RTr.jpg",
+               "id": 1814638,
+               "order": 44
+            },
+            {
+               "cast_id": 50,
+               "character": "Asgardian Servant",
+               "gender": 0,
+               "credit_id": "58ef9d739251415422000a5b",
+               "name": "Tracey Lee Maxwell",
+               "profile_path": "/8xE98laTRaVqu02K8Q8Npm8DjEc.jpg",
+               "id": 230621,
+               "order": 45
+            },
+            {
+               "cast_id": 95,
+               "character": "Asgardian Citizen (uncredited)",
+               "gender": 0,
+               "credit_id": "59147027925141580d00d835",
+               "name": "Beatrice Ward",
+               "profile_path": null,
+               "id": 1814641,
+               "order": 46
+            },
+            {
+               "cast_id": 90,
+               "character": "GM Pilot",
+               "gender": 0,
+               "credit_id": "59145aee92514159c100c35d",
+               "name": "Donnie Baxter",
+               "profile_path": "/dm2cSQwySnOj9sWqca9nBspS8sL.jpg",
+               "id": 1813771,
+               "order": 47
+            },
+            {
+               "cast_id": 48,
+               "character": "Grandmaster VIP",
+               "gender": 0,
+               "credit_id": "58ef9cc9c3a3680673000991",
+               "name": "Greta Carew-Johns",
+               "profile_path": "/dmxwEAlTSqNlmBvTesZkhc1P7Dm.jpg",
+               "id": 1795311,
+               "order": 48
+            },
+            {
+               "cast_id": 96,
+               "character": "New York businessman",
+               "gender": 2,
+               "credit_id": "59147087c3a368423c00d95a",
+               "name": "Adam Green",
+               "profile_path": "/dVTHjh33pASH2nnNL00N4WXfjdR.jpg",
+               "id": 70890,
+               "order": 49
+            },
+            {
+               "cast_id": 88,
+               "character": "Twin Sakaaran citizen",
+               "gender": 0,
+               "credit_id": "59145aac92514156f500cc13",
+               "name": "Mollie McGregor",
+               "profile_path": "/q4XZ9rV1TbrsqvK91a9FAMudL6C.jpg",
+               "id": 1813770,
+               "order": 50
+            },
+            {
+               "cast_id": 89,
+               "character": "Twin Sakaaran citizen",
+               "gender": 0,
+               "credit_id": "59145acb92514159c100c337",
+               "name": "Sophia McGregor",
+               "profile_path": "/egbKVmd3f1xgAq90vDiRLLZIFXx.jpg",
+               "id": 1571654,
+               "order": 51
+            },
+            {
+               "cast_id": 122,
+               "character": "Natasha Romanoff / Black Widow (archive)",
+               "gender": 1,
+               "credit_id": "59f0f65092514148be014d01",
+               "name": "Scarlett Johansson",
+               "profile_path": "/8EueDe6rPF0jQU4LSpsH2Rmrqac.jpg",
+               "id": 1245,
+               "order": 52
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "56a93fa4c3a36872db001e7a",
+               "name": "Jay Oliva",
+               "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
+               "id": 105643,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 2,
+               "credit_id": "551b780b9251414ae6001b7c",
+               "name": "Craig Kyle",
+               "profile_path": null,
+               "id": 87173,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "551b7815c3a3687669001d83",
+               "name": "Christopher Yost",
+               "profile_path": "/6v1wkHdEAuwD8M8i0yWa3LYvoxS.jpg",
+               "id": 109542,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "562f1e69c3a3681b4d00e370",
+               "name": "Taika Waititi",
+               "profile_path": "/8JBRfEb6mz7GdLwpoKDUOG6B5gy.jpg",
+               "id": 55934,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59145834c3a36840aa00b6e6",
+               "name": "Shannon Mills",
+               "profile_path": null,
+               "id": 8159,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59145897c3a36842d600ca41",
+               "name": "Jasin Boland",
+               "profile_path": "/zxr5WBe3JW1GtxPoER9JY8QJm07.jpg",
+               "id": 1392718,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "591458acc3a368413900c052",
+               "name": "Stephen Ohl",
+               "profile_path": "/fSiqDFEcEWUmpImqvssEVaeriBx.jpg",
+               "id": 1460254,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "591458d5c3a3683a9300bfca",
+               "name": "Jhon Alvarado",
+               "profile_path": null,
+               "id": 1453948,
+               "department": "Visual Effects",
+               "job": "Lead Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5914591d925141572300c886",
+               "name": "Molly Doyle",
+               "profile_path": null,
+               "id": 1653682,
+               "department": "Production",
+               "job": "Casting Assistant"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5793a92b9251410d1200d415",
+               "name": "Javier Aguirresarobe",
+               "profile_path": "/5KUDE1mJ9X6o8Gu9PAPHXDTuDIt.jpg",
+               "id": 403,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57bbb851c3a3686030002a80",
+               "name": "Mark Mothersbaugh",
+               "profile_path": "/AoQ4Prrg039LlQiwBNANXn8VVkg.jpg",
+               "id": 5666,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58869994925141115800506b",
+               "name": "Stephany Folsom",
+               "profile_path": "/fHneeYZm8oNJug8GV2PKmH3Ki.jpg",
+               "id": 1744241,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58384f20925141318f0249e7",
+               "name": "Jack Kirby",
+               "profile_path": "/xLVSa7mX1BCyVoKD2wyRGEQXj8M.jpg",
+               "id": 18866,
+               "department": "Writing",
+               "job": "Comic Book"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58384f35c3a36836a3023259",
+               "name": "Stan Lee",
+               "profile_path": "/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg",
+               "id": 7624,
+               "department": "Writing",
+               "job": "Comic Book"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58384f5ac3a36836a3023278",
+               "name": "Larry Lieber",
+               "profile_path": "/6zFjMrk50yZri9KiVqli477gWYB.jpg",
+               "id": 18876,
+               "department": "Writing",
+               "job": "Comic Book"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58384fbac3a36836a30232ac",
+               "name": "Victoria Alonso",
+               "profile_path": "/xF7Qe1tqgk9KtY8kThKHBWhMqxc.jpg",
+               "id": 113674,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58384fd892514131920251e1",
+               "name": "Louis D'Esposito",
+               "profile_path": "/pNvtXPy8kil9WWFtySahnNbvc3R.jpg",
+               "id": 57027,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58384fee925141319e0232b2",
+               "name": "Kevin Feige",
+               "profile_path": "/AewbqQQT0FbcE358rcbopZ3zgDV.jpg",
+               "id": 10850,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5838500f925141319202520b",
+               "name": "Thomas M. Hammel",
+               "profile_path": null,
+               "id": 58190,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5838505c92514131a4023afd",
+               "name": "Stan Lee",
+               "profile_path": "/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg",
+               "id": 7624,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58385081925141319802305b",
+               "name": "Sarah Finn",
+               "profile_path": null,
+               "id": 7232,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5838509e925141319b023847",
+               "name": "Kirsty McGregor",
+               "profile_path": null,
+               "id": 1198829,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "583850c2c3a36836a9024554",
+               "name": "Bill Booth",
+               "profile_path": null,
+               "id": 1391707,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583850df92514131a10223af",
+               "name": "Brendan Heffernan",
+               "profile_path": null,
+               "id": 72232,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58385100c3a36836a9024580",
+               "name": "Richard Hobbs",
+               "profile_path": null,
+               "id": 62484,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5838510fc3a36836a00206d4",
+               "name": "Laura Ng",
+               "profile_path": null,
+               "id": 1713955,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5838515dc3a36836ae021be9",
+               "name": "Jennifer Teves",
+               "profile_path": null,
+               "id": 1401784,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5838517f925141319b0238cb",
+               "name": "Danielle Daly",
+               "profile_path": null,
+               "id": 1713958,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58ec1076925141354c054006",
+               "name": "Brian Chapek",
+               "profile_path": null,
+               "id": 1793535,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ec10afc3a3687302086954",
+               "name": "Brad Winderbaum",
+               "profile_path": null,
+               "id": 1256726,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5914563ec3a368426900cc9d",
+               "name": "Zene Baker",
+               "profile_path": "/iT9J4Y0xLcsmTIfkr19LKzAcuXn.jpg",
+               "id": 225628,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59145687c3a368423c00c588",
+               "name": "Dan Hennah",
+               "profile_path": "/mDTcsOTb8j3UAUZ6xEGb3W0vjNU.jpg",
+               "id": 1373,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5914569ac3a368413900bef1",
+               "name": "Beverley Dunn",
+               "profile_path": null,
+               "id": 62745,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "591456a5925141061e004401",
+               "name": "Mayes C. Rubeo",
+               "profile_path": null,
+               "id": 17675,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "591456c0c3a3683fb600bb72",
+               "name": "Vincenzo Mastrantonio",
+               "profile_path": null,
+               "id": 1607637,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "591456f9c3a368413900bf37",
+               "name": "Jennifer Cornwell",
+               "profile_path": null,
+               "id": 1412734,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59145713c3a36842d600c8fd",
+               "name": "Jennifer Teves",
+               "profile_path": null,
+               "id": 1401784,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59145726925141583c00c4cd",
+               "name": "Jamie Whitfield",
+               "profile_path": null,
+               "id": 1412753,
+               "department": "Production",
+               "job": "Assistant Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5914573792514159c100c0b8",
+               "name": "Vincent Lascoumes",
+               "profile_path": null,
+               "id": 1711214,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5914574892514159c100c0c6",
+               "name": "Tom Hooper",
+               "profile_path": "/pyg4rXPjTLKkUU88hImzKYIcuW0.jpg",
+               "id": 70500,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59145764c3a3683fb600bbe2",
+               "name": "Ben Cooke",
+               "profile_path": "/mdYAaW3tctXeEqYFl6pKYcgDKSx.jpg",
+               "id": 11354,
+               "department": "Directing",
+               "job": "Second Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59145772c3a368413900bf9b",
+               "name": "Tim Croshaw",
+               "profile_path": null,
+               "id": 1360093,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5914578ac3a368426900cd8b",
+               "name": "Dane Eade",
+               "profile_path": null,
+               "id": 1185778,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5914579ac3a36840aa00b68a",
+               "name": "Devin Gray",
+               "profile_path": null,
+               "id": 1814579,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "591457ae925141061e0044e9",
+               "name": "Daniela Medeiros",
+               "profile_path": null,
+               "id": 1726885,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "591457cac3a36840aa00b6ab",
+               "name": "Paula Whiteway",
+               "profile_path": null,
+               "id": 1391713,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "591457d5925141061e004508",
+               "name": "Jane Wuu",
+               "profile_path": null,
+               "id": 1411509,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "591457ec92514105da004289",
+               "name": "David Farmer",
+               "profile_path": "/oYNchEjc32GucUPvXAHMXajk3xJ.jpg",
+               "id": 3504,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59145800c3a368413900bffa",
+               "name": "Nia Hansen",
+               "profile_path": null,
+               "id": 1406872,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59145819c3a368413900c00b",
+               "name": "Daniel Laurie",
+               "profile_path": null,
+               "id": 16344,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5914592bc3a368413900c0cf",
+               "name": "Jason B. Stamey",
+               "profile_path": null,
+               "id": 1543191,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5914593e925141061e004619",
+               "name": "Nicholas A. Mudd",
+               "profile_path": null,
+               "id": 1653683,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5914595ac3a36842c100caea",
+               "name": "Holly Isaacson",
+               "profile_path": null,
+               "id": 1814581,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59145967925141583c00c67e",
+               "name": "Adam Kimmerlin",
+               "profile_path": null,
+               "id": 1700118,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "591459c8925141061e004686",
+               "name": "Daniel O'Brien",
+               "profile_path": null,
+               "id": 1814582,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88691c3a3686093013fd9",
+               "name": "Carol Kiefer",
+               "profile_path": null,
+               "id": 1355529,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f886e092514169db01570a",
+               "name": "Trish Navarro",
+               "profile_path": null,
+               "id": 1634070,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8875e92514169ab01562b",
+               "name": "Richie Dehne",
+               "profile_path": null,
+               "id": 37284,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f887bac3a368606d015e63",
+               "name": "Nick S. Cross",
+               "profile_path": null,
+               "id": 1389128,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8882f92514169a1015bb4",
+               "name": "Alex McCarroll",
+               "profile_path": null,
+               "id": 1405376,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8884c92514169fd015516",
+               "name": "Andrew Kattie",
+               "profile_path": null,
+               "id": 1816360,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f888629251416a0c0157f8",
+               "name": "Kate McCowage",
+               "profile_path": null,
+               "id": 1816361,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8890a92514169fd015611",
+               "name": "Jack Wareham",
+               "profile_path": null,
+               "id": 1915107,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88921c3a36860a401608e",
+               "name": "Peter McCaffrey",
+               "profile_path": null,
+               "id": 1394768,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8893292514169a1015d13",
+               "name": "Darrin Keough",
+               "profile_path": null,
+               "id": 1402914,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8896892514169c5014f1f",
+               "name": "Reg Garside",
+               "profile_path": null,
+               "id": 1392722,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8897792514169c5014f33",
+               "name": "Matt Slattery",
+               "profile_path": null,
+               "id": 1412747,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f889e892514169db015aba",
+               "name": "John Slade",
+               "profile_path": null,
+               "id": 1815823,
+               "department": "Camera",
+               "job": "Russian Arm Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88a13c3a368607e017232",
+               "name": "Mal Booth",
+               "profile_path": null,
+               "id": 1746428,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88a34c3a36860a401620f",
+               "name": "Dana Morris",
+               "profile_path": null,
+               "id": 1915115,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f88a6dc3a36860a4016267",
+               "name": "David Burr",
+               "profile_path": null,
+               "id": 57161,
+               "department": "Camera",
+               "job": "Second Unit Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88aa792514169a501542b",
+               "name": "Matthew Berning",
+               "profile_path": null,
+               "id": 1635229,
+               "department": "Crew",
+               "job": "Techno Crane Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88b5bc3a368607e017410",
+               "name": "Kiri Wharepouri",
+               "profile_path": null,
+               "id": 1915121,
+               "department": "Costume & Make-Up",
+               "job": "Costume Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88b77c3a368602e015162",
+               "name": "Christian Cordella",
+               "profile_path": null,
+               "id": 1327405,
+               "department": "Costume & Make-Up",
+               "job": "Costume Illustrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88b8ac3a368607e01744f",
+               "name": "Donna O'Neal",
+               "profile_path": null,
+               "id": 8287,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88b9bc3a368607e01745e",
+               "name": "Branden Marks",
+               "profile_path": null,
+               "id": 1436195,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88bf0c3a3686058014f6b",
+               "name": "Jonay Bacallado",
+               "profile_path": null,
+               "id": 1915123,
+               "department": "Costume & Make-Up",
+               "job": "Costume Illustrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88c09c3a36860af014a8d",
+               "name": "Margie Stafford",
+               "profile_path": null,
+               "id": 1915122,
+               "department": "Costume & Make-Up",
+               "job": "Seamstress"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88c1ec3a368606d01641f",
+               "name": "Anna Burstall",
+               "profile_path": null,
+               "id": 1746454,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88c37c3a368607e01753d",
+               "name": "Samantha Walker",
+               "profile_path": null,
+               "id": 1454940,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88d0b92514169ec015cb0",
+               "name": "Felicity Wright",
+               "profile_path": null,
+               "id": 1342649,
+               "department": "Costume & Make-Up",
+               "job": "Hair Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88d2792514169ec015cc7",
+               "name": "Joe Whelan",
+               "profile_path": null,
+               "id": 1915125,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88d59c3a368605801513a",
+               "name": "Megan Tanner",
+               "profile_path": null,
+               "id": 1393278,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88d7a92514169ec015d41",
+               "name": "Donald McInnes",
+               "profile_path": null,
+               "id": 1402921,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88d8d92514169a10162c1",
+               "name": "Shay Lawrence",
+               "profile_path": null,
+               "id": 1805804,
+               "department": "Costume & Make-Up",
+               "job": "Key Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88da0c3a36860930147d5",
+               "name": "Dennis Liddiard",
+               "profile_path": null,
+               "id": 1316599,
+               "department": "Costume & Make-Up",
+               "job": "Key Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88ddb92514169ec015ddd",
+               "name": "Luca Vannella",
+               "profile_path": null,
+               "id": 1480629,
+               "department": "Costume & Make-Up",
+               "job": "Hair Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88e6dc3a36860a40167e3",
+               "name": "Alvise Avati",
+               "profile_path": null,
+               "id": 1815935,
+               "department": "Visual Effects",
+               "job": "Lead Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88e86c3a368602e015558",
+               "name": "Liz Bernard",
+               "profile_path": null,
+               "id": 1473412,
+               "department": "Visual Effects",
+               "job": "Lead Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88e9a9251416a0c0160a6",
+               "name": "Stephen Clee",
+               "profile_path": null,
+               "id": 1915128,
+               "department": "Visual Effects",
+               "job": "Lead Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88ead92514169c5015608",
+               "name": "Stefan Klauss",
+               "profile_path": null,
+               "id": 1915129,
+               "department": "Visual Effects",
+               "job": "Lead Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88ec292514169ab015fa8",
+               "name": "Shawn Miller",
+               "profile_path": null,
+               "id": 1915130,
+               "department": "Visual Effects",
+               "job": "Lead Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88fbac3a368606d0169ee",
+               "name": "Pimentel A. Raphael",
+               "profile_path": null,
+               "id": 1409237,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88fd1c3a36860af015009",
+               "name": "Mark Della Rosa",
+               "profile_path": null,
+               "id": 1907208,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f88fed92514169ec01614c",
+               "name": "Steve Nichols",
+               "profile_path": null,
+               "id": 1424620,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8900bc3a36860af01506b",
+               "name": "Luke Letkey",
+               "profile_path": null,
+               "id": 1915131,
+               "department": "Visual Effects",
+               "job": "2D Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89034c3a36860580155ff",
+               "name": "Anthony Smith",
+               "profile_path": null,
+               "id": 1721454,
+               "department": "Visual Effects",
+               "job": "2D Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8904dc3a368602e0158a3",
+               "name": "Aaron Colman-Hayes",
+               "profile_path": null,
+               "id": 1824513,
+               "department": "Visual Effects",
+               "job": "3D Modeller"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89070c3a36860a4016b9f",
+               "name": "Harry Bardak",
+               "profile_path": null,
+               "id": 1461618,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8907e92514169a5015c8a",
+               "name": "Thomas Biller",
+               "profile_path": null,
+               "id": 1915132,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8908ec3a3686093014caf",
+               "name": "Celia Jepson",
+               "profile_path": null,
+               "id": 1460624,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8909fc3a3685ff80155c9",
+               "name": "Alexandre Cancado",
+               "profile_path": null,
+               "id": 1746433,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f890ae92514169a5015ce3",
+               "name": "Andrew Zink",
+               "profile_path": null,
+               "id": 1721336,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f890bf92514169a5015cfc",
+               "name": "Noah Vice",
+               "profile_path": null,
+               "id": 1915133,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f890fac3a368606d016bdd",
+               "name": "Abhisek Chatterjee",
+               "profile_path": null,
+               "id": 1915134,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8911092514169db016552",
+               "name": "Randall Bahnsen",
+               "profile_path": null,
+               "id": 1566279,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89122c3a3686093014d98",
+               "name": "Aaron Fickling",
+               "profile_path": null,
+               "id": 1915135,
+               "department": "Visual Effects",
+               "job": "Creature Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8915dc3a3686058015783",
+               "name": "Hanzhi Tang",
+               "profile_path": null,
+               "id": 1432607,
+               "department": "Crew",
+               "job": "Digital Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f891c292514169ab0164d5",
+               "name": "Glenn Burton",
+               "profile_path": null,
+               "id": 1915137,
+               "department": "Visual Effects",
+               "job": "Pre-Visualization Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89229c3a368602e015b77",
+               "name": "Doug Appleton",
+               "profile_path": null,
+               "id": 1434594,
+               "department": "Visual Effects",
+               "job": "VFX Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89251c3a36860a4016e89",
+               "name": "Robert Drwila",
+               "profile_path": null,
+               "id": 1703134,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89261c3a3686058015914",
+               "name": "Tom Reagan",
+               "profile_path": null,
+               "id": 1442143,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89270c3a368602e015bd0",
+               "name": "Craig Sheppard",
+               "profile_path": null,
+               "id": 1722496,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89280c3a3686058015952",
+               "name": "Joseph Farrant",
+               "profile_path": null,
+               "id": 1531512,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89294c3a368607e017fbd",
+               "name": "Therese Skundberg Fidje",
+               "profile_path": null,
+               "id": 1721452,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f892a692514169ab01660b",
+               "name": "Duncan Williams",
+               "profile_path": null,
+               "id": 1815940,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f892b892514169a1016ae3",
+               "name": "Joshua Guitar",
+               "profile_path": null,
+               "id": 1855870,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f892d4c3a368606d016ed0",
+               "name": "Hui Ling Chang",
+               "profile_path": null,
+               "id": 1463457,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f892e892514169c5015c92",
+               "name": "Tara Conley",
+               "profile_path": null,
+               "id": 1484197,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8931692514169a1016b7f",
+               "name": "Nick King",
+               "profile_path": null,
+               "id": 1915138,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89328c3a3686093015086",
+               "name": "Cyndi Ochs",
+               "profile_path": null,
+               "id": 1401793,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8933a92514169db0168a9",
+               "name": "Jason Sanford",
+               "profile_path": null,
+               "id": 1393446,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8934fc3a36860a4017005",
+               "name": "Michael Perdew",
+               "profile_path": null,
+               "id": 1543743,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89361c3a368606d016f7f",
+               "name": "Gayle Munro",
+               "profile_path": null,
+               "id": 1425332,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8937b92514169ec0166a1",
+               "name": "Jake Morrison",
+               "profile_path": null,
+               "id": 1467332,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8939092514169ab01672e",
+               "name": "Doug Spilatro",
+               "profile_path": null,
+               "id": 1673231,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f893a6c3a368607e018146",
+               "name": "Olcun Tan",
+               "profile_path": null,
+               "id": 1379994,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f893b9c3a368602e015dad",
+               "name": "Stuart White",
+               "profile_path": null,
+               "id": 1915141,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f893cb92514169a5016171",
+               "name": "Alexis Wajsbrot",
+               "profile_path": null,
+               "id": 1211781,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f893dd92514169a5016189",
+               "name": "Chad Wiebe",
+               "profile_path": null,
+               "id": 1399865,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f893f8c3a368602e015df4",
+               "name": "Brendan Seals",
+               "profile_path": null,
+               "id": 1649516,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8940bc3a36860af0155c4",
+               "name": "Andrew Cadey",
+               "profile_path": null,
+               "id": 1915142,
+               "department": "Visual Effects",
+               "job": "Visual Effects Technical Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f894ffc3a368602e015f12",
+               "name": "Laura Holeman",
+               "profile_path": null,
+               "id": 1632329,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f8951e92514169a1016e0f",
+               "name": "Michael A. Webber",
+               "profile_path": null,
+               "id": 1441329,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f895ae92514169fd016771",
+               "name": "Art Schultz",
+               "profile_path": null,
+               "id": 1573019,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f895d5c3a3686058015d60",
+               "name": "Shane Bell",
+               "profile_path": null,
+               "id": 1915144,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f895edc3a368602e01605c",
+               "name": "Dorian Djoudi",
+               "profile_path": null,
+               "id": 1915145,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89600c3a3685ff8015c8c",
+               "name": "Joey Gandolfi",
+               "profile_path": null,
+               "id": 1915146,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8962792514169c501607c",
+               "name": "David Hunter",
+               "profile_path": null,
+               "id": 1915147,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8963c92514169c5016098",
+               "name": "Craig Morgan",
+               "profile_path": null,
+               "id": 1915149,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f8967392514169fd016852",
+               "name": "Judd Wild",
+               "profile_path": "/qkOiU66iougcOt8s2p3bwh7jVOd.jpg",
+               "id": 1554064,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f896d292514169a501651b",
+               "name": "Leanne Brooks",
+               "profile_path": null,
+               "id": 1401694,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f897049251416a0c016c85",
+               "name": "Brian Cox",
+               "profile_path": null,
+               "id": 1454936,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8971e92514169a5016573",
+               "name": "Michael Dye",
+               "profile_path": null,
+               "id": 1915151,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8973492514169fd016913",
+               "name": "Eric O'Neill",
+               "profile_path": null,
+               "id": 1915152,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8975492514169ab016ba3",
+               "name": "R. Bruce Steinheimer",
+               "profile_path": null,
+               "id": 15333,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f897c1c3a368609301559b",
+               "name": "Freddy Chancellor",
+               "profile_path": null,
+               "id": 1826452,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f897d592514169db016dd2",
+               "name": "Aron Dyer",
+               "profile_path": null,
+               "id": 1438847,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f897e7c3a368607e01866d",
+               "name": "Ryan J. Frias",
+               "profile_path": null,
+               "id": 1590402,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f897f9c3a3686058015fa6",
+               "name": "Shelley Roden",
+               "profile_path": null,
+               "id": 80827,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89808c3a36860a401755e",
+               "name": "Jacob Riehle",
+               "profile_path": null,
+               "id": 1815945,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8982b92514169fd016a19",
+               "name": "Nia Hansen",
+               "profile_path": null,
+               "id": 1406872,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8984392514169fd016a38",
+               "name": "Shannon Mills",
+               "profile_path": null,
+               "id": 8159,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8985792514169fd016a5d",
+               "name": "David Chrastka",
+               "profile_path": null,
+               "id": 1388865,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f8987292514169db016e92",
+               "name": "Dane Cody",
+               "profile_path": null,
+               "id": 1915159,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89885c3a3685ff8015f65",
+               "name": "Lora Hirschberg",
+               "profile_path": null,
+               "id": 1327030,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f89896c3a36860a40175fa",
+               "name": "Juan Peralta",
+               "profile_path": null,
+               "id": 8166,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59ff9700c3a36868930518cd",
+               "name": "Taika Waititi",
+               "profile_path": "/8JBRfEb6mz7GdLwpoKDUOG6B5gy.jpg",
+               "id": 55934,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a00a6b792514147330685d7",
+               "name": "Ra Vincent",
+               "profile_path": null,
+               "id": 1409491,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a96caa09251417b0f00bbf8",
+               "name": "Eric Pearson",
+               "profile_path": "/zcDkJjHu28TcrgBi1X4VClUk8Hx.jpg",
+               "id": 579281,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a96cafdc3a36859ff00b19d",
+               "name": "Alex Rouse",
+               "profile_path": null,
+               "id": 1401126,
+               "department": "Costume & Make-Up",
+               "job": "Wigmaker"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ac411ac925141272004203a",
+               "name": "Daniel Hargrave",
+               "profile_path": "/iLjQxDKgMP3Ou8T59800KSyyt0v.jpg",
+               "id": 1825883,
+               "department": "Crew",
+               "job": "Stunts"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         }
+      ],
+      "popularity": 146.78895,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 284053,
+      "vote_count": 5351,
+      "budget": 180000000,
+      "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the prophecy of destruction to his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+      "similar": [
+         1924,
+         1452,
+         99861,
+         141052,
+         8536,
+         9531,
+         40662,
+         379291,
+         13640,
+         10195,
+         1724,
+         24428,
+         272,
+         49521,
+         155,
+         76338,
+         299534,
+         209112,
+         1927,
+         297762
+      ],
+      "original_title": "Thor: Ragnarok",
+      "runtime": 130,
+      "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "id": 420,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+            "name": "Walt Disney Pictures",
+            "id": 2,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2017-10-25",
+      "vote_average": 7.4,
+      "belongs_to_collection": {
+         "backdrop_path": "/3KL8UNKFWgIKXzLHjwY0uwgjzYl.jpg",
+         "name": "Thor Collection",
+         "id": 131296,
+         "poster_path": "/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg"
+      },
+      "tagline": "No Hammer. No Problem.",
+      "adult": false,
+      "homepage": "https://marvel.com/movies/movie/222/thor_ragnarok",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Taika Waititi"],
+      "runtime": 130,
+      "synopsis": "This movie begins two years after the events in 'Avengers: Age of Ultron', with Thor (Chris Hemsworth), having failed in his quest to locate the Infinity Stones and having also been dumped by Jane (although he insists it was a 'mutual dumping') hanging above a fire pit before being brought to the fire demon Surtur. Surtur believes his destiny is to bring about Ragnarok, the complete destruction of Asgard. Thor learns from Surtur that Odin (Anthony Hopkins) is not on Asgard, so uses Mjolnir (his hammer) to escape and destroy Surtur, keeping his crown/skull. He returns to Asgard and sends Surtur's skull down to the vaults but then finds Heimdall (Idris Elba) has been replaced as sentry of the Bifrost Bridge by the inept Skurge (Karl Urban) who explains that Odin accused Heimball of treachery. Heimdall subsequently fled and his whereabouts are unknown. Reaching Asgard, Thor sees a massive statue of Loki (Tom Hiddleston) as well as Odin lounging around, enjoying a play about Loki's 'heroic sacrifice' while fighting the Dark Elves. Realizing what's happened, Thor quickly forces Loki (who usurped and disguised himself as Odin prior to the end of 'Thor: The Dark World') to drop his charade and demands to know what happened to Odin. It is revealed that Loki had placed Odin under a spell and dumped him in a retirement home in New York. By the time they get there it is being demolished. Before they can plan their next move, Loki is suddenly pulled through a dimensional hole in the sidewalk and a card with an address (177a Bleecker St) is left behind. Thor goes there and finds Doctor Strange (Benedict Cumberbatch) who agrees to help him find Odin on the condition that all Asgardians leave Earth. Thor agrees, and after doing some research (during which Thor is constantly teleported around the Santum much to his displeasure) Doctor Strange finds that Odin is in Norway. He then releases Loki from his endless fall, and when Loki tries to attack an exasperated Strange, the doctor unceremoniously sends them both through another portal. They find Odin in Norway overlooking a cliff (having shaken off Loki's spell) and he admits that he is dying and Ragnarok is approaching. He mentions Hela (Cate Blanchett), his true first-born child, the goddess of death and the one who will seize Asgard from Odin's sons. Odin tells Thor and Loki that their (previously unknown) sister was completely consumed by darkness and was sealed away, the only force that continues her exile is Odin himself. He apologizes to Thor for failing him before dying and disappearing. As soon as he's gone, Hela emerges from her prison and engages the two in brief small talk. Seeing that she won't be reasoned with, Thor throws Mjolnir towards her however the goddess easily catches and effortlessly shatters the long-indestructable weapon. Loki, seeing they don't stand a chance, asks to be returned to Asgard however Hela also enters the portal, expels Loki and then Thor from it at different points and reaches Asgard. Arriving at the Bifrost Bridge, she quickly kills Volstagg (Ray Stevenson) and Fendral (Zachary Levi) before recruiting a terrified Skurge to her cause. She then heads to Asgard when she kills the entire palace guard single-handedly as well as Hogun (Tadanobu Asano). Thor is deposited by the portal on a planet filled entirely by garbage and finds himself attacked by several scavengers. Now weapon-less, he is quickly overpowered before his attackers are scared off by the hard-drinking bounty hunter Valkyrie (Tessa Thompson). However she then captures Thor and takes him to the Grandmaster (Jeff Goldblum) who is delighted with his newest acquisition and decides to put him up against his champion fighter. Thor (now restrained with an implanted shock device) learns that Loki is also present and has been there for weeks (time moving far quicker on the Grandmaster's planet) during which he has found favor with the Grandmaster. Not wishing to jeopardize his position, Loki pretends not to care and Thor is thrown in the dungeons where he befriends rock-creature Korg who explains that all who have gone up against the champion have been killed. Meanwhile, Hela heads down to Asgard's vaults and uses a living flame to restore her entire army and revive her monstrous wolf, Fenris. (She also dismisses the Infinity Gauntlet that is kept there as a fake). She then attempts to open a portal and conquer all the realms but the Bifrost sword has been taken by Heimdall who has been hiding in the hills and is now sheltering the escaping civilians from Asgard. Thor is taken to the arena and put up against the champion who is revealed to be none other than the Incredible Hulk. Thor is overjoyed to see his old teammate and tries using Natasha Romanov's calming technique to make him transform back into Bruce Banner (Mark Ruffalo) however it doesn't work and Hulk thrashes him (Loki is very unsettled to see the creature that gave him a sound beating during his attempted conquest of Earth). Eventually Thor stops holding back and begins to fight, at one point having a vision of Odin causing him to channel raw lightning. However just when he is about to win the Grandmaster, not wanting to see a crowd (and his own) favorite be beaten shocks Thor into submission. As the Hulk leaps into the air to crush Thor, Thor puts his hand up in defense before everything goes black. On Asgard, Hela has the remaining people rounded up and demands to know where the Bifrost sword is. When no-one comes forward, Hela tells Skurge to execute a random person. Skurge hesitates, but is still about to do it but before he can make the kill someone comes forward with Heimdall's location. Thor wakes up later in the Hulk's chamber, being pampered by several beautiful women. Thor speaks to Hulk privately (Hulk is now able to speak far more intelligently than he was able to in his last appearance) and learns that he hasn't transformed back into Banner since leaving Earth two years earlier. He also finds that the Quinjet he left Earth with is still in one piece and could be used to escape. He also learns that Valkyrie is an Asgardian who was part of an elite all-female group who were sent up against Hela during her previous assault but were all killed (Valkyrie being the only survivor). Thor tries to convince her to help, but she initially refuses. Although Hulk is happy in his life and wants to stay, he does help Thor acquire the control device for his electronic restraint -- Thor pickpockets it from Valkyrie and removes the shocker from his neck. Thor escapes from Hulk's apartment and reaches the Quinjet, but is chased by Hulk who smashes it half apart. However Thor then plays Black Widow's (Scarlett Johansson) last message to him, prompting the Hulk to transform back into Bruce Banner. Thor explains to Banner, whose last memories are of Sokovia during Ultron's offensive, what has happened. Banner, unable to believe Hulk was able to remain in control for two years, doesn't want to transform again knowing that if he does he might remain the Hulk forever. Valkyrie meets up with Loki and the two engage in a brief fight, and after Loki learns where she comes from he uses his powers to make her remember her last encounter with Hela. Valkyrie has a change of heart and she decides to help Thor return to Asgard, and shows her good will by beating and chaining up Loki. Reuniting, Thor and Loki head down to steal a ship however Loki attempts to betray Thor to the Grandmaster. Thor however had expected this and has instead put the shocking device onto Loki's back. Thor tells his brother he'd hoped he would at least show some capacity for growth and even begin to change for the better, but now he understands Loki will always be a trickster. He then leaves the shocking device turned on with the remote just out of reach. Thor, Banner and Valkyrie steal the Grandmaster's party/orgy ship and, escaping the Grandmaster's clutches, leave through a passageway known as the Devil's Anus. Reaching Asgard just as Hela is about to destroy the remaining population who had attempted to escape through the Bifrost Bridge, Thor engages her in a vicious battle but is still overpowered and loses an eye. Feeling he is useless without his hammer, Thor has a vision of Odin who explains to his son that the hammer simply channeled his powers reminding him he is the God of Thunder. Odin also tells him that Asgard is not a place but it's people and they can re-establish their society and culture anywhere. Now realizing his full abilities, Thor unleashes a massive lightning bolt sending Hela flying. As Valkyrie and Heimdall attempt to hold off Hela's army, Loki unites with Korg and other escaping fighters and procures a ship which he uses to evacuate the Asgardians. Banner also transforms back into Hulk to fight off Fenris. Skurge, feeling guilt over having allied himself with Hela, sacrifices himself to ensure the ship manages to get away. Thor unites with Valkyrie and Loki knowing Hela will soon be back as she is only growing stronger from Asgard's power. Thor suddenly realizes that he cannot stop Ragnarok but must instead bring it about, and sends Loki down to the vaults to throw Surtur's skull into the living flame. Loki does so and escapes (it's also heavily implied that he takes the chance to steal the Tessaract) just as Surtur is reborn and starts laying waste to the kingdom. Hela mounts an offense but it is little use -- Surtur is too powerful and destroys her with his sword. Thor escapes with Loki, Hulk, Heimdall, Valkyrie, Korg and the surviving civilians/prisoners just before Asgard is completely decimated. Although Thor is upset about the destruction of his home, he knows it was necessary to prevent the extinction of his people. He then finally meets his destiny and takes the 'throne' (really, the captain's chair on the bridge) where his first order is to return to Earth. Mid-Credits Scene: Loki worries over Thor's decision to return to Earth knowing he won't be very welcome there since on his last visit he tried to take over the planet. Thor assures his brother he feels everything will be fine, just as a menacing looking ship that dwarfs their own appears through the window. Post-Credits Scene: The Grandmaster, who had been chasing Thor, crashes on the garbage planet where he is confronted by the scavengers who are also a bunch of former slaves. He congratulates them on their revolt and agrees to call it a tie.",
+      "writers": [
+         "Eric Pearson",
+         "Craig Kyle"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt3501632/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Chris Hemsworth",
+         "Tom Hiddleston",
+         "Cate Blanchett"
+      ],
+      "reviews": [
+         "Frankly, I didn't like the first two Thor movies, the game plan was so clear from the get go. Same old \"save the world\" routines, brooding hero with a burden, a love connection born out of necessity and bloated battle scenes. It is the same blueprint for many superhero movies, but Thor has the God element that made the stories feel even more preposterous and ridiculous. It is hard to be vested in his quests because God don't die, hurt as much and can always employ one last deus ex machina that solves the unsolvable problem. But Thor: Ragnarok throws that over-used game plan out from Bifrost into an unknown territory, making it this year's best superhero movie. I know I know\u0085 Justice League has not descended, but looking at the trailer it doesn't take a genius to see that it will be doing the above-mentioned routine. New Zealand director Taika Waititi seems like an unusual choice to helm Thor's third standalone movie. He has the indie root in him and he makes superbly smart comedies with oddles of heart, just watch What We Do in the Shadows (2014) and Hunt for the Wilderpeople (2016) to see his outstanding oeuvre. Apparently, the Marvel-Disney studios have given him full reins and he went ahead and make a comedy. But how do you inject an indie comedic vibe into a superhero franchise that has not been done before? Essentially, Waititi throws out all the cumbersome weights that hampered Thor and tells a simpler but no less cool story about a superhero trying to get back to his home to clean house. In between he gives Thor ample opportunities to be a beer-swigging beefcake, negotiate some treacherously outlandish situations and strip him off the one thing that makes him Thor, the Mjolnir. At one point, Odin even asks a defeated Thor \"What are you, the God of Hammers? \" that had me laughing till my tears rolled down. The tone is light but no less serious, populated by so many colourful characters in a vivid world trapped in impossible situations. At first I thought the introduction of Hulk in the early trailer is a misstep, but Mark Ruffalo's casting would have been close to impossible to keep under wraps. By giving Planet Hulk comic fans a look-in would have been a better move. The repartee between Thor and Hulk/Banner is so hilarious. No less funny is also the dialogue between Thor and Loki, gone is that \"he ain't heavy, he is my brother\" vibe and this is a Thor that will give Loki a smackdown if he is out of step. Cate Blanchett plays Thor's estranged sister with evil relish and you don't cast Jeff Goldblum without allowing him to be Goldblum. Waititi even voices a gladiator-mentor character named Korg that practically steals all the scenes he is in. Chris Hemsworth hams it up just to a safe degree and nails all the one-liners with an A+. In fact, the whole cast seems to be having fun. Thor: Ragnarok embraces its preposterousness and swims in a pool of ridiculousness with the deadpan and self-mocking humour hitting all the bullseyes. In the midst of it all, it still manages to tell a super duper cool story of a superhero saving his people. Yet it manages to remain fresh and zip along with a zany lightning pace. What an inspired choice for a director. The risk taken will pay huge dividends. This has superb rewatch value and I already feel like buying another ticket just to catch all the one-liners one more time. This Thor is Thor-some!",
+         "Was this movie a crappy comedy? Why so many people liked it so much? What was this movie about? What was the purpose of all the jokes? Is this only for kids? Things that bothered me: Ragnarok is supposed to mean the end of the \"world\" but no one took it seriously. Hela is about to conquer the world and kill everybody let's make a little joke. A fight started, oh, please, another little joke. Thor steps on a banana and falls down, ahahaha, funny. Loki - 0 power in all the movie, 0 spells, 0 abilities, just nothing, where was his power, he was so useless and did almost nothing in all the movie. Hulk - personality of a teenage boy on steroids. Thor - so funny, oh my god, joke after joke. Is he THOR or the kid of Deadpool? I had so high expectations but this movie targeted only the kids with all the not funny jokes.",
+         "Ragnarok is a neon-infused fantasy of what superhero films could look like. There are gigantic monsters and beautiful women; zombie armies and a big spooky dog; an evil witch and Jeff Goldblum, but this isn't just a wacky movie made for the sake of wackiness. Ragnarok is the child of confident filmmaking and understanding of what the Thor franchise could have always been. It takes a character that could have always been more and makes good on that promise through competent storytelling and unbridled enthusiasm for the world. This is exactly how we should be rewarded for their fandom. There has never been a clearer example of throwing the entire kitchen sink at a single title and having every single washer and lug-nut of that porcelain mechanism land in perfect order than Ragnarok.",
+         "Imprisoned, the mighty Thor finds himself in a lethal gladiatorial contest against the Hulk, his former ally. Thor must fight for survival and race against time to prevent the all-powerful Hela from destroying his home and the Asgardian civilization. Thor: Ragnarok is the 3rd installment of the Thor Series and in my opinion it's the absolute worst of the Franchise. The jokes were completely unfunny and childish with Thor doing and saying ridiculous things, Hulk was dumber than usual, the villain Hela portrayed by Cate Blanchett got on my nerves and certain other characters as well such as Volstagg, Odin, Fandral and Hogun are completely been disrespected plus where the hell is Sif? Korg was also the Jar Jar Binks of the film he was so annoying and retarded plus how in the hell do you make Jeff Goldblum so unfunny? and last but not least the 2 End Credit scenes were disappointing. Now on the good side of a few things the action is great for example the 2 big action sequences with Thor where he unleashed his Power and Led Zeppelin's music was playing in the Background were dope. The acting was good even when the jokes are horrendous and the Soundtrack was alright also the big fight between Thor and Hulk? Was great while it lasted. Overall Thor: Ragnarok is a film with a lot of issues that turns into a SNL Parody that has Thor in it and tries to mix action, drama and comedy but that's the problem, the movie doesn't know when it needs to be serious and when not to and it's even quite boring at times. So to wrap it up Taika Waititi's Thor 3 is a Mess of Action/Special Effects and Jokes that doesn't improve the mistakes of it's Past (personally i loved Thor: The Dark World) and makes me wonder if Avengers 3 and 4 will be actually what i'm hoping to be which is a serious Superhero Movie. (5/10)",
+         "Thor: Ragnarok should be about the twilight of the Norse gods and the end of all things (or at least Marvel's version of it). It should be darker than the Dark World. It's not. In fact, it has almost nothing to do with it. But it may well be the twilight of the Marvel Cinematic Universe. Or it would be, if we were to stop watching such pauper productions. Marvel movies don't need to be comedies to work. In fact, they shouldn't be comedies at all. They can have elements of comedy, but that's entirely different. Many marvel heroes have a sense of humour, despite their troublesome lives; even through their hardships, they are many times portrayed as having a sense of the comic. But they are not jokers or stand up comedians. Sure, Spiderman is very funny, but his life is one of the hardest in the Marvel universe. To portray Thor, the asgardian god of thunder, as a joker or as a comedian makes no sense at all. He is one of the most sober and serious characters in the Marvel universe. He is not human, he doesn't perceive time as we do, he doesn't think about life as we do, so it makes sense that he doesn't have a sense of humour like we humans do. We could say something similar about the Grandmaster and Hella. Specially Hella. I mean, they weren't able to introduce a single moment of seriousness in the whole movie, not even in characters that shouldn't (couldn't) be laughing like mindless puppets and posing ridiculously every time they appear on screen. It would make sense if Loki was portrayed as mischievous, but that's it. And speaking of Loki, and since this is the Ragnarok after all, they completely distorted the fact that he is the father of the three agents of the destruction of the world: Hella, the wolf Fenrir and the world serpent (there's no world serpent in the movie). Marvel movies can be successful and yet sober. Captain America: Winter Soldier is probably one the best movies of the MCU and it's as sober as it gets. Iron Man (the first installment) deals with the threat of terrorism and weapons trade; it has many comic and funny moments, it's true, but it has a very serious tone underlying it. (This Tony Stark works because of Robert Downey Jr., who is amazing, but the Tony Stark from the comics is paralyzed from the waist down - it doesn't get any more serious than that). Avengers Assemble may not be as sober, but it still manages not to become a comedy show. Sure, Guardians of the Galaxy vol. 2 was a hit, but it was a joke. It had nothing to do with the first one. It wasn't good. In fact, it was kind of a \"prequel\" for Thor:Ragnarok - for these comedy shows. And if someone thinks I'm exaggerating, just think about that moment when Matt Damon is portraying Loki in that \"theater play\". I mean, it's absolutely ridiculous. It looks like a Jimmy Kimmel show!!! I'm sorry, but Taika Waitiki failed. Eric Pearson and Craig Kyle failed tremendously. I really hope that Infinity War isn't a \"sequel\" to this kind of movie. If it is...please stop. Just stop with this kind of writing. Remember that we, in the audience, are not morons, and that not only kids in their early teens go to the movies. Just think about Logan or Deadpool (not a comedy show, although extremely funny). Forget the PG system, forget the money (you'll make it anyway), forget the special fx. And please, forget this Thor and forget any ideas of turning Infinity War into something like this. If not, we'll have Thanos (Thanos!!!!) cracking jokes all the time...",
+         "When you expect Thor and you get Chris Comedy Hour Staring Chris Cringeworth I mean Hemsworth, you start losing faith in Marvel. Besides having to deal with Thor being a complete moron, and I didn't think he could become worse, they surprise me and make him even more of a dull character. Then make Hulk talk! So DUMB!!!! I had hoped for something more deeper than the over the top campy costumes, the cheesy one liners and the God awful dialogue with no plot and practically no real villain, I mean they wasted Hela and she could have been so much more, then they go and add a huge rock that sounds like its sucking helium and goofy chars that make Jar Jar Binks look better! Its so campy and edited so badly. Geez I cannot tell you how much this movie sucked! Oh, I use to love that Led Zep song...now they just over killed it in this movie..lousy costumes, lousy dialogue, terrible editing and horrible movie score. Yeah. WTG Marvel on making the worst Thor ever! I am switching to DC",
+         "(There might be some spoilers ahead but very vague.) I grew up with Marvel comics and Thor was always my favorite. None of the Thor movies were really up to the standard but as a huge fan I like them. Combined with other MCU movies which were getting better and better I had big hopes for the last Thor movie. I can't even begin to describe the disappointment. I wanted to leave the theater by the beginning of the second act. Disney effectively destroyed everything Marvel was building all these years! I was warned by some friends that movie was terrible but still I hoped I would like something. The Story has immense potential but it was ruined beyond belief. The Ragnarok ... the ultimate doom .... and they made a joke of it!?!?!? Sir Anthony Hopkins (Hanibal Lecter) and Cate Blanchett (Galadriel) making fools out of themselves made it even worse. If this movie was made by someone else like the Monthy Python crew it might be fun but like this ... I would have given it 0/10 if possible. After this movie I will certainly not going to watch Infinty Wars. Even more I will skip The Last Jedy and anything that has Disney label in the future. This is blatant attempt to attract new fans among younger generations by appealing to their shallowness, selling them cheap tricks and distractions instead of a good story and directing.",
+         "If the movie can't be serious about an apocalypse and just goofs around in nearly every scene then its certainly the murder of Thor as we have seen in comics. One cannot emotionally connect to absolutely anything, death of Odin or Thor losing an eye or destruction of Mjolnir or extinction of Aasgard as we know it. Movie is perfect example of killing the plot with over use of humor, jokes is on us.",
+         "I saw the premier last night. This is definitely the best Thor movie, but let's face it... that's not a difficult thing to achieve. It's fun from the beginning to the end. It's lightning fast, there aren't any dull moments at all, but it's missing a little gravitas. The Thor character has suddenly become the complete opposite of what he's always been. There's hardly any transition. The same goes for Loki. It works though, it just seems a bit off. The supporting characters are fun. Hulk/Banner is great as always. Valkyrie, Korg, Grandmaster they are all colorful joys to watch. The villains however were (as always) underwhelming. Skurge, though he gets his minute in spotlight, feels wasted. Hela, though I love the way Blanchett played her, is just a ruthless powermonger. There's hardly any background or reason to some of her actions. And Surtur well, he's just a means to an end (pun intended). Conclusion: It's good. It really is. You'll laugh, but you'll miss a little seriousness at certain moments in the movie. And like most Marvel movies, the villains don't marvel.",
+         "Ugh, I really really hated this movie entirely. I was hoping for the heart of Wonder Woman or Lord of the Rings in Epic Quality, I got none of that. I honestly wanted to leave the theater, and mind you that is quite a feat to get me to not want to watch a film anymore. Last movie to hold this distinction of me wanting to leave the theater was that awful live action Scooby Doo movie. I was not wanting to see a comedy but an epic, Shakespearian Drama with realistic humor in small quantities in it like the first one was. I got none of that as well. The only thing I did like was Cate Blanchett as Hela. What bothered me the most was that people were getting killed and maimed by Hela but golly gee! Let's crack another childish joke!!!! Imagine if Game of Thrones was a juvenile comedy like this movie? Thank the Old Gods and the New that GOT is realistic in it's character portrayals. When all is said and done I am just not going to watch another Marvel movie in the theater again. I should have trusted my instinct and not gone like I did with Thor: The Dark World, but I stayed for my mother and that's all. If DC betrays me with Justice League I'm just swearing off modern comic movies altogether and just relying on all my old DVDs of the great Comic movies like the first 2 Raimi Spider-mans, Nolan's Batman movies and X2 to remind me when Comic Movies actually had heart, not the Chaching of the cash register. I felt like Ragnarok completely insulted my intelligence. I grew up with the Christoppher Reeves Superman, I still love the first two Raimi Spidey movies, and the first two X-Men movies as well as Nolan's Batman movies. All of these franchises had quality, intelligence and heart, not treated as a comedy to appeal to the stoner generation and their simple minds. Marvel has let me down and I refuse to waste my money and two hours of my life on unenjoyable experiences anymore so I refuse to go see another Marvel film in theaters. P.S. And here's the spoiler, can someone please tell me exactly why they unnecessarily made Hela Odin's daughter and not Loki's Daughter from the past as in the continuity that has been around for decades? Did they not think that people could wrap their heads around the fact that Loki, most likely in his moment of freedom from Asgard between Thor and Avengers, time traveled and impregnated Hela's mother in the past?",
+         "Real or not this movie is one hell of a journey! The story is truly serious and great, the fun moments are tons! The cinematography of action scenes is just unrealistic good. Hela is one of the best MCU villain so far! Cate Blanchett just killing in it in this role. She looks sexy, furious and also got her arc in the movie, which is big step, thinking about previous Thor movies. Hulk got so many epic moments, that I just can't count. Valkyrie fits perfectly in the ne \"Revengers\" team such a good actress. Loki is fan favourite again! Every moment with Tom Hiddleston on screen is awesome. The movie it's so colourful and extraordinary, so you can watch it again and again and again! The score of the movie, the intense scenes, I mean I really love this movie. Is the best one among all of the three Thor movies. Firstly because it feels like whole new story telling, and secondly it's also one of the best MCU movies. Phase 3 of the Marvel Cinematic Universe gives us truly great movies, and like a die hard MARVEL fan I appreciate that. I will not reveal the plot or some big details of the movie, I want you to enjoy yourself first, but you'll not be disappointed at all! Hela is epic, Odin got his role in Ragnarok and there are some HUGE details that'll lead to Infinity War and you'll lose your mind when you see them. MINOR SPOILER: Someone is coming!",
+         "Whilst the movie was enjoyable I wasn't expecting a comedy. it is a slapstick comedy from Marvel or something that was created for school children. I know that you have to sell a product that doesn't mean you make an action movie or a hero movie Or a superhero movie do a total slapstick comedy full of puns and one-liners making me think I'm watching a 90s superhero movie with 2017 digital effects if you wanted to characterize this as a comedy and then probably I would have given in the higher score but since it was in my word superhero movies it deserves the lowest score that can be given the director was great but if this was meant to be a comedy nothing new or groundbreaking does not even compare to anything good only reason it is getting good reviews is because the rest of the movies in the box office are below par or not superhero movies. Expected a lot but was severely disappointed. Slot of missed opportunities.",
+         "Both missing in action since the end of Avengers: Age of Ultron, Thor and Hulk could be seen as the forgotten children of the MCU, and when they're two of the most popular characters with fans, that seems quite criminal to me. The two haven't really been done justice in their solo films yet, even though I'm a big fan of Thor, but with Taika Waititi on board to direct Thor: Ragnarok, my expectations were sky high. Imprisoned on the planet Sakaar, Thor (Chris Hemsworth) is pitted against the Hulk (Mark Ruffalo), a former ally, in a gladiatorial duel to determine whether he can travel back to Asgard and put a stop to Hela (Cate Blanchett) and her apocalyptic tendencies toward Asgardian civilisation. It's testament to Marvel Studios that, even with Thor: Ragnarok being the seventeenth film of the MCU, they can still produce work as unique and exhilarating as they have here. Taika Waititi has worked wonders to inject the Thor solo films with such vibrancy of colours and characters, leading to Thor: Ragnarok becoming one of my favourite entries into the MCU so far. With Waititi involved, I was expecting this film to be funny however, I was nowhere near prepared for just how funny it ended up being. Seriously guys, there are plenty of moments that caused raucous laughter from the audience, Thor and Hulk giving the Guardians of the Galaxy a run for their money as the funniest MCU heroes. It's the screenplay from Eric Pearson that should take most of the credit, along with some of the brilliant new characters we're introduced to, Korg in particular played by Waititi himself being one of the MCU's most welcome additions. The action, of which there is plenty, is driven by the retro vibes of Mark Mothersbaugh's score and even Led Zeppelin's Immigrant Song, which kicks the finale into overdrive particularly well. Javier Aguirresarobe's cinematography combines seamlessly with the expectedly stunning visual effects to create an almost psychedelic sense to the action sequences. Coming to the performances, Thor: Ragnarok features a strong ensemble cast, pretty much all of them showing some fine comedy instincts at one point in the film. Chris Hemsworth leads the film with such a confident performance, matching both the cockiness and naivety of his character to great effect. Much like people say Robert Downey Jr. is Tony Stark, I just can't imagine anyone else playing Thor. The supporting performances make this such a special film, Mark Ruffalo doing some great work as the Hulk/Bruce Banner, keeping his place as one of the best actors within the MCU. Tom Hiddleston returns to the role of Loki and he's expectedly wicked, making it easy to see why he's such a favourite with the fans, while MCU newcomer Tessa Thompson shows plenty of potential to become a future fan favourite with a performance full of grit and fire as Valkyrie. If you're a fan of Jeff Goldblum then I'd just like to say you won't be disappointed with his performance as Grandmaster, a character just as eccentric as Goldblum himself. I really liked Cate Blanchett as Hela, the villainess of the piece. While she may succumb to the weak villain syndrome that plagues superhero films these days, I felt that she suited the tone they were aiming for with Thor: Ragnarok. If the heroes can have some fun, why can't the villains have some as well? Thor: Ragnarok finally gives Thor the solo film he deserves as one of the original Avengers, full of laughs and plenty of heart, the road to Avengers: Infinity War is nearly complete. I, for one, cannot wait.",
+         "There are two ways one can take oneself too seriously: 1. The Twilight Saga way or 2. The Dark Knight Trilogy way. What I mean is, Twilight was silly in taking itself seriously, because seriously, it didn't have the maturity required, both because of its directors and cast, to portray the necessary emotion for the desired results of profoundness. The Dark Knight Trilogy on the other hand, is like age old whisky; Swirl, smell, sip and swallow. Thor: Ragnarok could've taken itself seriously in the good way, but rather than doing that, it didn't take itself seriously at all, unnecessarily so, and ended up becoming a good thing still, but in a bad way. It's weird and begs the question(s); Is Marvel bending to its fans' will, or is Marvel forcing its fans to bend to its will? Is Marvel being smart and trying to revolutionize Comic Book Cinema, or stupid, and completely losing the plot? Tension is one of storytelling's best and greatest tools, and Marvel seems to be slowly abandoning it, for another great tool, humour. However, is this Marvel's doing, or is it the fans/critics/audience? Captain America: The Winter Soldier: Serious, dark and amazing = $714 Million Box Office, 89% from critics and 7.8 IMDb. Guardians of the Galaxy: Colourful, silly, funny = $773 Million Box Office, 91% from critics and 8.1 IMDb. GotG beat TWS (even though TWS is a sequel, and sequels tend to do more, and, our first look at Steve after The Avengers) in every way according to numbers, but was GotG actually the better film? Batman Begins, Captain America: The First Avenger, Man of Steel and X-Men: First Class suffered similar fates. I love dark, serious, tense. Ragnarok is not that for the most part, but it's still a good watch. There is a lot that is good about this movie, like Thor and Loki's moment in the elevator, but there is also a lot that is bad too, like the fact that for 4 years we've wondered how Thor would react to Loki's impersonation/imprisonment of Odin, and what we got left much to be desired. I think Ragnarok took a very different approach here, and, because of Marvels appeal and reach, it maybe shaking something loose. Also, they could afford to take this route with Thor, as it is the least received franchise, so, they perhaps didn't have much to lose, and more/everything to gain. Ragnarok being this \"light\" also, could work very well for Infinity War, as long as IW is \"hella\" dark. The contrast maybe a very welcomed surprise. I will say this though, if Infinity War takes Ragnarok's path, it will undoubtedly, dismantle its opportunity of being a legendary classic, that has been 11 years and 18 movies in the making. Personally I think that at this point, it may be difficult to judge any MCU film by itself, because each installment is now telling the stories of something bigger, so when you factor that in, there maybe more to what meets the eye. Anyway, in the spirit of judging each on its own merit, Thor: Ragnarok; 7/10.",
+         "We've clearly hit an era in Hollywood where critics are totally at odds with the general public -and with good taste- with regards to latest blockbusters. From the opening scene, I could tell the comedic tone and the addition of swear-words was a result of Deadpool's success, but unlike Deadpool, the \"humour\" on display here felt more like an insult directed at the viewer. The horrendous art-style, lifted straight out of 1980's Flash Gordon, was also a slap in the face to the viewer. It's like the director was quite openly laughing at how bad he could make this look and still get away with it because it was super-camp. Then we had the usual feminist incursions, with the lead female villain literally crushing Thor's hammer in her hand (only a hand-full of characters can actually lift the hammer, never mind pulverising it!). And we have a female side-character apparently so strong and cool that Thor is humiliated and made to look puny on a regular basis by her. She's also infinitely stronger than the Hulk who at one point gets knocked to the floor by her... then symbolically stepped on then walked over! I could go on, but this movie already robbed me of 2hrs, so I'll simply finish by saying this is right up there with the very worst movies I've ever seen. This is what happens when communism creeps into entertainment.",
+         "EVERYTHING WRONG WITH THOR : RAGNAROK The Movie was a total waste of time, the Hulk was shown to be with a child's mentality getting upset and doing children's moves. No explanation was given as to how the quinjet ended up on Sakkar, Age of Ultron in the time line comes after Thor the Dark World so even the explanation that he drifted into a spacetime bridge due to the conversion phenomenon is out of the question. The Hulk is Talking and no explanation is given for that he seems not angry anymore so why is he in Hulk mode in the first place. The second Stupid thing that the Marvel People didn't Even Bother to check was that in Thor the first movie Loki opened the Bifrost with the staff of ODEN (you can check the scene if you don't believe me) So how in HELL did Hela miss that knowing that she might be as ancient as Odin himself, not even once did she witness him open the Bifrost with his Staff?? They went to conquer the nine realms together so not knowing that is totally DUMB, if Loki knows it Hela should know it too. Before Loki screams \"BRING US BACK\" Thor say \"NO\" as if Hela couldn't reach Asgard without the Bifrost....? She appeared from HEL her Dimension into Midgard Earth without any Help why would she need the Bifrost to get There??? And if She so desperately needed the Bifrost for her conquest for the sake of argument she should have taken the sword the minute she landed on Asgard. AND How come the Devils ANUS gets you Directly to Asgard?? and if it does every time shouldn't the Grand Master know about it ? He seems not knowing what Asgard even is while his brother deals with Asgardians ?? The Zombie Army is Stupid, they are slow, they are killable by simple asgardian citizens, what kind of an army is that?? Hela could conquer an entire planet by herself why would she need the dead weight. If Hela can't escape her Exile why did Odin send the Valkeries to finish her off in the first place \"knowing how powerful she is\" that was a dumb move on Odin's side. And we still don't know if Hela is bound to Exile because Odin is holding her off or how precisely because as mentioned before she can travel through dimensions at will. And if that's the case then she should be able to escape when Odin is weakened... say when he falls into the Odin sleep..? How did Odin abandon his responsibility as Protector of the nine realms and just went to Norway to enjoy the view is completely IDIOTIC and when confronted by his sons he just says \"it's your time now\" and vanishes?? He isn't injured, He is still capable of doing wonders but no he chose to turn into golden dust... That's pretty helpful thanks Odin. This movie went out of the frame that the fans and the Marvel Studios agreed upon, We expect action, a coherent story and good visual effects, if one of these elements is missing the movie sucks and frankly you should fire the scenario writers who put together Ragnarok because it's the Stupidest Movie Marvel Has Ever Made.",
+         "After a total of seventeen films in less than ten years, it's pretty safe to say that Marvel has safely established itself as a popular, successful franchise with its own identity. Known for comedy, references to its other films and comics, and epic, fun action, every Marvel film is at least enjoyable. However, there are some that peak; some that can be included in the best Marvel films - and sometimes best films in the superhero genre. Films like this are the first Avengers, The Winter Soldier, Civil War, Guardians of the Galaxy - and also Thor: Ragnarok. Definitely a highlight so far in the Marvel anthology, Thor: Ragnarok is one of the best, delivering everything you want and expect with a little bit more, brimming with fun, personality and action. Anyone who's seen director Taika Waititi's vampire-comedy mockumentary What We Do in the Shadows will likely expect his inimitable and delightful brand of humour to extend to his Marvel entry (perhaps they've learned since getting rid of Edgar Wright from Ant-Man). It's fortunate that he kept his comedy as it really delivers and fits in well with the comedic personality that Marvel has crafted itself; some of their best films are also, by no coincidence, also the funniest (something DC fails with) and Waititi has continued this trend, while keeping the laughs fresh and genuinely funny. Not that this is a out-and-out comedy - not all the jokes are intended to make you laugh out loud; but they never feel forced and all lend themselves to the personality of the film (and the franchise) and really maximise the fun we have watching the movie. After all, this is a film about a traditional Norse God as a superhero fighting alongside a big, angry, green rage monster - it's important to have fun with it! 'Fun' is certainly one of the best words to describe Thor: Ragnarok and it doesn't extend to just the laughs. Other enjoyable elements include references to the wider MCU to excite geeks and non-geeks alike. They all fit in well and seamlessly, not a shoehorned, forced reference or cameo; they all seem organic and make sense to the plot. It's delightful to see Dr Strange, even just for one scene, and to be able to spy glimpses of the Tesseract and a fake Infinity Gauntlet. These add to the rewatch value in a few years time. The crazy, kinetic action really does extend to the whole of the film, from beginning to end, each sequence excellently choreographed. It doesn't shy away from its roots from comics as some of the fights are just as delightfully eccentric and over-the- top. Still they never cease to entertain and, more than that, some are just stunning to behold; the flashback to Valkyrie battling Hela the first time, her army atop a hoard of winged horses soaring through an orange sky only to be cut down by swords and spikes flying towards them in slow- motion. These are gorgeous scenes and Waititi and cinematographer Javier Aguirresarobe should be proud; the beauty of some of Zack Snyder's superhero moments, but in a good film with much more personality. Most of this movie's joy lies in its characters though; at the end of the day, it might be funny and the action might look cool, but if we don't love the characters, we won't love the film. Back again we get the usual ensemble of returning characters - Thor, Loki, Odin and Heimdall. All are as regal, fun and charismatic as ever, Hemsworth and Hiddleston in particular; it's wonderful to see these actors develop their characters over the last few films into lovable parts in a franchise full of heroes we already love. I feel Hopkins deserved a little more screen time and a chance to get more emotional, but, ever the professional, he makes the most with what he has (and is exceptionally good as Loki pretending to be Odin). Returning characters from elsewhere in the MCU Dr Strange and Hulk also add to the delightful ensemble; it's nice to see Strange solidifying his presence in the franchise after just one film (particularly when comparing to Tony Stark having been in six so far, not including post-credit cameos). It's a relief too to finally give Hulk a decent amount of screen time and for us to get to know him as opposed to just Banner; they're two distinct characters within each other and it's about time we get to see more of everyone's favourite rage monster. The new characters introduced in this film are all excellent worthy additions to the Marvel roster and bring a refreshing touch with them. Tessa Thompson is excellent and charismatic as kick-ass female hero Valkyrie, able to confidently stand among Thor, Hulk and Loki. Korg may not be quite the same character he is in the comics, but Waititi takes this part (who wouldn't give themselves a minor role in the MCU if they can?!) and really makes it his own, saving lots of the quirky laughs for himself. Cate Blanchett too is a particularly fantastic villain, sure to stand amongst the best Marvel villains so far, heads and shoulders above the likes of Malekith and Ronan. She's less generic, less monologue-y and never boring; able to kick ass and be just as evilly sexy as Helena Bonham-Carter was as Bellatrix (or is that just me...?). And of course there's Jeff Goldblum who's as Jeff Goldblum as he's ever been - who doesn't love that?! Thor proves himself to be the God of Thunder and Thor: Ragnarok proves itself to be one of the Gods of Marvel, standing proud amongst the best so far. The whole movie's an absolute blast, packed with references, gorgeous action and more genuine laughs than most comedies. An excellent film to round off Marvel in 2017 - let's hope Black Panther keeps up this level of excellence.",
+         "Being the 17th instalment into the Marvel Cinematic Universe (MCU), and the third in the solo-Thor series\u2014generally the least liked within the MCU\u2014it wouldn't be surprising if this cosmic adventure showed signs of repetition and fatigue. It doesn't, not one bit. The opposite is true in fact, thanks to the unique energy and ingenuity brought from New Zealand director Taika Waititi (Hunt for the Wilderpeople, What We Do in the Shadows). Waititi's comedy background is noticeably in full swing, the previously darker Thor outings traded in for a laugh-heavy vibe closer to Guardians of the Galaxy \u2013 the movie Ragnarok shares top spot with, as the MCU's funniest film. A throwaway gag about scissors from a side character made of rock (mo-capped and viced by the director himself) is pure Waititi, and the franchise's best one-liner since Chris Pratt's Starlord appreciated the artwork of Jackson Pollock. Of course a big budget means big action, and there's plenty here to thrill and delight: a tone-setting smack down of a fiery underworld demigod, a bruising gladiatorial contest between Thor (Chris Hemsworth) and Hulk (Mark Ruffalo), an exhilarating spaceship chase, and the breathtakingly electric finale. This threequel is visually distinct too, Waititi opting for a grungy-disco 80s atmosphere over the more theatrical opulence of the first two Thor flicks. His use of slow-mo, backed to Led Zeppelin's 'Immigrant Song', for two key moments, is simply brilliant. Supporting Hemsworth, who has never been better as the macho God of Thunder, is Tom Hiddleston as fan favourite bad-good guy Loki, Cate Blanchett as the sneering God of Death Hela, Tessa Thompson as the cocky warrior Valkyrie and Jeff Goldblum as the eccentric Grandmaster, plus a raft of awesome cameos. A few minor nit picks: Idris Elba seems bored as the returning Heimdall, two previous major supporting characters (both females) are conspicuously absent, a talking Hulk doesn't quite work, and the narrative-retcon work could've been more subtle. But when a movie is this damn entertaining, a few quibbles are easily forgiven. Comfortably taking its place in the top echelon of MCU films, Thor: Ragnarok is hilarious, invigorating and popcorn-blockbustering of the highest order.",
+         "Well for what it's worth, Thor Ragnarok is definitely a satisfying and suitable ending when speaking of this year's MCU movies. Despite enjoying Spider-Man Homecoming a little more overall, partially because there were things I didn't like about Thor Ragnarok but there was very little I disliked about Homecoming, all in all, this film is really good. It's explosive and fun and colorful and enjoyable. Is it overdone? You decide whether or not they overdid some things for this one. I see lots of people comparing it to Guardians of the Galaxy and while I don't fully agree, I can definitely say that there are some things that are reminiscent of the Guardians' movies. What makes this film so good is its associates. They're not out of place and they're not really forced in. Take Hulk for example. I was thinking, \"Hulk may or may not work in this film. Could be great, could be straight out opposite.\" Well, overall, I think it's good that they did include Hulk - even more so when they had him appear as Bruce, rather than Hulk himself. Mark Ruffalo's Hulk is by far the best one yet. Well, to me at least. Another thing I have to include is its humor. Some say it's either a little forced or it's just simply not all that funny. Well, the moments that were funny, were funny. Not much more can be said other than the fact that yeah, some stuff had me like, \"Ehh.. okay\", but for the most part, there's some solid laughs here and there. Jeff Goldblum's role was unique, to say the least - but did kind of remind me of The Collector from Guardians of the Galaxy. I don't know, he just did. Not a bad thing, but you know. If I were to comment on his character, I would have to say he's pretty good. He's not amazing, but he's an interesting part of the film and makes an okay villain (assuming you would call him that). One thing that really stood out to me and made the film even more enjoyable was its brother scenes, aka, scenes that revolve around Loki and Thor together. That was good in this film. I actually enjoyed Loki in this more than I did The Avengers. And Hemsworth is superb in the film. Not a better guy out there that could have played Thor. He was the correct, undeniable greatest choice. There's also a very good 'cameo' like role, if you will, which does add to the movie. The film also doesn't lose its identity, meaning that even though there are other characters and whatnot, it's first and foremost a Thor film. Here's what I didn't like (or, who I didn't like, for that matter): Hela. My reasons for disliking her character are pretty much simplistic and generic, but they're not invalid by any means- she's annoying. She's boring. That's really all I can say. I mean, there's a scene in which I do love that includes her, but it's spoiler-ish, so maybe another time... Overall, however, a great film. Bright, colorful, funny, loads of action, good character usage, and the third act is damn good! I think this is perhaps my sixth favorite MCU film overall, overtaking Guardians of the Galaxy Vol. 2, but it is still right behind: 5- Spider-Man Homecoming, 4-The Avengers, 3-Captain America The Winter Soldier, 2-Guardians of the Galaxy and 1-Captain America Civil War. Ragnarok is a terrific film though, and it's one of this year's best. 8.5/10",
+         "May be this is mostly targeted for children to teenage aged audiences. Humorous, colorful, C.G.I packed, with retro soundtracks. Making a comedy movie formula has worked on Guardians of the Galaxy, and Deadpool already, that doesn't mean that it has to be imposed in Thor too. Not bad if you have cheap tickets, but don't pay extra for IMAX/3D experience (we watched in 3D). **SPOILER ALERT AHEAD** Hulk's (and of course Dr. Strange's) character is somewhat forced into the film. Even his CGI looks cheap too. Odin, why bother casting him in the first place? The all-father, one of the most powerful characters of Thor franchise looks tired and bored to continue with the series. Valkyrie, is she supposed to be a musclebound warrior or some glamorous cat-walking (cheap) cosplaying model? Karl Urban, \"Executioner\" again. Great choice but poorly portrayed. You once played Judge Dredd Karl, remember that? If it was supposed to be an (officially) funny movie, Korg was the best!!!",
+         "In the comics, Ragnarok killed every Asgardian, including Thor, and he was gone for years from the comics. The darkest story in Thor's history. So of course Marvel Studios makes it a comedy. There is nothing to this movie but jokes. It's quips, pratfall, anus jokes, Hela's kind of lame, Hulk and Thor are a comedy duo. And Thor helps Loki bring Surtur to Asgard so he can destroy it. Let me repeat that in case I wasn't clear. THOR HELPS DESTROY ASGARD AT THE END. It's just so bad. Some of the action was really good, but the forced humor didn't work in this movie. At least Marvel Studios has finally admitted that comedy is their main focus. Getting stellar reviews, of course. Because critics love the MCU and will just pretend they're masterpieces when they're not. This movie was terrible. Critics call it \"FUUUUNNNN\". But it was just lame. I wish I would have saved my money, or burned it. At least if I burned it I still would have wasted money but I wouldn't have sat through this. It sets the final stage for Infinity War, which is going to be a bloated mess.",
+         "I know some people are worried about the humour on this movie.But they used it excellently in this flick.This movie to me,is at least on the same level with Guardians of the Galaxy 1.I mean both guardians and Thor 3 made me laugh but never felt cringe or sensed any forced jokes.There were also very intense and emotional moments in this Thor movie.The fight sequences were so damn epic.When it comes to action,this movie is close to Lord of the Rings 2.They did a good job on reflecting the epicness of the Ragnarok event. The last trailer of the movie got my attention.And I made one of the best decisions of my life by watching it. Hela,Valkyrie,Hulk,Thor,Loki,Grandmaster they all did pretty good job.Especially Hela.She was so gorgeous and menacing at the same time. Tessa Thompson kinda surprised me with her great performance btw.",
+         "After waiting for Thor: Ragnarok for years. This movie is perhaps, the WORST Marvel movie I have ever seen. Poor story-telling, weak character development, scenes felt out of place and total 360 from what Thor is supposed to have been. Hollywood blockbusters have been lowering the complexity of its stories to get more butts into the movie seats which include kids who might not be able to understand a more dark, realistic and complex story. This comes at the expense of adult audience who like to see a characters inits true form. This movie is basically Logan in reverse. It is a total betrayal of the character's true nature. The following are the movie sins committed in this flick; Warning Spoilers ahead! 1) Bad Story-line.. This story doesn't allow characters to evolve or grow, a lot of the acting seems too familiar or forced for the sake of moving the movie forward or getting a reaction out of you. 2) Everything happens so fast without explanation of events or relationships... a) Why did thor figure out that Loki was impersonating Odin now and not before? b) How was the all-powerful Odin enchanted by Loki? c) Why did Odin decide to let Hela to Invade Asgard and why did he decide to disappear? d) How did Hela break Thor's hammer? e) Why did the leader of Sakaar favorite Hulk over Thor? 2) No setup from previous events and no purpose for characters a) Thor and Hulk somehow ended up on the same planet by accident b) Why did Dr. Strange need to be in this movie besides setting up for a thor-strange relationship in a future Marvel movie? c) Why didn't Odin hint in previous films that thor had an evil sister named Hela? 3) Bad acting Even Tom Hiddlesto was off point, he had the usual devious smirk on his face but I sometimes wondered if he was expressing contempt at the directors of the film. Besides being a remarkable film crew with amazing actors, somehow this movie manages to bring out the worst acting of these stars. Heres a basic breakdown of each character Thor: A more emotional, funny and light-hearted Thor Loki: The same devious mischief with no new tricks up his sleeve, Loki is so predictable that even Thor has figured him out. Hela: The sorority club's biggest drama-queen, nothing mysterious or godlike about her. Even she falls into the joke frame. Heimdall: He had some good scenes and had a nice mystical look to him but wasn't very much useful in the movie. Grandmaster: This guy is supposed to be a ruler of a planet, instead he belongs on a SNL skit. Valkyrie: Independent strong woman, alcoholic, with both middle fingers up in your face. Somehow this quickly triggered ghetto character manages to defeat Loki in a battle for the sake of showing how women are strong too? Skurge: He betrayed Asgard for the whole movie and then tries to make up for it in less then 5 frames before he dies. Bruce Banner / Hulk: Even hulk manages to turn himself into a comedian. Doctor Strange: Earth's best sorcerer tools Asgardian gods such as Thor and Loki who should have far greater knowledge of magick then Dr. Strange. The Executioner: somehow managed to betray Asgard by serving Hela for the entire film, but then sacrifices himself at the end and we're expected to sympathize with this guy? Korg: This was a loony toons version of Korg To seal the cherry on the cake, Thor basically lets and assists Asguard to be blown up to pieces, because he figures it will destroy Hela, someone who he wasn't able to defeat even with his new powers. The disappointment I felt after watching it sure caused a big disconnect for me after I came back home only to read all the positive reviews written by Critics and users alike, which made me question if these Critics are insiders, and if the users are in fact real accounts... I know everybody's got to make some money... but at what expense?",
+         "Thor: Ragnarok plunges headfirst into unbridled comedy and Waititi gives his actors ample room to showcase their natural comedic talents, especially Hemsworth and Blanchett, who are rarely seen having so much fun. Jeff Goldblum, Karl Urban, and Ruffalo also shine, and Tessa Thompson steals scenes as Valkyrie, a hard-drinking Asgardian bounty hunter and former member of Odin's elite guard. Overall, the film benefits from its director's distinct style and measured irreverence, giving Thor a welcome boost of vitality.",
+         "I went in to this film maybe a little too expectant, I love Marvel, love the Thor comic character, and love the way Chris Hemsworth portrays him on the screen. However, this film is COMPLETELY different to every other portrayal of Thor and it doesn't work. Thor's comedy has generally stemmed from his failure to integrate with humans on earth, when he was on Asgard he was this regal, well versed, humble, albeit slightly cocky character, yet from his first scene you can tell the film is taking a completely different route with him. And this is where the main problem of the film lies. For a film called \"Ragnarok\", which is basically about the death & destruction of Asgard, there is too much of a light tone throughout this film and WAY TOO much \"comic\" dialogue - I put that in speech marks as a lot of the one liners do not work and fall flat, and this is purely because of the sheer volume of them in the film. Comedy only works when there is a straight man to work off, yet nearly every character in the film is written the same and thus loses their individuality. This is such a shame as it causes the film to lose all impact on the sad or serious moments. Within the first 30 minutes Thor discovers the Loki is posing as Odin and, instead of being A: amazed he's still alive, and B: He's somehow banished his all powerful father, he simply laughs this off as a little joke Loki has played, then when they find Odin and he subsequently \"dies\" just before they meet Hela, who then goes on to destroy Mjolnir, there is no mourning period and before you know it we're on Sakaar being treated to no end of electrocution jokes.(Though isn't Thor the god of Thunder and can summon lightning?? Why would he be incapacitated by an electric shock?)It's such a shame that, as Thor has just lost 2 of the most important things to him, this isn't given time to sink in or be dealt with and is just glazed over with a quick childish argument with the Hulk. It's not all bad though, I found once on Sakaar the film picked up somewhat. The Hulk/Thor fight doesn't disappoint, and there were a couple of nice character additions here, the Grandmaster was better than I thought he would be and wasn't too \"Goldblum\", Korg is probably the funniest part of this film and his comic lines do work well, I would like to see him return again. Hulk is fleshed out a bit more as well and we continue to see the internal struggle between him and Banner during the film. Another addition is Skurge who, the less said about him, the better..! Pointless, waste of time being in the film. Valkyrie is a strange character, I know she was completely changed from the comic books, but I don't think that the character is particularly well developed and thus I wasn't really invested in her at all during the movie. I also think the part quite easily could have been portrayed by Lady Sif, (who is strangely absent in the film despite the warriors 3 appearing??) And would have had more impact in the plot than the reasoning behind Valkyrie's self imposed exile. But the main plus point from the film, which is music to Marvel fan's ears, is Hela is a success as a villain, it has been a long time since we've had a villain to rival Loki (who FYI is wasted in the film and is getting a bit annoying now) but Hela is great, we got some development in to her character, albeit a little small, but I very much look forward to her appearing in Infinity War so we can hopefully develop her further. So whilst it's not the best Marvel film, it's certainly not the worst by a long shot. I did enjoy it, it was just the constant barrage of jokes wore very thin very quickly and definitely detracted from the overall story. But with all this said, my non fan boy friend loved the film....!"
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Comedy",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Marvel Entertainment",
+         "Marvel Studios",
+         "Walt Disney Pictures"
+      ],
+      "summaries": [
+         "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+         "Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger. Thor's quest for survival leads him in a race against time to prevent the all-powerful Hela from destroying his home world and the Asgardian civilization.",
+         "Thor's world is about to explode. His devious brother, Loki, has taken over Asgard, the powerful Hela has emerged to steal the throne for herself and Thor is imprisoned on the other side of the universe. To escape captivity and save his home from imminent destruction, Thor must first win a deadly alien contest by defeating his former ally and fellow Avenger - The Incredible Hulk.",
+         "After the events of Avengers: Age of Ultron, Thor, held captive on the planet Sakaar without his hammer, must win a gladiatorial duel against an old friend, the Hulk, in order to return to Asgard in time to stop the villainous Hela and the impending Ragnarok, the doom of the Asgardian civilization.",
+         "After the events of Avengers: Age of Ultron, and four years after the events of Thor: The Dark World, Thor, held captive on the planet Sakaar without his hammer, must win a gladiatorial duel against the Hulk and assemble a team (made up of Hulk, Valkeriye, Thor, and Loki) to stop the villainous Hela and the impending Ragnarök, the doom of the Asgardian civilization.",
+         "Four years after defeating the Dark Elves and two years after the fight in Sokovia, Thor now finds himself trapped on the other side of the universe on the wacky planet of Sakaar. Meanwhile, a new threat rises as the evil Hela, Goddess of Death takes over Asgard and plans to conquer the universe. In order to get home, Thor must compete in a gladiator match against the defending champion of the Grandmaster. Little does Thor know is that the champion is his old friend and fellow Avenger, the Incredible Hulk. Teaming with Hulk and his deceptive brother Loki, Thor must return home to Asgard in time to stop Hela and prevent the approaching Ragnarok, the apocalyptic destruction of Asgard.",
+         "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, which is at the hands of the powerful and ruthless villain Hela."
+      ],
+      "budget": 180000000
+   },
+   "movielensId": 122916,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2017-10-25",
+      "dvdReleaseDate": null,
+      "directors": ["Taika Waititi"],
+      "runtime": 130,
+      "movieId": 122916,
+      "title": "Thor: Ragnarok",
+      "mpaa": "PG-13",
+      "actors": [
+         "Chris Hemsworth",
+         "Tom Hiddleston",
+         "Cate Blanchett",
+         "Idris Elba",
+         "Tessa Thompson",
+         "Jeff Goldblum",
+         "Karl Urban",
+         "Mark Ruffalo",
+         "Anthony Hopkins",
+         "Tadanobu Asano",
+         "Ray Stevenson",
+         "Zachary Levi",
+         "Benedict Cumberbatch",
+         "Rachel House",
+         "Taika Waititi",
+         "Clancy Brown",
+         "Stan Lee",
+         "Sam Neill",
+         "Luke Hemsworth",
+         "Matt Damon",
+         "Georgia Blizzard",
+         "Amali Golden",
+         "Charlotte Nicdao",
+         "Ashley Ricardo",
+         "Shalom Brune-Franklin",
+         "Taylor Hemsworth",
+         "Cohen Holloway",
+         "Alia Seror-O'Neill",
+         "Sophia Laryea",
+         "Stephen Oliver",
+         "Hamish Parkinson",
+         "Jasper Bagg",
+         "Sky Castanho",
+         "Shari Sebbens",
+         "Richard Green",
+         "Sol Castanho",
+         "Jet Tranter",
+         "Samantha Hopper",
+         "Eloise Winestock",
+         "Rob Mayes",
+         "Tahlia Jade",
+         "Winnie Mzembe",
+         "Sean Edward Frazer",
+         "Connor Zegenhagen",
+         "Tracie Filmer",
+         "Tracey Lee Maxwell",
+         "Beatrice Ward",
+         "Donnie Baxter",
+         "Greta Carew-Johns",
+         "Adam Green",
+         "Mollie McGregor",
+         "Sophia McGregor",
+         "Scarlett Johansson"
+      ],
+      "imdbMovieId": "3501632",
+      "originalTitle": "Thor: Ragnarok",
+      "genres": [
+         "Science Fiction",
+         "Action",
+         "Adventure",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": [
+         "ue80QwXMRHg",
+         "INUvFbLkZNU",
+         "v7MGUNV8MxU",
+         "gFaYbSGjED0"
+      ],
+      "plotSummary": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the prophecy of destruction to his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+      "tmdbMovieId": 284053,
+      "avgRating": 3.8708,
+      "releaseYear": "2017",
+      "numRatings": 1606,
+      "posterPath": "/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg"
+   }
+}

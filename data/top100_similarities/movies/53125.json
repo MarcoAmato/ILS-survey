@@ -1,0 +1,915 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "exotic island",
+            "id": 911
+         },
+         {
+            "name": "east india trading company",
+            "id": 1319
+         },
+         {
+            "name": "love of one's life",
+            "id": 2038
+         },
+         {
+            "name": "traitor",
+            "id": 2052
+         },
+         {
+            "name": "shipwreck",
+            "id": 2580
+         },
+         {
+            "name": "strong woman",
+            "id": 2660
+         },
+         {
+            "name": "alliance",
+            "id": 5740
+         },
+         {
+            "name": "afterlife",
+            "id": 6155
+         },
+         {
+            "name": "pirate",
+            "id": 12988
+         },
+         {
+            "name": "swashbuckler",
+            "id": 157186
+         },
+         {
+            "name": "aftercreditsstinger",
+            "id": 179430
+         }
+      ],
+      "imdb_id": "tt0449088",
+      "video": false,
+      "title": "Pirates of the Caribbean: At World's End",
+      "recommendations": [
+         58,
+         1865,
+         22,
+         559,
+         9738,
+         675,
+         425,
+         1979,
+         767,
+         558,
+         607,
+         36658,
+         674,
+         608,
+         1858,
+         564,
+         1734,
+         557,
+         12444,
+         950
+      ],
+      "backdrop_path": "/EDloimImeTz1rFM7YIJ5Dw1mzU.jpg",
+      "revenue": 961000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Captain Jack Sparrow",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b50d",
+               "name": "Johnny Depp",
+               "profile_path": "/ctaca3ALycPP0vPhRSYK5DTBEPF.jpg",
+               "id": 85,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Will Turner",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b511",
+               "name": "Orlando Bloom",
+               "profile_path": "/kKWJlX2tcjqceSfUxnV7Jle5Kt.jpg",
+               "id": 114,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Elizabeth Swann",
+               "gender": 1,
+               "credit_id": "52fe4232c3a36847f800b515",
+               "name": "Keira Knightley",
+               "profile_path": "/irLxeFMXw2phPH7okxHInBhs6jb.jpg",
+               "id": 116,
+               "order": 2
+            },
+            {
+               "cast_id": 12,
+               "character": "William \"Bootstrap Bill\" Turner",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b52d",
+               "name": "Stellan Skarsgård",
+               "profile_path": "/zSCU2agleLtJEvzj98jEesVhBxa.jpg",
+               "id": 1640,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Captain Sao Feng",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b525",
+               "name": "Chow Yun-fat",
+               "profile_path": "/6JbF55y5nPn4APoVxRzuDBMiVLh.jpg",
+               "id": 1619,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Captain Davy Jones",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b521",
+               "name": "Bill Nighy",
+               "profile_path": "/imAkeJi8C8ZHpPPB8RP92AD3kYW.jpg",
+               "id": 2440,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Captain Hector Barbossa",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b519",
+               "name": "Geoffrey Rush",
+               "profile_path": "/5h91WHSK80YtqTk1bMiar2IZzO2.jpg",
+               "id": 118,
+               "order": 6
+            },
+            {
+               "cast_id": 14,
+               "character": "Admiral James Norrington",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b535",
+               "name": "Jack Davenport",
+               "profile_path": "/4asp2xBJS98Tx8yKTLyWn7fjLKj.jpg",
+               "id": 1709,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Joshamee Gibbs",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b531",
+               "name": "Kevin McNally",
+               "profile_path": "/fIJF3TZn8ckHkcl44oX77GvPv9e.jpg",
+               "id": 2449,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Lord Cutler Beckett",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b529",
+               "name": "Tom Hollander",
+               "profile_path": "/w3jpQ0Lcus7voaq0tKGd4xv2X1D.jpg",
+               "id": 2441,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Tia Dalma",
+               "gender": 1,
+               "credit_id": "52fe4232c3a36847f800b549",
+               "name": "Naomie Harris",
+               "profile_path": "/3Y55D8wZgg4CkKadhXvSh91Q121.jpg",
+               "id": 2038,
+               "order": 10
+            },
+            {
+               "cast_id": 8,
+               "character": "Governor Weatherby Swann",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b51d",
+               "name": "Jonathan Pryce",
+               "profile_path": "/dAgcoPcDtlhIUTrksPtsWdlfBX.jpg",
+               "id": 378,
+               "order": 11
+            },
+            {
+               "cast_id": 37,
+               "character": "Captain Teague Sparrow",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b5b3",
+               "name": "Keith Richards",
+               "profile_path": "/t1oa5UsJMmrhNqCIks4jQnAYSQT.jpg",
+               "id": 1430,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Pintel",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b53d",
+               "name": "Lee Arenberg",
+               "profile_path": "/l4Zxsug0QpyJYLv0RosYMgRXiAm.jpg",
+               "id": 1710,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Ragetti",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b539",
+               "name": "Mackenzie Crook",
+               "profile_path": "/pkBBzUyeJSI8OY8rf6TM6Dz0NXL.jpg",
+               "id": 1711,
+               "order": 14
+            },
+            {
+               "cast_id": 18,
+               "character": "Lieutenant Theodore Groves",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b545",
+               "name": "Greg Ellis",
+               "profile_path": "/qQvPe0TO5yYJCSNIM8KRf55F5cw.jpg",
+               "id": 4031,
+               "order": 15
+            },
+            {
+               "cast_id": 55,
+               "character": "Cotton",
+               "gender": 2,
+               "credit_id": "57e28d2ec3a3681a01005b5c",
+               "name": "David Bailie",
+               "profile_path": "/iUKR4K7ftO6xj6ExewkIBlL9tYw.jpg",
+               "id": 1715,
+               "order": 16
+            },
+            {
+               "cast_id": 17,
+               "character": "Marty",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b541",
+               "name": "Martin Klebba",
+               "profile_path": "/amlhUrXQ7t1NEPajdj2dQdbC0rt.jpg",
+               "id": 4030,
+               "order": 17
+            },
+            {
+               "cast_id": 57,
+               "character": "Ian Mercer",
+               "gender": 0,
+               "credit_id": "57e28d78c3a36808b900bf4f",
+               "name": "David Schofield",
+               "profile_path": "/fN64rPih5p4OdbrpX22QURjRUg7.jpg",
+               "id": 939,
+               "order": 18
+            },
+            {
+               "cast_id": 62,
+               "character": "Scarlett",
+               "gender": 1,
+               "credit_id": "57e28ec5c3a3681a50005855",
+               "name": "Lauren Maher",
+               "profile_path": "/3OY2vOsRT5OnHANjWuWDkHseuR0.jpg",
+               "id": 2450,
+               "order": 19
+            },
+            {
+               "cast_id": 63,
+               "character": "Giselle",
+               "gender": 1,
+               "credit_id": "57e28ed692514123f5005635",
+               "name": "Vanessa Branch",
+               "profile_path": "/xHQf8xyMRinbjhVpGIWSeYpYGzQ.jpg",
+               "id": 2452,
+               "order": 20
+            },
+            {
+               "cast_id": 60,
+               "character": "Mullroy",
+               "gender": 2,
+               "credit_id": "57e28db2c3a3681a01005bc7",
+               "name": "Angus Barnett",
+               "profile_path": "/usYsWRccdM4Y00RycsQFFOdNVe.jpg",
+               "id": 1714,
+               "order": 21
+            },
+            {
+               "cast_id": 59,
+               "character": "Murtogg",
+               "gender": 2,
+               "credit_id": "57e28da192514118f7006008",
+               "name": "Giles New",
+               "profile_path": "/e0Ap9fkLAFcxLVHpK8KH2TQV3wI.jpg",
+               "id": 1713,
+               "order": 22
+            },
+            {
+               "cast_id": 58,
+               "character": "Tai Huang",
+               "gender": 2,
+               "credit_id": "57e28d8ec3a3681a01005bab",
+               "name": "Reggie Lee",
+               "profile_path": "/t3kM9otyaduJseoqFgfBXndtKa5.jpg",
+               "id": 22075,
+               "order": 23
+            },
+            {
+               "cast_id": 64,
+               "character": "Henry Turner",
+               "gender": 2,
+               "credit_id": "57e29119925141151100a6cc",
+               "name": "Dominic Scott Kay",
+               "profile_path": "/hH2RPSXqJU9h8YJlnMLWh9q7Vsk.jpg",
+               "id": 61259,
+               "order": 24
+            },
+            {
+               "cast_id": 39,
+               "character": "Mistress Ching",
+               "gender": 1,
+               "credit_id": "52fe4232c3a36847f800b5bd",
+               "name": "Takayo Fischer",
+               "profile_path": "/gNIFc8rWnFzplkisEonefyxjmG1.jpg",
+               "id": 33500,
+               "order": 25
+            },
+            {
+               "cast_id": 40,
+               "character": "Lieutenant Greitzer",
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b5c1",
+               "name": "David Meunier",
+               "profile_path": "/bBCXP8UmTHjwqAJRO3Nk3UBftBt.jpg",
+               "id": 1224149,
+               "order": 26
+            },
+            {
+               "cast_id": 49,
+               "character": "Hadras",
+               "gender": 2,
+               "credit_id": "56d1871c92514174680010cf",
+               "name": "Ho-Kwan Tse",
+               "profile_path": "/9yCoZUXVDX1MlZhdDxftthOaAfR.jpg",
+               "id": 429401,
+               "order": 27
+            },
+            {
+               "cast_id": 56,
+               "character": "Clacker",
+               "gender": 0,
+               "credit_id": "57e28d4b92514125710055cb",
+               "name": "Andy Beckwith",
+               "profile_path": "/6IjyvBZwKVfdyOu9hWIWo7FCQHM.jpg",
+               "id": 1123,
+               "order": 28
+            },
+            {
+               "cast_id": 51,
+               "character": "Penrod",
+               "gender": 2,
+               "credit_id": "56ec8c14c3a3682260003c53",
+               "name": "Peter Donald Badalamenti II",
+               "profile_path": "/9cKHCeV6i44fxVoxHS3SMXCzzE3.jpg",
+               "id": 1056117,
+               "order": 29
+            },
+            {
+               "cast_id": 61,
+               "character": "Cotton's Parrot (voice)",
+               "gender": 2,
+               "credit_id": "57e28dcc9251412463005678",
+               "name": "Christopher S. Capp",
+               "profile_path": null,
+               "id": 21700,
+               "order": 30
+            },
+            {
+               "cast_id": 65,
+               "character": "Captain Teague",
+               "gender": 2,
+               "credit_id": "58bc2a37c3a368663003740b",
+               "name": "Keith Richards",
+               "profile_path": "/t1oa5UsJMmrhNqCIks4jQnAYSQT.jpg",
+               "id": 1430,
+               "order": 31
+            },
+            {
+               "cast_id": 66,
+               "character": "Captain Jocard",
+               "gender": 2,
+               "credit_id": "58bc2a8e925141609e03a179",
+               "name": "Hakeem Kae-Kazim",
+               "profile_path": "/i6Ok0YMEtjn4jd5zlPaZld55Ikl.jpg",
+               "id": 2603,
+               "order": 32
+            },
+            {
+               "cast_id": 67,
+               "character": "Captain Ammand",
+               "gender": 2,
+               "credit_id": "58e2a21ac3a36872af00f9c2",
+               "name": "Ghassan Massoud",
+               "profile_path": "/d02DsjfBcbZctPCUrRxS0vWbpk7.jpg",
+               "id": 70577,
+               "order": 33
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b4fd",
+               "name": "Gore Verbinski",
+               "profile_path": "/bV0rGSPrK4AUvODjB3zMAwDdeIf.jpg",
+               "id": 1704,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b503",
+               "name": "Ted Elliott",
+               "profile_path": "/9OXGC59dpVDdfwSeEdHgxpoHXVu.jpg",
+               "id": 1705,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b509",
+               "name": "Terry Rossio",
+               "profile_path": "/zvlhzykondhUf26gknMo8hLMuCn.jpg",
+               "id": 1706,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b54f",
+               "name": "Jerry Bruckheimer",
+               "profile_path": "/lQu9eRzRX264j2LFQwvKC50wb9s.jpg",
+               "id": 770,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b555",
+               "name": "Mike Stenson",
+               "profile_path": null,
+               "id": 2444,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b55b",
+               "name": "Chad Oman",
+               "profile_path": "/l84amvUZOrpSU5GRTDYoEkvbh25.jpg",
+               "id": 2446,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b561",
+               "name": "Eric McLeod",
+               "profile_path": null,
+               "id": 2445,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4232c3a36847f800b567",
+               "name": "Peter Kohn",
+               "profile_path": null,
+               "id": 2447,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4232c3a36847f800b56d",
+               "name": "Pat Sandston",
+               "profile_path": null,
+               "id": 2448,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b573",
+               "name": "Hans Zimmer",
+               "profile_path": "/7IjJpvGtCfY0DsritmfCh2iX9I4.jpg",
+               "id": 947,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b579",
+               "name": "Dariusz Wolski",
+               "profile_path": "/4LD7NmEu1JV7TLLOsG6VJzhvz0t.jpg",
+               "id": 120,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4232c3a36847f800b57f",
+               "name": "Stephen E. Rivkin",
+               "profile_path": null,
+               "id": 1721,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b585",
+               "name": "Craig Wood",
+               "profile_path": null,
+               "id": 1722,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4232c3a36847f800b58b",
+               "name": "Denise Chamian",
+               "profile_path": "/mEn7U8Dt5zqnNMO0Y1YtXO7evS.jpg",
+               "id": 2215,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4232c3a36847f800b591",
+               "name": "Priscilla John",
+               "profile_path": null,
+               "id": 3311,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b597",
+               "name": "Rick Heinrichs",
+               "profile_path": null,
+               "id": 1226,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4232c3a36847f800b59d",
+               "name": "John Dexter",
+               "profile_path": null,
+               "id": 553,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4232c3a36847f800b5a3",
+               "name": "Cheryl Carasik",
+               "profile_path": null,
+               "id": 4032,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4232c3a36847f800b5a9",
+               "name": "Liz Dann",
+               "profile_path": null,
+               "id": 4033,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4232c3a36847f800b5af",
+               "name": "Penny Rose",
+               "profile_path": null,
+               "id": 4034,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4232c3a36847f800b5b9",
+               "name": "Ve Neill",
+               "profile_path": "/gNYwxuK5Z7Nr3tWtSWv0qAueUIs.jpg",
+               "id": 406204,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55993c15c3a36855db002f33",
+               "name": "James Ward Byrkit",
+               "profile_path": null,
+               "id": 146439,
+               "department": "Art",
+               "job": "Conceptual Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56427c639251412fc8000dc1",
+               "name": "Pamela Alch",
+               "profile_path": null,
+               "id": 1344278,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56427c7b9251412fd4000e07",
+               "name": "Sharron Reynolds",
+               "profile_path": null,
+               "id": 1395290,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56427cb4c3a3686a53000d87",
+               "name": "Karen Golden",
+               "profile_path": null,
+               "id": 1400738,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56427ce8c3a3686a53000d8b",
+               "name": "Bob Badami",
+               "profile_path": null,
+               "id": 5132,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56427d169251412fd4000e23",
+               "name": "Katie Greathouse",
+               "profile_path": null,
+               "id": 1534197,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56427d2bc3a3686a53000d9b",
+               "name": "Barbara McDermott",
+               "profile_path": null,
+               "id": 1399327,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56427d5ec3a3686a62000d4a",
+               "name": "Melissa Muik",
+               "profile_path": null,
+               "id": 1368884,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56e47f7892514132690017bd",
+               "name": "John Dixon",
+               "profile_path": "/dEdGNHwh1OX7W0emN3akNqJvZBN.jpg",
+               "id": 1259516,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57083101c3a3681d320004e6",
+               "name": "Allen Hall",
+               "profile_path": null,
+               "id": 1368867,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5740be639251416597000849",
+               "name": "Dottie Starling",
+               "profile_path": null,
+               "id": 1336716,
+               "department": "Crew",
+               "job": "CGI Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa1bf550e0a260d3f005971",
+               "name": "Charles Gibson",
+               "profile_path": null,
+               "id": 1442148,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Action",
+            "id": 28
+         }
+      ],
+      "popularity": 52.621046,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 285,
+      "vote_count": 5920,
+      "budget": 300000000,
+      "overview": "Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems.",
+      "similar": [
+         22,
+         50456,
+         297762,
+         58,
+         10488,
+         15472,
+         376290,
+         1865,
+         810,
+         166426,
+         290595,
+         293768,
+         7442,
+         459928,
+         1408,
+         360814,
+         3525,
+         9491,
+         9753,
+         340584
+      ],
+      "original_title": "Pirates of the Caribbean: At World's End",
+      "runtime": 169,
+      "poster_path": "/bXb00CkHqx7TPchTGG131sWV59y.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+            "name": "Jerry Bruckheimer Films",
+            "id": 130,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Second Mate Productions",
+            "id": 19936,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+            "name": "Walt Disney Pictures",
+            "id": 2,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2007-05-19",
+      "vote_average": 7,
+      "belongs_to_collection": {
+         "backdrop_path": "/cnKAGbX1rDkAquF2V1wVkptHDJO.jpg",
+         "name": "Pirates of the Caribbean Collection",
+         "id": 295,
+         "poster_path": "/zT5UKFhq9nk97VGlBbAxlAK8UFN.jpg"
+      },
+      "tagline": "At the end of the world, the adventure begins.",
+      "adult": false,
+      "homepage": "http://disney.go.com/disneypictures/pirates/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Gore Verbinski"],
+      "runtime": 169,
+      "synopsis": "To increase his and the East India Trading Company's power in the Caribbean, Lord Cutler Beckett executes anyone, including women and children, suspected of or remotely associated with piracy. Beckett, who now possesses Davy Jones's heart, orders Jones to destroy all pirate ships. Condemned prisoners defiantly sing a song to summon the nine pirate lords comprising the (fourth) Brethren Court to convene at Shipwreck Cove and take action against Beckett. However, Captain Jack Sparrow, pirate lord of the Caribbean, never appointed his successor, and therefore must attend. Captain Barbossa leads Will, Elizabeth, Tia Dalma and Black Pearl crewmen to rescue Jack. Sao Feng, pirate lord of the South China Sea and residing in Singapore, possesses a map to World's End, the gateway to Davy Jones' Locker, where Jack is eternally imprisoned. Elizabeth and Barbossa bargain with Feng for the map and a ship, but Feng is furious that Will already attempted to steal it. The British Royal Navy, led by Mercer, acting under orders from Beckett, make a surprise attack on Feng's bathhouse. During the ensuing chaos, Will strikes a bargain with Feng for the Black Pearl in exchange for Sparrow, who Feng wants to turn over to Beckett, presumably for immunity from Davy Jones' attacks on pirates. Will wants the Black Pearl to rescue his father from The Flying Dutchman. The crew journey through a frozen sea and sail over an enormous waterfall into the Locker. Sparrow, trapped aboard the Pearl, constantly hallucinates about an entire crew comprising himself, each representing a different facet of his character. When the Pearl is mysteriously carried to an ocean shore by crab-like creatures (presumably sent by Tia Dalma, since she is seen stroking a crab as the ship moves), Jack is reunited with his old shipmates. He is initially reluctant to rejoin a crew which includes the four people who once attempted to kill him, with one (Elizabeth) succeeding. As the Black Pearl crew seek an escape route, dead souls are seen floating by underwater. Tia Dalma reveals that Davy Jones was appointed by Calypso, Goddess of the Sea and his lover, to ferry the dead to the next world. In return, Jones was allowed to step upon land for one day every ten years to be with his love; but when she failed to meet him, the scorned captain abandoned his duty and transformed into a monster. Elizabeth sees her father, Governor Weatherby Swann's soul pass by in a boat, murdered by Cutler Beckett after Swann became suspicious about the heart. Swann reveals that whoever stabs Jones' heart becomes the Flying Dutchman's immortal captain. A distraught Elizabeth vows revenge. The Black Pearl remains trapped in the Locker until Sparrow deciphers a clue on the map, realizing the ship must be capsized to return to the living world. The ship is overturned at sunset and upturns back into the living world as the sun rises; a green flash marks their return. The crew stop at a small island to restock supplies, they find the carcass of the Kraken (the beast having been killed by Jones on Beckett's orders), where Jack realises just how serious the threat to piracy's existence truly is. Further in, they are ambushed by Sao Feng, who reveals his secret agreement with Will. However, he betrays Will, having made another deal with Cutler Beckett to hand over the crew and keep the Black Pearl. The Endeavor arrives, and Sparrow is taken aboard, although he refuses to divulge to Beckett where the Brethren Court will convene: instead, Jack manufactures a deal to lead Beckett to where the pirates will convene and lure them out for Beckett to destroy, in exchange for Beckett protecting him from Jones. When Feng is double-crossed by Beckett, Feng bargains with Barbossa to release the Pearl in exchange for Elizabeth, who he believes is Calypso trapped in human form. Feng attacks the Endeavor, allowing Jack to escape. Aboard his warship, the Empress, Feng tells Elizabeth that the first Brethren Court trapped Calypso into human form so men could rule the seas. Davy Jones attacks Feng's ship. The mortally wounded Feng appoints Elizabeth as the new captain and the Pirate Lord of the South China Sea. She and the crew are then imprisoned in the Flying Dutchman's brig. Also aboard is Admiral James Norrington, who frees Elizabeth and her crew after regretting his prior actions. They escape to their ship, although Norrington is killed by Will's deranged father, \"Bootstrap\" Bill after discovering Norrington aiding Elizabeth and her crew's escape. Will leaves a trail of floating corpses for Beckett's ship to follow. Jack catches Will and gives him his magical compass so Beckett can find Shipwreck Cove. Jack then tosses him overboard, but Will is rescued by Beckett's ship, and it is revealed that Davy Jones masterminded Calypso's imprisonment by the first pirate lords. At Shipwreck Island, the nine pirate lords introduce themselves and present the nine pieces of eight. When they are told the reason of the meeting, they disagree over freeing Calypso. Barbossa calls upon Captain Teague Sparrow, Keeper of the Pirata Codex, and Jack's father, to confirm that only a Pirate King can declare war. Elizabeth, newly ordained Pirate Lord of the South China Sea, is elected Pirate King after Sparrows vote for her breaks a stalemate (each pirate lord only voted for themselves). She orders the pirates to go to war against Beckett. During a parley with Beckett and Jones, Elizabeth and Barbossa swap Sparrow for Will. Barbossa tricks the other pirate lords into yielding their \"pieces of eight\" rank insignias, which he needs to free Calypso, who is bound in human form as Tia Dalma. As Barbossa releases her in a ritual, Will discloses that it was Davy Jones, her lover, who betrayed her to the Brethren Court. Her fury unleashes a violent maelstrom just as the Navy's massive fleet appears on the horizon. During the battle, Sparrow escapes the Flying Dutchman's brig and steals the Dead Man's Chest. Meanwhile, Davy Jones kills Mercer and obtains the key to the chest, which Jack then steals from Jones during a duel. The Black Pearl and the Flying Dutchman face off near the center of the massive maelstrom. Will proposes to Elizabeth, and Captain Barbossa marries them in the midst of battle. Will boards the Flying Dutchman to retrieve the chest, but is mortally wounded by Davy Jones. As Bootstrap Bill attacks Jones, Sparrow, who wanted the heart for his own immortality, places his broken sabre in Will's hand and helps him stab Jones' heart, killing Jones. Jack and Elizabeth escape the Flying Dutchman as the crew carve out the dead Will's heart and places it into the Dead Man's Chest; the ship disappears into the whirlpool. Beckett, never intending to honor his agreement with Jack, moves to attack the Black Pearl. The Dutchman suddenly resurfaces from the depths, with Will as the captain and the crewmen now human. Will and Sparrow aim the Flying Dutchman and the Black Pearl at the Endeavour, destroying it and killing Beckett. The armada retreats in disarray. Although Will has been saved and the Dutchman crew has regained their humanity, he is bound to sail the sea as the Dutchman's captain. Will and Elizabeth have one day together where they consummate their marriage on an island. Will departs at sunset, but first gives Elizabeth the Dead Man's Chest for safekeeping. Shortly after, Barbossa again commandeers the Black Pearl, stranding Jack and Gibbs in Tortuga. Having anticipated Barbossa's deception, however, Sparrow has already removed the map's middle that leads to the Fountain of Youth. In a post-credits scene set ten years later, Elizabeth and her and Will's nine-year old son stand atop a seacliff; a green flash fills the sky. The Flying Dutchman appears on the horizon with Will Turner aboard, sailing towards his family. In the DVD commentary, the screenwriters state that because Elizabeth remained faithful to Will for the interim 10 years, and he fulfilled his duty to ferry souls to the next world, he is freed from the Flying Dutchman. Though the \"Pirates Secrets Revealed\" leaflet insert in the DVD release says that Will is bound forever to the Flying Dutchman and may only step on land once every ten years, this may only be a misconception on Disney's part.",
+      "writers": [
+         "Ted Elliott",
+         "Terry Rossio"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0449088/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Johnny Depp, Orlando Bloom, Keira Knightley | See full cast and crew »"],
+      "reviews": [
+         "(contains spoilers... but trust me, that won't matter). it's safe to say that Johnny Depp single-handily made the 'pirate' series a success. if not for Depp telling interviewers Keith Richards inspired his captain jack-isms, Keith Richards would certainly not have appeared in the 3rd movie. in between the excessive amount of canon balls/sword fights scenes, i couldn't wait to get home and tear this movie to shreds. it's such an easy formula: three parts jack sparrow, eleven parts talking about jack sparrow, two parts love stories, six parts pirate ships emerging from water, five parts capturing, five parts rescuing and ten parts action/violence/sword fights. mix haphazardly against elaborate sets and computer graphics. let set for three hours until the audience rises. the movie could be broken down into FOUR major flaws: POOR WRITING. it seemed the writers were very aware that audiences were only going to see 'Pirates' for Jack Sparrow, so they thought... \"hmmm, if people love Jack so much... they'll love THREE jacks, or FOUR jacks, or even MORE Jacks!!\" so they made scenes reminiscent of Alice in Wonderland where Jack hallucinates and sees many of himself. the mood and overall appearance of these scenes drastically contrast with the mood and overall appearance of the film. for a minute i thought i was watching an Oompa Loompa scene from Charlie and the Chocolate Factory. TOO MANY CHARACTERS: accompanying poor writing was the addition of too many characters. in a nutshell: jack's crew (which was two crews combined), the British crew, the squid's crew, and a new Asian crew all have different agendas that (of course) require the other crews to be killed. Elizabeth (Knightly) becomes captain of the Asian crew, Orlando bloom becomes captain of the squid crew and Jack bounces between every crew as he is traded and captured for deal-making. Orlando bloom's character wants to free his father, Jack wants to be immortal, Kiera Knightly's character wants to be with Orlando Bloom again, the squid wants the sea goddess, Elizabeth wants to kill the British captain for killing her father, the British crew wants jack dead and the Asian crew wants to be a part of whichever crew is getting the treasure. but is there even treasure?!! the object they're all after is a beating heart. and yes, it's as confusing as it sounds. OLD JOKES. just like the second, all of the \"comedic\" moments in the third movie relied on recycled material from the first movie. the humor in 'pirates' can be attributed to six subjects: 1) the wooden eye: kudos to whoever thought to give that guy a wooden eye because you added 30 pages of plot to each film!! 2) jack, the monkey: the only character whose acting improved by the third film. he's also in a lot more of the scenes in the third movie. my boyfriend thought he was the best part. and he was right. 3) rum jokes: the first movie relied heavily on rum jokes. since the third movie didn't know what the hell it was doing, it hit up the booze too. 4) the sexual tension between jack and elizabeth. the cliché \"trust me, it would have never worked between us...\" lines return again. 5) jack getting slapped: yes, women love to slap jack sparrow. we got that one already, thanks. 6) sheer stupidity/slapstick humor: the other nanoseconds of anticipated (but unreceived) humor relied on the dumb antics of the fat guy and the skinny guy with the wooden eye. CONFUSING PLOT. it felt as though the writers made this movie up as they were filming it and when they were running low on plot someone said, \"i know, let's make one of the crew members turn out to be a sea goddess!!\" and since there are only two female main characters (one being Kiera Knightly), the Jamaican-sounding chick landed the role of sea goddess. this made the plot entertaining for about 20 seconds when the Jamaican chick turned into the 50 ft. woman and started talking like the Stay-Puft Marshmallow Man and then exploded into millions of crabs at which point i leaned over to my boyfriend and said, \"haha, she had crabs!!\" needless to say, i don't plan on seeing the 4th or 5th or 6th Pirates movie. but i will be curious to see if Depp stays aboard. bottom line: if you were planning on seeing pirates, go see Waitress instead. written by: Jena Ardell",
+         "It was very disappointing. I adored the first movie to pieces. I own the DVD and regularly play it on movie nights with my friends. It's great unexpected fun, quotable, and a visual spectacle. The characters are surprisingly likable, and Depp comes roaring in like a breath of fresh air as Capt. Jack. The problem with the third movie (as well as the second) is that it lost touch with it's roots. The first movie, while heavy with the supernatural stuff, was still pretty grounded in a fairly accurate real world. The characters were over the top, yes, but still believable, and above all, relatable. Their motives and predicaments all made a great deal of sense (i.e. Elizabeth wanting to marry Will, Barbossa wanting to be free of the curse, Jack simply wanting to get a boat so he could live his life of freedom). Unfortunately, in the new movies, the writers have lost touch with the first movie's charm. The plots are so convoluted it's difficult to decipher, much less remember, a character's desires and motives. It's much less emotionally grounded. It has also become so thick into this supernatural fantasy land that it has hardly any link to the real world at all. This would not have been a problem were the filmmakers not so intent on special effects and visual spectacles that they forgot to tell a good, solid story. I believe this movie would have been better if the writers had kept to a more straightforward plot and toned down much of the \"grand spectacle\" stuff which really dominated the movies.",
+         "The Pirates of the Caribbean-movie serials is probably one I'll never grow tired off. The characters are fun and great, always adventurous and spectacular to watch. It's really too bad that this time they felt the need to make things even bigger, more complex and conclusive than the previous two movies. Really not needed. In my opinion the first movie \"Pirates of the Caribbean: The Curse of the Black Pearl\" is still the best because of the reason that it's simple, fun and choices to be purely entertaining. They already went wrong with this approach during the second movie; \"Pirates of the Caribbean: Dead Man's Chest\", when they put in more new characters and different hard to follow plot lines. \"Pirates of the Caribbean: At World's End\" goes on in the same trend as the previous movie. There are more new characters and as far as the new many plot-lines are concerned...well let me just say that after a while I just gave up trying to understand the movie and just let the movie take me away with its visuals, humor and other entertaining elements. And this movie regardless should really be able to take you away on a roller-coaster-ride of pure entertainment. No doubt in my mind that this movie could had become the best one out of the series. It had all the potential and budget for that, now if they had only cut down about halve of the script...Most of the plot-lines seem redundant and are actually far from believable because they contradict from what happened in the first two movies. The many betrayals among characters and side-picking became really confusing after a while, till it reached a point when you just didn't knew who was fighting for what. But like I said before, after a while you just stop caring about it and simply enjoy the movie for what it brings you. It all is also the reason why the movie is now nearly 3 hours long. Now the movie is not as good and entertaining as the first but maybe just slightly better than the second one, because of the large scale of this movie. The movie is definitely big. There is no lack of action as some people claim there is. There is just as much action as there is in the first two movies, only difference this time is that the movie is nearly 3 hours long and therefor the movie also has some more talking-sequences and slower moments in it. The movie is also big with its musical score by Hans Zimmer and he actually succeeded in composing a new great theme for the movie. In its action moments the movie gets definitely uplifted by its musical score. The action sequences are definitely well constructed and at times pure eye candy. So are the special effects, although I feel that the second movie was still better on that. It seems like they tried to overdo things this time and I'm mainly talking about the end battle, when it comes down to its special effects, by putting in some complex shots. No matter how good CGI is these days, you still see that it's CGI. Most roles get extended in this movie. Marty, Tia Dalma and even Jack the monkey and Cotton's parrot. But of course the movie still remains the Jack Sparrow-show. Really one of the best characters in recent years, all thanks to Johnny Depp, who provide the movie with its biggest laughs and most hilarious absurd moments. He still plays the character as good and fresh as he did for the first time 4 years ago. You can't just ever grow tired of Jack Sparrow. I was also very pleased to see Geoffrey Rush back as Barbossa. His role was bigger which allowed Geoffrey Rush to shine even more. Bill Nighy was also as good as always as Davy Jones. Orlando Bloom's and Keira Knightley's acting also has really improved over the years. I was actually surprised to see how much of the movie Keira Knightley carries this time and how well she does this. Even in the sequences with Geoffrey Rush she does. She also gets to do more interesting in the movie when it comes done to action. In a way she has taken over the Will (Orlando Bloom) role in this movie this time and Will himself gets pushed more to the background this time compared to the first two movies, which really shouldn't bother most people, unless you're a teenage-girl of course. She handles both the action- and comical sequences really well. And even Keith Richards shows up in an already classic cameo as Jack's father. But some role also got narrowed down to my regret, such as Jonathan Pryce's and Jack Davenport's and lets not forget the Kraken. Still, I really wouldn't mind seeing more Pirates of the Caribbean movies in the future, if needed with new actors and characters, as long as Johnny Depp stays as Jack Sparrow. The serials still have more than enough potential and haven't dried up yet. 8/10 http://bobafett1138.blogspot.com/",
+         "Less than a year after the previous installment of the popular pirates trilogy, Jack Sparrow and company return in Pirates of the Caribbean: At World's End. The film should be great, given a three hundred million dollar budget, huge anticipation, and the closure a third installment inevitably brings to a series. While this film does show its budget and is quite visually arresting, it lacks a fair share of resolution to the trilogy and confuses with its overflowing exposition rather than purely existing to entertain. Even in an action packed pirate movie, overly chatty sequences will simply bore audiences just because it's too hard to follow what exactly is being said. The movie really just had too many vague or unnecessary plot points that didn't affect the main plot at hand. All the acting was perfectly fine, with Johnny Depp as Captain Jack Sparrow and Geoffrey Rush as Captain Barbosa unsurprisingly being the standouts. The introduction of Depp's character in the pirate equivalent of Hell called Davy Jones' Locker is a particular favorite, as well as the scenes at World's End, which somehow involves a giant, deep waterfall. Keith Richards' hyped cameo as Jack's father is nothing to go crazy for, he does a decent job, but his screen time lasts only about two minutes. Director Gore Verbinski and his crew knew going into this that the reviews would be mixed and the plot would be confusing (in order to encourage repeat viewings), but honestly, at nearly three hours, the more the film confuses you the more it becomes an endurance test. Also, rather than providing a satisfying conclusion to the series, the end opens up the possibility for a fourth installment, which might not even happen. The crew put every penny of the film's budget on screen, made evident in the hour or so of its bloated climax. The film looks and feels like a true epic, shots are wide, locations are vast, costumes are extravagant, and the scope is large. However, the film needs to scale down its plot in order to let the characters we fell in love with stand out and shine, as that's what makes these films unique.",
+         "I adored POTC 1, was a bit disappointed in POTC 2 (mainly the ending) and found POTC 3 to be a mix of the previous two. The awesome music is still in place, it's a bit faster paced than 2 (even with sections of dialogue in place), and the majority of characters get their come-uppance. There's heaps of sword fights and more cannons than I've seen in my life. The special effects are seamless and mix with great cinematography and top notch costumes & makeup. Many characters are more fully fleshed out, which was nice to see. However the ending is NOT pure Disney, which surprised me somewhat. Major characters die, and all is not rosy sunsets and fluffy kittens. That was a bit of a surprise, a couple of characters seemed to just disappear and there's an obvious link left open for another movie. Whether it's made or not is another thing entirely (and unlikely from what I hear). One more point... stay until the end of the credits for an interesting extra scene.",
+         "If you, like me, were disappointed by the over-hyped, sloppy and disappointing returns of Shrek and Spiderman in the first two mega-threquels of the summer, then I have good news for you. One third entry in a huge cinema franchise is every bit as good as you would expect. While lacking the surprise of the original, the third Pirates film is much better than the second (though I liked it, I thought it had too many jokes and gags; a lot of the heart in the first was missing it seemed). Its lengthier, and not in a slowed-down way. Longer meaning more action, more characters (Chow Yun Fat and Keith Richards are awesome), and a final battle so enriched with awesome design, careful choreography and stunning visual effects it will blow your mind. The cast is great, the thrills all first-rate. I don't want to give away any of the surprises and great moments to die-hard fans like myself. Just trust me: this summer spend your buck on Pirates...it's worth it!!!!",
+         "Just finished viewing a private screening of the final chapter of the Pirates of the Caribbean and can confirm it does not disappoint. The original is still the best but 'At World's End' completes the trilogy on a high note. Johnny Depp continues to shine as Captain Jack and Chow Yun Fat makes a huge impact as Captain Sao Feng. Academy Award winner Geoffrey Rush returns as Barbossa and his exclusion from most of the 2nd movie was the reason it was my least favorite out of the whole trilogy. Keira Knightly and Orlando Bloom complete the All-star class and do an OK job as their respective characters. The whole film build up to the final battle which is one of the finest since the Lord of the Rings. If your a Pirates of the Carribbean Fan, this one is not to be missed. 8/10",
+         "AWE was a decent close to the trilogy (although they did leave it open for the possibility of a 4th). Lets go down the list: 1) Holy cow. The CGI is breathtaking. The details on the sets is just as breathtaking. The filming sites were beautiful. These are a talented group of folks I tell ya. GREAT job. 2) Acting .. both good and bad. Sparrow, Barbossa, Beckett, Norrington, Jones, and Gibbs provided some very good acting and funny moments. However, they were offset by Pintel and Ragetti (they got annoying in the 2nd film and it didn't stop here. While I enjoyed the idea of Tia Dalma's character, I wasn't impressed with the performance by beautiful Miss Harris. I haven't especially liked Keira all that much in other things she has done and it was the same here. Decent actress but not overly impressive. Stellan's portrayal of Bill Turner was decent enough but a notch down from what we KNOW he can do. Now the best for last. Im a 100% hetero male and even I can say that Orlando Bloom is a VERY good looking guy. But for the love of pete, this guy is one of the most terrible actors ever and strangely, he was cast in two of the biggest, most profitable trilogies ever. He has essentially played the same character in every movie, just with different costumes. His mannerisms, his low \"sexy\" voice, his facial expressions .. ALLLL the same, all the time. Sooo blahhhhhhh. 3) The story was good but there was too much of it. It has been said here but I will say it again. At one point, I just stopped trying to follow along and just enjoyed it. Everyone stabbed everyone else in the back at least once. It wasn't \"hard to follow\" but a movie like this isn't supposed to make you think. You want that, go see .... Clue :P the whole Singapore thing was just unneeded. While it did add a new element to the film, it just seemed too forced. 4) Running time was a tad bit long but it passed fairly quickly due to the great action sequences. All in all .. I was impressed with the movie, but it has its problems. Much like part 2. I say go and see it. You wont be disappointed but you wont walk out thinking you just saw a masterpiece either. Just my thoughts ...",
+         "Crap!!! Terrible, terrible CRAP! I feel sorry of those who think that this is a 10-star movie. I was bored, then frustrated, and at the end angry. I can't believe that somebody is ready to spend so much money but can't make a decent script or at least cogent story. The dialogs are stupid most of the time, monologues are idiotic (exept the monologues of Sparrow with himself) - especially the cry for battle and freedom of Keira at the end of the film: I felt sick... This kind of films destroy the film as an art, as something beautiful, something that can wheedle the emotions out of you, something that you'll think about and remember for a long time. This film is a product that need's to be sold. It is consumer oriented and could be rated with 10s only in consumer oriented society.",
+         "OK. So the first one was a great movie. second one was alright. So i went to the midnight showing of Pirates and accidentally fell asleep during the hour and a half of pointless content that is the first part of the movie. I went and saw it again and watched every minute and let me say, it was so bad and the plot line so choppy that once the movie was over i was unsure of the definitions of reality. Quite literally, i could have made a better movie with no camera. Jack Sparrow went insane, Elizabeth Swan learned to fight with the best of them, and suddenly the kraken, which was the basis of the second movie, got killed and ridden off in one line of dialogue. The writers of this movie should quit. and i don't mean just writing. i mean living. how do you screw up this movie? all you have to do is write a story about going to rescue jack without the driving over waterfalls, turning into crabs, or creating another movie's worth of plot about pieces of eight, which in the end got put in a bowl and burnt which made smoke that could have been drawn better with a dull rock. by the way, when you put magic into a movie, i don't want it explained. at all. just say what happened and ill catch up. because i know how people can be brought to life *cough cough* Barbosa *cough cough*. This movie SUCKED."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Walt Disney Pictures",
+         "Jerry Bruckheimer Films",
+         "Second Mate Productions"
+      ],
+      "summaries": [
+         "After Elizabeth, Will, and Captain Barbossa rescue Captain Jack Sparrow from the the land of the dead, they must face their foes, Davy Jones and Lord Cutler Beckett. Beckett, now with control of Jones' heart, forms a dark alliance with him in order to rule the seas and wipe out the last of the Pirates. Now, Jack, Barbossa, Will, Elizabeth, Tia Dalma, and crew must call the Pirate Lords from the four corners of the globe, including the infamous Sao Feng, to gathering. The Pirate Lords want to release the goddess Calypso, Davy Jones's damned lover, from the trap they sent her to out of fear, in which the Pirate Lords must combine the 9 pieces that bound her by ritual to undo it and release her in hopes that she will help them fight. With this, all pirates will stand together and will make their final stand for freedom against Beckett, Jones, Norrington, the Flying Dutchman, and the entire East India Trading Company.",
+         "Elizabeth, Will and the crew of the Pearl sail off the edge of the map (literally) with the help of mysterious Tia Dalma and the late Captain Barbossa who has been raised by the dead to save Captain Jack Sparrow . He has been condemned to the terrible fate of remaining in the void of Davey Jones' locker for eternity. But rescuing Jack isn't the real meat of this movie - Lord Cutler Beckett has control of the heart of Davey Jones, and with that he controls the sea. The nine pirate lords of the world must unite for a final stand against Beckett, Jones and the East India Trade company.",
+         "Elizabeth Swann, Will Turner and Captain Barbossa go to Singapore to get a ship and crew with the despicable Captain Sao Feng to rescue Jack Sparrow from the land of the dead. After many betrayals and deals, they summon the nine pirate Captains to gather in the Brethren Court with the intention to release the goddess Calypso from her human body of Tia Delma and face the powerful Davey Jones and Lord Cutler Beckett.",
+         "Jack Sparrow is trapped in Davy Jones' Locker, when he finds that Will Turner, Barbossa, Elizabeth Swann and Tia Dalma had sailed to World's End to get him back. But while they are doing that, Beckket starts to get his revenge on pirates by using Davy Jones. This leads to a dramatic climax as Tia - who is really Calypso, Davy Jones' lover - unleashed a storm, and the two ships - the Black Pearl and the Flying Dutchman, commanded by Elizabeth (the new pirate \"king\" thanks to Jack) and Davy Jones respectectly.",
+         "After losing Jack Sparrow to the locker of Davy Jones, the team of Will Turner, Elizabeth Swan and Captain Barbossa make their final alliances with the pirate world to take on the forces of Lord Cutler Beckett and his crew, including Davy Jones, who he now has control over. It's not going to be easy, as they must rescue Sparrow, convince all the pirate lords to join them and defeats Beckett, whilst each individual pirate has their own route which they wish to follow.",
+         "With the East India Trading Company trying to eliminate all the pirates, Barbossa, Will and Elizabeth race to bring back Jack from Davy Jones' Locker so as to bring together all the members of The Brethren Court and launch an attack on the East India Trading Company and Lord Cutler Beckett, who is in possession of the heart of Davy Jones. With everyone having his or her own agenda, who will be the one to stab the heart and live forever to be the captain of the Flying Dutchman?",
+         "Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, and make their final alliances for one last decisive battle."
+      ],
+      "budget": 300000000
+   },
+   "movielensId": 53125,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2007-05-19",
+      "dvdReleaseDate": "2007-11-19",
+      "directors": ["Gore Verbinski"],
+      "runtime": 169,
+      "movieId": 53125,
+      "title": "Pirates of the Caribbean: At World's End",
+      "mpaa": "PG-13",
+      "actors": [
+         "Johnny Depp",
+         "Orlando Bloom",
+         "Keira Knightley",
+         "Stellan Skarsgård",
+         "Chow Yun-fat",
+         "Bill Nighy",
+         "Geoffrey Rush",
+         "Jack Davenport",
+         "Kevin McNally",
+         "Tom Hollander",
+         "Naomie Harris",
+         "Jonathan Pryce",
+         "Keith Richards",
+         "Lee Arenberg",
+         "Mackenzie Crook",
+         "Greg Ellis",
+         "David Bailie",
+         "Martin Klebba",
+         "David Schofield",
+         "Lauren Maher",
+         "Vanessa Branch",
+         "Angus Barnett",
+         "Giles New",
+         "Reggie Lee",
+         "Dominic Scott Kay",
+         "Takayo Fischer",
+         "David Meunier",
+         "Ho-Kwan Tse",
+         "Andy Beckwith",
+         "Peter Donald Badalamenti II",
+         "Christopher S. Capp",
+         "Keith Richards",
+         "Hakeem Kae-Kazim",
+         "Ghassan Massoud"
+      ],
+      "imdbMovieId": "0449088",
+      "originalTitle": "Pirates of the Caribbean: At World's End",
+      "genres": [
+         "Adventure",
+         "Fantasy",
+         "Action"
+      ],
+      "youtubeTrailerIds": ["HKSZtp_OGHY"],
+      "plotSummary": "Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems.",
+      "tmdbMovieId": 285,
+      "avgRating": 3.40936,
+      "releaseYear": "2007",
+      "numRatings": 11242,
+      "posterPath": "/bXb00CkHqx7TPchTGG131sWV59y.jpg"
+   }
+}

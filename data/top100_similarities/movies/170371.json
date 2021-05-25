@@ -1,0 +1,625 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "dancing",
+            "id": 246
+         },
+         {
+            "name": "corruption",
+            "id": 417
+         },
+         {
+            "name": "mutiny",
+            "id": 1860
+         },
+         {
+            "name": "rocket launcher",
+            "id": 2732
+         },
+         {
+            "name": "south africa",
+            "id": 3644
+         },
+         {
+            "name": "stupidity",
+            "id": 6241
+         },
+         {
+            "name": "lieutenant",
+            "id": 9683
+         },
+         {
+            "name": "burned alive",
+            "id": 9786
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "spaceship",
+            "id": 9831
+         },
+         {
+            "name": "sexploitation",
+            "id": 10053
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "outer space",
+            "id": 12405
+         },
+         {
+            "name": "explosion",
+            "id": 14601
+         },
+         {
+            "name": "battle",
+            "id": 14643
+         },
+         {
+            "name": "flamethrower",
+            "id": 18082
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         },
+         {
+            "name": "psychotronic",
+            "id": 164218
+         },
+         {
+            "name": "shot",
+            "id": 184369
+         }
+      ],
+      "imdb_id": "tt0096149",
+      "video": false,
+      "title": "Space Mutiny",
+      "recommendations": [
+         31380,
+         31129,
+         31383,
+         109122,
+         31253,
+         50505,
+         31393,
+         38269,
+         31392,
+         31282,
+         87874,
+         28445,
+         89858,
+         31245,
+         31276,
+         31123,
+         28159,
+         31258,
+         23389,
+         162042
+      ],
+      "backdrop_path": "/vV5GobAI0c732pjpiLTcPY5NR7i.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Dave Ryder",
+               "gender": 2,
+               "credit_id": "52fe44c09251416c9101b9bb",
+               "name": "Reb Brown",
+               "profile_path": "/qfwAxACTK3lGvPCfaAIIlJfJszS.jpg",
+               "id": 61144,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Flight Cmdr. Elijah Kalgan",
+               "gender": 2,
+               "credit_id": "52fe44c09251416c9101b9bf",
+               "name": "John Phillip Law",
+               "profile_path": "/rlcXnlH9FnIh7IREesu9wy6atFr.jpg",
+               "id": 29426,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "MacPhearson",
+               "gender": 2,
+               "credit_id": "52fe44c09251416c9101b9cb",
+               "name": "James Ryan",
+               "profile_path": "/nuCNqLw8Hw7B7J1qRzKi998tRkw.jpg",
+               "id": 165640,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Cmdr. Alex Jansen",
+               "gender": 2,
+               "credit_id": "52fe44c09251416c9101b9c7",
+               "name": "Cameron Mitchell",
+               "profile_path": "/59qGcBDKN1H4UysLaOEdV1PJter.jpg",
+               "id": 44728,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Dr. Lea Jansen",
+               "gender": 1,
+               "credit_id": "52fe44c09251416c9101b9c3",
+               "name": "Cisse Cameron",
+               "profile_path": "/qOJ9sKjVdmCUlk2rUOZpo8VftrH.jpg",
+               "id": 108155,
+               "order": 4
+            },
+            {
+               "cast_id": 29,
+               "character": "Scott Devers",
+               "gender": 0,
+               "credit_id": "560b908292514171a3004fac",
+               "name": "Graham Clarke",
+               "profile_path": null,
+               "id": 114457,
+               "order": 5
+            },
+            {
+               "cast_id": 30,
+               "character": "Lt. Lemont",
+               "gender": 0,
+               "credit_id": "560b909792514171a0004a71",
+               "name": "Billy Second",
+               "profile_path": null,
+               "id": 1516790,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "3rd Engineer Steve Codell",
+               "gender": 0,
+               "credit_id": "52fe44c09251416c9101b9cf",
+               "name": "Rufus Swart",
+               "profile_path": "/xg0HI510LA8QlNYVoru5xH8NzYk.jpg",
+               "id": 236336,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Blake - Enforcer",
+               "gender": 0,
+               "credit_id": "52fe44c09251416c9101b9d3",
+               "name": "Chip Mitchell",
+               "profile_path": null,
+               "id": 928762,
+               "order": 8
+            },
+            {
+               "cast_id": 31,
+               "character": "Mortuary Keeper",
+               "gender": 0,
+               "credit_id": "560b90cbc3a3686814005262",
+               "name": "Arthur Hall",
+               "profile_path": null,
+               "id": 1262560,
+               "order": 9
+            },
+            {
+               "cast_id": 32,
+               "character": "Joseph Enforcer",
+               "gender": 2,
+               "credit_id": "560b90f692514171990049f5",
+               "name": "Norman Anstey",
+               "profile_path": "/AejoYQH2tkGBqldVibUvyJVk3ik.jpg",
+               "id": 575938,
+               "order": 10
+            },
+            {
+               "cast_id": 33,
+               "character": "Chief Engineer",
+               "gender": 0,
+               "credit_id": "560b912e9251417196004918",
+               "name": "Rick Skidmore",
+               "profile_path": null,
+               "id": 1516791,
+               "order": 11
+            },
+            {
+               "cast_id": 34,
+               "character": "Kalgan's Bodyguard",
+               "gender": 0,
+               "credit_id": "560b913ec3a3686819004c73",
+               "name": "Guy Pringle",
+               "profile_path": null,
+               "id": 1516788,
+               "order": 12
+            },
+            {
+               "cast_id": 35,
+               "character": "Jennera's Voice (voice)",
+               "gender": 1,
+               "credit_id": "560b916d9251417e9e0030ae",
+               "name": "Camille Mitchell",
+               "profile_path": "/9DrBkwsqaqkhF8jiZdCsi5UPFZo.jpg",
+               "id": 1180003,
+               "order": 13
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44c09251416c9101b9b1",
+               "name": "David Winters",
+               "profile_path": "/jWKkhjexv5FJSyvbBX3DlCvFKrh.jpg",
+               "id": 29700,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44c09251416c9101b9b7",
+               "name": "Neal Sundstrom",
+               "profile_path": null,
+               "id": 140286,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8c86c3a3686817004d71",
+               "name": "Maria Dante",
+               "profile_path": null,
+               "id": 1273341,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "560b8cb292514171a3004f30",
+               "name": "David Winters",
+               "profile_path": "/jWKkhjexv5FJSyvbBX3DlCvFKrh.jpg",
+               "id": 29700,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8ccec3a36868140051d0",
+               "name": "John De Kock",
+               "profile_path": null,
+               "id": 1516780,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "560b8ce5c3a368681f004747",
+               "name": "Hope Holiday",
+               "profile_path": "/j4jpTC8PapBbWEn13b3N9yqPCxl.jpg",
+               "id": 4097,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8cfb9251417199004977",
+               "name": "Debi Nethersole",
+               "profile_path": null,
+               "id": 1268545,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8d23c3a3686810004f57",
+               "name": "Jonathan Vanger",
+               "profile_path": "/lEbPM3xqZN2qre4E4czaLMQFl1e.jpg",
+               "id": 72903,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8d74c3a368681f004769",
+               "name": "Tim James",
+               "profile_path": null,
+               "id": 46972,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "560b8d9092514171960048ad",
+               "name": "Mark Mancina",
+               "profile_path": "/lt71bHajcyP9Nk7n18Nuq6NidA8.jpg",
+               "id": 9989,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8db3c3a3686817004d96",
+               "name": "Steve McClintock",
+               "profile_path": null,
+               "id": 1273342,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8dc8c3a368680e004aae",
+               "name": "Vincent G. Cox",
+               "profile_path": null,
+               "id": 1108467,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8e17c3a3686819004c01",
+               "name": "Bill Asher",
+               "profile_path": null,
+               "id": 1162610,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8e69c3a3686819004c0b",
+               "name": "Charlotte Konrad",
+               "profile_path": null,
+               "id": 1516785,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8e8fc3a3686810004f86",
+               "name": "Catherine Meyburgh",
+               "profile_path": null,
+               "id": 1153396,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8eb1c3a3686814005216",
+               "name": "Geoffrey Hill",
+               "profile_path": null,
+               "id": 1516786,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8ec4c3a368680b004ca0",
+               "name": "Roy Rudolphe",
+               "profile_path": null,
+               "id": 1516787,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "560b8ef5c3a3686819004c28",
+               "name": "Scott J. Ateah",
+               "profile_path": null,
+               "id": 197930,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8f0892514171940047cf",
+               "name": "Roly Jansen",
+               "profile_path": null,
+               "id": 1273354,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8f1cc3a368681f0047a5",
+               "name": "Guy Pringle",
+               "profile_path": null,
+               "id": 1516788,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560b8f4092514171960048ea",
+               "name": "Trevor Fish",
+               "profile_path": null,
+               "id": 1516789,
+               "department": "Production",
+               "job": "Location Manager"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Romance",
+            "id": 10749
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 2.815775,
+      "production_countries": [
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         },
+         {
+            "iso_3166_1": "ZA",
+            "name": "South Africa"
+         }
+      ],
+      "id": 32148,
+      "vote_count": 26,
+      "budget": 0,
+      "overview": "A pilot is the only hope to stop the mutiny of a spacecraft by its security crew, who plot to sell the crew of the ship into slavery.",
+      "similar": [
+         8810,
+         10017,
+         2142,
+         3134,
+         4771,
+         101,
+         562,
+         298312,
+         261023,
+         948,
+         9093,
+         431,
+         101299,
+         72559,
+         281,
+         170,
+         681,
+         185,
+         336843,
+         14869
+      ],
+      "original_title": "Space Mutiny",
+      "runtime": 93,
+      "poster_path": "/2r4GHmSNwOcCteHZicLJpMUi4Q4.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "A.I.P. Productions",
+         "id": 18008,
+         "origin_country": ""
+      }],
+      "release_date": "1988-01-01",
+      "vote_average": 2.3,
+      "belongs_to_collection": null,
+      "tagline": "There Is Nowhere To Hide From The Enemy Within.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "South Africa",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "David Winters",
+         "Neal Sundstrom"
+      ],
+      "runtime": 91,
+      "synopsis": "Set sometime in the distant future the intra-galactic space-colony-ship Southern Sun (which bears a strong resemblance to the Battlestar Galactica) is on a multi-generational trip to a new settlement. Tired of his fate to live and die on the ship, Kalgan (John Philip Law), the head of the Enforcers who are tasked with the ship's security, causes an explosion in the Southern Sun's docking bay just as a fighter is landing there. The decorated fighter pilot, Dave Ryder (Reb Brown) survives the crash via an emergency teleportation system, but his passenger, Professor Spooner is killed in the the crash, which causes serious damage that puts the docking bay out of commission. Ryder is taken to see the Southern Sun's commander, Alex Jansen (Cameron Mitchell), who accepts Ryder's account of events, though his daughter Lea (Cisse Cameron) flies into a rage at Ryder and accuses him of abandoning the Professor to die. Despite this less than harmonious introduction, the two quickly become friends, and it becomes clear that Lea is strongly attracted to Ryder. Just before the docking bay accident, a group of witchcraft-practising female aliens named Bellerians are brought on-board. While they never interact with the main characters during the course of the film (aside from a brief scene in which their leader Jennera consults with Commander Jansen), it is implied that they influence the actions of the lead protagonists, and also covertly help them by seducing Enforcers, which causes Kalgan to execute them for their seeming incompetence, thinning out his own forces. Meanwhile, Kalgan meets with his main co-conspirator MacPhearson (James Ryan), the ship's chief engineer who feels unappreciated for his part in an incident in which he prevented a major disaster, but was severely injured and left unable to walk without aid. MacPhearson informs Kalgan that it will be several weeks before any ship can land or take off from the Southern Sun, which will give Kalgan and his forces time to take over the Southern Sun and force her to land; to that end Kalgan has also enlisted the aid of space pirates from the nearby Corona Borealis system. MacPhearson then consults with his engineering crew, and all bar one of them agree to join the mutiny. The sole dissenting engineer, Parsons, accuses them of treason and threatens to report them to Commander Jansen, which results in the other engineers quickly turning on and killing Parsons. Shortly thereafter, a maintenance engineer named Codell discovers evidence that Kalgan caused the explosion in the docking bay, and after informing a bridge officer, Lt. Lamont of this, begins making his journey to the bridge to inform Jansen. Kalgan intercepts him on the way however, and offers him a choice - join the mutiny, or be put in the \"deep freeze.\" Codell instead chooses to commit suicide. That night, Lea is flirting with Ryder in the ship's disco, when a pair of Enforcers arrive and ask for Lamont, who is also at the disco. She leaves the disco and is immediately shot dead by Kalgan, who leaves the scene in an electric kart. Ryder and Lea both overhear the whole thing and chase Kalgan down in another kart, eventually arriving at the \"deep freeze.\" This turns out to be a room in which troublesome officers are stored in cryogenic suspension; when Kalgan takes over the Southern Sun they will be thawed out and given one further chance to join Kalgan's forces, or be ejected into space. Kalgan and more Enforcers then arrive, and Ryder and Lea are heavily outnumbered and forced to flee, but now have solid evidence that there is a conspiracy and that Kalgan is the ringleader. Ryder is thusly promoted to being the ship's new security chief, just before the Southern Sun encounters the space pirates. Thanks to Ryder's leadership, the Southern Sun easily defeats the pirate ships (which look uncannily like Cylon Basestars) without taking any serious damage. Knowing that he cannot now rely on outside help, Kalgan abducts Lea and threatens to kill her if Commander Jansen does not voluntarily give up control of the Southern Sun. Not wanting to rely on Jansen giving into his demands though, Kalgan begins torturing Lea for information by using a laser-like device on her teeth. During this MacPhearson arrives and gives Kalgan a progress report, causing Lea to realise that he too is a part of the conspiracy. Acting on his own authority, Ryder goes into the bowels of the Southern Sun and knocks out an Enforcer, taking his uniform. Lea, meanwhile, has been left under the supervision of a single security guard who she pretends to seduce, then she knocks him out and steals his uniform just as Ryder arrives. After a few more encounters with Enforcers, Ryder and Lea escape and return to the bridge. An infuriated Kalgan realises that with his main bargaining chip lost and the command crew now aware that MacPhearson is involved in the conspiracy, he has no option but to take control of the ship by force. The mutiny begins in full, with both sides taking heavy losses - in particular, many officers fall to their deaths over the various railings dotted throughout the ship. Eventually Ryder sets off an explosion that traps most of the mutineers in that section of the Southern Sun, but both Kalgan and MacPhearson escape. MacPhearson isn't able to get very far and resorts to hiding in a gas expulsion sump. Ryder (implied to be under the influence of the Bellerians) fills the sump with methane gas which he then ignites, causing a fire which burns MacPhearson to death. With Kalgan the only mutineer still at large, Ryder and Lea pursue him into the ship's bowels in an electric kart. Lea gets knocked out of Ryder's kart, which she then accidentally disables by shooting it in an effort to take out Kalgan, who in turn rams Lea with his own kart, causing her a slight injury. After getting his kart working again, Ryder aims it at Kalgan's kart and drives toward it at full speed, diving out of it at the last second. Kalgan is unable to dodge it, and is apparently consumed in a massive explosion. The mutiny seemingly thwarted, Ryder and Lea apparently make preparations to get married. Later however, it turns out that Kalgan survived the explosion, ending the film on a cliffhanger.",
+      "writers": ["Maria Dante"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0096149/",
+      "coverLink": null,
+      "actors": [
+         "Reb Brown",
+         "John Phillip Law",
+         "James Ryan"
+      ],
+      "reviews": [
+         "Yeah, the film industry is not what is was when Ed Wood was directing, and B-movies don't get released in theaters anymore; but they do get released on video. And we should be glad that they do, at least in the case of Space Mutiny, 'cause it may be the single most unintentionally hilarious movie ever made. Don't believe me? Just take a look at these numbers: # of times our ostensible \"hero\" screams in panic: 17 # of jumpsuited extras flung into the air with pneumatic catapults: 14 # of insertions of \"Battlestar Galactica\" footage: lost count around 40 # of previously seen shots edited in:15 # of times the Enforcers refer to each other as \"idiots\": 7 # of off-the-shelf glowing balls in the Bellarian scenes: 8 # of times Ryder or Kalgon yells at someone to \"MOVE!\" or \"GO!\": 26 # of occasions Kalgon starts laughing for no apparent reason: 18 # of minutes you get to watch grown men trying to kill each other with golf carts: 5 # of railing kills: 24 (may have missed a couple) Don't pass up a chance to see this; one of these days, someone involved with it is going to get embarrassed enough about it to try and have all the copies destroyed.",
+         "Ah, Space Mutiny, definitely one of the best Mystery Science Theater 3000 episodes, it's one of my favorites personally. I think the reason why this is such a great episode is due to the fact that this film is just so unbelievably bad, you know? I mean these are the kind of movies that you just look at and question constantly how it got green lighted since it's just such an awful film. I'm not just saying bad, I'm saying that there must have been about 5 million things wrong with this movie. There are tons and tons of continuity problems, a woman who dies in one scene, then the next scene she is a noticeable extra that's alive and well. The \"hero\" of the film has extremely horrible acting qualities, not to mention that he screams like a girl. The \"sexy lady\" of the story looks like she's in her late fifties and again, her acting is lousy. The \"villain\" won't stop with this ridiculous laughter. The story itself is just a bad one. The people in space on the Southern Sun are supposedly happy and looking for a new world to create something new and peaceful. But some apparently have grown impatient, like Calgon(yeah, that's the villain's name, sad, isn't it?) and his \"wise\" followers. But the leader of the Southern Sun, who looks a lot like Santa Claus, wishes peace, so he assigns Dave Ryder to save the day. Along with Santa's daughter, Lea, she and Dave pretty much have to out maneuver Calgon, just for God's sake, who couldn't? I mean the man's body guard looks like a lobster. Space Mutiny is just in general a very bad film. I mean Mystery Science Theater 3000 sometimes gets some movies that are not so bad, but Space Mutiny is one of those films that is all around just a bad mistake. I'm not sure if they people who made this movie really looked at it in the editing room and really thought that this was an excellent or decent movie. The acting, the editing, the continuity, THE COSTUMES, the sets, the actors, everything about this movie was just plain bad. The sounds and script was just so laughable. Space Mutiny is not even good enough to be a cult film, the only thing that this film was good for was just the fact that it made one of the best Mystery Science Theater 3000 episodes. But I have to admit that Calgon did blow me away, lol. 1/10",
+         "Watching \"Space Mutiny\" is the metaphorical equivalent of drinking cat urine...there's no way it can be any good for you, so why even try? The special effects in this film are, I'm not kidding now, stock footage from Battlestar Galactica (played backwards, in some cases), or shot on what appears to be low-resolution video using models probably built from discarded \"He-Man\" toys. Unfortunately, that's about the best thing in the movie. The acting...my God, the acting...I have NO idea who came up with this dialogue. Reb Brown is ridiculous, John Philip Law is absolutely NOT to be believed, and the rest of the cast, as well as the costumes, look like outtakes from an episode of Buck Rogers! (The second season...the really STINKY one!) The whole damned thing looks vaguely like a fever dream I had as a child after drinking sixteen cans of \"Jolt\"...and it's equally incomprehensible. My God, they actually announce the arrival of a pirate fleet by having some dope on a microphone say, \"This is the pirate fleet...surrender or be turned into astro-dust.\" I think they shot the whole thing in a brewery with Go-Karts and used the same shot of a hops bin blowing up no less than four times. This movie has to be seen to be believed. I actually bought a copy for three dollars, just so I could show my friends that I was NOT making it up. Run, don't walk, away from this film. 0.0 stars out of a possible five.",
+         "OK, folks! Don't worry, I won't be giving away anything important, although I don't think I could spoil this movie if I tried. So off we go... As what sounds like Kintaro's arrangement of 'O Fortuna' wafts our way, we are subjected to the film's opening credits. They look like they were produced by a Commodore 64 and they freeze up more than once because there are too darned many moving objects on the screen. Welcome to Battlestar Galactica-- I mean, the Southern Sun! This ship is home to an entire civilization, despite the fact that 90% of it appears to be a brewery. In charge of this magnificent flying basement is Captain Santa Claus, assisted by his Billy-Idol-wannabe sidekick. I've seen this movie at least a dozen times and still am not really sure what the plot is, but it has something to do with a greasy-haired guy named Kalgan trying to disrupt the transportation of a bunch of magical -- and (of course) extremely horny -- women. Santa puts our seemingly brain-damaged hero Ryder in charge of defeating Kalgan. Meanwhile Captain Santa's daughter Leah, who somehow doesn't seem much younger than the Captain himself, gets pretty chummy with Ryder. In the words of Crow T. Robot: \"If you pretend you know what's going on, it's actually kind of exciting.\" Watch and enjoy the following: Vacu-formed unitards, ridiculously small weapons, Santa's incredibly fake beard, tinfoil muu-muus, Kalgan's giggling fits, Ryder's bizarre reaction shots, a woman who punches in at work despite the fact that she was just murdered, Leah's sensual Dance of the Hoola Hoop, the most '80s bar scene EVER, women who reeeeeally like Van DeGraf Generators, countless shots of computer screens (graphics by Kenner), Ryder's attempt to say 'auxiliary', and numerous molasses-fast chase scenes involving golf carts... or floor waxers or something. This movie is not campy; it's just that everything is wrong in all the right ways. Acting, sets, lighting, costumes, dialogue... they're all just plain goofy. These folks tried to make an exciting space-drama -- and maybe it would've been if they had dared to take ANYTHING up a notch -- but every aspect of it just says, \"space movie\" and nothing more. If this movie was just plain bad, you might have to feel sad for the people that made it, thinking it would work. However, it makes such a leap into the ridiculous that you just have to laugh. A must-see for fans of so-bad-it's-good movies. And whether you love or hate sci-fi, this is a very funny movie. I give it a 4 -- it may not affect you the way it's supposed to, but it's great entertainment.",
+         "I actually quite enjoyed this film. Well, I enjoyed laughing at Mike and the Robots comments on it anyhow. The film itself is just the worst kind of awful you can imagine. For a start, the budget for any real effects was obviously non-existent, so they stole LOTS of shots from Battlestar Galactica. These scenes occur early on in the movie mostly, and lead you to think that (apart from the plagiarism)it might not be too terrible. Wrong! After the initial ten minutes the Galactica stock-footage is rarely seen again, but the inside of various industrial buildings is seen almost constantly. I was thinking \"Ah, a late 70's, early 80's era film\" where any old chemical or power plant interior would do as \"futuristic\" sets. Wrong again! This \"movie\" was made in 1988, not even twenty years ago! It's like the makers went through a time warp to the late 70's, made the film, then brought it back for our delight. But the plagiarism, in another form, continues right through the movie. The sound effects of the lasers are ripped straight from Battlestar Galactica again, and also, later on, the sound of the lasers from Battle Beyond the Stars makes an appearance. Then there is the acting. Or rather, the awful lack of it. Particularly bad is Chunk Benchpress (aka Reb Brown) who lumbers around the sets trying to look dashing and heroic, then spoils the image by screaming like his 'nads have been caught in a food processor. The love interest for Chunk is old enough to be his mother (or maybe even grandmother!) and bares altogether too much flesh for someone of her advancing years and plastic surgery. The commander of the ship on which the mutiny takes place is Cameron Mitchell, an actor of some note. What the Hell he was thinking in being in this is anybody's guess. But, bad though his choice of movie is, it's nothing compared to the ridiculous Father Christmas beard he's made to wear. It looks sooooo real nobody will be able to tell its a fake. Not! And finally, the main cast is rounded off by John Phillip Law, another actor who has some credit to his name (At least prior to this turkey). Obviously he yearned for his wacky Barbarella days again and signed up for this abomination. I could never decide here whether he was actually trying to act or just hamming everything up. Suffice to say his maniacal cackling at even the slightest provocation ceases to be funny after the tenth or twentieth time. Other things to watch out for are the stupid golf carts done up to look like futuristic transportation. The cheap body shells wobble like they're only held on with tape and the \"chase\" scenes are just hysterical. It's like you've tuned into a re-run of The Banana Splits Show. Try humming \"Tra-la-lah, La-la-la-lah!\" as you watch and its even funnier. I won't mention the plot, because there really isn't one to speak of. Just a flimsy premise that people who were actually born in space are more likely to yearn for a real planet to live on than those who came from a planet, which sounds counter-intuitive to me. Or in other words, just plain dumb. Watch it as an MST3K episode and this one is great. Without their comments it might be rather too much to handle for any normal person. It thoroughly deserves its place in the bottom 100 of the IMDb. You have been warned!",
+         "In the words of that wonderful jerk Lloyd Kaufman, \"make the damn movie!\" And so they did. And lo, it was craptastic. And lo, thus spake the Video Gods, \"what manner of 'film' is this, with its ripping off of stock footage from a rip off of STAR WARS, with its truly bold disregard for narrative or irony? What 'film', indeed, could reach as high for cinema glory and yet fall so far, landing with the same wet SLAP as an anonymous henchman, thrown by cruel fate from a high place, over a safety railing and onto the cold hard concrete of a star cruiser's deck!?\" And the Gods realized, it was no film, it was a SPACE MUTINY, a mutiny in space, a title in search of a movie in search of a purpose. And only by seeing this... 'film'... alongside its spirit-brother YOR THE HUNTER FROM THE FUTURE could the Video Gods or the viewer grasp the heady funk that permeates the film stock, that saturates Reb Brown's being and inundates the wall mounted keyboards and smothers the awesome \"Enforcer\" fleet. Only by seeing, could they disbelieve. \"No!\" they cried, \"This is low budget garbage! It has no right dressing up in someone else's space battles, in using someone else's industrial complex! What wyrd spell did the creators cast over John Phillip Law, that he would overact so grievously? What half formed fever-dream produced the bodacious 'Bellerians' and the grungy Galcti-Disco!? We demand explanation! We demand accountability!\" But there was none to be had. The director and the producers, the editors and the best-boy and the clapper, had sunken into the depths of creative obscurity, yet there was no stopping the SPACE MUTINY. Like a wounded beast it flailed onto the video shelves, daring to be watched, daring to be endured... daring to be mocked by a lonely man and his puppets. Explanations, reasons, themes or resolution, all had no place in this movie's galaxy. Only ham-fisted acting, dubious editing, and half-baked monologues reigned. And so it shall be, until the future comes and the prophecy of the Bellerians, of the SPACE MUTINY, is borne out. Amen. Amen to Kalgan and to auto-reloading bazookas. Amen. Endure the SPACE MUTINY. Be prepared.",
+         "Run, don't walk! Use those pneumatic catapults that launch jumpsuited terrorists through the air to escape this drivel. This movie shows just how limiting a small budget and a lack of imagination is. Footage lifted from Battlestar Galactica is edited into something that resembles a story. Can't really tell. There's a large slab of beef walking around that's supposed to be our hero. Santa Claus commands this barge with the help from Sting. His daughter looks like Sheri Lewis gone bad and they fight the evil Calgon! Watch this one on MST and watch for the dead girl who comes back to life and resumes her post on the bridge.",
+         "I must agree with that quote. This movie royally sucked. The plot and acting are terrible. The special effects are somewhat good, but they are ripped off from Battle star Galactica. The MST version of course rocked. That's where I got that quote which was just hilarious. I will say one good thing about this movie: It was awfully nice of them to give that dead woman a second chance. Anyway, this movie was terrible and deserves to be on the bottom 100. Never watch it without Mike, Tom Servo and Crow.",
+         "This is a film that was riffed on by Mystery Science Theater 3000. There may be debate on whether a film deserves the riffing, but this one most certainly deserves all the ridicule one can muster. A film that takes place on a spaceship, but the only reason you would even know this are the occasional outside shots showing the ship flying or the dogfights; however, those outside shots are not even from this film, but rather old clips from the television series Battlestar Galactica. The rest of the film looks like they shot in a high school for the bridge scenes, the futuristic bar scene and the Ballerines' room and all the fight scenes take place in a factory. In some of the scenes you can clearly see the sunshine coming through the windows. Do not get me wrong, there were a lot of bad science fiction films made during this time, but this film makes Roger Corman's stuff look amazing! It was certainly done on the cheap side of things, but I guess the hope is that you make it as incredibly cheap as possible and hopefully you can trick people into coming into the theater to see it with an awesome poster. Which could be done back in the day as there was no internet and suffice to say that trick did work on my parents a couple of times. Thankfully, they did not have to sit through this horrible train wreck and neither did I, that is until the gang from the Satellite of Love took no prisoners! The story is a mess. You start out getting a voice over explaining that what is left of the people of Earth live on this large spaceship and that they are content to live there; however, there is a faction that wishes to leave said ship. Granted, I cannot say I blame them for wanting to leave if that futuristic bar is an example of the entertainment! Well there is a space battle that is completely random and is just a clip from Battlestar Galactica and then we meet Ryder who is beefy and the only one who can take out Kalgon and his evil army! Ryder falls in love with the commander of the ship's daughter. The daughter looks about the same age as her father as we get a woman trying to play the role of someone younger. Not going to say she looks bad, but she does look too old to be playing the love interest. There are kidnappings, betrayal and strange women who are called Ballerines that really serve no purpose... This film was rightfully riffed by MST3K as it is kind of a mess. They riff the fact there are a lot of people flung over railings and rightfully so as there are a lot of people who get killed and then get flung over a railing! The woman's age is also a running joke as is the beefy hero. The most ridiculous thing that occurs in this film is when they start chasing each other in little carts that go at an extremely slow speed making one wonder why they do not just run or something? So, this is a bad film as the best parts are the clips from an old television show. Too much going on that makes no sense as you have random space pirate attacks that really go nowhere and people wrapped in plastic. Kalgon seems to be nothing but a mere human, yet they act like he is a super powered foe and how exactly did he gain so much power? One also has to wonder why they cannot just leave the ship as Ryder the hero came on board and came from somewhere else. Just a mess, as this one has virtually no redeeming qualities. Makes another Reb Brown film, Yor, the Hunter from the Future look great by comparison.",
+         "Flint IronStag, Bulk VanderHuge, Thick McRunFast... How bad does a movie have to be when it can't even afford special FX, so it has to borrow visuals from a TV series like \"Battlestar: Galactica\"? As bad as \"Space Mutiny\". Blast HardCheese, Punch RockGroin, Buck PlankChest... And this one is really bad. Scratch that: really really really REALLY bad. Bad like a room full of dirty socks. Bad like listening to Yanni music for the rest of your life. Bad like a prison haircut. Bad like that tux you wore to the prom. Stump JunkMan, Dirk HardPec, Rip SteakFace... The story might have worked (members of expedition to new planet revolt against captain, crew), but they blew it from the moment they used old Commodore graphics for the starting credits and an old Casio keyboard for the theme music. Slate SlabRock, Crud BoneMeal, Brick HardMeat... The cast helps nothing by containing the likes of such once-respected actors as Cameron Mitchell, James Ryan and John Phillip Law (yes, he was respected once) in the cast. The sight of Mitchell in his bushy white beard makes it look like he should be handing out toys to the cast and inviting them to sit on his lap. Rip SlagCheek, Punch SideIron, Gristle McThornBody... Has anyone seen Cisse Cameron in anything other than this movie? No? Probably a good thing, especially after watching her \"seduction\" scene with that bald guy and trying to dance seductively with a hula hoop. It's like watching your grandma in a strip club. Ewww.... Slate FistCrunch, Buff HardBack, Blast ThickNeck... But the worst offenses are committed by \"hero\" Reb Brown, all beefed-up and steroid-enhanced as a space jock who screams, shouts, whines and will make no one forget Sam Jones when he played \"Flash Gordon\" so many years back. Crunch ButtSteak, Slab SquatThrust, Lump BeefBroth... And has anyone ever seen a spaceship with brick walls, warehouse windows and cement floors? Me neither. Jeez, even the old Roger Corman sci-fi flicks had better set design than this. Touch Rustrod, Brief Blastbody, Big McLargeHuge... And as if you haven't guessed, the only (and I mean ONLY) way you'll ever get any enjoyment out of this mess is by watching the MST3K version with Mike and the Robots throwing every last bit of pretension this flick had over one of its innumerable rails to the floor far below. Smoke ManMuscle, Feet PunchBeef... Two stars for \"Space Mutiny\", ten stars for the MST3K version (plus five special stars for all the superlatives for Brown). ...Bob Johnson?",
+         "Okay, okay - obviously this is a piece of crap, if there ever was one. But it's terribly funny! I nearly laughed myself to death when watching this for the first time and I immediately got to the store and bought a copy for my collection (and I even didn't have the treat of MST3K, but had to stick with the original version). Where else do you get this share of incredibly bad acting, production values that indicate a budget of about the average amount in my wallet (the vision of brick walls on a space ship makes me giggle even now), the most hilarious car(t) chase ever made, Galactica-stock footage in a quantity you can skip three entire reruns of the series - hey, I think I have to go and see it once more right now... This IS \"Plan 10 from outer space\"... it's the ultimate party movie!",
+         "Never have I laughed this hard. Space Mutiny is one of the single most horrible movies I have ever seen. Fans of MST3K will know what I mean when I say it compares to Manos: Hands of Fate in bad acting, and Zombie Nightmare in horrible script. The \"space age\" motif with the clothing and 80's club scenes are great, and more then once I felt like as though I were stuck in simultaneous pain/hilarity. One of the best parts about it was the pointless nature to the scenes with the alien women, in which they dance around in leotards and veils with globes bought frequently in ever souvenir shop since 1986. A must see for any fans of bad cinema...I give this movie 10 stars and slap in the face to the writers.",
+         "Well, I had to give this a 10 only because I don't feel it belongs at the VERY bottom of the list, it does lack plot.. well ORIGINAL plot that is, and special effects, and ships, and.. well I think you get my drift, but, By itself the movie is a tad cheesy.. BUT, when handed over to the crew of the Satellite of Love it turns out to be fairly funny.. and I find myself picking on it.. So PLEASE for the love of God, give this a little more respect than a lousy 1 or 2.. I mean a 4 would be nice, not to mention FAIR.. Mike",
+         "This is one of the two or three worst movies ever made by anybody. How anyone could have thought this was a good idea and how so many actors with actual careers(including the once-formidable Cameron Mitchell) could have agreed to be in this abomination boggles my mind. Space Mutiny is so bad that it's funny all by itself, I watch it all the time(at least the MST3K version) and I'm nowhere near tired of it. What's wrong with it? Just about everything. It had no budget and its editing was so laughably inept that it had more continuity errors than any ten movies. Here are ten reasons why censorship is not necessarily a bad thing and why this movie ought to be banned from polite society: (1) All of its \"outer space\" footage was stolen from Battlestar Galactica. (2) Since they didn't have enough money to create a fighter with actual controls, every shot of Our Hero, Reb Brown, in his Stingray Viper doohickey is a close-up. Apparently, you can fly those things merely by flipping switches on and off. (3) They also didn't have enough money to create sets of the big ship, called the Southern Sun, so most of the interior shots of the \"spaceship\" are filmed in a factory/processing plant. So you can seen actual windows here and there and some of the walls of this \"spaceship\" are made of brick and the floors are made of concrete. And it's not a particularly clean \"spaceship\" either. In one shot, you can see Our Hero, Big McLargehuge's footsteps raising dust as he runs. (4) Whoever designed the costumes of this thing hasn't seen a sci-fi movie made after 1957. Most of the woman were basically in bathing suits or miniskirts and some of the men were in these ridiculous things with ridiculously wide shoulders. Our Hero Slab Bulkhead's \"spacesuit\" was standard-issue 50's space movie and his helmet had lights that flashed for some reason. And some of the crew wore a patch with the Southern Sun insignia, a black patch with two S's in silver. Wonder if anyone had any second thoughts about that? Then there was Cameron Mitchell's ludicrously fake beard which brought out lots of Santa references in the MST3K version (5) The villain, a guy named Calgon(boo!), should have had a handlebar mustache given his tendency to cut loose with an evil laugh for no reason all through this thing. (6) I still can't figure out how the chief engineer got the job at all considering that he sounded like a borderline psychotic for most of the movie. (7) Apparently, in that time and space, \"sexy\" dancing consists of cavorting with hula-hoops to bad techno and showing one's rear end a lot. (8) Several times during this thing, shots were reused. The same explosion, the same take by Calgon(boo!) and the same party happened more than once. (9) In the climactic chase scene between Calgon(boo!) and Our Hero Bob Johnson, the two men banged golf carts repeatedly. Then Our Hero screams for some reasons and leaps out of his golf cart which slams into Calgon's(boo!) golf cart resulting in a huge explosion. And the best one of all: (10) A woman is killed in one scene and is back at her post a few moments later. Space Mutiny is so horrendous that it's positively impressive.",
+         "I now think I have found the funniest sci-fi movie ever made, though I am sure these folks would not appreciate this distinction, as it was NOT intended as a comedy! In fact, this film is far funnier than \"Space Balls\"! I knew the film was a crap-fest when I noticed at the beginning that the space scenes were lifted straight from the TV show \"Battlestar Galactica\"! Think about it....they lifted scenes from a second-rate show to make a third-rate movie! To anyone who saw the original show, it's obvious! The movie is about, of all things, a space mutiny. While I could talk about the whys and hows and all that, the bottom line is that the entire film is horribly written, horribly acted and the special effects are poo---and who really cares about the dopey plot--I know the film makers didn't! John Phillip Law plays the most over the top and dopey bad guy--and he's even less subtle than Ming the Merciless from \"Flash Gordon\"! The way he laughed like a maniac and snarled all the time made you wonder HOW he could organize a mutiny--nobody that obviously deranged could get anyone to follow them (except, perhaps people with a net). In fact, those who did follow him apparently were blind, as all their laser shots missed their targets again and again. In fact, in scene after scene, the good guy took on several dozen baddies and ALWAYS won because they simply couldn't hit anything! Now this is NOT to say the good guys were all that accurate either. In the funniest scenes in the movie, there were super-low speed chases using bumper cars and literally the guys were 10 feet apart and kept missing! The bottom line is that everything about this film screams \"turkey\" from start to finish. Everything is lousy and stupid...period. And, because it is so bad, you can't help but laugh, and laugh, and laugh! Some things to look and laugh at include the disco scene where ladies dance with hula hoops, the alien ladies who are all dressed like the women from \"The 20 Minute Workout\" who gyrate and the way Cameron Mitchell is dressed up like Santa! It's all a hoot--a bad movie that is so bad it makes you laugh.",
+         "you won't stop laughing. one of the funniest and most ridiculous movies i've seen. even with stolen footage from 'battlestar gallactica', you just watch this movie and think \"why the hell would anyone make this movie?\" and then you think, \"i have no freakin' clue, but i sure am glad they did.\" and then you take another puff. well, despite its all star cast with superb delivery, reb screaming like a woman towards the end is the best part. that and tooth 'torture'. and the disco party. and the obviously evil guy. and the lasers that change direction as soon as they leave the barrel of the gun. and the go cart battle. like i said, this movie is hilarious!!! finally, my heart goes out to all the stunt men who lit themselves on fire for this flick. i sure hope all of them survived.",
+         "And by this I mean totally devoid of a SINGLE redeeming quality. I watched it on the MST3K compilation which also had a made-for-PBS stinker starring Raul Julia called Overdrawn at the Memory Bank, which my wife disliked, but I compared to The Matrix in idea and which predated The Matrix by many years, so I defended its spirit if not its quality (which was humorously questionable). After watching Spacy Mutiny (which I could tell was going to be a Star Wars rip-off just from the title, never mind that the \"sexy\" main characters names were Ryder and Lea) I told my wife that as far as compared to that ridiculous movie, Overdrawn at the Memory Bank was smart, thought-inspiring, and heartfelt. **I HATED SPACE MUTINY**! Of course, the \"worst movie of all time\" would be a few seconds (or a few hours) of a camera pointed at a pile of s*** still steaming, but nobody spent hours editing it, planning it, casting it, designing costumes, lights, set, directing it, choreographing the dancing aliens. People did this work for Space Mutiny, and none of it made this movie more interesting than a movie about a steaming turd. I was most impressed by all the work some programmer from Digital put into the special effects, and by special effects I don't mean the space fighting scenes (which were apparently stolen from Battlestar Gallatica), but the computer graphics (out of an early eighties home computer)which actually followed the plot of the movie better than the editor of the movie, who put scenes of a woman in the film after she was shot and killed by Calgon the incessantly laughing bad guy, five feet away from the \"nightclub in space\" where people danced with hula-hoops. I also was impressed by some of the stunt men, who threw themselves off of extremely high railings in interesting positions; too bad the particular fight they perished in (appently the climax of the movie) was horribly staged, the music was insipid keyboard noises, the main characters were in plain view and consistently shot at and missed from mere feet away. . . (I'm just stunned at the ineptitude of this film.) It was released in 1988, but couldn't have been made later than 1983, so I don't know how or why it was released. Having only seen the Mystery Science Theater version, I am assuming that there was a few sex scenes cut, otherwise the psychic-alien-sexy-women-dancing-with-plasma-balls Balarians were, so. . . unnecessary. . .(Shaking my head in disbelief). I recommend any MST3K video. Its just that I thought I was watching the last MST3K episode, cause I didn't think anything could get any worse, so they must have saved this one for last.",
+         "That veritable deity of Bad movies, Reb Brown stars in this highly enjoyable trash classic. When one sits down and watches a film of this calibre, there's simply no point in trying to be critical of its shortcomings because basically pretty much everything is wrong with it. In fact, it's best just to sit back, relax and enjoy the disastrous spectacle on display. So for fellow trash fans, what do you get for your moneys worth here? Well, First and foremost Reb Brown! And yes, he gets to perform some of his trademark screaming to!!! (although sadly not as much as in the classic Strike Commando) Our Reb is joined for the ride by none other than John Phillip Law who is clearly having a whale of a time with his material and proceeds to ham it up hilariously with his constant maniacal laughter and over acting. Also of intrinsic mention is the much talked about stolen \u0096 erm, I mean 'borrowed' footage from Battlestar Gallactica(!!!),a number of daft chases involving what look like slightly modified mobility cars (and which move at about the same velocity!), some really weird scenes of dancing mystics (note: sexy women!) which make for very little sense whatsoever(!!!), a hola-hoop disco scene(!!!!!!!!!!!!!), some pretty risible special effects throughout and of course bad acting aplenty from the rest of the bemused cast. Well, what more could you ask for in a film?! In fact, why are you still reading this review?! \u0096 Go out and grab yourself a copy of this flick right now\u0085..",
+         "This film is beautiful for so many reasons, and yet many do not see that beauty. You have to look past the bad acting, bad special effects, and cheesy dialogue to see it...But trust me, it's there. It's a prime example of a film that's so bad it's good, grab some popcorn and some friends and get ready for a night of side splitting fun. No you're not going on a killing spree, this film has a bad movie appeal that will leave a smile on your face afterwards instead of regret...Regret you might feel after spending hard earned money on something like Kicking & Screaming or whatever Will Ferrell's latest comedy vehicle is. Space Mutiny is a bad film you won't regret, watch it for what it is. Sure, one could sit back and take a serious look at this film and dissect it critically, but I for one like to enjoy a film for what it is...And this film my friends, is pure \"so bad it's good\" gold. Melt it down in your critic's cauldron if you must, but why waste time taking a critical approach to something that was way ahead of it's time and reached new heights in bad movie history. It's one of the best of the worst in my book and deserves a spot on anyone's movie shelf who enjoys bad acting, bad dialogue, and bad films in general.",
+         "This is by far the FUNNIEST space adventure that ever existed! How can anyone say it is bad? I did the score to this when I was starving and we laughed so hard through out that it was sometimes hard to focus...but we made it through. The footage from the old TV show was classic and the acting...beyond perfect....in the worst of ways! Reb, the main character probably hung up his acting shoes after this one...but he should have worked it...Space Mutiny shows at Midnight...right before Rocky Horror Picture show.. So glad it is still getting action out there... Of all the C films I did...this one definitely stands out as the finest! Enjoy!",
+         "In another context (I think it was during 'Devil Fish'), Crow T. Robot from MST3K said that what they were watching wasn't so much a 'movie' as sort of a 'movie loaf'. Ditto here. This movie looks as if someone actually spent some money on it - they secured a decent cinematographer,some real stunt men and fight choreographers, built acceptable sets (except for the 'futuristic' computer banks with their wall mounted keyboards and Formica monitors and the laser equipped golf carts) and used good film stock and decent lighting, along with mostly OK costuming (excepting the spandex leotards for the women crew and the female lead); they even got two B grade actors who have been good in other features (Cameron Mitchell and John Philip Law). In fact, JPL is perfectly capable of carrying a film - see 'Diabolik',for instance- which gives hope that the movie might be watchable, in a SCI-FI channel movie kind of way. But someone forgot to sit down and write a coherent story and script for all the actors, sets, swiped stock footage and fight choreography to be about. Instead we get a whole bunch of sequences that don't link together or go anywhere and a whole slew of story ideas and plot elements that trail off into nothingness. There are space witches in spandex; there are mutineers, there is jarring space battle footage from Battlestar Galactic juxtaposed with TRS-80 Color Computer graphics; there are inane golf cart battles; there are railing kills by the dozen; there is a kidnapping and rescue mission that affects nothing else in the course of the movie; there are 'counter measures' that never materialize and villains that give up for no apparent reason when the good guys are in retreat; there are 'space pirates' who are developed as a looming threat for the entire first half of the movie only to be defeated in 15 seconds when the Adama stand-in flips a switch and unleashes stock footage of two missile launches. That's a fair sampling of the way the movie fails to jell or come together in any way. And there are MANY lapses in judgment and taste along the way that take this movie to the next level of absurdity. The big one is the casting of the leads. As Mike Nelson once said about Miles O'Keefe, Reb Brown isn't an actor, he's a Body. He can move well,and he can enunciate most of his lines without blowing them, but he is so far in over his head with this mess that it isn't funny. Far worse is the choice of Sissy Cameron as the female lead. She's 35 years too old for the part, far too brittle and self absorbed to be a Princess Leia stand-in and not all the Jazzercise, face lifts and Metrecal in the world can disguise it. Worth seeing for the MST3K version, which is hilarious, or by itself as an object lesson in the importance of having an overarching vision for a movie before you start filming it.",
+         "This movie is by far my absolute favorite of all time. For me it is the most intelligent, philosophical and high-brow science fiction movie since \"2001\"! It simply is the \"Citizen Kane\" of SF and I wonder why it was not even nominated for an Oscar. \"Space Mutiny\" has a more fantastic and innovative story than \"Star Wars\" and more emotion than \"Love Story\". It's an amazing, fantastic, breathtaking movie about the mysteries of life, love, space and time. But the best of it are the special effects: In an unique act of humanity it took away hard work of dozens of effect specialists by simply borrowing nearly all effects by \"Battlestar Galactica\". For that brilliant idea alone it deserves an Academy award!",
+         "I think it is common knowledge by now that the 80s were being plagued by a flood of all kinds of sci-fi movies in order to exploit the tremendous success of the 70s \"Star Wars\" and \"Close Encounters of the Third Kind\". We also don't have to discuss the fact that a majority of these movies was complete and utter rubbish, to be perfectly frank. But with \"Space Mutiny\", we don't just have a movie that is just a cheap rip-off of Star Wars. Oh, don't get me wrong, it certainly is at heart, but this movie actually accomplishes the herculean task of representing the absolute, sad bottom of the barrel of the 80s sci-fi shlock. No, \"Space Mutiny\" is not just \"Solarbabies\"-bad. We're talking about a movie that is \"Robot Holocaust\"-bad, and if that does not scare you away already, then you are tougher than the casual movie-goer. With a movie this dreadful, it is difficult to decide where to begin with mentioning the various glaring faults this cinematic abomination tortured us with, but I think the no. 1 reason for this movie to suck so bad is the non-existent budget. At least I was unable to realize that this movie even had a budget higher than 1000$ during most of the scenes, and that's the death twitch for this flick. The story is supposed to take place in the far future, on a self-sustaining, gigantic space ship called \"Southern Sun\", carrying hundreds of people on a mission to colonize new worlds. Unfortunately, the sets and art design are unable to establish this premise at all. In fact, the inside shots of the space ship sometimes even give away the fact that some scenes were being filmed inside a warehouse, with the sun shining through the windows being visible in the background, and no effort to hide this embarrassing goof at all. Or take the futuristic vehicles, for example. Well, there actually is only one kind of vehicle on board of the Southern Sun: a golf cart. Yes, that's right. A golf cart. As if that wasn't bad enough already, it's getting worse when we are forced to watch an exciting chase sequence involving two golf carts...yuck, yuck, yuck. 90% of all the other action sequences revolve around shoot-outs between our \"bold\" heroes and the fiendish villains, with fake and cheesy laser beams having been edited into the picture afterwards, and needless to say, it looks laughably bad. And I am still at a loss of words in view of the fact that the footage of the Southern Sun and the unnecessary space battles has been taken directly from Battlestar Galactica (what does that tell you about the quality of the flick if the creators had to steal from Battlestar Galactica? Sad...), with no mentioning of the original source and with no permission by the creators of BG. That kinda tells us how much money was being spent on the special effects, alright, and as a result, we sometimes don't see certain events like a small shuttle landing in the hangar bay of the Southern Sun. Instead, we just see ridiculously cheap vector graphics on a computer monitor straight from the beginning of the 80s, with a voice over telling us what these animated lines and objects are supposed to represent. A similar sequence in the first Star Wars (the briefing shortly before the attack on the Death Star) was lightyears ahead of this crap, and even an Atari 2600 would have been ashamed of these computer graphics. Yep, this movie takes us into the far future, and that alone makes me buy this fact completely...just like the 80s disco onboard... Okay, the \"action\" and \"special effects\" (I hate to mention these terms in the same line as this flick...) are among the worst the 80s have to offer, and unfortunately, there is no story to save this movie from falling apart. I won't even bother to go deeper into the countless plot holes this flick has to offer for critics (involving one unbelievably embarrassing continuity error within just 3 minutes...), but at least the actors deserve an \"honorable\" mention. If \"Robot Holocaust\" was the epitome of lifeless acting, then \"Space Mutiny\" is the perfect example for horrible overacting. Each and every single character over-emphasizes his or her lines to an extent that it becomes unbearable to listen to them, even though this certainly was an attempt to make the inane dialogue seem less stupid than it is. Especially the villain named Kalgon (responsible for the mutiny mentioned in the title) and the hero David Ryder are the lowlights in this regard, with Kalgon's overacted and clichéd villain lines and idiotic eeeeevvvvvviiiiilllll laughter being the icing on the cake. And don't get me even started on the chemistry between the characters, since I sure as hell did not notice any chemistry whatsoever, no-thanks to some horrible casting decisions (whoever chose Cisse Cameron as the female lead character and youthful *cough* lead should not be allowed to be in film business anymore). The only way to watch this joke of a sci-fi film without suffering severe pain is to choose the MST3K version. Mike and the bots even make this dung to a hilarious experience, and their witty (and true) comments are a far better way to sum up the idiocy of this movie than any review possibly could. But since this is a review of the movie and not the MST3K version, there's no way this movie deserves anything above 1/10. Right on par with the worst the 80s have to offer.",
+         "When I was first introduced to \"Mystery Science Theater 3000\", I was completely unfamiliar with the concept of the show. All it took was one viewing of Experiment 820 \"Space Mutiny\" to get me to appreciate the unavoidable pull of such horrendous films. This movie is so blatantly 1980s, there's no way anyone can respect it. The crew of dopplegangers on the Southern Sun include Captain Santa Claus, his daughter Shari Lewis, and Ensign Sting. But in spite of the arrival of the Bellarians (a group of Macarena-dancing psychics holding a wiccan Tupperware party in an attempt to oust the Benedictine Monks from the floorboards), all is not calm on the \"Battlestar Galactica\"-stolen ship, for deep in the bowels of its hundred-acre boiler room lurks Kalgon, who plots a mutiny and refuses to suffer \"meddling fools\" gladly. So in steps Slab Bulkhead...I mean, Fridge Largemeat...I mean, Punt Speedchunk...well, the beefy action hero with the intent of flattening evil and getting Santa's shapely \"doctor lady\" daughter in the sack (or the AstroTurf of her recycling bin garden, whatever). The murders of Ensign Rick Springfield and a serpentine-faced woman with an armadillo down her trousers (surprisingly, her death doesn't stop her from returning to her post one scene later) leads Bolt Vanderhuge to chase the pointy-faced Kalgon through the basement in a pair of Lark zambonis. After this, Trunk Slamchest proceeds to bumble his way through the rest of the ship, coming across Bobby Boris Pickett's stash of frozen people and serving as the guest of honor at Sherri's birthday party. Of course, Kalgon is still plotting away, and despite the reluctance of John Waters to spill any information, Crud Bonemeal takes it upon himself to go after the greasy guy himself. During all this, Kalgon kidnaps the captain's daughter and practices for his dentistry exam on her, but she escapes by seducing the fat schlub manning the wall-mounted keyboards. Once she's reunited with Slate Fistcrunch, they GO! GO! GO! GO! GO! into the boiler room AGAIN and proceed to grapple with the entire mutinous crew. Slab Squatthrust gets a good workout of his golfball-sized lymph nodes and outmaneuvers every laser blast (but then again, the bad guys did set their phasers to \"miss\"). I won't give away the ending, but believe me, Big McLargeHuge proves to be an action hero of limited edge. I highly recommend avoiding this glob of 1980s cinematic sludge at all costs - unless, of course, you've got Mike Nelson, Tom Servo, and Crow T. Robot in front of it. Then, by all means, go for it."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Romance",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Action International Pictures (AIP)",
+         "Gad Films",
+         "Unital"
+      ],
+      "summaries": [
+         "One of the funniest films featured on Mystery Science Theater 3000 in the Emmy® Award nominated show's 11-year run, Space Mutiny is a hilariously bad sci-fi epic that's guaranteed to have you in stitches. Combine a wardrobe of spandex and tinfoil; a set boasting AstroTurf® and spray-painted floor buffers; and special effects that, well, aren't so special, and you've got one of the most hysterical cheeseball movies to ever come out of the '80s. Grab your friends and have a riot with this underground cult hit!",
+         "The story of a group of people who want to get off their space ship and land on a planet - any planet, but are having troubles with a group of other folks on board who want to sabotage the ship to make it land on a planet - any planet. It's up to Buff McLarge Huge and the power of yelling to save the... I guess day.",
+         "In the distant future in deep space, the large colony spaceship Southern Sun travels through the galaxy. On board, the evil Kalgan (John Philip Law) and his men take control of the ship through a violent and explosive mutiny. Kalgan's plan is to scrap the ship and sell the passengers into slavery. One man, (Reb Brown) decides to make a stand and encourages others to fight against Kalgan's rebels. Armed with laser cannons and neutron grenades, he leads the Commander's daughter and a handful of soldiers into a blasting battle to re-take the ship.",
+         "A pilot is the only hope to stop the mutiny of a spacecraft by its security crew, who plot to sell the crew of the ship into slavery."
+      ],
+      "budget": 0
+   },
+   "movielensId": 170371,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1988-01-01",
+      "dvdReleaseDate": null,
+      "directors": [
+         "David Winters",
+         "Neal Sundstrom"
+      ],
+      "runtime": 93,
+      "movieId": 170371,
+      "title": "Space Mutiny",
+      "mpaa": "",
+      "actors": [
+         "Reb Brown",
+         "John Phillip Law",
+         "James Ryan",
+         "Cameron Mitchell",
+         "Cisse Cameron",
+         "Graham Clarke",
+         "Billy Second",
+         "Rufus Swart",
+         "Chip Mitchell",
+         "Arthur Hall",
+         "Norman Anstey",
+         "Rick Skidmore",
+         "Guy Pringle",
+         "Camille Mitchell"
+      ],
+      "imdbMovieId": "0096149",
+      "originalTitle": "Space Mutiny",
+      "genres": [
+         "Romance",
+         "Adventure",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["ITLbGC3vAxI"],
+      "plotSummary": "A pilot is the only hope to stop the mutiny of a spacecraft by its security crew, who plot to sell the crew of the ship into slavery.",
+      "tmdbMovieId": 32148,
+      "avgRating": 1.75,
+      "releaseYear": "1988",
+      "numRatings": 12,
+      "posterPath": "/2r4GHmSNwOcCteHZicLJpMUi4Q4.jpg"
+   }
+}

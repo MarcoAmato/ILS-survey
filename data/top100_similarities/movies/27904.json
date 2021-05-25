@@ -1,0 +1,696 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "schizophrenia",
+            "id": 222
+         },
+         {
+            "name": "california",
+            "id": 387
+         },
+         {
+            "name": "detective",
+            "id": 703
+         },
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "dream",
+            "id": 1566
+         },
+         {
+            "name": "undercover",
+            "id": 1568
+         },
+         {
+            "name": "cocaine",
+            "id": 2150
+         },
+         {
+            "name": "brain",
+            "id": 2588
+         },
+         {
+            "name": "exam",
+            "id": 2866
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "test",
+            "id": 4394
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "assignment",
+            "id": 4967
+         },
+         {
+            "name": "cyberpunk",
+            "id": 12190
+         },
+         {
+            "name": "drugs",
+            "id": 14964
+         },
+         {
+            "name": "surveillance",
+            "id": 18420
+         },
+         {
+            "name": "totalitarian",
+            "id": 180440
+         },
+         {
+            "name": "corporation",
+            "id": 188950
+         },
+         {
+            "name": "substance",
+            "id": 202550
+         },
+         {
+            "name": "condition",
+            "id": 202553
+         },
+         {
+            "name": "neo-noir",
+            "id": 207268
+         }
+      ],
+      "imdb_id": "tt0405296",
+      "video": false,
+      "title": "A Scanner Darkly",
+      "recommendations": [
+         2666,
+         473,
+         1946,
+         2295,
+         9081,
+         59,
+         9886,
+         2292,
+         1262,
+         2293,
+         1381,
+         9270,
+         231,
+         1832,
+         167,
+         3040,
+         2294,
+         2757,
+         7512,
+         9388
+      ],
+      "backdrop_path": "/mjTAZvlmhSyqcpMSfkgGE1iEViT.jpg",
+      "revenue": 7659918,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Fred/Bob Arctor",
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f8060009",
+               "name": "Keanu Reeves",
+               "profile_path": "/bOlYWhVuOiU6azC4Bw6zlXZ5QTC.jpg",
+               "id": 6384,
+               "order": 0
+            },
+            {
+               "cast_id": 17,
+               "character": "Donna Hawthorne",
+               "gender": 1,
+               "credit_id": "52fe4397c3a36847f8060055",
+               "name": "Winona Ryder",
+               "profile_path": "/gUyEOZpZlGBUkUxCxyoLEc9WejR.jpg",
+               "id": 1920,
+               "order": 1
+            },
+            {
+               "cast_id": 18,
+               "character": "Ernie Luckman",
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f8060059",
+               "name": "Woody Harrelson",
+               "profile_path": "/tFAngknlbFZebWVMaFFLFIsFvLE.jpg",
+               "id": 57755,
+               "order": 2
+            },
+            {
+               "cast_id": 35,
+               "character": "James Barris",
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f80600af",
+               "name": "Robert Downey Jr.",
+               "profile_path": "/1YjdSym1jTG7xjHSI0yGGWEsw5i.jpg",
+               "id": 3223,
+               "order": 3
+            },
+            {
+               "cast_id": 19,
+               "character": "Brown Bear Lodge Host",
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f806005d",
+               "name": "Mitch Baker",
+               "profile_path": "/dVzAGsWifl6GAVsGFHSn7qHnoXs.jpg",
+               "id": 32238,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Cop",
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f8060061",
+               "name": "Steven Chester Prince",
+               "profile_path": "/o4LcIXl2hclekFRB9VMO7HUpm16.jpg",
+               "id": 32239,
+               "order": 5
+            },
+            {
+               "cast_id": 21,
+               "character": "Waitress",
+               "gender": 0,
+               "credit_id": "52fe4397c3a36847f8060065",
+               "name": "Natasha Valdez",
+               "profile_path": null,
+               "id": 32240,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Doctor 1",
+               "gender": 0,
+               "credit_id": "52fe4397c3a36847f8060069",
+               "name": "Angela Rawna",
+               "profile_path": "/pDf32t2B4yTdx1q2ebW0VejsDr5.jpg",
+               "id": 32241,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Doctor 2",
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f806006d",
+               "name": "Chamblee Ferguson",
+               "profile_path": null,
+               "id": 32242,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Arctor's Wife",
+               "gender": 0,
+               "credit_id": "52fe4397c3a36847f8060071",
+               "name": "Melody Chase",
+               "profile_path": null,
+               "id": 32243,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Charles Freck",
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f8060075",
+               "name": "Rory Cochrane",
+               "profile_path": "/nSwd3TTKPCgZyuO5DqGAzAXQUnF.jpg",
+               "id": 51792,
+               "order": 10
+            },
+            {
+               "cast_id": 42,
+               "character": "Creature",
+               "gender": 0,
+               "credit_id": "57340fcdc3a3682a1800181d",
+               "name": "Turk Pipkin",
+               "profile_path": "/jDksOvGy2QJmCm8N6VVvvhI6FQw.jpg",
+               "id": 157534,
+               "order": 11
+            },
+            {
+               "cast_id": 43,
+               "character": "Mike",
+               "gender": 2,
+               "credit_id": "57340fce92514174bc00067f",
+               "name": "Dameon Clarke",
+               "profile_path": "/x0ZwFgMlhDkVN0846wgV9dIvpyo.jpg",
+               "id": 571230,
+               "order": 12
+            },
+            {
+               "cast_id": 44,
+               "character": "New Path Farm Manager",
+               "gender": 0,
+               "credit_id": "57340fcec3a3681e3d0007b5",
+               "name": "Jason Douglas",
+               "profile_path": "/u0crUL9bnGRdaiofB2MzYvoOI4Y.jpg",
+               "id": 20496,
+               "order": 13
+            },
+            {
+               "cast_id": 45,
+               "character": "Donald",
+               "gender": 2,
+               "credit_id": "57340fce92514174bc000681",
+               "name": "Marco Perella",
+               "profile_path": "/ppQo61R0oYdyFVOI1YP6jImUbPU.jpg",
+               "id": 994259,
+               "order": 14
+            },
+            {
+               "cast_id": 46,
+               "character": "Activist",
+               "gender": 2,
+               "credit_id": "57ec483d92514151df001e33",
+               "name": "Alex Jones",
+               "profile_path": "/pB0gZapJuw4QGhNRRiJf4qzdC92.jpg",
+               "id": 57970,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f806000f",
+               "name": "Richard Linklater",
+               "profile_path": "/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+               "id": 564,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f8060015",
+               "name": "Richard Linklater",
+               "profile_path": "/wNijRefhQCp0BkNqM5qhhdazDgx.jpg",
+               "id": 564,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f806001b",
+               "name": "Philip K. Dick",
+               "profile_path": "/jDOKJN8SQ17QsJ7omv4yBNZi7XY.jpg",
+               "id": 584,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f8060021",
+               "name": "Jonah Smith",
+               "profile_path": null,
+               "id": 9539,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f8060027",
+               "name": "Tommy Pallotta",
+               "profile_path": null,
+               "id": 32233,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4397c3a36847f806002d",
+               "name": "Anne Walker-McBay",
+               "profile_path": null,
+               "id": 566,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4397c3a36847f8060033",
+               "name": "Palmer West",
+               "profile_path": null,
+               "id": 9537,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f8060039",
+               "name": "Graham Reynolds",
+               "profile_path": null,
+               "id": 32234,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f806003f",
+               "name": "Shane F. Kelly",
+               "profile_path": null,
+               "id": 32235,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4397c3a36847f8060045",
+               "name": "Sandra Adair",
+               "profile_path": null,
+               "id": 580,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f806004b",
+               "name": "Bruce Curtis",
+               "profile_path": null,
+               "id": 32236,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4397c3a36847f8060051",
+               "name": "Joaquin A. Morin",
+               "profile_path": null,
+               "id": 32237,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4397c3a36847f8060081",
+               "name": "Sara Johnson",
+               "profile_path": null,
+               "id": 1120145,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f8060087",
+               "name": "Erwin Stoff",
+               "profile_path": null,
+               "id": 10950,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f806008d",
+               "name": "George Clooney",
+               "profile_path": "/z4SBfpKDThuQY0FsvDbajcooBdA.jpg",
+               "id": 1461,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f8060093",
+               "name": "Ben Cosgrove",
+               "profile_path": null,
+               "id": 28632,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4397c3a36847f8060099",
+               "name": "Jennifer Fox",
+               "profile_path": "/45Am9fZ8VXThD8TY2ahzZicSqXG.jpg",
+               "id": 2946,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f806009f",
+               "name": "John Sloss",
+               "profile_path": null,
+               "id": 3727,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4397c3a36847f80600a5",
+               "name": "Steven Soderbergh",
+               "profile_path": "/dxdMRsAosaGlMRd7EMmm9lrXXsW.jpg",
+               "id": 1884,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4397c3a36847f80600ab",
+               "name": "Denise Chamian",
+               "profile_path": "/mEn7U8Dt5zqnNMO0Y1YtXO7evS.jpg",
+               "id": 2215,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5502f4bdc3a3685ba6004aa1",
+               "name": "Erin Ferguson",
+               "profile_path": null,
+               "id": 1439059,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55893429c3a3680545002a26",
+               "name": "Kari Perkins",
+               "profile_path": null,
+               "id": 54761,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55893442925141525c0004b7",
+               "name": "Darylin Nagy",
+               "profile_path": null,
+               "id": 1420147,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558934639251415208000a04",
+               "name": "Fred Daniel",
+               "profile_path": null,
+               "id": 1480634,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558934a0c3a3681dca001bc1",
+               "name": "Melanie Armstrong Fletcher",
+               "profile_path": null,
+               "id": 1480635,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558934cac3a3681dca001bc8",
+               "name": "Brooke Satrazemis",
+               "profile_path": null,
+               "id": 1472891,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 9.351958,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 3509,
+      "vote_count": 667,
+      "budget": 8700000,
+      "overview": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+      "similar": [
+         14043,
+         605,
+         2666,
+         180,
+         604,
+         2048,
+         157350,
+         189,
+         281,
+         101299,
+         59967,
+         4771,
+         19959,
+         9693,
+         187,
+         19,
+         68,
+         78,
+         949,
+         17431
+      ],
+      "original_title": "A Scanner Darkly",
+      "runtime": 100,
+      "poster_path": "/wS0QhF2RTwap84BKGr9hKHzNAMx.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Warner Independent Pictures (WIP)",
+            "id": 11509,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Thousand Words",
+            "id": 380,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Detour Filmproduction",
+            "id": 11510,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Section Eight Productions",
+            "id": 14315,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2006-05-25",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "Everything Is Not Going To Be OK",
+      "adult": false,
+      "homepage": "http://www.warnerbros.com/movies/home-entertainment/scanner-darkly-a/d7c290af-c285-41c4-a4d6-efb3a86b3893.html",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Richard Linklater"],
+      "runtime": 100,
+      "synopsis": "In the future \"seven years from now,\" America has lost the war on drugs. A highly addictive and debilitating illegal drug called Substance D, made from a small blue flower, has swept across the country. In response, the government develops an invasive, high-tech surveillance system and puts in place a network of informants and undercover agents. Bob Arctor (Reeves) is an undercover agent assigned to immerse himself in the drug underworld and infiltrate the drug supply chain. Arctor and his housemates, Ernie Luckman (Harrelson) and James Barris (Downey Jr.), live in a suburban tract house in a poor Anaheim, California neighborhood. They are heavy drug users, and they pass their days by taking drugs and having long, drug-inspired conversations. When Arctor is at the police station, he is code-named Fred, and hides his identity from his fellow police officers by wearing a high-tech scramble suit that changes every aspect of the wearer's appearance. Arctor's superior officer, Hank, like all other undercover officers at the station, also wears a scramble suit. While posing as a drug user, Arctor becomes addicted to Substance D, a powerful psychoactive drug which causes a dreamy state of intoxication and bizarre hallucinations; chronic users may develop a split personality, cognitive problems, and severe paranoia. Arctor befriends an attractive young woman named Donna Hawthorne (Ryder), a user of cocaine, Arctor's supplier of Substance D, and part of the drug scene. Arctor hopes to buy so much Substance D from Hawthorne that she is forced to introduce him to her supplier, but Arctor develops romantic feelings for her. However, Hawthorne refuses Arctor's sexual advances and Arctor's housemates question the true nature of their relationship. Barris implies to longtime friend and near-insane Substance D addict Charles Freck (Cochrane) that he has made advances toward Donna only to be refused, and suggests that Freck supply her with cocaine in order to attract her attention away from Arctor and convince her to lower her drug prices. Hank orders Fred to step up surveillance on the members of the Arctor household. Hank assumes Fred is one of the drug users in the Arctor household, but does not know which one, and actually orders Fred to focus the surveillance on Arctor. In the meantime, the household members are extremely paranoid that the police have bugged their home and are watching their every move. The paranoia reaches extreme levels, and Arctor seems to become wrapped up in the concern of his housemates, even forgetting that he is the undercover agent spying on his justifiably paranoid friends. Meanwhile, Arctor's housemate Barris (Downey Jr.) secretly contacts the police and tells them he suspects Hawthorne and Arctor are part of a terrorist organization. Barris unknowingly tells this to Arctor himself at the police station while Arctor is wearing his scramble suit (i.e. in his job as Fred). Due to Arctor's heavy use of Substance D, he develops cognitive problems which stop the two hemispheres of his brain from communicating with each other, and as a result he is receiving two different sets of information that are in conflict. As a result, Arctor is no longer able to distinguish between his roles as a drug user and undercover policeman, which makes him incapable of performing his job. Hank reprimands Arctor for becoming addicted to Substance D while undercover, and warns him that he will be disciplined. After Barris supplies information to the police on the terrorist organization that Hawthorne and Arctor supposedly belong to--including a recording that Hank immediately recognizes as fake, synthesized on a computer--Hank orders Barris held on charges of providing false information to the police, which he assures Barris is \"merely a cover\" to protect him while the information is evaluated. After Barris' arrest, Hank reveals to Fred that he has figured out, through the process of elimination, his true identity, and that his identity is indeed Arctor. Arctor is surprised to learn his own true identity and he begins to act extremely confused and disoriented. Hank then informs Arctor that the whole point of the surveillance was to catch Barris, not Arctor himself; the police suspected Barris of being involved in the Substance D ring, and they were setting him up by driving up his paranoia level until Barris cracked and tried to cover his tracks with the false info. While a disturbed Arctor begins to break down, Hank phones Donna and asks her to take Arctor to New Path, a corporation that runs a series of rehabilitation clinics. After Arctor leaves the office, Hank heads to the lockers to remove his scramble suit, and his true identity is revealed: Donna Hawthorne. At New Path, Arctor experiences the severe symptoms of Substance D withdrawal. As part of the rehabilitation program, Arctor is renamed Bruce and put through psychological reconditioning treatments. Arctor has serious brain damage from his withdrawal from Substance D. Sometime later Donna, using the name Audrey, has a conversation with another officer named Mike (seen undercover as an orderly at New Path), in which both reveal that New Path is responsible for the manufacture and distribution of Substance D. Donna/Audrey was part of a greater police operation to infiltrate New Path, and Arctor had been selected, without his knowledge or consent, to carry out the sting. It is revealed that the police had intended for Arctor to become addicted to Substance D; his well-being was sacrificed so that he might enter a rehabilitation center unnoticed as a real addict in order to find conclusive proof of New Path's crimes. They are dubious if there is still enough of Arctor left to find the evidence. To continue his rehabilitation, New Path sends Arctor to work at an isolated New Path corn farming prison. Arctor spots rows of blue flowers hidden between rows of corn. These flowers, referenced throughout the film, are the source of Substance D. As the film ends, Arctor hides one of the blue flowers in his boot, so that when he returns to the New Path clinic during Thanksgiving he can give it to his \"friends\" - undercover police agents.",
+      "writers": [
+         "Philip K. Dick",
+         "Richard Linklater"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0405296/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU1ODk2NTkwNF5BMl5BanBnXkFtZTcwNDkwNDI0MQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Keanu Reeves, Winona Ryder, Robert Downey Jr. | See full cast and crew »"],
+      "reviews": [
+         "When someone on a trip starts to wig out, you take them someplace quiet and talk soothingly and assure them that everything's going to be OK. But as the tagline of this film makes clear, for these characters everything is most definitely NOT going to be OK. For those who haven't read the book, it's important to know what you're getting into. PK Dick wrote this novel as a way of telling the story of how he and his friends in the early '70s damaged and destroyed themselves with drugs. He tells this story within the framework of a surreal science fiction thriller, but many of the scenes are straight from his own experiences with the unpleasant consequences of people using drugs and disintegrating mentally. This film does an amazing job of capturing the feel and tone of the book as well as the paranoia, perceptual distortions, and chaos of hallucinogenic overindulgence. Add to that a story that only gradually emerges from the madness, but by the end brings in a lot of heavy ideas such as the existence of free will, whether ends justify means, etc. There is a sense of consequence to what happens in the film, a sense of despair at what has been lost. So this story of drug-addled losers becomes the story of the human struggle for identity and meaning. I have a couple of minor quibbles regarding scenes from the book that only partially made the cut (no explanation for the significance of \"If I'd known it was harmless I would have killed it myself, no little kid to explain how 6 and 3 gears means 18 speeds). Still, most adaptations of PK Dick stories take a few basic ideas and try to shape them into more conventional films that fit into established genres. Even when it works, such as with Blade Runner or Total Recall, it's not really PK Dick. Not so this film. This is PK in all his dark and perverse and deeply thoughtful glory.",
+         "I've never written a review on this site before, but since I've just been at the first screening of this movie at Brandeis, I feel like writing a few comments. First of all, visually this movie is incredible. The roto-scoping is a vast improvement over Waking Life (and that's on a crappy screen with the film only 95% completed.) Despite the overall dark nature of the film, the dialogue is at times hilarious, and at the screening the audience erupted into laughter several times. Now, on to the story itself. I never read the Phillip K. Dick novel, but from what I could tell, the movie stays faithful. This is not a popcorn thriller; like I said, it is very dark. As the producer Erwin Stoff said after the showing, the movie reflects the bad experiences Dick had with drugs during his life. Apparently the producers bought the rights to the book from Dick's daughters at a reduced rate because they promised to be faithful to his vision, and I could definitely see the effort that was put in in order to accomplish that. Overall, I enjoyed this movie very much. Admittedly, it was hard to follow at times. But, as with the other Linklater films that I have seen, A Scanner Darkly is worth seeing for the interesting dialogue, esoteric characters (especially Robert Downey Jr and Woody Harrelson, who provide many of the films laughs), and stunning visuals. It is not a plot-driven movie at all; the story as described in the IMDb summary, which is more or less accurate, is just a framework from which to express Dick's stark and angry vision of the ravages of drugs on society. Those seeking visceral excitement will be disappointed, but those looking for an intelligent, bleakly funny, dream-like, thought provoking experience that is incredibly grim yet not entirely hopeless, will be rewarded. A Scanner Darkly is definitely not for everybody, because its pacing and animation style are not mainstream(the same is true of its release schedule: only 4 theaters on July 7, 8 the next week, and so on). However, for fans of Linklater and/or Dick, this is no doubt a must see, and you should mark July 7th on your calendar.",
+         "Hollywood has tried so many times to capture the feel of Philip K. Dick terms of his style and writing. Films like Total Recall, Paycheck, Minority Report, all were playing to the lowest common denominator and really lost a lot of the feel that Dick conveys in his writing. Blade Runner came close, but it still missed the essential darkness that Dick brings to each and every one of his works. Enter \"A Scanner Darkly\", aside from the Interpolative Rotoscoping that the film maker used to put the graphical images of this movie together and give it an amazing visual feel all its own, the vision and imagery conveyed by the film are as true to Dick's original as any movie has come. I left the theater feeling overwhelmed, touched, and changed, much the same way as when I'd finished the book. This is rare, and it is decidedly a beautiful thing.",
+         "It's not very often that Phillip K. Dick's writings get adapted well on to the screen. Films like Paycheck and Impostor might have there moments, but there is much lacking where high-tech action scenes and dreary direction replaces more of the thought in his work. Richard Linklater's A Scanner Darkly, however, could be part of that handful of films (the others Scott's Blade Runner and Spielberg's Minority Report) that do justice to his sensibilities as both a science-fiction spinner and social satirist. The technique he uses to add some imagination is, at first assumption, interesting but a little outdated. Rotoscoping the live action with animation has been done since the late 70's, and Linklater himself used it for maybe his most philosophically complex film Waking Life. Here though the same technique he used before is put into a narrative that, compared to Waking Life, is non-linear to the point that it is very faithful to Dick's work. But there's more than meets the eye, literally, to what Linklater is doing with his technique. It really does fit the mood of the film, one where to abscond is almost second nature, but the control over thought and the similarly powerful self-destruction comes at high prices for decent people. To discuss the story would have to involve much explanation of the characters, who they may (or may not as case is) be, and how drugs make up the integral, damned environment. Keanu Reeves is in one of his best performances, arguably, as Bob Arcter, apart of dealing what is called Substance-D, a very detrimental narcotic that sooner or later starts to play serious tricks on a person's mind (left brain vs. right brain is in many scenes). But Reeves is also Officer Fred, who has been assigned to infiltrate a group of addicts who might lead him and his police force into the higher networks of drug distribution. Those around him in his \"undercover\" state are James Barris (Robert Downey Jr), Ernie Luckman (Woody Harrelson), Charles Freck (Rory Chochrane), and in one of the most crucial parts to the story Donna (Winona Ryder, quite a good comeback part). The theme of dehumanization around such technologies as a scanner in this film, where Fred/Arctor takes footage from the dingy home he usually hangs out in, are also akin to other pieces of Dick's work. I'm reminded of the tragedy in Minority Report of the cop who gets hooked on an illegal drug, and for what purpose in that story is made quite clear. In A Scanner Darkly, however, the lines of morality are never totally clear, and the ambiguity goes along as little pieces start to fit together. While I might hold it as being one of the great Philip K. Dick adaptations, it's not to say that it is quite different from the others; this is not too far removed from what Linklater's style of dialog. To be sure to not please all in the sci-fi crowd, it's actually closer to being another of Linklater's 'in-the-now' stories of characters who talk, and talk some more, and it forces one to pay attention as opposed to having the dialog go light for more action. Downey Jr., who delivers one of the best supporting turns of the year, maybe has the most words to speak, as he's a character with few real morals but almost too much on his mind. And him along with Harrelson's character help define some of the pressing facts that go into looking at drugs in a movie. There's real paranoia, real mis-trust, a shifting of cognizance that becomes startling. One scene in particular, when Reeves is in bed with a woman and can't figure on if she is really SHE or not, and then goes over in in video, is an excellent take on the depths to which Substance-D- fictional for the film's sake but related to many real substances- and how the style connects very much so to the substance (no pun intended) in the film. The style itself, provided by the animation directors, gives some immediate fascinations for the viewer. The whole idea of a character putting on a suit and being able to shift around faces and clothing at a second a clip provides such catching beats each time. The variations in certain scenes work very much as well. And there are more than a few instances where the style of rotoscoping itself, which makes the film seem immediately like a 'take drugs and watch this movie', is called into question. One might then ask before going into A Scanner Darkly, where the control of products that act as controls &/or inhibitors, is anti-drug or pro-drug. That I cannot quite, completely answer, though I might lean more to the former. Linklater, not just Dick, has several potent questions among others that may fizzle that are posed into the film, especially towards the last ten minutes. And what is even more surprising, and closer to being a relief, is that the film isn't even too preachy either. In fact, I was laughing through scenes in the middle bulk of the film, as Downey and Harrelson's characters made for some very sharp, witty lines and odd actions. In short, it's got a different, 'quirky' artistry that combines some very good cinematography with so much that is tested with colors and shading and tones on the actors and settings that I will have to watch it again to take it all in. And the actors, more often than not, are completely fit in their roles, even when they suddenly reveal that all is not as it seems (I loved some of the twists that pop up). A cool premise and a superb use of abstractions as reality in the midst of the darkest satire of the year.",
+         "Thanks to Rick Linklater and the Dick family for allowing a Scanner Darkly to re-envision Philip K. Dick's great novel without straying from its central themes and story line. Good film adaptations of literature are very often collaborative efforts between two or more artists - the writer and the director (and sometimes her/his production team). Make no mistake - A Scanner Darkly IS one of these collaborations - it is definitely a Linklater film - from the spare but very effective and hypnotic Graham Reynolds sound track to the disturbing but mesmerizing holosuit scenes and the pseudo-philosophical paranoiac banter between Harrelson and Downey's characters. In fact, I remember the last time I read Dick's novel - around the time I heard Linklater was directing this film - thinking that some of the scenes in the book could be lost in Linklater's wonderful film \"Slacker\". Linklater and Dick are a perfect match. The story is about a deep-cover narcotics officer (Reeves) who is in danger of becoming one of his own targets, since he has become addicted to a very popular and addictive hallucinogen - Substance D (AKA \"Death\") The cast is all very good, and extremely well suited for their characters. But here again, we are seeing Linklater's interpretation of the novel. He saw the comedic potential for the Barris character and played it up by giving the role to Downey and presenting Harrelson as a combination of loyal side-kick and straight-man to Downey's sometimes overpowering Barris. What the story is really about is the culture of recreational drug use and addiction. Its portrayal of this is on target, and though the subject is treated with some sympathy, the contradictory messages, denials, and complex rationalizations permeating that culture also come through powerfully. In this manner, the film nails the book spot-on. Reeves is perfectly cast as Arctur. His subtle and somewhat detached style is exactly what was needed for this complex and sympathetic character. And although some have stated that he was \"blown off the screen by Downey and Harrelson\" I couldn't agree less. Downey is louder and more domineering, yes, but Arctur is not a loud, ultra-dynamic, paranoid, and could not be played in a way which could compete with Downey's character. Although I believe Winona Rider to be very talented, I had my doubts about her in the role of Donna - one of my favorite characters in Dick's novel. However, once again, Winona exceeded my expectations. I have never seen a bad performance out of her. This is great casting, period. While these are not criticisms, I feel obligated to make a couple of comments comparing the book and the film. First, the film is not really as dark and disturbing as the book. I can not explain why in this review - you will have to see it to understand why I say this. Second, I was very slightly disappointed by the reduced role of Donna in this film. Third - though some have commented that the film was hard to follow and that they felt they could only really get it if they read the book - I can only say that this is probably intentional. Yes, many of Linklater's films are non-linear and can be hard to follow for those who expect to have things explained to them. Linklater is, if nothing else, an artist and doesn't seem very interested in linearity or explanation. And the original work by Dick is no less ambiguous. In fact it is, in my opinion, more ambiguous. This film does a great job of bringing to the screen one of the most intelligent and emotional works of science fiction ever written. My thanks to all involved.",
+         "1 Corinthians 13:12 \"For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known\". In 1977 I was digging through a pile of books that had their front covers pulled off and thrown in the garbage. In this pile I found a book by Phillip K Dick. That book happened to be A Scanner Darkly. This made me pick up the book and take it home and read it. And what I read was one of the most depressing stories I have ever read in my life: I can honestly say that at the time I read it, I really did not have any idea what Dick was trying to say. But for some reason, I was attracted to the story and I read the whole book in about 2 days. 30 Years Later, I believe I understand now. Which validates the bible verse on which this whole work is based: What we do not understand will eventually be revealed to us. Part of this film has to do with how we perceive reality, another part touches on what we do to lessen our daily pain. I really was not surprised by how the story ended. The book is not an exciting (and boring) tale of space opera, but it is one of the best works of speculative fiction ever written. And as such, it had become one of the most important books I have ever read. And so I was surprised to find that this book was being filmed. I was interested in it when I saw that it was following the styles of such films as Sin City, Sky Captain and the World of Tomorrow, and Linklatter's \"Waking Life\" - However, I did not know how deep the animation well was. As I watched this story unfold, I saw that this film used more of Phillip K Dick's actual dialog than any other film based on his works. As I kept watching, I understood that the story that was filmed was almost exactly the same story I read 30 years ago. No gunfights, explosions, or chase scenes were inserted. There is only one large liberty Linklatter took with the story: It is at the end of the film, I do not think Phillip K Dick fans would mind this small liberty taken. I can't say what it is, due to it being a spoiler. If anyone is scratching their head after seeing this film, they ought to avoid films with substance and go back to the Phillip K Dick books that have been destroyed: Bladerunner, Total Recall, and Impostor, which bear little or no resemblance to the original books and short stories they were taken from. I always judge movies on their Honesty. This one is an Honest movie. The story it tells is a hard one to swallow: Do you believe in what you see, or do you see what you believe? Where does reality divert from hallucination? Although this film deals with drug use and abuse, it also challenges our perception of what is going on around us. The animation is something else: It is a marvel. I was surprised to see how it was done, each frame animated by hand. If any other story was being told, this would not have worked. Coming back to this comment after a couple of years, there is really nothing else I can add to this comment. This film is visually well done, which allows the viewer to absorb the story that is being told.",
+         "I am not a huge Linklater fan. His films usually give me a good laugh(Slacker, Dazed and Confused) or they present interesting concepts that will stir up good conversation(Waking Life) or they are for children(School of Rock). I don't consider him a great filmmaker but I would consider him an interesting storyteller and probably a great guy to talk to. A Scanner Darkly changes everything. Even though Phillip K. Dick wrote it, Richard adapted the screenplay perfectly. I found that the film ran like a combination of Tarantinoesque chronology(Pulp Fiction, Reservoir Dogs) and a Nolanesque confusion(Memento). The rotoscoping animation was used perfectly to highlight the cinematography. I left the theater with a sort of David Lynchish feel(Lost Highway, Mullholland Drive) but the plot lines were actually sewn up more neatly. Having seen the film only once, in no way am I saying that A Scanner Darkly compares with the films I've mentioned, but with multiple viewings I am guessing that I may rank it somewhere close. I can certainly see how someone that has never taken any psychedelics or ingested any type of psychotropic substance might feel less enthusiastic about some of the themes but I can't see them denouncing the film for that reason. If you have ever gone on a \"trip\" then you will be instantly able to relate to some of the particular scenes. I thought that everyone acted brilliantly in their particular roles. Keanu's agent should win some sort of award. Mr. Reeves is not in any way a credit to Shakespeare but his agent always seems to find certain roles that suit Keanu's tendencies. I think it is undoubtable that this film becomes a cult classic. I hope it fares well at the box office because I would like to believe that the world is starting to appreciate good film more than it has of late. If you enjoy a good \"mind-bender\" of a film that doesn't stop resonating in your head until days after you have seen it, then A Scanner Darkly is for you. If you go to the theater simply for spoon-fed entertainment, see this film anyway and hopefully you will wake up and have an original thought some time soon.",
+         "I love Philip K. Dick's work and was pleased with this adaptation of \"A Scanner Darkly.\" Keanu Reeves does a really good job in the lead - he's in his element here - but he's really upstaged by Robert Downey Jr. and Woody Harrelson who engage in some surreal and hilarious conversations. It's like you're sitting with a bunch of guys tripping. Needless to say, some of the dialogue is hilarious, and I can see this film becoming another cult classic. (When they talk about two hemispheres being separate, I couldn't help but think about \"Repo Man.\") As for the animation, I found it a bit distracting. I think I would have preferred the use of CGI when it came to the agent suit that continually blends the faces of about 1 million people so that the agent isn't recognized. If you like drug films, then this is a must see. If that's not your bag, then you might have some problems with the film. It's sometimes obtuse and the story a bit convoluted. It's best to sit back and experience the film. It's a drug trip in itself.",
+         "Saw this film today in a theater with no air conditioning on the hottest day of the year...pretty fitting for a movie about claustrophobic paranoia. I'd been looking forward to seeing this from the first time I saw the trailer. Whatever can be said about this film, there is no denying it's totally unique look. After awhile, you begin to get used to the rotoscoping and then suddenly, there will be something thrown in that will call attention to itself and remind you that you are watching animation. I am a fan of Dick's work, but have not yet read the novel upon which this film is based. Great performances all around and kudos to Linklater for his fantastic vision. The film could be considered a bit talky to the average moviegoer, but is much appreciated by fans of cerebral sci-fi. Fascinating premise is told through interesting blend of suspense and comedy. Not for everyone, but certainly worth a look. Certain to become a cult classic.",
+         "For some reason I can't get separate the way I feel about Radiohead's Kid A and Amnesiac albums from the way I feel about this movie. If you love adult sci-fi that is complex and strangely moving then this is a must see movie. This captures Philip K. Dick's spirit better than any movie since BLADERUNNER and is even more difficult to pin a reaction on. SCANNER is a more intimate film. Anybody who has seen Richard Linklater's mind boggling WAKING LIFE will be instantly familiar (and comfortable) with the way SCANNER looks. The rotoscoping technique doesn't seem that much further evolved from WAKING except for the scrambler suit whose effect is a continuous wonder to behold. The look beautifully suits the story because they both speak to the large disconnect that has happened in our society via technology. Interpersonal and immediately accessible intercommunication devices have allowed us to avoid real communication and immediate interaction with our surroundings and the people who inhabit them at any moment on a grander scale than ever before. I find it rather depressing and annoying when my current reality in interrupted by a bloody cell phone (unless, of course, it is mine that is ringing). Dick's work often addressed alienation and sinking so far into your own that reality became a liquid element usually washing us up onto the shores paranoia and madness. SCANNER evokes this strangeness in a way few movies ever have."
+      ],
+      "genres": [
+         "Animation",
+         "Mystery",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Warner Independent Pictures (WIP)",
+         "Thousand Words",
+         "Section Eight"
+      ],
+      "summaries": [
+         "In a totalitarian society in a near future, the undercover detective Bob Arctor is working with a small time group of drug users trying to reach the big distributors of a brain-damaging drug called Substance D. His assignment is promoted by the recovery center New Path Corporation, and when Bob begins to lose his own identity and have schizophrenic behavior, he is submitted to tests to check his mental conditions.",
+         "In the not too distant future in Orange County California, an undercover narcotics agent is known internally in the force only by his code name, Fred. His identity within can be kept secret as the scanning suit he dons hides his true identity. In reality, he is Bob Arctor. His assignment is to infiltrate a drug ring dealing in a hallucinogen known as Substance D, the ultimate goal to find the source of the drug. Arctor's own use of Substance D and moving within this drug world is making him lose his true identity, which includes a family life with two young daughters. As Fred, he is also assigned to monitor his own movements since one of Arctor's drug colleagues, James Barris, has come to the authorities to report Arctor's drug dealings, although Fred's superior, code named Hank, knows that Fred in his true identity is one of the people in the drug ring being monitored. But Hank and Hank's colleagues will do anything, even sacrifice Fred/Arctor, to achieve the ultimate goal of finding the source of Substance D.",
+         "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result."
+      ],
+      "budget": 8500000
+   },
+   "movielensId": 27904,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2006-05-25",
+      "dvdReleaseDate": "2006-12-19",
+      "directors": ["Richard Linklater"],
+      "runtime": 100,
+      "movieId": 27904,
+      "title": "A Scanner Darkly",
+      "mpaa": "R",
+      "actors": [
+         "Keanu Reeves",
+         "Winona Ryder",
+         "Woody Harrelson",
+         "Robert Downey Jr.",
+         "Mitch Baker",
+         "Steven Chester Prince",
+         "Natasha Valdez",
+         "Angela Rawna",
+         "Chamblee Ferguson",
+         "Melody Chase",
+         "Rory Cochrane",
+         "Turk Pipkin",
+         "Dameon Clarke",
+         "Jason Douglas",
+         "Marco Perella",
+         "Alex Jones"
+      ],
+      "imdbMovieId": "0405296",
+      "originalTitle": "A Scanner Darkly",
+      "genres": [
+         "Animation",
+         "Science Fiction",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "4E9zMVocnys",
+         "eaNaw63H9_c",
+         "GXIthsBhfKw"
+      ],
+      "plotSummary": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+      "tmdbMovieId": 3509,
+      "avgRating": 3.61173,
+      "releaseYear": "2006",
+      "numRatings": 4605,
+      "posterPath": "/wS0QhF2RTwap84BKGr9hKHzNAMx.jpg"
+   }
+}

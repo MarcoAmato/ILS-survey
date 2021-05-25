@@ -1,0 +1,774 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "fascism",
+            "id": 1755
+         },
+         {
+            "name": "nazi",
+            "id": 2652
+         },
+         {
+            "name": "chase",
+            "id": 3713
+         },
+         {
+            "name": "sadism",
+            "id": 4426
+         },
+         {
+            "name": "blood splatter",
+            "id": 8636
+         },
+         {
+            "name": "beating",
+            "id": 9849
+         },
+         {
+            "name": "dress",
+            "id": 9991
+         },
+         {
+            "name": "mad scientist",
+            "id": 10125
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "gore",
+            "id": 10292
+         },
+         {
+            "name": "dinner",
+            "id": 12997
+         },
+         {
+            "name": "torture",
+            "id": 13006
+         },
+         {
+            "name": "corpse",
+            "id": 13092
+         },
+         {
+            "name": "execution",
+            "id": 13129
+         },
+         {
+            "name": "cruelty",
+            "id": 14624
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "death",
+            "id": 34079
+         },
+         {
+            "name": "macabre",
+            "id": 162810
+         },
+         {
+            "name": "screaming",
+            "id": 167942
+         },
+         {
+            "name": "bloodbath",
+            "id": 183435
+         },
+         {
+            "name": "cannibalism",
+            "id": 208048
+         },
+         {
+            "name": "mad family",
+            "id": 208339
+         },
+         {
+            "name": "sinister",
+            "id": 210410
+         },
+         {
+            "name": "french horror",
+            "id": 212407
+         },
+         {
+            "name": "new french extremism",
+            "id": 224663
+         }
+      ],
+      "imdb_id": "tt0814685",
+      "video": false,
+      "title": "Frontier(s)",
+      "recommendations": [
+         13312,
+         9539,
+         10832,
+         10226,
+         12517,
+         21786,
+         25967,
+         10894,
+         8689,
+         47763,
+         73861,
+         29559,
+         48393,
+         9885,
+         18029,
+         78093,
+         15356,
+         13510,
+         65599,
+         13742
+      ],
+      "backdrop_path": "/797NHoM5WWad5h0gw8ipVFM6YRs.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Yasmine",
+               "gender": 1,
+               "credit_id": "52fe45719251416c750569f7",
+               "name": "Karina Testa",
+               "profile_path": "/qYHj24EgFEQIvlQJDgxvugAh2bY.jpg",
+               "id": 82314,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Alex",
+               "gender": 2,
+               "credit_id": "52fe45719251416c750569fb",
+               "name": "Aurélien Wiik",
+               "profile_path": "/kCQie180Yry11GcAIWGR6sTYvHK.jpg",
+               "id": 25342,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Karl",
+               "gender": 0,
+               "credit_id": "52fe45719251416c750569ff",
+               "name": "Patrick Ligardes",
+               "profile_path": "/duBVMgJBjbEd9JCp04r7CMsk8zV.jpg",
+               "id": 35970,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Tom",
+               "gender": 0,
+               "credit_id": "52fe45719251416c75056a03",
+               "name": "David Saracino",
+               "profile_path": "/gLZVSJhl9Y6jyMfOrWkA1DRXdum.jpg",
+               "id": 48409,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Eva",
+               "gender": 0,
+               "credit_id": "52fe45719251416c75056a07",
+               "name": "Maud Forget",
+               "profile_path": "/la2mjRknWLOLFiN5MTLrX0TX4L9.jpg",
+               "id": 82317,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Goetz",
+               "gender": 2,
+               "credit_id": "52fe45719251416c75056a0b",
+               "name": "Samuel Le Bihan",
+               "profile_path": "/24P2Ice4XQxb7Z0yd6yqoDUwgyb.jpg",
+               "id": 49025,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Farid",
+               "gender": 2,
+               "credit_id": "52fe45719251416c75056a0f",
+               "name": "Chems Dahmani",
+               "profile_path": "/mMJTWTqPTGV3cqBNTIRbEFSjFfs.jpg",
+               "id": 82318,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Klaudia",
+               "gender": 0,
+               "credit_id": "52fe45719251416c75056a13",
+               "name": "Amélie Daure",
+               "profile_path": "/jF7iD4udyMw8W1JEt2qFP0ShJbn.jpg",
+               "id": 82319,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Gilberte",
+               "gender": 0,
+               "credit_id": "542ed05cc3a368043d00035a",
+               "name": "Estelle Lefébure",
+               "profile_path": "/6JPn106e9xKPFV8oL7kTvjBFhDE.jpg",
+               "id": 77192,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "La mere",
+               "gender": 0,
+               "credit_id": "542ed091c3a368043d00035e",
+               "name": "Rosine Favey",
+               "profile_path": "/o94n7bxoYmQSmBpHTfpM7D0Yagp.jpg",
+               "id": 146498,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Sami",
+               "gender": 2,
+               "credit_id": "542ed0a00e0a26258f0002f0",
+               "name": "Adel Bencherif",
+               "profile_path": "/tx51bAbUpyNTsiFPjswTniQR6Fb.jpg",
+               "id": 89624,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Hans",
+               "gender": 0,
+               "credit_id": "542ed0ae0e0a26259f000303",
+               "name": "Joël Lefrançois",
+               "profile_path": "/slmV5nwUgiLxTGFftEabr2CbnE1.jpg",
+               "id": 1156349,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Von Geisler",
+               "gender": 2,
+               "credit_id": "542ed0f0c3a368043d00036c",
+               "name": "Jean-Pierre Jorris",
+               "profile_path": "/hZWWeLe0Ieyyt6peQ8lCOa6fpaZ.jpg",
+               "id": 1166147,
+               "order": 16
+            },
+            {
+               "cast_id": 25,
+               "character": "Policeman",
+               "gender": 0,
+               "credit_id": "542ed1200e0a26259f000311",
+               "name": "Stéphane Jacquot",
+               "profile_path": null,
+               "id": 1370577,
+               "order": 17
+            },
+            {
+               "cast_id": 26,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "542ed131c3a36804390002cb",
+               "name": "Christine Culerier",
+               "profile_path": null,
+               "id": 1370578,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45719251416c750569ed",
+               "name": "Xavier Gens",
+               "profile_path": "/nvGKZUazQO0TUR1CW0IUJiIJAT3.jpg",
+               "id": 18184,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45719251416c750569f3",
+               "name": "Xavier Gens",
+               "profile_path": "/nvGKZUazQO0TUR1CW0IUJiIJAT3.jpg",
+               "id": 18184,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5331a65f9251410b4e001863",
+               "name": "Laurent Tolleron",
+               "profile_path": null,
+               "id": 1191104,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5331a6819251410b48001782",
+               "name": "Michael Laguens",
+               "profile_path": null,
+               "id": 119198,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5331a6a29251410b48001784",
+               "name": "Laurent Barès",
+               "profile_path": null,
+               "id": 45843,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5331a6c19251410b41001933",
+               "name": "Jean-Pierre Taieb",
+               "profile_path": null,
+               "id": 1282402,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5331a6e99251410b510018e6",
+               "name": "Eléonore Dominguez",
+               "profile_path": null,
+               "id": 1304624,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521368fc3a3684dd4003c67",
+               "name": "Jérémy Streliski",
+               "profile_path": null,
+               "id": 1450064,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552136c092514171cb00115c",
+               "name": "Carlo Rizzo",
+               "profile_path": null,
+               "id": 45845,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552136d992514171cb00115e",
+               "name": "Olivier Afonso",
+               "profile_path": null,
+               "id": 1337034,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521370bc3a3684dc10035b8",
+               "name": "Vivien Balzi",
+               "profile_path": null,
+               "id": 1450065,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521372cc3a3684dd4003c72",
+               "name": "Alessandro Marvelli",
+               "profile_path": null,
+               "id": 1155472,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521375c92514171cb00116f",
+               "name": "Sabine Fevre",
+               "profile_path": null,
+               "id": 1450066,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521377ec3a368345300131f",
+               "name": "Nicolas Herlin",
+               "profile_path": null,
+               "id": 1337036,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552137929251415c7c003845",
+               "name": "Laetitia Hillion",
+               "profile_path": null,
+               "id": 1450067,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552137b7c3a36828d1001869",
+               "name": "Lionel Dijoux",
+               "profile_path": null,
+               "id": 1450068,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552137efc3a3683453001332",
+               "name": "Lohengrin Braconnier",
+               "profile_path": null,
+               "id": 1450069,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55213806c3a36828d1001874",
+               "name": "Loïc Gourbe",
+               "profile_path": null,
+               "id": 1424684,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521383292514171cb001184",
+               "name": "Alexandre Hecker",
+               "profile_path": null,
+               "id": 1450070,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552138559251415c82003792",
+               "name": "Thomas Bernard",
+               "profile_path": null,
+               "id": 1424683,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521387dc3a3684dc10035d6",
+               "name": "Christophe Bourreau",
+               "profile_path": null,
+               "id": 17473,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521389c9251415c87003778",
+               "name": "Jean-Noël Yven",
+               "profile_path": null,
+               "id": 572513,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552138b69251417be2002b14",
+               "name": "Jean De Sagey",
+               "profile_path": null,
+               "id": 1450071,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552138cbc3a368333a0013e4",
+               "name": "Florent Lavallée",
+               "profile_path": null,
+               "id": 1374464,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552138f592514171cb00119d",
+               "name": "Loic Flamand",
+               "profile_path": null,
+               "id": 1450072,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521390b92514171cb0011a2",
+               "name": "Teddy Percherancier",
+               "profile_path": null,
+               "id": 1450073,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55213924c3a368333a0013ee",
+               "name": "Rodolphe Guglielmi",
+               "profile_path": null,
+               "id": 1424740,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521393a9251415c820037a5",
+               "name": "Bourdonnay Judikael",
+               "profile_path": null,
+               "id": 1450074,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55213957c3a36828d100188c",
+               "name": "Jean-Marc Bellu",
+               "profile_path": null,
+               "id": 1450075,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552139959251415c84003675",
+               "name": "Colin Wandersman",
+               "profile_path": null,
+               "id": 1450076,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552139ab92514170960012b6",
+               "name": "Jean-Yves Guéril",
+               "profile_path": null,
+               "id": 1450077,
+               "department": "Sound",
+               "job": "First Assistant Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552139c29251415c7c003885",
+               "name": "Donatienne de Goros",
+               "profile_path": null,
+               "id": 1450078,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552139d6c3a3684dda003a3b",
+               "name": "Ludivine Doazan",
+               "profile_path": null,
+               "id": 1450079,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 7.55556,
+      "production_countries": [
+         {
+            "iso_3166_1": "CH",
+            "name": "Switzerland"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         }
+      ],
+      "id": 13492,
+      "vote_count": 222,
+      "budget": 3000000,
+      "overview": "A gang of young thieves flee Paris during the violent aftermath of a political election, only to hole up at an Inn run by neo-Nazis.",
+      "similar": [
+         74997,
+         1696,
+         9568,
+         15069,
+         16869,
+         1991,
+         8810,
+         238636,
+         156022,
+         298250,
+         298312,
+         9538,
+         588,
+         10781,
+         8834,
+         12521,
+         398175,
+         341006,
+         2142,
+         9445
+      ],
+      "original_title": "Frontière(s)",
+      "runtime": 108,
+      "poster_path": "/bWd5u7MWgInE6JYx00f8CzfDNw5.jpg",
+      "spoken_languages": [
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Chemin Vert",
+            "id": 34449,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cartel Productions",
+            "id": 34450,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "EuropaCorp",
+            "id": 6896,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Pacific Films",
+            "id": 22606,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2007-07-01",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "What are your boundaries...",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Xavier Gens"],
+      "runtime": 108,
+      "synopsis": "An extremist right-wing candidate is elected to the French presidency, sparking riots in Paris. Hoping to escape the country but needing cash, a small gang of French-Arab teenagers whom include Alex, his pregnant girlfriend Yasmine, her younger brother Sami, and two friends, Tom and Farid, advantage of the chaos to pull off a robbery. Sami is shot by the police and the group splits up: Alex and Yasmine take Sami to a hospital, and Tom and Farid take the stolen money to a family-run inn near the French-German border. The two seductive innkeepers, Gilberte and Klaudia, claim their rooms are free and seduce the two men. At the hospital, the emergency room staff report Sami's injury to the police. Sami insists to Yasmine that she leave him behind and run before the police catch her. His dying wish is that Yasmine not have an abortion. Alex and Yasmine flee from the hospital, phoning their friends for directions to the inn. Tom and Farid give them directions but soon after are brutally attacked by Gilberte, Klaudia, and their brother Goetz. When Tom and Farid try to escape, Goetz runs their car off a cliff. The two injured men wander into a mine shaft, where Tom is quickly recaptured. Farid must fend for himself in the mine with the family's rejected children. Unaware of the danger, Alex and Yasmine arrive at the inn and are both captured by the family. Alex and Yasmine are chained in a muddy floored pig pen. Alex breaks Yasmine's chains and allows her to escape. When the captors discover Yasmine's escape, the father of the family, Von Geisler, cut Alex's achilles tendons. Meanwhile in the mine, Farid finds the storage area for the victims. The family realizes something is amiss in the mine, and Hans chases Farid into a boiler where Farid is cooked alive. Yasmine flees from the inn but is quickly picked back up by Goetz. Back in the pig pen, Von Geisler personally grants Alex's last wish, which is to be put down quickly. Initially, Von Geisler wishes for Karl to \"wed\" Yasmine to carry on the family lineage, but when Von Geisler learns she is already pregnant, he entrusts her to the meek Eva. Eva tells Yasmine that she came to the family in a very similar manner and that she is obedient because the family promised her that her parents would return for her some day. Eva also tells Yasmine of the rejected children she and Hans care for in the mine. Eventually, Eva leads Yasmine down a long hall to dinner, where the family awaits her. Von Geisler is revealed to be a former (and still practicing) Nazi. Von Geisler offers up a toast to the new blood and Yasmine quickly grabs a large knife and takes von Geisler hostage demanding to be released. Hans grabs a shotgun and accidently shoots and kills Von Geisler in the confusion. The revenge-fueled Karl shoots Hans dead in turn. Yasmine escapes from the house and is chased by Karl and Goetz into the mine. Yasmine eventually makes her way into one of the body storage rooms where she fights with Goetz. After a bloody struggle, she repeatedly hits him with an axe before impaling him on a rotating table saw. Karl catches Yasmine as she tries to return to the surface, but Eva comes to Yasmine's rescue, blowing Karl's head off with a shotgun blast. Yasmine makes it back to the house and searches for car keys to drive away, but is ambushed by the gun-toting Gilberte and Klaudia in the living room. During the shootout, Yasmine hits a gas tank, blowing up the room. Klaudia dies in the explosion, but Gilberte survives and attempts to kill Yasmine in the courtyard by strangling her. Despite being disarmed, Yasmine manages to kill Gilberte by biting and tearing out her throat. With the whole Nazi family dead, Yasmine tries to persuade Eva to leave with her, but Eva turns her down for she wants to stay to take care of the children in the mine. On the road towards the border, Yasmine runs into a police blockade where she surrenders to the authorities.",
+      "writers": ["Xavier Gens"],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0814685/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTIyODk1MDMzOF5BMl5BanBnXkFtZTcwMTY2MTU2MQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Karina Testa, Aurélien Wiik, Patrick Ligardes | See full cast and crew »"],
+      "reviews": [
+         "Damn, after really good french movies like A L'interieur and High Tension I was really eager to see Frontieres from reading all the positive reviews. The movie starts out kind of different with political riots and some kids who seem to have stolen money in the hassle. After some dramatic departure of one gang member they flee and split up to meet at the border to go to the Netherlands. The first two take a break in a hostel (Yeah, Hostel everyone!) where they soon meet some strange backwoods girls and a butcher guy... after some uninspired sex with the girls the action breaks loose just waiting for the other 2 to arrive You can pretty much guess what happens... like in a million other movies they were killing tourists for years (clicheed pictures of boxes full of cellphones and passports and abandoned cards hint to that like in Wrong Turn etc.). Its exactly the old TCM Theme with a real messed up family which in this case happen to be the followers of some cliché Neonazi who talks a real fake mix of french and German. You get some violence and torture and like the french love it the only girl turns out to be the toughest of the gang. The cinematography is nice, the acting is OK, the gore is kind of average considering that we live in the age of torture-porn Saw/Hostel movies and the violence is not as over the top as I expected. What bothered me about Frontieres is the strange pacing... the movie is way to long and beginning and end are strangely torn by some cheesy dramatic elements (the female main actor real overacts the last sequences... it seemed way off to me how they were all permanently crying in this movie or telling each other how the love them). The main part of the movie is stretched and seems kind of random in how the family story is implemented. Its just puzzled together with a decrepit slobbering grandma, then some deformed children in the basement, Nazi Daddy and the obligatory good character in form of a seemingly sick girl who lends a helping hand in the backwoods mess. Most of this stuff is just thrown in, dropped off and doesn't work as creepy as e.g. the family story in TCM2 but rather seems like a patchwork of loose ideas. Frontieres is not a bad movie but it suffers from a kind of stylistic inconsistency that throws it from drama to hostel-horror to weird action-style shootouts and back to drama. I am a friend of movies that try to break the genre boundaries but this one didn't quite work. I think A L'interieur did that way better. If you just rent this for he violence you can fast-forward this but you won't see anything you haven't seen in other movies before... OK, maybe I never saw a messed up girl in such a bloody bloody white dress but the whole idea was there ... in other french movies of the recent past. Overall a rather average movie that obviously stole too many ideas from here and there.",
+         "I just thought I had to throw in my penny's worth here and express my surprise at the glowing reviews for this film. Normally I tend to agree with the majority of reviews in the IMDb comments bit, but I feel like I live on a different planet to most of my fellow reviewers here. I had really high expectations for this movie, I loved Haute Tension, Calvaire, Sheitan, Inside, Trouble Every Day, Irreversible, Dobermann, etc etc; These new french horror flicks are really exciting, they follow the lead from the 80s french horror 'Baby Blood', in that they are uncompromising, gory, unpredictable, and even sexy. Frontier(s), sounded like it could easily fit in with this ethos, but it was a total blow out. Frontier(s) is slickly shot, quite gory, and has some bits that should be scary, but it has this horribly immature atmosphere to it, like it was made by a bunch of 15 year old kids let loose with a decent budget and short term memory loss. The editing is ridiculous, rendering the film unwatchable and incoherent in the action scenes, Frontier(s) makes 'Van Helsing' look like a Bela Tarr movie. The acting is really bad too, with the main characters performances reminding me of some kind of inner London 'Yoof' centre Am-Dram play. The director has obviously watched 'The Texas Chainsaw Massacre' and realised that if everyone screams their head off and goes into (unconvincing) spasms, then they will create a scary atmosphere. All it does is pull you out of the film. Finally, the plot is completely stupid (even by horror standards), introducing a Nazi sub- plot (There is definitely a 'La Haine' type plot element, with Paris rioters coming into contact with neo-Nazis, hmm), and making no attempt at all to explain anything. If you want to watch a film where by the end you feel like you have been shouted at and smacked around the face with a packet of Bernard Mathews gammon for 10 hours, then watch this film. Otherwise avoid like the bubonic plague.",
+         "I saw this movie at Sitges International Film Festival on October, 2007, and I am still trying to survive to the shock. I've seen lots of gore movies as I am a big fan of these kind of genre in cinemas, but I hardly remember something so cruel, so brutal, so anti-human, so dirty and so extreme. It's one of those movies that you must not see with your girlfriend, otherwise you're exposed to have a deep argument about your film tastes. So you are on your own, if you have the chance to take a glimpse to this movie, don't hesitate. It's, by far, one of the most thrilling experiences in the land of gore movies for about the last 10 years.",
+         "Maybe I need to watch it a second time. Just being honest, the first time I saw it I actually fell asleep because it was so typical. I watched the last hour I had left this morning, and I still wasn't impressed. I think reading the review on bloody-disgusting.com helped me enjoy it a bit more, but . . . Things you need to know about this film that no one is mentioning: - It takes a lot of time to start up. There is a lot of action in this boring time, but none of it is extremely well done, so you'll most likely be bored in the first hour. - The plot itself is nothing special. It IS, not arguably, The Texas Chainsaw Massacre with a Nazi instead of a wannabe cop gone over the edge. Leatherface is replaced by a guy with his exact same build, but no chainsaw or skin disease. The family table scenes are copy/pasted into this movie in nearly the same exact form. Rip off or inspiration? You decide, but you can't deny the liberties the director took to use the same exact story as The Texas Chainsaw Massacre. - The way it's shot is a copy/paste of the Saw franchise, minus the clock-tick camera scenes. The way it's cut, combined, edited, and shot originally are all heavily influenced if not directly ripped-off of Saw. Once again, decide for yourself which it is. - Unlike the poster tries to suggest, this is no epic. It's more or less a \"went to a hotel with the family from The Texas Chainsaw Massacre, they put me in a Saw II-like maze, and I got out like every typical horror movie ever\". Nothing more, nothing less. - It is NOT insanely violent. If you've seen Saw III, this is tame. Nor does it have the brutality of Saw II. The gore is very generic, almost boring, and certainly predicable in every way. It remained me of an edited cut of The Hills Have Eyes minus the mutants and minus the more extreme moments. Do not expect a gore-fest. If you do, you'll be disappointed. Some gore scenes are even cut-off scenes. My opinion: This film was way too typical. You've seen the formula done a hundred times. The reason I enjoyed it was because it was very well done, and it was pretty intelligent. I was disappointed with the lack of gore, but it wasn't too bad. If I hadn't seen the movies it took everything from, I would have really loved it. But I have, and it was just too typical. The action scenes with the guns were very cool and probably the most memorable parts of the movie. Some of the acting was dead-on-amazing, while others�the little girl, the fat guy�were just lame. The only thing that sold me was the twisted moral about wishing your child was dead before it was born into a world like this. Worth a buy? Not really. Worth a rental? Hardcore, yes! Just don't go into it with the expectations that a perfect review suggests you have. Maybe it does earn a perfect review for the moral, or maybe it deserves a low one for the clichés. I don't know. Decide for yourself. Do not skip a viewing of this movie in some way. 1/10",
+         "If you like the slasher genre, specifically the Texas Chainsaw Massacre, you'll like this. This film has the same atmosphere of dread, of bad things about to happen, of bad people on the way to do bad stuff. It takes a lot longer to get to the gory part, so don't be discouraged by the first 45 minutes or so of drama. Once the killing, maiming and screaming start they don't let up. I found it to be considerably bloodier than Texas Chainsaw Massacre, with about the same amount of suspense. There are a couple of moments when you're hoping the characters aren't really going to do what you just know they are going to do: those \"ouch!\" moments right before the bloodshed. If you're tired of the slasher satire films and ready to get back to some old fashioned blood and gore, this one is for you.",
+         "Frontier(s) is a fast-paced, very violent thrill-ride from Xavier Gens. While it won't be everyone's taste, for fans of full-on gruesome action it's a must. It's basically a very decent version of 'Hostel' with a couple of thugs on the run from riot-torn Paris who seek refuge at a seedy hotel, unbeknownst what lies ahead. It's not a great film by any means but it is a thrilling one. The lead actress did a great job, but there's also good stuff the actor who played Farid and the actor who played the meathead lunatic. Its style is slick, just what I enjoy watching. Fans of the genre will know what to expect, others may not. But I recommend 'Frontier(s) for a mind-f*ck of a night. ***/*****",
+         "So it's another in the line of impressively ultra-violent French movies we have been seeing since the turn of the 21st century but, despite the fact that many other horror fans view this as one of the better examples, I have to say that I was left cold. Frontier(s) is all about a bunch of young people fleeing a riotous Paris and the inn they end up staying at, a place full of nasty people who want to do nasty things to them. And, essentially, that's about it. Oh, one of the potential victims is a pregnant woman so we can at least care for the baby inside her even if her character is otherwise as blank as all the rest. Writer-director Xavier Gens seems to have wanted to make a new, French version of The Texas Chain Saw Massacre and he's succeeded, in some respects. The violence, when it begins, is pretty constant and nasty and the horrid characters populating the movie are quirky enough to be memorable. But what Gens has missed is something intangible and yet essential. Things quickly become so violent and insanely gritty that the whole thing becomes boring. Perhaps it's how little emotional investment we have in the potential victims or perhaps it's because Gens starts with some harsh violence and tries to maintain that level all the way through, rather than building up to a brutal climax (although there are certainly one or two impressive death scenes in the last reel), or perhaps the pacing is a bit off. This will certainly please fans of the more extreme, violent horrors we have been seeing from our European friends of late but I don't think it has the intelligence of Martyrs (even though I ended up disliking the second half of that movie immensely I at least admire it's ideas), the quick and effective character empathy of Inside or just the absolutely over the top carnage of Le Horde. And Switchblade Romance AKA Haute Tension still sits atop this particular pile for me so bear that in mind when you consider my opinion on this one, for better or worse.",
+         "In Paris, during the riots due to the election of a conservative candidate to the presidency of France, the Muslin small thieves teenagers from the periphery Alex (Aurélien Wiik), Tom (David Saracino), Farid (Chems Dahmani), the pregnant Yasmine (Karina Testa) and her brother Sami (Adel Bencherif) plan to run away from Paris to Amsterdam with a bag full of robbed money. However, Sami is shot and the group split, with Alex and Yasmine going to the emergency of a hospital with Sami while Tom and Farid heads to the border with the money. Tom and Farid decide to stop in a bed and breakfast nearby the frontier, and are hosted by Gilberte (Estelle Lefébure) and Klaudia (Amélie Daure) that offer free room and sex to the newcomers. They call Alex and Yasmine that are fleeing from Paris to join them in the inn, but sooner they discover that their hosts are sadistic cannibals of a Nazi family leaded by the deranged patriarch and former SS officer Le Von Geisler (Jean-Pierre Jorris). \"Frontière(s)\" is another brutal French horror movie and a good variation of \"The Texas Chainsaw Massacre\" and \"The Hill Have Eyes\". As a fan of horror movies, I note that French directors are making extremely violent and gore movies, like \"Haute Tension\" and \"À l'Intérieur\" that I have recently seen. \"Frontière(s)\" presents the storyline that everybody knows, but associated to a good screenplay with many cruelties and tortures, great acting and realistic special effects and make-up. I believe that fans of the genre will not be disappointed with this film. My vote is seven. Title (Brazil): \"A Fronteira\" (\"The Border\")",
+         "It's not often you need an overview of recent European history to fully enjoy a horror movie. But Frontier(s) is a special case. All the negative commentary I've read seems to come from the hype surrounding this film. Is Frontier(s) blood-soaked and violent? Sure is! Is it the bloodiest, most repulsively gory film ever? No. I also agree that the basic plot doesn't really venture too far off the path of Hostel, The Texas Chainsaw Massacre or Motel Hell for that matter. But what some people seem to be missing is socio-political climate of France in the last few years. Well, here's where a short French history lesson may come in handy. In October and November of 2005 there were a series of large-scale riots in France that stemmed from the death of two teenagers who lived in a low-income suburb of Paris. They were suspected of a break-in at a construction site and being chased by police. When they tried to hide in a power substation they were electrocuted. The civil unrest that broke out was fueled by unemployment, religious tensions, racial inequality and a growing fear of police harassment. A little over two years later more riots broke out when two more teenagers died after a police car collided with their stolen motorbike. These recent events give Frontier(s) a healthy dose of sub-text as well as a realistic backdrop for its extreme violence. Fear and intolerance are now right beside baguettes and berets as France's main cultural identity. The France seen in Frontier(s) isn't the glossed up version most of us have dreamily romanticized. There are no midnight walks on the Seine. No sipping of espresso at a sidewalk café with the Eiffel Tower in the distance. No scenic tours of the Louvre or the Arch de Triomphe. Writer/director Xavier Gens shows a modern day France that's dark, violent and in anarchy. This is the France that in 2004 banned the wearing of khimars (headscarves) by Muslim girls at school and in 2007 elected Nicolas Sarkozy � a right-wing conservative � as president. So it should be no surprise that Gens' choice of a Nazi family as the bad guys works as a not so subtle metaphor for the French Government. So, for what it's worth, anyone too myopic to know something about France's current environment probably just won't get what Gens is saying in this film.",
+         "Nazi Cannibals, do I need to say more? Yeah, I guess *g*. You maybe heard by now that Frontiers \"borrows\" a \"little\" bit from Texas Chainsaw Massacre, The Hills Have Eyes and Hostel. And if you like the above mentioned you maybe think this is a movie I like to see. Well, THINK AGAIN!! First let me tell you I hated Hostle. Torturing people to death? I don't get it. But I'm not squeamish when it comes to ridiculous violence or gore (go watch Braindead). But Frontiers won't show you anything you haven't seen already, let alone original. Like the recently released Inside, it tries to push the boundaries, but my only reaction is a mild shrug. I won't go into the details of the stupid plot. Just that it seems like when they tried to come up with a original story, they decided the best result could be achieved if you put a stoned monkey and a typewriter in a room and lock the door. So to conclude my little rant. I like to point out that there is hope. Every once in a while you still can stumble upon a Horror flick that actually deserves that name. Rec, The Descent, Tale Of Two Sisters, House of 1000 Corpses, Kairo, The Rise of Leslie Vernon, Haute Tension, Severance...just to name a few from recent years. So look out, but please avoid such movies like this."
+      ],
+      "genres": [
+         "Horror",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Cartel Productions",
+         "BR Films",
+         "EuropaCorp"
+      ],
+      "summaries": [
+         "In Paris, during the riots due to the election of a conservative candidate to the presidency of France, a group of four muslim small-time criminal teenagers from the periphery; Alex, Tom, Farid, the pregnant Yasmine, and her brother Sami, plan to run away from Paris to Amsterdam with a bag full of robbed money. However, Sami is shot and the group split up, with Alex and Yasmine going to the emergency hospital with Sami while Tom and Farid head to the border with the money. Tom and Farid decide to stop in a bed and breakfast nearby the frontier, and are hosted by Gilberte and Klaudia that offer free room and sex to the newcomers. They call Alex and Yasmine who are fleeing from Paris to join them in the inn. But soon they discover that their hosts are sadistic cannibals of a Nazi family led by the deranged patriarch and former SS officer and Nazi war criminal Le Von Geisler who plans to make Yasmine the brood mare for a new Aryan master race.",
+         "A gang of young thieves flee Paris during the violent aftermath of a political election, only to hole up at an Inn run by neo-Nazis."
+      ],
+      "budget": 3000000
+   },
+   "movielensId": 66310,
+   "movielens": {
+      "languages": [
+         "Français",
+         "Deutsch"
+      ],
+      "releaseDate": "2007-07-01",
+      "dvdReleaseDate": "2008-05-13",
+      "directors": ["Xavier Gens"],
+      "runtime": 108,
+      "movieId": 66310,
+      "title": "Frontier(s)",
+      "mpaa": "NC-17",
+      "actors": [
+         "Karina Testa",
+         "Aurélien Wiik",
+         "Patrick Ligardes",
+         "David Saracino",
+         "Maud Forget",
+         "Samuel Le Bihan",
+         "Chems Dahmani",
+         "Amélie Daure",
+         "Estelle Lefébure",
+         "Rosine Favey",
+         "Adel Bencherif",
+         "Joël Lefrançois",
+         "Jean-Pierre Jorris",
+         "Stéphane Jacquot",
+         "Christine Culerier"
+      ],
+      "imdbMovieId": "0814685",
+      "originalTitle": "Frontière(s)",
+      "genres": [
+         "Drama",
+         "Horror",
+         "Action",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["GmmpJSiqU3Y"],
+      "plotSummary": "A gang of young thieves flee Paris during the violent aftermath of a political election, only to hole up at an Inn run by neo-Nazis.",
+      "tmdbMovieId": 13492,
+      "avgRating": 3.01653,
+      "releaseYear": "2007",
+      "numRatings": 121,
+      "posterPath": "/bWd5u7MWgInE6JYx00f8CzfDNw5.jpg"
+   }
+}

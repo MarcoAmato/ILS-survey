@@ -1,0 +1,1059 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "street gang",
+            "id": 542
+         },
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "small town",
+            "id": 1415
+         },
+         {
+            "name": "vampire",
+            "id": 3133
+         },
+         {
+            "name": "comic book",
+            "id": 5451
+         },
+         {
+            "name": "boardwalk",
+            "id": 5532
+         },
+         {
+            "name": "single",
+            "id": 9457
+         },
+         {
+            "name": "amusement park",
+            "id": 155582
+         }
+      ],
+      "imdb_id": "tt0093437",
+      "video": false,
+      "title": "The Lost Boys",
+      "recommendations": [
+         11797,
+         609,
+         8913,
+         9529,
+         814,
+         1649,
+         9100,
+         11814,
+         1551,
+         794,
+         1648,
+         8873,
+         6488,
+         865,
+         10406,
+         8769,
+         1694,
+         11967,
+         11298,
+         11974
+      ],
+      "backdrop_path": "/3wMkHCnwG2PdNeFkfou8vTY2g5b.jpg",
+      "revenue": 32222567,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Michael Emerson",
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031d9b",
+               "name": "Jason Patric",
+               "profile_path": "/1WxY2kcQqx9gHloTmRuY5ta3Nje.jpg",
+               "id": 12261,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Sam Emerson",
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031da3",
+               "name": "Corey Haim",
+               "profile_path": "/viodPG7i2x0cJHGVHRVs6C8pIrE.jpg",
+               "id": 17444,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Edgar Frog",
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031d9f",
+               "name": "Corey Feldman",
+               "profile_path": "/odE8az9kgHCkWMtWzfmcDBuZiww.jpg",
+               "id": 3034,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Lucy Emerson",
+               "gender": 1,
+               "credit_id": "52fe42fcc3a36847f8031daf",
+               "name": "Dianne Wiest",
+               "profile_path": "/sWm7Oar69rHGJzKgcP4iutwUmLb.jpg",
+               "id": 1902,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "David",
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031da7",
+               "name": "Kiefer Sutherland",
+               "profile_path": "/4YvDfOfD4TgyzDkLGoq76g5BZNe.jpg",
+               "id": 2628,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Star",
+               "gender": 1,
+               "credit_id": "52fe42fcc3a36847f8031dab",
+               "name": "Jami Gertz",
+               "profile_path": "/kkYuMw8V6WxhxbnwHWiMbDLkoP.jpg",
+               "id": 9995,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Max",
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031db3",
+               "name": "Edward Herrmann",
+               "profile_path": "/3AGRAverIuT6kgSfGQPiY55QZzG.jpg",
+               "id": 52995,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Alan Frog",
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031db7",
+               "name": "Jamison Newlander",
+               "profile_path": "/ium4BAZvrcJdAfRqNOiIFc8A8cw.jpg",
+               "id": 134800,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Dwayne",
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031dbb",
+               "name": "Billy Wirth",
+               "profile_path": "/oyigYLUbcfdpkhC5SqAQuRyLA7p.jpg",
+               "id": 39112,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Marko",
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031dbf",
+               "name": "Alex Winter",
+               "profile_path": "/yHtymrjOTwB82EnpPgQjIgAXdTN.jpg",
+               "id": 18355,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Laddie",
+               "gender": 0,
+               "credit_id": "52fe42fcc3a36847f8031dc3",
+               "name": "Chance Michael Corbitt",
+               "profile_path": "/rGODr97vGYCJGFs2cSvGxEbGim8.jpg",
+               "id": 134801,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Grandpa",
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031dd3",
+               "name": "Barnard Hughes",
+               "profile_path": "/jvHz3TjqROc3Wixeq6dbFBas3EB.jpg",
+               "id": 2549,
+               "order": 11
+            },
+            {
+               "cast_id": 18,
+               "character": "Paul",
+               "gender": 0,
+               "credit_id": "52fe42fcc3a36847f8031dd7",
+               "name": "Brooke McCarter",
+               "profile_path": "/A0RzEN2xWWfogHtJvFrz4D87eUi.jpg",
+               "id": 114149,
+               "order": 12
+            },
+            {
+               "cast_id": 19,
+               "character": "Greg",
+               "gender": 0,
+               "credit_id": "52fe42fcc3a36847f8031ddb",
+               "name": "Alexander Bacan Chapman",
+               "profile_path": "/7RTsxBbMq1YnRS2bCybgTVmTDpe.jpg",
+               "id": 1077770,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Shelly",
+               "gender": 0,
+               "credit_id": "52fe42fcc3a36847f8031ddf",
+               "name": "Nori Morgan",
+               "profile_path": "/85tniMGEZ0bv4Ka2O0CDuchkJLt.jpg",
+               "id": 368784,
+               "order": 14
+            },
+            {
+               "cast_id": 21,
+               "character": "Maria",
+               "gender": 1,
+               "credit_id": "52fe42fcc3a36847f8031de3",
+               "name": "Kelly Jo Minter",
+               "profile_path": "/miyC0t5uCSUT07Gtuli7wZCeLFG.jpg",
+               "id": 63046,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "Surf Nazi #1",
+               "gender": 0,
+               "credit_id": "59a934e7c3a368767101207c",
+               "name": "Todd Feder",
+               "profile_path": "/t62yzhMhcKzSHGNxkuKSRA7Hdpj.jpg",
+               "id": 154450,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Surf Nazi #2",
+               "gender": 0,
+               "credit_id": "59a93512925141579d029f42",
+               "name": "Christopher Peters",
+               "profile_path": "/l2SF6MErgQmN8I8PnnmjVT47sX4.jpg",
+               "id": 1880361,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Surf Nazi #3",
+               "gender": 0,
+               "credit_id": "59a9351d925141579d029f5b",
+               "name": "Keith Butterfield",
+               "profile_path": null,
+               "id": 1880362,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "Surf Nazi #4",
+               "gender": 0,
+               "credit_id": "59a9352892514157f602a139",
+               "name": "Gerald Younggren",
+               "profile_path": null,
+               "id": 1880363,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Surf Nazi #5",
+               "gender": 0,
+               "credit_id": "59a9353292514157a5029a61",
+               "name": "Eric Graves",
+               "profile_path": null,
+               "id": 1880364,
+               "order": 20
+            },
+            {
+               "cast_id": 28,
+               "character": "Security Guard",
+               "gender": 0,
+               "credit_id": "59a9353d92514157ab029e01",
+               "name": "J. Dinan Myrtetus",
+               "profile_path": "/a97IcCIwFcE2yq93hu60OaVbeaa.jpg",
+               "id": 1880365,
+               "order": 21
+            },
+            {
+               "cast_id": 29,
+               "character": "Beach Concert Star",
+               "gender": 0,
+               "credit_id": "59a9354ac3a3683c870280dc",
+               "name": "Timmy Cappello",
+               "profile_path": null,
+               "id": 580255,
+               "order": 22
+            },
+            {
+               "cast_id": 30,
+               "character": "Gas Station Owner",
+               "gender": 2,
+               "credit_id": "59a93573925141580802ab5d",
+               "name": "Jim Turner",
+               "profile_path": "/mujwEKBe86I89VblEvK3zQbE81j.jpg",
+               "id": 58768,
+               "order": 23
+            },
+            {
+               "cast_id": 31,
+               "character": "Lost Child",
+               "gender": 0,
+               "credit_id": "59a9357c92514157ab029e45",
+               "name": "Tony Cain",
+               "profile_path": null,
+               "id": 1880366,
+               "order": 24
+            },
+            {
+               "cast_id": 32,
+               "character": "Child's Mother",
+               "gender": 0,
+               "credit_id": "59a9358792514157ee027c4a",
+               "name": "Melanie Bishop",
+               "profile_path": null,
+               "id": 1880367,
+               "order": 25
+            },
+            {
+               "cast_id": 33,
+               "character": "Girl on Boardwalk (uncredited)",
+               "gender": 0,
+               "credit_id": "59a9359ec3a3683c7a02d7bb",
+               "name": "Nicole Vigil",
+               "profile_path": "/rvtTXtDzft2R8SYoRsV56AJF588.jpg",
+               "id": 1880368,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031d97",
+               "name": "Joel Schumacher",
+               "profile_path": "/ijI5sCPqDvT18NRWCeBqw8BJIZx.jpg",
+               "id": 5572,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42fcc3a36847f8031dc9",
+               "name": "Janice Fischer",
+               "profile_path": null,
+               "id": 17445,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42fcc3a36847f8031dcf",
+               "name": "James Jeremias",
+               "profile_path": null,
+               "id": 17446,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42fcc3a36847f8031de9",
+               "name": "Ve Neill",
+               "profile_path": "/gNYwxuK5Z7Nr3tWtSWv0qAueUIs.jpg",
+               "id": 406204,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a9362ec3a36876710121fd",
+               "name": "Harvey Bernhard",
+               "profile_path": null,
+               "id": 7199,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a936c7c3a36876710122ac",
+               "name": "Mark Damon",
+               "profile_path": "/uIPFihuOZBXbFf4Bp2sYAlaq4wE.jpg",
+               "id": 6890,
+               "department": "Production",
+               "job": "Co-Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a936d5c3a36876710122cf",
+               "name": "Richard Donner",
+               "profile_path": "/2G0gyLVJzLmRl4W3sFyaVfxppJJ.jpg",
+               "id": 7187,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a936e092514157f602a306",
+               "name": "John W. Hyde",
+               "profile_path": null,
+               "id": 62585,
+               "department": "Production",
+               "job": "Co-Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a93704c3a36874d5011cbf",
+               "name": "Michael Chapman",
+               "profile_path": "/uGg69IydM1NTgbjEHZVVyCDOW8s.jpg",
+               "id": 1044,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a93711c3a3683d070229e7",
+               "name": "Robert Brown",
+               "profile_path": null,
+               "id": 14339,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59a9371a925141580802ad39",
+               "name": "Marion Dougherty",
+               "profile_path": "/vHUj1WzotNrj9PTT6wJ1yhhULbD.jpg",
+               "id": 3806,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a9372492514157ab029ff2",
+               "name": "Bo Welch",
+               "profile_path": "/lYSuKR7b8aNYnZmzVQh4CPk5YMe.jpg",
+               "id": 5133,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a9372f92514157f602a351",
+               "name": "Tom Duffield",
+               "profile_path": null,
+               "id": 7146,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93738c3a3683c4d028103",
+               "name": "R. Chris Westlund",
+               "profile_path": null,
+               "id": 74967,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59a93742c3a3683ccc02b798",
+               "name": "Susan Becker",
+               "profile_path": null,
+               "id": 4713,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93752c3a3683c870282d1",
+               "name": "William L. Young",
+               "profile_path": null,
+               "id": 1880370,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a9376292514157f602a385",
+               "name": "Donald Elliott",
+               "profile_path": null,
+               "id": 1546810,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a9376cc3a3683ccc02b7d3",
+               "name": "Sam Marquez",
+               "profile_path": null,
+               "id": 1880371,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a9379cc3a3683ce60271ba",
+               "name": "Tim Moran",
+               "profile_path": null,
+               "id": 1880373,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a937a7c3a36876710123ba",
+               "name": "Doyle Smiley",
+               "profile_path": null,
+               "id": 1880374,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a937b292514157ee027e73",
+               "name": "Bob Stoker",
+               "profile_path": null,
+               "id": 1693553,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a937bc92514157f602a3dd",
+               "name": "Lucinda Strub",
+               "profile_path": null,
+               "id": 1880375,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a937cbc3a3683c7a02da41",
+               "name": "Richard Stutsman",
+               "profile_path": null,
+               "id": 4152,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a937de925141579d02a1e8",
+               "name": "Matt Sweeney",
+               "profile_path": null,
+               "id": 7859,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a937e992514157f602a408",
+               "name": "Fred Tassaro",
+               "profile_path": null,
+               "id": 1880377,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a937f392514157c60293cb",
+               "name": "Mike Wever",
+               "profile_path": null,
+               "id": 1880378,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93881c3a3683c7a02dafa",
+               "name": "D. Kerry Prior ",
+               "profile_path": null,
+               "id": 588219,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a938a392514157c602947d",
+               "name": "Vicky Benson",
+               "profile_path": null,
+               "id": 1880381,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59a938ac92514157f602a4be",
+               "name": "Sandy Berumen",
+               "profile_path": "/kzrKAYM3xTbNoVnihyXdkuiz1PH.jpg",
+               "id": 1457926,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a938b592514157a5029e0d",
+               "name": "May Boss",
+               "profile_path": null,
+               "id": 1686226,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a938cbc3a3683ccc02b93b",
+               "name": "Christopher Bowman",
+               "profile_path": null,
+               "id": 1880382,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a938d5c3a3683ccc02b94d",
+               "name": "Janet Brady",
+               "profile_path": null,
+               "id": 1880383,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a938e8c3a3683c4d028281",
+               "name": "David Burton",
+               "profile_path": null,
+               "id": 1776403,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a938f592514157f602a503",
+               "name": "Jodie Mae Caldwell",
+               "profile_path": null,
+               "id": 1880384,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a938fd92514157c60294dd",
+               "name": "Doc D. Charbonneau",
+               "profile_path": null,
+               "id": 589957,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93906c3a3683ccc02b97e",
+               "name": "Monty Cox",
+               "profile_path": null,
+               "id": 119575,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a93949c3a3683c870284a1",
+               "name": "Gary Davis",
+               "profile_path": null,
+               "id": 93887,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93955c3a3683c7a02dbce",
+               "name": "Scott Dockstader",
+               "profile_path": null,
+               "id": 1880385,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a9395d9251415799029368",
+               "name": "Bill Erickson",
+               "profile_path": null,
+               "id": 1536529,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93966c3a3683ccc02b9e9",
+               "name": "Bruce Gattenbein",
+               "profile_path": null,
+               "id": 1880386,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59a9396fc3a3683c4d028311",
+               "name": "Sandra Lee Gimpel",
+               "profile_path": "/tOT1FikO7Qw2WCeMe5mJp4S6UzV.jpg",
+               "id": 1472602,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93978c3a3683c870284cd",
+               "name": "Jeff Habberstad",
+               "profile_path": null,
+               "id": 9624,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a93982925141579902938e",
+               "name": "Randy Hall",
+               "profile_path": "/odl5vFiM1iSiX4sw2OjWcpKnklS.jpg",
+               "id": 95192,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a9398dc3a36874d5011f9b",
+               "name": "Steve Holladay",
+               "profile_path": null,
+               "id": 1404906,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93997925141579d02a3cf",
+               "name": "Madonna Joy",
+               "profile_path": null,
+               "id": 1880387,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a939a092514157ee028019",
+               "name": "Kim Robert Koscki",
+               "profile_path": "/s5uxhaq5YZCKQ0qvwegw5cPDCV4.jpg",
+               "id": 92494,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a939ac92514157ab02a275",
+               "name": "David LeBell",
+               "profile_path": null,
+               "id": 1787265,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a939b792514157f602a5a0",
+               "name": "Gene LeBell",
+               "profile_path": "/2hLfLgP3B2F99sdO06vlWVcrA7p.jpg",
+               "id": 16643,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a939d3925141579d02a3f5",
+               "name": "John Meier",
+               "profile_path": null,
+               "id": 194654,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a939dfc3a36874d5011fea",
+               "name": "Larry Nicholas",
+               "profile_path": null,
+               "id": 1880388,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a939eb92514157990293d1",
+               "name": "William R. Perry",
+               "profile_path": null,
+               "id": 1877153,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a939f9c3a3683c7a02dc8b",
+               "name": "Chuck Picerni Jr.",
+               "profile_path": "/yE5QtXUzcrnCzMRctZL8F5g842B.jpg",
+               "id": 1442535,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93a03c3a3683c87028538",
+               "name": "Dan Plum",
+               "profile_path": null,
+               "id": 1880389,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a93a0cc3a3683c8702853f",
+               "name": "Bernie Pock",
+               "profile_path": "/iqadYjsL9jJe0ZxbuU8xawagyAQ.jpg",
+               "id": 1497675,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a93a1492514157f602a605",
+               "name": "Pat Romano",
+               "profile_path": null,
+               "id": 1462675,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93a41c3a3683c4d0283cc",
+               "name": "Dennis Scott",
+               "profile_path": null,
+               "id": 92484,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93a4e925141579d02a482",
+               "name": "Ceci Vendrell",
+               "profile_path": null,
+               "id": 1880390,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93a58c3a3683c8702859b",
+               "name": "Jack West",
+               "profile_path": null,
+               "id": 1880391,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a93a6992514157ab02a346",
+               "name": "Scott Wilder",
+               "profile_path": "/k1Q7azsFmrvLIljAl955Q103Wim.jpg",
+               "id": 1549025,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59a93a7592514157a5029fcb",
+               "name": "Spice Williams-Crosby",
+               "profile_path": "/jof9zc9cW3jxM7fSZwIYgsmm2Q2.jpg",
+               "id": 77740,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f5645292514142210083ee",
+               "name": "Thomas Newman",
+               "profile_path": "/nZSsNIrjbkqqxFYwsD3zcHskxdP.jpg",
+               "id": 153,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9614aec3a36859ff001de1",
+               "name": "Tony Gardner",
+               "profile_path": null,
+               "id": 29217,
+               "department": "Crew",
+               "job": "Special Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 14.567131,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 1547,
+      "vote_count": 655,
+      "budget": 8500000,
+      "overview": "A mother and her two teenage sons move to a seemingly nice and quiet small coastal California town yet soon find out that it's overrun by bike gangs and vampires. A couple of teenage friends take it upon themselves to hunt down the vampires that they suspect of a few mysterious murders and restore peace and calm to their town.",
+      "similar": [
+         36647,
+         49017,
+         7131,
+         6404,
+         36648,
+         6114,
+         628,
+         11631,
+         76492,
+         2539,
+         392,
+         185,
+         65,
+         24021,
+         9741,
+         129,
+         277,
+         8698,
+         138,
+         10577
+      ],
+      "original_title": "The Lost Boys",
+      "runtime": 97,
+      "poster_path": "/evo7oiay9qDUzY510VhrB3YzyJs.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+         "name": "Warner Bros. Pictures",
+         "id": 174,
+         "origin_country": "US"
+      }],
+      "release_date": "1987-07-31",
+      "vote_average": 6.8,
+      "belongs_to_collection": {
+         "backdrop_path": "/qXpWa7kDopkOyEhuZtOLgIh4SW9.jpg",
+         "name": "Lost Boys Collection",
+         "id": 109076,
+         "poster_path": "/rpuL8zSLmVt34gwk03gSGReSjog.jpg"
+      },
+      "tagline": "Sleep all day. Party all night. Never grow old. Never die. It's fun to be a vampire.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Joel Schumacher"],
+      "runtime": 97,
+      "synopsis": "Following the divorce of their parents, Micheal [Jason Patric] and Sam [Corey Haim] Emerson, along with their mother Lucy [Dianne Wiest], move to Santa Carla, California to live with their mother's father, a peculiar old man [Barnard Hughes]. Santa Carla happens to be the murder capital of the world. Santa Carla is a beach town with a boardwalk and the kids that hang out there, including a group of tough kids lead by David [Keifer Sutherland]. While Lucy gets a job working for Max [Edward Herrmann] at the local video store, Sam befriends the Frog Brothers, Edgar [Corey Feldman] and Alan [Jamison Newlander] who inform Sam that Santa Carla is crawling with vampires. Meanwhile, Michael becomes enthralled by the mysterious and beautiful Star [Jami Gertz], who happens to be the girlfriend of David. David and his gang take Michael to their hideout, which is the remnants of an old hotel that collapsed during an earthquake. While there, Michael inadvertently drinks David's blood, thinking it is wine. Michael starts to develop some side effects - including sensitivity to sounds, a lack of reflection, and even flying. Sam accuses Michael of being a vampire but Michael convinces Sam that he can figure out how to fix it. Instead, Michael sleeps with Star. Sam decides to take matters into his own hands and asks for counsel from the Frog Brothers who promptly tell Sam that the only remedy is to drive a stake in Michael's heart but that Michael may only be a half-vampire, in which case, if the head vampire is killed, Micheal will go back to normal. Meanwhile, Lucy begins to date Max and thinks that her boys are just having problems dealing with her dating after the divorce. Finally, Michael decides to take Star, along with a little half-vampire boy named Laddie Thompson [Chance Michael Corbitt], from David's clutches and brings Sam and the Frog Brothers with him to kill David and his gang while Michael grabs Star and Laddie. The inexperienced Frog Brothers manage to kill one vampire before waking the bunch and flee into the daylight. David smiles as the group escapes saying \"tonight\". Sam, Michael, and the Frog Brothers prepare for the night ahead. They prepare a bathtub full of garlic. They fill squirt guns with holy water. They prepare wooden stakes. Night falls and David and the remainder of his crowd come to Sam and Michael's house to seek vengeance. Sam and Michael take out one of the vampires by electricity and the Frog Brothers are saved by Sam & Michael's dog when the dog knocks a vampire into the bathtub with garlic. Finally, David and Michael face off. Michael kills David by pushing him onto some antlers. The only problem is that Michael doesn't go back to being human. David was not the head vampire. Just then Lucy comes home with Max from a date. Unseen by Max, Michael and Star hide in the shadows as Max approaches the deceased David. Max appears to be upset by the death. It's then that it is revealed that Max is the head vampire and that David and his gang were Max's \"children\" of sorts. Max wanted David to make Michael and Sam part of the \"family\" so that Lucy would agree to being with Max knowing what he is. Max wanted Lucy because his boys were in need of a mother. Even though his boys are dead he still wants Lucy. Max takes hold of Sam, telling Lucy that Sam will die if she doesn't come to him. Just then Lucy's father busts into the house in his car equipped with wooden stakes. Max is killed and the day is saved. As Lucy makes sure her boys are okay, the grandfather goes to the kitchen, pops open a beer and says \"There's one thing about living in Santa Carla...I never could stomach - all the damn vampires.\"",
+      "writers": [
+         "Jan Fischer",
+         "James Jeremias"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0093437/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE2NTAxNDM5OV5BMl5BanBnXkFtZTgwMjg0NzQxMTE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jason Patric, Corey Haim, Dianne Wiest | See full cast and crew »"],
+      "reviews": [
+         "One thing I can always promise you is that when people talk about the best vampire movies of all time, The Lost Boys is guaranteed to be on their list. In the 1980's, films were all about action, sex appeal, muscles and very good looking teenagers. Joel Schumacher, who was starting out at the time, was given the script and it was about kid vampires. He thought it sounded silly and offered a different idea of it being teenage vampires on motorcycles; who knew he had one of the best ideas that would create such a huge cult classic for decades? I absolutely adore this movie, everything about it: it's style, the script, the humor, the horror, the make up, the cast and the music. While dated, it still has a timeless fun style to it that will entertain those who are seeing it for the first time as if it was the opening weekend at the movie theater. I've watched this movie since I was a little girl and it's interesting to see that I still love The Lost Boys so much, as an adult I have a different love for it than \"the boys are sooo cute!\", well, they still are, but besides the point, The Lost Boys is a great movie that will not disappoint. Michael and his younger brother, Sam, move with their just-divorced mother, Lucy, to Santa Carla, plagued by gang activity and unexplained disappearances, what better place to take your children?! The family moves in with Lucy's father, an eccentric old man who lives on the outskirts of town, and enjoys taxidermy as a hobby. The center of town life is the Boardwalk, which is plastered with flyers of missing people. While Lucy gets a job at a local video store run by a conservative man named Max, Michael becomes fascinated by Star, a beautiful young woman who lives with the mysterious leader of the local gang, David. Meanwhile, in the local comic book store, Sam meets brothers Edgar and Alan Frog, self-proclaimed vampire hunters who give Sam horror comics to teach him about vampires. When Michael meets Star the next night, David provokes him into a motorcycle race, in which he is baited into almost going over the edge of a sea cliff. David invites Michael to their lair, where he is put through an unsettling initiation that includes drinking blood from a wine bottle. The next night, while Sam takes a bath, his dog, Nanook, is forced to fend off Michael's bloodlust-driven attack on Sam. When Sam looks for his dog, he finds his brother has been attacked, but also that Michael's reflection in a mirror has become transparent. Sam calls the Frog brothers for help, they say the only way to save his brother is by killing the head vampire who they suspect is Max, Lucy's boss and new boyfriend. It's hard to pin point what is so great about this movie. I love the cast, starting with Kiefer Sutherland who plays David, the lead of the Lost Boys. He has only a few lines, but you'd think he was the title character the way he presents himself, you can tell he had so much fun with this bad boy role. Dianne Wiest, one of my favorite actresses, what a beautiful lovely woman she is, her character is so warm and wonderful. She plays a great mom and is so believable the way she reacts to the situations she's put in by her crazy sons. This was also the start of \"The Two Corey's\", Corey Haim and Corey Feldman who had great chemistry along side with Jamison Newlander as they are hunting for vampires. They're like Rambo's who take themselves way too seriously and that's why they are so hilarious but great at what they do. The make up effects are just great and the vampires had such a sleek sexy look to them but still terrifying; the scene where they show Michael their vampire faces is one of the most memorable and most frightening. This is without a doubt the sexiest vampire movie you could watch. It has everything a vampire film should have to entertain. I still love showing this movie to my friends who never saw it, I envy the look on their faces at the end when they fall in love with it too as I wish I could say I was seeing it for the first time too. But I watch it each time and love it as if I were watching it for the first time, it's a fantastic movie, I could go on and on, but I'll just end with: please watch this movie. You better be buying this movie right now as you're finished reading this comment. 10/10",
+         "Without a doubt, among the most brilliant of vampire movies ever made, in the modern film era. Jason Patric and Kiefer Sutherland are destined to blow away all audiences of this visual masterpiece. However, the twist at the end, which I plan not to give away, was made slightly obvious, though well hidden at the same time. Joel Schumacher does a splendid job directing this true work of art. The frog brothers did a great job of adding humor to this otherwise, mainly serious film, without spoiling the suspense. That made the film far more enjoyable to people with interests in multiple genres. Jami Gertz looks absolutely attractive in her role as Star. However, the show is undoubtedly stolen by Kiefer Sutherland, in the role of David, the rebellious, dangerous, rude and rambunctious, teenaged vampire, who seduces Michael (Jason Patric) into joining his gang of vampires. The story is of a woman (Dianne Wiest), and her two sons, Sam (Corey Haim) and Michael (Patric), who move to a small Californian town, called Santa Carla, often referred to as the murder capital of the world, to live with her father after getting divorced. Little to their knowledge, the town happens to be inhabited by a motorcycle gang of Jim Morrison obsessed, teenage vampires. While the mother begins to fall in love with her boss from the video store, where she has been employed, Sam spends his time reading vampire comics, which were given to him by two brothers (Corey Feldman, Jamison Newlander), who claim the town is infested by vampires. He does not believe them, but grows to almost immediately, upon realizing that his brother, Michael, has been seduced by the beautiful half-vampiress, Star (Gertz), and joins the gang, led by David (Sutherland). He realizes that neither Star nor Michael are true vampire until they make their first kill, and they will not become normal again until the head vampire is killed. So, he calls up the brothers Frog, and gets them to come in and help him solve the job, though he is scared that he might have to kill his brother. Overall, a cinematic masterpiece. The directing, acting, writing, camera work, special effects, stunts and, of course, the epic cinematography work with the astounding score to bring together one of the most loved films of all time. The story is in fact an allegory to that of the lost boys of Neverland, from Peter Pan. A contemporary, without the temporary, classic.",
+         "OK everyone agrees THE LOST BOYS was way ahead of its time. Dead set right! In essence it hasn't aged at all, only the fashions! By far Corey Haim's best flick, Cory Feldham's too, although I rather liked TEENAGE MUTANT NINJA TURTLES (The original, that is) Schumacher's concept of placing the vampire myth in sleepyville USA was commendable, it really worked. Sutherland took his role in both teeth and gave us a stylish vampire-on-a-Harley with Jami Gertz in tow. God does SHE look young here compared to her role as Bill Paxton's neurotic fiancee in TWISTER?) Absolutely outstanding soundtrack that my kids have totally worn out the last decade or so. As a family we have probably watched THE LOST BOYS more than any other film. Everything gels, gr8 fx and, given the subject matter, a literate script. Deserving of the relatively high rating it has received here. WE have the same problem here in Castle Hill, WAY too many damn vampires!",
+         "This movie to me is more of a comedy than a horror. The scenes I remember most are the funny ones. Not to say it is a pure comedy, it isn't. It is though a very good vampire tale. The cast is superb, even Corey Haim and Feldman. This is definitely the best movie they did together. This one has a family of three (a mother and two sons) moving into her dad's home. They go around town and the younger one hears from some comic book workers that there are vampires in town. The older son is in fact being recruited by said vampires and is already becoming one after drinking a strange liquid. All in all I love this film and it is one of my favorite vampire flicks. Good mixture of action, horror, and especially for me...comedy. This movie is so very well made that you will find it hard to believe that the director of this would go on to make the pretty bad \"Batman and Robin\". This movie though is good, and has one of the best ending lines of any movie.",
+         "The Lost Boys is one of the movies that I think epitomizes the 1980's. It has a genuine 80's look and feel, as well as an awesome soundtrack and some fantastic performances by 80's legends like Corey Feldman. This movie really draws you into it and makes you feel like you're right there in Santa Carla. The music fits the film perfectly. Nothing would have worked better. The setting is perfect. If you were a vampire and you were never going to die, where else would you want to spend your time? The amusement park, the abandoned cave with all that great stuff in it, and the railroad tracks (trust me, you'll understand after you see it) are absolutely incredible. The way Joel Schumacher uses certain POV shots and the eerie fog only add to the mood and atmosphere of the movie. The gore and special effects are great! Since this is an 80's movie, there is no CGI thankfully, so everything you see is really real. The make-up of the vampires is excellent with their piercing eyes and long fangs. The gore doesn't really show itself until the end, though there is a very bloody (but quick) campfire attack in the middle. Once we do get to the blood and guts, it's great! There's a melting vampire in holy water, an exploding vampire, two excellent impalings, and more where that came from. Finally, the acting is great. We have a very good cast, especially Kiefer Sutherland, who puts everyone else to shame. Jason Patric is a little dry, but he's great in his role. Max and Lucy have good chemistry, as well as Star and Michael. The Frog Brothers are classic and are responsible for most of the humor. Superb performances by all! The Bottom Line: A true 80's flick, with great performances, awesome special effects, a rocking soundtrack, and Corey Feldman!!!",
+         "Browsing through IMDB I was shocked to see this film has only scored 6.7! The brilliance of this film is undescribable, I first saw it when I was about 11. It changed me! I wanted to be a teenage vampire and live forever! I have probably since seen this film more than any other, I haven't a bad word about it. Fantastic effects, acting, writing, and the music, believe me you'll be straight out to buy the soundtrack once you've seen this, and play it as if it was one of your favourite albums. Everyone is great in this film but Feldman was born for this part, he's like an older version of 'Mouth' from The Goonies, in many ways this film like an older brother to Goonies and cousin of American Werewolf. They truly don't make movies like this anymore, they finished in the 80's (Gremlins, Fright Night, American Werewolf in London, Return of the Living Dead, Evil Dead, I'm sure there's more...). What more can I say?",
+         "This is the best popcorn movie I've ever watched. It has to be one of the best vampire flicks to hit 80's screens. (Well actually I can think of others but this one tops them.) Some critics refer to it as just one big MTV music commercial with all the pop culture references and all, but the soundtrack is the best feature of it. Kiefer Sutherland makes a fantastically sexy vampire and Jamie Gertz acts the best I've ever seen. Good to see some older pro's in for the ride as well (Dianne Wiest and Edward Herriman). I totally recommend this movie for a Friday night in. 9/10",
+         "I loved this film as a kid and it has always stayed at the top of my vampire genre list, you could bet I was plenty surprised when I found out that this little jewel of 80's cinema was directed by the now yawn worthy \"Phone Booth\" helmer, Joel Scumacher (the man who massacred the \"Batman\" franchise). The best element of this movie is that fact that it doesn't take itself very seriously, but in no way does that effect the relative creepiness of the main storyline. The makeup is top notch, as are the special effects and the acting is a perfect fit to the context of the film. Yeah, Corey Haim may not be a Dean or Brando, but he is pitch perfect as the annoying little brother who talks big and runs fast in the face of trouble. Jason Patrick is as good as an actor could possibly be in a role that requires very little character development but the big star here is Kiefer Sutherland who channels his \"scary bad boy\" look into a character who is as fun to watch as he is frightening. Rounding out the rest of the cast is Dianne Wiest as the sweet mother, Corey Haim and Edward Hermann as the vampire killing duo Edgar and Alan (a cute Poe reference) Frog and 80's movie staple Jamie Gertz as the gypsy-esque Star.(sidenote: Yes that is Alex Winter of \"Bill and Ted\" fame as one of the lesser vampires) The film has many memorable scenes including the vampire initiation and the scene where Patrick first approaches his brother in vampire form. Though the 80's fashion and music are powerful throughout they borderline overdone and are still enjoyable. Plotwise the set up is acceptable: Wiest and her two sons(Patrick and Haim) move into her father's house in Santa Carla, California, a quaint little beach side town that has been suffering from a high homicide rate. While mom looks for a job the boys look for something to do, Patrick setting his sights on the alluring Star and Haim settling into the local comic den, both fail to notice the ridiculous amount of \"MISSING\" posters on the walls. Patrick is led astray by a group of youths who like to drag race and hang out in a cave, eventually peer pressure rears its ugly head and soon enough Patrick is one of them. Then he finds out exactly why they only hang out after dark. Full of great one liners and comedic performances (Barnard Hughes is great as the eccentric taxidermist/grandfather) \"The Lost Boys\" is a film showcased by the small touches: we still have the usual vampire yarn, but the youthful overtones create a different effect. Yes its 80's but its damn fun to watch. Schumacher creates a film that is not only a fun take on vampires but a creative take on teenagers and their neverending trek to belong. Reccommended to those who have a sense of humor and enjoy vampire films. 8 out of 10.",
+         "There are many films about vampires, but one that is almost always remembered with a shy smile on the face is definitely \"The Lost Boys\". As one of the best remembered films of the 80s, this movie has become part of pop culture and a defining film for that period as it showcases most of what was cool or hip in that decade. While its status as \"horror classic\" has a lot to do with the nostalgic factor, it's an entertaining film on its own right and its modernization of the vampire myth along with its tongue in cheek humor still make for a charming and funny session of pure mindless entertainment. The movie begins with Lucy Emerson (Dianne Wiest) as she moves to Santa Clara, California, with her two teenager sons, Michael (Jason Patric) and Sam (Corey Haim) after a bitter divorce. In Santa Clara, Michael becomes involved with a local gang of bikers who have a dark and mysterious secret while Sam becomes friends with two weird boys who claim that the town is being invaded by vampires and its their mission to get rid of them. As Michael begins to act strange, Sam suspects that his brother has become one of the undead and begins to take his friends seriously. Directed by Joel Schumacher, \"The Lost Boys\" is a movie that effectively combines a cool and attractive look with a simple but entertaining plot resulting in a successful and charming film. The story modernizes classic elements of the vampire myth and adapts it to its time with intelligence and definitely tongue in cheek humor. In fact, this self-aware comedy approach is what makes the film enjoyable, and it relies more on fun and laughs than in actual scares. The plot is rather simple, and lacks some character development, but it makes an interesting (although also quite simplistic) analogy between the troubles of youth and becoming a vampire. Visually the movie looks great, although by now it has that dated nostalgic look of a past decade. Still, the flamboyant visual composition fits perfectly in the film's time and context and it is one of the films biggest assets. Schumacher's fluid and energetic camera-work makes the movie flow at with a nice rhythm and the movie never becomes dull or boring. The cast is very effective and everyone makes a great job. Corey Haim is remarkably good and while he may not be a good actor, in this film he is perfect for the role of Sam. Jason Patric is less lucky and he is overshadowed by the very talented Kiefer Sutherland, who steals every scene with his charm and presence. Jami Gertz gives a somewhat forgettable performance but veterans Dianne Wiest and Edward Herrmann are both excellent in their roles and have some funny lines. \"The Lost Boys\" suffers a lot from its own self-referential nature, it looks old and severely dated by now even when it's 20 years ago when it was released for the first time. The cleverly written plot is very entertaining, but somehow the lack of character development and the comedy take on the story make it to never reach its full potential. The premise is quite interesting but the \"Lost Boys\" theme is never fully explored leaving at a nice but a bit shallow experience. Definitely most of the charm of \"The Lost Boys\" is due to nostalgia, as the movie is now basically a time capsule of the 80s. However, it is hard to deny that despite being what one would call a \"popcorn movie\", in its time it was an intelligent, original and fresh take on vampires. While it may not be a landmark of horror of a life-changing experience, \"The Lost Boys\" is one of those films that will definitely deliver what they promise: a healthy dose of mindless entertainment.",
+         "Haha, that line makes me laugh every time, just for how old school 80s it is. Not to mention the vampire that the kids just \"trashed\" didn't really look like Twisted Sister as he did more of a generic 80s pop metal dude. Middle school life in the late 80s (junior high back then) had some movies that were almost universally thought of as \"cool\". Some of these were Predator, Coming to America, Top Gun (yeah I said Top Gun), Big, and of course The Lost Boys. TLB was so popular with kids, I remember knowing the details of the plot before I had ever seen the movie. Two kids named Sam (Corey Haim) and Michael (Jason Patric) move to Santa Carla, CA with their mother in hopes of a new life. Sam is looking to just have some fun and find a cable hook up for MTV, while his older brother Michael gets involved with some teenage vampire punk kids. Michael is slowly being recruited into the vampire clique that hangs around the boardwalk, while Sam desperately tries to turn him back to a normal human with the help of the overzealous Frog Brothers (Corey Feldman and some other guy). Slick, stylish and shot like an 80s music video, this movie was a lot of fun. A few of the 1987 fashions here are enough to make this movie illegal in a some countries, but the hip feel of the film keeps it from being too dated. Well, in my opinion anyway, some kid today might think different. Afterall this movie is nearly 20 years old. Typing that just made me feel very, very old. Anyway the cinematography is absolutely gorgeous, director Joel Schumacher especially knows how to shoot night scenes. This film was both a horror and a comedy at the same time, though I'm not sure which I preferred. Any movie that features both Corey Haim and Corey Feldman is going to be one that you can't take very seriously. If you don't know who these two guys are, better you never find out. Just watch the movie. Keep an ear out for INXS, Run DMC and The Doors."
+      ],
+      "genres": [
+         "Comedy",
+         "Horror"
+      ],
+      "productionCompanies": ["Warner Bros."],
+      "summaries": [
+         "A mother and her two sons move to a small coast town in California. The town is plagued by bikers and some mysterious deaths. The younger boy makes friends with two other boys who claim to be vampire hunters while the older boy is drawn into the gang of bikers by a beautiful girl. The older boy starts sleeping days and staying out all night while the younger boy starts getting into trouble because of his friends' obsession.",
+         "Financial troubles force a recent divorcee and her teenage sons Mike and Sam to settle down with her father in the California town of Santa Carla. At first, Sam laughs off rumours he hears about vampires who inhabit the small town. But after Mike meets a beautiful girl at the local amusement park, he begins to exhibit the classic signs of vampirism. Fearing for his own safety, Sam recruits two young vampire hunters to save his brother by finding and destroying the head vampire.",
+         "After moving to a new town, two brothers are convinced that the area is frequented by vampires."
+      ],
+      "budget": 0
+   },
+   "movielensId": 4128,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1987-07-31",
+      "dvdReleaseDate": "2004-08-10",
+      "directors": ["Joel Schumacher"],
+      "runtime": 97,
+      "movieId": 4128,
+      "title": "The Lost Boys",
+      "mpaa": "R",
+      "actors": [
+         "Jason Patric",
+         "Corey Haim",
+         "Corey Feldman",
+         "Dianne Wiest",
+         "Kiefer Sutherland",
+         "Jami Gertz",
+         "Edward Herrmann",
+         "Jamison Newlander",
+         "Billy Wirth",
+         "Alex Winter",
+         "Chance Michael Corbitt",
+         "Barnard Hughes",
+         "Brooke McCarter",
+         "Alexander Bacan Chapman",
+         "Nori Morgan",
+         "Kelly Jo Minter",
+         "Todd Feder",
+         "Christopher Peters",
+         "Keith Butterfield",
+         "Gerald Younggren",
+         "Eric Graves",
+         "J. Dinan Myrtetus",
+         "Timmy Cappello",
+         "Jim Turner",
+         "Tony Cain",
+         "Melanie Bishop",
+         "Nicole Vigil"
+      ],
+      "imdbMovieId": "0093437",
+      "originalTitle": "The Lost Boys",
+      "genres": [
+         "Horror",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["hsv_NQFbQzo"],
+      "plotSummary": "A mother and her two teenage sons move to a seemingly nice and quiet small coastal California town yet soon find out that it's overrun by bike gangs and vampires. A couple of teenage friends take it upon themselves to hunt down the vampires that they suspect of a few mysterious murders and restore peace and calm to their town.",
+      "tmdbMovieId": 1547,
+      "avgRating": 3.57075,
+      "releaseYear": "1987",
+      "numRatings": 6544,
+      "posterPath": "/evo7oiay9qDUzY510VhrB3YzyJs.jpg"
+   }
+}

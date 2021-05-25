@@ -1,0 +1,1957 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "war",
+            "id": 6091
+         },
+         {
+            "name": "soldier",
+            "id": 13065
+         },
+         {
+            "name": "weapon of mass destruction",
+            "id": 41177
+         },
+         {
+            "name": "baghdad",
+            "id": 41178
+         },
+         {
+            "name": "iraqi ",
+            "id": 41179
+         },
+         {
+            "name": "near east",
+            "id": 240583
+         }
+      ],
+      "imdb_id": "tt0947810",
+      "video": false,
+      "title": "Green Zone",
+      "recommendations": [
+         12113,
+         16995,
+         13291,
+         4349,
+         12201,
+         4959,
+         1266,
+         18487,
+         8848,
+         7485,
+         31867,
+         9567,
+         6415,
+         11323,
+         231,
+         13813,
+         2207,
+         44048,
+         8007,
+         13150
+      ],
+      "backdrop_path": "/lxxkBvUqfCDTh5o4Ny0RQ3CNwlG.jpg",
+      "revenue": 94882889,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Roy Miller",
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de3b",
+               "name": "Matt Damon",
+               "profile_path": "/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg",
+               "id": 1892,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Clark Poundstone",
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de43",
+               "name": "Greg Kinnear",
+               "profile_path": "/agOTbOC76I6rC7TPuCTquvngXRu.jpg",
+               "id": 17141,
+               "order": 1
+            },
+            {
+               "cast_id": 61,
+               "character": "Martin Brown",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01df37",
+               "name": "Brendan Gleeson",
+               "profile_path": "/pUTBk2sqFgg4aFBXHckD0qKLUYP.jpg",
+               "id": 2039,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Lawrie Dayne",
+               "gender": 1,
+               "credit_id": "52fe4458c3a368484e01de47",
+               "name": "Amy Ryan",
+               "profile_path": "/vjUXYMi5576IogTakMA64Yk4xHk.jpg",
+               "id": 39388,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Maj. Briggs",
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de3f",
+               "name": "Jason Isaacs",
+               "profile_path": "/1GtGhAJz1JloqHARqc2xMsq5rG4.jpg",
+               "id": 11355,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Freddy",
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de4b",
+               "name": "Khalid Abdalla",
+               "profile_path": "/qH7FypKqoVrTXtf3hJtHocHVDkt.jpg",
+               "id": 53480,
+               "order": 5
+            },
+            {
+               "cast_id": 120,
+               "character": "General Al Rawi",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01e027",
+               "name": "Igal Naor",
+               "profile_path": "/fywzghy8kLToNRH4OvrLkFSuXqA.jpg",
+               "id": 41316,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Col. Lyons",
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de4f",
+               "name": "Antoni Corone",
+               "profile_path": "/2Zyedc6NhCmRIIgf7INEf7Gqq7i.jpg",
+               "id": 20562,
+               "order": 7
+            },
+            {
+               "cast_id": 32,
+               "character": "Seyyed Hamza",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01decb",
+               "name": "Said Faraj",
+               "profile_path": "/lDkWQppuL1uItNtjyZC29KDRTDT.jpg",
+               "id": 109670,
+               "order": 8
+            },
+            {
+               "cast_id": 122,
+               "character": "Colonel Bethel",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01e031",
+               "name": "Michael O'Neill",
+               "profile_path": "/eNcC0txMVe0taCERTYpgA81vlyv.jpg",
+               "id": 21710,
+               "order": 9
+            },
+            {
+               "cast_id": 36,
+               "character": "Wilkins",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01dedb",
+               "name": "Jerry Della Salla",
+               "profile_path": "/htaZKm8Hgf61L2wTsubmha5xdJh.jpg",
+               "id": 122281,
+               "order": 10
+            },
+            {
+               "cast_id": 33,
+               "character": "Al Rawi Bodyguard",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01decf",
+               "name": "Faycal Attougui",
+               "profile_path": "/xGcI2QtMtjd51A5MUV684dY6Rag.jpg",
+               "id": 122279,
+               "order": 11
+            },
+            {
+               "cast_id": 34,
+               "character": "Ayad Hamza",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01ded3",
+               "name": "Aymen Hamdouchi",
+               "profile_path": "/rwqlYbVbdPUpFhx21jCvZAD6wxX.jpg",
+               "id": 122280,
+               "order": 12
+            },
+            {
+               "cast_id": 35,
+               "character": "Perry",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01ded7",
+               "name": "Nicoye Banks",
+               "profile_path": "/9BSdbivHbJ361cib3bezTSdTyBU.jpg",
+               "id": 93131,
+               "order": 13
+            },
+            {
+               "cast_id": 37,
+               "character": "Conway",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01dedf",
+               "name": "Sean Huze",
+               "profile_path": "/p5lmOtktZL5fNBkSZNWk2CkIqWr.jpg",
+               "id": 122282,
+               "order": 14
+            },
+            {
+               "cast_id": 180,
+               "character": "Met-D",
+               "gender": 0,
+               "credit_id": "5a69b5080e0a260d6401078f",
+               "name": "Michael J. Dwyer",
+               "profile_path": null,
+               "id": 1440654,
+               "order": 15
+            },
+            {
+               "cast_id": 39,
+               "character": "Met-D",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dee7",
+               "name": "Edouard H.R. Gluck",
+               "profile_path": null,
+               "id": 122283,
+               "order": 16
+            },
+            {
+               "cast_id": 40,
+               "character": "Met-D",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01deeb",
+               "name": "Brian Siefkes",
+               "profile_path": "/gH3q3HTHGlyNYkb4vhFkHgHtcMj.jpg",
+               "id": 122285,
+               "order": 17
+            },
+            {
+               "cast_id": 41,
+               "character": "Met-D",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01deef",
+               "name": "Adam Wendling",
+               "profile_path": null,
+               "id": 122286,
+               "order": 18
+            },
+            {
+               "cast_id": 42,
+               "character": "Met-D",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01def3",
+               "name": "Abdul Henderson",
+               "profile_path": "/7quLCDs2977yk1VuM5D8VgqIPsV.jpg",
+               "id": 122287,
+               "order": 19
+            },
+            {
+               "cast_id": 43,
+               "character": "Met-D",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01def7",
+               "name": "Paul Karsko",
+               "profile_path": null,
+               "id": 122288,
+               "order": 20
+            },
+            {
+               "cast_id": 125,
+               "character": "Met-D",
+               "gender": 2,
+               "credit_id": "54dcf7b2c3a3682252000046",
+               "name": "Robert Miller",
+               "profile_path": null,
+               "id": 1426429,
+               "order": 21
+            },
+            {
+               "cast_id": 45,
+               "character": "Met-D",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01deff",
+               "name": "Eugene Cherry",
+               "profile_path": null,
+               "id": 122289,
+               "order": 22
+            },
+            {
+               "cast_id": 46,
+               "character": "Met-D",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df03",
+               "name": "Alexander Drum",
+               "profile_path": null,
+               "id": 122290,
+               "order": 23
+            },
+            {
+               "cast_id": 47,
+               "character": "Met-D",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df07",
+               "name": "Brian VanRiper",
+               "profile_path": "/3y9e7IFr1CMNW05jJ1H2dUYjQpQ.jpg",
+               "id": 122291,
+               "order": 24
+            },
+            {
+               "cast_id": 48,
+               "character": "Met-D",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df0b",
+               "name": "Matthew Knott",
+               "profile_path": null,
+               "id": 122292,
+               "order": 25
+            },
+            {
+               "cast_id": 49,
+               "character": "Met-D",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01df0f",
+               "name": "Nathan Lewis",
+               "profile_path": null,
+               "id": 81672,
+               "order": 26
+            },
+            {
+               "cast_id": 50,
+               "character": "Infantery Sergeant",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df13",
+               "name": "John Roberson",
+               "profile_path": "/hPL55RJv5VuNU2bFuAtwXnMQvU1.jpg",
+               "id": 122293,
+               "order": 27
+            },
+            {
+               "cast_id": 51,
+               "character": "Soldier at WMD Site",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01df17",
+               "name": "Troy Brown",
+               "profile_path": "/7AfBLmiHru3MW6mZELXYWCr0iub.jpg",
+               "id": 122294,
+               "order": 28
+            },
+            {
+               "cast_id": 52,
+               "character": "Ahmed Zubaidi",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df1b",
+               "name": "Raad Rawi",
+               "profile_path": "/dpD5ZqCgLGk5vaEzRBpB70qOCRA.jpg",
+               "id": 73710,
+               "order": 29
+            },
+            {
+               "cast_id": 53,
+               "character": "Zubaidi's Aide",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df1f",
+               "name": "Bijan Daneshmand",
+               "profile_path": "/Alr2NQlyDT5Ji2encRiBiDGMGW1.jpg",
+               "id": 122295,
+               "order": 30
+            },
+            {
+               "cast_id": 54,
+               "character": "Poundstone Aide",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df23",
+               "name": "Bryan Reents",
+               "profile_path": "/jG2djIJpg21105tC3syRUohtKIw.jpg",
+               "id": 122296,
+               "order": 31
+            },
+            {
+               "cast_id": 55,
+               "character": "JMOC Tech",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df27",
+               "name": "Michael Judge",
+               "profile_path": null,
+               "id": 122297,
+               "order": 32
+            },
+            {
+               "cast_id": 58,
+               "character": "Military Intel 2 Star",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df2b",
+               "name": "Patrick St. Esprit",
+               "profile_path": "/qctM6vy28cnwLVP1qLtDmR7EEnV.jpg",
+               "id": 117437,
+               "order": 33
+            },
+            {
+               "cast_id": 59,
+               "character": "Colonel Jonathan Vaught",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df2f",
+               "name": "Allen Vaught",
+               "profile_path": "/h1hl2AZTeZPpm8Owm5NXGXjgQBr.jpg",
+               "id": 122299,
+               "order": 34
+            },
+            {
+               "cast_id": 60,
+               "character": "Gonzales",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df33",
+               "name": "Paul Rieckhoff",
+               "profile_path": null,
+               "id": 122300,
+               "order": 35
+            },
+            {
+               "cast_id": 62,
+               "character": "Brown's Aide",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01df3b",
+               "name": "Martin McDougall",
+               "profile_path": "/w8MaALgeRVDuqkZh7gEpgrYTiLC.jpg",
+               "id": 36901,
+               "order": 36
+            },
+            {
+               "cast_id": 63,
+               "character": "Colonel Lyons",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01df3f",
+               "name": "Antoni Corone",
+               "profile_path": "/2Zyedc6NhCmRIIgf7INEf7Gqq7i.jpg",
+               "id": 20562,
+               "order": 37
+            },
+            {
+               "cast_id": 64,
+               "character": "General at VTC",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01df43",
+               "name": "Timothy Ahern",
+               "profile_path": null,
+               "id": 122302,
+               "order": 38
+            },
+            {
+               "cast_id": 65,
+               "character": "Bureaucrat at VTC",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df47",
+               "name": "Ben Sliney",
+               "profile_path": "/vtJFIEtFCWAOJNfdmFp79gGpiWJ.jpg",
+               "id": 122303,
+               "order": 39
+            },
+            {
+               "cast_id": 66,
+               "character": "Senior CIA Man at VTC",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df4b",
+               "name": "Whitley Bruner",
+               "profile_path": null,
+               "id": 122304,
+               "order": 40
+            },
+            {
+               "cast_id": 68,
+               "character": "Hawkish Iraqi",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df53",
+               "name": "Intishal Al Timimi",
+               "profile_path": null,
+               "id": 122305,
+               "order": 41
+            },
+            {
+               "cast_id": 69,
+               "character": "Tahir al-Malik",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01df57",
+               "name": "Driss Roukhe",
+               "profile_path": "/oOTQXRTPyoIi7Hfg9IunQBANoUX.jpg",
+               "id": 122306,
+               "order": 42
+            },
+            {
+               "cast_id": 70,
+               "character": "Quasim",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df5b",
+               "name": "Muayad Ali",
+               "profile_path": null,
+               "id": 122307,
+               "order": 43
+            },
+            {
+               "cast_id": 71,
+               "character": "Hawkish Aide",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df5f",
+               "name": "Jamal Selmaoui",
+               "profile_path": null,
+               "id": 122308,
+               "order": 44
+            },
+            {
+               "cast_id": 72,
+               "character": "Iraqi Officer",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df63",
+               "name": "Mohamed Kafi",
+               "profile_path": null,
+               "id": 105980,
+               "order": 45
+            },
+            {
+               "cast_id": 73,
+               "character": "Mystery Man",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df67",
+               "name": "Kadhum Sabur",
+               "profile_path": null,
+               "id": 122309,
+               "order": 46
+            },
+            {
+               "cast_id": 74,
+               "character": "Qasim Aide",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df6b",
+               "name": "Hillal Boubker",
+               "profile_path": null,
+               "id": 122310,
+               "order": 47
+            },
+            {
+               "cast_id": 75,
+               "character": "Sanaa",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df6f",
+               "name": "Soumaya Akaaboune",
+               "profile_path": "/8oD3VQWAtfPwiMEo1i9wbdEIdkx.jpg",
+               "id": 122311,
+               "order": 48
+            },
+            {
+               "cast_id": 76,
+               "character": "Seyyed's Housekeeper",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df73",
+               "name": "Thamou El Metouani",
+               "profile_path": null,
+               "id": 122312,
+               "order": 49
+            },
+            {
+               "cast_id": 77,
+               "character": "Seyyed's Son",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df77",
+               "name": "Salah Eddine Elamari",
+               "profile_path": null,
+               "id": 122313,
+               "order": 50
+            },
+            {
+               "cast_id": 78,
+               "character": "Seyyed's Son",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df7b",
+               "name": "Naji El Jouhary",
+               "profile_path": null,
+               "id": 122314,
+               "order": 51
+            },
+            {
+               "cast_id": 79,
+               "character": "Seyyed's Son",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df7f",
+               "name": "Aroun Benchkaroun",
+               "profile_path": null,
+               "id": 122315,
+               "order": 52
+            },
+            {
+               "cast_id": 80,
+               "character": "Seyyed's Daughter",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df83",
+               "name": "Hajar Machroune",
+               "profile_path": null,
+               "id": 122316,
+               "order": 53
+            },
+            {
+               "cast_id": 81,
+               "character": "TF221s",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df87",
+               "name": "Scott Berendes",
+               "profile_path": null,
+               "id": 122317,
+               "order": 54
+            },
+            {
+               "cast_id": 82,
+               "character": "TF221s",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df8b",
+               "name": "Abdelkrim Assad",
+               "profile_path": "/tFTXAvMqs3FtyNLUhrPd8nYczDT.jpg",
+               "id": 122318,
+               "order": 55
+            },
+            {
+               "cast_id": 83,
+               "character": "TF221s",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df8f",
+               "name": "Michael Diaz",
+               "profile_path": null,
+               "id": 122319,
+               "order": 56
+            },
+            {
+               "cast_id": 85,
+               "character": "TF221s",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df93",
+               "name": "Tyler Christen",
+               "profile_path": null,
+               "id": 122321,
+               "order": 57
+            },
+            {
+               "cast_id": 86,
+               "character": "TF221s",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df97",
+               "name": "Adam Mackey",
+               "profile_path": null,
+               "id": 122322,
+               "order": 58
+            },
+            {
+               "cast_id": 87,
+               "character": "TF221s",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df9b",
+               "name": "Ben Holland",
+               "profile_path": null,
+               "id": 122323,
+               "order": 59
+            },
+            {
+               "cast_id": 88,
+               "character": "TF221s",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01df9f",
+               "name": "Jeffrey John Carisalez",
+               "profile_path": null,
+               "id": 122324,
+               "order": 60
+            },
+            {
+               "cast_id": 89,
+               "character": "TF221s",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfa3",
+               "name": "Jonathan Stone",
+               "profile_path": null,
+               "id": 122325,
+               "order": 61
+            },
+            {
+               "cast_id": 90,
+               "character": "TF221s",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfa7",
+               "name": "James Hodges",
+               "profile_path": null,
+               "id": 122327,
+               "order": 62
+            },
+            {
+               "cast_id": 91,
+               "character": "TF221s",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfab",
+               "name": "Larry Lewis",
+               "profile_path": null,
+               "id": 122328,
+               "order": 63
+            },
+            {
+               "cast_id": 92,
+               "character": "Camp Cropper Tech",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfaf",
+               "name": "William Oakes",
+               "profile_path": null,
+               "id": 122329,
+               "order": 64
+            },
+            {
+               "cast_id": 93,
+               "character": "Translator",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfb3",
+               "name": "Ziad Adwan",
+               "profile_path": null,
+               "id": 122330,
+               "order": 65
+            },
+            {
+               "cast_id": 94,
+               "character": "Camp Cropper Guards",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfb7",
+               "name": "Ian Bendel",
+               "profile_path": null,
+               "id": 122331,
+               "order": 66
+            },
+            {
+               "cast_id": 95,
+               "character": "Camp Cropper Guards",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfbb",
+               "name": "Venie Joshua",
+               "profile_path": null,
+               "id": 122332,
+               "order": 67
+            },
+            {
+               "cast_id": 96,
+               "character": "Camp Cropper Guards",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfbf",
+               "name": "Miguel Berroa",
+               "profile_path": null,
+               "id": 122333,
+               "order": 68
+            },
+            {
+               "cast_id": 97,
+               "character": "Camp Cropper Guards",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfc3",
+               "name": "Peter Shayhorn",
+               "profile_path": null,
+               "id": 122334,
+               "order": 69
+            },
+            {
+               "cast_id": 98,
+               "character": "Camp Cropper Wardens",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfc7",
+               "name": "Miguel Palaugalarza",
+               "profile_path": null,
+               "id": 122335,
+               "order": 70
+            },
+            {
+               "cast_id": 99,
+               "character": "Camp Cropper Wardens",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfcb",
+               "name": "Christopher Lilly",
+               "profile_path": null,
+               "id": 122336,
+               "order": 71
+            },
+            {
+               "cast_id": 100,
+               "character": "Iraqi Prisoner",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfcf",
+               "name": "Sabir Ed-Dayab",
+               "profile_path": null,
+               "id": 122337,
+               "order": 72
+            },
+            {
+               "cast_id": 101,
+               "character": "Righteous Ali",
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01dfd3",
+               "name": "Omar Berdouni",
+               "profile_path": "/7xi3jrfet3wb1m2pjtlLNkgpZPt.jpg",
+               "id": 122338,
+               "order": 73
+            },
+            {
+               "cast_id": 102,
+               "character": "CIA Techs",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfd7",
+               "name": "Alex Moore",
+               "profile_path": "/dgSCGvKcc3qF1hVmV4pzGAdPxcW.jpg",
+               "id": 122339,
+               "order": 74
+            },
+            {
+               "cast_id": 103,
+               "character": "CIA Techs",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfdb",
+               "name": "Alistair Bailey",
+               "profile_path": null,
+               "id": 122341,
+               "order": 75
+            },
+            {
+               "cast_id": 104,
+               "character": "CIA Techs",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfdf",
+               "name": "Eric Loren",
+               "profile_path": "/3Eaz5sDV4s7obHVSsWXSGmsEZy4.jpg",
+               "id": 113235,
+               "order": 76
+            },
+            {
+               "cast_id": 105,
+               "character": "Special Forces Tech",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfe3",
+               "name": "Paul Cloutier",
+               "profile_path": null,
+               "id": 122342,
+               "order": 77
+            },
+            {
+               "cast_id": 106,
+               "character": "Alpha Leader 1",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfe7",
+               "name": "Wallace Bagwell",
+               "profile_path": null,
+               "id": 122343,
+               "order": 78
+            },
+            {
+               "cast_id": 107,
+               "character": "CPA Presser",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfeb",
+               "name": "William Meredith",
+               "profile_path": "/5AFiiW7d8MBsnhJhjcVE2LmlqPg.jpg",
+               "id": 122344,
+               "order": 79
+            },
+            {
+               "cast_id": 108,
+               "character": "Chopper Comms Commander",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfef",
+               "name": "Tommy Campbell",
+               "profile_path": "/pmg7YmD3Dib00CItssxpPVzQIP8.jpg",
+               "id": 122345,
+               "order": 80
+            },
+            {
+               "cast_id": 109,
+               "character": "Chopper Comms Tech",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dff3",
+               "name": "James Wills",
+               "profile_path": null,
+               "id": 122346,
+               "order": 81
+            },
+            {
+               "cast_id": 110,
+               "character": "Convoy Commander",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dff7",
+               "name": "Jered Bezemek",
+               "profile_path": null,
+               "id": 122347,
+               "order": 82
+            },
+            {
+               "cast_id": 111,
+               "character": "Republican Palace Reporter",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dffb",
+               "name": "Johnny Nilsson",
+               "profile_path": null,
+               "id": 122349,
+               "order": 83
+            },
+            {
+               "cast_id": 112,
+               "character": "Zubaide Conference Speaker #1",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dfff",
+               "name": "Salman Hassan",
+               "profile_path": null,
+               "id": 122350,
+               "order": 84
+            },
+            {
+               "cast_id": 113,
+               "character": "Zubaide Conference Speaker #2",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01e003",
+               "name": "Ammar Khdir",
+               "profile_path": null,
+               "id": 122351,
+               "order": 85
+            },
+            {
+               "cast_id": 114,
+               "character": "Zubaide Conference Speaker #3",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01e007",
+               "name": "Youssif Falah-Jassem",
+               "profile_path": null,
+               "id": 122352,
+               "order": 86
+            },
+            {
+               "cast_id": 115,
+               "character": "Zubaide Conference Speaker #4",
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01e00b",
+               "name": "Latif Al Anzi",
+               "profile_path": null,
+               "id": 122353,
+               "order": 87
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de31",
+               "name": "Paul Greengrass",
+               "profile_path": "/zyJyLdHvV98Nv9mrctQsH64RxkE.jpg",
+               "id": 25598,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de37",
+               "name": "Brian Helgeland",
+               "profile_path": "/oJrbZ6efL7CalCeypRyusRbHzPF.jpg",
+               "id": 4723,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4458c3a368484e01de55",
+               "name": "Rajiv Chandrasekaran",
+               "profile_path": null,
+               "id": 114395,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de61",
+               "name": "Barry Ackroyd",
+               "profile_path": "/mpdR2TB4gS5E3qzSuQ9p6eMxgYD.jpg",
+               "id": 15493,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4458c3a368484e01de67",
+               "name": "Christopher Rouse",
+               "profile_path": "/2f2D5is6A2xeojztPCMshKTSK0m.jpg",
+               "id": 29405,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de6d",
+               "name": "Tim Bevan",
+               "profile_path": "/f7o93O1KocuLwIrSa7KqyL1sWaT.jpg",
+               "id": 2236,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de73",
+               "name": "Eric Fellner",
+               "profile_path": "/DiDxNhIfVPn9bRdOumhK0LgCYT.jpg",
+               "id": 2238,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4458c3a368484e01de79",
+               "name": "Paul Greengrass",
+               "profile_path": "/zyJyLdHvV98Nv9mrctQsH64RxkE.jpg",
+               "id": 25598,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01de7f",
+               "name": "Lloyd Levin",
+               "profile_path": null,
+               "id": 1993,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4459c3a368484e01de85",
+               "name": "Debra Hayward",
+               "profile_path": "/5WmDBvSRv3iFtBUD5PIXnDo9phr.jpg",
+               "id": 9150,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4459c3a368484e01de8b",
+               "name": "Liza Chasin",
+               "profile_path": "/iJkKX90zt0VD96ZASdxcaMNrcOi.jpg",
+               "id": 9151,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01de91",
+               "name": "Dominic Watkins",
+               "profile_path": null,
+               "id": 27032,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4459c3a368484e01de97",
+               "name": "Sammy Sheldon",
+               "profile_path": null,
+               "id": 11271,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01de9d",
+               "name": "Michael Bronner",
+               "profile_path": null,
+               "id": 59679,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dea3",
+               "name": "Christopher Rouse",
+               "profile_path": "/2f2D5is6A2xeojztPCMshKTSK0m.jpg",
+               "id": 29405,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dea9",
+               "name": "Kate Solomon",
+               "profile_path": null,
+               "id": 59681,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4459c3a368484e01deaf",
+               "name": "Mairi Bett",
+               "profile_path": "/3PTGsh1BvnvadPQp0GUVixntjUO.jpg",
+               "id": 57201,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01deb5",
+               "name": "Peter Chiang",
+               "profile_path": null,
+               "id": 122274,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4459c3a368484e01debb",
+               "name": "Amanda Mackey",
+               "profile_path": null,
+               "id": 2031,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01dec1",
+               "name": "John Hubbard",
+               "profile_path": null,
+               "id": 1325,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01dec7",
+               "name": "Sasha Harris",
+               "profile_path": null,
+               "id": 122277,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01e011",
+               "name": "Mark Rounthwaite",
+               "profile_path": null,
+               "id": 122354,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01e017",
+               "name": "Gary Connery",
+               "profile_path": null,
+               "id": 122355,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4459c3a368484e01e01d",
+               "name": "Robert Young",
+               "profile_path": null,
+               "id": 122356,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01e023",
+               "name": "Cedric Proust",
+               "profile_path": null,
+               "id": 25068,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01e02d",
+               "name": "Daniel Hubbard",
+               "profile_path": null,
+               "id": 3501,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4459c3a368484e01e037",
+               "name": "Cathy Sandrich",
+               "profile_path": null,
+               "id": 2532,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4459c3a368484e01e03d",
+               "name": "Rajiv Chandrasekaran",
+               "profile_path": null,
+               "id": 114395,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619caac3a3683d13006b4a",
+               "name": "Juan Pedro De Gaspar",
+               "profile_path": null,
+               "id": 1117843,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619cc092514179ca000389",
+               "name": "Lee Sandales",
+               "profile_path": null,
+               "id": 1325212,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619cfcc3a36868e50086ad",
+               "name": "Kay Georgiou",
+               "profile_path": null,
+               "id": 117206,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619d11c3a3681f96001661",
+               "name": "Loulia Sheppard",
+               "profile_path": null,
+               "id": 1470158,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619d39c3a3682206001692",
+               "name": "Christine Beveridge",
+               "profile_path": null,
+               "id": 5333,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619d55c3a368208b00169d",
+               "name": "Marilyn MacDonald",
+               "profile_path": null,
+               "id": 1470159,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619d84c3a36820c6001563",
+               "name": "Sarah Robinson",
+               "profile_path": null,
+               "id": 1334493,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619e109251412f070000a7",
+               "name": "Simon Chase",
+               "profile_path": null,
+               "id": 1408378,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619e2cc3a368208b0016c3",
+               "name": "Anna MacKenzie",
+               "profile_path": null,
+               "id": 12562,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619e5792514170080015e7",
+               "name": "Becki Ponting",
+               "profile_path": null,
+               "id": 1380895,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619e7ac3a368222000153b",
+               "name": "Chris Sturmer",
+               "profile_path": null,
+               "id": 1411085,
+               "department": "Sound",
+               "job": "Dolby Consultant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619e95c3a368222000153f",
+               "name": "Peter Burgis",
+               "profile_path": null,
+               "id": 40823,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619eaac3a3682220001545",
+               "name": "Paul Hanks",
+               "profile_path": null,
+               "id": 1403800,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619ecac3a36868e500870c",
+               "name": "Jack Stew",
+               "profile_path": null,
+               "id": 1393300,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619f2f9251417e5100851d",
+               "name": "James Harrison",
+               "profile_path": null,
+               "id": 16683,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55619f549251417027001404",
+               "name": "Mark Taylor",
+               "profile_path": null,
+               "id": 1393119,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55619f829251417008001630",
+               "name": "Mike Prestwood Smith",
+               "profile_path": null,
+               "id": 1395024,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55619fba925141700800163f",
+               "name": "Oliver Tarney",
+               "profile_path": null,
+               "id": 1408373,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a05e9251412f0700010c",
+               "name": "Julian Foddy",
+               "profile_path": null,
+               "id": 1417825,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a0759251412f07000112",
+               "name": "Jesper Kjölsrud",
+               "profile_path": null,
+               "id": 1393324,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a08fc3a368208b001720",
+               "name": "Dan Neal",
+               "profile_path": null,
+               "id": 1447603,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a0ac9251415e23002a69",
+               "name": "David Vickery",
+               "profile_path": null,
+               "id": 1411533,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a0e9c3a3683d13006bf8",
+               "name": "Bruno Baron",
+               "profile_path": null,
+               "id": 1470162,
+               "department": "Crew",
+               "job": "Sequence Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a1539251414a5f0006cb",
+               "name": "Matthew Smith",
+               "profile_path": null,
+               "id": 1470163,
+               "department": "Crew",
+               "job": "Sequence Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a1709251412f0700013d",
+               "name": "Simon Allmark",
+               "profile_path": null,
+               "id": 1399561,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a199925141700800168a",
+               "name": "Howard Berry",
+               "profile_path": null,
+               "id": 1470164,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5561a1b3c3a368208b00174e",
+               "name": "Ian Differ",
+               "profile_path": null,
+               "id": 67201,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a1ccc3a36820c600161c",
+               "name": "Richard Diver",
+               "profile_path": null,
+               "id": 1425487,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a21e92514171ab0015be",
+               "name": "Andrea Pirisi",
+               "profile_path": null,
+               "id": 1470165,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a2389251417027001478",
+               "name": "Matthew Plummer",
+               "profile_path": null,
+               "id": 1406837,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a275c3a368208b001776",
+               "name": "Péter Závorszky",
+               "profile_path": null,
+               "id": 1470166,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a2c7c3a36820c6001643",
+               "name": "Charlie Noble",
+               "profile_path": null,
+               "id": 1408384,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5561a37c9251412f0700019f",
+               "name": "Barry Ackroyd",
+               "profile_path": "/mpdR2TB4gS5E3qzSuQ9p6eMxgYD.jpg",
+               "id": 15493,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5561a3b8c3a368222000162e",
+               "name": "Klemens Becker",
+               "profile_path": null,
+               "id": 1332515,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a3f292514170270014bd",
+               "name": "Roger Tooley",
+               "profile_path": null,
+               "id": 1415042,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a455c3a3682220001649",
+               "name": "Florian Emmerich",
+               "profile_path": null,
+               "id": 1339054,
+               "department": "Crew",
+               "job": "Second Unit Cinematographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5561a49e92514171ab00162c",
+               "name": "Jasin Boland",
+               "profile_path": "/zxr5WBe3JW1GtxPoER9JY8QJm07.jpg",
+               "id": 1392718,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a4c8c3a368201f001973",
+               "name": "Jeremy Braben",
+               "profile_path": null,
+               "id": 1400092,
+               "department": "Camera",
+               "job": "Helicopter Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a501c3a3682220001674",
+               "name": "Jonathan Olley",
+               "profile_path": null,
+               "id": 1470167,
+               "department": "Camera",
+               "job": "Additional Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a55f92514179ca000503",
+               "name": "Nicole Young",
+               "profile_path": null,
+               "id": 1319752,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a58ac3a368208b001809",
+               "name": "Rob Farris",
+               "profile_path": null,
+               "id": 1408403,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a5a092514179ca000512",
+               "name": "Marie Fernandes",
+               "profile_path": null,
+               "id": 1427844,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a5bcc3a368201f00199d",
+               "name": "Patrick Malone",
+               "profile_path": null,
+               "id": 1414101,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a5d592514179ca00051d",
+               "name": "Laurent Treherne",
+               "profile_path": null,
+               "id": 1424572,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a5f09251415e23002b52",
+               "name": "Alison Carter",
+               "profile_path": null,
+               "id": 40805,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a6209251412f07000207",
+               "name": "Jon Olive",
+               "profile_path": null,
+               "id": 7049,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a640c3a36868e5008883",
+               "name": "Ali Bakkioui",
+               "profile_path": null,
+               "id": 1422985,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a6559251417027001515",
+               "name": "Patricia de la Uz",
+               "profile_path": null,
+               "id": 1335123,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a66fc3a368201f0019c0",
+               "name": "Mounir Badia",
+               "profile_path": null,
+               "id": 1405423,
+               "department": "Crew",
+               "job": "Picture Car Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a6a6c3a36820c60016db",
+               "name": "Louise Wade",
+               "profile_path": null,
+               "id": 1390389,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a6cac3a368201f0019de",
+               "name": "Peggy Mulloy",
+               "profile_path": null,
+               "id": 1438432,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5561a6fa9251415e23002b68",
+               "name": "Ceri Evans",
+               "profile_path": null,
+               "id": 1410199,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "562645f7925141179d00327c",
+               "name": "John Powell",
+               "profile_path": "/fFRYoiZxBtP4Gs0CAphU7F5mDk.jpg",
+               "id": 11098,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "War",
+            "id": 10752
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 15.423465,
+      "production_countries": [
+         {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         }
+      ],
+      "id": 22972,
+      "vote_count": 896,
+      "budget": 100000000,
+      "overview": "During the U.S.-led occupation of Baghdad in 2003, Chief Warrant Officer Roy Miller and his team of Army inspectors were dispatched to find weapons of mass destruction believed to be stockpiled in the Iraqi desert. Rocketing from one booby-trapped and treacherous site to the next, the men search for deadly chemical agents but stumble instead upon an elaborate cover-up that threatens to invert the purpose of their mission.",
+      "similar": [
+         374720,
+         324786,
+         8741,
+         1654,
+         12437,
+         19995,
+         4421,
+         1865,
+         3176,
+         1369,
+         602,
+         947,
+         12162,
+         792,
+         227306,
+         228150,
+         369885,
+         6415,
+         676,
+         9667
+      ],
+      "original_title": "Green Zone",
+      "runtime": 115,
+      "poster_path": "/7O3IkeHvp1sq5yMN0O8FsTee1C0.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "العربية",
+            "iso_639_1": "ar"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/8T8OOQe3Xei2mW0DQepwQG1IMT0.png",
+            "name": "StudioCanal",
+            "id": 694,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "Dentsu",
+            "id": 6452,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/62E1B91PxZw8q4KNkge5Qemo7EM.png",
+            "name": "Relativity Media",
+            "id": 7295,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/cifwIG2aVR1dRis6yoiilq4qeIh.png",
+            "name": "Working Title Films",
+            "id": 10163,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "2010-03-11",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "Chief Warrant Officer Roy Miller is done following orders",
+      "adult": false,
+      "homepage": "http://www.greenzonemovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Paul Greengrass"],
+      "runtime": 115,
+      "synopsis": "Bombs are exploding loudly outside a house. Inside, Iraqi men are mobilizing to leave, but waiting for General Al Rawi. As he leaves, he orders his men to meet him at the safe houses. Baghdad is under attack. Chief Roy Miller (Matt Damon) and his Mobile Exploitation Team (MET) are about to raid a site based on solid intelligence which has confirmed it as a site for chemical and biological WMD. Their job is to discover evidence of WMDs in Iraq, something the whole world and US is waiting anxiously for, as it is one of the sole reasons for the invasion. In their Humvees, they reach near the site where another army team, even though with a fairly large platoon, is unable to secure the place from civilian looters, who are grabbing and carrying anything they can get their hands on out of the site. Miller is trying to get his team into the site to deactivate and secure the WMD but is not given any assistance by the other team. It is very chaotic. They are told by the leader of the other team that there is a sniper holed up in the building site. After some tactical discussion, Miller and his team move in. They sniff out the sniper and take him down. After donning their masks and equipment, they survey the site in darkness, only to realize it was empty. Roy comments this is the 3rd straight time they have come up cold. Back in the airport, we see reporters gathering for the arrival of the soon-to-be appointed Iraqi minister. Lawrie Dayne, a WSJ reporter, goes to her source, Clark Poundstone (Greg Kinnear, a Pentagon Intelligence) and asks him for more tips on Magellan. He says he is trying but he has given her all he/s got and the information is very sensitive. She is quite unhappy about this; he ignores her and goes to greet the minister as they leave for the Green Zone (a secured place that was once Saddam's republic palace. Even them it is in parts and ruins). Poundstone is pushing an agenda of democracy for Iraq but it is constantly being challenged by the rampant chaos in the country. They have a meeting and animosity exists between Poundstone and a CIA Intel, Martin Brown (Brendan Gleeson) who seems like a veteran in Iraqi affairs. Martin raises the issue to Poundstone that they cannot run Iraq on their own they need help from the old guard, and that they have yet to find WMDs. Poundstone disagrees and says its just a matter of time. Roy Miller returns to his camp and goes to look for his boss. He tells him that the intelligence does not seem to add up. His boss tells him nicely to shove it and says he cannot question the intelligence. Roy is not satisfied and at a group meeting, he brings it up, saying for the last few times all his team has gotten is a doughnut. He is shut up by being told that the intelligence source is reliable and all info has been verified, and that's that. Martin Brown is at this group meeting and as Miller leaves to check out another source, Martin approaches him and says he suspects the same and gives his number to Miller to contact him if anything crops up. Miller goes to the Al Mansour site (on the way they are mobbed by a huge crowd who are very angry because they have no water) and begins digging up holes to find the WMDs. Meanwhile, General Al Rawi and his old guard of senior ranking Iraqi army officers are meeting at one of the safe houses. They begin to discuss what to do with the American soldiers having invaded Iraq. General Al Rawi appears very calm and wise, and he advises that they wait and see. Unknowingly, an Iraqi civilian in that area going to his car has noticed the unusual group heading into the house. While Miller and his team are still digging holes, suddenly there is some commotion with one of Miller's officers. He goes to see what the problem is, and his soldier is sitting atop the Iraqi civilian with the limp, pushing his head into the sand. The man is struggling, obviously feeling very upset. Roy tells his men to ease off and the Iraqi civilian starts to rant at Miller. Miller waits for him to finish and calm down before asking him what he wants. The Iraqi says he has information to share but he did not expect to be treated like dirt for doing so. Miller asks what is it and the man says he saw this strange bunch of guys heading into the house, surrounded by bodyguards with AK-47s. Miller rounds his men up for an attack. One of Miller's men prefers to do things by the book and is quite reluctant to do anything outside of their orders. However, this time around, he gives in. Miller says they can't roll up in their Humvees and so they steal some beat-down cars and follow the Iraqi to the house. Just as they arrive they start to notice some of the participants are about to leave. They launch an attack and in the exchange, Miller spots General Al Rawi (who escapes by the back) and identifies him as the Jack of Clubs. They capture the meeting host, who has a little black book supposedly containing addresses of the safe-houses and plans. Roy interrogates the man, who says only Al Rawi has the info on WMD sites, the others do not know. Just as they are about to take the prisoners back, 3 army helicopters filled with special forces come in and bully the MET around. They take the prisoners away. Miller manages to sneak the book on Freddy to get it away from the Special Forces. Miller is puzzled how the Special Forces knew of their raid so quickly and why he was denied his only real lead on the WMD sites. Poundstone is informed of the capture, and he and Lawrie's arrangement sours, as he is unable to provide her with more updates. Miller gets the book back and calls Martin about it. Miller's team splits into 2 and agree to meet at the pool in the Republic palace, where they see people having fun, drinking beer and eating Dominoes pizza. Miller gives Martin the black book and says he needs to get to the meeting host because he knows where to find Al Rawi. Martin says he'll do what he can. Lawrie spots Miller and makes her move on him for info; he says he'll keep it in mind. In his room, he looks up her articles on the net and finds that her articles cites very similar coincidental sources of the WMD sites as his Intel brief does. The meeting host is being tortured for information. He keeps mentioning the book. Poundstone suspects Martin has it. Martin calls Miller and says he managed to get him into the prison. He gives him a million dollars to bribe the meeting host NOT to reveal anything to his interrogators (under Poundstone). Miller is surprised as he thought all Americans are on the same side; Martin tells him not to be naive. Miller and Freddy go to the prison and make up a story to see the meeting host. They find him severely injured from the torture. The meeting host asks Miller why he was treated like that; after all, didn't they agree at the meeting that they would be treated well? Miller asks which meeting, the meeting host says in Jordan. Meanwhile, Poundstone has gotten a Presidential order to raid the CIA office in Baghdad and retrieve the black book. Poundstone uses the black book addresses to hunt down the Iraqi guards to assassinate them. Miller goes to find Lawrie, and he puts the pieces together that the Magellan she is looking for is Al Rawi, who had earlier met Poundstone in Jordan and revealed the true status of Iraq's WMD program basically, there were none. No one verified the source or the information; she was fed it by Poundstone who used her to spread the news & propagate the myth. Miller realizes that Al Rawi is the only person now who can come out to put all into perspective, but Poundstone, in pushing his agenda of democracy, does not want his underhanded methods to surface he reneged on the promises he made to the Iraqi old guard, promising them a position in the new Iraq but actually he had no intention of doing so. If Iraq did not have an active WMD program in place, they were not a threat and the US should not have entered and basically they need to let Iraqis make up their own government (and not have US put a democracy there). The hunt for Al Rawi begins. Miller to find out the truth, and Poundstone and his men to cover the truth about WMD. Miller is captured by Al Rawi and tortured but he hears it from Al Rawi firsthand what went down in the meeting in Jordan. They are attacked and in the chase, Freddy comes out and shoots Al Rawi. He tells Miller to leave Iraq to the Iraqis to handle. Miller prepares to leave for home, but before he does so, he writes his Intel brief and sends it out to all the newspapers, saying lets get it right this time. His brief is the truth that there are no WMDs in Iraq. The democracy also fails, as none of the Iraqi groups want a puppet Iraqi president who is controlled by the US government.",
+      "writers": [
+         "Brian Helgeland",
+         "Rajiv Chandrasekaran"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0947810/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYzMTA1NDMyNV5BMl5BanBnXkFtZTcwMzUwODY5Mg@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Matt Damon, Jason Isaacs, Greg Kinnear | See full cast and crew »"],
+      "reviews": [
+         "Green Zone is the latest Iraq War inspired motion picture. I wasn't expecting much and ended up being pleasantly surprised. It's a fast paced and riveting ride from the get-go. The war being fought in the film is more between the Pentagon and the CIA than the US v Iraq which makes it all the more interesting and the film allows you to see things from Iraq's perspective for a change. The premise set up in the film regarding the 'Intelligence' regarding Weapons of Mass Destruction used to justify the invasion is entirely believable. Matt Damon is well suited to his part as a unit leader Roy Miller, as is Brendan Gleeson as the CIA man and Greg Kinnear is refreshingly nasty as Poundstone from the Pentagon - all turn in good performances. Shot on location in Morocco, Spain and in England I could have sworn we were in Bagdad the whole time - settings are very convincing. Yes, there is too much hand- held camera movement that quickly brought on discomfort followed by a headache but that is my only negative and as the film doesn't outstay its welcome I'm willing to concede the shakiness probably lends an 'embedded' realism. Is any of the plot or characters based on real events or people? I have no idea other than learning the film is based on the 2006 non-fiction book 'Imperial Life in the Emerald City' by Rajiv Chandrasekaran, a journalist for The Washington Post. I haven't read the book so I can't comment on how closely the film follows it. I spent a few moments of the film wondering about the story's authenticity but as a piece of cinema entertainment in its own right Green Zone gets the green light from me.",
+         "I always find it slightly comical when people complain of hand-held camera-work. It reminds me of an old woman hearing The Chemical Brothers and wincing in pain � \"They don't really call that music do they?\" Personally, my eyes have been able to follow a moving object ever since I was a child. I have no problem with a hand-held camera. As for the movie, 'Green Zone' is an excellent action thriller about a US Army Warrant Officer investigating the shady reasons why the military intelligence being fed to the Iraq Survey Group is failing to uncover weapons of mass destruction in post-invasion Baghdad. Much of the ensuing shenanigans are inspired by the findings of both the Iraq Intelligence Commission Report and the UK's Butler Review, which in 2004 found that pre-war intelligence had been highly suspect. I say 'inspired' because 'Green Zone' is fiction�unless I blinked and missed it, there's no opening title card claiming \"based on a true story\". Conservatives, so often unable to discern fact from fiction, will view the film as a piece of docudrama reportage and find it deeply flawed, as it would be if it purported to be such a thing. The rest of us will recognize that Greengrass has crafted an excellent conspiracy thriller that simply uses the controversial politics of post-war Iraq as background color, and does so very well. As is to be expected from a director who, at this point in his career, can do this stuff in his sleep, the action sequences are brilliantly choreographed, the tension masterfully built, and the characters multi-layered. The cinematography that others have called \"ugly\" I found added a sense of realism, particularly in the grainy night scenes. My only complaint is a couple of instances in which Iraqi characters begin spouting embarrassing soap-box polemic. It isn't that such thoughts are out of character, just the way they are expressed; the dialogue being too obvious and cheesy. Thankfully, such moments can be counted in seconds rather than minutes. What's so impressive about 'Green Zone' is the seemingly authentic locations. It really does look as though it were filmed in Baghdad. Instead, it was shot on location in England and Spain. A production designer hasn't worked such magic since 'Full Metal Jacket' converted a London parking lot into the battlefields of Vietnam. 'Green Zone' is an excellent movie that will be thoroughly enjoyed by fans of political conspiracy thrillers. It isn't presented as factual, and only fools would look to a movie for facts. For facts, read books or, better yet, read the Iraq Intelligence Commission Report and the Butler Review. But don't blame Paul Greengrass for your laziness and stupidity in mistaking his excellent movie for a representation of 'truth'.",
+         "British director Paul Grengrass + American actor Matt Damon = \"The Bourne Supremacy\", \"The Bourne Ultimatum\" and now \"Green Zone\", so we know what to expect here - and we're not disappointed. From the opening seconds, we're into the action with the trademark Greengrass 'in the action' frenetic camera-work and sharp editing. Although the film is said to be inspired by the non-fiction book \"Imperial Life In The Emerald City\" by Rajiv Chandrasekaran, a journalist for The Washington Post, the conspiratorial storyline is the invention of Greengrass who developed the original script. If the tension isn't as excruciating at that other Iraq movie \"The Hurt Locker\", at least \"Green Zone\" has a narrative and poses some questions, hard questions that many American viewers would probably were rather not aired: what was the source of the 'intelligence' that Saddam Hussein possessed weapons of mass destruction? why was the source so readily believed when the evidence was so thin? could the bloody insurgency which followed the relatively easy initial occupation have been avoided if the Americans had been willing to work with elements of the Iraqi army? See the movie and think about the issues. As a central Iraqi character puts it: \"It's not up to you to determine what happens in this country.\"",
+         "The Green Zone is that rarest of films�a well-written, rousing action thriller with a political conscience that perceptively deconstructs the idiocy of war. From the very first scene, the action grabs you and throttles you for the ensuing two hours�although the story is fairly complex, the exposition is handled deftly, and�despite the constantly jolting camera work�it's pretty easy to follow along with what's happening. Matt Damon delivers a strong performance as an Army Warrant Officer who truly cares about the justifications for his actions�he has no problem being a good soldier, as long as he knows that there are clear moral reasons behind what he's been ordered to do. Unfortunately, during the early days of the Iraq War, clear moral reasons were in very short supply, and Damon's character battles an array of competing military and political agendas as he searches for the truth behind the military's search for the ever-elusive Weapons of Mass Destruction rumored to be hidden in Iraq. This film is so well done, and Damon is so good in it, that I'm starting to consider the Greengrass/Damon tandem on a par with the Scorsese/DeNiro and Scorsese/DiCaprio pairings. Damon's best work (the last two Bourne films and this one) has come with Greengrass at the helm�here's to hoping they make many more fine films together.",
+         "I saw trailers for this movie on t.v (in Australia)...it seemed to be an action hero type movie...I actually wondered if this was the new \"Bourne\" movie for Matt Damon! Perhaps this promotional approach was due to a recent run of movies critical of the US in the current Iraq war being box-office misses. Anyway, I was prepared to watch the movie based on the trailers, but had second thoughts when the nature of the movie was mentioned on a movie review show on TV here in Australia. That nature concerned the movie venturing into the rationale of the US invasion of Iraq in 2003. So, taking a punt, I saw the movie armed with this new information. It's actually good...not depressing like movies with this type of theme can be. Not sure how much reality there is to it...it seems to cover the bases on the reasons given as to why the US invaded Iraq and the underlying reality on the ground. What's particularly interesting is how the Pentagon and the C.I.A. are depicted. No doubt there are numerous American movies where both organisations are depicted as suspect or evil. Here, one organisation comes off as acting in good faith and acting morally. Don't know enough about the war to say for certain if any US organisation can claim to have acted ethically, but this dichotomy is illuminating for the factoids it throws at the audience. If the movie does have a lot factual truth to it, then some of the events in it are truly disturbing...e.g. how the U.S. deals with people who may be able to disprove the official government line on the reasons for the war. Maybe this is just artistic license, or perhaps it's real politic as far as the U.S. goes...and anyone who has read Noam Chomsky knows that the U.S. goes all the way. I'm reminded of General Colin Powell's hand-on-the-heart moment in the U.N. where he showed satellite photos of vehicles and swore that these were mobile weapons of mass destruction delivery vehicles. Turns out that they were milk trucks...like the Iraqis said they were. It's this 'evidence' which convinced a reluctant U.N. to take the US' assertions as true and to authorise the invasion of Iraq. This movie's trailer is like General Colin Powell's moment of infamy...the trailer bears no relation to what you actually see. But it's more compelling than what the general's photo turned out to be. Matt Damon (as Chief Warrant Officer Roy Miller) makes for a good lantern-jaw type hero...if such a figure actually exists, you'd think they would have have been run out of the ranks for not towing the official line. Anyway, the movie is about Miller's role in finding those elusive weapons of mass destruction that President Bush assured us were there. When he doesn't have much luck finding them, he wants to find out why...",
+         "One of the common threads linking films about the Iraq war is a sense of deep ambiguity about it's morality and purpose. \"Green Zone\" is no exception. Matt Damon skilfully portrays Roy Miller, an Army Warrant Officer whose unit is tasked with searching suspected WMD facilities for proof of the existence of Iraqi chemical, nuclear, and biological weapons. A chance encounter with a sympathetic Iraqi civilian puts Miller on the trail of an Iraqi general who could provide him with the evidence that he needs. However, the Pentagon, the recently deposed Baathists, and the CIA all have different agendas for Iraq's future and Miller finds himself being used by players from all sides. This is a tautly paced, engrossing thriller that inhabits a moral world where all colors are shades of gray. The cast are excellent and the direction is top-notch. Particularly noteworthy is the realistic and sympathetic depiction of the Iraqi characters, irrespective of their allegiances. There is no shortage of action and the plot keeps you guessing until the credits roll. Along with \"The Hurt Locker\" this is one of the best films about the Iraq war and a brilliant night out to boot.",
+         "Green Zone is a film that deafly navigates the possibly disastrous path of action saturation, creative liberties and touchy subject matter. Matt Damon's and director Paul Greengrass' third effort after The Bourne Supremacy and The Bourne Ultimatum tells the fictionalized but accurate account of the span following the opening siege of Iraq, where the supposed WMD program of Saddam Hussein failed to unveil itself. Green Zone will keep those looking for a sharp action-war film entertained and enrapture those interested in the politically charged events of the war without alienating either group. This may not be the hard hitting expose for which some may be yearning, but it is all we could hope for in a mainstream Hollywood product. Greengrass is certainly no stranger to the events surrounding Iraq, having already helmed the highly touted United 93 which tells the story of one of the doomed planes on September 11th of 2001. His obvious passion for the subject gives Green Zone the gravitas and grounding a film like this needs and with the exception of multi-Oscar winner The Hurt Locker and Ridley Scott's Middle Eastern thriller Body of Lies this is the strongest of the growing glut of such movies. Damon stars as Roy Miller, a chief warrant officer who is at the forefront for the search of WMD sites, all of which were gathered from a mysterious source known only as 'Magellan'. When site after site turns up empty, Miller begins to ask questions that high ranking officials do not want asked. With seemingly his only friend in all this, Marin Brown (Brendan Gleeson) a veteran CIA operative, and an Iraqi interpreter named Freddy, Miller goes rogue to uncover the truth. Standing in his way are the remaining loyal insurgents, a Whitehouse bureaucrat named Poundstone (Greg Kinnear) who wants to keep things on track and his asset on the ground who is tasked with stopping Miller's inquiries. Matt Damon is extremely solid here. He has no weepy dramatic scenes or big blow-ups through which to act showy. He is very believable and low key and is an infinitely charismatic and commanding presence on screen. Kinnear is also quite good as the slimy suit that stands in the way of our hero and the lesser know supporting cast all drive home noteworthy performances as well. Much has been said about Greengrass' hand-held camera technique which seems to leave some on the nauseous side. I have however, come up with a theory in light of all the critics starting to get on my nerves and actually managing to turn my attention to the so called shaky cam, which has never before bothered me. Take for example film critic James Berardinelli who seems to be on the line when it comes to that style of shooting. For the latter two Bourne films, he made ample criticism of the shaky cam and it would seem that his overall consensus reflected such. For Green Zone he claimed the vibration was far more restrained, which is in contrast to most other critics who claimed it was the worst yet. My theory? One's perception of the film is not due to the camera movement, but rather the inverse. Depending on how engrossed a person is with the material, performances etc that is how watchable they perceive the film to be. So in the case of Berardinelli, the camera movement was likely fairly similar, but he found Green Zone's material simply better. Cinematography aside, Green Zone is a rousing action film with a spectacular climax. Not only will it keep you entertained on a Friday night, but it will serve as a reminder of what happened in Iraq every time you press play. Read all my reviews at simonsaysmovies.blogspot.com",
+         "Feel like seeing an action flick, watching bodies fly everywhere, and good guys kill bad guys? Do not see this movie. Green Zone was a very surprising experience for me. I was on the way to the cinema expecting, as several posters quoted, 'Born goes epic'. Instead, I got a nice combination of politics, moral dilemmas, and maybe even some very light philosophy. The film takes a popular, but still a controversial & for many people shameful, view on the Iraq war. The plot is complex but relatively easy to follow thanks to a(sometimes too) straight-forward set up, good directing, and sensible scene sequences. The plot does not bring you any traditional action flick twists and rarely pushes you to the edge of the seat, but makes up for it by making you think about some of the more real and worrying aspects of war and politics. The characters could have used some more development and dynamic, but on the bright side it was nice to not have every single thing rotate around Bourne. On the contrary, throughout the whole movie the focus was on a wider picture rather than on any of the more specific details in the story itself. It was nice to see the lines between bad & good drawn in such a blurry manner. I was confused and indecisive in labelling characters as on the goody or the baddie side. The plot had an interesting ending, slightly ruined by a cheesy line from one of the characters, but brilliantly made up for by a fantastic scene of Baghdad at night. I found that whilst the epilogue of the movie was needed to explain consequences, something like a few sentences appearing on a black screen would have finished the movie in a much nicer mood than that in which it finished in reality. The plot took up an intellectual viewpoint on the Iraq war and gave me something to think about on the subject of both the Iraq war and the idea of war in general. This was something that you rarely see in movies like this, and made the movie the enjoyable experience that it is. The directing & cinematography in the movie were nothing special. Several style ideas were re-used from the Bourne movies, and action was not always as gripping as one might want, or at least expect. However, it was never bad either - all sequences kept a consistent standard of dialogue, special effects, and the little action that there was. The acting in the movie was one of the few things that I expected. Matt Damon delivered his usual performance: a cool, in-control soldier committed to get to the bottom of things. The supporting actors all delivered their parts well enough, with Greg Kinnear holding his usual cunning, conniving, corrupt, money-thirsty politician role. However, because, as mentioned before, the film focused on a wider picture, the acting did not put me off the movie in any way whatsoever. The one other thing which the movie lacked almost entirely throughout was humour. It's always nice to get a giggle in between moral implications and people dying all over the place. I have given the movie 7 out of 10 in total, with seven points for wider plot depth, intellectual aspects, directing & cinematography, CGI & special effects, and the last three points deduced for acting, immediate plot depth, action sequences, and humour, or rather the lack of it. It's a pleasant and original surprise, and something that will make you think after leaving the cinema. MK",
+         "The new offering from Paul Greengrass is an intriguing progression from his previous films. Marrying the political engagement of films such as 'Bloody Sunday' with the blockbuster attraction of the Bourne films, 'Green Zone' was always going to promise attractive viewing, and it doesn't disappoint. Matt Damon's character, Chief Warrant Officer Roy Miller, is in charge of an American Armed Forces unit in search of Weapons of Mass Destruction during the early stages of the Iraq conflict. When their search proves fruitless, Miller begins to question the supposedly 'solid' intelligence that gave the locations of these WMD sites. The plot follows Miller's demand for answers from an unstable command desperate to hide them, revealing a political division at the heart of the U.S administration. Yes, this is fiction, but Greengrass has become adept at tapping into our taste for conspiracy, contextualising his stories within a political reality that has become all too familiar to us since the invasion began in 2003. It's thrilling stuff, and I think that is the key word to remember when watching this film. Thriller. Yes, there is political content here, and yes, it does hold up to some scrutiny. For example, the opening of the movie portrays the sense of confusion of conflicting command structures particularly well, really getting into the disorientation and intrigue of a military operation that isn't going as planned. The role of journalist Laurie Dayne (played by Amy Ryan) also provides a well-executed analysis of how the media's coverage of the facts can be impaired by the manoeuvrings of political and military authority. There are moments when this political engagement appears heavy-handed, but that is because the director's priority is always, first and foremost, entertainment. For example, there is nothing subtle about Damon's character walking into a scene of Americans drinking and lounging by the pool of one of Saddam Hussein's palaces. Furthermore, the film suffers from conventional Hollywood stereotypes when it tries to depict the 'downtrodden-yet-hopeful' Iraqi citizen, who works with Miller in order to expose the truth about his country. Khalid Abdalla (best known for his lead role in 'The Kite Runner') does his best with the material available, but the role lacks depth and complexity, and for me is one of the few disappointments of the film. But, as I said, this a work of fiction, and there are plenty of moments where our taste for excitement and spectacle is satisfied. Greengrass' now familiar 'handycam' filming style is appropriate to the sense that we are never sure as an audience where the threat is going to come from. It provides a kick of adrenaline to the action sequences, making us feel the sand in our mouths as we are thrown to the floor, and adds docudrama realism to the events on screen. Some of the reviews I have seen complained about this style of cinematography, but I think Greengrass has managed to make the technique contribute to the content of his film, rather than becoming overly intrusive or threatening our cinematic experience. There is a delicious feeling of melodrama to the piece as a whole � the moustached Jason Isaacs as the sinister Special Forces operative provides a gripping counterbalance to the inquiring Matt Damon. Brendan Gleeson is superb as the CIA agent that won't roll over and accept the demands of the military and political commanders. Indeed, the cast as a whole appears to work well together in a film that successfully marries the need for political engagement with the desire for cinematic spectacle. It is a film designed for box office appeal, and yet despite this it doesn't compromise on the political foundations on which it is based. Its climax is a fine reward for the audience's suspense � in short, a well-worked film that cuts to the heart of our craving for conspiracy and revelation. James Gill (Twitter @jg8608)",
+         "In 'Green Zone,' the 'Bourne' action blockbuster team (led by Paul Greengrass and his star Matt Damon) goes to Iraq, or rather to a facsimile staged in Spain and Morocco, switching from a super-assassin's identity crisis to contemporary political and military history. It seemed like this might be the great Iraq movie Americans haven't had, a blockbuster as exciting and real-feeling as Bigelow's Oscar-winning 'Hurt Locker,' but with real political context. 'Locker' is a superb battlefield action movie but it doesn't delve into the larger issues -- and, lacking a big name star, hasn't been seen by very many people, at least for a movie that won the Oscar for Best Picture. More analytical and contextual Iraq war movies like 'Lions for Lambs,' 'In the Valley of Eli,' 'The Messenger' or 'Rendition,' on the other hand, have been too small, anemic, and downbeat to be big box office. If anybody could turn this around and make an Iraq film that's both exciting and a think piece, the 'Bourne' guys could, right? Unfortunately, no, though the 'Bourne' team's involvement means 'Green Zone' will substantially outperform 'Hurt Locker' at the box office, and they have made an action movie that's boldly political, however deeply flawed. Let's bear in mind that the 'Bourne' movies are smart, but they're fantasy. Dealing with historical events is is a different kind of project. The focus of 'Green Zone' is on the early stages of the 2003 US Iraq invasion. The writer, Brian Helgelund ('L.A. Confidential,' 'Mystic River') is trying to get across the information in Rajiv Chandrasekaran's non-fiction 'Imperial Life in the Emerald City' while telling an action tale that follows an investigating tough guy played by Damon. As described in the documentary 'No End in Sight,' the US authorities made a number of crucial mistakes in the run-up to the war and how the occupation was run. Helgelund gets all this across, but the result is a mash-up that lacks credibility or logic. First US mistake: the key pretext for the invasion, Saddam Hussein's possession of \"weapons of mass destruction\" (or \"WMD's\"), proved illusory; no such weapons were found in locations where an Iraqi \"credible source\" said they were hidden. Matt Damon plays Chief Warrant Officer Roy Miller, who heads a squad charged with checking out places where US \"intel\" says there are WMD's stored. He points out the intel is bad, and soon finds out his opinion is not wanted by the higher ups, represented by Poundstone (Greg Kinnear), a Bush official who arrives with Ahmed Zubaidi (Raad Rawi) -- a stand-in for the actual Ahmad Chalabi, the US puppet the Bush administration foolishly thought could be put in to head a new government (another mistake). 'Green Zone' shows in a scene how spectacularly this fails. Second, the allied forces did not prevent widespread looting or maintain the infrastructure. Chaos reigned in Baghdad and eventually the rest of Iraq and the invaders lost the \"hearts and minds\" of Iraqis, who were enraged at being deprived of safety, food, water, and a steady power supply. This is when Donald Rumsfeld uttered his line \"Stuff happens.\" There's no Rumsfeld stand-in here, but the line \"democracy is messy\" occurs. Third, the provisional authority chose to dismantle the entire Iraqi administrative structure, including all Baath Party members in government and the Iraqi army. With the second and third mistakes the US lost its credibility and made a vast number of unnecessary enemies, and the way was paved for chaos and civil war in the country. After Chief Miller comes up with \"doughnuts\" at every supposed WMD location and becomes convinced the intel is no good in spite of being told at briefings it's pure gold, he becomes a cowboy and sets out on a zigzagged path of his own. He's supported by a high-ranking CIA officer with profound in-country experience named Martin Brown (Brendan Gleeson), who knows the WMD locations are fake and sees a cover-up. Amazing how Miller encounters both Poundstone and Brown right away in the occupation's \"safe\" \"Green Zone\" palace HQ. In fact Miller has magical access. He also runs into a Wall Street Journal correspondent called Lawrie Dayne (Amy Ryan), who turns out to have touted the government's dubious WMD stories (received from Ahmad Chalabi) in widely read articles, and she's discovering that she was duped but trying to cover it up. Dayne is a stand-in for the Times's Judith Miller. By this point it's obvious the screenplay is as schematic and implausible as 'The Hurt Locker's' is specific and real. Hence it's not surprising Chief Miler runs into \"Freddy\" (Khalid Abdalla) -- an Iraqi trying to guide any Americans he can find to a meeting of Baath leaders and cohorts held by a big Iraqi general, Al Rawi (Yigal Naor, an Israeli who specializes in playing Arab officials in American movies). Miller now turns into a rogue soldier, with Poundstone ordering him reassigned to his unit and Poundstone's more cooperative military operatives out to get him. Miller forgets about looking for WMD's and is now trying to \"save lives\" by tracking down Al Rawi, which involves sneaking into a prison with Freddy and a million dollars from his CIA ally, Brown. This is where things get really exciting, with everybody chasing everybody else, and Greengrass and his dp Barry Akroyd (who incidentally did the photography for 'Hurt Locker,' as well as Greengrass' 'United 93') fully up to speed in the action sequences. 'Green Zone' is consistently good on that level, but that success is undermined by the overall implausibility. Helgelund is obviously interweaving themes from a book about US mismanagement and aloofness from reality in Baghdad with chases and shoot-outs staged to give his action hero work to do. Will this movie change anybody's perception of the Iraq war? Probably people who go just for the action will look on the political stuff as decoration, as it usually is. But you never know. . ."
+      ],
+      "genres": [
+         "Action",
+         "Drama",
+         "Thriller",
+         "War"
+      ],
+      "productionCompanies": [
+         "Universal Pictures",
+         "StudioCanal",
+         "Relativity Media"
+      ],
+      "summaries": [
+         "Following the American invasion of Iraq in 2003 Chief Warrant Officer Roy Miller and his men are charged with finding the so-called weapons of mass destruction, whose existence justified American involvement, according to the Pentagon and their man in Baghdad, Poundstone. Veteran CIA operative Marty tells Miller that there are no weapons, it is a deception to allow the Americans to take over the country and install a puppet leader. Also suspicious of Poundstone is Wall Street Journal reporter Lawrie Dayne, who lets slip to Miller that Poundstone told her he had secret talks in Jordan with an important Iraqi, code-named Magellan, who told him about the weapons, though it now seems likely Magellan's true information was to the contrary. So begins a hunt for the truth. Who's playing whom?",
+         "Discovering covert and faulty intelligence causes a U.S. Army officer to go rogue as he hunts for Weapons of Mass Destruction in an unstable region."
+      ],
+      "budget": 100000000
+   },
+   "movielensId": 74795,
+   "movielens": {
+      "languages": [
+         "English",
+         "العربية"
+      ],
+      "releaseDate": "2010-03-11",
+      "dvdReleaseDate": "2010-06-22",
+      "directors": ["Paul Greengrass"],
+      "runtime": 115,
+      "movieId": 74795,
+      "title": "Green Zone",
+      "mpaa": "R",
+      "actors": [
+         "Matt Damon",
+         "Greg Kinnear",
+         "Brendan Gleeson",
+         "Amy Ryan",
+         "Jason Isaacs",
+         "Khalid Abdalla",
+         "Igal Naor",
+         "Antoni Corone",
+         "Said Faraj",
+         "Michael O'Neill",
+         "Jerry Della Salla",
+         "Faycal Attougui",
+         "Aymen Hamdouchi",
+         "Nicoye Banks",
+         "Sean Huze",
+         "Michael J. Dwyer",
+         "Edouard H.R. Gluck",
+         "Brian Siefkes",
+         "Adam Wendling",
+         "Abdul Henderson",
+         "Paul Karsko",
+         "Robert Miller",
+         "Eugene Cherry",
+         "Alexander Drum",
+         "Brian VanRiper",
+         "Matthew Knott",
+         "Nathan Lewis",
+         "John Roberson",
+         "Troy Brown",
+         "Raad Rawi",
+         "Bijan Daneshmand",
+         "Bryan Reents",
+         "Michael Judge",
+         "Patrick St. Esprit",
+         "Allen Vaught",
+         "Paul Rieckhoff",
+         "Martin McDougall",
+         "Antoni Corone",
+         "Timothy Ahern",
+         "Ben Sliney",
+         "Whitley Bruner",
+         "Intishal Al Timimi",
+         "Driss Roukhe",
+         "Muayad Ali",
+         "Jamal Selmaoui",
+         "Mohamed Kafi",
+         "Kadhum Sabur",
+         "Hillal Boubker",
+         "Soumaya Akaaboune",
+         "Thamou El Metouani",
+         "Salah Eddine Elamari",
+         "Naji El Jouhary",
+         "Aroun Benchkaroun",
+         "Hajar Machroune",
+         "Scott Berendes",
+         "Abdelkrim Assad",
+         "Michael Diaz",
+         "Tyler Christen",
+         "Adam Mackey",
+         "Ben Holland",
+         "Jeffrey John Carisalez",
+         "Jonathan Stone",
+         "James Hodges",
+         "Larry Lewis",
+         "William Oakes",
+         "Ziad Adwan",
+         "Ian Bendel",
+         "Venie Joshua",
+         "Miguel Berroa",
+         "Peter Shayhorn",
+         "Miguel Palaugalarza",
+         "Christopher Lilly",
+         "Sabir Ed-Dayab",
+         "Omar Berdouni",
+         "Alex Moore",
+         "Alistair Bailey",
+         "Eric Loren",
+         "Paul Cloutier",
+         "Wallace Bagwell",
+         "William Meredith",
+         "Tommy Campbell",
+         "James Wills",
+         "Jered Bezemek",
+         "Johnny Nilsson",
+         "Salman Hassan",
+         "Ammar Khdir",
+         "Youssif Falah-Jassem",
+         "Latif Al Anzi"
+      ],
+      "imdbMovieId": "0947810",
+      "originalTitle": "Green Zone",
+      "genres": [
+         "War",
+         "Action",
+         "Adventure",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["e3KJ21TLKVE"],
+      "plotSummary": "During the U.S.-led occupation of Baghdad in 2003, Chief Warrant Officer Roy Miller and his team of Army inspectors were dispatched to find weapons of mass destruction believed to be stockpiled in the Iraqi desert. Rocketing from one booby-trapped and treacherous site to the next, the men search for deadly chemical agents but stumble instead upon an elaborate cover-up that threatens to invert the purpose of their mission.",
+      "tmdbMovieId": 22972,
+      "avgRating": 3.38336,
+      "releaseYear": "2010",
+      "numRatings": 1526,
+      "posterPath": "/7O3IkeHvp1sq5yMN0O8FsTee1C0.jpg"
+   }
+}
