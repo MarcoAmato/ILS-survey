@@ -478,8 +478,11 @@ def print_similar_movies_ILS() -> None:
         print(f"sampled movie_id: {movie_id}, name: {movie_name}")
 
         movies_similar_tmdb: List[int] = get_similar_movies([movie_df])
-        movies_similar_tmdb.append(movie_id)
         movies_plus_similar_movieId: List[int] = convert_tbdb_to_movieId(movies_similar_tmdb)
+        movies_plus_similar_movieId.append(movie_id)
+        for movieid in movies_plus_similar_movieId:
+            print(f"{movieid},", end="")
+
         ils_measurements: Optional[Dict[str, any]] = \
             get_and_print_ILS_measurements(movies_plus_similar_movieId,
                                            similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
@@ -492,7 +495,8 @@ def print_similar_movies_ILS() -> None:
             ils_measurements['ids'] = movies_plus_similar_movieId  # add ids of movies to dict
             df_ILS_lists = df_ILS_lists.append(ils_measurements, ignore_index=True)
 
-    plot_ILS_lists(df_ILS_lists)
+    if index_of_lists > 0:  # there is at least an ILS to plot
+        plot_ILS_lists(df_ILS_lists)
 
     print("random_movies_ILS done")
 
@@ -528,8 +532,8 @@ def print_random_movies_ILS() -> None:
                 df_ILS_lists = df_ILS_lists.append(ils_measurements, ignore_index=True)
         else:  # value inserted is negative
             break
-
-    plot_ILS_lists(df_ILS_lists)
+    if index_of_lists > 0:
+        plot_ILS_lists(df_ILS_lists)
 
     print("random_movies_ILS done")
 
@@ -575,6 +579,7 @@ def print_lists_in_file_ILS() -> None:
             ils_measurements['ids'] = list_of_movies  # add ids of movies to dict
             df_ILS_lists = df_ILS_lists.append(ils_measurements, ignore_index=True)
 
-    plot_ILS_lists(df_ILS_lists)
+    if index_of_lists > 0:
+        plot_ILS_lists(df_ILS_lists)
 
     print("lists_in_file_ILS done")
