@@ -25,6 +25,9 @@ PATH_TO_TOP_10_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "top_10_movies_ids.csv"
 PATH_TO_TOP_100_MOVIES_ID: str = PATH_TO_TOP_100 + "top_100_movies_ids.csv"
 PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID: str = PATH_TO_TOP_100_SIMILARITIES + "movies_ids.csv"
 
+# lists of movies
+PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
+
 # movie ids conversion
 PATH_TO_LINK: str = PATH_TO_DATA_FOLDER + "links.csv"
 
@@ -459,6 +462,31 @@ def plot_ILS_lists(df_ILS_lists: DataFrame) -> None:
     plt.show()
 
 
+def plot_ILS_of_two_measures(df_ILS_lists1: DataFrame, df_ILS_lists2: DataFrame) -> None:
+    index_ils_measures1 = range(0, df_ILS_lists1.shape[0])
+    index_ils_measures2 = range(0, df_ILS_lists2.shape[0])
+
+    print("Plot of ILS mean similarity")
+    plt.scatter(x=index_ils_measures1, y=df_ILS_lists1['m'])
+    plt.scatter(x=index_ils_measures2, y=df_ILS_lists2['m'])
+    plt.show()
+
+    print("Plot of ILS by plot")
+    plt.scatter(x=index_ils_measures1, y=df_ILS_lists1['p'])
+    plt.scatter(x=index_ils_measures2, y=df_ILS_lists2['p'])
+    plt.show()
+
+    print("Plot of ILS by genre")
+    plt.scatter(x=index_ils_measures1, y=df_ILS_lists1['g'])
+    plt.scatter(x=index_ils_measures2, y=df_ILS_lists2['g'])
+    plt.show()
+
+    print("Plot of ILS by plot and genre")
+    plt.scatter(x=index_ils_measures1, y=df_ILS_lists1['pg'])
+    plt.scatter(x=index_ils_measures2, y=df_ILS_lists2['pg'])
+    plt.show()
+
+
 def print_similar_movies_ILS() -> None:
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
@@ -561,16 +589,20 @@ def read_lists_of_int_from_csv(path: str) -> List[List[int]]:
 
 def print_lists_in_file_ILS() -> None:
     """
-    Reads the lists of movies written in data/lists_of_movies.csv and computes then plots ils.
+    Reads the lists of movies written in data/similar_movies.csv and computes then plots ils.
     """
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
     # read lists of movies from file
-    lists_of_movies: List[List[int]] = read_lists_of_int_from_csv(PATH_TO_DATA_FOLDER + "lists_of_movies.csv")
+    lists_of_similar_movies: List[List[int]] = \
+        read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "similar_movies.csv")
+    lists_of_random_movies: List[List[int]] = \
+        read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "random_movies.csv")
+    # TODO plot the two kind of lists in the same graph
     df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
 
     index_of_lists: int = 0
 
-    for list_of_movies in lists_of_movies:
+    for list_of_movies in lists_of_similar_movies:
         ils_measurements: Optional[Dict[str, any]] = \
             get_and_print_ILS_measurements(list_of_movies,
                                            similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
