@@ -490,6 +490,7 @@ def print_similar_movies_ILS() -> None:
             print("It it not possible to compute similarity for the selected movies. Try again")
         else:  # ils was computed successfully
             print(f"ILS values of list {index_of_lists} finished")
+            print_names_of_movies(movies_plus_similar_movieId, PATH_TO_TOP_100_SIMILARITIES_JSON)
             index_of_lists += 1
             print("------------")
             ils_measurements['ids'] = movies_plus_similar_movieId  # add ids of movies to dict
@@ -519,6 +520,8 @@ def print_random_movies_ILS() -> None:
             print("Please enter an integer")
         elif number_of_movies > 0:
             random_ids: List[int] = random.sample(id_movies_top_100, number_of_movies)
+            for movieid in random_ids:
+                print(f"{movieid},", end="")
             # dict of ils measurements, keys = ['m', 'p', 'g', 'pg']
             ils_measurements: Optional[Dict[str, any]] = \
                 get_and_print_ILS_measurements(random_ids, similarity_df, PATH_TO_TOP_100_MOVIES_JSON)
@@ -526,6 +529,7 @@ def print_random_movies_ILS() -> None:
                 print("It it not possible to compute similarity for the selected movies. Try again")
             else:  # ils was computed successfully
                 print(f"ILS values of list {index_of_lists} finished")
+                print_names_of_movies(random_ids, PATH_TO_TOP_100_MOVIES_JSON)
                 index_of_lists += 1
                 print("------------")
                 ils_measurements['ids'] = random_ids  # add ids of movies to dict
@@ -574,6 +578,7 @@ def print_lists_in_file_ILS() -> None:
             print("It it not possible to compute similarity for the selected movies. Try again")
         else:  # ils was computed successfully
             print(f"ILS values of list {index_of_lists} finished")
+            print_names_of_movies(list_of_movies, PATH_TO_TOP_100_SIMILARITIES_JSON)
             index_of_lists += 1
             print("------------")
             ils_measurements['ids'] = list_of_movies  # add ids of movies to dict
