@@ -7,7 +7,7 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     COLUMNS_SIMILARITY, get_movie_dataframe_from_id, get_similarity_dataframe, read_movie_ids_from_csv, \
     PATH_TO_ALL_MOVIES_ID, \
     PATH_TO_SIMILARITY_MPG, PATH_TO_TOP_100_MOVIES_ID, \
-    get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_MOVIES_JSON, read_movies_from_csv, \
+    get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_JSON, read_movies_from_csv, \
     get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId, PATH_TO_SIM_100_SIMILARITIES, \
     PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON
 
@@ -198,14 +198,14 @@ def write_top_100_mpg() -> None:
                                  path_to_similarities=PATH_TO_SIMILARITY_MPG)
     # copies json of top n movies
     copy_movies(read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID),
-                PATH_TO_JSON, PATH_TO_TOP_100_MOVIES_JSON)
+                PATH_TO_JSON, PATH_TO_TOP_100_JSON)
     print("writing top 100 movies done")
 
 
 def write_top_100_mpg_plus_similarities() -> None:
     print("write top 100 mpg plus similarities starts...")
     # list of dataframes of top 100 movies
-    top_100_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_100_MOVIES_ID, PATH_TO_TOP_100_MOVIES_JSON)
+    top_100_movies: List[DataFrame] = read_movies_from_csv(PATH_TO_TOP_100_MOVIES_ID, PATH_TO_TOP_100_JSON)
     # list of ids of top 100 movies
     top_100_movies_ids: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     # get ids of recommended movies via JSON
