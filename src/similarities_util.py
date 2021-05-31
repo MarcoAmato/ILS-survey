@@ -455,43 +455,20 @@ def plot_ILS_lists(df_ILS_lists: List[DataFrame]) -> None:
     for index, df in enumerate(df_ILS_lists):
         plt.scatter(x=range(0, list_of_list_items_number[index]), y=df['m'])  # scatter plot every list of movies
     plt.show()
-    exit()
-    # print("Plot of ILS mean similarity")
-    # plt.scatter(x=index_ils_measures, y=df_ILS_lists['m'])
-    # plt.show()
-    # print("Plot of ILS by plot")
-    # plt.scatter(x=index_ils_measures, y=df_ILS_lists['p'])
-    # plt.show()
-    # print("Plot of ILS by genre")
-    # plt.scatter(x=index_ils_measures, y=df_ILS_lists['g'])
-    # plt.show()
-    # print("Plot of ILS by plot and genre")
-    # plt.scatter(x=index_ils_measures, y=df_ILS_lists['pg'])
-    # plt.show()
-
-
-def plot_ILS_of_two_measures(df_ILS_lists1: DataFrame, df_ILS_lists2: DataFrame) -> None:
-    index_ils_measures1 = range(0, df_ILS_lists1.shape[0])
-    index_ils_measures2 = range(0, df_ILS_lists2.shape[0])
-
-    print("Plot of ILS mean similarity")
-    plt.scatter(x=index_ils_measures1, y=df_ILS_lists1['m'])
-    plt.scatter(x=index_ils_measures2, y=df_ILS_lists2['m'])
-    plt.show()
 
     print("Plot of ILS by plot")
-    plt.scatter(x=index_ils_measures1, y=df_ILS_lists1['p'])
-    plt.scatter(x=index_ils_measures2, y=df_ILS_lists2['p'])
+    for index, df in enumerate(df_ILS_lists):
+        plt.scatter(x=range(0, list_of_list_items_number[index]), y=df['p'])  # scatter plot every list of movies
     plt.show()
 
     print("Plot of ILS by genre")
-    plt.scatter(x=index_ils_measures1, y=df_ILS_lists1['g'])
-    plt.scatter(x=index_ils_measures2, y=df_ILS_lists2['g'])
+    for index, df in enumerate(df_ILS_lists):
+        plt.scatter(x=range(0, list_of_list_items_number[index]), y=df['g'])  # scatter plot every list of movies
     plt.show()
 
     print("Plot of ILS by plot and genre")
-    plt.scatter(x=index_ils_measures1, y=df_ILS_lists1['pg'])
-    plt.scatter(x=index_ils_measures2, y=df_ILS_lists2['pg'])
+    for index, df in enumerate(df_ILS_lists):
+        plt.scatter(x=range(0, list_of_list_items_number[index]), y=df['pg'])  # scatter plot every list of movies
     plt.show()
 
 
@@ -640,7 +617,6 @@ def print_lists_in_file_ILS() -> None:
         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "similar_movies.csv")
     lists_of_random_movies: List[List[int]] = \
         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "random_movies.csv")
-    # TODO plot the two kind of lists in the same graph
     # dataframe of ILS measurements for lists of similar movies
     df_ILS_similar_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_similar_movies,
                                                                     similarities_top100_similarities,
