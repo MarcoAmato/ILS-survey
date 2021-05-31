@@ -18,7 +18,8 @@ PATH_TO_SIMILARITY_MEAN: str = PATH_TO_DATA_FOLDER + "clean_similarity.csv"
 PATH_TO_SIMILARITY_MPG: str = PATH_TO_DATA_FOLDER + "similarity_mpg.csv"
 PATH_TO_SIMILARITY_MP2G: str = PATH_TO_DATA_FOLDER + "similarity_mp2g.csv"
 PATH_TO_SIM_100_MPG: str = PATH_TO_TOP_100 + "similarities_mpg.csv"  # similarities mpg for top 100 movies
-PATH_TO_SIM_100_SIMILARITIES: str = PATH_TO_TOP_100_SIMILARITIES + "similarities_mpg.csv"
+PATH_TO_SIM_100_MPG_SIMILARITIES: str = PATH_TO_TOP_100_SIMILARITIES + "similarities_mpg.csv"
+PATH_TO_SIM_100_MP2G_SIMILARITIES: str = PATH_TO_TOP_100_SIMILARITIES + "similarities_mp2g.csv"
 PATH_TO_SIM_100_MP2G: str = PATH_TO_TOP_100 + "similarities_mp2g.csv"  # similarities mp2g for top 100 movies
 
 # movie ids csv
@@ -437,7 +438,7 @@ def print_ILS_from_ids() -> None:
         list_of_movies: List[int] = list(set_of_movies)
 
         print("Computing_ILS")
-        similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+        similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
         print_ILS_measures(list_of_movies, similarity_df, PATH_TO_TOP_100_SIMILARITIES_JSON)
 
 
@@ -491,7 +492,7 @@ def plot_ILS_lists(df_ILS_lists: List[DataFrame], ILS_measures: List[str]) -> No
 
 def print_similar_movies_ILS() -> None:
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
-    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
     df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
 
     index_of_lists: int = 0
@@ -538,7 +539,7 @@ def print_random_movies_ILS() -> None:
     """
     print("random_movies_ILS starts...")
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
-    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
     df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
 
     index_of_lists: int = 0
@@ -627,7 +628,7 @@ def print_lists_in_file_ILS() -> None:
     """
     Reads the lists of movies written in data/similar_movies.csv and computes then plots ils.
     """
-    similarities_top100_similarities: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_SIMILARITIES)
+    similarities_top100_similarities: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
     similarities_top100: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG)
     # read lists of movies from file
     lists_of_similar_movies: List[List[int]] = \

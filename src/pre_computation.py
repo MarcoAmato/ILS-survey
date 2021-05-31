@@ -8,8 +8,10 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     PATH_TO_ALL_MOVIES_ID, \
     PATH_TO_SIMILARITY_MPG, PATH_TO_TOP_100_MOVIES_ID, \
     get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_JSON, read_movies_from_csv, \
-    get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId, PATH_TO_SIM_100_SIMILARITIES, \
-    PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON, PATH_TO_SIMILARITY_MP2G, PATH_TO_SIM_100_MP2G
+    get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId, \
+    PATH_TO_SIM_100_MPG_SIMILARITIES, \
+    PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON, PATH_TO_SIMILARITY_MP2G, PATH_TO_SIM_100_MP2G, \
+    PATH_TO_SIM_100_MP2G_SIMILARITIES
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -276,7 +278,7 @@ def write_top_100_mpg_plus_similarities() -> None:
 
     # write similarities
     write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID,
-                                 path_to_write=PATH_TO_SIM_100_SIMILARITIES,
+                                 path_to_write=PATH_TO_SIM_100_MPG_SIMILARITIES,
                                  path_to_similarities=PATH_TO_SIMILARITY_MPG)
 
     # copies json of movies
@@ -286,7 +288,18 @@ def write_top_100_mpg_plus_similarities() -> None:
     print("write top 100 mpg plus similarities done")
 
 
+def write_top_100_mp2g_plus_similarities() -> None:
+    print("write top 100 mp2g plus similarities starts...")
+
+    # write similarities
+    write_similarities_of_movies(path_to_movies=PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID,
+                                 path_to_write=PATH_TO_SIM_100_MP2G_SIMILARITIES,
+                                 path_to_similarities=PATH_TO_SIMILARITY_MP2G)
+
+    print("write top 100 mpg plus similarities done")
+
+
 if __name__ == "__main__":
     print("pre computation starts")
-    write_top_100_mp2g()
-    # write_top_100_mpg_plus_similarities()
+    # write_top_100_mp2g()
+    write_top_100_mp2g_plus_similarities()
