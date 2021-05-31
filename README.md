@@ -18,8 +18,10 @@ The lists can be created in the following ways:
     9,54,65,3,7,5,12,41,98,27,93
 
 N.B.
-We will refer to a dataframe called similarity_mpg.
-What MPG stands for is Mean (similarity), Plot (similarity), Genre (similarity.), which are the 3 different similarity measures for this dataframe. 
+- We will refer to a dataframe called similarity_mpg.
+What MPG stands for is Mean (similarity), Plot:LDA (similarity), Genre:JACC (similarity), which are the 3 different similarity measures for this dataframe. 
+- We will refer to another dataframe called similarity_mp2g.
+What MP2G stands for is Mean (similarity), Plot:LDA (similarity), Plot:cos (similarity), Genre:JACC (similarity.), which are the 4 different similarity measures for this dataframe. 
 
 Project setup
 =======
