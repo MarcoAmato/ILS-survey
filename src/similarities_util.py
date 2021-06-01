@@ -249,6 +249,10 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method
         for movie in list_of_movies:
             print_movie_with_info(movie, ["overview"])
         ILS = similarities_of_movies['Plot:LDA'].sum()
+    elif method == "plot2":
+        for movie in list_of_movies:
+            print_movie_with_info(movie, ["overview"])
+        ILS = similarities_of_movies['Plot:cos'].sum()
     elif method == "genre":
         for movie in list_of_movies:
             print_movie_with_info(movie, ["genres"])
@@ -258,6 +262,11 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method
             print_movie_with_info(movie, ["genres", "overview"])
         # mean of plot and genre
         ILS = (similarities_of_movies['Plot:LDA'].sum() + similarities_of_movies['Genre:Jacc'].sum()) / 2
+    elif method == "plot2-genre":
+        for movie in list_of_movies:
+            print_movie_with_info(movie, ["genres", "overview"])
+        # mean of plot and genre
+        ILS = (similarities_of_movies['Plot:cos'].sum() + similarities_of_movies['Genre:Jacc'].sum()) / 2
 
     # we normalize using the number of similarities
     ILS_normalized: Optional[float]
@@ -359,15 +368,25 @@ def get_and_print_ILS_measurements(movies: List[int], similarity_df: DataFrame, 
     print(ILS_p)
     dict_of_similarities['p'] = ILS_p
 
+    ILS_p2: float = get_ILS(similarity_df, movies, "plot2")
+    print("ILS using mean of Plot:cos: ")
+    print(ILS_p2)
+    dict_of_similarities['p2'] = ILS_p2
+
     ILS_g: float = get_ILS(similarity_df, movies, "genre")
     print("ILS using mean of Genre:JACC: ")
     print(ILS_g)
     dict_of_similarities['g'] = ILS_g
 
     ILS_pg: float = get_ILS(similarity_df, movies, "plot-genre")
-    print("ILS using mean of Plot and Genre: ")
+    print("ILS using mean of Plot:LDA and Genre: ")
     print(ILS_pg)
     dict_of_similarities['pg'] = ILS_pg
+
+    ILS_p2g: float = get_ILS(similarity_df, movies, "plot2-genre")
+    print("ILS using mean of Plot:cos and Genre: ")
+    print(ILS_p2g)
+    dict_of_similarities['p2g'] = ILS_p2g
 
     return dict_of_similarities
 
@@ -628,13 +647,15 @@ def print_lists_in_file_ILS() -> None:
     """
     Reads the lists of movies written in data/similar_movies.csv and computes then plots ils.
     """
-    similarities_top100_similarities: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
-    similarities_top100: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG)
+    similarities_top100_similarities: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MP2G_SIMILARITIES)
+    similarities_top100: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MP2G)
     # read lists of movies from file
     lists_of_similar_movies: List[List[int]] = \
         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "similar_movies.csv")
     lists_of_random_movies: List[List[int]] = \
         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "random_movies.csv")
+    lists_of_hand_made_movies: List[List[int]] = \
+        read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv")
     # dataframe of ILS measurements for lists of similar movies
     df_ILS_similar_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_similar_movies,
                                                                     similarities_top100_similarities,
@@ -645,6 +666,11 @@ def print_lists_in_file_ILS() -> None:
                                                                    similarities_top100,
                                                                    PATH_TO_TOP_100_JSON)
 
-    plot_ILS_lists([df_ILS_similar_movies, df_ILS_random_movies], ['m', 'p', 'g', 'pg'])
+    df_ILS_hand_made_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_hand_made_movies,
+                                                                      similarities_top100,
+                                                                      PATH_TO_TOP_100_JSON)
+
+    plot_ILS_lists([df_ILS_similar_movies, df_ILS_random_movies, df_ILS_hand_made_movies],
+                   ['m', 'p', 'p2', 'g', 'pg', 'p2g'])
 
     print("lists_in_file_ILS done")
