@@ -1,6 +1,8 @@
+import os
 from shutil import copyfile
 from typing import Dict, List, Set
 
+import pandas as pd
 from pandas import DataFrame, Series
 
 from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_mean_similarity, get_movies_from_df, \
@@ -11,9 +13,12 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId, \
     PATH_TO_SIM_100_MPG_SIMILARITIES, \
     PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON, PATH_TO_SIMILARITY_MP2G, PATH_TO_SIM_100_MP2G, \
-    PATH_TO_SIM_100_MP2G_SIMILARITIES
+    PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
+
+# columns of info for the movies
+COLUMNS_MOVIES_PLOT_GENRE: List[str] = ["genres", "overview", "similar"]
 
 
 def write_mean_similarity_dataframe(path_to_new_dataframe: str) -> None:
@@ -299,7 +304,54 @@ def write_top_100_mp2g_plus_similarities() -> None:
     print("write top 100 mpg plus similarities done")
 
 
-if __name__ == "__main__":
+def mp2g_main():
+    """
+    Writes the data/top100/similarities_mp2g and data/top100_similarities/similarities_mp2g.
+    """
     print("pre computation starts")
-    # write_top_100_mp2g()
+    write_top_100_mp2g()
     write_top_100_mp2g_plus_similarities()
+
+
+def write_movies_info_file(path_to_movies_json: str,
+                           path_to_movies_description: str,
+                           columns_to_write: List[str]
+                           ) -> None:
+    """
+    Writes a txt file containing the columns in columns_to_write for the movies in the folder path_to_movies_json
+    @param path_to_movies_description: path to file of movie description
+    @type path_to_movies_description: str
+    @param columns_to_write: columns to write for every movie
+    @type columns_to_write: Set[str]
+    @param path_to_movies_json: path to folder of json for movies
+    @type path_to_movies_json: str
+    """
+    movies_description: str = ""  # string of all movies description
+
+    for movie_path in os.listdir(path_to_movies_json):
+        movie_full_path: str = os.path.join(path_to_movies_json, movie_path)
+        json_movie_df: DataFrame = pd.read_json(movie_full_path, encoding="UTF-8")
+        movie_description: str = ""
+
+        movie_id: int = int(movie_path.split(".")[0])
+        movie_title: str = json_movie_df["tmdb"]["title"]
+
+        movie_description += movie_title + ", id = " + str(movie_id) + "\n"
+
+        for column in columns_to_write:
+            column_value: str
+            if column == "genres":
+                column_value = get_genres(json_movie_df["tmdb"][column])
+            else:
+                column_value = str(json_movie_df["tmdb"][column])
+            movie_description += "\t" + column + "\n\t\t" + column_value + "\n"
+
+        movies_description += movie_description  # add the movie description to the overall movies description
+
+    with open(path_to_movies_description, "w") as description_file:
+        description_file.write(movies_description)  # write movies description to file
+
+
+if __name__ == "__main__":
+    # write_movies_info_file(PATH_TO_TOP_100_JSON, COLUMNS_MOVIES_PLOT_GENRE)
+    pass

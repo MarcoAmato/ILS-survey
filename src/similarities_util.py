@@ -39,6 +39,9 @@ PATH_TO_JSON = PATH_TO_DATA_FOLDER + "extracted_content_ml-latest/"
 PATH_TO_TOP_100_JSON = PATH_TO_TOP_100 + "movies/"
 PATH_TO_TOP_100_SIMILARITIES_JSON = PATH_TO_TOP_100_SIMILARITIES + "movies/"
 
+# path to movies description
+PATH_TO_DESCRIPTION_TOP_100: str = PATH_TO_TOP_100 + "movies_description.txt"
+
 NEW_SIMILARITY_DATAFRAME_COLUMNS = ["movie1", "movie2", "similarity"]
 COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Title:LDA', 'Image:EMB', 'Image:BR', 'Image:SH', 'Image:CO',
@@ -115,6 +118,18 @@ def get_movies_from_df(df_similarities: DataFrame) -> List[int]:
         elif row.movie2 not in movies:
             movies.append(row.movie2)
     return movies
+
+
+def get_genres(movie_genres: List[Dict[str, str]]) -> str:
+    """
+    Returns the string of the genres names for the movie starting from the json with ids and name of genres.
+    @param movie_genres: string of movie genres and ids
+    @type movie_genres: List[str]
+    """
+    genres_names: List[str] = []
+    for genre in movie_genres:
+        genres_names.append(genre["name"])
+    return str(genres_names)
 
 
 def read_movie_ids_from_csv(path: str) -> List[int]:
