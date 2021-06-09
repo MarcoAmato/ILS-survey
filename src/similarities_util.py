@@ -1,3 +1,4 @@
+import os
 import random
 from random import sample
 import pandas as pd
@@ -118,6 +119,32 @@ def get_movies_from_df(df_similarities: DataFrame) -> List[int]:
         elif row.movie2 not in movies:
             movies.append(row.movie2)
     return movies
+
+
+def get_movies_df_from_json_folder(path_to_json: str) -> List[DataFrame]:
+    """
+    Returns list of dataframe for movies in 'path_to_json'
+    @param path_to_json: path where movies are
+    @type path_to_json: str
+    """
+    list_of_movies: List[DataFrame] = []
+    for movie_path in os.listdir(path_to_json):  # iterate all files into path_to_json folder
+        movie_full_path: str = os.path.join(path_to_json, movie_path)  # actual path of movie
+        json_movie_df: DataFrame = pd.read_json(movie_full_path, encoding="UTF-8")
+        list_of_movies.append(json_movie_df)
+    return list_of_movies
+
+
+def get_movies_with_name(name: str, path_to_json: str) -> List[DataFrame]:
+    """
+    Returns the list of dataframes containing movies whose title contains 'name'. The movies jsons to look for are
+    found in 'path_to_json'
+    @param name: string that should be contained in the title of the movie
+    @type name: str
+    @param path_to_json: path where jsons of movies are
+    @type path_to_json: str
+    """
+    all_movies_dataframes: List[DataFrame] = get_movies_df_from_json_folder(path_to_json)
 
 
 def get_genres(movie_genres: List[Dict[str, str]]) -> str:

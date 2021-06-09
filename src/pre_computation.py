@@ -353,5 +353,4 @@ def write_movies_info_file(path_to_movies_json: str,
 
 
 if __name__ == "__main__":
-    # write_movies_info_file(PATH_TO_TOP_100_JSON, COLUMNS_MOVIES_PLOT_GENRE)
     pass
