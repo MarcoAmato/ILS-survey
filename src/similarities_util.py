@@ -145,6 +145,11 @@ def get_movies_with_name(name: str, path_to_json: str) -> List[DataFrame]:
     @type path_to_json: str
     """
     all_movies_dataframes: List[DataFrame] = get_movies_df_from_json_folder(path_to_json)
+    movies_with_name: List[DataFrame] = []
+    for movie in all_movies_dataframes:
+        if name in movie["tmdb"]["title"]:
+            movies_with_name.append(movie)
+    return movies_with_name
 
 
 def get_genres(movie_genres: List[Dict[str, str]]) -> str:
