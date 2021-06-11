@@ -5,7 +5,7 @@ import pandas as pd
 from os.path import dirname, realpath
 from pandas import DataFrame, Series
 from matplotlib import pyplot as plt
-from typing import List, Set, Optional, Dict
+from typing import List, Set, Optional, Dict, Callable
 
 # folders
 # folder where script is/data folder
@@ -132,6 +132,45 @@ def get_movies_df_from_json_folder(path_to_json: str) -> List[DataFrame]:
         movie_full_path: str = os.path.join(path_to_json, movie_path)  # actual path of movie
         json_movie_df: DataFrame = pd.read_json(movie_full_path, encoding="UTF-8")
         list_of_movies.append(json_movie_df)
+    return list_of_movies
+
+
+def get_movies_df_from_json_folder_with_condition(path_to_json: str,
+                                                  condition: Callable[[DataFrame], bool]
+                                                  ) -> List[DataFrame]:
+    """
+    Returns list of dataframe for movies in 'path_to_json', where 'condition' is valid for movie
+    @param condition: function that given a DataFrame returns true if condition is valid, false otherwise
+    @type condition: Callable[[DataFrame], bool]
+    @param path_to_json: path where movies are
+    @type path_to_json: str
+    """
+    list_of_movies: List[DataFrame] = []
+    for movie_path in os.listdir(path_to_json):  # iterate all files into path_to_json folder
+        movie_full_path: str = os.path.join(path_to_json, movie_path)  # actual path of movie
+        json_movie_df: DataFrame = pd.read_json(movie_full_path, encoding="UTF-8")
+        if condition(json_movie_df):  # condition is valid for movie
+            list_of_movies.append(json_movie_df)  # we add it to df
+    return list_of_movies
+
+
+def get_movies_df_from_json_folder_where_name_in_title(path_to_json: str, name: str) -> List[DataFrame]:
+    """
+    Returns list of dataframe for movies in 'path_to_json', name in movie title
+    @param name: name to be in title
+    @type name: str
+    @param path_to_json: path where movies are
+    @type path_to_json: str
+    """
+    list_of_movies: List[DataFrame] = []
+    for movie_path in os.listdir(path_to_json):  # iterate all files into path_to_json folder
+        movie_full_path: str = os.path.join(path_to_json, movie_path)  # actual path of movie
+        json_movie_df: DataFrame = pd.read_json(movie_full_path, encoding="UTF-8")
+        try:
+            if name in json_movie_df["tmdb"]["title"]:  # movie title contains name
+                list_of_movies.append(json_movie_df)  # we add it to df
+        except KeyError:
+            pass
     return list_of_movies
 
 
@@ -532,29 +571,6 @@ def plot_ILS_lists(df_ILS_lists: List[DataFrame], ILS_measures: List[str]) -> No
             print(f"\tStd = {df[measure].std()}")  # get standard deviation for lists
         plt.show()
 
-    # print("Plot of ILS mean similarity")
-    # for index, df in enumerate(df_ILS_lists):
-    #     plt.scatter(x=range(0, list_of_list_items_number[index]), y=df['m'])  # scatter plot every list of movies
-    #     print(f"List {index}:")
-    #     print(f"\tMean = {df['m'].mean()}")
-    #     print(f"\tStd = {df['m'].std()}")
-    # plt.show()
-    #
-    # print("Plot of ILS by plot")
-    # for index, df in enumerate(df_ILS_lists):
-    #     plt.scatter(x=range(0, list_of_list_items_number[index]), y=df['p'])  # scatter plot every list of movies
-    # plt.show()
-    #
-    # print("Plot of ILS by genre")
-    # for index, df in enumerate(df_ILS_lists):
-    #     plt.scatter(x=range(0, list_of_list_items_number[index]), y=df['g'])  # scatter plot every list of movies
-    # plt.show()
-    #
-    # print("Plot of ILS by plot and genre")
-    # for index, df in enumerate(df_ILS_lists):
-    #     plt.scatter(x=range(0, list_of_list_items_number[index]), y=df['pg'])  # scatter plot every list of movies
-    # plt.show()
-
 
 def print_similar_movies_ILS() -> None:
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
@@ -692,8 +708,10 @@ def get_dataframe_of_movie_lists(lists_of_movies: List[List[int]],
 
 def print_lists_in_file_ILS() -> None:
     """
-    Reads the lists of movies written in data/similar_movies.csv and computes then plots ils.
+    Reads the lists of movies written in data/lists_of_movies and computes then plots ils.
     """
+    exit()  # TODO HAND MADE MOVIES ARE NOT IN TOP 100, CORRECT BEFORE RUNNING FUNCTION
+
     similarities_top100_similarities: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MP2G_SIMILARITIES)
     similarities_top100: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MP2G)
     # read lists of movies from file
@@ -721,3 +739,19 @@ def print_lists_in_file_ILS() -> None:
                    ['m', 'p', 'p2', 'g', 'pg', 'p2g'])
 
     print("lists_in_file_ILS done")
+
+
+def print_hand_made_lists():
+    """
+    Reads the lists of movies written in data/lists_of_movies/hand_made_movies.csv and computes then plots ils.
+    """
+    similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MP2G)
+
+    lists_of_hand_made_movies: List[List[int]] = \
+        read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv")
+
+    df_ILS_hand_made_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_hand_made_movies,
+                                                                      similarities_df,
+                                                                      PATH_TO_JSON)
+
+    plot_ILS_lists([df_ILS_hand_made_movies], ['m', 'p', 'p2', 'g', 'pg', 'p2g'])

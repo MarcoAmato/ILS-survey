@@ -8,7 +8,9 @@ if __name__ == "__main__":
               "\n\tEnter 2 to create lists from the similarities (as reported in the json files) of a random movie "
               "in the top100"
               "\n\tEnter 3 to create a list of random items"
-              "\n\tEnter 4 to create lists from similar_movies.csv (more information of README.md)"
+              "\n\tEnter 4 to create lists from all the files in data/lists_of_movies (more information of README.md)"
+              "\n\tEnter 5 to create lists from data/lists_of_movies/hand_made_movies.csv (more information of "
+              "README.md) "
               "\n\tEnter -1 to exit")
         value_inserted = input()
         command_inserted: Optional[int] = sim.get_integer(value_inserted)
@@ -23,6 +25,8 @@ if __name__ == "__main__":
             sim.print_random_movies_ILS()
         elif command_inserted == 4:
             sim.print_lists_in_file_ILS()
+        elif command_inserted == 5:
+            sim.print_hand_made_lists()
         elif command_inserted == -1:
             break
         else:
