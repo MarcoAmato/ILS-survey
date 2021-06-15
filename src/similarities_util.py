@@ -83,27 +83,11 @@ def get_similarity_dataframe(path: str, num_rows: int = None) -> DataFrame:
     return similarities
 
 
-def get_similarities_between_movies(similarities: DataFrame, list_of_movies: List[int]) -> DataFrame:
-    """
-    Returns a dataframe containing all the similarities between the movies in list_of_movies
-    :param similarities: Dataframe containing all the similarities
-    :param list_of_movies: list of movie ids whose similarities we want to retrieve
-    """
-    # create dataframe for similarities of list_of_movies
-    movies_similarities: DataFrame = DataFrame()
-
-    rows_read: int = 0
-    for index, similarity_row in similarities.iterrows():
-        # if rows_read % 100000 == 0:
-        #     print(f"{rows_read} rows read")
-        rows_read += 1
-        if similarity_row.movie1 in list_of_movies and similarity_row.movie2 in list_of_movies:
-            # similarity of 2 movies in list_of_movies
-            movies_similarities = movies_similarities.append(similarity_row)
-
-    movies_similarities.movie1 = movies_similarities.movie1.astype(int)  # movie1 treated as int
-    movies_similarities.movie2 = movies_similarities.movie2.astype(int)  # movie2 treated as int
-    return movies_similarities
+def does_row_contain_only_movies(row: Series, movies: List[int]) -> bool:
+    if row.movie1 in movies and row.movie2 in movies:
+        return True
+    else:
+        return False
 
 
 def does_row_contain_movies(row: Series, movies: List[int]) -> bool:
@@ -357,7 +341,9 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method
     similarity_measures is empty
     """
     # get similarity Dataframe for the movies in list_of_movies
-    similarities_of_movies: DataFrame = get_similarities_between_movies(similarity_measures, list_of_movies)
+    similarities_of_movies: DataFrame = get_similarities_with_condition(similarity_measures,
+                                                                        list_of_movies,
+                                                                        does_row_contain_only_movies)
 
     if similarities_of_movies.shape[0] <= 0:  # the similarity dataframe is empty
         print("There are no similarities for the movies, ILS not computable")
