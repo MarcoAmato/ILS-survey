@@ -106,6 +106,13 @@ def get_similarities_between_movies(similarities: DataFrame, list_of_movies: Lis
     return movies_similarities
 
 
+def does_row_contain_movies(row: Series, movies: List[int]) -> bool:
+    if row.movie1 in movies or row.movie2 in movies:
+        return True
+    else:
+        return False
+
+
 def get_similarities_with_condition(similarities: DataFrame,
                                     list_of_movies: List[int],
                                     condition: Callable[[Series, List[int]], bool]) -> DataFrame:
@@ -126,8 +133,7 @@ def get_similarities_with_condition(similarities: DataFrame,
         # if rows_read % 100000 == 0:
         #     print(f"{rows_read} rows read")
         rows_read += 1
-        if condition(similarity_row, list_of_movies):
-            # similarity of 2 movies in list_of_movies
+        if condition(similarity_row, list_of_movies) is True:
             movies_similarities = movies_similarities.append(similarity_row)
 
     movies_similarities.movie1 = movies_similarities.movie1.astype(int)  # movie1 treated as int
