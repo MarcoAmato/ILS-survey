@@ -107,15 +107,14 @@ def get_similarities_with_condition(similarities: DataFrame,
     :param condition: a function that given the similarity row and list_of_movies returns true if condition is
     satisfied, false otherwise
     """
-    # TODO debug and implement
 
     # create dataframe for similarities of list_of_movies
     movies_similarities: DataFrame = DataFrame()
 
     rows_read: int = 0
     for index, similarity_row in similarities.iterrows():
-        # if rows_read % 100000 == 0:
-        #     print(f"{rows_read} rows read")
+        if rows_read % 100000 == 0:
+            print(f"{rows_read} rows read")
         rows_read += 1
         if condition(similarity_row, list_of_movies) is True:
             movies_similarities = movies_similarities.append(similarity_row)
@@ -597,7 +596,6 @@ def plot_ILS_lists(df_ILS_lists: List[DataFrame], ILS_measures: List[str]) -> No
 def print_similar_movies_ILS() -> None:
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
-    # TODO the similarity df should contain just the similarities for the movies
     df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
 
     index_of_lists: int = 0
@@ -730,14 +728,16 @@ def get_dataframe_of_movie_lists(lists_of_movies: List[List[int]],
     return df_ILS_lists
 
 
+def matrix_to_list(matrix: List[List]) -> List:
+    return [item for sublist in matrix for item in sublist]
+
+
 def print_lists_in_file_ILS() -> None:
     """
     Reads the lists of movies written in data/lists_of_movies and computes then plots ils.
     """
-    exit()  # TODO HAND MADE MOVIES ARE NOT IN TOP 100, CORRECT BEFORE RUNNING FUNCTION
+    print("print_lists_in_file_ILS starts...")
 
-    similarities_top100_similarities: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MP2G_SIMILARITIES)
-    similarities_top100: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MP2G)
     # read lists of movies from file
     lists_of_similar_movies: List[List[int]] = \
         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "similar_movies.csv")
@@ -745,18 +745,37 @@ def print_lists_in_file_ILS() -> None:
         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "random_movies.csv")
     lists_of_hand_made_movies: List[List[int]] = \
         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv")
+
+    # lambda to convert the matrix of movies to a list
+
+    similar_movies_ids: List[int] = matrix_to_list(lists_of_similar_movies)  # ids of similar movies
+    random_movies_ids: List[int] = matrix_to_list(lists_of_random_movies)  # ids of random movies
+    hand_made_movies_ids: List[int] = matrix_to_list(lists_of_hand_made_movies)  # ids of hand-made movies
+
+    all_movies_needed: List[int] = similar_movies_ids + random_movies_ids + hand_made_movies_ids
+
+    print("reading similarities big...")
+    similarities_big: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MP2G)
+    print("reading similarities big done")
+
+    print("getting necessary similarities...")
+    similarities_needed: DataFrame = get_similarities_with_condition(similarities_big,
+                                                                     all_movies_needed,
+                                                                     does_row_contain_movies)
+    print("necessary similarities gotten")
+
     # dataframe of ILS measurements for lists of similar movies
     df_ILS_similar_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_similar_movies,
-                                                                    similarities_top100_similarities,
+                                                                    similarities_needed,
                                                                     PATH_TO_TOP_100_SIMILARITIES_JSON)
 
     # dataframe of ILS measurements for lists of random movies
     df_ILS_random_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_random_movies,
-                                                                   similarities_top100,
+                                                                   similarities_needed,
                                                                    PATH_TO_TOP_100_JSON)
 
     df_ILS_hand_made_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_hand_made_movies,
-                                                                      similarities_top100,
+                                                                      similarities_needed,
                                                                       PATH_TO_TOP_100_JSON)
 
     plot_ILS_lists([df_ILS_similar_movies, df_ILS_random_movies, df_ILS_hand_made_movies],
