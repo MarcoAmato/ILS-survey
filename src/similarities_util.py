@@ -83,14 +83,14 @@ def get_similarity_dataframe(path: str, num_rows: int = None) -> DataFrame:
     return similarities
 
 
-def get_similarities_of_movies(similarities: DataFrame, list_of_movies: List[int]) -> DataFrame:
+def get_similarities_between_movies(similarities: DataFrame, list_of_movies: List[int]) -> DataFrame:
     """
     Returns a dataframe containing all the similarities between the movies in list_of_movies
     :param similarities: Dataframe containing all the similarities
     :param list_of_movies: list of movie ids whose similarities we want to retrieve
     """
     # create dataframe for similarities of list_of_movies
-    movies_similarities = DataFrame(columns=NEW_SIMILARITY_DATAFRAME_COLUMNS)
+    movies_similarities: DataFrame = DataFrame()
 
     rows_read: int = 0
     for index, similarity_row in similarities.iterrows():
@@ -98,6 +98,35 @@ def get_similarities_of_movies(similarities: DataFrame, list_of_movies: List[int
         #     print(f"{rows_read} rows read")
         rows_read += 1
         if similarity_row.movie1 in list_of_movies and similarity_row.movie2 in list_of_movies:
+            # similarity of 2 movies in list_of_movies
+            movies_similarities = movies_similarities.append(similarity_row)
+
+    movies_similarities.movie1 = movies_similarities.movie1.astype(int)  # movie1 treated as int
+    movies_similarities.movie2 = movies_similarities.movie2.astype(int)  # movie2 treated as int
+    return movies_similarities
+
+
+def get_similarities_with_condition(similarities: DataFrame,
+                                    list_of_movies: List[int],
+                                    condition: Callable[[Series, List[int]], bool]) -> DataFrame:
+    """
+    Returns a dataframe containing all the similarities between the movies in list_of_movies
+    :param similarities: Dataframe containing all the similarities
+    :param list_of_movies: list of movie ids whose similarities we want to retrieve
+    :param condition: a function that given the similarity row and list_of_movies returns true if condition is
+    satisfied, false otherwise
+    """
+    # TODO debug and implement
+
+    # create dataframe for similarities of list_of_movies
+    movies_similarities: DataFrame = DataFrame()
+
+    rows_read: int = 0
+    for index, similarity_row in similarities.iterrows():
+        # if rows_read % 100000 == 0:
+        #     print(f"{rows_read} rows read")
+        rows_read += 1
+        if condition(similarity_row, list_of_movies):
             # similarity of 2 movies in list_of_movies
             movies_similarities = movies_similarities.append(similarity_row)
 
@@ -322,7 +351,7 @@ def get_ILS(similarity_measures: pd.DataFrame, list_of_movies: List[int], method
     similarity_measures is empty
     """
     # get similarity Dataframe for the movies in list_of_movies
-    similarities_of_movies: DataFrame = get_similarities_of_movies(similarity_measures, list_of_movies)
+    similarities_of_movies: DataFrame = get_similarities_between_movies(similarity_measures, list_of_movies)
 
     if similarities_of_movies.shape[0] <= 0:  # the similarity dataframe is empty
         print("There are no similarities for the movies, ILS not computable")
@@ -437,6 +466,7 @@ def get_and_print_ILS_measurements(movies: List[int], similarity_df: DataFrame, 
     @param path_to_movies: path to movies jsons
     @type path_to_movies: str
     """
+    #  TODO this function should be given a similarity dataframe that contains just the similarities for the movies
     dict_of_similarities: Dict[str, float] = {}
     print("movies: ")
     print_names_of_movies(movies, path_to_movies)
@@ -575,6 +605,7 @@ def plot_ILS_lists(df_ILS_lists: List[DataFrame], ILS_measures: List[str]) -> No
 def print_similar_movies_ILS() -> None:
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
+    # TODO the similarity df should contain just the similarities for the movies
     df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
 
     index_of_lists: int = 0
@@ -622,6 +653,7 @@ def print_random_movies_ILS() -> None:
     print("random_movies_ILS starts...")
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
+    # TODO the similarity df should contain just the similarities for the movies
     df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
 
     index_of_lists: int = 0
@@ -746,6 +778,7 @@ def print_hand_made_lists():
     Reads the lists of movies written in data/lists_of_movies/hand_made_movies.csv and computes then plots ils.
     """
     similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MP2G)
+    # TODO the similarity df should contain just the similarities for the movies
 
     lists_of_hand_made_movies: List[List[int]] = \
         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv")

@@ -9,7 +9,7 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     COLUMNS_SIMILARITY, get_movie_dataframe_from_id, get_similarity_dataframe, read_movie_ids_from_csv, \
     PATH_TO_ALL_MOVIES_ID, \
     PATH_TO_SIMILARITY_MPG, PATH_TO_TOP_100_MOVIES_ID, \
-    get_similarities_of_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_JSON, read_movies_from_csv, \
+    get_similarities_between_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_JSON, read_movies_from_csv, \
     get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId, \
     PATH_TO_SIM_100_MPG_SIMILARITIES, \
     PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON, PATH_TO_SIMILARITY_MP2G, PATH_TO_SIM_100_MP2G, \
@@ -232,7 +232,7 @@ def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str,
     # pd.read_csv(path_to_similarities)
 
     print("finding similarities...")
-    similarities_of_movies: DataFrame = get_similarities_of_movies(similarities, top_n_movies)
+    similarities_of_movies: DataFrame = get_similarities_between_movies(similarities, top_n_movies)
     print("finding similarities done")
 
     similarities_of_movies.to_csv(path_to_write, index=False)
