@@ -113,7 +113,7 @@ def get_similarities_with_condition(similarities: DataFrame,
 
     rows_read: int = 0
     for index, similarity_row in similarities.iterrows():
-        if rows_read % 100000 == 0:
+        if rows_read % 10000 == 0:
             print(f"{rows_read} rows read")
         rows_read += 1
         if condition(similarity_row, list_of_movies) is True:
@@ -752,7 +752,8 @@ def print_lists_in_file_ILS() -> None:
     random_movies_ids: List[int] = matrix_to_list(lists_of_random_movies)  # ids of random movies
     hand_made_movies_ids: List[int] = matrix_to_list(lists_of_hand_made_movies)  # ids of hand-made movies
 
-    all_movies_needed: List[int] = similar_movies_ids + random_movies_ids + hand_made_movies_ids
+    # make set then list to remove duplicated
+    all_movies_needed: List[int] = list(set(similar_movies_ids + random_movies_ids + hand_made_movies_ids))
 
     print("reading similarities big...")
     similarities_big: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MP2G)
