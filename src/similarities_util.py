@@ -44,6 +44,7 @@ PATH_TO_TOP_100_SIMILARITIES_JSON = PATH_TO_TOP_100_SIMILARITIES + "movies/"
 PATH_TO_DESCRIPTION_TOP_100: str = PATH_TO_TOP_100 + "movies_description.txt"
 
 NEW_SIMILARITY_DATAFRAME_COLUMNS = ["movie1", "movie2", "similarity"]
+COLUMNS_MP2G = ["movie1", "movie2", "similarity"]
 COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Title:LDA', 'Image:EMB', 'Image:BR', 'Image:SH', 'Image:CO',
                       'Image:COL', 'Image:EN', 'Plot:LDA', 'Plot:cos', 'Genre:LDA',
@@ -109,7 +110,7 @@ def get_similarities_with_condition(similarities: DataFrame,
     """
 
     # create dataframe for similarities of list_of_movies
-    movies_similarities: DataFrame = DataFrame()
+    movies_similarities: DataFrame = DataFrame(columns=COLUMNS_MP2G)
 
     rows_read: int = 0
     for index, similarity_row in similarities.iterrows():
@@ -643,7 +644,6 @@ def print_random_movies_ILS() -> None:
     print("random_movies_ILS starts...")
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
-    # TODO the similarity df should contain just the similarities for the movies
     df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
 
     index_of_lists: int = 0
@@ -777,7 +777,7 @@ def print_lists_in_file_ILS() -> None:
 
     df_ILS_hand_made_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_hand_made_movies,
                                                                       similarities_needed,
-                                                                      PATH_TO_TOP_100_JSON)
+                                                                      PATH_TO_JSON)
 
     plot_ILS_lists([df_ILS_similar_movies, df_ILS_random_movies, df_ILS_hand_made_movies],
                    ['m', 'p', 'p2', 'g', 'pg', 'p2g'])
