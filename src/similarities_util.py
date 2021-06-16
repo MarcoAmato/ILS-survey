@@ -39,6 +39,9 @@ PATH_TO_HAND_MADE_IDS: str = PATH_TO_HAND_MADE + "ids.csv"
 # lists of movies similarities
 PATH_TO_HAND_MADE_SIMILARITIES: str = PATH_TO_HAND_MADE + "similarities.csv"
 
+# lists of movies similarities
+PATH_TO_HAND_MADE_DATAFRAME: str = PATH_TO_HAND_MADE + "dataframe_lists.csv"
+
 # movie ids conversion
 PATH_TO_LINK: str = PATH_TO_DATA_FOLDER + "links.csv"
 

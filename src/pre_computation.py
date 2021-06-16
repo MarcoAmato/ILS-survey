@@ -15,7 +15,7 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON, PATH_TO_SIMILARITY_MP2G, PATH_TO_SIM_100_MP2G, \
     PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres, PATH_TO_HAND_MADE_IDS, PATH_TO_HAND_MADE_SIMILARITIES, \
     get_similarities_with_condition, does_row_contain_only_movies, read_lists_of_int_from_csv, \
-    PATH_TO_MOVIES_LIST_FOLDER, get_dataframe_of_movie_lists
+    PATH_TO_MOVIES_LIST_FOLDER, get_dataframe_of_movie_lists, PATH_TO_HAND_MADE_DATAFRAME
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -363,11 +363,13 @@ def write_dataframe_ILS(lists_of_ids: List[List[int]], path_to_write: str) -> No
     @param path_to_write: path to write
     @type path_to_write: str
     """
+    similarities_hand_made: DataFrame = get_similarity_dataframe(PATH_TO_HAND_MADE_SIMILARITIES)
+    df_ILS = get_dataframe_of_movie_lists(list_of_lists, similarities_hand_made, PATH_TO_JSON)
+    names_of_lists: List[str] = ["SW", "BT", "SM", "BTF", "TS", "TF", "RK", "AP", "HG", "LR"]
+    df_ILS["label"] = names_of_lists
+    df_ILS.to_csv(path_to_write)
 
 
 if __name__ == "__main__":
     list_of_lists: List[List[int]] = read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv")
-    similarities_hand_made: DataFrame = get_similarity_dataframe(PATH_TO_HAND_MADE_SIMILARITIES)
-    df_ILS = get_dataframe_of_movie_lists(list_of_lists, similarities_hand_made, PATH_TO_JSON)
-    print(df_ILS)
-    # write_dataframe_ILS_from_lists_ids()
+    write_dataframe_ILS(list_of_lists, PATH_TO_HAND_MADE_DATAFRAME)
