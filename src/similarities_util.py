@@ -622,6 +622,8 @@ def plot_ILS_with_label(df_ILS: DataFrame, ILS_measures: List[str]) -> None:
     for measure in ILS_measures:
         # scatter plot of measure with label
         plt.scatter(x=df_ILS['label'], y=df_ILS[measure])
+    plt.ylabel("ILS value")
+    plt.xlabel("List label")
     plt.axhline(y=MEAN_OF_RANDOM_ILS)  # insert horizontal line of mean of ILS value for random lists
     plt.show()
 
@@ -821,14 +823,8 @@ def print_hand_made_lists():
     """
     Reads the lists of movies written in data/lists_of_movies/hand_made_movies.csv and computes then plots ils.
     """
-    similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_HAND_MADE_SIMILARITIES)
     # TODO the similarity df should contain just the similarities for the movies
 
-    lists_of_hand_made_movies: List[List[int]] = \
-        read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv")
-
-    df_ILS_hand_made_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_hand_made_movies,
-                                                                      similarities_df,
-                                                                      PATH_TO_JSON)
+    df_ILS_hand_made_movies: DataFrame = pd.read_csv(PATH_TO_HAND_MADE_DATAFRAME)
 
     plot_ILS_with_label(df_ILS_hand_made_movies, ['m', 'g'])
