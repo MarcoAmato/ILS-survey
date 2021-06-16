@@ -29,8 +29,15 @@ PATH_TO_TOP_10_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "top_10_movies_ids.csv"
 PATH_TO_TOP_100_MOVIES_ID: str = PATH_TO_TOP_100 + "top_100_movies_ids.csv"
 PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID: str = PATH_TO_TOP_100_SIMILARITIES + "movies_ids.csv"
 
-# lists of movies
+# lists of movies folders
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
+PATH_TO_HAND_MADE: str = PATH_TO_MOVIES_LIST_FOLDER + "hand_made/"
+
+# lists of movies ids
+PATH_TO_HAND_MADE_IDS: str = PATH_TO_HAND_MADE + "ids.csv"
+
+# lists of movies similarities
+PATH_TO_HAND_MADE_SIMILARITIES: str = PATH_TO_HAND_MADE + "similarities.csv"
 
 # movie ids conversion
 PATH_TO_LINK: str = PATH_TO_DATA_FOLDER + "links.csv"
@@ -43,6 +50,8 @@ PATH_TO_TOP_100_SIMILARITIES_JSON = PATH_TO_TOP_100_SIMILARITIES + "movies/"
 # path to movies description
 PATH_TO_DESCRIPTION_TOP_100: str = PATH_TO_TOP_100 + "movies_description.txt"
 
+# mean of ILS value (mean similarity) for 20 random sampled lists of movies
+MEAN_OF_RANDOM_ILS: float = 0.40794571097420007
 NEW_SIMILARITY_DATAFRAME_COLUMNS = ["movie1", "movie2", "similarity"]
 COLUMNS_MP2G = ["movie1", "movie2", "similarity"]
 COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
@@ -594,6 +603,26 @@ def plot_ILS_lists(df_ILS_lists: List[DataFrame], ILS_measures: List[str]) -> No
         plt.show()
 
 
+def plot_ILS_with_label(df_ILS: DataFrame, ILS_measures: List[str]) -> None:
+    """
+    Plots the ILS by all ILS_measures for the dataframes in df_ILS_lists
+    @param df_ILS: Dataframe of columns ['ids', 'm', 'p', 'g', 'pg', 'label'] which represent the mean
+    similarity (m), plot similarity (p), genre similarity (g), and mean of genre and plot (pg) ILS for the movies with
+    ids 'ids'.
+    @type df_ILS: DataFrame
+    @param ILS_measures: name of measures to consider, these names should be columns in the dfs in df_ILS_lists.
+    @type ILS_measures: List[str]
+    """
+    # TODO do the nice plot
+    # if label is present show label for every x value
+
+    for measure in ILS_measures:
+        # scatter plot of measure with label
+        plt.scatter(x=df_ILS['label'], y=df_ILS[measure])
+    plt.axhline(y=MEAN_OF_RANDOM_ILS)  # insert horizontal line of mean of ILS value for random lists
+    plt.show()
+
+
 def print_similar_movies_ILS() -> None:
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
     similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
@@ -789,7 +818,7 @@ def print_hand_made_lists():
     """
     Reads the lists of movies written in data/lists_of_movies/hand_made_movies.csv and computes then plots ils.
     """
-    similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MP2G)
+    similarities_df: DataFrame = get_similarity_dataframe(PATH_TO_HAND_MADE_SIMILARITIES)
     # TODO the similarity df should contain just the similarities for the movies
 
     lists_of_hand_made_movies: List[List[int]] = \
@@ -799,4 +828,4 @@ def print_hand_made_lists():
                                                                       similarities_df,
                                                                       PATH_TO_JSON)
 
-    plot_ILS_lists([df_ILS_hand_made_movies], ['m', 'p', 'p2', 'g', 'pg', 'p2g'])
+    plot_ILS_with_label(df_ILS_hand_made_movies, ['m', 'g'])

@@ -9,11 +9,13 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     COLUMNS_SIMILARITY, get_movie_dataframe_from_id, get_similarity_dataframe, read_movie_ids_from_csv, \
     PATH_TO_ALL_MOVIES_ID, \
     PATH_TO_SIMILARITY_MPG, PATH_TO_TOP_100_MOVIES_ID, \
-    get_similarities_between_movies, PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_JSON, read_movies_from_csv, \
+    PATH_TO_SIM_100_MPG, PATH_TO_TOP_100_JSON, read_movies_from_csv, \
     get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId, \
     PATH_TO_SIM_100_MPG_SIMILARITIES, \
     PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON, PATH_TO_SIMILARITY_MP2G, PATH_TO_SIM_100_MP2G, \
-    PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres
+    PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres, PATH_TO_HAND_MADE_IDS, PATH_TO_HAND_MADE_SIMILARITIES, \
+    get_similarities_with_condition, does_row_contain_only_movies, read_lists_of_int_from_csv, \
+    PATH_TO_MOVIES_LIST_FOLDER, get_dataframe_of_movie_lists
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -223,16 +225,17 @@ def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str,
     :param path_to_similarities: path to similarity measurements
     """
     print("write_similarities_of_movies starts...")
-    # list of movie ids whose similarity we have to look for
-    top_n_movies: List[int] = read_movie_ids_from_csv(path_to_movies)
+    # list of movie ids whose similarity we have to look for. convert to set to remove duplicates
+    list_of_movies: List[int] = list(set(read_movie_ids_from_csv(path_to_movies)))
 
     print("reading similarities dataframe...")
     similarities: DataFrame = get_similarity_dataframe(path_to_similarities)
     print("reading similarities dataframe done")
-    # pd.read_csv(path_to_similarities)
 
     print("finding similarities...")
-    similarities_of_movies: DataFrame = get_similarities_between_movies(similarities, top_n_movies)
+    similarities_of_movies: DataFrame = get_similarities_with_condition(similarities,
+                                                                        list_of_movies,
+                                                                        does_row_contain_only_movies)
     print("finding similarities done")
 
     similarities_of_movies.to_csv(path_to_write, index=False)
@@ -352,5 +355,19 @@ def write_movies_info_file(path_to_movies_json: str,
         description_file.write(movies_description)  # write movies description to file
 
 
+def write_dataframe_ILS(lists_of_ids: List[List[int]], path_to_write: str) -> None:
+    """
+    Writes creates dataframe of ILS for list of list of movies and writes it to path_to_write
+    @param : dataframe of movies + ILS values
+    @type lists_of_ids: List[List[int]]
+    @param path_to_write: path to write
+    @type path_to_write: str
+    """
+
+
 if __name__ == "__main__":
-    pass
+    list_of_lists: List[List[int]] = read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv")
+    similarities_hand_made: DataFrame = get_similarity_dataframe(PATH_TO_HAND_MADE_SIMILARITIES)
+    df_ILS = get_dataframe_of_movie_lists(list_of_lists, similarities_hand_made, PATH_TO_JSON)
+    print(df_ILS)
+    # write_dataframe_ILS_from_lists_ids()
