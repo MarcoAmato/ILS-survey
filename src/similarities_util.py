@@ -32,15 +32,22 @@ PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID: str = PATH_TO_TOP_100_SIMILARITIES + "mo
 # lists of movies folders
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
 PATH_TO_HAND_MADE: str = PATH_TO_MOVIES_LIST_FOLDER + "hand_made/"
+PATH_TO_INCREASING_ILD: str = PATH_TO_MOVIES_LIST_FOLDER + "increasing_ILD/"
+
+# lists of movies lists
+PATH_TO_INCREASING_ILD_LISTS: str = PATH_TO_INCREASING_ILD + "lists.csv"
 
 # lists of movies ids
 PATH_TO_HAND_MADE_IDS: str = PATH_TO_HAND_MADE + "ids.csv"
+PATH_TO_INCREASING_ILD_IDS: str = PATH_TO_INCREASING_ILD + "ids.csv"
 
 # lists of movies similarities
 PATH_TO_HAND_MADE_SIMILARITIES: str = PATH_TO_HAND_MADE + "similarities.csv"
+PATH_TO_INCREASING_ILD_SIMILARITIES: str = PATH_TO_INCREASING_ILD + "similarities.csv"
 
-# lists of movies similarities
+# lists of movies ILS dataframe
 PATH_TO_HAND_MADE_DATAFRAME: str = PATH_TO_HAND_MADE + "dataframe_lists.csv"
+PATH_TO_INCREASING_ILD_DATAFRAME: str = PATH_TO_INCREASING_ILD + "dataframe_lists.csv"
 
 # movie ids conversion
 PATH_TO_LINK: str = PATH_TO_DATA_FOLDER + "links.csv"
@@ -120,9 +127,8 @@ def get_similarities_with_condition(similarities: DataFrame,
     :param condition: a function that given the similarity row and list_of_movies returns true if condition is
     satisfied, false otherwise
     """
-
     # create dataframe for similarities of list_of_movies
-    movies_similarities: DataFrame = DataFrame(columns=COLUMNS_MP2G)
+    movies_similarities: DataFrame = DataFrame(columns=similarities.columns)
 
     rows_read: int = 0
     for index, similarity_row in similarities.iterrows():

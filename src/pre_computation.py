@@ -1,6 +1,6 @@
 import os
 from shutil import copyfile
-from typing import Dict, List, Set
+from typing import Dict, List, Set, Optional
 
 import pandas as pd
 from pandas import DataFrame, Series
@@ -13,9 +13,10 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId, \
     PATH_TO_SIM_100_MPG_SIMILARITIES, \
     PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON, PATH_TO_SIMILARITY_MP2G, PATH_TO_SIM_100_MP2G, \
-    PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres, PATH_TO_HAND_MADE_IDS, PATH_TO_HAND_MADE_SIMILARITIES, \
+    PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres, PATH_TO_HAND_MADE_SIMILARITIES, \
     get_similarities_with_condition, does_row_contain_only_movies, read_lists_of_int_from_csv, \
-    PATH_TO_MOVIES_LIST_FOLDER, get_dataframe_of_movie_lists, PATH_TO_HAND_MADE_DATAFRAME
+    get_dataframe_of_movie_lists, PATH_TO_INCREASING_ILD_LISTS, \
+    PATH_TO_INCREASING_ILD_DATAFRAME, PATH_TO_INCREASING_ILD_IDS, matrix_to_list, PATH_TO_INCREASING_ILD_SIMILARITIES
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -355,21 +356,79 @@ def write_movies_info_file(path_to_movies_json: str,
         description_file.write(movies_description)  # write movies description to file
 
 
-def write_dataframe_ILS(lists_of_ids: List[List[int]], path_to_write: str) -> None:
+def write_dataframe_ILS(lists_of_ids: List[List[int]],
+                        path_to_similarities: str,
+                        path_to_write: str,
+                        labels: Optional[List[str]]) -> None:
     """
     Writes creates dataframe of ILS for list of list of movies and writes it to path_to_write
+    @param labels: Optional labels for movies
+    @type labels: str
+    @param path_to_similarities: path to similarities for movies
+    @type path_to_similarities: str
     @param : dataframe of movies + ILS values
     @type lists_of_ids: List[List[int]]
     @param path_to_write: path to write
     @type path_to_write: str
     """
-    similarities_hand_made: DataFrame = get_similarity_dataframe(PATH_TO_HAND_MADE_SIMILARITIES)
-    df_ILS = get_dataframe_of_movie_lists(list_of_lists, similarities_hand_made, PATH_TO_JSON)
-    names_of_lists: List[str] = ["SW", "BT", "SM", "BTF", "TS", "TF", "RK", "AP", "HG", "LR"]
-    df_ILS["label"] = names_of_lists
+    similarities_hand_made: DataFrame = get_similarity_dataframe(path_to_similarities)
+    df_ILS = get_dataframe_of_movie_lists(lists_of_ids, similarities_hand_made, PATH_TO_JSON)
+    if labels is not None:
+        df_ILS["label"] = labels
     df_ILS.to_csv(path_to_write)
 
 
+def write_list_of_ids_from_list_of_lists(list_of_lists: List[List[int]], path_to_write: str):
+    """
+    Writes the ids in list_of_lists as a Series, in path_to_write
+    @param list_of_lists: List of lists whose ids to write
+    @type list_of_lists: List[List[int]]
+    @param path_to_write: path to write
+    @type path_to_write: str
+    """
+    list_of_ids: List[int] = list(set(matrix_to_list(list_of_lists)))  # convert to list
+    write_movie_ids_to_csv(list_of_ids, path_to_write)
+
+
+def write_ILS_df_from_list_of_ids(path_to_list: str,
+                                  path_to_ids: str,
+                                  path_to_dataframe_lists: str,
+                                  path_to_movie_similarities: str,
+                                  labels: Optional[List[str]] = None) -> None:
+    """
+    Writes a dataframe containing ils measurements for the list of lists in path_to_list, to path_to_write
+    @param labels: Optional label for lists
+    @type labels: Optional[List[str]]
+    @param path_to_movie_similarities: path to write movie similarities
+    @type path_to_movie_similarities: str
+    @param path_to_ids: path to write list of ids
+    @type path_to_ids: str
+    @param path_to_list: path to read lists of movies
+    @type path_to_list: str
+    @param path_to_dataframe_lists: path to write dataframe of ILS of lists
+    @type path_to_dataframe_lists: DataFrame
+    """
+    list_of_lists: List[List[int]] = read_lists_of_int_from_csv(path_to_list)
+    write_list_of_ids_from_list_of_lists(list_of_lists, path_to_ids)  # write ids
+
+    # UNCOMMENT WHEN FINISHED DEBUG
+    # write_similarities_of_movies(PATH_TO_SIMILARITY_MP2G, path_to_ids, path_to_movie_similarities)  # write similarities
+
+    if labels is None:
+        labels = range(len(list_of_lists))  # if labels not set, labels = [0,1,..,len(list_of_lists)]
+    write_dataframe_ILS(lists_of_ids=list_of_lists,
+                        path_to_similarities=path_to_movie_similarities,
+                        path_to_write=path_to_dataframe_lists,
+                        labels=labels)
+
+
+def pre_compute_increasing_ILD():
+    write_ILS_df_from_list_of_ids(path_to_list=PATH_TO_INCREASING_ILD_LISTS,
+                                  path_to_ids=PATH_TO_INCREASING_ILD_IDS,
+                                  path_to_dataframe_lists=PATH_TO_INCREASING_ILD_DATAFRAME,
+                                  path_to_movie_similarities=PATH_TO_INCREASING_ILD_SIMILARITIES)
+
+
 if __name__ == "__main__":
-    list_of_lists: List[List[int]] = read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv")
-    write_dataframe_ILS(list_of_lists, PATH_TO_HAND_MADE_DATAFRAME)
+    # write_ILS_df_from_list_of_ids(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv", PATH_TO_HAND_MADE_DATAFRAME)
+    pre_compute_increasing_ILD()
