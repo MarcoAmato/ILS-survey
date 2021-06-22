@@ -17,7 +17,8 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     get_similarities_with_condition, does_row_contain_only_movies, read_lists_of_int_from_csv, \
     get_dataframe_of_movie_lists, PATH_TO_INCREASING_ILD_LISTS, \
     PATH_TO_INCREASING_ILD_DATAFRAME, PATH_TO_INCREASING_ILD_IDS, matrix_to_list, PATH_TO_INCREASING_ILD_SIMILARITIES, \
-    PATH_TO_HAND_MADE_LISTS, PATH_TO_HAND_MADE_IDS, PATH_TO_HAND_MADE_DATAFRAME
+    PATH_TO_HAND_MADE_LISTS, PATH_TO_HAND_MADE_IDS, PATH_TO_HAND_MADE_DATAFRAME, PATH_TO_HAND_MADE_CLUSTERS_LISTS, \
+    PATH_TO_HAND_MADE_CLUSTERS_IDS, PATH_TO_HAND_MADE_CLUSTERS_DATAFRAME, PATH_TO_HAND_MADE_CLUSTERS_SIMILARITIES
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -437,6 +438,14 @@ def pre_compute_increasing_ILD():
                                   path_to_movie_similarities=PATH_TO_INCREASING_ILD_SIMILARITIES)
 
 
+def pre_compute_hand_made_clusters():
+    write_ILS_df_from_list_of_ids(path_to_list=PATH_TO_HAND_MADE_CLUSTERS_LISTS,
+                                  path_to_ids=PATH_TO_HAND_MADE_CLUSTERS_IDS,
+                                  path_to_dataframe_lists=PATH_TO_HAND_MADE_CLUSTERS_DATAFRAME,
+                                  path_to_movie_similarities=PATH_TO_HAND_MADE_CLUSTERS_SIMILARITIES)
+
+
 if __name__ == "__main__":
-    pre_compute_hand_made()
-    pre_compute_increasing_ILD()
+    # pre_compute_hand_made()
+    # pre_compute_increasing_ILD()
+    pre_compute_hand_made_clusters()

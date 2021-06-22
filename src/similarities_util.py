@@ -32,22 +32,27 @@ PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID: str = PATH_TO_TOP_100_SIMILARITIES + "mo
 # lists of movies folders
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
 PATH_TO_HAND_MADE: str = PATH_TO_MOVIES_LIST_FOLDER + "hand_made/"
+PATH_TO_HAND_MADE_CLUSTERS: str = PATH_TO_MOVIES_LIST_FOLDER + "hand_made_clusters/"
 PATH_TO_INCREASING_ILD: str = PATH_TO_MOVIES_LIST_FOLDER + "increasing_ILD/"
 
 # lists of movies lists
 PATH_TO_HAND_MADE_LISTS: str = PATH_TO_HAND_MADE + "lists.csv"
+PATH_TO_HAND_MADE_CLUSTERS_LISTS: str = PATH_TO_HAND_MADE_CLUSTERS + "lists.csv"
 PATH_TO_INCREASING_ILD_LISTS: str = PATH_TO_INCREASING_ILD + "lists.csv"
 
 # lists of movies ids
 PATH_TO_HAND_MADE_IDS: str = PATH_TO_HAND_MADE + "ids.csv"
+PATH_TO_HAND_MADE_CLUSTERS_IDS: str = PATH_TO_HAND_MADE_CLUSTERS + "ids.csv"
 PATH_TO_INCREASING_ILD_IDS: str = PATH_TO_INCREASING_ILD + "ids.csv"
 
 # lists of movies similarities
 PATH_TO_HAND_MADE_SIMILARITIES: str = PATH_TO_HAND_MADE + "similarities.csv"
+PATH_TO_HAND_MADE_CLUSTERS_SIMILARITIES: str = PATH_TO_HAND_MADE_CLUSTERS + "similarities.csv"
 PATH_TO_INCREASING_ILD_SIMILARITIES: str = PATH_TO_INCREASING_ILD + "similarities.csv"
 
 # lists of movies ILS dataframe
 PATH_TO_HAND_MADE_DATAFRAME: str = PATH_TO_HAND_MADE + "dataframe_lists.csv"
+PATH_TO_HAND_MADE_CLUSTERS_DATAFRAME: str = PATH_TO_HAND_MADE_CLUSTERS + "dataframe_lists.csv"
 PATH_TO_INCREASING_ILD_DATAFRAME: str = PATH_TO_INCREASING_ILD + "dataframe_lists.csv"
 
 # movie ids conversion
