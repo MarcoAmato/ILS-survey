@@ -412,8 +412,7 @@ def write_ILS_df_from_list_of_ids(path_to_list: str,
     list_of_lists: List[List[int]] = read_lists_of_int_from_csv(path_to_list)
     write_list_of_ids_from_list_of_lists(list_of_lists, path_to_ids)  # write ids
 
-    # UNCOMMENT WHEN FINISHED DEBUG
-    # write_similarities_of_movies(PATH_TO_SIMILARITY_MP2G, path_to_ids, path_to_movie_similarities)  # write similarities
+    write_similarities_of_movies(PATH_TO_SIMILARITY_MP2G, path_to_ids, path_to_movie_similarities)  # write similarities
 
     if labels is None:
         labels = range(len(list_of_lists))  # if labels not set, labels = [0,1,..,len(list_of_lists)]
@@ -440,3 +439,4 @@ def pre_compute_increasing_ILD():
 
 if __name__ == "__main__":
     pre_compute_hand_made()
+    pre_compute_increasing_ILD()
