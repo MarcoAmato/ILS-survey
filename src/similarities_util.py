@@ -38,6 +38,7 @@ class ListNames(Enum):  # enum of list paths
     HAND_MADE = "hand_made/"
     HAND_MADE_CLUSTERS = "hand_made_clusters/"
     INCREASING_ILD = "increasing_ILD/"
+    BATMAN = "batman/"
 
 
 # movie ids conversion

@@ -401,7 +401,7 @@ def write_ILS_df_from_list_of_ids(list_name: ListNames,
     path_to_folder: str = PATH_TO_MOVIES_LIST_FOLDER + list_name.value
     path_to_lists = path_to_folder + "lists.csv"
     path_to_ids = path_to_folder + "ids.csv"
-    path_to_dataframe_lists = path_to_folder + "lists.csv"
+    path_to_dataframe_lists = path_to_folder + "dataframe_lists.csv"
     path_to_movie_similarities = path_to_folder + "similarities.csv"
 
     list_of_lists: List[List[int]] = read_lists_of_int_from_csv(path_to_lists)
@@ -431,8 +431,9 @@ def pre_compute_hand_made_clusters():
                                   labels=["SW", "BT", "SM", "BTF", "TS", "TF", "RK", "AP", "HG", "LR"])
 
 
+def pre_compute_batman():
+    write_ILS_df_from_list_of_ids(ListNames.BATMAN, labels=["BT", "DN", "AF", "A"])
+
+
 if __name__ == "__main__":
-    pre_compute_hand_made()
-    pre_compute_increasing_ILD()
-    pre_compute_hand_made_clusters()
-    pass
+    pre_compute_batman()
