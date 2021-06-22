@@ -427,7 +427,8 @@ def pre_compute_hand_made():
     write_ILS_df_from_list_of_ids(path_to_list=PATH_TO_HAND_MADE_LISTS,
                                   path_to_ids=PATH_TO_HAND_MADE_IDS,
                                   path_to_dataframe_lists=PATH_TO_HAND_MADE_DATAFRAME,
-                                  path_to_movie_similarities=PATH_TO_HAND_MADE_SIMILARITIES)
+                                  path_to_movie_similarities=PATH_TO_HAND_MADE_SIMILARITIES,
+                                  labels=["SW", "BT", "SM", "BTF", "TS", "TF", "RK", "AP", "HG", "LR"])
 
 
 def pre_compute_increasing_ILD():
