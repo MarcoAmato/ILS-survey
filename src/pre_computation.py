@@ -442,10 +442,12 @@ def pre_compute_hand_made_clusters():
     write_ILS_df_from_list_of_ids(path_to_list=PATH_TO_HAND_MADE_CLUSTERS_LISTS,
                                   path_to_ids=PATH_TO_HAND_MADE_CLUSTERS_IDS,
                                   path_to_dataframe_lists=PATH_TO_HAND_MADE_CLUSTERS_DATAFRAME,
-                                  path_to_movie_similarities=PATH_TO_HAND_MADE_CLUSTERS_SIMILARITIES)
+                                  path_to_movie_similarities=PATH_TO_HAND_MADE_CLUSTERS_SIMILARITIES,
+                                  labels=["SW", "BT", "SM", "BTF", "TS", "TF", "RK", "AP", "HG", "LR"])
 
 
 if __name__ == "__main__":
     # pre_compute_hand_made()
     # pre_compute_increasing_ILD()
-    pre_compute_hand_made_clusters()
+    # pre_compute_hand_made_clusters()
+    pass

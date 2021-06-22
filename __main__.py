@@ -12,6 +12,7 @@ if __name__ == "__main__":
               "\n\tEnter 5 to create lists from data/lists_of_movies/hand_made_movies (more information of "
               "README.md) "
               "\n\tEnter 6 to create lists from data/lists_of_movies/increasing_ILD"
+              "\n\tEnter 7 to create lists from data/lists_of_movies/hand_made_clusters"
               "\n\tEnter -1 to exit")
         value_inserted = input()
         command_inserted: Optional[int] = sim.get_integer(value_inserted)
@@ -27,9 +28,11 @@ if __name__ == "__main__":
         elif command_inserted == 4:
             sim.print_lists_in_file_ILS()
         elif command_inserted == 5:
-            sim.print_hand_made_lists()
+            sim.print_pre_computed_list("hand_made")
         elif command_inserted == 6:
             sim.print_pre_computed_list("increasing_ILD")
+        elif command_inserted == 7:
+            sim.print_pre_computed_list("hand_made_clusters")
         elif command_inserted == -1:
             break
         else:

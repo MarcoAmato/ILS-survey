@@ -844,12 +844,6 @@ def print_pre_computed_list(list_name: str) -> None:
 
     path_to_folder: str = PATH_TO_MOVIES_LIST_FOLDER + list_name + "/"
 
-    # read lists of movies from file
-    lists_of_movies: List[List[int]] = \
-        read_lists_of_int_from_csv(path_to_folder + "lists.csv")
-
-    movies_ids: List[int] = read_movie_ids_from_csv(path_to_folder + "ids.csv")  # ids of movies
-
     movies_ILS_df: DataFrame = pd.read_csv(path_to_folder + "dataframe_lists.csv")  # get dataframe of ils
 
     plot_ILS_with_label(movies_ILS_df, ['m', 'g'])
