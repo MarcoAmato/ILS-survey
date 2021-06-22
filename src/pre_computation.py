@@ -13,12 +13,9 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     get_similar_movies, PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID, convert_tbdb_to_movieId, \
     PATH_TO_SIM_100_MPG_SIMILARITIES, \
     PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON, PATH_TO_SIMILARITY_MP2G, PATH_TO_SIM_100_MP2G, \
-    PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres, PATH_TO_HAND_MADE_SIMILARITIES, \
+    PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres, \
     get_similarities_with_condition, does_row_contain_only_movies, read_lists_of_int_from_csv, \
-    get_dataframe_of_movie_lists, PATH_TO_INCREASING_ILD_LISTS, \
-    PATH_TO_INCREASING_ILD_DATAFRAME, PATH_TO_INCREASING_ILD_IDS, matrix_to_list, PATH_TO_INCREASING_ILD_SIMILARITIES, \
-    PATH_TO_HAND_MADE_LISTS, PATH_TO_HAND_MADE_IDS, PATH_TO_HAND_MADE_DATAFRAME, PATH_TO_HAND_MADE_CLUSTERS_LISTS, \
-    PATH_TO_HAND_MADE_CLUSTERS_IDS, PATH_TO_HAND_MADE_CLUSTERS_DATAFRAME, PATH_TO_HAND_MADE_CLUSTERS_SIMILARITIES
+    get_dataframe_of_movie_lists, matrix_to_list, ListNames, PATH_TO_MOVIES_LIST_FOLDER
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -392,25 +389,22 @@ def write_list_of_ids_from_list_of_lists(list_of_lists: List[List[int]], path_to
     write_movie_ids_to_csv(list_of_ids, path_to_write)
 
 
-def write_ILS_df_from_list_of_ids(path_to_list: str,
-                                  path_to_ids: str,
-                                  path_to_dataframe_lists: str,
-                                  path_to_movie_similarities: str,
+def write_ILS_df_from_list_of_ids(list_name: ListNames,
                                   labels: Optional[List[str]] = None) -> None:
     """
-    Writes a dataframe containing ils measurements for the list of lists in path_to_list, to path_to_write
+    Writes a dataframe containing ils measurements in the folder data/list_of_movies/'list_name'
+    @param list_name: name of list to insert
+    @type list_name: ListNames
     @param labels: Optional label for lists
     @type labels: Optional[List[str]]
-    @param path_to_movie_similarities: path to write movie similarities
-    @type path_to_movie_similarities: str
-    @param path_to_ids: path to write list of ids
-    @type path_to_ids: str
-    @param path_to_list: path to read lists of movies
-    @type path_to_list: str
-    @param path_to_dataframe_lists: path to write dataframe of ILS of lists
-    @type path_to_dataframe_lists: DataFrame
     """
-    list_of_lists: List[List[int]] = read_lists_of_int_from_csv(path_to_list)
+    path_to_folder: str = PATH_TO_MOVIES_LIST_FOLDER + list_name.value
+    path_to_lists = path_to_folder + "lists.csv"
+    path_to_ids = path_to_folder + "ids.csv"
+    path_to_dataframe_lists = path_to_folder + "lists.csv"
+    path_to_movie_similarities = path_to_folder + "similarities.csv"
+
+    list_of_lists: List[List[int]] = read_lists_of_int_from_csv(path_to_lists)
     write_list_of_ids_from_list_of_lists(list_of_lists, path_to_ids)  # write ids
 
     write_similarities_of_movies(PATH_TO_SIMILARITY_MP2G, path_to_ids, path_to_movie_similarities)  # write similarities
@@ -424,30 +418,21 @@ def write_ILS_df_from_list_of_ids(path_to_list: str,
 
 
 def pre_compute_hand_made():
-    write_ILS_df_from_list_of_ids(path_to_list=PATH_TO_HAND_MADE_LISTS,
-                                  path_to_ids=PATH_TO_HAND_MADE_IDS,
-                                  path_to_dataframe_lists=PATH_TO_HAND_MADE_DATAFRAME,
-                                  path_to_movie_similarities=PATH_TO_HAND_MADE_SIMILARITIES,
+    write_ILS_df_from_list_of_ids(ListNames.HAND_MADE,
                                   labels=["SW", "BT", "SM", "BTF", "TS", "TF", "RK", "AP", "HG", "LR"])
 
 
 def pre_compute_increasing_ILD():
-    write_ILS_df_from_list_of_ids(path_to_list=PATH_TO_INCREASING_ILD_LISTS,
-                                  path_to_ids=PATH_TO_INCREASING_ILD_IDS,
-                                  path_to_dataframe_lists=PATH_TO_INCREASING_ILD_DATAFRAME,
-                                  path_to_movie_similarities=PATH_TO_INCREASING_ILD_SIMILARITIES)
+    write_ILS_df_from_list_of_ids(ListNames.INCREASING_ILD)
 
 
 def pre_compute_hand_made_clusters():
-    write_ILS_df_from_list_of_ids(path_to_list=PATH_TO_HAND_MADE_CLUSTERS_LISTS,
-                                  path_to_ids=PATH_TO_HAND_MADE_CLUSTERS_IDS,
-                                  path_to_dataframe_lists=PATH_TO_HAND_MADE_CLUSTERS_DATAFRAME,
-                                  path_to_movie_similarities=PATH_TO_HAND_MADE_CLUSTERS_SIMILARITIES,
+    write_ILS_df_from_list_of_ids(ListNames.HAND_MADE_CLUSTERS,
                                   labels=["SW", "BT", "SM", "BTF", "TS", "TF", "RK", "AP", "HG", "LR"])
 
 
 if __name__ == "__main__":
-    # pre_compute_hand_made()
-    # pre_compute_increasing_ILD()
-    # pre_compute_hand_made_clusters()
+    pre_compute_hand_made()
+    pre_compute_increasing_ILD()
+    pre_compute_hand_made_clusters()
     pass

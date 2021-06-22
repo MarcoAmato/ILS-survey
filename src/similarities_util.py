@@ -6,6 +6,7 @@ from os.path import dirname, realpath
 from pandas import DataFrame, Series
 from matplotlib import pyplot as plt
 from typing import List, Set, Optional, Dict, Callable
+from enum import Enum
 
 # folders
 # folder where script is/data folder
@@ -31,29 +32,13 @@ PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID: str = PATH_TO_TOP_100_SIMILARITIES + "mo
 
 # lists of movies folders
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
-PATH_TO_HAND_MADE: str = PATH_TO_MOVIES_LIST_FOLDER + "hand_made/"
-PATH_TO_HAND_MADE_CLUSTERS: str = PATH_TO_MOVIES_LIST_FOLDER + "hand_made_clusters/"
-PATH_TO_INCREASING_ILD: str = PATH_TO_MOVIES_LIST_FOLDER + "increasing_ILD/"
 
-# lists of movies lists
-PATH_TO_HAND_MADE_LISTS: str = PATH_TO_HAND_MADE + "lists.csv"
-PATH_TO_HAND_MADE_CLUSTERS_LISTS: str = PATH_TO_HAND_MADE_CLUSTERS + "lists.csv"
-PATH_TO_INCREASING_ILD_LISTS: str = PATH_TO_INCREASING_ILD + "lists.csv"
 
-# lists of movies ids
-PATH_TO_HAND_MADE_IDS: str = PATH_TO_HAND_MADE + "ids.csv"
-PATH_TO_HAND_MADE_CLUSTERS_IDS: str = PATH_TO_HAND_MADE_CLUSTERS + "ids.csv"
-PATH_TO_INCREASING_ILD_IDS: str = PATH_TO_INCREASING_ILD + "ids.csv"
+class ListNames(Enum):  # enum of list paths
+    HAND_MADE = "hand_made/"
+    HAND_MADE_CLUSTERS = "hand_made_clusters/"
+    INCREASING_ILD = "increasing_ILD/"
 
-# lists of movies similarities
-PATH_TO_HAND_MADE_SIMILARITIES: str = PATH_TO_HAND_MADE + "similarities.csv"
-PATH_TO_HAND_MADE_CLUSTERS_SIMILARITIES: str = PATH_TO_HAND_MADE_CLUSTERS + "similarities.csv"
-PATH_TO_INCREASING_ILD_SIMILARITIES: str = PATH_TO_INCREASING_ILD + "similarities.csv"
-
-# lists of movies ILS dataframe
-PATH_TO_HAND_MADE_DATAFRAME: str = PATH_TO_HAND_MADE + "dataframe_lists.csv"
-PATH_TO_HAND_MADE_CLUSTERS_DATAFRAME: str = PATH_TO_HAND_MADE_CLUSTERS + "dataframe_lists.csv"
-PATH_TO_INCREASING_ILD_DATAFRAME: str = PATH_TO_INCREASING_ILD + "dataframe_lists.csv"
 
 # movie ids conversion
 PATH_TO_LINK: str = PATH_TO_DATA_FOLDER + "links.csv"
@@ -849,12 +834,3 @@ def print_pre_computed_list(list_name: str) -> None:
     plot_ILS_with_label(movies_ILS_df, ['m', 'g'])
 
     print("print_lists_in_file_ILS done")
-
-
-def print_hand_made_lists():
-    """
-    Reads the lists of movies written in data/lists_of_movies/lists.csv and computes then plots ils.
-    """
-    df_ILS_hand_made_movies: DataFrame = pd.read_csv(PATH_TO_HAND_MADE_DATAFRAME)
-
-    plot_ILS_with_label(df_ILS_hand_made_movies, ['m', 'g'])
