@@ -9,8 +9,9 @@ if __name__ == "__main__":
               "in the top100"
               "\n\tEnter 3 to create a list of random items"
               "\n\tEnter 4 to create lists from all the files in data/lists_of_movies (more information of README.md)"
-              "\n\tEnter 5 to create lists from data/lists_of_movies/hand_made_movies.csv (more information of "
+              "\n\tEnter 5 to create lists from data/lists_of_movies/hand_made_movies (more information of "
               "README.md) "
+              "\n\tEnter 6 to create lists from data/lists_of_movies/increasing_ILD"
               "\n\tEnter -1 to exit")
         value_inserted = input()
         command_inserted: Optional[int] = sim.get_integer(value_inserted)
@@ -27,6 +28,8 @@ if __name__ == "__main__":
             sim.print_lists_in_file_ILS()
         elif command_inserted == 5:
             sim.print_hand_made_lists()
+        elif command_inserted == 6:
+            sim.print_pre_computed_list("increasing_ILD")
         elif command_inserted == -1:
             break
         else:

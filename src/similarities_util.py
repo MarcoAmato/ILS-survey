@@ -622,7 +622,6 @@ def plot_ILS_with_label(df_ILS: DataFrame, ILS_measures: List[str]) -> None:
     @param ILS_measures: name of measures to consider, these names should be columns in the dfs in df_ILS_lists.
     @type ILS_measures: List[str]
     """
-    # TODO do the nice plot
     # if label is present show label for every x value
 
     for measure in ILS_measures:
@@ -776,6 +775,9 @@ def print_lists_in_file_ILS() -> None:
     """
     Reads the lists of movies written in data/lists_of_movies and computes then plots ils.
     """
+    # Needs to be redone, stop
+    exit()
+
     print("print_lists_in_file_ILS starts...")
 
     # read lists of movies from file
@@ -784,7 +786,7 @@ def print_lists_in_file_ILS() -> None:
     lists_of_random_movies: List[List[int]] = \
         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "random_movies.csv")
     lists_of_hand_made_movies: List[List[int]] = \
-        read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv")
+        read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "lists.csv")
 
     # lambda to convert the matrix of movies to a list
 
@@ -825,12 +827,34 @@ def print_lists_in_file_ILS() -> None:
     print("lists_in_file_ILS done")
 
 
+def print_pre_computed_list(list_name: str) -> None:
+    """
+    Plots the list in data/lists_of_movies/'list_name'. This list should have been pre computed by a function in
+    pre_computation.py
+    @param list_name: name of sub-folder in data/lists_of_movies/ that contains the list data
+    @type list_name: str
+    """
+    print("print_lists_in_file_ILS starts...")
+
+    path_to_folder: str = PATH_TO_MOVIES_LIST_FOLDER + list_name + "/"
+
+    # read lists of movies from file
+    lists_of_movies: List[List[int]] = \
+        read_lists_of_int_from_csv(path_to_folder + "lists.csv")
+
+    movies_ids: List[int] = read_movie_ids_from_csv(path_to_folder + "ids.csv")  # ids of movies
+
+    movies_ILS_df: DataFrame = pd.read_csv(path_to_folder + "dataframe_lists.csv")  # get dataframe of ils
+
+    plot_ILS_with_label(movies_ILS_df, ['m', 'g'])
+
+    print("print_lists_in_file_ILS done")
+
+
 def print_hand_made_lists():
     """
-    Reads the lists of movies written in data/lists_of_movies/hand_made_movies.csv and computes then plots ils.
+    Reads the lists of movies written in data/lists_of_movies/lists.csv and computes then plots ils.
     """
-    # TODO the similarity df should contain just the similarities for the movies
-
     df_ILS_hand_made_movies: DataFrame = pd.read_csv(PATH_TO_HAND_MADE_DATAFRAME)
 
     plot_ILS_with_label(df_ILS_hand_made_movies, ['m', 'g'])

@@ -430,5 +430,6 @@ def pre_compute_increasing_ILD():
 
 
 if __name__ == "__main__":
-    # write_ILS_df_from_list_of_ids(PATH_TO_MOVIES_LIST_FOLDER + "hand_made_movies.csv", PATH_TO_HAND_MADE_DATAFRAME)
-    pre_compute_increasing_ILD()
+    # write_ILS_df_from_list_of_ids(PATH_TO_MOVIES_LIST_FOLDER + "lists.csv", PATH_TO_HAND_MADE_DATAFRAME)
+    # pre_compute_increasing_ILD()
+    pass
