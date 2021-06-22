@@ -35,6 +35,7 @@ PATH_TO_HAND_MADE: str = PATH_TO_MOVIES_LIST_FOLDER + "hand_made/"
 PATH_TO_INCREASING_ILD: str = PATH_TO_MOVIES_LIST_FOLDER + "increasing_ILD/"
 
 # lists of movies lists
+PATH_TO_HAND_MADE_LISTS: str = PATH_TO_HAND_MADE + "lists.csv"
 PATH_TO_INCREASING_ILD_LISTS: str = PATH_TO_INCREASING_ILD + "lists.csv"
 
 # lists of movies ids

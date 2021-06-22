@@ -16,7 +16,8 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres, PATH_TO_HAND_MADE_SIMILARITIES, \
     get_similarities_with_condition, does_row_contain_only_movies, read_lists_of_int_from_csv, \
     get_dataframe_of_movie_lists, PATH_TO_INCREASING_ILD_LISTS, \
-    PATH_TO_INCREASING_ILD_DATAFRAME, PATH_TO_INCREASING_ILD_IDS, matrix_to_list, PATH_TO_INCREASING_ILD_SIMILARITIES
+    PATH_TO_INCREASING_ILD_DATAFRAME, PATH_TO_INCREASING_ILD_IDS, matrix_to_list, PATH_TO_INCREASING_ILD_SIMILARITIES, \
+    PATH_TO_HAND_MADE_LISTS, PATH_TO_HAND_MADE_IDS, PATH_TO_HAND_MADE_DATAFRAME
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -422,6 +423,13 @@ def write_ILS_df_from_list_of_ids(path_to_list: str,
                         labels=labels)
 
 
+def pre_compute_hand_made():
+    write_ILS_df_from_list_of_ids(path_to_list=PATH_TO_HAND_MADE_LISTS,
+                                  path_to_ids=PATH_TO_HAND_MADE_IDS,
+                                  path_to_dataframe_lists=PATH_TO_HAND_MADE_DATAFRAME,
+                                  path_to_movie_similarities=PATH_TO_HAND_MADE_SIMILARITIES)
+
+
 def pre_compute_increasing_ILD():
     write_ILS_df_from_list_of_ids(path_to_list=PATH_TO_INCREASING_ILD_LISTS,
                                   path_to_ids=PATH_TO_INCREASING_ILD_IDS,
@@ -430,6 +438,4 @@ def pre_compute_increasing_ILD():
 
 
 if __name__ == "__main__":
-    # write_ILS_df_from_list_of_ids(PATH_TO_MOVIES_LIST_FOLDER + "lists.csv", PATH_TO_HAND_MADE_DATAFRAME)
-    # pre_compute_increasing_ILD()
-    pass
+    pre_compute_hand_made()
