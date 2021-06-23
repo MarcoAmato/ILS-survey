@@ -1,6 +1,7 @@
 from typing import Optional
 
 import src.similarities_util as sim
+from src.lists import ListNames
 
 if __name__ == "__main__":
     while True:
@@ -8,12 +9,11 @@ if __name__ == "__main__":
               "\n\tEnter 2 to create lists from the similarities (as reported in the json files) of a random movie "
               "in the top100"
               "\n\tEnter 3 to create a list of random items"
-              "\n\tEnter 4 to create lists from all the files in data/lists_of_movies (more information of README.md)"
-              "\n\tEnter 5 to create lists from data/lists_of_movies/hand_made_movies (more information of "
+              "\n\tEnter 4 to create lists from data/lists_of_movies/hand_made_movies (more information of "
               "README.md) "
-              "\n\tEnter 6 to create lists from data/lists_of_movies/increasing_ILD"
-              "\n\tEnter 7 to create lists from data/lists_of_movies/hand_made_clusters"
-              "\n\tEnter 8 to create lists from data/lists_of_movies/batman"
+              "\n\tEnter 5 to create lists from data/lists_of_movies/increasing_ILD"
+              "\n\tEnter 6 to create lists from data/lists_of_movies/hand_made_clusters"
+              "\n\tEnter 7 to create lists from data/lists_of_movies/batman"
               "\n\tEnter -1 to exit")
         value_inserted = input()
         command_inserted: Optional[int] = sim.get_integer(value_inserted)
@@ -27,14 +27,13 @@ if __name__ == "__main__":
         elif command_inserted == 3:
             sim.print_random_movies_ILS()
         elif command_inserted == 4:
-            sim.print_lists_in_file_ILS()
-        elif command_inserted == 5:
+            # ListNames.HAND_MADE.
             sim.print_pre_computed_list("hand_made")
-        elif command_inserted == 6:
+        elif command_inserted == 5:
             sim.print_pre_computed_list("increasing_ILD")
-        elif command_inserted == 7:
+        elif command_inserted == 6:
             sim.print_pre_computed_list("hand_made_clusters")
-        elif command_inserted == 8:
+        elif command_inserted == 7:
             sim.print_pre_computed_list("batman")
         elif command_inserted == -1:
             break

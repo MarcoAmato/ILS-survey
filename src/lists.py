@@ -8,7 +8,7 @@ from pandas import DataFrame
 
 from src.pre_computation import write_movie_ids_to_csv, write_similarities_of_movies, add_item_to_list_max_ILS
 from src.similarities_util import PATH_TO_DATA_FOLDER, read_lists_of_int_from_csv, matrix_to_list, \
-    get_dataframe_of_movie_lists, PATH_TO_JSON, PATH_TO_SIMILARITY_MP2G, SimilarityMethod
+    get_dataframe_of_movie_lists, PATH_TO_JSON, PATH_TO_SIMILARITY_MP2G, SimilarityMethod, plot_ILS_with_label
 
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
 
@@ -40,6 +40,9 @@ class ListNames(Enum):  # enum of list paths
 
     def get_similarities(self) -> DataFrame:
         return pd.read_csv(self.get_path_similarities())
+
+    def get_dataframe_lists(self) -> DataFrame:
+        return pd.read_csv(self.get_path_dataframe_lists())
 
     def set_lists(self, list_of_lists: List[List[int]]):
         if not os.path.exists(self.get_path_lists()):  # if lists.csv does not exist
@@ -74,6 +77,18 @@ class ListNames(Enum):  # enum of list paths
             self.set_dataframe_lists(list_of_lists=list,
                                      labels=labels)
 
+    def plot(self) -> None:
+        """
+        Plots the list. This list should have been pre computed by calling pre_compute().
+        """
+        print("print_lists_in_file_ILS starts...")
+
+        dataframe_lists: DataFrame = self.get_dataframe_lists()
+
+        plot_ILS_with_label(dataframe_lists, ['m', 'g'])
+
+        print("print_lists_in_file_ILS done")
+
 
 def maximize_similarity_neighbors_lists(list_name: ListNames) -> List[List[int]]:
     """
@@ -83,7 +98,6 @@ def maximize_similarity_neighbors_lists(list_name: ListNames) -> List[List[int]]
     @return: the list ListNames, where every list is ordered by maximizing the ILS of neighbours
     @rtype: List[List[int]]
     """
-    # TODO there is a bug that makes the last item of the list be the second but last item
     list_of_lists: List[List[int]] = list_name.get_list_of_lists()
     similarities: DataFrame = list_name.get_similarities()  # get similarities for list_of_lists
 

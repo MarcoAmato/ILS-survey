@@ -11,7 +11,6 @@ from pandas import DataFrame, Series
 
 # folders
 # folder where script is/data folder
-
 PATH_TO_DATA_FOLDER = dirname(dirname(realpath(__file__))) + "/data/"
 PATH_TO_TOP_100 = PATH_TO_DATA_FOLDER + "top100/"
 PATH_TO_TOP_100_SIMILARITIES = PATH_TO_DATA_FOLDER + "top100_similarities/"
@@ -62,6 +61,7 @@ COLUMNS_SIMILARITY = {'Title:LEV', 'Title:JW', 'Title:LCS', 'Title:BI',
                       'Image:COL', 'Image:EN', 'Plot:LDA', 'Plot:cos', 'Genre:LDA',
                       'Genre:Jacc', 'Stars:Jacc', 'Directors:Jacc', 'Date:MD', 'Tag:Genome',
                       'SVD'}
+LABEL_HAND_MADE: List[str] = ["SW", "BT", "SM", "BTF", "TS", "TF", "RK", "AP", "HG", "LR"]
 MOVIES_LIST_LENGTH = 5
 
 
