@@ -235,7 +235,8 @@ def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str,
     print("finding similarities...")
     similarities_of_movies: DataFrame = get_similarities_with_condition(similarities,
                                                                         list_of_movies,
-                                                                        does_row_contain_only_movies)
+                                                                        does_row_contain_only_movies,
+                                                                        print_progress=True)
     print("finding similarities done")
 
     similarities_of_movies.to_csv(path_to_write, index=False)
