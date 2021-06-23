@@ -1,15 +1,17 @@
 import os
 import random
-from random import sample
-import pandas as pd
-from os.path import dirname, realpath
-from pandas import DataFrame, Series
-from matplotlib import pyplot as plt
-from typing import List, Set, Optional, Dict, Callable
 from enum import Enum
+from os.path import dirname, realpath
+from random import sample
+from typing import List, Set, Optional, Dict, Callable
+
+import pandas as pd
+from matplotlib import pyplot as plt
+from pandas import DataFrame, Series
 
 # folders
 # folder where script is/data folder
+
 PATH_TO_DATA_FOLDER = dirname(dirname(realpath(__file__))) + "/data/"
 PATH_TO_TOP_100 = PATH_TO_DATA_FOLDER + "top100/"
 PATH_TO_TOP_100_SIMILARITIES = PATH_TO_DATA_FOLDER + "top100_similarities/"
@@ -29,16 +31,6 @@ PATH_TO_ALL_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "all_movies_ids.csv"
 PATH_TO_TOP_10_MOVIES_ID: str = PATH_TO_DATA_FOLDER + "top_10_movies_ids.csv"
 PATH_TO_TOP_100_MOVIES_ID: str = PATH_TO_TOP_100 + "top_100_movies_ids.csv"
 PATH_TO_TOP_100_SIMILARITIES_MOVIES_ID: str = PATH_TO_TOP_100_SIMILARITIES + "movies_ids.csv"
-
-# lists of movies folders
-PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
-
-
-class ListNames(Enum):  # enum of list paths
-    HAND_MADE = "hand_made/"
-    HAND_MADE_CLUSTERS = "hand_made_clusters/"
-    INCREASING_ILD = "increasing_ILD/"
-    BATMAN = "batman/"
 
 
 class SimilarityMethod(Enum):
@@ -120,20 +112,23 @@ def does_row_contain_movies(row: Series, movies: List[int]) -> bool:
 
 def get_similarities_with_condition(similarities: DataFrame,
                                     list_of_movies: List[int],
-                                    condition: Callable[[Series, List[int]], bool]) -> DataFrame:
+                                    condition: Callable[[Series, List[int]], bool],
+                                    print_progress: Optional[bool] = False) -> DataFrame:
     """
     Returns a dataframe containing all the similarities between the movies in list_of_movies
     :param similarities: Dataframe containing all the similarities
     :param list_of_movies: list of movie ids whose similarities we want to retrieve
     :param condition: a function that given the similarity row and list_of_movies returns true if condition is
     satisfied, false otherwise
+    :param print_progress: if true prints progress of reading, otherwise it does not
+    :type print_progress: bool
     """
     # create dataframe for similarities of list_of_movies
     movies_similarities: DataFrame = DataFrame(columns=similarities.columns)
 
     rows_read: int = 0
     for index, similarity_row in similarities.iterrows():
-        if rows_read % 10000 == 0:
+        if print_progress and (rows_read % 10000 == 0):
             print(f"{rows_read} rows read")
         rows_read += 1
         if condition(similarity_row, list_of_movies) is True:
@@ -772,75 +767,75 @@ def matrix_to_list(matrix: List[List]) -> List:
     return [item for sublist in matrix for item in sublist]
 
 
-def print_lists_in_file_ILS() -> None:
-    """
-    Reads the lists of movies written in data/lists_of_movies and computes then plots ils.
-    """
-    # Needs to be redone, stop
-    exit()
+# def print_lists_in_file_ILS() -> None:
+#     """
+#     Reads the lists of movies written in data/lists_of_movies and computes then plots ils.
+#     """
+#     # Needs to be redone, stop
+#     exit()
+#
+#     print("print_lists_in_file_ILS starts...")
+#
+#     # read lists of movies from file
+#     lists_of_similar_movies: List[List[int]] = \
+#         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "similar_movies.csv")
+#     lists_of_random_movies: List[List[int]] = \
+#         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "random_movies.csv")
+#     lists_of_hand_made_movies: List[List[int]] = \
+#         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "lists.csv")
+#
+#     # lambda to convert the matrix of movies to a list
+#
+#     similar_movies_ids: List[int] = matrix_to_list(lists_of_similar_movies)  # ids of similar movies
+#     random_movies_ids: List[int] = matrix_to_list(lists_of_random_movies)  # ids of random movies
+#     hand_made_movies_ids: List[int] = matrix_to_list(lists_of_hand_made_movies)  # ids of hand-made movies
+#
+#     # make set then list to remove duplicated
+#     all_movies_needed: List[int] = list(set(similar_movies_ids + random_movies_ids + hand_made_movies_ids))
+#
+#     print("reading similarities big...")
+#     similarities_big: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MP2G)
+#     print("reading similarities big done")
+#
+#     print("getting necessary similarities...")
+#     similarities_needed: DataFrame = get_similarities_with_condition(similarities_big,
+#                                                                      all_movies_needed,
+#                                                                      does_row_contain_movies)
+#     print("necessary similarities gotten")
+#
+#     # dataframe of ILS measurements for lists of similar movies
+#     df_ILS_similar_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_similar_movies,
+#                                                                     similarities_needed,
+#                                                                     PATH_TO_TOP_100_SIMILARITIES_JSON)
+#
+#     # dataframe of ILS measurements for lists of random movies
+#     df_ILS_random_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_random_movies,
+#                                                                    similarities_needed,
+#                                                                    PATH_TO_TOP_100_JSON)
+#
+#     df_ILS_hand_made_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_hand_made_movies,
+#                                                                       similarities_needed,
+#                                                                       PATH_TO_JSON)
+#
+#     plot_ILS_lists([df_ILS_similar_movies, df_ILS_random_movies, df_ILS_hand_made_movies],
+#                    ['m', 'p', 'p2', 'g', 'pg', 'p2g'])
+#
+#     print("lists_in_file_ILS done")
 
-    print("print_lists_in_file_ILS starts...")
 
-    # read lists of movies from file
-    lists_of_similar_movies: List[List[int]] = \
-        read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "similar_movies.csv")
-    lists_of_random_movies: List[List[int]] = \
-        read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "random_movies.csv")
-    lists_of_hand_made_movies: List[List[int]] = \
-        read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "lists.csv")
-
-    # lambda to convert the matrix of movies to a list
-
-    similar_movies_ids: List[int] = matrix_to_list(lists_of_similar_movies)  # ids of similar movies
-    random_movies_ids: List[int] = matrix_to_list(lists_of_random_movies)  # ids of random movies
-    hand_made_movies_ids: List[int] = matrix_to_list(lists_of_hand_made_movies)  # ids of hand-made movies
-
-    # make set then list to remove duplicated
-    all_movies_needed: List[int] = list(set(similar_movies_ids + random_movies_ids + hand_made_movies_ids))
-
-    print("reading similarities big...")
-    similarities_big: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MP2G)
-    print("reading similarities big done")
-
-    print("getting necessary similarities...")
-    similarities_needed: DataFrame = get_similarities_with_condition(similarities_big,
-                                                                     all_movies_needed,
-                                                                     does_row_contain_movies)
-    print("necessary similarities gotten")
-
-    # dataframe of ILS measurements for lists of similar movies
-    df_ILS_similar_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_similar_movies,
-                                                                    similarities_needed,
-                                                                    PATH_TO_TOP_100_SIMILARITIES_JSON)
-
-    # dataframe of ILS measurements for lists of random movies
-    df_ILS_random_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_random_movies,
-                                                                   similarities_needed,
-                                                                   PATH_TO_TOP_100_JSON)
-
-    df_ILS_hand_made_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_hand_made_movies,
-                                                                      similarities_needed,
-                                                                      PATH_TO_JSON)
-
-    plot_ILS_lists([df_ILS_similar_movies, df_ILS_random_movies, df_ILS_hand_made_movies],
-                   ['m', 'p', 'p2', 'g', 'pg', 'p2g'])
-
-    print("lists_in_file_ILS done")
-
-
-def print_pre_computed_list(list_name: str) -> None:
-    """
-    Plots the list in data/lists_of_movies/'list_name'. This list should have been pre computed by a function in
-    pre_computation.py
-    @param list_name: name of sub-folder in data/lists_of_movies/ that contains the list data
-    @type list_name: str
-    """
-    print("print_lists_in_file_ILS starts...")
-
-    path_to_folder: str = PATH_TO_MOVIES_LIST_FOLDER + list_name + "/"
-
-    movies_ILS_df: DataFrame = pd.read_csv(path_to_folder + "dataframe_lists.csv")  # get dataframe of ils
-
-    plot_ILS_with_label(movies_ILS_df, ['m', 'g'])
-
-    print("print_lists_in_file_ILS done")
+# def print_pre_computed_list(list_name: str) -> None:
+#     """
+#     Plots the list in data/lists_of_movies/'list_name'. This list should have been pre computed by a function in
+#     pre_computation.py
+#     @param list_name: name of sub-folder in data/lists_of_movies/ that contains the list data
+#     @type list_name: str
+#     """
+#     print("print_lists_in_file_ILS starts...")
+#
+#     path_to_folder: str = PATH_TO_MOVIES_LIST_FOLDER + list_name + "/"
+#
+#     movies_ILS_df: DataFrame = pd.read_csv(path_to_folder + "dataframe_lists.csv")  # get dataframe of ils
+#
+#     plot_ILS_with_label(movies_ILS_df, ['m', 'g'])
+#
+#     print("print_lists_in_file_ILS done")
