@@ -49,7 +49,7 @@ class ListNames(Enum):  # enum of list paths
             for list in list_of_lists:  # for each list
                 for item in list[:-1]:  # do for every item except last
                     f.write(f"{item}, ")
-                f.write(f"{item}")  # don't write comma for last item
+                f.write(f"{list[-1]}")  # don't write comma for last item
                 f.write("\n")  # write list and new line
 
     def set_ids_from_lists(self):
