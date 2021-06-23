@@ -41,6 +41,15 @@ class ListNames(Enum):  # enum of list paths
     BATMAN = "batman/"
 
 
+class SimilarityMethod(Enum):
+    MEAN = "mean"
+    GENRE = "genre"
+    PLOT = "plot"
+    PLOT2 = "plot2"
+    PLOT_GENRE = "plot-genre"
+    PLOT_GENRE2 = "plot2-genre"
+
+
 # movie ids conversion
 PATH_TO_LINK: str = PATH_TO_DATA_FOLDER + "links.csv"
 

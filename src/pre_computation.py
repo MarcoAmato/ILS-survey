@@ -1,4 +1,5 @@
 import os
+from itertools import repeat
 from shutil import copyfile
 from typing import Dict, List, Set, Optional
 
@@ -15,7 +16,7 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON, PATH_TO_SIMILARITY_MP2G, PATH_TO_SIM_100_MP2G, \
     PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres, \
     get_similarities_with_condition, does_row_contain_only_movies, read_lists_of_int_from_csv, \
-    get_dataframe_of_movie_lists, matrix_to_list, ListNames, PATH_TO_MOVIES_LIST_FOLDER
+    get_dataframe_of_movie_lists, matrix_to_list, ListNames, PATH_TO_MOVIES_LIST_FOLDER, get_ILS, SimilarityMethod
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -387,6 +388,74 @@ def write_list_of_ids_from_list_of_lists(list_of_lists: List[List[int]], path_to
     """
     list_of_ids: List[int] = list(set(matrix_to_list(list_of_lists)))  # convert to list
     write_movie_ids_to_csv(list_of_ids, path_to_write)
+
+
+def add_item_to_list_max_ILS(list_to_maximize: List[int],
+                             items_to_choose: List[int],
+                             similarity_df: DataFrame,
+                             similarity_method: SimilarityMethod
+                             ) -> Optional[List[int]]:
+    """
+    Returns a list got by adding one element from items_to_choose to list_to_maximize. The item is chosen in order to
+    have ILS maximized.
+    @param similarity_method: Method to compute similarity
+    @type similarity_method: SimilarityMethod
+    @param similarity_df: dataframe of similarity to compute ILS
+    @type similarity_df: DataFrame
+    @param items_to_choose: list of items to choose in order to maximize ILS of list
+    @type items_to_choose: List[int]
+    @param list_to_maximize: list to be maximized
+    @type list_to_maximize: List[int]
+    """
+    max_ILS: float = -1  # max ILS value by adding the remaining items
+    max_item: Optional[int] = None
+    for item in items_to_choose:
+        list_maximized_plus_item = list_to_maximize.copy()
+        list_maximized_plus_item.append(item)
+        ils_i: float = get_ILS(similarity_df, list_maximized_plus_item, similarity_method.value)
+        if ils_i is not None and ils_i > max_ILS:  # if ILS is not computable, skip item
+            max_ILS = ils_i
+            max_item = item
+    if max_item is not None:
+        print("miau")
+        print(max_item)
+        exit()
+        list_maximized = list_to_maximize + [max_item]  # add item that keeps ils the highest
+        return list_maximized
+    else:
+        # if there are no similarity for the movies, the first item is added
+        list_to_maximize.append(items_to_choose[0])
+        return list_to_maximize
+
+
+def maximize_similarity_neighbors_lists(list_name: ListNames) -> List[List[int]]:
+    path_to_folder: str = PATH_TO_MOVIES_LIST_FOLDER + list_name.value
+    path_to_lists = path_to_folder + "lists.csv"
+    path_to_movie_similarities = path_to_folder + "similarities.csv"
+
+    list_of_lists: List[List[int]] = read_lists_of_int_from_csv(path_to_lists)
+    max_sim_lists: List[List[int]] = []
+
+    similarities = pd.read_csv(path_to_movie_similarities)  # get similarities for list_of_lists
+
+    for list in list_of_lists:
+        max_sim_list: List[int] = []
+        remaining_items: List[int] = list.copy()
+        max_sim_list.append(list[0])  # add first movie to max_sim_list
+
+        print(max_sim_list)
+        print(remaining_items)
+
+        del remaining_items[0]  # remove first item of list from remaining items
+        for items_added in range(1, len(list)):  # iterate list from second item to last
+            print(f"adding item {items_added}")
+            max_sim_list = add_item_to_list_max_ILS(max_sim_list, remaining_items, similarities, SimilarityMethod.MEAN)
+            print(max_sim_list)
+            exit()
+            remaining_items.remove(max_sim_list[-1])  # remove last item added to max_sim_list from remaining_items
+        max_sim_lists.append(max_sim_list)  # add max_sim_list to max_sim_lists
+
+    return max_sim_lists
 
 
 def write_ILS_df_from_list_of_ids(list_name: ListNames,
