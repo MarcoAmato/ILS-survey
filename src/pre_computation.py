@@ -217,7 +217,7 @@ def write_top_n_movies_by_popularity(n: int, path: str) -> None:
     write_movie_ids_to_csv(top_n_movies_ids, path)
 
 
-def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str, path_to_write: str) -> None:
+def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str, path_to_write: str) -> DataFrame:
     """
     Writes similarities of movies in path_to_movies to path_to_write
     :param path_to_movies: path to movie ids
@@ -241,6 +241,8 @@ def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str,
 
     similarities_of_movies.to_csv(path_to_write, index=False)
     print("write_similarities_of_movies done")
+
+    return similarities_of_movies
 
 
 def write_top_100_mpg() -> None:
