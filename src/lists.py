@@ -13,27 +13,33 @@ from src.similarities_util import PATH_TO_DATA_FOLDER, read_lists_of_int_from_cs
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
 
 
-class ListNames(Enum):  # enum of list paths
+class ListsNames(Enum):  # enum of possible lists
     HAND_MADE = "hand_made/"
     HAND_MADE_CLUSTERS = "hand_made_clusters/"
     INCREASING_ILD = "increasing_ILD/"
     BATMAN = "batman/"
     MAX_NEIGHBOURS = "max_neighbours/"
 
-    def get_path_folder(self) -> str:
-        return PATH_TO_MOVIES_LIST_FOLDER + self.value
+
+class MoviesLists:
+    list_name: str
+    path_to_folder: str
+
+    def __init__(self, list_name: ListsNames):
+        self.list_name = list_name.name
+        self.path_to_folder = PATH_TO_MOVIES_LIST_FOLDER + list_name.value
 
     def get_path_lists(self) -> str:
-        return self.get_path_folder() + "lists.csv"
+        return self.path_to_folder + "lists.csv"
 
     def get_path_similarities(self) -> str:
-        return self.get_path_folder() + "similarities.csv"
+        return self.path_to_folder + "similarities.csv"
 
     def get_path_ids(self) -> str:
-        return self.get_path_folder() + "ids.csv"
+        return self.path_to_folder + "ids.csv"
 
     def get_path_dataframe_lists(self) -> str:
-        return self.get_path_folder() + "dataframe_lists.csv"
+        return self.path_to_folder + "dataframe_lists.csv"
 
     def get_list_of_lists(self) -> List[List[int]]:
         return read_lists_of_int_from_csv(self.get_path_lists())
@@ -90,11 +96,11 @@ class ListNames(Enum):  # enum of list paths
         print("print_lists_in_file_ILS done")
 
 
-def maximize_similarity_neighbors_lists(list_name: ListNames) -> List[List[int]]:
+def maximize_similarity_neighbors_lists(list_name: MoviesLists) -> List[List[int]]:
     """
     Returns the list ListNames, where every list is ordered by maximizing the ILS of neighbours
     @param list_name: list to order
-    @type list_name: ListNames
+    @type list_name: MoviesLists
     @return: the list ListNames, where every list is ordered by maximizing the ILS of neighbours
     @rtype: List[List[int]]
     """

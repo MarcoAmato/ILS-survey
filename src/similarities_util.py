@@ -678,7 +678,7 @@ def print_random_movies_ILS() -> None:
     """
     print("random_movies_ILS starts...")
     id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
-    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MPG_SIMILARITIES)
+    similarity_df: DataFrame = get_similarity_dataframe(PATH_TO_SIM_100_MP2G_SIMILARITIES)
     df_ILS_lists: DataFrame = DataFrame()  # dataframe of ils measurements for every list of movies
 
     index_of_lists: int = 0
@@ -765,77 +765,3 @@ def get_dataframe_of_movie_lists(lists_of_movies: List[List[int]],
 
 def matrix_to_list(matrix: List[List]) -> List:
     return [item for sublist in matrix for item in sublist]
-
-
-# def print_lists_in_file_ILS() -> None:
-#     """
-#     Reads the lists of movies written in data/lists_of_movies and computes then plots ils.
-#     """
-#     # Needs to be redone, stop
-#     exit()
-#
-#     print("print_lists_in_file_ILS starts...")
-#
-#     # read lists of movies from file
-#     lists_of_similar_movies: List[List[int]] = \
-#         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "similar_movies.csv")
-#     lists_of_random_movies: List[List[int]] = \
-#         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "random_movies.csv")
-#     lists_of_hand_made_movies: List[List[int]] = \
-#         read_lists_of_int_from_csv(PATH_TO_MOVIES_LIST_FOLDER + "lists.csv")
-#
-#     # lambda to convert the matrix of movies to a list
-#
-#     similar_movies_ids: List[int] = matrix_to_list(lists_of_similar_movies)  # ids of similar movies
-#     random_movies_ids: List[int] = matrix_to_list(lists_of_random_movies)  # ids of random movies
-#     hand_made_movies_ids: List[int] = matrix_to_list(lists_of_hand_made_movies)  # ids of hand-made movies
-#
-#     # make set then list to remove duplicated
-#     all_movies_needed: List[int] = list(set(similar_movies_ids + random_movies_ids + hand_made_movies_ids))
-#
-#     print("reading similarities big...")
-#     similarities_big: DataFrame = get_similarity_dataframe(PATH_TO_SIMILARITY_MP2G)
-#     print("reading similarities big done")
-#
-#     print("getting necessary similarities...")
-#     similarities_needed: DataFrame = get_similarities_with_condition(similarities_big,
-#                                                                      all_movies_needed,
-#                                                                      does_row_contain_movies)
-#     print("necessary similarities gotten")
-#
-#     # dataframe of ILS measurements for lists of similar movies
-#     df_ILS_similar_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_similar_movies,
-#                                                                     similarities_needed,
-#                                                                     PATH_TO_TOP_100_SIMILARITIES_JSON)
-#
-#     # dataframe of ILS measurements for lists of random movies
-#     df_ILS_random_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_random_movies,
-#                                                                    similarities_needed,
-#                                                                    PATH_TO_TOP_100_JSON)
-#
-#     df_ILS_hand_made_movies: DataFrame = get_dataframe_of_movie_lists(lists_of_hand_made_movies,
-#                                                                       similarities_needed,
-#                                                                       PATH_TO_JSON)
-#
-#     plot_ILS_lists([df_ILS_similar_movies, df_ILS_random_movies, df_ILS_hand_made_movies],
-#                    ['m', 'p', 'p2', 'g', 'pg', 'p2g'])
-#
-#     print("lists_in_file_ILS done")
-
-
-# def print_pre_computed_list(list_name: str) -> None:
-#     """
-#     Plots the list in data/lists_of_movies/'list_name'. This list should have been pre computed by a function in
-#     pre_computation.py
-#     @param list_name: name of sub-folder in data/lists_of_movies/ that contains the list data
-#     @type list_name: str
-#     """
-#     print("print_lists_in_file_ILS starts...")
-#
-#     path_to_folder: str = PATH_TO_MOVIES_LIST_FOLDER + list_name + "/"
-#
-#     movies_ILS_df: DataFrame = pd.read_csv(path_to_folder + "dataframe_lists.csv")  # get dataframe of ils
-#
-#     plot_ILS_with_label(movies_ILS_df, ['m', 'g'])
-#
-#     print("print_lists_in_file_ILS done")

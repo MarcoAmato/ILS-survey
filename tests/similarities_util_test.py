@@ -2,7 +2,7 @@ from typing import List
 
 from pandas import DataFrame
 
-from src.lists import ListNames
+from src.lists import MoviesLists
 from src.similarities_util import read_lists_of_int_from_csv, PATH_TO_DATA_FOLDER, get_movies_df_from_json_folder, \
     PATH_TO_TOP_100_JSON, get_movies_with_name, PATH_TO_JSON, get_movies_df_from_json_folder_where_name_in_title, \
     convert_tbdb_to_movieId, get_similarities_with_condition, get_similarity_dataframe, does_row_contain_movies, \
@@ -54,4 +54,4 @@ def test_get_similarities_with_condition():
 
 
 if __name__ == "__main__":
-    ListNames.MAX_NEIGHBOURS.pre_compute(LABEL_HAND_MADE)
+    MoviesLists.MAX_NEIGHBOURS.pre_compute(LABEL_HAND_MADE)

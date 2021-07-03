@@ -1,7 +1,7 @@
 from typing import Optional
 
 import src.similarities_util as sim
-from src.lists import ListNames
+from src.lists import MoviesLists, ListsNames
 
 if __name__ == "__main__":
     while True:
@@ -27,14 +27,17 @@ if __name__ == "__main__":
         elif command_inserted == 3:
             sim.print_random_movies_ILS()
         elif command_inserted == 4:
-            # ListNames.HAND_MADE.
-            sim.print_pre_computed_list("hand_made")
+            hand_made_movies: MoviesLists = MoviesLists(ListsNames.HAND_MADE)
+            hand_made_movies.plot()
         elif command_inserted == 5:
-            sim.print_pre_computed_list("increasing_ILD")
+            increasing_ILD: MoviesLists = MoviesLists(ListsNames.INCREASING_ILD)
+            increasing_ILD.plot()
         elif command_inserted == 6:
-            sim.print_pre_computed_list("hand_made_clusters")
+            hand_made_clusters: MoviesLists = MoviesLists(ListsNames.HAND_MADE_CLUSTERS)
+            hand_made_clusters.plot()
         elif command_inserted == 7:
-            sim.print_pre_computed_list("batman")
+            batman: MoviesLists = MoviesLists(ListsNames.BATMAN)
+            batman.plot()
         elif command_inserted == -1:
             break
         else:
