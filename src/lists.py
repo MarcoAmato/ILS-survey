@@ -8,7 +8,8 @@ from pandas import DataFrame
 
 from src.pre_computation import write_movie_ids_to_csv, write_similarities_of_movies, add_item_to_list_max_ILS
 from src.similarities_util import PATH_TO_DATA_FOLDER, read_lists_of_int_from_csv, matrix_to_list, \
-    get_dataframe_of_movie_lists, PATH_TO_JSON, PATH_TO_SIMILARITY_MP2G, SimilarityMethod, plot_ILS_with_label
+    get_dataframe_of_movie_lists, PATH_TO_JSON, PATH_TO_SIMILARITY_MP2G, SimilarityMethod, plot_ILS_with_label, \
+    read_movie_ids_from_csv
 
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
 
@@ -25,8 +26,9 @@ class ListsNames(Enum):  # enum of possible lists
 class MoviesLists:
     list_name: str
     path_to_folder: str
-    similarities: DataFrame
     lists: List[List[int]]
+    ids: List[int]
+    similarities: DataFrame
     dataframe_lists: DataFrame
     labels: List[str]
 
@@ -34,8 +36,14 @@ class MoviesLists:
         self.list_name = list_name.name
         self.labels = labels
         self.path_to_folder = PATH_TO_MOVIES_LIST_FOLDER + list_name.value
-        self.similarities = pd.read_csv(self.get_path_similarities())
+        # if error is thrown here lists.csv was not set
         self.lists = read_lists_of_int_from_csv(self.get_path_lists())
+        try:
+            self.__set_pre_computed_data()  # if the precomputed data is not available error is thrown
+        except IOError:
+            print("Computing lists data...")  # so we compute it before going forward
+            self.pre_compute()
+        self.__set_pre_computed_data()
 
     def get_path_lists(self) -> str:
         return self.path_to_folder + "lists.csv"
@@ -49,8 +57,10 @@ class MoviesLists:
     def get_path_dataframe_lists(self) -> str:
         return self.path_to_folder + "dataframe_lists.csv"
 
-    def get_dataframe_lists(self) -> DataFrame:
-        return pd.read_csv(self.get_path_dataframe_lists())
+    def __set_pre_computed_data(self):
+        self.ids = read_movie_ids_from_csv(self.get_path_ids())
+        self.similarities = pd.read_csv(self.get_path_similarities())
+        self.dataframe_lists = pd.read_csv(self.get_path_dataframe_lists())
 
     def write_lists(self, list_of_lists: List[List[int]]) -> None:
         if not os.path.exists(self.get_path_lists()):  # if lists.csv does not exist
@@ -69,29 +79,27 @@ class MoviesLists:
         list_of_ids: List[int] = list(set(matrix_to_list(self.lists)))  # convert to list of ids
         write_movie_ids_to_csv(list_of_ids, self.get_path_ids())
 
+        self.ids = list_of_ids
+
     def write_similarities(self):
-        similarities = write_similarities_of_movies(PATH_TO_SIMILARITY_MP2G, self.get_path_ids(),
-                                                    self.get_path_similarities())
+        similarities = write_similarities_of_movies(PATH_TO_SIMILARITY_MP2G, movies=self.ids,
+                                                    path_to_write=self.get_path_similarities())
 
         self.similarities = similarities
 
-    def write_dataframe_lists(self, list_of_lists: List[List[int]], labels: Optional[List[str]] = None):
-        dataframe_lists = get_dataframe_of_movie_lists(list_of_lists, self.similarities, PATH_TO_JSON)
-        if labels is not None:
-            dataframe_lists["label"] = labels
+    def write_dataframe_lists(self):
+        dataframe_lists = get_dataframe_of_movie_lists(self.lists, self.similarities, PATH_TO_JSON)
         dataframe_lists.to_csv(self.get_path_dataframe_lists())
 
         self.dataframe_lists = dataframe_lists
 
-    def pre_compute(self, labels: Optional[List[str]] = None) -> None:
-        if os.path.exists(self.get_path_lists()):  # if lists of list exist
-            list: List[List[int]] = self.lists
+    def pre_compute(self) -> None:
+        if self.lists is not None:  # if lists exist
             self.write_ids()
             self.write_similarities()
-            if labels is None:
-                labels = range(len(list))  # if labels not set, labels = [0,1,..,len(list_of_lists)]
-            self.write_dataframe_lists(list_of_lists=list,
-                                       labels=labels)
+            if self.labels is None:
+                self.labels = list(range(len(self.lists)))  # if labels not set, labels = [0,1,..,len(list_of_lists)]
+            self.write_dataframe_lists()
 
     def plot(self) -> None:
         """
@@ -99,9 +107,7 @@ class MoviesLists:
         """
         print("print_lists_in_file_ILS starts...")
 
-        dataframe_lists: DataFrame = self.get_dataframe_lists()
-
-        plot_ILS_with_label(dataframe_lists, ['m', 'g'])
+        plot_ILS_with_label(self.dataframe_lists, ['m', 'g'])
 
         print("print_lists_in_file_ILS done")
 
@@ -119,16 +125,16 @@ class RandomMoviesLists(MoviesLists):
         """
 
 
-def maximize_similarity_neighbors_lists(list_name: MoviesLists) -> List[List[int]]:
+def maximize_similarity_neighbors_lists(movies_list: MoviesLists) -> List[List[int]]:
     """
     Returns the list ListNames, where every list is ordered by maximizing the ILS of neighbours
-    @param list_name: list to order
-    @type list_name: MoviesLists
+    @param movies_list: list to order
+    @type movies_list: MoviesLists
     @return: the list ListNames, where every list is ordered by maximizing the ILS of neighbours
     @rtype: List[List[int]]
     """
-    list_of_lists: List[List[int]] = list_name.get_list_of_lists()
-    similarities: DataFrame = list_name.get_similarities()  # get similarities for list_of_lists
+    list_of_lists: List[List[int]] = movies_list.lists
+    similarities: DataFrame = movies_list.similarities  # get similarities for list_of_lists
 
     max_sim_lists: List[List[int]] = []
 

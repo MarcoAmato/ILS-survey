@@ -217,16 +217,27 @@ def write_top_n_movies_by_popularity(n: int, path: str) -> None:
     write_movie_ids_to_csv(top_n_movies_ids, path)
 
 
-def write_similarities_of_movies(path_to_similarities: str, path_to_movies: str, path_to_write: str) -> DataFrame:
+def write_similarities_of_movies(path_to_similarities: str,
+                                 path_to_write: str,
+                                 path_to_movies: Optional[str] = None,
+                                 movies: Optional[List[int]] = None
+                                 ) -> DataFrame:
     """
     Writes similarities of movies in path_to_movies to path_to_write
     :param path_to_movies: path to movie ids
     :param path_to_write: path to write the similarities
     :param path_to_similarities: path to similarity measurements
+    :param movies: if specified avoids reading of file
     """
     print("write_similarities_of_movies starts...")
     # list of movie ids whose similarity we have to look for. convert to set to remove duplicates
-    list_of_movies: List[int] = list(set(read_movie_ids_from_csv(path_to_movies)))
+    if movies is not None:
+        list_of_movies: List[int] = list(set(movies))  # if movies specified uses the DF
+    else:
+        if path_to_movies is not None:
+            list_of_movies: List[int] = list(set(read_movie_ids_from_csv(path_to_movies)))
+        else:
+            raise ValueError("Expected either path_to_movies or movies as a parameter, received none")
 
     print("reading similarities dataframe...")
     similarities: DataFrame = get_similarity_dataframe(path_to_similarities)
