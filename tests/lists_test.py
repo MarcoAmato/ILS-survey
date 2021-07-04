@@ -9,8 +9,8 @@ PATH_TO_DATAFRAME_LISTS_TEST = PATH_TO_TEST_LIST + "dataframe_lists.csv"
 
 
 def test_plot():
-    hand_made_movies: MoviesLists = MoviesLists(ListsNames.HAND_MADE)
-    hand_made_movies.plot()
+    test_list = MoviesLists(ListsNames.TEST)
+    test_list.plot()
 
 
 def test_pre_compute_lists():
@@ -21,9 +21,8 @@ def test_pre_compute_lists():
         os.remove(PATH_TO_IDS_TEST)
     if os.path.exists(PATH_TO_DATAFRAME_LISTS_TEST):
         os.remove(PATH_TO_DATAFRAME_LISTS_TEST)
-    test_list = MoviesLists(ListsNames.TEST)
-    test_list.plot()
+    test_plot()
 
 
 if __name__ == "__main__":
-    test_pre_compute_lists()
+    test_plot()
