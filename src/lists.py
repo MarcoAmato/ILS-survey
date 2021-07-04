@@ -1,4 +1,5 @@
 # lists of movies folders
+import ast
 import os
 from enum import Enum
 from typing import List, Optional
@@ -21,6 +22,7 @@ class ListsNames(Enum):  # enum of possible lists
     BATMAN = "batman/"
     MAX_NEIGHBOURS = "max_neighbours/"
     RANDOM_10 = "random_10/"
+    RANDOM_3 = "random_3/"
     TEST = "test/"
 
 
@@ -33,11 +35,17 @@ class MoviesLists:
     dataframe_lists: DataFrame
     labels: List[str]
 
-    def __init__(self, list_name: ListsNames, labels: Optional[List[str]] = None):
+    def __init__(self, list_name: ListsNames,
+                 lists: Optional[List[List[int]]] = None,
+                 labels: Optional[List[str]] = None):
         self.list_name = list_name.name
         self.path_to_folder = PATH_TO_MOVIES_LIST_FOLDER + list_name.value
-        # if error is thrown here lists.csv was not set
-        self.lists = read_lists_of_int_from_csv(self.get_path_lists())
+        # if error is thrown here lists.csv was not set and error stops file execution
+        if lists is not None:
+            self.write_lists(lists)  # write list on dataframe
+            self.lists = lists  # set list
+        else:
+            self.lists = read_lists_of_int_from_csv(self.get_path_lists())  # lists should be taken from csv
         if labels is not None:
             self.labels = labels
         else:
@@ -99,8 +107,6 @@ class MoviesLists:
 
     def pre_compute(self) -> None:
         if len(self.lists) > 0:  # if lists exist
-            print(self.lists)
-            exit()
             self.write_ids()
             self.write_similarities()
             if self.labels is None:
@@ -127,17 +133,34 @@ class RandomMoviesLists(MoviesLists):
         else:
             super().__init__(list_name)
 
-    def write_top_middle_bottom_lists(self):
+    def write_top_middle_bottom_lists(self) -> MoviesLists:
         """
-        Writes the top, middle, bottom list from the lists ordered by ILS, to the RANDOM_3 list
+        Writes the top, middle, bottom list from the lists ordered by ILS, to the RANDOM_3 list and returns object
         """
         df_sorted = self.dataframe_lists.sort_values("m")  # get lists sorted by mean ILS
-        bottom_list = df_sorted.iloc[0].ids
-        top_list = df_sorted.iloc[df_sorted.shape[0]].ids
-        print(bottom_list)
-        print(top_list)
-        print(df_sorted)
-        exit()
+        list_of_ids = df_sorted.ids.tolist()  # list of ids sorted by ascending mean (elements are strings)
+        list_of_ids_int: List[List[int]] = []  # need to convert elements to lists of ints
+
+        for list_str in list_of_ids:
+            list_converted = convert_string_to_list_of_int(list_str)
+            list_of_ids_int.append(list_converted)
+
+        bottom_list = list_of_ids_int[0]
+        middle_list = list_of_ids_int[(len(list_of_ids_int) - 1) // 2]  # take middle item in list
+        top_list = list_of_ids_int[-1]
+
+        top_middle_bottom_list: List[List[int]] = [bottom_list, middle_list, top_list]  # create new list of lists
+
+        random_3 = MoviesLists(ListsNames.RANDOM_3, lists=top_middle_bottom_list, labels=["bottom", "middle", "top"])
+
+        return random_3
+
+
+def convert_string_to_list_of_int(string: str) -> List[int]:
+    brackets_removed = string.strip("[]")  # remove brackets
+    string_to_list = brackets_removed.split(",")  # list of strings where string is the number
+    list_to_int = list(map(int, string_to_list))  # convert elements to actual ints
+    return list_to_int
 
 
 def maximize_similarity_neighbors_lists(movies_list: MoviesLists) -> List[List[int]]:
