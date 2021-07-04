@@ -9,7 +9,7 @@ from pandas import DataFrame
 from src.pre_computation import write_movie_ids_to_csv, write_similarities_of_movies, add_item_to_list_max_ILS
 from src.similarities_util import PATH_TO_DATA_FOLDER, read_lists_of_int_from_csv, matrix_to_list, \
     get_dataframe_of_movie_lists, PATH_TO_JSON, PATH_TO_SIMILARITY_MP2G, SimilarityMethod, plot_ILS_with_label, \
-    read_movie_ids_from_csv, plot_ILS_lists
+    read_movie_ids_from_csv
 
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
 
@@ -44,10 +44,10 @@ class MoviesLists:
             self.labels = list(range(0, len(self.lists)))  # if labels not set insert number placeholder
         try:
             self.__set_pre_computed_data()  # if the precomputed data is not available error is thrown
-        except IOError:
+        except FileNotFoundError:
             print("Computing lists data...")  # so we compute it before going forward
             self.pre_compute()
-        self.__set_pre_computed_data()
+            self.__set_pre_computed_data()
 
     def get_path_lists(self) -> str:
         return self.path_to_folder + "lists.csv"
@@ -98,12 +98,16 @@ class MoviesLists:
         self.dataframe_lists = dataframe_lists
 
     def pre_compute(self) -> None:
-        if self.lists is not None:  # if lists exist
+        if len(self.lists) > 0:  # if lists exist
+            print(self.lists)
+            exit()
             self.write_ids()
             self.write_similarities()
             if self.labels is None:
                 self.labels = list(range(len(self.lists)))  # if labels not set, labels = [0,1,..,len(list_of_lists)]
             self.write_dataframe_lists()
+        else:
+            raise ValueError("lists.csv is empty, pre computation failed")
 
     def plot(self) -> None:
         """
@@ -118,7 +122,7 @@ class MoviesLists:
 
 class RandomMoviesLists(MoviesLists):
     def __init__(self, list_name: ListsNames):
-        if list_name.name != ListsNames.RANDOM_10:
+        if list_name.name != ListsNames.RANDOM_10.name:
             raise ValueError("RandomMoviesLists list_name should be RANDOM_10")
         else:
             super().__init__(list_name)
@@ -127,6 +131,13 @@ class RandomMoviesLists(MoviesLists):
         """
         Writes the top, middle, bottom list from the lists ordered by ILS, to the RANDOM_3 list
         """
+        df_sorted = self.dataframe_lists.sort_values("m")  # get lists sorted by mean ILS
+        bottom_list = df_sorted.iloc[0].ids
+        top_list = df_sorted.iloc[df_sorted.shape[0]].ids
+        print(bottom_list)
+        print(top_list)
+        print(df_sorted)
+        exit()
 
 
 def maximize_similarity_neighbors_lists(movies_list: MoviesLists) -> List[List[int]]:
