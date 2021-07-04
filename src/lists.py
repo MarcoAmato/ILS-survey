@@ -126,7 +126,7 @@ class MoviesLists:
         """
         print("print_lists_in_file_ILS starts...")
 
-        plot_ILS_with_label(self.dataframe_lists, ['m', 'g'])
+        plot_ILS_with_label(self.dataframe_lists, ['m'])
 
         print("print_lists_in_file_ILS done")
 

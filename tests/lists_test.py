@@ -30,4 +30,4 @@ def test_write_top_middle_bottom():
 
 
 if __name__ == "__main__":
-    test_write_top_middle_bottom()
+    MoviesLists(ListsNames.RANDOM_3, labels=["bottom", "middle", "top"]).plot()
