@@ -9,7 +9,7 @@ from pandas import DataFrame
 from src.pre_computation import write_movie_ids_to_csv, write_similarities_of_movies, add_item_to_list_max_ILS
 from src.similarities_util import PATH_TO_DATA_FOLDER, read_lists_of_int_from_csv, matrix_to_list, \
     get_dataframe_of_movie_lists, PATH_TO_JSON, PATH_TO_SIMILARITY_MP2G, SimilarityMethod, plot_ILS_with_label, \
-    read_movie_ids_from_csv
+    read_movie_ids_from_csv, plot_ILS_lists
 
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
 
@@ -21,6 +21,7 @@ class ListsNames(Enum):  # enum of possible lists
     BATMAN = "batman/"
     MAX_NEIGHBOURS = "max_neighbours/"
     RANDOM_10 = "random_10/"
+    TEST = "test/"
 
 
 class MoviesLists:
@@ -34,10 +35,13 @@ class MoviesLists:
 
     def __init__(self, list_name: ListsNames, labels: Optional[List[str]] = None):
         self.list_name = list_name.name
-        self.labels = labels
         self.path_to_folder = PATH_TO_MOVIES_LIST_FOLDER + list_name.value
         # if error is thrown here lists.csv was not set
         self.lists = read_lists_of_int_from_csv(self.get_path_lists())
+        if labels is not None:
+            self.labels = labels
+        else:
+            self.labels = list(range(0, len(self.lists)))  # if labels not set insert number placeholder
         try:
             self.__set_pre_computed_data()  # if the precomputed data is not available error is thrown
         except IOError:

@@ -618,11 +618,14 @@ def plot_ILS_with_label(df_ILS: DataFrame, ILS_measures: List[str]) -> None:
     @param ILS_measures: name of measures to consider, these names should be columns in the dfs in df_ILS_lists.
     @type ILS_measures: List[str]
     """
-    # if label is present show label for every x value
+    try:
+        labels = df_ILS['label']  # if label is present show label for every x value
+    except KeyError:
+        labels = list(range(0, df_ILS.shape[0]))  # labels will be numbers from 0 to num_of_lists
 
     for measure in ILS_measures:
         # scatter plot of measure with label
-        plt.scatter(x=df_ILS['label'], y=df_ILS[measure])
+        plt.scatter(x=labels, y=df_ILS[measure])
     plt.ylabel("ILS value")
     plt.xlabel("List label")
     plt.axhline(y=MEAN_OF_RANDOM_ILS)  # insert horizontal line of mean of ILS value for random lists
