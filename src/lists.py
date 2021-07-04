@@ -1,5 +1,5 @@
 # lists of movies folders
-import ast
+import itertools
 import os
 from enum import Enum
 from typing import List, Optional
@@ -10,7 +10,7 @@ from pandas import DataFrame
 from src.pre_computation import write_movie_ids_to_csv, write_similarities_of_movies, add_item_to_list_max_ILS
 from src.similarities_util import PATH_TO_DATA_FOLDER, read_lists_of_int_from_csv, matrix_to_list, \
     get_dataframe_of_movie_lists, PATH_TO_JSON, PATH_TO_SIMILARITY_MP2G, SimilarityMethod, plot_ILS_with_label, \
-    read_movie_ids_from_csv
+    read_movie_ids_from_csv, get_random_movies
 
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
 
@@ -40,16 +40,16 @@ class MoviesLists:
                  labels: Optional[List[str]] = None):
         self.list_name = list_name.name
         self.path_to_folder = PATH_TO_MOVIES_LIST_FOLDER + list_name.value
-        # if error is thrown here lists.csv was not set and error stops file execution
+
         if lists is not None:
             self.write_lists(lists)  # write list on dataframe
             self.lists = lists  # set list
+            self.__set_label(labels)  # set labels
+            self.pre_compute()  # recompute data
         else:
             self.lists = read_lists_of_int_from_csv(self.get_path_lists())  # lists should be taken from csv
-        if labels is not None:
-            self.labels = labels
-        else:
-            self.labels = list(range(0, len(self.lists)))  # if labels not set insert number placeholder
+            self.__set_label(labels)
+
         try:
             self.__set_pre_computed_data()  # if the precomputed data is not available error is thrown
         except FileNotFoundError:
@@ -73,6 +73,12 @@ class MoviesLists:
         self.ids = read_movie_ids_from_csv(self.get_path_ids())
         self.similarities = pd.read_csv(self.get_path_similarities())
         self.dataframe_lists = pd.read_csv(self.get_path_dataframe_lists())
+
+    def __set_label(self, labels=None):
+        if labels is not None:
+            self.labels = labels
+        else:
+            self.labels = list(range(0, len(self.lists)))  # if labels not set insert number placeholder
 
     def write_lists(self, list_of_lists: List[List[int]]) -> None:
         if not os.path.exists(self.get_path_lists()):  # if lists.csv does not exist
@@ -101,6 +107,7 @@ class MoviesLists:
 
     def write_dataframe_lists(self):
         dataframe_lists = get_dataframe_of_movie_lists(self.lists, self.similarities, PATH_TO_JSON)
+        dataframe_lists['label'] = self.labels  # set label
         dataframe_lists.to_csv(self.get_path_dataframe_lists())
 
         self.dataframe_lists = dataframe_lists
@@ -109,8 +116,6 @@ class MoviesLists:
         if len(self.lists) > 0:  # if lists exist
             self.write_ids()
             self.write_similarities()
-            if self.labels is None:
-                self.labels = list(range(len(self.lists)))  # if labels not set, labels = [0,1,..,len(list_of_lists)]
             self.write_dataframe_lists()
         else:
             raise ValueError("lists.csv is empty, pre computation failed")
@@ -126,12 +131,18 @@ class MoviesLists:
         print("print_lists_in_file_ILS done")
 
 
-class RandomMoviesLists(MoviesLists):
-    def __init__(self, list_name: ListsNames):
-        if list_name.name != ListsNames.RANDOM_10.name:
-            raise ValueError("RandomMoviesLists list_name should be RANDOM_10")
+class Random10Lists(MoviesLists):
+    def __init__(self, list_name: ListsNames, recreate: bool = False):
+        if list_name.name == ListsNames.RANDOM_10.name:
+            if recreate:
+                new_random_lists = []
+                for _ in itertools.repeat(None, 10):  # for 10 times (slightly faster than 'for i in range')
+                    new_random_lists.append(get_random_movies(7))
+                super().__init__(list_name, lists=new_random_lists)
+            else:
+                super().__init__(list_name)
         else:
-            super().__init__(list_name)
+            raise ValueError("RandomMoviesLists list_name should be RANDOM_10")
 
     def write_top_middle_bottom_lists(self) -> MoviesLists:
         """

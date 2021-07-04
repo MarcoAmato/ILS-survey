@@ -1,6 +1,6 @@
 import os
 
-from src.lists import MoviesLists, ListsNames, PATH_TO_MOVIES_LIST_FOLDER, RandomMoviesLists
+from src.lists import MoviesLists, ListsNames, PATH_TO_MOVIES_LIST_FOLDER, Random10Lists
 
 PATH_TO_TEST_LIST = PATH_TO_MOVIES_LIST_FOLDER + "test/"
 PATH_TO_SIMILARITIES_TEST = PATH_TO_TEST_LIST + "similarities.csv"
@@ -25,7 +25,7 @@ def test_pre_compute_lists():
 
 
 def test_write_top_middle_bottom():
-    random_10 = RandomMoviesLists(ListsNames.RANDOM_10)
+    random_10 = Random10Lists(ListsNames.RANDOM_10, recreate=True)
     random_10.write_top_middle_bottom_lists()
 
 

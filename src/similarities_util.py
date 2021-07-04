@@ -675,6 +675,17 @@ def print_similar_movies_ILS() -> None:
     print("random_movies_ILS done")
 
 
+def get_random_movies(number_of_movies: int) -> List[int]:
+    """
+    Return number_of_movies random movies from top 100
+    @param number_of_movies: number of movies to sample
+    @type number_of_movies: int
+    """
+    id_movies_top_100: List[int] = read_movie_ids_from_csv(PATH_TO_TOP_100_MOVIES_ID)
+    random_ids: List[int] = random.sample(id_movies_top_100, number_of_movies)
+    return random_ids
+
+
 def print_random_movies_ILS() -> None:
     """
     Asks the user a number n, then computes ILS taking n random movies from top 100
