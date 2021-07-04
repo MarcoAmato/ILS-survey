@@ -391,18 +391,6 @@ def write_dataframe_ILS(lists_of_ids: List[List[int]],
     df_ILS.to_csv(path_to_write)
 
 
-# def write_list_of_ids_from_list_of_lists(list_of_lists: List[List[int]], path_to_write: str):
-#     """
-#     Writes the ids in list_of_lists as a Series, in path_to_write
-#     @param list_of_lists: List of lists whose ids to write
-#     @type list_of_lists: List[List[int]]
-#     @param path_to_write: path to write
-#     @type path_to_write: str
-#     """
-#     list_of_ids: List[int] = list(set(matrix_to_list(list_of_lists)))  # convert to list
-#     write_movie_ids_to_csv(list_of_ids, path_to_write)
-
-
 def add_item_to_list_max_ILS(list_to_maximize: List[int],
                              items_to_choose: List[int],
                              similarity_df: DataFrame,
