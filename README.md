@@ -2,20 +2,14 @@ Abstract
 =======
 Given a dataset of movies information and another dataset of similarity measurements between each movie, the goal of this project is creating lists of movies in various ways, and measuring the ILS of those.
 
-The lists can be created in the following ways:
-1) By manually entering the ids of the movies
-2) By extracting a random movie from the top 100 and then adding all the similar movies. These similar movies are found in the column "similar" of the json file of the selected movie. 
-3) By creating a list of random items from the top 100. The user will provide the number of random items for the list.
-4) By computing the ILS for the lists of movies in data/lists_of_movies.csv. This file will contain lists of ids in the following format:
-    - Every line contains a list of number characters separated by comma, each one representing an id
-    - The end of line signs the end of a list
-    
-    Example of a valid list_of_movies.csv:
+Inside the folder data/lists_of_movies there are various folders, each one corresponding to a series of lists retrieved in a particular manner.
+Inside each folder in data/lists_of_movies there are the following .csv files:
+- **lists.csv** series of lists of movies, where each list is a series of ids of movies separated by commas. The different lists separate between each other by a new line.
+- **ids.csv** ids of all the movies contained in the various lists in *lists.csv*
+- **similarities.csv** dataframe which contains [Plot:LDA,Plot:cos,Genre:Jacc,similarity] pairwise similarities for all the for the movies in ids.csv. 
+N.B The column "similarity" represents the mean of all similarity measurements for the two movies
+- **dataframe_lists.csv** Dataframe where each row contains a list of movies and the corresponding ILS via [Genre:Jacc, Plot:LDA, Plot:cos, mean similarity] for the movies. There is also a label for every movie, this will be displayed in the plot.
 
-
-    1,64,5,8
-    6,3,98,125
-    9,54,65,3,7,5,12,41,98,27,93
 
 N.B.
 - We will refer to a dataframe called similarity_mpg.
@@ -46,13 +40,12 @@ What it does:
 Setup completed
 ------
 
-Generate lists with ILS
+Generate ILS plots for lists
 ======
 Once set up the correct dataset, you can run the file **__main__.py**
 
-- You are asked to select a method to create the list. These methods are indicated in the Abstract section.
-- The ILS of the list generated is computed and printed in the following ways:
-    - mean of similarity measurements
-    - Plot:LDA
-    - Genre:JACC
-    - mean of Plot:LDA and Genre:JACC
+You are asked to select a list method which plot will be created.
+The plot will follow this standard:
+- The x-axis shows a list of labels for the various lists in the selected method (when explicit labels are missing, a series of numbers from 0 to n will be shown)
+- For each x value (namely, for each list) there is a corresponding dot that has y value equals to the ILS of the list computed by mean similarity.
+- It is shown a blue vertical line that has y equals to the mean of 20 random sampled movies in the top 100 movies by popularity. This serves as a reference point.

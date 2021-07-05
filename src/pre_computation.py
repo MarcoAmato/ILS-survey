@@ -320,6 +320,15 @@ def write_top_100_mp2g_plus_similarities() -> None:
     print("write top 100 mpg plus similarities done")
 
 
+def mpg_main():
+    """
+    Writes the data/top100/similarities_mpg and data/top100_similarities/similarities_mpg.
+    """
+    print("pre computation starts")
+    write_top_100_mpg()
+    write_top_100_mpg_plus_similarities()
+
+
 def mp2g_main():
     """
     Writes the data/top100/similarities_mp2g and data/top100_similarities/similarities_mp2g.
@@ -391,4 +400,5 @@ def write_dataframe_ILS(lists_of_ids: List[List[int]],
 
 
 if __name__ == "__main__":
-    pass
+    mpg_main()
+    mp2g_main()
