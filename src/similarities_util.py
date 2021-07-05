@@ -779,3 +779,26 @@ def get_dataframe_of_movie_lists(lists_of_movies: List[List[int]],
 
 def matrix_to_list(matrix: List[List]) -> List:
     return [item for sublist in matrix for item in sublist]
+
+
+def sort_movies_by_similarity(movies_to_order: List[int], first_movie: int, similarities: DataFrame) -> List[int]:
+    """
+    Returns movies_to_order ordered by similarity to first_movie. The similarities between movies should be found in
+    'similarities', otherwise the movies are put in the end of the list
+    @param movies_to_order:
+    @type movies_to_order:
+    @param first_movie:
+    @type first_movie:
+    @param similarities:
+    @type similarities:
+    """
+    print(first_movie)
+    print(movies_to_order)
+    print(similarities)
+    exit()
+
+    # similarity to first_movie. Missing similarities count as None
+    movies_similarity_dict: Dict[int, Optional[float]] = {}
+    for movie in movies_to_order:
+        # similarity = similarities.loc[]
+        pass

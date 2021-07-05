@@ -10,7 +10,7 @@ from pandas import DataFrame
 from src.pre_computation import write_movie_ids_to_csv, write_similarities_of_movies
 from src.similarities_util import PATH_TO_DATA_FOLDER, read_lists_of_int_from_csv, matrix_to_list, \
     get_dataframe_of_movie_lists, PATH_TO_JSON, PATH_TO_SIMILARITY_MP2G, SimilarityMethod, plot_ILS_with_label, \
-    read_movie_ids_from_csv, get_random_movies, get_ILS
+    read_movie_ids_from_csv, get_random_movies, get_ILS, sort_movies_by_similarity
 
 PATH_TO_MOVIES_LIST_FOLDER: str = PATH_TO_DATA_FOLDER + "lists_of_movies/"
 
@@ -23,6 +23,7 @@ class ListsNames(Enum):  # enum of possible lists
     RECOMMENDATIONS = "recommendations/"
     MAX_NEIGHBOURS = "max_neighbours/"
     MIN_NEIGHBOURS = "min_neighbours/"
+    MAX_DIST_FIRST = "max_dist_first/"
     RANDOM_10 = "random_10/"
     RANDOM_3 = "random_3/"
     TEST = "test/"
@@ -236,6 +237,29 @@ def minimize_similarity_neighbors_lists(movies_list: MoviesLists) -> List[List[i
         max_sim_lists.append(min_sim_list)  # add max_sim_list to max_sim_lists
 
     return max_sim_lists
+
+
+def maximize_distance_of_first(movies_list: MoviesLists) -> List[List[int]]:
+    """
+    Returns the list ListNames, where every list is ordered by having item more similar to the first appearing before
+    @param movies_list: list to order
+    @type movies_list: MoviesLists
+    @return: the list ListNames, where every list is ordered by maximizing the ILS of neighbours
+    @rtype: List[List[int]]
+    """
+    list_of_lists: List[List[int]] = movies_list.lists
+    similarities: DataFrame = movies_list.similarities  # get similarities for list_of_lists
+
+    max_dist_first_lists: List[List[int]] = []
+
+    for list_i in list_of_lists:
+        movies_to_order: List[int] = list_i.copy()  # need to be ordered by similarity to first movie
+        first_movie = list_i[0]
+        movies_to_order.remove(first_movie)  # first movie is removed by list
+        movies_sorted = sort_movies_by_similarity(movies_to_order, first_movie, similarities)
+        max_dist_first_lists.append(movies_sorted)
+
+    return max_dist_first_lists
 
 
 def add_item_to_list_max_ILS(list_to_maximize: List[int],

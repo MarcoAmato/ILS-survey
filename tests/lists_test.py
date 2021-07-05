@@ -2,7 +2,7 @@ import os
 from typing import List
 
 from src.lists import MoviesLists, ListsNames, PATH_TO_MOVIES_LIST_FOLDER, Random10Lists, \
-    minimize_similarity_neighbors_lists, maximize_similarity_neighbors_lists
+    minimize_similarity_neighbors_lists, maximize_similarity_neighbors_lists, maximize_distance_of_first
 
 PATH_TO_TEST_LIST = PATH_TO_MOVIES_LIST_FOLDER + "test/"
 PATH_TO_SIMILARITIES_TEST = PATH_TO_TEST_LIST + "similarities.csv"
@@ -45,5 +45,10 @@ def test_maximize_similarity_recommendations():
     max_neighbours.plot()
 
 
+def test_maximize_distance_to_first_recommendations():
+    maximized: List[List[int]] = maximize_distance_of_first(MoviesLists(ListsNames.RECOMMENDATIONS))
+    MoviesLists(ListsNames.MAX_DIST_FIRST).plot()
+
+
 if __name__ == "__main__":
-    test_maximize_similarity_recommendations()
+    test_maximize_distance_to_first_recommendations()
