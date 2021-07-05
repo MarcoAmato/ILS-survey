@@ -26,6 +26,8 @@ if __name__ == "__main__":
 
         if command_inserted is None:
             print(f"You inserted {value_inserted}, expected an integer number")
+        elif command_inserted == -1:
+            exit()
         elif command_inserted in lists_dict.keys():
             list_name = lists_dict[command_inserted]
             print("You selected list: " + list_name)
