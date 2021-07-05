@@ -14,8 +14,7 @@ from src.similarities_util import get_dataframe_movie_ids_and_similarities, get_
     PATH_TO_SIM_100_MPG_SIMILARITIES, \
     PATH_TO_JSON, PATH_TO_TOP_100_SIMILARITIES_JSON, PATH_TO_SIMILARITY_MP2G, PATH_TO_SIM_100_MP2G, \
     PATH_TO_SIM_100_MP2G_SIMILARITIES, get_genres, \
-    get_similarities_with_condition, does_row_contain_only_movies, get_dataframe_of_movie_lists, get_ILS, \
-    SimilarityMethod
+    get_similarities_with_condition, does_row_contain_only_movies, get_dataframe_of_movie_lists
 
 COLUMNS_MEAN: Set[str] = {"similarity", "validation$r1", "validation$r2"}
 
@@ -389,41 +388,6 @@ def write_dataframe_ILS(lists_of_ids: List[List[int]],
     if labels is not None:
         df_ILS["label"] = labels
     df_ILS.to_csv(path_to_write)
-
-
-def add_item_to_list_max_ILS(list_to_maximize: List[int],
-                             items_to_choose: List[int],
-                             similarity_df: DataFrame,
-                             similarity_method: SimilarityMethod
-                             ) -> Optional[List[int]]:
-    """
-    Returns a list got by adding one element from items_to_choose to list_to_maximize. The item is chosen in order to
-    have ILS maximized.
-    @param similarity_method: Method to compute similarity
-    @type similarity_method: SimilarityMethod
-    @param similarity_df: dataframe of similarity to compute ILS
-    @type similarity_df: DataFrame
-    @param items_to_choose: list of items to choose in order to maximize ILS of list
-    @type items_to_choose: List[int]
-    @param list_to_maximize: list to be maximized
-    @type list_to_maximize: List[int]
-    """
-    max_ILS: float = -1  # max ILS value by adding the remaining items
-    max_item: Optional[int] = None
-    for item in items_to_choose:
-        list_maximized_plus_item = list_to_maximize.copy()
-        list_maximized_plus_item.append(item)
-        ils_i: float = get_ILS(similarity_df, list_maximized_plus_item, similarity_method.value)
-        if ils_i is not None and ils_i > max_ILS:  # if ILS is not computable, skip item
-            max_ILS = ils_i
-            max_item = item
-    if max_item is not None:
-        list_maximized = list_to_maximize + [max_item]  # add item that keeps ils the highest
-        return list_maximized
-    else:
-        # if there are no similarity for the movies, the first item is added
-        list_to_maximize.append(items_to_choose[0])
-        return list_to_maximize
 
 
 if __name__ == "__main__":
