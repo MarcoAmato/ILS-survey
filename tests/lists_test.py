@@ -47,7 +47,7 @@ def test_maximize_similarity_recommendations():
 
 def test_maximize_distance_to_first_recommendations():
     maximized: List[List[int]] = maximize_distance_of_first(MoviesLists(ListsNames.RECOMMENDATIONS))
-    MoviesLists(ListsNames.MAX_DIST_FIRST).plot()
+    MoviesLists(ListsNames.MAX_DIST_FIRST, maximized).plot()
 
 
 if __name__ == "__main__":
