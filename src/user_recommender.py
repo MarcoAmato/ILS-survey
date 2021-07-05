@@ -85,6 +85,7 @@ def get_user_recommendations(user_id: int) -> Optional[List[int]]:
     :return: list of recommended movies_ids
     """
     # ratings_user: DataFrame = get_movies_rated_by_user(user_id)
+    # print(ratings_user[['title', 'genres']])
 
     sorted_similarities = get_similarities_for_user(user_id)
 
@@ -138,7 +139,7 @@ def get_similarities_for_user(user_id):
 
 def get_users_ids() -> List[int]:
     # users are random for now, could be selected differently
-    return random.sample(users, USERS_TO_SAMPLE)
+    return random.sample(list(users), USERS_TO_SAMPLE)
 
 
 def pre_compute(path_to_movies_ids: str):
@@ -165,10 +166,13 @@ def pre_compute(path_to_movies_ids: str):
     movies_new.to_csv(PATH_TO_MOVIES_NEW)
 
 
-if __name__ == '__main__':
+def recommend():
     users_sampled = get_users_ids()
     recommendations: List[List[int]] = []
     for user in users_sampled:
         recommendations.append(get_user_recommendations(user))
-
     print(recommendations)
+
+
+if __name__ == '__main__':
+    recommend()

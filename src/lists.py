@@ -20,6 +20,7 @@ class ListsNames(Enum):  # enum of possible lists
     HAND_MADE_CLUSTERS = "hand_made_clusters/"
     INCREASING_ILD = "increasing_ILD/"
     BATMAN = "batman/"
+    RECOMMENDATIONS = "recommendations/"
     MAX_NEIGHBOURS = "max_neighbours/"
     RANDOM_10 = "random_10/"
     RANDOM_3 = "random_3/"
