@@ -781,7 +781,10 @@ def matrix_to_list(matrix: List[List]) -> List:
     return [item for sublist in matrix for item in sublist]
 
 
-def sort_movies_by_similarity(movies_to_order: List[int], first_movie: int, similarities: DataFrame) -> List[int]:
+def sort_movies_by_similarity(movies_to_order: List[int],
+                              first_movie: int,
+                              similarities: DataFrame
+                              ) -> List[int]:
     """
     Returns movies_to_order ordered by similarity to first_movie. The similarities between movies should be found in
     'similarities', otherwise the movies are put in the end of the list
@@ -792,13 +795,20 @@ def sort_movies_by_similarity(movies_to_order: List[int], first_movie: int, simi
     @param similarities:
     @type similarities:
     """
-    print(first_movie)
-    print(movies_to_order)
-    print(similarities)
-    exit()
-
     # similarity to first_movie. Missing similarities count as None
-    movies_similarity_dict: Dict[int, Optional[float]] = {}
+    movies_similarity_dict: Dict[int, float] = {}
+
     for movie in movies_to_order:
-        # similarity = similarities.loc[]
-        pass
+        similarity_row = similarities[((similarities.movie1 == movie) & (similarities.movie2 == first_movie))
+                                      | ((similarities.movie2 == movie) & (similarities.movie1 == first_movie))]
+        try:
+            similarity_value = similarity_row.iloc[0]["similarity"]
+            movies_similarity_dict[movie] = similarity_value  # set dict of similarity
+        except IndexError:
+            movies_similarity_dict[movie] = -1  # set -1 as missing similarity, so item will be in the end of the list
+
+    # dict of movies ordered by similarity with first_movie
+    movies_ordered_dict = {k: v for k, v in sorted(movies_similarity_dict.items(),
+                                                   key=lambda item: item[1], reverse=True)}
+    movies_ordered: List[int] = list(movies_ordered_dict.keys())  # get movie ids ordered by similarity
+    return movies_ordered
