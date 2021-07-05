@@ -22,6 +22,7 @@ class ListsNames(Enum):  # enum of possible lists
     BATMAN = "batman/"
     RECOMMENDATIONS = "recommendations/"
     MAX_NEIGHBOURS = "max_neighbours/"
+    MIN_NEIGHBOURS = "min_neighbours/"
     RANDOM_10 = "random_10/"
     RANDOM_3 = "random_3/"
     TEST = "test/"

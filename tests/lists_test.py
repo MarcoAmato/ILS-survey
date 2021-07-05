@@ -1,6 +1,8 @@
 import os
+from typing import List
 
-from src.lists import MoviesLists, ListsNames, PATH_TO_MOVIES_LIST_FOLDER, Random10Lists
+from src.lists import MoviesLists, ListsNames, PATH_TO_MOVIES_LIST_FOLDER, Random10Lists, \
+    minimize_similarity_neighbors_lists, maximize_similarity_neighbors_lists
 
 PATH_TO_TEST_LIST = PATH_TO_MOVIES_LIST_FOLDER + "test/"
 PATH_TO_SIMILARITIES_TEST = PATH_TO_TEST_LIST + "similarities.csv"
@@ -29,5 +31,19 @@ def test_write_top_middle_bottom():
     random_10.write_top_middle_bottom_lists()
 
 
+def test_minimize_similarity_recommendations():
+    recommendations: MoviesLists = MoviesLists(ListsNames.RECOMMENDATIONS)
+    list: List[List[int]] = minimize_similarity_neighbors_lists(recommendations)
+    min_neighbours: MoviesLists = MoviesLists(ListsNames.MIN_NEIGHBOURS, list)
+    min_neighbours.plot()
+
+
+def test_maximize_similarity_recommendations():
+    recommendations: MoviesLists = MoviesLists(ListsNames.RECOMMENDATIONS)
+    list: List[List[int]] = maximize_similarity_neighbors_lists(recommendations)
+    max_neighbours: MoviesLists = MoviesLists(ListsNames.MAX_NEIGHBOURS, list)
+    max_neighbours.plot()
+
+
 if __name__ == "__main__":
-    MoviesLists(ListsNames.RECOMMENDATIONS).plot()
+    test_maximize_similarity_recommendations()
