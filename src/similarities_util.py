@@ -629,6 +629,7 @@ def plot_ILS_with_label(df_ILS: DataFrame, ILS_measures: List[str]) -> None:
     plt.ylabel("ILS value")
     plt.xlabel("List label")
     plt.axhline(y=MEAN_OF_RANDOM_ILS)  # insert horizontal line of mean of ILS value for random lists
+    plt.ylim(bottom=MEAN_OF_RANDOM_ILS-0.1)
     plt.show()
 
 
