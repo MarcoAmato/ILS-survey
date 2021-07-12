@@ -257,7 +257,7 @@ def maximize_distance_of_first(movies_list: MoviesLists) -> List[List[int]]:
         first_movie = list_i[0]
         movies_to_order.remove(first_movie)  # first movie is removed by list
         movies_sorted = sort_movies_by_similarity(movies_to_order, first_movie, similarities)
-        max_dist_first_lists.append(movies_sorted)
+        max_dist_first_lists.append([first_movie] + movies_sorted)
 
     return max_dist_first_lists
 
